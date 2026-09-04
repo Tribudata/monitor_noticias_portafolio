@@ -13,16 +13,17 @@ import re
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://www.portafolio.co/"
 
+# prefijo: la ruta que deben tener los enlaces para contar como de esa sección.
 SECCIONES = {
-    "Economía": "https://www.portafolio.co/economia",
-    "Negocios": "https://www.portafolio.co/negocios",
+    "Economía": {"url": "https://www.portafolio.co/economia", "prefijo": "/economia/"},
+    "Negocios": {"url": "https://www.portafolio.co/negocios", "prefijo": "/negocios/"},
 }
 
 MAX_POR_SECCION = 60
@@ -63,40 +64,52 @@ def descargar(url: str) -> str:
     return r.text
 
 
-def extraer(html: str) -> list:
+def extraer(html: str, prefijo: str) -> list:
+    """Recorre todos los titulares de la página y se queda con los de la sección.
+
+    No exige que exista un <article data-name>: Portafolio lo genera en unos
+    bloques y en otros no. El filtro real es la ruta del enlace, que además
+    descarta el contenido patrocinado (/contenido-patrocinado/).
+    """
     sopa = BeautifulSoup(html, "lxml")
     items = []
     urls_vistas = set()
 
-    for art in sopa.select("article[data-name]"):
-        if es_patrocinado(art):
-            continue
+    enlaces = sopa.select(
+        "h3.c-articulo__titulo a[href], h2.c-articulo__titulo a[href], "
+        "a.c-articulo__titulo__txt[href]"
+    )
 
-        enlace = art.select_one("h3.c-articulo__titulo a.c-articulo__titulo__txt")
-        if not enlace:
-            enlace = art.select_one("h3.c-articulo__titulo a")
-        if not enlace:
-            continue
-
+    for enlace in enlaces:
         titulo = limpiar(enlace.get_text())
         href = enlace.get("href") or ""
         if not titulo or not href:
             continue
 
         url = enlace.get("data-mrf-link") or urljoin(BASE, href)
+        ruta = urlparse(url).path
+        if not ruta.startswith(prefijo):
+            continue
         if url in urls_vistas:
             continue
+
+        art = enlace.find_parent("article")
+        if art is not None and es_patrocinado(art):
+            continue
+
         urls_vistas.add(url)
 
-        resumen = art.select_one("p.c-article__subtitle a")
+        resumen = art.select_one("p.c-article__subtitle a") if art is not None else None
+        partes = [p for p in ruta.split("/") if p]
+        subseccion = partes[1].replace("-", " ").capitalize() if len(partes) > 2 else ""
 
         items.append({
             "titulo": titulo,
             "url": url,
             "resumen": limpiar(resumen.get_text()) if resumen else "",
-            "autor": limpiar(art.get("data-redactorvisible", "")),
-            "subseccion": limpiar(art.get("data-subseccion", "")),
-            "publicacion": limpiar(art.get("data-publicacion", "")),
+            "autor": limpiar(art.get("data-redactorvisible", "")) if art is not None else "",
+            "subseccion": limpiar(art.get("data-subseccion", "")) if art is not None else "" or subseccion,
+            "publicacion": limpiar(art.get("data-publicacion", "")) if art is not None else "",
         })
 
     return items
@@ -155,9 +168,9 @@ def main() -> int:
     nuevo = {}
     fallos = 0
 
-    for seccion, url in SECCIONES.items():
+    for seccion, cfg in SECCIONES.items():
         try:
-            items = extraer(descargar(url))
+            items = extraer(descargar(cfg["url"]), cfg["prefijo"])
         except requests.RequestException as e:
             print(f"{seccion}: no se pudo descargar ({e})", file=sys.stderr)
             nuevo[seccion] = []
