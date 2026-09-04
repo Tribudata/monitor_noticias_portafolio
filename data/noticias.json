@@ -1,9 +1,18 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-04T16:44:30-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-04T18:44:05-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alcalde de Cartagena pide tumbar resolución de la Creg que sanciona el mayor consumo de energía: 'es nefasta'",
+        "url": "https://www.portafolio.co/economia/regiones/alcalde-de-cartagena-pide-tumbar-resolucion-de-la-creg-que-sanciona-el-mayor-consumo-de-energia-es-nefasta-501878",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T18:44:05-05:00"
+      },
       {
         "titulo": "Gasolina promedia $15.886 por galón mientras el Gobierno enfrenta el costo fiscal del Fepc",
         "url": "https://www.portafolio.co/economia/finanzas/gasolina-promedia-15-886-por-galon-mientras-el-gobierno-enfrenta-el-costo-fiscal-del-fepc-501870",
@@ -204,6 +213,33 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Elizabeth Rey liderará la integración regional de Citi en los mercados de Perú, Chile, Ecuador y Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/elizabeth-rey-liderara-la-integracion-regional-de-citi-en-los-mercados-de-peru-chile-ecuador-y-colombia-501883",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T18:44:05-05:00"
+      },
+      {
+        "titulo": "Micromercados sin empleados ni cajeros llegan a Colombia con tecnología para compras las 24 horas del día",
+        "url": "https://www.portafolio.co/negocios/empresas/micromercados-sin-empleados-ni-cajeros-llegan-a-colombia-con-tecnologia-para-compras-las-24-horas-del-dia-501880",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T18:44:05-05:00"
+      },
+      {
+        "titulo": "La salud mental se convierte en un reto para las empresas: el 72% de los colaboradores teme impactos en su carrera",
+        "url": "https://www.portafolio.co/negocios/empresas/la-salud-mental-se-convierte-en-un-reto-para-las-empresas-el-72-de-los-colaboradores-teme-impactos-en-su-carrera-501868",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T18:44:05-05:00"
+      },
       {
         "titulo": "HPE ofrece a Oracle 4,15 millones de acciones a un centavo si cumple metas de compras para IA",
         "url": "https://www.portafolio.co/negocios/empresas/hpe-ofrece-a-oracle-4-15-millones-de-acciones-a-un-centavo-si-cumple-metas-de-compras-para-ia-501875",
