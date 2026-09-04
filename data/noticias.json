@@ -1,9 +1,45 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-04T14:43:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-04T16:44:30-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gasolina promedia $15.886 por galón mientras el Gobierno enfrenta el costo fiscal del Fepc",
+        "url": "https://www.portafolio.co/economia/finanzas/gasolina-promedia-15-886-por-galon-mientras-el-gobierno-enfrenta-el-costo-fiscal-del-fepc-501870",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
+      {
+        "titulo": "‘Queremos volver a mover US$7.000 millones con Venezuela y sumar un punto del PIB en cuatro años’",
+        "url": "https://www.portafolio.co/economia/gobierno/queremos-volver-a-mover-us-7-000-millones-con-venezuela-y-sumar-un-punto-del-pib-en-cuatro-anos-501864",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
+      {
+        "titulo": "Subsidio de arriendo en Bogotá: así puede recibir hasta $1,08 millones mensuales por seis meses",
+        "url": "https://www.portafolio.co/economia/regiones/subsidio-de-arriendo-en-bogota-asi-puede-recibir-hasta-1-08-millones-mensuales-por-seis-meses-501866",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
+      {
+        "titulo": "Terremoto restaría 0,11 puntos al PIB de Colombia en 2026, pero reconstrucción impulsaría la economía en 2027",
+        "url": "https://www.portafolio.co/economia/terremoto-restaria-0-11-puntos-al-pib-de-colombia-en-2026-pero-reconstruccion-impulsaria-la-economia-en-501865",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
       {
         "titulo": "Avianca le habría avisado a Petro seis días antes sobre cancelación de tiquetes a México por estar en lista Clinton",
         "url": "https://www.portafolio.co/economia/gobierno/a-petro-le-cancelaron-el-tiquete-a-mexico-por-estar-en-la-lista-ofac-avianca-le-habria-avisado-seis-dias-antes-501857",
@@ -168,6 +204,24 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "HPE ofrece a Oracle 4,15 millones de acciones a un centavo si cumple metas de compras para IA",
+        "url": "https://www.portafolio.co/negocios/empresas/hpe-ofrece-a-oracle-4-15-millones-de-acciones-a-un-centavo-si-cumple-metas-de-compras-para-ia-501875",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
+      {
+        "titulo": "Jaime Gilinski apareció en Caracas con Delcy Rodríguez, tras concretarse acuerdo petrolero con Venezuela",
+        "url": "https://www.portafolio.co/negocios/empresas/jaime-gilinski-aparecio-en-caracas-con-la-presidenta-rodriguez-tras-concretarse-acuerdo-petrolero-con-venezuela-501872",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T16:44:30-05:00"
+      },
       {
         "titulo": "Totto transforma sus tiendas en Colombia: así será la nueva experiencia para sus clientes",
         "url": "https://www.portafolio.co/negocios/comercio/totto-transforma-sus-tiendas-en-colombia-asi-sera-la-nueva-experiencia-para-sus-clientes-501860",
