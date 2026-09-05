@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-05T14:15:36-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-05T16:29:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -266,6 +266,16 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Subida del 27% en treinta días para la acción de Collective Mining por hallazgo de tungsteno y avances de Apollo",
+        "url": "https://www.portafolio.co/negocios/empresas/hallazgo-de-tungsteno-y-avances-de-apollo-elevan-27-la-accion-de-collective-mining-en-un-mes-501907",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Hallazgo de tungsteno y avances de Apollo elevan 27% la acción de Collective Mining en un mes",
+        "capturado": "2026-09-05T16:29:58-05:00"
+      },
       {
         "titulo": "Inconvenientes de Volkswagen alcanzan a Ducati y Roma alista estrategia para salvaguardar la firma",
         "url": "https://www.portafolio.co/negocios/empresas/crisis-de-volkswagen-salpica-a-ducati-italia-prepara-una-ofensiva-para-proteger-su-emblematica-marca-de-motos-501898",
