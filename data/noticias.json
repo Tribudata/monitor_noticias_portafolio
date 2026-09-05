@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-05T09:39:00-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-05T12:09:52-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Mandatario De La Espriella solicita al Ministerio de Relaciones Exteriores evaluar pasaporte para coreano",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-pide-a-cancilleria-revisar-solicitud-de-nacionalidad-colombiana-de-influencer-coreano-501897",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Presidente De La Espriella pide a Cancillería revisar solicitud de nacionalidad colombiana de influencer coreano",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
+      {
+        "titulo": "Mandatario nariñense contesta a De La Espriella que negociaciones correspondieron al poder central",
+        "url": "https://www.portafolio.co/economia/gobierno/gobiernador-de-narino-responde-a-de-la-espriella-dialogos-fueron-competencia-del-gobierno-nacional-501899",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Gobernador de Nariño responde a De La Espriella: diálogos fueron competencia del Gobierno Nacional",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
+      {
+        "titulo": "Es productor de café y sufragará? Aspectos esenciales para tener en cuenta previo a los comicios",
+        "url": "https://www.portafolio.co/economia/agro/es-cafetero-y-va-a-votar-estas-son-las-claves-que-debe-conocer-antes-de-las-elecciones-de-este-fin-de-semana-501894",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "¿Es cafetero y va a votar? Estas son las claves que debe conocer antes de las elecciones de este fin de semana",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
+      {
+        "titulo": "Municipios medianos apoyan acción estatal en el Catatumbo tras atentado con aeronaves no tripuladas",
+        "url": "https://www.portafolio.co/economia/regiones/asointermedias-respalda-ofensiva-en-el-catatumbo-tras-ataque-con-drones-contra-base-militar-501895",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Ciudades intermedias respaldan ofensiva del Gobierno en el Catatumbo tras ataque con drones contra base militar",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio revaluada afecta a vendedores externos, mas administración De La Espriella descarta accionar",
+        "url": "https://www.portafolio.co/economia/gobierno/hacienda-no-intervendra-el-dolar-pese-al-golpe-del-peso-fuerte-esta-es-su-apuesta-para-los-exportadores-501893",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Peso fuerte pone contra las cuerdas a exportadores, pero gobierno De La Espriella descarta intervenir el dólar",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
       {
         "titulo": "Jóvenes Milagro llegará a 700 municipios para impulsar proyectos productivos en zonas rurales",
         "url": "https://www.portafolio.co/economia/gobierno/jovenes-milagro-llegara-a-700-municipios-para-impulsar-proyectos-productivos-en-zonas-rurales-501891",
@@ -186,6 +236,16 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Inconvenientes de Volkswagen alcanzan a Ducati y Roma alista estrategia para salvaguardar la firma",
+        "url": "https://www.portafolio.co/negocios/empresas/crisis-de-volkswagen-salpica-a-ducati-italia-prepara-una-ofensiva-para-proteger-su-emblematica-marca-de-motos-501898",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Crisis de Volkswagen salpica a Ducati: Italia prepara una ofensiva para proteger su emblemática marca de motos",
+        "capturado": "2026-09-05T12:09:52-05:00"
+      },
       {
         "titulo": "Atlético Nacional ficha a trii como reciente sponsor enfocado en promover la educación financiera",
         "url": "https://www.portafolio.co/negocios/empresas/atletico-nacional-suma-a-trii-como-nuevo-patrocinador-con-apuesta-por-la-educacion-financiera-501886",
