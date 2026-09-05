@@ -38,7 +38,7 @@ API_MODELO = "gemini-3.5-flash"
 API_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
            f"{API_MODELO}:generateContent")
 API_CLAVE = os.environ.get("GEMINI_API_KEY", "")
-LOTE = 15        # titulares por llamada
+LOTE = 6        # titulares por llamada
 REINTENTOS = 4   # ante 429/503, que son transitorios
 
 INSTRUCCION = """Reformula cada titular de prensa económica colombiana con
