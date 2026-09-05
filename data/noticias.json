@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-05T12:09:52-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-05T14:15:36-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno de De la Espriella acorrala a las EPS: cerrarán las que no funcionen",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-pone-a-las-eps-contra-las-cuerdas-las-que-no-sean-viables-seran-liquidadas-501904",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Gobierno de De la Espriella pone a las EPS contra las cuerdas: las que no sean viables serán liquidadas",
+        "capturado": "2026-09-05T14:15:36-05:00"
+      },
+      {
+        "titulo": "Administración de De La Espriella elimina el Minigualdad fundado por Petro",
+        "url": "https://www.portafolio.co/economia/gobierno/administracion-de-de-la-espriella-ejecuta-el-adios-al-minigualdad-creado-por-el-gobierno-petro-501900",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Administración de De La Espriella ejecuta el 'adiós' al Minigualdad, creado por el gobierno Petro",
+        "capturado": "2026-09-05T14:15:36-05:00"
+      },
+      {
+        "titulo": "Ana Lucía Pineda transformó el cargo de Primera Dama al dirigir la ayuda estatal tras el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/ana-lucia-pineda-del-bajo-perfil-a-liderar-la-respuesta-social-del-gobierno-tras-la-emergencia-por-el-terremoto-501902",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Ana Lucía Pineda dio un giro al rol de Primera Dama al lidera ayuda social del Gobierno tras el terremoto",
+        "capturado": "2026-09-05T14:15:36-05:00"
+      },
       {
         "titulo": "Mandatario De La Espriella solicita al Ministerio de Relaciones Exteriores evaluar pasaporte para coreano",
         "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-pide-a-cancilleria-revisar-solicitud-de-nacionalidad-colombiana-de-influencer-coreano-501897",
