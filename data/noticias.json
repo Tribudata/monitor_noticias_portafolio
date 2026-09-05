@@ -1,9 +1,331 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-04T21:32:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-04T21:36:18-05:00",
+  "nuevos_en_esta_corrida": 32,
   "secciones": {
-    "Economía": [],
-    "Negocios": []
+    "Economía": [
+      {
+        "titulo": "Elsa Noguera revela estrategia de Mintransporte para consolidar puertos caribeños y sus ejes centrales",
+        "url": "https://www.portafolio.co/economia/infraestructura/elsa-noguera-anuncia-plan-de-mintransporte-para-fortalecer-los-puertos-del-caribe-estas-son-las-apuestas-clave-501888",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Elsa Noguera anuncia plan de Mintransporte para fortalecer los puertos del Caribe: estas son las apuestas clave",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Mandatario de Cartagena solicita anular norma de la Creg que penaliza alto consumo eléctrico",
+        "url": "https://www.portafolio.co/economia/regiones/alcalde-de-cartagena-pide-tumbar-resolucion-de-la-creg-que-sanciona-el-mayor-consumo-de-energia-es-nefasta-501878",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Alcalde de Cartagena pide tumbar resolución de la Creg que sanciona el mayor consumo de energía: 'es nefasta'",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Precio del galón de gasolina llega a $15.886 y el Ejecutivo afronta el impacto fiscal del Fepc",
+        "url": "https://www.portafolio.co/economia/finanzas/gasolina-promedia-15-886-por-galon-mientras-el-gobierno-enfrenta-el-costo-fiscal-del-fepc-501870",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Gasolina promedia $15.886 por galón mientras el Gobierno enfrenta el costo fiscal del Fepc",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Buscan reactivar comercio por US$7.000 millones con Venezuela y ganar un punto del PIB en un bienio",
+        "url": "https://www.portafolio.co/economia/gobierno/queremos-volver-a-mover-us-7-000-millones-con-venezuela-y-sumar-un-punto-del-pib-en-cuatro-anos-501864",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "‘Queremos volver a mover US$7.000 millones con Venezuela y sumar un punto del PIB en cuatro años’",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Ayuda para alquiler en Bogotá: obtenga hasta $1,08 millones al mes por un periodo de medio año",
+        "url": "https://www.portafolio.co/economia/regiones/subsidio-de-arriendo-en-bogota-asi-puede-recibir-hasta-1-08-millones-mensuales-por-seis-meses-501866",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Subsidio de arriendo en Bogotá: así puede recibir hasta $1,08 millones mensuales por seis meses",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Sismo restaría 0,11 puntos al PIB colombiano en 2026, mas obras de rescate dinamizarían el PIB en 2027",
+        "url": "https://www.portafolio.co/economia/terremoto-restaria-0-11-puntos-al-pib-de-colombia-en-2026-pero-reconstruccion-impulsaria-la-economia-en-501865",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Terremoto restaría 0,11 puntos al PIB de Colombia en 2026, pero reconstrucción impulsaría la economía en 2027",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Avianca habría alertado a Petro seis días antes de anular pasajes a México por figurar en lista Clinton",
+        "url": "https://www.portafolio.co/economia/gobierno/a-petro-le-cancelaron-el-tiquete-a-mexico-por-estar-en-la-lista-ofac-avianca-le-habria-avisado-seis-dias-antes-501857",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Avianca le habría avisado a Petro seis días antes sobre cancelación de tiquetes a México por estar en lista Clinton",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "BD Bacatá: el conflicto del gran proyecto de renovación urbana surgido como el mayor reto bogotano",
+        "url": "https://www.portafolio.co/economia/infraestructura/bd-bacata-del-megaproyecto-financiado-con-fidis-al-fallo-por-950-millones-que-sera-apelado-501859",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "BD Bacatá: el lío que envuelve al megaproyecto de renovación urbana que nació como el más ambicioso de Bogotá",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "La estrategia gubernamental para el sismo depende de una alimentación escolar previamente en crisis",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-plan-del-gobierno-para-el-terremoto-se-apoya-en-un-programa-de-alimentacion-escolar-que-ya-estaba-en-crisis-501846",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "El plan del Gobierno para el terremoto se apoya en un programa de alimentación escolar que ya estaba en crisis",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Acusan a Bogotá de elevar 276% contratación local en agosto durante trámite de la reforma tributaria",
+        "url": "https://www.portafolio.co/economia/regiones/denuncian-que-bogota-disparo-276-la-contratacion-local-en-agosto-mientras-avanza-la-reforma-tributaria-501855",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Denuncian que Bogotá disparó 276% la contratación local en agosto mientras avanza la reforma tributaria",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Kala, firma de IA en crédito digital, colocó títulos por 195.000 millones de pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/kala-compania-nativa-de-inteligencia-artificial-de-credito-digital-emitio-titulos-por-195-000-millones-501851",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Kala, compañía nativa de inteligencia artificial de crédito digital, emitió títulos por $195.000 millones",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "De qué manera evoluciona el transporte",
+        "url": "https://www.portafolio.co/economia/regiones/como-se-esta-transformando-la-movilidad-501843",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Cómo se está transformando la movilidad",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "El déficit fiscal supera la meta y aleja a Colombia de la regla, dificultando el ajuste del Ejecutivo",
+        "url": "https://www.portafolio.co/economia/crecimiento/colombia-se-aleja-de-la-regla-fiscal-deficit-sigue-por-encima-de-la-senda-prevista-y-complica-ajuste-del-gobierno-501841",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Colombia se aleja de la regla fiscal: déficit sigue por encima de la senda prevista y complica ajuste del Gobierno",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "En el último año, el 71 por ciento de los colombianos sufrió intentos de fraude y el 46 por ciento fue estafado",
+        "url": "https://www.portafolio.co/economia/finanzas/el-71-de-colombianos-enfrento-intentos-de-fraude-durante-el-ultimo-ano-y-46-reporto-una-estafa-consumada-501838",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "El 71% de colombianos enfrentó intentos de fraude durante el último año y 46% reportó una estafa consumada",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Hacienda señala herencia fiscal del Gobierno Petro con más gasto, mayor deuda y menor inversión en el país",
+        "url": "https://www.portafolio.co/economia/gobierno/la-mala-herencia-fiscal-que-hacienda-atribuye-al-gobierno-petro-mas-gasto-deuda-y-menor-inversion-en-colombia-501836",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "La ‘mala herencia’ fiscal que Hacienda atribuye al Gobierno Petro: más gasto, deuda y menor inversión en Colombia",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Doce vencimientos tributarios en septiembre inquietan a empresas y contribuyentes frente a la Dian",
+        "url": "https://www.portafolio.co/economia/impuestos/septiembre-concentra-12-vencimientos-tributarios-y-pone-en-alerta-a-empresas-y-contribuyentes-ante-la-dian-501831",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Septiembre concentra 12 vencimientos tributarios y pone en alerta a empresas y contribuyentes ante la Dian",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      }
+    ],
+    "Negocios": [
+      {
+        "titulo": "Atlético Nacional ficha a trii como reciente sponsor enfocado en promover la educación financiera",
+        "url": "https://www.portafolio.co/negocios/empresas/atletico-nacional-suma-a-trii-como-nuevo-patrocinador-con-apuesta-por-la-educacion-financiera-501886",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Atlético Nacional suma a trii como nuevo patrocinador con apuesta por la educación financiera",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Director ejecutivo de Addi, único connacional galardonado por Fast Company por su IA",
+        "url": "https://www.portafolio.co/negocios/empresas/ceo-de-addi-unico-colombiano-reconocido-por-la-revista-fast-company-por-su-trabajo-con-inteligencia-artificial-501884",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "CEO de Addi, único colombiano reconocido por la revista Fast Company por su trabajo con inteligencia artificial",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Elizabeth Rey, de Colombia, estará al frente de la unificación regional de Citi en cuatro países",
+        "url": "https://www.portafolio.co/negocios/empresas/elizabeth-rey-liderara-la-integracion-regional-de-citi-en-los-mercados-de-peru-chile-ecuador-y-colombia-501883",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Colombiana Elizabeth Rey liderará la integración regional de Citi en cuatro mercados de Sudamérica",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Tiendas autónomas sin personal ni cajeros arriban al país con sistemas para adquirir productos todo el día",
+        "url": "https://www.portafolio.co/negocios/empresas/micromercados-sin-empleados-ni-cajeros-llegan-a-colombia-con-tecnologia-para-compras-las-24-horas-del-dia-501880",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Micromercados sin empleados ni cajeros llegan a Colombia con tecnología para compras las 24 horas del día",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Bienestar emocional se vuelve desafío empresarial: 72% de empleados teme efectos en su trayectoria",
+        "url": "https://www.portafolio.co/negocios/empresas/la-salud-mental-se-convierte-en-un-reto-para-las-empresas-el-72-de-los-colaboradores-teme-impactos-en-su-carrera-501868",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "La salud mental se convierte en un reto para las empresas: el 72% de los colaboradores teme impactos en su carrera",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "HPE cede a Oracle 4,15 millones de títulos a un centavo al alcanzar objetivos de compra para IA",
+        "url": "https://www.portafolio.co/negocios/empresas/hpe-ofrece-a-oracle-4-15-millones-de-acciones-a-un-centavo-si-cumple-metas-de-compras-para-ia-501875",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "HPE ofrece a Oracle 4,15 millones de acciones a un centavo si cumple metas de compras para IA",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Jaime Gilinski estuvo en Caracas junto a Delcy Rodríguez tras concretarse el acuerdo petrolero con Venezuela",
+        "url": "https://www.portafolio.co/negocios/empresas/jaime-gilinski-aparecio-en-caracas-con-la-presidenta-rodriguez-tras-concretarse-acuerdo-petrolero-con-venezuela-501872",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Jaime Gilinski apareció en Caracas con Delcy Rodríguez, tras concretarse acuerdo petrolero con Venezuela",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Totto renueva sus puntos de venta en Colombia con una nueva experiencia para los consumidores",
+        "url": "https://www.portafolio.co/negocios/comercio/totto-transforma-sus-tiendas-en-colombia-asi-sera-la-nueva-experiencia-para-sus-clientes-501860",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Totto transforma sus tiendas en Colombia: así será la nueva experiencia para sus clientes",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Auteco Blue acapara el 80% del mercado de camiones eléctricos con menos de 1000 unidades vendidas",
+        "url": "https://www.portafolio.co/negocios/vehiculo/auteco-blue-abarca-el-80-de-ventas-de-camiones-electricos-con-menos-de-1-000-unidades-ahi-esta-la-oportunidad-501861",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Auteco Blue abarca el 80% de ventas de camiones eléctricos con menos de 1.000 unidades: 'ahí está la oportunidad'",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Los detalles del servicio de conectividad premium de Tesla en Colombia que dejará de ser gratis",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-letra-pequena-del-servicio-de-conectividad-premium-que-tesla-ofrece-en-colombia-ya-no-tendra-costo-cero-501854",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "La 'letra pequeña' del servicio de conectividad premium que Tesla ofrece en Colombia: ya no tendrá costo cero",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Estos son los centros comerciales favoritos de los bogotanos para el año 2026 según encuesta",
+        "url": "https://www.portafolio.co/negocios/comercio/estos-son-los-centros-comerciales-preferidos-de-bogota-en-2026-segun-consulta-a-los-ciudadanos-501848",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Estos son los centros comerciales preferidos de Bogotá en 2026, según consulta a los ciudadanos",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Codirectora del Banco de la República advierte sobre el incremento repentino de las importaciones",
+        "url": "https://www.portafolio.co/negocios/comercio/codirectora-del-banco-de-la-republica-prende-las-alertas-por-el-salto-de-las-importaciones-501853",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Codirectora del Banco de la República prende las alertas por el salto de las importaciones",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Amcham señala que paso de Marco Rubio por el país generaría inversión norteamericana y menos aranceles",
+        "url": "https://www.portafolio.co/negocios/comercio/visita-de-marco-rubio-a-colombia-podria-traer-alivio-arancelario-y-mas-inversion-de-ee-uu-amcham-501849",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Visita de Marco Rubio a Colombia podría traer alivio arancelario y más inversión de EE. UU.: Amcham",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Manejar inteligencia artificial supera a lo técnico como competencia con mayor auge laboral en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/la-habilidad-laboral-que-mas-crece-en-colombia-ya-no-es-tecnica-es-saber-trabajar-con-inteligencia-artificial-501835",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "La habilidad laboral que más crece en Colombia ya no es técnica: es saber trabajar con inteligencia artificial",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "Estados Unidos contemplaría quitar arancel del 12,5 por ciento a ventas nacionales, igual que a Ecuador",
+        "url": "https://www.portafolio.co/negocios/comercio/arancel-de-12-5-a-exportaciones-colombianas-podria-desaparecer-esto-se-sabe-501834",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "EE. UU. estaría dispuesto a eliminar arancel de 12,5% a exportaciones colombianas, con trato similar al de Ecuador",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      },
+      {
+        "titulo": "De esta manera se edificó en Bogotá el Macondo digital para el segundo ciclo de Netflix sobre Cien años de soledad",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-se-construyo-el-macondo-digital-de-cien-anos-de-soledad-desde-bogota-para-la-segunda-temporada-de-netflix-501827",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Así se construyó el Macondo digital de Cien años de soledad desde Bogotá para la segunda temporada de Netflix",
+        "capturado": "2026-09-04T21:36:18-05:00"
+      }
+    ]
   }
 }
