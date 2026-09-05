@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-05T16:29:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-05T18:12:48-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno descarta fusil Jaguar de Petro y halla déficit de 120.000 armas en las Fuerzas Armadas",
+        "url": "https://www.portafolio.co/economia/gobierno/fusil-jaguar-de-petro-queda-fuera-gobierno-revela-deficit-de-120-000-armas-en-las-fuerzas-armadas-501913",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Fusil Jaguar de Petro queda fuera: Gobierno revela déficit de 120.000 armas en las Fuerzas Armadas",
+        "capturado": "2026-09-05T18:12:48-05:00"
+      },
+      {
+        "titulo": "Hacienda admite 9,6 billones no presupuestados del FEPC que presionan el déficit fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/el-fepc-le-suma-presion-al-deficit-fiscal-hacienda-reconoce-9-6-billones-que-antes-no-estaban-presupuestados-501912",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "El FEPC le suma presión al déficit fiscal: Hacienda reconoce $9,6 billones que antes no estaban presupuestados",
+        "capturado": "2026-09-05T18:12:48-05:00"
+      },
       {
         "titulo": "Gobierno de De la Espriella acorrala a las EPS: cerrarán las que no funcionen",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-pone-a-las-eps-contra-las-cuerdas-las-que-no-sean-viables-seran-liquidadas-501904",
@@ -266,6 +286,16 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El desafío para los comercios por las tasas de interés y la inminente decisión del Banco de la República",
+        "url": "https://www.portafolio.co/negocios/comercio/tasas-de-interes-el-reto-que-enfrentan-los-comercios-ante-la-proxima-decision-del-banco-de-la-republica-501909",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-05",
+        "titulo_fuente": "Tasas de interés: el reto que enfrentan los comercios ante la próxima decisión del Banco de la República",
+        "capturado": "2026-09-05T18:12:48-05:00"
+      },
       {
         "titulo": "Subida del 27% en treinta días para la acción de Collective Mining por hallazgo de tungsteno y avances de Apollo",
         "url": "https://www.portafolio.co/negocios/empresas/hallazgo-de-tungsteno-y-avances-de-apollo-elevan-27-la-accion-de-collective-mining-en-un-mes-501907",
