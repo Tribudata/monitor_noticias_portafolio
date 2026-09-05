@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-04T22:06:04-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-05T02:48:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Consulte y baje la versión virtual de Portafolio para el fin de semana del 5 y 6 de septiembre",
+        "url": "https://www.portafolio.co/economia/gobierno/vea-y-descargue-la-edicion-digital-de-portafolio-de-este-fin-de-semana-del-5-y-6-de-septiembre-501890",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-04",
+        "titulo_fuente": "Vea y descargue la edición digital de Portafolio de este fin de semana del 5 y 6 de septiembre",
+        "capturado": "2026-09-05T02:48:13-05:00"
+      },
       {
         "titulo": "Elsa Noguera revela estrategia de Mintransporte para consolidar puertos caribeños y sus ejes centrales",
         "url": "https://www.portafolio.co/economia/infraestructura/elsa-noguera-anuncia-plan-de-mintransporte-para-fortalecer-los-puertos-del-caribe-estas-son-las-apuestas-clave-501888",
