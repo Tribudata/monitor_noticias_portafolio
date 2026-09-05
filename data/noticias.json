@@ -1,9 +1,18 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-04T18:44:05-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-04T21:16:56-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Elsa Noguera anuncia plan de Mintransporte para fortalecer los puertos del Caribe: estas son las apuestas clave",
+        "url": "https://www.portafolio.co/economia/infraestructura/elsa-noguera-anuncia-plan-de-mintransporte-para-fortalecer-los-puertos-del-caribe-estas-son-las-apuestas-clave-501888",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T21:16:56-05:00"
+      },
       {
         "titulo": "Alcalde de Cartagena pide tumbar resolución de la Creg que sanciona el mayor consumo de energía: 'es nefasta'",
         "url": "https://www.portafolio.co/economia/regiones/alcalde-de-cartagena-pide-tumbar-resolucion-de-la-creg-que-sanciona-el-mayor-consumo-de-energia-es-nefasta-501878",
@@ -214,7 +223,25 @@
     ],
     "Negocios": [
       {
-        "titulo": "Elizabeth Rey liderará la integración regional de Citi en los mercados de Perú, Chile, Ecuador y Colombia",
+        "titulo": "Atlético Nacional suma a trii como nuevo patrocinador con apuesta por la educación financiera",
+        "url": "https://www.portafolio.co/negocios/empresas/atletico-nacional-suma-a-trii-como-nuevo-patrocinador-con-apuesta-por-la-educacion-financiera-501886",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T21:16:56-05:00"
+      },
+      {
+        "titulo": "CEO de Addi, único colombiano reconocido por la revista Fast Company por su trabajo con inteligencia artificial",
+        "url": "https://www.portafolio.co/negocios/empresas/ceo-de-addi-unico-colombiano-reconocido-por-la-revista-fast-company-por-su-trabajo-con-inteligencia-artificial-501884",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-04",
+        "capturado": "2026-09-04T21:16:56-05:00"
+      },
+      {
+        "titulo": "Colombiana Elizabeth Rey liderará la integración regional de Citi en cuatro mercados de Sudamérica",
         "url": "https://www.portafolio.co/negocios/empresas/elizabeth-rey-liderara-la-integracion-regional-de-citi-en-los-mercados-de-peru-chile-ecuador-y-colombia-501883",
         "resumen": "",
         "autor": "Javier acosta",
