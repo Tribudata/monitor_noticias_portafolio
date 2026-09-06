@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T14:24:38-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-06T16:33:28-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ministerio Público solicita indagar a trece exdirectivos por situación de la Nueva EPS con Guillermo Jaramillo",
+        "url": "https://www.portafolio.co/economia/gobierno/procuraduria-pide-investigar-a-13-exfuncionarios-por-crisis-de-la-nueva-eps-entre-ellos-esta-guillermo-jaramillo-501937",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Procuraduría pide investigar a 13 exfuncionarios por crisis de la Nueva EPS: entre ellos está Guillermo Jaramillo",
+        "capturado": "2026-09-06T16:33:28-05:00"
+      },
+      {
+        "titulo": "Sismo en Colombia: esquema armenio que serviría para guiar la restauración vial",
+        "url": "https://www.portafolio.co/economia/infraestructura/terremoto-en-colombia-el-modelo-de-armenia-que-podria-orientar-la-reconstruccion-de-infraestructura-501935",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Terremoto en Colombia: el modelo de Armenia que podría orientar la reconstrucción de infraestructura",
+        "capturado": "2026-09-06T16:33:28-05:00"
+      },
+      {
+        "titulo": "Roy Barreras confirma su salida como cabeza de la izquierda y afirma no más política",
+        "url": "https://www.portafolio.co/economia/regiones/no-mas-politica-los-dejo-descansar-roy-barreras-anuncio-su-retiro-como-lider-de-la-izquierda-501933",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "'¡No más política! Los dejo descansar': Roy Barreras anunció su retiro como líder de la izquierda",
+        "capturado": "2026-09-06T16:33:28-05:00"
+      },
       {
         "titulo": "Gobierno Nacional pretende modificar estos aspectos del Sistema General de Regalías",
         "url": "https://www.portafolio.co/economia/gobierno/sistema-general-de-regalias-estos-son-los-puntos-que-busca-reformar-el-gobierno-nacional-501930",
