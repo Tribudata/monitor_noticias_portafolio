@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T06:14:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T09:20:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -286,6 +286,16 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Las acciones de Victoria’s Secret suben en bolsa por el sorpresivo impacto económico de los fármacos para bajar de peso",
+        "url": "https://www.portafolio.co/negocios/empresas/victoria-s-secret-se-dispara-en-bolsa-el-inesperado-efecto-economico-de-los-medicamentos-para-adelgazar-501915",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Victoria’s Secret se dispara en bolsa: el inesperado efecto económico de los medicamentos para adelgazar",
+        "capturado": "2026-09-06T09:20:07-05:00"
+      },
       {
         "titulo": "El desafío para los comercios por las tasas de interés y la inminente decisión del Banco de la República",
         "url": "https://www.portafolio.co/negocios/comercio/tasas-de-interes-el-reto-que-enfrentan-los-comercios-ante-la-proxima-decision-del-banco-de-la-republica-501909",
