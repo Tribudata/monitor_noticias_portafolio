@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T09:20:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-06T12:15:02-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Polémica por llamado de Petro a evitar a Avianca tras anular su vuelo por figurar en lista Clinton",
+        "url": "https://www.portafolio.co/economia/gobierno/sigue-la-controversia-petro-invita-a-no-viajar-en-avianca-tras-cancelar-su-vuelo-por-estar-en-la-lista-clinton-501924",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Sigue la controversia: Petro invita a no viajar en Avianca, tras cancelar su vuelo por estar en la lista Clinton",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
+      {
+        "titulo": "Elefante Blanco presenta iniciativa para establecer separación de 150 kilómetros entre peajes",
+        "url": "https://www.portafolio.co/economia/regiones/elefante-blanco-radica-proyecto-para-fijar-distancia-de-150-kilometros-entre-peajes-del-pais-asi-funcionaria-501922",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "‘Elefante Blanco’ radica proyecto para fijar distancia de 150 kilómetros entre peajes del país: así funcionaría",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
+      {
+        "titulo": "Minagricultura y PepsiCo impulsan la agricultura nacional con cultivo de papa, plátano y maíz",
+        "url": "https://www.portafolio.co/economia/agro/pepsico-y-minagricultura-buscan-darle-un-nuevo-impulso-al-campo-colombiano-con-papa-platano-y-maiz-amarillo-501921",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "PepsiCo y Minagricultura buscan darle un nuevo impulso al campo colombiano con papa, plátano y maíz amarillo",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
+      {
+        "titulo": "Más de 150.000 venezolanos perderían estatus legal y Migración otorga 60 días para quitar el PPT",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-de-150-000-venezolanos-quedarian-ilegales-migracion-da-60-dias-para-retirar-el-permiso-por-proteccion-temporal-501920",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Más de 150.000 venezolanos quedarían ilegales: Migración da 60 días para retirar el Permiso por Protección Temporal",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
       {
         "titulo": "Gobierno descarta fusil Jaguar de Petro y halla déficit de 120.000 armas en las Fuerzas Armadas",
         "url": "https://www.portafolio.co/economia/gobierno/fusil-jaguar-de-petro-queda-fuera-gobierno-revela-deficit-de-120-000-armas-en-las-fuerzas-armadas-501913",
@@ -286,6 +326,36 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Visita de Marco Rubio a Colombia y el estado actual del comercio exterior con Estados Unidos",
+        "url": "https://www.portafolio.co/negocios/comercio/marco-rubio-llega-a-colombia-asi-se-mueve-el-comercio-exterior-con-estados-unidos-501923",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Marco Rubio llega a Colombia: así se mueve el comercio exterior con Estados Unidos",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
+      {
+        "titulo": "El sector financiero concentra a los empresarios colombianos de mayor influencia regional en 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/los-empresarios-colombianos-mas-influyentes-de-america-latina-en-2026-estan-en-el-sector-financiero-501917",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Los empresarios colombianos más influyentes de América Latina en 2026 están en el sector financiero",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
+      {
+        "titulo": "Detalles de las dificultades que enfrenta la inversión en Colombia y su impacto económico",
+        "url": "https://www.portafolio.co/negocios/inversion/analisis-los-pormenores-de-los-lios-que-atraviesa-la-inversion-en-colombia-y-sus-efectos-en-la-economia-501919",
+        "resumen": "",
+        "autor": "Ricardo avila",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Análisis: los pormenores de los líos que atraviesa la inversión en Colombia y sus efectos en la economía",
+        "capturado": "2026-09-06T12:15:02-05:00"
+      },
       {
         "titulo": "Las acciones de Victoria’s Secret suben en bolsa por el sorpresivo impacto económico de los fármacos para bajar de peso",
         "url": "https://www.portafolio.co/negocios/empresas/victoria-s-secret-se-dispara-en-bolsa-el-inesperado-efecto-economico-de-los-medicamentos-para-adelgazar-501915",
