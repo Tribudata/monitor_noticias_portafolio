@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T12:15:02-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-06T14:24:38-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno Nacional pretende modificar estos aspectos del Sistema General de Regalías",
+        "url": "https://www.portafolio.co/economia/gobierno/sistema-general-de-regalias-estos-son-los-puntos-que-busca-reformar-el-gobierno-nacional-501930",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Sistema General de Regalías: estos son los puntos que busca reformar el Gobierno Nacional",
+        "capturado": "2026-09-06T14:24:38-05:00"
+      },
+      {
+        "titulo": "Ministra de Salud describe el estado financiero, operativo y humanitario al asumir el sistema",
+        "url": "https://www.portafolio.co/economia/gobierno/crisis-humanitaria-financiera-y-operativa-ministra-de-salud-revela-como-recibio-el-sistema-sanitario-del-pais-501929",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "“Crisis humanitaria, financiera y operativa”: ministra de Salud revela cómo recibió el sistema sanitario del país",
+        "capturado": "2026-09-06T14:24:38-05:00"
+      },
       {
         "titulo": "Polémica por llamado de Petro a evitar a Avianca tras anular su vuelo por figurar en lista Clinton",
         "url": "https://www.portafolio.co/economia/gobierno/sigue-la-controversia-petro-invita-a-no-viajar-en-avianca-tras-cancelar-su-vuelo-por-estar-en-la-lista-clinton-501924",
