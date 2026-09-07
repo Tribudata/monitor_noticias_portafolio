@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-07T07:56:57-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-07T13:10:19-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Reporte de Yango señala descenso del 24% en incidentes por manejo imprudente en América Latina en un año",
+        "url": "https://www.portafolio.co/economia/incidentes-por-conduccion-temeraria-en-america-latina-caen-24-en-un-ano-segun-nuevo-reporte-de-yango-501967",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Incidentes por conducción temeraria en América Latina caen 24% en un año, según nuevo reporte de Yango",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Edna María Tafur llega a la Superintendencia del Subsidio Familiar para supervisar fondos de las cajas",
+        "url": "https://www.portafolio.co/economia/edna-maria-tafur-asume-la-superintendencia-del-subsidio-familiar-con-foco-en-controlar-recursos-de-las-cajas-501971",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Edna María Tafur asume la Superintendencia del Subsidio Familiar con foco en controlar recursos de las cajas",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Gilinski, Santo Domingo y Vélez arriban al Chocó para la gran cumbre orientada a la reconstrucción",
+        "url": "https://www.portafolio.co/economia/gobierno/empresarios-llegan-a-cumbre-empresarial-del-choco-para-su-reconstruccion-gilinski-santo-domingo-y-otros-nombres-501970",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Empresarios como Gilinski, Santo Domingo y Vélez ya están en Chocó para la 'megacumbre' de la reconstrucción",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "En directo: Encuentro empresarial enfocado en transformar el Chocó y reconstruir la nación",
+        "url": "https://www.portafolio.co/economia/gobierno/en-vivo-cumbre-empresarial-para-transformar-el-choco-y-reconstruir-el-pais-501969",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "En vivo: Cumbre empresarial para transformar el Chocó y reconstruir el país",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Gobierno ampliaría transición al RUI para conservar subsidios y evitar la salida del Sisbén",
+        "url": "https://www.portafolio.co/economia/sisben-seguira-asignando-subsidios-durante-la-transicion-al-rui-que-el-gobierno-extendera-hasta-julio-de-501968",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Sisbén no desaparecería por ahora: Gobierno extendería transición al RUI para mantener la asignación de subsidios",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Gobierno ratifica nombramiento de Alejandro Ordóñez como embajador ante la OEA en Washington",
+        "url": "https://www.portafolio.co/economia/gobierno/alejandro-ordonez-ya-es-embajador-ante-la-oea-gobierno-oficializa-su-llegada-a-la-mision-diplomatica-en-washington-501964",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Alejandro Ordóñez ya es embajador ante la OEA: Gobierno oficializa su llegada a la misión diplomática en Washington",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "El respaldo virtual a Abelardo De La Espriella alcanza el 72,4% y estos son los sectores con mayor apoyo",
+        "url": "https://www.portafolio.co/economia/gobierno/aprobacion-digital-de-abelardo-de-la-espriella-llega-a-72-4-estos-son-los-sectores-que-mas-lo-respaldan-501966",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Aprobación digital de Abelardo De La Espriella llega a 72,4%: estos son los sectores que más lo respaldan",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Modificación a la distancia mínima entre peajes en Colombia según iniciativa radicada en el Congreso",
+        "url": "https://www.portafolio.co/economia/gobierno/cuantos-peajes-quedarian-en-las-principales-rutas-si-pasa-la-norma-de-150-km-que-propone-el-elefante-blanco-501959",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Así cambiaría la distancia mínima entre los peajes en Colombia, tras la propuesta en el Congreso",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Fechas de declaración de renta para cédulas específicas entre el 7 y el 11 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/estas-son-las-cedulas-que-deben-declarar-renta-entre-el-7-y-el-11-de-septiembre-501960",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Estas son las cédulas que deben declarar renta entre el 7 y el 11 de septiembre",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
       {
         "titulo": "Marco Rubio arribará este martes a Barranquilla para encontrarse con De La Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-llegara-este-martes-a-barranquilla-para-reunirse-con-de-la-espriella-501958",
@@ -476,6 +566,56 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El desbalance comercial de Colombia con China lidera Suramérica y se acerca a los US$20.000 millones",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-tiene-el-mayor-deficit-comercial-con-china-en-suramerica-el-desbalance-ya-ronda-los-us-20-000-millones-501975",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Colombia tiene el mayor déficit comercial con China en Suramérica: el desbalance ya ronda los US$20.000 millones",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Café Sello Rojo reduce sus tarifas hasta 17% y ofrece un respiro financiero a los colombianos",
+        "url": "https://www.portafolio.co/negocios/empresas/cafe-sello-rojo-baja-hasta-17-sus-precios-y-promete-mas-alivio-para-el-bolsillo-de-los-colombianos-501974",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Café Sello Rojo baja hasta 17% sus precios y promete más alivio para el bolsillo de los colombianos",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Grupo Nutresa anuncia baja en las tarifas de Café Sello Rojo para beneficio de los compradores",
+        "url": "https://www.portafolio.co/negocios/empresas/buenas-noticias-para-consumidores-de-cafe-sello-rojo-esta-es-la-reduccion-de-precio-que-anuncia-el-grupo-nutresa-501965",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Buenas noticias para consumidores de Café Sello Rojo: esta es la reducción de precio que anuncia el Grupo Nutresa",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "Tratamiento contra la obesidad infantil de Novo Nordisk muestra mejoría en el 40,4% de los menores",
+        "url": "https://www.portafolio.co/negocios/empresas/novo-nordisk-avanza-contra-la-obesidad-infantil-40-4-de-los-ninos-mejoro-con-medicamento-para-bajar-de-peso-501963",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Novo Nordisk avanza contra la obesidad infantil: 40,4% de los niños mejoró con medicamento para bajar de peso",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
+      {
+        "titulo": "AngloGold proyecta edificar Quebradona en 2028 y vender cobre al exterior desde 2032 con licencia",
+        "url": "https://www.portafolio.co/negocios/empresas/anglogold-preve-iniciar-en-2028-la-construccion-de-quebradona-y-exportar-cobre-desde-2032-tras-obtener-la-licencia-501961",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "AngloGold prevé iniciar en 2028 la construcción de Quebradona y exportar cobre desde 2032, tras obtener la licencia",
+        "capturado": "2026-09-07T13:10:19-05:00"
+      },
       {
         "titulo": "Dian inspeccionará el trayecto del comercio externo nacional",
         "url": "https://www.portafolio.co/negocios/comercio/dian-allanara-la-ruta-del-comercio-exterior-del-pais-501953",
