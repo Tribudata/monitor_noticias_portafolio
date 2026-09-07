@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T18:29:56-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-06T20:16:25-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Datáfonos ganan tracción en el sector financiero y las transacciones de dinero",
+        "url": "https://www.portafolio.co/economia/finanzas/datafonos-toman-un-nuevo-impulso-dentro-del-sistema-financiero-y-las-operaciones-monetarias-501889",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Datáfonos toman un nuevo impulso dentro del sistema financiero y las operaciones monetarias",
+        "capturado": "2026-09-06T20:16:25-05:00"
+      },
+      {
+        "titulo": "Regalías con 39 billones sin desembolsar abren vía para financiar obras tras sismo",
+        "url": "https://www.portafolio.co/economia/regalias-tienen-39-billones-sin-girar-y-plantean-oportunidad-para-financiar-la-reconstruccion-tras-el-terremoto-501847",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Regalías tienen $39 billones sin girar y plantean oportunidad para financiar la reconstrucción tras el terremoto",
+        "capturado": "2026-09-06T20:16:25-05:00"
+      },
+      {
+        "titulo": "Dólar bajo altera estrategia corporativa: compra de tecnología supera a la contratación",
+        "url": "https://www.portafolio.co/economia/dolar-barato-cambia-la-decision-empresarial-importar-tecnologia-gana-terreno-frente-a-contratar-mas-trabajadores-501858",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Dólar barato cambia la decisión empresarial: importar tecnología gana terreno frente a contratar más trabajadores",
+        "capturado": "2026-09-06T20:16:25-05:00"
+      },
+      {
+        "titulo": "Compras de azúcar boliviano impactan el suroccidente en pleno proceso de reconstrucción",
+        "url": "https://www.portafolio.co/economia/agro/importaciones-de-azucar-de-bolivia-afectan-al-suroccidente-mientras-se-reconstruye-por-el-terremoto-501876",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Importaciones de azúcar de Bolivia afectan al suroccidente, mientras se reconstruye por el terremoto",
+        "capturado": "2026-09-06T20:16:25-05:00"
+      },
+      {
+        "titulo": "Plan Energía YA: administración nacional toma acciones contra El Niño para prevenir escasez",
+        "url": "https://www.portafolio.co/economia/gobierno/plan-energia-ya-gobierno-activa-medidas-para-enfrentar-el-nino-y-evitar-desabastecimiento-501945",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Plan Energía YA: Gobierno activa medidas para enfrentar El Niño y evitar desabastecimiento",
+        "capturado": "2026-09-06T20:16:25-05:00"
+      },
       {
         "titulo": "Golpe a estructuras criminales: capturan a presunto sicario y a dos miembros del Clan del Golfo",
         "url": "https://www.portafolio.co/economia/gobierno/golpe-a-estructuras-criminales-capturan-a-presunto-sicario-y-a-dos-miembros-del-clan-del-golfo-501940",
