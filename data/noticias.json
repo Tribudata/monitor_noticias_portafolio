@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-07T01:27:21-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-07T07:56:57-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Marco Rubio arribará este martes a Barranquilla para encontrarse con De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-llegara-este-martes-a-barranquilla-para-reunirse-con-de-la-espriella-501958",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Marco Rubio llegará este martes a Barranquilla para reunirse con De La Espriella",
+        "capturado": "2026-09-07T07:56:57-05:00"
+      },
+      {
+        "titulo": "Más de 4000 afectados de la pirámide DMG resultaron dueños de un apartamento y lo supieron por el predial",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-de-4-000-victimas-de-la-piramide-dmg-quedaron-como-propietarios-de-un-apartamento-y-se-enteraron-por-el-predial-501957",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Más de 4.000 víctimas de la pirámide DMG quedaron como propietarios de un apartamento y se enteraron por el predial",
+        "capturado": "2026-09-07T07:56:57-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia: la moneda abre la jornada cerca de 3100 pesos tras bajar más de 70 pesos en la semana",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-el-dia-cerca-a-los-3-100-luego-de-perder-mas-de-70-durante-la-semana-501956",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Precio del dólar en Colombia: divisa inicia el día cerca a los $3.100, luego de perder más de $70 durante la semana",
+        "capturado": "2026-09-07T07:56:57-05:00"
+      },
+      {
+        "titulo": "Santo Domingo, Sarmiento, Gilinski, Vélez y otros empresarios que irán al Chocó para respaldar la reconstrucción",
+        "url": "https://www.portafolio.co/economia/gobierno/los-empresarios-mas-ricos-e-importantes-de-colombia-llegaran-al-choco-para-apoyar-su-reconstruccion-501955",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Santo Domingo, Sarmiento, Gilinski, Vélez y otros empresarios que visitarán Chocó para apoyar la reconstrucción",
+        "capturado": "2026-09-07T07:56:57-05:00"
+      },
       {
         "titulo": "Datáfonos ganan tracción en el sector financiero y las transacciones de dinero",
         "url": "https://www.portafolio.co/economia/finanzas/datafonos-toman-un-nuevo-impulso-dentro-del-sistema-financiero-y-las-operaciones-monetarias-501889",
