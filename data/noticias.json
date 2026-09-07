@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-06T20:16:25-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-07T01:27:21-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -436,6 +436,16 @@
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Dian inspeccionará el trayecto del comercio externo nacional",
+        "url": "https://www.portafolio.co/negocios/comercio/dian-allanara-la-ruta-del-comercio-exterior-del-pais-501953",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "Dian allanará la ruta del comercio exterior del país",
+        "capturado": "2026-09-07T01:27:21-05:00"
+      },
       {
         "titulo": "Visita de Marco Rubio a Colombia y el estado actual del comercio exterior con Estados Unidos",
         "url": "https://www.portafolio.co/negocios/comercio/marco-rubio-llega-a-colombia-asi-se-mueve-el-comercio-exterior-con-estados-unidos-501923",
