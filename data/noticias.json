@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-07T16:42:18-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-09-07T18:59:55-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alza del costo de vida en Colombia ubicó la inflación en 6,24% en agosto, pico máximo desde julio de 2024",
+        "url": "https://www.portafolio.co/economia/finanzas/atencion-inflacion-se-acelero-en-agosto-y-llego-al-6-24-anual-502010",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Atención: Inflación en Colombia se aceleró en agosto y llegó al 6,24%, su nivel más alto desde julio de 2024",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
+      {
+        "titulo": "La estrategia de Restrepo para incrementar la inversión de Estados Unidos en territorio colombiano",
+        "url": "https://www.portafolio.co/economia/gobierno/esta-es-la-apuesta-de-restrepo-para-que-estados-unidos-invierta-mas-en-colombia-502009",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Esta es la apuesta de Restrepo para que Estados Unidos invierta más en Colombia",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
+      {
+        "titulo": "Museo Nacional de Memoria alcanza 60% de progreso y prepara apertura parcial en Bogotá para 2027",
+        "url": "https://www.portafolio.co/economia/infraestructura/museo-nacional-de-memoria-llega-al-60-de-avance-y-alista-apertura-parcial-en-bogota-para-502008",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Museo Nacional de Memoria llega al 60 % de avance y alista apertura parcial en Bogotá para 2027",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
+      {
+        "titulo": "Instituciones bancarias elevaron sus ganancias gracias a un mejor crédito que redujo sus gastos en provisiones",
+        "url": "https://www.portafolio.co/economia/finanzas/los-bancos-incrementaron-su-rentabilidad-por-una-mejora-del-credito-que-les-hizo-bajar-sus-gastos-en-provisiones-502007",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Los bancos incrementaron su rentabilidad por una mejora del crédito, que les hizo bajar sus gastos en provisiones",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
+      {
+        "titulo": "Indepaz señala aumento del 14% en masacres en Colombia con 89 casos registrados este año",
+        "url": "https://www.portafolio.co/economia/gobierno/masacres-en-colombia-suben-14-en-2026-indepaz-reporta-89-casos-en-lo-que-va-corrido-del-ano-502002",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Masacres en Colombia suben 14% en 2026: Indepaz reporta 89 casos en lo que va corrido del año",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
       {
         "titulo": "Separación mínima entre peajes: iniciativa legislativa frente a la situación actual de las carreteras",
         "url": "https://www.portafolio.co/economia/infraestructura/distancia-minima-entre-peajes-lo-que-propone-el-proyecto-de-ley-frente-a-la-realidad-en-las-vias-501985",
@@ -553,59 +603,29 @@
         "publicacion": "2026-09-04",
         "titulo_fuente": "Elsa Noguera anuncia plan de Mintransporte para fortalecer los puertos del Caribe: estas son las apuestas clave",
         "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Mandatario de Cartagena solicita anular norma de la Creg que penaliza alto consumo eléctrico",
-        "url": "https://www.portafolio.co/economia/regiones/alcalde-de-cartagena-pide-tumbar-resolucion-de-la-creg-que-sanciona-el-mayor-consumo-de-energia-es-nefasta-501878",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Alcalde de Cartagena pide tumbar resolución de la Creg que sanciona el mayor consumo de energía: 'es nefasta'",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Precio del galón de gasolina llega a $15.886 y el Ejecutivo afronta el impacto fiscal del Fepc",
-        "url": "https://www.portafolio.co/economia/finanzas/gasolina-promedia-15-886-por-galon-mientras-el-gobierno-enfrenta-el-costo-fiscal-del-fepc-501870",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Gasolina promedia $15.886 por galón mientras el Gobierno enfrenta el costo fiscal del Fepc",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Buscan reactivar comercio por US$7.000 millones con Venezuela y ganar un punto del PIB en un bienio",
-        "url": "https://www.portafolio.co/economia/gobierno/queremos-volver-a-mover-us-7-000-millones-con-venezuela-y-sumar-un-punto-del-pib-en-cuatro-anos-501864",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "‘Queremos volver a mover US$7.000 millones con Venezuela y sumar un punto del PIB en cuatro años’",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Ayuda para alquiler en Bogotá: obtenga hasta $1,08 millones al mes por un periodo de medio año",
-        "url": "https://www.portafolio.co/economia/regiones/subsidio-de-arriendo-en-bogota-asi-puede-recibir-hasta-1-08-millones-mensuales-por-seis-meses-501866",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Subsidio de arriendo en Bogotá: así puede recibir hasta $1,08 millones mensuales por seis meses",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Sismo restaría 0,11 puntos al PIB colombiano en 2026, mas obras de rescate dinamizarían el PIB en 2027",
-        "url": "https://www.portafolio.co/economia/terremoto-restaria-0-11-puntos-al-pib-de-colombia-en-2026-pero-reconstruccion-impulsaria-la-economia-en-501865",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Terremoto restaría 0,11 puntos al PIB de Colombia en 2026, pero reconstrucción impulsaría la economía en 2027",
-        "capturado": "2026-09-04T21:36:18-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Inversionistas de bonos aprueban integración de Ecopetrol con Parque Solar Portón del Sol",
+        "url": "https://www.portafolio.co/negocios/empresas/tenedores-de-bonos-avalan-fusion-de-ecopetrol-con-parque-solar-porton-del-sol-502006",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Tenedores de bonos avalan fusión de Ecopetrol con Parque Solar Portón del Sol",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
+      {
+        "titulo": "Nike sale del top 100 de las compañías más grandes de Estados Unidos",
+        "url": "https://www.portafolio.co/negocios/empresas/nike-deja-de-estar-entre-las-grandes-asi-perdio-su-lugar-entre-las-100-empresas-mas-grandes-de-ee-uu-502005",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Nike deja de estar entre las grandes: así perdió su lugar entre las 100 empresas más grandes de EE. UU",
+        "capturado": "2026-09-07T18:59:55-05:00"
+      },
       {
         "titulo": "Negativa judicial a reabrir proceso a Ricardo Roa por aeronaves de Ecopetrol y presunto nexo con Helistar",
         "url": "https://www.portafolio.co/negocios/empresas/juez-nego-reabrir-caso-contra-ricardo-roa-por-helicopteros-de-ecopetrol-y-presunto-favorecimiento-a-helistar-501996",
