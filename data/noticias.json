@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T15:05:51-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-08T17:53:07-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Aliadas presenta ante el Gobierno de De La Espriella treinta iniciativas para disminuir la informalidad laboral",
+        "url": "https://www.portafolio.co/economia/empleo/aliadas-pone-en-la-mesa-del-gobierno-de-la-espriella-30-propuestas-para-reducir-la-informalidad-en-el-pais-502085",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Aliadas pone en la mesa del Gobierno De La Espriella 30 propuestas para reducir la informalidad en el país",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
+      {
+        "titulo": "Reactivar la economía es la prioridad de los pactos de Barranquilla tras el encuentro Rubio-De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/recuperar-la-economia-principal-punto-de-los-acuerdos-de-barranquilla-tras-reunion-marco-rubio-de-la-espriella-502084",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Recuperar la economía: principal punto de 'los acuerdos de Barranquilla' tras reunión Marco Rubio-De La Espriella",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
+      {
+        "titulo": "Resultados del encuentro sostenido en Barranquilla por Marco Rubio y Abelardo De la Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/conclusiones-de-la-reunion-entre-marco-rubio-y-abelardo-de-la-espriella-en-barranquilla-502080",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Conclusiones de la reunión entre Marco Rubio y Abelardo De la Espriella en Barranquilla",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
+      {
+        "titulo": "Sismos, conflagraciones y El Niño afectaron la oferta e incrementaron los precios de comida en agosto 2026",
+        "url": "https://www.portafolio.co/economia/terremoto-incendios-y-el-nino-presionaron-el-abastecimiento-y-elevaron-los-costos-de-alimentos-en-agosto-502077",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Terremoto, incendios y El Niño presionaron el abastecimiento y elevaron los costos de alimentos en agosto 2026",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
+      {
+        "titulo": "El reto ineludible en Colombia: transformar la prevención y el autocuidado en política pública nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/el-desafio-que-colombia-ya-no-puede-aplazar-convertir-la-prevencion-y-el-autocuidado-en-politica-publica-nacional-502078",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "El desafío que Colombia ya no puede aplazar: convertir la prevención y el autocuidado en política pública nacional",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
       {
         "titulo": "Predios con cobros excesivos y los problemas expuestos por el jefe de la cartera agropecuaria",
         "url": "https://www.portafolio.co/economia/agro/predios-con-precios-inflados-y-los-chicharrones-que-denuncia-el-ministro-de-agricultura-502069",
@@ -553,59 +603,29 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Aprobación digital de Abelardo De La Espriella llega a 72,4%: estos son los sectores que más lo respaldan",
         "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Modificación a la distancia mínima entre peajes en Colombia según iniciativa radicada en el Congreso",
-        "url": "https://www.portafolio.co/economia/gobierno/cuantos-peajes-quedarian-en-las-principales-rutas-si-pasa-la-norma-de-150-km-que-propone-el-elefante-blanco-501959",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Así cambiaría la distancia mínima entre los peajes en Colombia, tras la propuesta en el Congreso",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Fechas de declaración de renta para cédulas específicas entre el 7 y el 11 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/estas-son-las-cedulas-que-deben-declarar-renta-entre-el-7-y-el-11-de-septiembre-501960",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Estas son las cédulas que deben declarar renta entre el 7 y el 11 de septiembre",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Marco Rubio arribará este martes a Barranquilla para encontrarse con De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-llegara-este-martes-a-barranquilla-para-reunirse-con-de-la-espriella-501958",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Marco Rubio llegará este martes a Barranquilla para reunirse con De La Espriella",
-        "capturado": "2026-09-07T07:56:57-05:00"
-      },
-      {
-        "titulo": "Más de 4000 afectados de la pirámide DMG resultaron dueños de un apartamento y lo supieron por el predial",
-        "url": "https://www.portafolio.co/economia/gobierno/mas-de-4-000-victimas-de-la-piramide-dmg-quedaron-como-propietarios-de-un-apartamento-y-se-enteraron-por-el-predial-501957",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Más de 4.000 víctimas de la pirámide DMG quedaron como propietarios de un apartamento y se enteraron por el predial",
-        "capturado": "2026-09-07T07:56:57-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia: la moneda abre la jornada cerca de 3100 pesos tras bajar más de 70 pesos en la semana",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-el-dia-cerca-a-los-3-100-luego-de-perder-mas-de-70-durante-la-semana-501956",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Precio del dólar en Colombia: divisa inicia el día cerca a los $3.100, luego de perder más de $70 durante la semana",
-        "capturado": "2026-09-07T07:56:57-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Tostao impulsa el empleo de mujeres y presenta el café Mujeres Imparables",
+        "url": "https://www.portafolio.co/negocios/empresas/tostao-le-apuesta-a-la-contratacion-femenina-y-lanza-el-cafe-mujeres-imparables-502082",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Tostao’ le apuesta a la contratación femenina y lanza el café ‘Mujeres Imparables’",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
+      {
+        "titulo": "Conozca la planta procesadora de Tostao, un negocio que opera sin pausa",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-es-la-planta-de-produccion-de-tostao-una-panaderia-que-nunca-se-detiene-502068",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Así es la planta de producción de Tostao’, una panadería que nunca se detiene",
+        "capturado": "2026-09-08T17:53:07-05:00"
+      },
       {
         "titulo": "Rodolfo Castillo y Rosario Gómez toman las riendas de la junta directiva de la Andi",
         "url": "https://www.portafolio.co/negocios/empresas/rodolfo-castillo-y-rosario-gomez-asumen-el-liderazgo-de-la-junta-directiva-de-la-andi-502076",
