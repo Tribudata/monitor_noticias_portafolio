@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T12:24:34-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-09-08T15:05:51-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Predios con cobros excesivos y los problemas expuestos por el jefe de la cartera agropecuaria",
+        "url": "https://www.portafolio.co/economia/agro/predios-con-precios-inflados-y-los-chicharrones-que-denuncia-el-ministro-de-agricultura-502069",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Predios con precios inflados y los ‘chicharrones’ que denuncia el Ministro de agricultura",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Marco Rubio llegó a Barranquilla para encuentro crucial con el mandatario Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-aterrizo-en-barranquilla-para-reunion-clave-con-el-presidente-abelardo-de-la-espriella-502071",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Marco Rubio aterrizó en Barranquilla para reunión clave con el presidente Abelardo De La Espriella",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Regímenes común y simplificado: definición y motivos de su enredo fiscal en las compañías",
+        "url": "https://www.portafolio.co/economia/impuestos/regimen-comun-y-regimen-simplificado-que-son-y-por-que-generan-confusion-tributaria-entre-empresas-502070",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Régimen común y régimen simplificado: qué son y por qué generan confusión tributaria entre empresas",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Bogotá sufrirá una reducción de hasta 3 billones de pesos en fondos viales el año entrante",
+        "url": "https://www.portafolio.co/economia/infraestructura/bogota-enfrentaria-un-recorte-de-hasta-3-billones-de-pesos-en-inversion-para-movilidad-el-proximo-ano-502058",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Bogotá enfrentaría un recorte de hasta 3 billones de pesos en inversión para movilidad el próximo año",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
       {
         "titulo": "Café de afuera avanza en Colombia y enciende alarmas sobre el pago a las familias caficultoras",
         "url": "https://www.portafolio.co/economia/agro/cafe-importado-gana-terreno-en-colombia-y-prende-las-alertas-por-el-precio-que-reciben-las-familias-cafeteras-502062",
@@ -563,49 +603,59 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Precio del dólar en Colombia: divisa inicia el día cerca a los $3.100, luego de perder más de $70 durante la semana",
         "capturado": "2026-09-07T07:56:57-05:00"
-      },
-      {
-        "titulo": "Santo Domingo, Sarmiento, Gilinski, Vélez y otros empresarios que irán al Chocó para respaldar la reconstrucción",
-        "url": "https://www.portafolio.co/economia/gobierno/los-empresarios-mas-ricos-e-importantes-de-colombia-llegaran-al-choco-para-apoyar-su-reconstruccion-501955",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Santo Domingo, Sarmiento, Gilinski, Vélez y otros empresarios que visitarán Chocó para apoyar la reconstrucción",
-        "capturado": "2026-09-07T07:56:57-05:00"
-      },
-      {
-        "titulo": "Datáfonos ganan tracción en el sector financiero y las transacciones de dinero",
-        "url": "https://www.portafolio.co/economia/finanzas/datafonos-toman-un-nuevo-impulso-dentro-del-sistema-financiero-y-las-operaciones-monetarias-501889",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Datáfonos toman un nuevo impulso dentro del sistema financiero y las operaciones monetarias",
-        "capturado": "2026-09-06T20:16:25-05:00"
-      },
-      {
-        "titulo": "Regalías con 39 billones sin desembolsar abren vía para financiar obras tras sismo",
-        "url": "https://www.portafolio.co/economia/regalias-tienen-39-billones-sin-girar-y-plantean-oportunidad-para-financiar-la-reconstruccion-tras-el-terremoto-501847",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Regalías tienen $39 billones sin girar y plantean oportunidad para financiar la reconstrucción tras el terremoto",
-        "capturado": "2026-09-06T20:16:25-05:00"
-      },
-      {
-        "titulo": "Dólar bajo altera estrategia corporativa: compra de tecnología supera a la contratación",
-        "url": "https://www.portafolio.co/economia/dolar-barato-cambia-la-decision-empresarial-importar-tecnologia-gana-terreno-frente-a-contratar-mas-trabajadores-501858",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Dólar barato cambia la decisión empresarial: importar tecnología gana terreno frente a contratar más trabajadores",
-        "capturado": "2026-09-06T20:16:25-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Rodolfo Castillo y Rosario Gómez toman las riendas de la junta directiva de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/rodolfo-castillo-y-rosario-gomez-asumen-el-liderazgo-de-la-junta-directiva-de-la-andi-502076",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Rodolfo Castillo y Rosario Gómez asumen el liderazgo de la junta directiva de la Andi",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Santander y Coursera habilitan 100000 plazas sin costo para estudiar IA, datos y liderazgo",
+        "url": "https://www.portafolio.co/negocios/empresas/santander-y-coursera-abre-100-000-cupos-gratis-para-formarse-en-ia-datos-y-liderazgo-502060",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Santander y Coursera abre 100.000 cupos gratis para formarse en IA, datos y liderazgo",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Aceleradoras modifican su enfoque en Latinoamérica: capital, ventas y expansión definen el éxito hoy",
+        "url": "https://www.portafolio.co/negocios/inversion/aceleradoras-cambian-la-vara-en-latinoamerica-capital-ventas-y-expansion-pesan-mas-al-medir-resultados-reales-hoy-502072",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Aceleradoras cambian la vara en Latinoamérica: capital, ventas y expansión pesan más al medir resultados reales hoy",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Mario Hernández obtuvo el título Honoris Causa por su contribución al diseño y marroquinería",
+        "url": "https://www.portafolio.co/negocios/empresas/mario-hernandez-recibira-honoris-causa-por-su-aporte-al-diseno-y-la-marroquineria-colombiana-502067",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Mario Hernández recibió Honoris Causa por su aporte al diseño y la marroquinería colombiana",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
+      {
+        "titulo": "Bancamía implementa esquema para ampliar créditos a mujeres y disminuir la brecha de género",
+        "url": "https://www.portafolio.co/negocios/empresas/bancamia-lanza-modelo-para-que-las-mujeres-accedan-a-creditos-mas-altos-y-reduzcan-la-brecha-frente-a-los-hombres-502064",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Bancamía lanza modelo para que las mujeres accedan a créditos más altos y reduzcan la brecha frente a los hombres",
+        "capturado": "2026-09-08T15:05:51-05:00"
+      },
       {
         "titulo": "Ventas de vehículos eléctricos subieron 176% en agosto y Tesla encabezó el mercado nacional",
         "url": "https://www.portafolio.co/negocios/vehiculo/matriculas-de-carros-electricos-crecieron-176-en-agosto-tesla-lidero-el-mercado-colombiano-502063",
