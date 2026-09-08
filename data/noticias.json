@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-07T18:59:55-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-07T23:23:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Minsalud analiza un bache de 2,9 billones de pesos entre fondos asignados y giros ejecutados",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-revisa-una-brecha-de-2-9-billones-entre-recursos-comprometidos-y-pagos-realizados-502023",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Minsalud revisa una brecha de $2,9 billones entre recursos comprometidos y pagos realizados",
+        "capturado": "2026-09-07T23:23:08-05:00"
+      },
+      {
+        "titulo": "Gobernadora del Chocó resalta la estrategia de rescate para la región como un hecho histórico",
+        "url": "https://www.portafolio.co/economia/regiones/es-un-dia-historico-gobernadora-del-choco-destaca-plan-de-recuperacion-para-el-departamento-502012",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "'¡Es un día histórico!': Gobernadora del Chocó destaca plan de recuperación para el departamento",
+        "capturado": "2026-09-07T23:23:08-05:00"
+      },
       {
         "titulo": "Alza del costo de vida en Colombia ubicó la inflación en 6,24% en agosto, pico máximo desde julio de 2024",
         "url": "https://www.portafolio.co/economia/finanzas/atencion-inflacion-se-acelero-en-agosto-y-llego-al-6-24-anual-502010",
@@ -583,26 +603,6 @@
         "publicacion": "2026-09-05",
         "titulo_fuente": "Jóvenes Milagro llegará a 700 municipios para impulsar proyectos productivos en zonas rurales",
         "capturado": "2026-09-05T09:39:00-05:00"
-      },
-      {
-        "titulo": "Consulte y baje la versión virtual de Portafolio para el fin de semana del 5 y 6 de septiembre",
-        "url": "https://www.portafolio.co/economia/gobierno/vea-y-descargue-la-edicion-digital-de-portafolio-de-este-fin-de-semana-del-5-y-6-de-septiembre-501890",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Vea y descargue la edición digital de Portafolio de este fin de semana del 5 y 6 de septiembre",
-        "capturado": "2026-09-05T02:48:13-05:00"
-      },
-      {
-        "titulo": "Elsa Noguera revela estrategia de Mintransporte para consolidar puertos caribeños y sus ejes centrales",
-        "url": "https://www.portafolio.co/economia/infraestructura/elsa-noguera-anuncia-plan-de-mintransporte-para-fortalecer-los-puertos-del-caribe-estas-son-las-apuestas-clave-501888",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Elsa Noguera anuncia plan de Mintransporte para fortalecer los puertos del Caribe: estas son las apuestas clave",
-        "capturado": "2026-09-04T21:36:18-05:00"
       }
     ],
     "Negocios": [
