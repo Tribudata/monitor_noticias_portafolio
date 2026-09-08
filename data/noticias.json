@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T03:58:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-08T08:29:28-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Tatyana Orozco suena como posible directora de la Cámara Colombiana de la Infraestructura",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-es-tatyana-orozco-la-persona-que-suena-para-liderar-la-camara-colombiana-de-la-infraestructura-502035",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Quién es Tatyana Orozco, la persona que suena para liderar la Cámara Colombiana de la Infraestructura",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "La bancarrota de personas naturales subió 374% en el gobierno Petro frente al mandato de Iván Duque",
+        "url": "https://www.portafolio.co/economia/personas-naturales-que-se-declararon-en-quiebra-aumentaron-374-durante-petro-frente-al-periodo-de-ivan-duque-502033",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Personas naturales que se declararon en quiebra aumentaron 374% durante Petro frente al periodo de Iván Duque",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del euro en Colombia: este 8 de septiembre así se mueve frente al peso",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-este-8-de-septiembre-frente-al-peso-colombiano-502030",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza este 8 de septiembre frente al peso colombiano",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Visita de Marco Rubio a Colombia: comercio, seguridad y narcotráfico en su cita con De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-llega-a-colombia-comercio-seguridad-y-narcotrafico-los-temas-clave-de-su-reunion-con-de-la-espriella-502026",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Marco Rubio llega a Colombia: comercio, seguridad y narcotráfico, los temas clave de su reunión con De La Espriella",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar en Colombia: así se mueve la moneda estadounidense este 8 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-estadounidense-la-jornada-de-este-8-de-septiembre-502025",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa estadounidense la jornada de este 8 de septiembre",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Colombia retrocede en las pruebas PISA 2025: baja en Lectura y Matemáticas y persiste la brecha educativa",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-se-rezaga-en-las-pruebas-pisa-2025-cae-en-lectura-y-matematicas-y-mantiene-fuertes-brechas-educativas-502024",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Colombia se rezaga en las pruebas PISA 2025: cae en Lectura y Matemáticas y mantiene fuertes brechas educativas",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Sismo e inflación: de esta manera terminó agosto en las urbes más afectadas por la crisis",
+        "url": "https://www.portafolio.co/economia/regiones/terremoto-e-inflacion-asi-cerro-agosto-para-las-ciudades-mas-golpeadas-por-la-emergencia-502022",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Terremoto e inflación: así cerró agosto para las ciudades más golpeadas por la emergencia",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
       {
         "titulo": "El Minsalud analiza un bache de 2,9 billones de pesos entre fondos asignados y giros ejecutados",
         "url": "https://www.portafolio.co/economia/gobierno/minsalud-revisa-una-brecha-de-2-9-billones-entre-recursos-comprometidos-y-pagos-realizados-502023",
@@ -533,79 +603,39 @@
         "publicacion": "2026-09-05",
         "titulo_fuente": "Administración de De La Espriella ejecuta el 'adiós' al Minigualdad, creado por el gobierno Petro",
         "capturado": "2026-09-05T14:15:36-05:00"
-      },
-      {
-        "titulo": "Ana Lucía Pineda transformó el cargo de Primera Dama al dirigir la ayuda estatal tras el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/ana-lucia-pineda-del-bajo-perfil-a-liderar-la-respuesta-social-del-gobierno-tras-la-emergencia-por-el-terremoto-501902",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Ana Lucía Pineda dio un giro al rol de Primera Dama al lidera ayuda social del Gobierno tras el terremoto",
-        "capturado": "2026-09-05T14:15:36-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella solicita al Ministerio de Relaciones Exteriores evaluar pasaporte para coreano",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-pide-a-cancilleria-revisar-solicitud-de-nacionalidad-colombiana-de-influencer-coreano-501897",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Presidente De La Espriella pide a Cancillería revisar solicitud de nacionalidad colombiana de influencer coreano",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Mandatario nariñense contesta a De La Espriella que negociaciones correspondieron al poder central",
-        "url": "https://www.portafolio.co/economia/gobierno/gobiernador-de-narino-responde-a-de-la-espriella-dialogos-fueron-competencia-del-gobierno-nacional-501899",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Gobernador de Nariño responde a De La Espriella: diálogos fueron competencia del Gobierno Nacional",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Es productor de café y sufragará? Aspectos esenciales para tener en cuenta previo a los comicios",
-        "url": "https://www.portafolio.co/economia/agro/es-cafetero-y-va-a-votar-estas-son-las-claves-que-debe-conocer-antes-de-las-elecciones-de-este-fin-de-semana-501894",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "¿Es cafetero y va a votar? Estas son las claves que debe conocer antes de las elecciones de este fin de semana",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Municipios medianos apoyan acción estatal en el Catatumbo tras atentado con aeronaves no tripuladas",
-        "url": "https://www.portafolio.co/economia/regiones/asointermedias-respalda-ofensiva-en-el-catatumbo-tras-ataque-con-drones-contra-base-militar-501895",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Ciudades intermedias respaldan ofensiva del Gobierno en el Catatumbo tras ataque con drones contra base militar",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio revaluada afecta a vendedores externos, mas administración De La Espriella descarta accionar",
-        "url": "https://www.portafolio.co/economia/gobierno/hacienda-no-intervendra-el-dolar-pese-al-golpe-del-peso-fuerte-esta-es-su-apuesta-para-los-exportadores-501893",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Peso fuerte pone contra las cuerdas a exportadores, pero gobierno De La Espriella descarta intervenir el dólar",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Jóvenes Milagro llegará a 700 municipios para impulsar proyectos productivos en zonas rurales",
-        "url": "https://www.portafolio.co/economia/gobierno/jovenes-milagro-llegara-a-700-municipios-para-impulsar-proyectos-productivos-en-zonas-rurales-501891",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Jóvenes Milagro llegará a 700 municipios para impulsar proyectos productivos en zonas rurales",
-        "capturado": "2026-09-05T09:39:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Visitas sorpresa de Mintrabajo: 8 de cada 10 pymes en el país no se preparan y lo desconocen",
+        "url": "https://www.portafolio.co/negocios/empresas/inspecciones-del-mintrabajo-sin-previo-aviso-8-de-cada-10-pymes-colombianas-no-estan-listas-y-no-lo-saben-502032",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Inspecciones del Mintrabajo sin previo aviso: 8 de cada 10 pymes colombianas no están listas y no lo saben",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Bon Bon Bum salta al sector cosmético mediante alianza con Cyzone",
+        "url": "https://www.portafolio.co/negocios/empresas/de-la-chupeta-al-maquillaje-bon-bon-bum-entra-al-maquillaje-de-la-mano-de-cyzone-502029",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "De la chupeta al maquillaje: Bon Bon Bum entra al maquillaje de la mano de Cyzone",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
+      {
+        "titulo": "Gran costo para aseguradoras: suman 68.270 solicitudes y el monto asegurado se multiplicó por diez",
+        "url": "https://www.portafolio.co/negocios/empresas/millonaria-factura-para-aseguradoras-van-68-270-reclamaciones-y-el-valor-asegurado-se-multiplico-por-diez-502027",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Millonaria factura para aseguradoras: van 68.270 reclamaciones y el valor asegurado se multiplicó por diez",
+        "capturado": "2026-09-08T08:29:28-05:00"
+      },
       {
         "titulo": "Inversionistas de bonos aprueban integración de Ecopetrol con Parque Solar Portón del Sol",
         "url": "https://www.portafolio.co/negocios/empresas/tenedores-de-bonos-avalan-fusion-de-ecopetrol-con-parque-solar-porton-del-sol-502006",
