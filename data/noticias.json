@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T08:29:28-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-08T12:24:34-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Café de afuera avanza en Colombia y enciende alarmas sobre el pago a las familias caficultoras",
+        "url": "https://www.portafolio.co/economia/agro/cafe-importado-gana-terreno-en-colombia-y-prende-las-alertas-por-el-precio-que-reciben-las-familias-cafeteras-502062",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Café importado gana terreno en Colombia y prende las alertas por el precio que reciben las familias cafeteras",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Qué cabe esperar del encuentro de Marco Rubio con la nueva administración De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/que-se-puede-esperar-de-la-reunion-de-marco-rubio-con-el-nuevo-gobierno-de-la-espriella-502059",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "¿Qué se puede esperar de la reunión de Marco Rubio con el nuevo Gobierno De La Espriella?",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "De mal en peor: el sismo evidenció la debilidad sanitaria en las zonas rurales golpeadas",
+        "url": "https://www.portafolio.co/economia/gobierno/de-mal-en-peor-el-terremoto-dejo-al-descubierto-la-fragilidad-de-la-salud-en-los-municipios-rurales-afectados-502055",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "De mal en peor: el terremoto dejó al descubierto la fragilidad de la salud en los municipios rurales afectados",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Declaración de renta 2026: La Dian anuncia los plazos vitales y el piso salarial para tributar",
+        "url": "https://www.portafolio.co/economia/impuestos/declaracion-de-renta-2026-la-dian-confirma-las-fechas-claves-y-desde-que-salario-le-toca-pagar-502056",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Declaración de renta 2026: La Dian confirma las fechas claves y desde que salario le toca pagar",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "El 30,7% de las agencias de viajes considera el turismo receptivo como la gran apuesta de expansión",
+        "url": "https://www.portafolio.co/economia/el-30-7-de-las-agencias-de-viajes-ve-en-el-turismo-receptivo-la-gran-apuesta-de-crecimiento-del-pais-502049",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "El 30,7% de las agencias de viajes ve en el turismo receptivo la gran apuesta de crecimiento del país",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Quiénes estarán autorizados para llevar armas legalmente en Colombia bajo el nuevo decreto estatal",
+        "url": "https://www.portafolio.co/economia/gobierno/porte-de-armas-en-colombia-asi-funcionara-tras-levantamiento-de-la-suspension-general-firmada-por-de-la-espriella-502051",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Quiénes podrán portar armas de fuego legalmente en Colombia con el nuevo decreto del Gobierno",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Banca rechaza subida del 50% en el ICA bogotano y exige conservar la tarifa actual",
+        "url": "https://www.portafolio.co/economia/regiones/sector-financiero-rechaza-aumento-de-50-en-el-ica-de-bogota-y-pide-mantener-la-tarifa-actual-502048",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Sector financiero rechaza aumento de 50% en el ICA de Bogotá y pide mantener la tarifa actual",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "De La Espriella suscribe decreto que frena la suspensión de permisos para porte de armas",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-firma-decreto-que-levanta-suspension-de-permisos-para-el-porte-de-armas-de-fuego-502047",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "De La Espriella firma decreto que levanta suspensión de permisos para el porte de armas de fuego",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Ministra Ana María Vesga advierte presunta red de cobros ilegales en Infraestructura de Salud",
+        "url": "https://www.portafolio.co/economia/gobierno/ministra-ana-maria-vesga-denuncia-presunta-red-de-cobros-irregulares-en-la-direccion-de-infraestructura-de-salud-502045",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Ministra Ana María Vesga denuncia presunta red de cobros irregulares en la Dirección de Infraestructura de Salud",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Uno de cada tres colombianos adultos carece de historial de crédito tradicional en la banca",
+        "url": "https://www.portafolio.co/economia/finanzas/uno-de-cada-tres-adultos-en-colombia-sigue-sin-historial-crediticio-tradicional-con-el-sistema-financiero-502043",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Uno de cada tres adultos en Colombia sigue sin historial crediticio tradicional con el sistema financiero",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Comida, hotelería, salud y educación sostienen la inflación anual sobre el 6,24% en agosto",
+        "url": "https://www.portafolio.co/economia/restaurantes-hoteles-salud-y-educacion-mantienen-la-inflacion-anual-por-encima-del-6-24-en-agosto-502042",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Restaurantes, hoteles, salud y educación mantienen la inflación anual por encima del 6,24% en agosto",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Guillermo Jaramillo asistirá a audiencia por filtrar datos médicos de Kevin Acosta: estado del caso",
+        "url": "https://www.portafolio.co/economia/gobierno/guillermo-jaramillo-ira-a-audiencia-por-revelar-datos-medicos-de-kevin-acosta-asi-avanza-el-caso-502041",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Guillermo Jaramillo irá a audiencia por revelar datos médicos de Kevin Acosta: así avanza el caso",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Contraloría halla detrimento fiscal por $370.000 millones en contratación de la ANT del Gobierno Petro",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-confirma-hallazgo-fiscal-por-370-000-millones-en-contratos-de-la-ant-del-gobierno-petro-502040",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Contraloría confirma hallazgo fiscal por $370.000 millones en contratos de la ANT del Gobierno Petro",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Costo de vida en Colombia: las razones por las cuales la inflación persiste",
+        "url": "https://www.portafolio.co/economia/crecimiento/inflacion-en-colombia-por-que-no-cede-el-costo-de-vida-502039",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Inflación en Colombia: ¿por qué no cede el costo de vida?",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Barranquilla apuesta por refugios climáticos, árboles y fuentes para combatir las altas temperaturas",
+        "url": "https://www.portafolio.co/economia/regiones/nuevos-puntos-de-fuentes-arboles-y-refugios-climaticos-la-apuesta-de-barranquilla-para-hacerle-frente-al-calor-502037",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Nuevos puntos de fuentes, árboles y refugios climáticos: la apuesta de Barranquilla para hacerle frente al calor",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Inversiones estratégicas en Bogotá se financiarán con $1,26 billones anuales de nueva reforma tributaria",
+        "url": "https://www.portafolio.co/economia/reforma-tributaria/reforma-tributaria-de-bogota-busca-generar-1-26-billones-anuales-para-financiar-inversiones-estrategicas-502036",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Reforma tributaria",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Reforma tributaria de Bogotá busca generar $1,26 billones anuales para financiar inversiones estratégicas",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
       {
         "titulo": "Tatyana Orozco suena como posible directora de la Cámara Colombiana de la Infraestructura",
         "url": "https://www.portafolio.co/economia/gobierno/quien-es-tatyana-orozco-la-persona-que-suena-para-liderar-la-camara-colombiana-de-la-infraestructura-502035",
@@ -443,169 +603,49 @@
         "publicacion": "2026-09-06",
         "titulo_fuente": "Dólar barato cambia la decisión empresarial: importar tecnología gana terreno frente a contratar más trabajadores",
         "capturado": "2026-09-06T20:16:25-05:00"
-      },
-      {
-        "titulo": "Compras de azúcar boliviano impactan el suroccidente en pleno proceso de reconstrucción",
-        "url": "https://www.portafolio.co/economia/agro/importaciones-de-azucar-de-bolivia-afectan-al-suroccidente-mientras-se-reconstruye-por-el-terremoto-501876",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Importaciones de azúcar de Bolivia afectan al suroccidente, mientras se reconstruye por el terremoto",
-        "capturado": "2026-09-06T20:16:25-05:00"
-      },
-      {
-        "titulo": "Plan Energía YA: administración nacional toma acciones contra El Niño para prevenir escasez",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-energia-ya-gobierno-activa-medidas-para-enfrentar-el-nino-y-evitar-desabastecimiento-501945",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Plan Energía YA: Gobierno activa medidas para enfrentar El Niño y evitar desabastecimiento",
-        "capturado": "2026-09-06T20:16:25-05:00"
-      },
-      {
-        "titulo": "Golpe a estructuras criminales: capturan a presunto sicario y a dos miembros del Clan del Golfo",
-        "url": "https://www.portafolio.co/economia/gobierno/golpe-a-estructuras-criminales-capturan-a-presunto-sicario-y-a-dos-miembros-del-clan-del-golfo-501940",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Golpe a estructuras criminales: capturan a presunto sicario y a dos miembros del Clan del Golfo",
-        "capturado": "2026-09-06T18:29:56-05:00"
-      },
-      {
-        "titulo": "Ministerio Público solicita indagar a trece exdirectivos por situación de la Nueva EPS con Guillermo Jaramillo",
-        "url": "https://www.portafolio.co/economia/gobierno/procuraduria-pide-investigar-a-13-exfuncionarios-por-crisis-de-la-nueva-eps-entre-ellos-esta-guillermo-jaramillo-501937",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Procuraduría pide investigar a 13 exfuncionarios por crisis de la Nueva EPS: entre ellos está Guillermo Jaramillo",
-        "capturado": "2026-09-06T16:33:28-05:00"
-      },
-      {
-        "titulo": "Sismo en Colombia: esquema armenio que serviría para guiar la restauración vial",
-        "url": "https://www.portafolio.co/economia/infraestructura/terremoto-en-colombia-el-modelo-de-armenia-que-podria-orientar-la-reconstruccion-de-infraestructura-501935",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Terremoto en Colombia: el modelo de Armenia que podría orientar la reconstrucción de infraestructura",
-        "capturado": "2026-09-06T16:33:28-05:00"
-      },
-      {
-        "titulo": "Roy Barreras confirma su salida como cabeza de la izquierda y afirma no más política",
-        "url": "https://www.portafolio.co/economia/regiones/no-mas-politica-los-dejo-descansar-roy-barreras-anuncio-su-retiro-como-lider-de-la-izquierda-501933",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "'¡No más política! Los dejo descansar': Roy Barreras anunció su retiro como líder de la izquierda",
-        "capturado": "2026-09-06T16:33:28-05:00"
-      },
-      {
-        "titulo": "Gobierno Nacional pretende modificar estos aspectos del Sistema General de Regalías",
-        "url": "https://www.portafolio.co/economia/gobierno/sistema-general-de-regalias-estos-son-los-puntos-que-busca-reformar-el-gobierno-nacional-501930",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Sistema General de Regalías: estos son los puntos que busca reformar el Gobierno Nacional",
-        "capturado": "2026-09-06T14:24:38-05:00"
-      },
-      {
-        "titulo": "Ministra de Salud describe el estado financiero, operativo y humanitario al asumir el sistema",
-        "url": "https://www.portafolio.co/economia/gobierno/crisis-humanitaria-financiera-y-operativa-ministra-de-salud-revela-como-recibio-el-sistema-sanitario-del-pais-501929",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "“Crisis humanitaria, financiera y operativa”: ministra de Salud revela cómo recibió el sistema sanitario del país",
-        "capturado": "2026-09-06T14:24:38-05:00"
-      },
-      {
-        "titulo": "Polémica por llamado de Petro a evitar a Avianca tras anular su vuelo por figurar en lista Clinton",
-        "url": "https://www.portafolio.co/economia/gobierno/sigue-la-controversia-petro-invita-a-no-viajar-en-avianca-tras-cancelar-su-vuelo-por-estar-en-la-lista-clinton-501924",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Sigue la controversia: Petro invita a no viajar en Avianca, tras cancelar su vuelo por estar en la lista Clinton",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Elefante Blanco presenta iniciativa para establecer separación de 150 kilómetros entre peajes",
-        "url": "https://www.portafolio.co/economia/regiones/elefante-blanco-radica-proyecto-para-fijar-distancia-de-150-kilometros-entre-peajes-del-pais-asi-funcionaria-501922",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "‘Elefante Blanco’ radica proyecto para fijar distancia de 150 kilómetros entre peajes del país: así funcionaría",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Minagricultura y PepsiCo impulsan la agricultura nacional con cultivo de papa, plátano y maíz",
-        "url": "https://www.portafolio.co/economia/agro/pepsico-y-minagricultura-buscan-darle-un-nuevo-impulso-al-campo-colombiano-con-papa-platano-y-maiz-amarillo-501921",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "PepsiCo y Minagricultura buscan darle un nuevo impulso al campo colombiano con papa, plátano y maíz amarillo",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Más de 150.000 venezolanos perderían estatus legal y Migración otorga 60 días para quitar el PPT",
-        "url": "https://www.portafolio.co/economia/gobierno/mas-de-150-000-venezolanos-quedarian-ilegales-migracion-da-60-dias-para-retirar-el-permiso-por-proteccion-temporal-501920",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Más de 150.000 venezolanos quedarían ilegales: Migración da 60 días para retirar el Permiso por Protección Temporal",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Gobierno descarta fusil Jaguar de Petro y halla déficit de 120.000 armas en las Fuerzas Armadas",
-        "url": "https://www.portafolio.co/economia/gobierno/fusil-jaguar-de-petro-queda-fuera-gobierno-revela-deficit-de-120-000-armas-en-las-fuerzas-armadas-501913",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Fusil Jaguar de Petro queda fuera: Gobierno revela déficit de 120.000 armas en las Fuerzas Armadas",
-        "capturado": "2026-09-05T18:12:48-05:00"
-      },
-      {
-        "titulo": "Hacienda admite 9,6 billones no presupuestados del FEPC que presionan el déficit fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/el-fepc-le-suma-presion-al-deficit-fiscal-hacienda-reconoce-9-6-billones-que-antes-no-estaban-presupuestados-501912",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "El FEPC le suma presión al déficit fiscal: Hacienda reconoce $9,6 billones que antes no estaban presupuestados",
-        "capturado": "2026-09-05T18:12:48-05:00"
-      },
-      {
-        "titulo": "Gobierno de De la Espriella acorrala a las EPS: cerrarán las que no funcionen",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-pone-a-las-eps-contra-las-cuerdas-las-que-no-sean-viables-seran-liquidadas-501904",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Gobierno de De la Espriella pone a las EPS contra las cuerdas: las que no sean viables serán liquidadas",
-        "capturado": "2026-09-05T14:15:36-05:00"
-      },
-      {
-        "titulo": "Administración de De La Espriella elimina el Minigualdad fundado por Petro",
-        "url": "https://www.portafolio.co/economia/gobierno/administracion-de-de-la-espriella-ejecuta-el-adios-al-minigualdad-creado-por-el-gobierno-petro-501900",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Administración de De La Espriella ejecuta el 'adiós' al Minigualdad, creado por el gobierno Petro",
-        "capturado": "2026-09-05T14:15:36-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ventas de vehículos eléctricos subieron 176% en agosto y Tesla encabezó el mercado nacional",
+        "url": "https://www.portafolio.co/negocios/vehiculo/matriculas-de-carros-electricos-crecieron-176-en-agosto-tesla-lidero-el-mercado-colombiano-502063",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Matrículas de carros eléctricos crecieron 176% en agosto: Tesla lideró el mercado colombiano",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Los datos por los cuales Colombia es considerada un mercado clave para la empresa Electrolux",
+        "url": "https://www.portafolio.co/negocios/industrias/las-cifras-que-hacen-que-colombia-sea-vista-como-un-mercado-estrategico-para-la-multinacional-electrolux-502054",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Las cifras que hacen que Colombia sea vista como un mercado estratégico para la multinacional Electrolux",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Familias colombianas disponen de mayor capacidad de gasto pero conservan prudencia al adquirir",
+        "url": "https://www.portafolio.co/negocios/comercio/hogares-colombianos-tienen-mas-margen-para-consumir-pero-mantienen-cautela-en-sus-compras-502050",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Hogares colombianos tienen más margen para consumir, pero mantienen cautela en sus compras",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
+      {
+        "titulo": "Tatyana Orozco asume la presidencia de la Cámara Colombiana de la Infraestructura",
+        "url": "https://www.portafolio.co/negocios/empresas/tatyana-orozco-es-la-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura-502046",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura",
+        "capturado": "2026-09-08T12:24:34-05:00"
+      },
       {
         "titulo": "Visitas sorpresa de Mintrabajo: 8 de cada 10 pymes en el país no se preparan y lo desconocen",
         "url": "https://www.portafolio.co/negocios/empresas/inspecciones-del-mintrabajo-sin-previo-aviso-8-de-cada-10-pymes-colombianas-no-estan-listas-y-no-lo-saben-502032",
