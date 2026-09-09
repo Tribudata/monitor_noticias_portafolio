@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T14:12:47-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-09T16:49:46-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Congreso Acoset 2026: el evento empresarial que definirá la agenda laboral colombiana",
+        "url": "https://www.portafolio.co/economia/finanzas/congreso-acoset-2026-la-cumbre-empresarial-que-marcara-la-hoja-de-ruta-del-trabajo-en-colombia-502162",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Congreso ACOSET 2026: La cumbre empresarial que marcará la hoja de ruta del trabajo en Colombia",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "El costo de vida nacional superaría el 7% e intereses llegarían al 13% por El Niño",
+        "url": "https://www.portafolio.co/economia/inflacion-en-colombia-podria-pasar-el-7-y-las-tasas-de-interes-llegarian-al-13-con-un-fuerte-fenomeno-de-el-nino-502156",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Inflación en Colombia podría pasar el 7% y las tasas de interés llegarían al 13% con un fuerte Fenómeno de El Niño",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "Presupuesto: Mintrabajo eleva 33,2% su gasto para 2027 enfocándose en empleo y formalidad",
+        "url": "https://www.portafolio.co/economia/empleo/presupuesto-mintrabajo-aumenta-33-2-su-inversion-para-2027-para-priorizar-empleo-y-formalizacion-502155",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Presupuesto: Mintrabajo aumenta 33,2% su inversión para 2027 para priorizar empleo y formalización",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "Cartagena lanzará acuabuses en diciembre con cuatro paradas en su fase inicial",
+        "url": "https://www.portafolio.co/economia/regiones/cartagena-probara-acuabuses-en-diciembre-estas-seran-las-cuatro-estaciones-del-piloto-inicial-502154",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Cartagena probará acuabuses en diciembre: estas serán las cuatro estaciones del piloto inicial",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
       {
         "titulo": "Minsalud solicita $13,9 billones adicionales para 2027 por huecos en aseguramiento y red hospitalaria",
         "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-13-9-billones-mas-para-2027-ante-faltantes-en-aseguramiento-y-recuperacion-hospitalaria-502145",
@@ -563,49 +603,49 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Minsalud revisa una brecha de $2,9 billones entre recursos comprometidos y pagos realizados",
         "capturado": "2026-09-07T23:23:08-05:00"
-      },
-      {
-        "titulo": "Gobernadora del Chocó resalta la estrategia de rescate para la región como un hecho histórico",
-        "url": "https://www.portafolio.co/economia/regiones/es-un-dia-historico-gobernadora-del-choco-destaca-plan-de-recuperacion-para-el-departamento-502012",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "'¡Es un día histórico!': Gobernadora del Chocó destaca plan de recuperación para el departamento",
-        "capturado": "2026-09-07T23:23:08-05:00"
-      },
-      {
-        "titulo": "Alza del costo de vida en Colombia ubicó la inflación en 6,24% en agosto, pico máximo desde julio de 2024",
-        "url": "https://www.portafolio.co/economia/finanzas/atencion-inflacion-se-acelero-en-agosto-y-llego-al-6-24-anual-502010",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Atención: Inflación en Colombia se aceleró en agosto y llegó al 6,24%, su nivel más alto desde julio de 2024",
-        "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "La estrategia de Restrepo para incrementar la inversión de Estados Unidos en territorio colombiano",
-        "url": "https://www.portafolio.co/economia/gobierno/esta-es-la-apuesta-de-restrepo-para-que-estados-unidos-invierta-mas-en-colombia-502009",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Esta es la apuesta de Restrepo para que Estados Unidos invierta más en Colombia",
-        "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Museo Nacional de Memoria alcanza 60% de progreso y prepara apertura parcial en Bogotá para 2027",
-        "url": "https://www.portafolio.co/economia/infraestructura/museo-nacional-de-memoria-llega-al-60-de-avance-y-alista-apertura-parcial-en-bogota-para-502008",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Museo Nacional de Memoria llega al 60 % de avance y alista apertura parcial en Bogotá para 2027",
-        "capturado": "2026-09-07T18:59:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Asi fue como Gilinski paso de US$170 millones a US$700 millones para quedarse con GeoPark",
+        "url": "https://www.portafolio.co/negocios/empresas/de-us-170-millones-a-us-700-millones-la-operacion-que-llevaria-a-gilinski-al-control-de-geopark-502161",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "De US$170 millones a US$700 millones: la operación que llevó a Gilinski al control de GeoPark",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "La CEO global de Pandora detalla el crecimiento de doble digito y sus 72 locales en Colombia",
+        "url": "https://www.portafolio.co/negocios/tenemos-double-digit-growth-en-colombia-la-ceo-global-de-pandora-explica-como-operan-los-72-puntos-en-colombia-502153",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "'Tenemos double digit growth en Colombia': la CEO global de Pandora explica cómo operan los 72 puntos en Colombia",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "Tostao' espera finalizar 2026 con $300.000 millones en ventas y un alza de hasta 15%",
+        "url": "https://www.portafolio.co/negocios/empresas/tostao-proyecta-cerrar-2026-con-ingresos-por-300-000-millones-y-un-crecimiento-de-hasta-502160",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Tostao' proyecta cerrar 2026 con ingresos por $300.000 millones y un crecimiento de hasta 15%",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
+      {
+        "titulo": "Cine Colombia invierte US$35 millones en Bogota con Lumina para expandirse mas alla del cine",
+        "url": "https://www.portafolio.co/negocios/empresas/cine-colombia-lleva-su-negocio-mas-alla-de-las-salas-con-una-apuesta-de-us-35-millones-en-bogota-con-lumina-502157",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Cine Colombia lleva su negocio más allá de las salas con una apuesta de US$35 millones en Bogotá con Lumina",
+        "capturado": "2026-09-09T16:49:46-05:00"
+      },
       {
         "titulo": "GAC lanza carro eléctrico de cinco puertas por menos de 60 millones y estas son sus especificaciones",
         "url": "https://www.portafolio.co/negocios/vehiculo/gac-aprieta-el-mercado-con-nuevo-electrico-de-cinco-puertas-por-menos-de-60-millones-estas-son-sus-caracteristicas-502144",
@@ -1164,36 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-09-04",
         "titulo_fuente": "Visita de Marco Rubio a Colombia podría traer alivio arancelario y más inversión de EE. UU.: Amcham",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Manejar inteligencia artificial supera a lo técnico como competencia con mayor auge laboral en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/la-habilidad-laboral-que-mas-crece-en-colombia-ya-no-es-tecnica-es-saber-trabajar-con-inteligencia-artificial-501835",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "La habilidad laboral que más crece en Colombia ya no es técnica: es saber trabajar con inteligencia artificial",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Estados Unidos contemplaría quitar arancel del 12,5 por ciento a ventas nacionales, igual que a Ecuador",
-        "url": "https://www.portafolio.co/negocios/comercio/arancel-de-12-5-a-exportaciones-colombianas-podria-desaparecer-esto-se-sabe-501834",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "EE. UU. estaría dispuesto a eliminar arancel de 12,5% a exportaciones colombianas, con trato similar al de Ecuador",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "De esta manera se edificó en Bogotá el Macondo digital para el segundo ciclo de Netflix sobre Cien años de soledad",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-se-construyo-el-macondo-digital-de-cien-anos-de-soledad-desde-bogota-para-la-segunda-temporada-de-netflix-501827",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Así se construyó el Macondo digital de Cien años de soledad desde Bogotá para la segunda temporada de Netflix",
         "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
