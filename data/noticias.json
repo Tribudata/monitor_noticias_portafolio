@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T17:53:07-05:00",
+  "actualizado": "2026-09-08T20:03:31-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "ANI establece plan para agilizar ocho iniciativas viales fundamentales del territorio nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/ani-define-hoja-de-ruta-para-acelerar-ocho-proyectos-carreteros-clave-en-el-pais-502096",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "ANI define hoja de ruta para acelerar ocho proyectos carreteros clave en el país",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
+      {
+        "titulo": "Pasivo externo estatal en Colombia aumentó 17,1% en doce meses, de acuerdo con el Emisor",
+        "url": "https://www.portafolio.co/economia/deuda-externa-publica-en-colombia-crecio-17-1-en-un-ano-segun-el-banco-de-la-republica-502095",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Deuda externa pública en Colombia creció 17,1% en un año, según el Banco de la República",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
+      {
+        "titulo": "Agenda paralela: actividades de la Primera Dama en compañía de la cónyuge de Marco Rubio",
+        "url": "https://www.portafolio.co/economia/gobierno/agenda-paralela-que-hizo-la-primera-dama-junto-a-la-esposa-de-marco-rubio-502093",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "'Agenda paralela': qué hizo la Primera Dama junto a la esposa de Marco Rubio",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
+      {
+        "titulo": "Estos son los pactos suscritos por Colombia y Estados Unidos sobre energía atómica y minerales",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-acuerdos-que-colombia-firmo-con-estados-unidos-en-minerales-y-energia-nuclear-502091",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Estos son los acuerdos que Colombia firmó con Estados Unidos en minerales y energía nuclear",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
+      {
+        "titulo": "El nuevo puerto antioqueño Puerto Progreso operará sin dragado y costará US$1.300 millones",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-nuevo-megapuerto-de-antioquia-puerto-progreso-sera-posible-sin-dragado-y-con-una-inversion-de-us-1-300-millones-502081",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "El nuevo megapuerto de Antioquia: Puerto Progreso será posible sin dragado y con una inversión de US$1.300 millones",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
+      {
+        "titulo": "Comerciantes solicitan al Concejo distrital detener incremento del ICA para vehículos y licores",
+        "url": "https://www.portafolio.co/economia/comerciantes-piden-al-concejo-de-bogota-frenar-alza-del-ica-a-licores-tabaco-y-vehiculos-502087",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Comerciantes piden al Concejo de Bogotá frenar alza del ICA a licores, tabaco y vehículos",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
       {
         "titulo": "Aliadas presenta ante el Gobierno de De La Espriella treinta iniciativas para disminuir la informalidad laboral",
         "url": "https://www.portafolio.co/economia/empleo/aliadas-pone-en-la-mesa-del-gobierno-de-la-espriella-30-propuestas-para-reducir-la-informalidad-en-el-pais-502085",
@@ -543,69 +603,19 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Incidentes por conducción temeraria en América Latina caen 24% en un año, según nuevo reporte de Yango",
         "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Edna María Tafur llega a la Superintendencia del Subsidio Familiar para supervisar fondos de las cajas",
-        "url": "https://www.portafolio.co/economia/edna-maria-tafur-asume-la-superintendencia-del-subsidio-familiar-con-foco-en-controlar-recursos-de-las-cajas-501971",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Edna María Tafur asume la Superintendencia del Subsidio Familiar con foco en controlar recursos de las cajas",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Gilinski, Santo Domingo y Vélez arriban al Chocó para la gran cumbre orientada a la reconstrucción",
-        "url": "https://www.portafolio.co/economia/gobierno/empresarios-llegan-a-cumbre-empresarial-del-choco-para-su-reconstruccion-gilinski-santo-domingo-y-otros-nombres-501970",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Empresarios como Gilinski, Santo Domingo y Vélez ya están en Chocó para la 'megacumbre' de la reconstrucción",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "En directo: Encuentro empresarial enfocado en transformar el Chocó y reconstruir la nación",
-        "url": "https://www.portafolio.co/economia/gobierno/en-vivo-cumbre-empresarial-para-transformar-el-choco-y-reconstruir-el-pais-501969",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "En vivo: Cumbre empresarial para transformar el Chocó y reconstruir el país",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Gobierno ampliaría transición al RUI para conservar subsidios y evitar la salida del Sisbén",
-        "url": "https://www.portafolio.co/economia/sisben-seguira-asignando-subsidios-durante-la-transicion-al-rui-que-el-gobierno-extendera-hasta-julio-de-501968",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Sisbén no desaparecería por ahora: Gobierno extendería transición al RUI para mantener la asignación de subsidios",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Gobierno ratifica nombramiento de Alejandro Ordóñez como embajador ante la OEA en Washington",
-        "url": "https://www.portafolio.co/economia/gobierno/alejandro-ordonez-ya-es-embajador-ante-la-oea-gobierno-oficializa-su-llegada-a-la-mision-diplomatica-en-washington-501964",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Alejandro Ordóñez ya es embajador ante la OEA: Gobierno oficializa su llegada a la misión diplomática en Washington",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "El respaldo virtual a Abelardo De La Espriella alcanza el 72,4% y estos son los sectores con mayor apoyo",
-        "url": "https://www.portafolio.co/economia/gobierno/aprobacion-digital-de-abelardo-de-la-espriella-llega-a-72-4-estos-son-los-sectores-que-mas-lo-respaldan-501966",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Aprobación digital de Abelardo De La Espriella llega a 72,4%: estos son los sectores que más lo respaldan",
-        "capturado": "2026-09-07T13:10:19-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los aportes tecnológicos benefician a los 77 millones de usuarios en los 10 países con presencia",
+        "url": "https://www.portafolio.co/negocios/inversion/las-inversiones-que-hacemos-en-tecnologia-benefician-a-los-77-millones-de-clientes-en-los-10-paises-donde-estamos-502090",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "‘Las inversiones que hacemos en tecnología benefician a los 77 millones de clientes en los 10 países donde estamos’",
+        "capturado": "2026-09-08T20:03:31-05:00"
+      },
       {
         "titulo": "Tostao impulsa el empleo de mujeres y presenta el café Mujeres Imparables",
         "url": "https://www.portafolio.co/negocios/empresas/tostao-le-apuesta-a-la-contratacion-femenina-y-lanza-el-cafe-mujeres-imparables-502082",
