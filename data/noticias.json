@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T06:42:52-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-09T10:58:18-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Detalles del decreto de De La Espriella sobre el fin de autorización especial y límites de porte",
+        "url": "https://www.portafolio.co/economia/gobierno/fin-de-la-autorizacion-especial-limites-del-porte-y-otros-detalles-del-decreto-publicado-de-de-la-espriella-502133",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Fin de la 'autorización especial', límites del porte y otros detalles del decreto publicado de De La Espriella",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Estrategias para la planeación futura de la capital",
+        "url": "https://www.portafolio.co/economia/infraestructura/como-planificar-bogota-hacia-el-futuro-502135",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Cómo planificar Bogotá hacia el futuro",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del euro frente al peso colombiano este 9 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-9-de-septiembre-frente-al-peso-colombiano-502130",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 9 de septiembre frente al peso colombiano",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Orígenes de la estafa piramidal de DMG y los motivos de su regreso a la actualidad nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/que-fue-la-estafa-piramidal-de-dmg-y-por-que-vuelve-a-ser-noticia-en-colombia-502129",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Qué fue la estafa piramidal de DMG y por qué vuelve a ser noticia en Colombia",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Concejo avala normativa para retirar cables de postes y fachadas en Bogotá",
+        "url": "https://www.portafolio.co/economia/gobierno/bogota-enterrara-sus-cables-en-postes-y-fachadas-concejo-aprueba-nuevas-reglas-para-redes-bajo-tierra-502124",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Bogotá enterrará su 'cablerío' en postes y fachadas: Concejo aprueba nuevas reglas para redes de servicios",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Exministros apoyan a Ana María Vesga y exigen pronta investigación sobre audio de fondos públicos",
+        "url": "https://www.portafolio.co/economia/gobierno/exministros-respaldan-a-ana-maria-vesga-y-piden-investigar-con-celeridad-el-audio-sobre-recursos-publicos-502127",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Exministros respaldan a Ana María Vesga y piden investigar con celeridad el audio sobre recursos públicos",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "En 2025 hubo 2.823 casos de suicidio en Colombia lo que equivale a una muerte cada 40 segundos",
+        "url": "https://www.portafolio.co/economia/regiones/cada-40-segundos-una-persona-muere-por-suicidio-colombia-registro-2-823-casos-durante-502123",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Cada 40 segundos una persona muere por suicidio: Colombia registró 2.823 casos durante 2025",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá define su cobro con dudas sobre plazos y se consulta el valor del pasaje",
+        "url": "https://www.portafolio.co/economia/regiones/metro-de-bogota-avanza-en-definicion-de-su-sistema-de-pago-ante-el-reto-del-cronograma-cuanto-costara-el-pasaje-502122",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Metro de Bogotá avanza en definición de su sistema de pago ante el reto del cronograma ¿Cuánto costará el pasaje?",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Pasivos por 58,06 billones de EPS a IPS y hospitales generan alerta financiera en 2025",
+        "url": "https://www.portafolio.co/economia/gobierno/hospitales-e-ips-absorben-el-golpe-financiero-de-las-eps-una-deuda-de-58-06-billones-enciende-las-alarmas-en-502120",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Hospitales e IPS absorben el golpe financiero de las EPS: una deuda de $58,06 billones enciende las alarmas en 2025",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Minagricultura otorga créditos y alivios financieros al sector del aguacate hass en Colombia",
+        "url": "https://www.portafolio.co/economia/agro/minagricultura-anuncia-credito-y-alivios-para-darle-un-tanque-de-oxigeno-al-sector-del-aguacate-hass-colombiano-502113",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Minagricultura anuncia crédito y alivios para darle un 'tanque de oxígeno' al sector del aguacate hass colombiano",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "El 72 % de compañías en Valle ve en peligro hasta 20 empleos tras un sismo",
+        "url": "https://www.portafolio.co/economia/regiones/terremoto-deja-en-riesgo-el-empleo-en-valle-72-de-empresas-tiene-hasta-20-puestos-comprometidos-502112",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Terremoto deja en riesgo el empleo en Valle: 72 % de empresas tiene hasta 20 puestos comprometidos",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
       {
         "titulo": "Cotización del dólar en Colombia hoy: la moneda sigue cayendo y se aproxima a los 3100 pesos",
         "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-continua-en-tendencia-a-la-baja-y-se-acerca-a-los-3-502111",
@@ -493,119 +603,59 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "¿Distancia mínima entre peajes?: lo que propone el proyecto de ley frente a la realidad en las vías",
         "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Ruta interoceánica y tren que unan terminales: iniciativas para enlazar el Chocó con el Atlántico",
-        "url": "https://www.portafolio.co/economia/gobierno/canal-interoceanico-y-ferrocarril-que-una-los-puertos-las-propuestas-para-conectar-choco-con-el-atlantico-501999",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Canal interoceánico y ferrocarril que una los puertos: las propuestas para conectar Chocó con el Atlántico",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Administración conserva valor presupuestal y prepara recorte de gastos para sanear cuentas estatales",
-        "url": "https://www.portafolio.co/economia/gobierno-mantiene-el-monto-del-presupuesto-y-alista-ajuste-del-gasto-para-ordenar-las-finanzas-publicas-501998",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Gobierno mantiene el monto del Presupuesto y alista ajuste del gasto para ordenar las finanzas públicas",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Adelanto en el Metro Línea 2: tres grupos extranjeros compiten por la adjudicación de las obras",
-        "url": "https://www.portafolio.co/economia/infraestructura/un-paso-mas-cerca-de-la-linea-2-del-metro-tres-consorcios-internacionales-se-disputan-el-contrato-de-construccion-501989",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Un paso más cerca de la Línea 2 del Metro: tres consorcios internacionales se disputan el contrato de construcción",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Plan vial: De La Espriella informa un billón de pesos para cinco carreteras y un terminal aéreo chocoano",
-        "url": "https://www.portafolio.co/economia/infraestructura/de-la-espriella-anuncia-paquete-de-1-billon-para-cinco-grandes-vias-y-un-aeropuerto-en-choco-501990",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Paquete de infraestructura: De La Espriella anuncia $1 billón para cinco grandes vías y un aeropuerto en Chocó",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Informan acciones fiscales especiales para Chocó: alivio tributario y recursos para proyectos",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncia-medidas-extraordinarias-para-el-choco-flexibilizacion-fiscal-y-financiacion-de-obras-501992",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Anuncian medidas presupuestales extraordinarias para Chocó: flexibilización fiscal y financiación de obras",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Plan Marshall de un billón para levantar el Chocó anuncia De La Espriella tras sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-presenta-plan-marshall-para-el-choco-tras-terremoto-invertira-1-billon-en-la-reconstruccion-501986",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "De La Espriella presenta Plan Marshall para el Chocó tras terremoto: invertirá $1 billón en la reconstrucción",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal colombiano en 2027 frenará con Ley de Rescate Económico según Davivienda",
-        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-sera-decisiva-para-contener-el-deficit-fiscal-de-colombia-en-2027-vision-davivienda-501982",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Ley de Rescate Económico será decisiva para contener el déficit fiscal de Colombia en 2027: Visión Davivienda",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Cuatro carriles y tres pasos deprimidos tendrá el nuevo puente de la calle 100 con Séptima",
-        "url": "https://www.portafolio.co/economia/infraestructura/asi-se-vera-el-nuevo-puente-de-la-calle-100-con-septima-en-bogota-cuatro-carriles-y-tres-pasos-deprimidos-501973",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Así se verá el nuevo puente de la calle 100 con Séptima en Bogotá: cuatro carriles y tres pasos deprimidos",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Colegios bogotanos ajustarán presupuestos y manuales para aplicar restricción de celulares",
-        "url": "https://www.portafolio.co/economia/asi-funcionara-el-uso-de-celulares-en-colegios-de-bogota-deberan-ajustar-manuales-de-convivencia-y-presupuestos-501980",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Así funcionará el uso de celulares en colegios de Bogotá: deberán ajustar manuales de convivencia y presupuestos",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Corte define supuestos donde EPS asumirán el recibo de luz de ciertos pacientes",
-        "url": "https://www.portafolio.co/economia/gobierno/las-eps-deberan-pagar-la-factura-de-energia-a-los-pacientes-en-estos-casos-esto-dijo-la-corte-501979",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Las EPS deberán pagar la factura de energía a los pacientes en estos casos: esto dijo la Corte",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Conclusiones de la cumbre de empresarios en Chocó revela el presidente Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-abelardo-de-la-espriella-entrega-conclusiones-de-la-cumbre-de-empresarios-en-choco-501978",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Presidente Abelardo De La Espriella entrega conclusiones de la cumbre de empresarios en Chocó",
-        "capturado": "2026-09-07T16:42:18-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bayer afirma que su meta es entrar a los discounters con una oferta idónea de salud",
+        "url": "https://www.portafolio.co/negocios/empresas/queremos-llegar-a-los-discounters-con-un-portafolio-de-salud-adecuado-bayer-502134",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "‘Queremos llegar a los discounters con un portafolio de salud adecuado’: Bayer",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Usuarios de Nu podrán sacar hasta $700.000 en D1 con QR y sin plástico: así operará",
+        "url": "https://www.portafolio.co/negocios/empresas/clientes-de-nu-podran-retirar-hasta-700-000-en-tiendas-d1-con-codigo-qr-y-sin-tarjeta-fisica-asi-funcionara-502131",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Clientes de Nu podrán retirar hasta $700.000 en tiendas D1 con código QR y sin tarjeta física: así funcionará",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Marco Rubio habló de los aranceles a Colombia tras encuentro con De La Espriella",
+        "url": "https://www.portafolio.co/negocios/comercio/estados-unidos-levantara-los-aranceles-a-colombia-esto-dijo-marco-rubio-tras-reunirse-con-de-la-espriella-502121",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "¿Estados Unidos levantará los aranceles a Colombia? Esto dijo Marco Rubio tras reunirse con De La Espriella",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Coca-Cola renueva la imagen de sus envases en Colombia hacia una nueva etapa comercial",
+        "url": "https://www.portafolio.co/negocios/empresas/coca-cola-cambia-diseno-de-sus-latas-y-botellas-en-colombia-y-lleva-sus-simbolos-iconicos-a-nueva-etapa-comercial-502117",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Coca-Cola cambia diseño de sus latas y botellas en Colombia y lleva sus símbolos icónicos a nueva etapa comercial",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado rechaza tutela de Jorge Andrés Carrillo frente a nulidad en ISA",
+        "url": "https://www.portafolio.co/negocios/empresas/consejo-de-estado-declara-improcedente-tutela-de-jorge-andres-carrillo-contra-la-nulidad-de-su-eleccion-en-isa-502118",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Consejo de Estado declara improcedente tutela de Jorge Andrés Carrillo contra la nulidad de su elección en ISA",
+        "capturado": "2026-09-09T10:58:18-05:00"
+      },
       {
         "titulo": "Los aportes tecnológicos benefician a los 77 millones de usuarios en los 10 países con presencia",
         "url": "https://www.portafolio.co/negocios/inversion/las-inversiones-que-hacemos-en-tecnologia-benefician-a-los-77-millones-de-clientes-en-los-10-paises-donde-estamos-502090",
