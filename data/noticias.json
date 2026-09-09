@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T16:49:46-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-09T18:50:20-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Juliana Guerrero pide disculpas a la nación tras admitir su culpabilidad en fraude procesal",
+        "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-pide-perdon-al-pais-tras-aceptar-responsabilidad-por-fraude-procesal-502168",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Juliana Guerrero pide perdón al país tras aceptar responsabilidad por fraude procesal",
+        "capturado": "2026-09-09T18:50:20-05:00"
+      },
+      {
+        "titulo": "Pasa primer debate la reforma tributaria de Galán en Bogotá con cambios al ICA y rebajas",
+        "url": "https://www.portafolio.co/economia/regiones/aprueban-en-primer-debate-ajustes-al-ica-en-bogota-proyecto-incluye-alivios-del-60-en-sanciones-502167",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Aprueban en primer debate reforma tributaria de Galán en Bogotá, que incluye ajustes al ICA y alivios en sanciones",
+        "capturado": "2026-09-09T18:50:20-05:00"
+      },
+      {
+        "titulo": "Cual fue el ganador del galardon Vida y Obra de los premios Portafolio 2025",
+        "url": "https://www.portafolio.co/economia/quien-fue-el-ganador-del-premio-vida-y-obra-de-los-premios-portafolio-502166",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "¿Quién fue el ganador del premio Vida y Obra de los premios Portafolio 2025?",
+        "capturado": "2026-09-09T18:50:20-05:00"
+      },
+      {
+        "titulo": "Cual seria el costo de soterrar los cables de postes y fachadas en Bogota segun calculos",
+        "url": "https://www.portafolio.co/economia/gobierno/cuanto-podria-costar-enterrar-el-cablerio-de-los-postes-y-fachadas-de-bogota-estas-son-algunas-estimaciones-502158",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "¿Cuánto podría costar enterrar el 'cablerío' de los postes y fachadas de Bogotá? Estas son algunas estimaciones",
+        "capturado": "2026-09-09T18:50:20-05:00"
+      },
+      {
+        "titulo": "Cual es la razon de los menores ingresos de los profesionales universitarios en Colombia",
+        "url": "https://www.portafolio.co/economia/por-que-ganan-menos-los-profesionales-universitarios-en-colombia-502164",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "¿Por qué ganan menos los profesionales universitarios en Colombia?",
+        "capturado": "2026-09-09T18:50:20-05:00"
+      },
       {
         "titulo": "Congreso Acoset 2026: el evento empresarial que definirá la agenda laboral colombiana",
         "url": "https://www.portafolio.co/economia/finanzas/congreso-acoset-2026-la-cumbre-empresarial-que-marcara-la-hoja-de-ruta-del-trabajo-en-colombia-502162",
@@ -553,56 +603,6 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza este 8 de septiembre frente al peso colombiano",
         "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Visita de Marco Rubio a Colombia: comercio, seguridad y narcotráfico en su cita con De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-llega-a-colombia-comercio-seguridad-y-narcotrafico-los-temas-clave-de-su-reunion-con-de-la-espriella-502026",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Marco Rubio llega a Colombia: comercio, seguridad y narcotráfico, los temas clave de su reunión con De La Espriella",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar en Colombia: así se mueve la moneda estadounidense este 8 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-estadounidense-la-jornada-de-este-8-de-septiembre-502025",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa estadounidense la jornada de este 8 de septiembre",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Colombia retrocede en las pruebas PISA 2025: baja en Lectura y Matemáticas y persiste la brecha educativa",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-se-rezaga-en-las-pruebas-pisa-2025-cae-en-lectura-y-matematicas-y-mantiene-fuertes-brechas-educativas-502024",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Colombia se rezaga en las pruebas PISA 2025: cae en Lectura y Matemáticas y mantiene fuertes brechas educativas",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Sismo e inflación: de esta manera terminó agosto en las urbes más afectadas por la crisis",
-        "url": "https://www.portafolio.co/economia/regiones/terremoto-e-inflacion-asi-cerro-agosto-para-las-ciudades-mas-golpeadas-por-la-emergencia-502022",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Terremoto e inflación: así cerró agosto para las ciudades más golpeadas por la emergencia",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "El Minsalud analiza un bache de 2,9 billones de pesos entre fondos asignados y giros ejecutados",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-revisa-una-brecha-de-2-9-billones-entre-recursos-comprometidos-y-pagos-realizados-502023",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Minsalud revisa una brecha de $2,9 billones entre recursos comprometidos y pagos realizados",
-        "capturado": "2026-09-07T23:23:08-05:00"
       }
     ],
     "Negocios": [
