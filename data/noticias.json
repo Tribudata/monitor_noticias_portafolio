@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-08T20:03:31-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-09T01:23:39-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El legado de Petro: el desmedro del bienestar",
+        "url": "https://www.portafolio.co/economia/el-legado-de-petro-el-deterioro-del-bienestar-502105",
+        "resumen": "",
+        "autor": "Hernan avendano cruz",
+        "subseccion": "",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "El legado de Petro: el deterioro del bienestar",
+        "capturado": "2026-09-09T01:23:39-05:00"
+      },
+      {
+        "titulo": "Senado convoca a moción de censura al ministro de Vivienda por viaje a Santa Marta tras el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/senado-cita-a-mocion-de-censura-al-ministro-de-vivienda-por-viaje-a-santa-marta-tras-el-terremoto-502099",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Senado cita a moción de censura al ministro de Vivienda por viaje a Santa Marta tras el terremoto",
+        "capturado": "2026-09-09T01:23:39-05:00"
+      },
       {
         "titulo": "ANI establece plan para agilizar ocho iniciativas viales fundamentales del territorio nacional",
         "url": "https://www.portafolio.co/economia/gobierno/ani-define-hoja-de-ruta-para-acelerar-ocho-proyectos-carreteros-clave-en-el-pais-502096",
@@ -583,26 +603,6 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Presupuesto 2027 aumenta $59,3 billones y parte de un déficit fiscal histórico de 9,4% del PIB nacional",
         "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo presenta ocho guías al nuevo Gobierno y avisa que sin disciplina fiscal nada avanza",
-        "url": "https://www.portafolio.co/economia/fedesarrollo-propone-ocho-hojas-de-ruta-al-nuevo-gobierno-y-advierte-que-sin-orden-fiscal-nada-mas-funciona-501976",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Fedesarrollo propone ocho hojas de ruta al nuevo Gobierno y advierte que sin orden fiscal nada más funciona",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Reporte de Yango señala descenso del 24% en incidentes por manejo imprudente en América Latina en un año",
-        "url": "https://www.portafolio.co/economia/incidentes-por-conduccion-temeraria-en-america-latina-caen-24-en-un-ano-segun-nuevo-reporte-de-yango-501967",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Incidentes por conducción temeraria en América Latina caen 24% en un año, según nuevo reporte de Yango",
-        "capturado": "2026-09-07T13:10:19-05:00"
       }
     ],
     "Negocios": [
