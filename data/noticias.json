@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T01:23:39-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-09T06:42:52-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Cotización del dólar en Colombia hoy: la moneda sigue cayendo y se aproxima a los 3100 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-continua-en-tendencia-a-la-baja-y-se-acerca-a-los-3-502111",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Precio del dólar hoy en colombia: divisa continúa en tendencia a la baja y se acerca a los $3.100",
+        "capturado": "2026-09-09T06:42:52-05:00"
+      },
       {
         "titulo": "El legado de Petro: el desmedro del bienestar",
         "url": "https://www.portafolio.co/economia/el-legado-de-petro-el-deterioro-del-bienestar-502105",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-09-07",
         "titulo_fuente": "Presidente Abelardo De La Espriella entrega conclusiones de la cumbre de empresarios en Chocó",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "El presupuesto de 2027 sube 59,3 billones de pesos y arranca con un déficit fiscal récord de 9,4% del PIB",
-        "url": "https://www.portafolio.co/economia/presupuesto-2027-aumenta-59-3-billones-y-parte-de-un-deficit-fiscal-historico-de-9-4-del-pib-nacional-501977",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Presupuesto 2027 aumenta $59,3 billones y parte de un déficit fiscal histórico de 9,4% del PIB nacional",
         "capturado": "2026-09-07T16:42:18-05:00"
       }
     ],
