@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T10:58:18-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-09-09T14:12:47-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Minsalud solicita $13,9 billones adicionales para 2027 por huecos en aseguramiento y red hospitalaria",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-13-9-billones-mas-para-2027-ante-faltantes-en-aseguramiento-y-recuperacion-hospitalaria-502145",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Minsalud pide $13,9 billones más para 2027 ante faltantes en aseguramiento y recuperación hospitalaria",
+        "capturado": "2026-09-09T14:12:47-05:00"
+      },
+      {
+        "titulo": "Juliana Guerrero selló preacuerdo con la Fiscalía y admitió haber recibido títulos falsos de la Fundación San José",
+        "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-firmo-preacuerdo-con-la-fiscalia-acepto-que-recibio-titulos-falsos-de-la-fundacion-san-jose-502143",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Juliana Guerrero firmó preacuerdo con la Fiscalía: aceptó que recibió títulos falsos de la Fundación San José",
+        "capturado": "2026-09-09T14:12:47-05:00"
+      },
+      {
+        "titulo": "S&P National Ratings ratifica altas notas al Banco AV Villas debido a su sólida estrategia financiera",
+        "url": "https://www.portafolio.co/economia/finanzas/s-p-national-ratings-confirma-maximas-calificaciones-al-banco-av-villas-por-su-fuerte-estrategia-financiera-502136",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "S&P National Ratings confirma máximas calificaciones al Banco AV Villas por su fuerte estrategia financiera",
+        "capturado": "2026-09-09T14:12:47-05:00"
+      },
       {
         "titulo": "Detalles del decreto de De La Espriella sobre el fin de autorización especial y límites de porte",
         "url": "https://www.portafolio.co/economia/gobierno/fin-de-la-autorizacion-especial-limites-del-porte-y-otros-detalles-del-decreto-publicado-de-de-la-espriella-502133",
@@ -573,39 +603,29 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Museo Nacional de Memoria llega al 60 % de avance y alista apertura parcial en Bogotá para 2027",
         "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Instituciones bancarias elevaron sus ganancias gracias a un mejor crédito que redujo sus gastos en provisiones",
-        "url": "https://www.portafolio.co/economia/finanzas/los-bancos-incrementaron-su-rentabilidad-por-una-mejora-del-credito-que-les-hizo-bajar-sus-gastos-en-provisiones-502007",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Los bancos incrementaron su rentabilidad por una mejora del crédito, que les hizo bajar sus gastos en provisiones",
-        "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Indepaz señala aumento del 14% en masacres en Colombia con 89 casos registrados este año",
-        "url": "https://www.portafolio.co/economia/gobierno/masacres-en-colombia-suben-14-en-2026-indepaz-reporta-89-casos-en-lo-que-va-corrido-del-ano-502002",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Masacres en Colombia suben 14% en 2026: Indepaz reporta 89 casos en lo que va corrido del año",
-        "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Separación mínima entre peajes: iniciativa legislativa frente a la situación actual de las carreteras",
-        "url": "https://www.portafolio.co/economia/infraestructura/distancia-minima-entre-peajes-lo-que-propone-el-proyecto-de-ley-frente-a-la-realidad-en-las-vias-501985",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "¿Distancia mínima entre peajes?: lo que propone el proyecto de ley frente a la realidad en las vías",
-        "capturado": "2026-09-07T16:42:18-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "GAC lanza carro eléctrico de cinco puertas por menos de 60 millones y estas son sus especificaciones",
+        "url": "https://www.portafolio.co/negocios/vehiculo/gac-aprieta-el-mercado-con-nuevo-electrico-de-cinco-puertas-por-menos-de-60-millones-estas-son-sus-caracteristicas-502144",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "GAC aprieta el mercado con nuevo eléctrico de cinco puertas por menos de 60 millones: estas son sus características",
+        "capturado": "2026-09-09T14:12:47-05:00"
+      },
+      {
+        "titulo": "Eli Lilly compraría a Merida Biosciences por cerca de US$2.875 millones para potenciar su inmunología",
+        "url": "https://www.portafolio.co/negocios/empresas/eli-lilly-pagaria-hasta-us-2-875-millones-por-merida-biosciences-y-reforzaria-su-apuesta-por-la-inmunologia-502141",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Eli Lilly pagaría hasta US$2.875 millones por Merida Biosciences y reforzaría su apuesta por la inmunología",
+        "capturado": "2026-09-09T14:12:47-05:00"
+      },
       {
         "titulo": "Bayer afirma que su meta es entrar a los discounters con una oferta idónea de salud",
         "url": "https://www.portafolio.co/negocios/empresas/queremos-llegar-a-los-discounters-con-un-portafolio-de-salud-adecuado-bayer-502134",
