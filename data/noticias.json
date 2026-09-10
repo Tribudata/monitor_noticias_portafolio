@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T14:56:46-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-10T17:20:45-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Un mes tras el sismo, así progresan las obras de derribo y edificación en Cali",
+        "url": "https://www.portafolio.co/economia/regiones/un-mes-despues-del-terremoto-asi-avanza-la-demolicion-y-reconstruccion-de-edificios-en-cali-502253",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Un mes después del terremoto, así avanza la demolición y reconstrucción de edificios en Cali",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "El cupo para iniciativas APP descendería al mínimo en 2030, con solo 0,04% del PIB",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-espacio-para-nuevos-proyectos-app-tocaria-su-punto-mas-bajo-en-2030-con-apenas-0-04-del-pib-disponible-502233",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "El espacio para nuevos proyectos APP tocaría su punto más bajo en 2030, con apenas 0,04% del PIB disponible",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Cuánto aportaron las empresas para levantar la zona afectada por el movimiento telúrico",
+        "url": "https://www.portafolio.co/economia/cuanto-ha-donado-el-sector-empresarial-para-la-reconstruccion-tras-el-terremoto-502252",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿Cuánto ha donado el sector empresarial para la reconstrucción tras el terremoto?",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Juliana Guerrero enfrentaría otro proceso legal tras su fallo, veto y sanción",
+        "url": "https://www.portafolio.co/economia/gobierno/caso-juliana-guerrero-podria-sumar-nueva-investigacion-tras-condena-inhabilidad-y-multa-502251",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Caso Juliana Guerrero podría sumar nueva investigación tras condena, inhabilidad y multa",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella sacó a exfuncionarios de Petro y pasados gobiernos de cámaras de comercio",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-retiro-a-todos-los-representantes-que-dejaron-petro-y-otros-gobiernos-en-camaras-de-comercio-502247",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "De La Espriella retiró a todos los representantes que dejaron Petro y otros gobiernos en cámaras de comercio",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Por qué las empresas emergentes de Colombia paran su expansión, según analistas",
+        "url": "https://www.portafolio.co/economia/finanzas/por-que-las-startups-colombianas-se-frenan-al-crecer-esto-dicen-los-expertos-502250",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿Por qué las startups colombianas se frenan al crecer? Esto dicen los expertos",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Sanción económica y prohibición a Juliana Guerrero por incurrir en fraude procesal",
+        "url": "https://www.portafolio.co/economia/gobierno/cuanto-debera-pagar-juliana-guerrero-tras-ser-condenada-e-inhabilitada-por-fraude-procesal-502249",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿Cuánto deberá pagar Juliana Guerrero tras ser condenada e inhabilitada por fraude procesal?",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Fondo de Desarrollo Nacional prestará hasta $610.000 millones, el 50% para Accesos Norte Fase II",
+        "url": "https://www.portafolio.co/economia/infraestructura/fondo-de-desarrollo-nacional-aportara-hasta-610-000-millones-de-deuda-para-accesos-norte-fase-ii-equivale-al-502244",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Fondo de Desarrollo Nacional aportará hasta $610.000 millones de deuda para Accesos Norte Fase II, equivale al 50%",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Decretos de emergencia permiten pasivos y traslados, pero el Presupuesto asumiría gran parte",
+        "url": "https://www.portafolio.co/economia/decretos-de-emergencia-habilitan-deuda-y-reasignaciones-pero-gran-parte-del-costo-aun-seria-del-presupuesto-502246",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Decretos de emergencia habilitan deuda y reasignaciones, pero gran parte del costo aún sería del Presupuesto",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "A un mes del sismo, Primera Dama reporta más de 5.000 toneladas de asistencia entregadas",
+        "url": "https://www.portafolio.co/economia/regiones/primera-dama-ana-lucia-pineda-publica-balance-de-su-campana-tras-un-mes-del-terremoto-mas-de-5-000-toneladas-502239",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Primera Dama publica balance de su campaña tras un mes del terremoto: más de 5.000 toneladas de ayuda",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Ministerio de Relaciones Exteriores pide aval para personalizar libretas de pasaporte actuales",
+        "url": "https://www.portafolio.co/economia/gobierno/cancilleria-solicita-autorizar-la-personalizacion-del-stock-existente-en-el-pasaportes-de-colombia-502243",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Cancillería solicita autorizar la personalización del stock existente en el pasaportes de Colombia",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Mintrabajo avisa sobre déficit de $4,84 billones para cubrir mesadas pensionales en 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/mintrabajo-advierte-faltante-de-4-84-billones-para-garantizar-el-pago-de-pensiones-para-502238",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Hay faltante de $4,84 billones para garantizar el pago de pensiones en 2027, advierte Mintrabajo",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
       {
         "titulo": "El 75% de las personas analfabetas en Colombia se consideran campesinas según la geografía del aprendizaje",
         "url": "https://www.portafolio.co/economia/regiones/la-geografia-que-define-quien-aprende-a-leer-en-colombia-75-de-los-analfabetas-en-colombia-se-reconoce-campesino-502222",
@@ -483,129 +603,39 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Juliana Guerrero firmó preacuerdo con la Fiscalía: aceptó que recibió títulos falsos de la Fundación San José",
         "capturado": "2026-09-09T14:12:47-05:00"
-      },
-      {
-        "titulo": "S&P National Ratings ratifica altas notas al Banco AV Villas debido a su sólida estrategia financiera",
-        "url": "https://www.portafolio.co/economia/finanzas/s-p-national-ratings-confirma-maximas-calificaciones-al-banco-av-villas-por-su-fuerte-estrategia-financiera-502136",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "S&P National Ratings confirma máximas calificaciones al Banco AV Villas por su fuerte estrategia financiera",
-        "capturado": "2026-09-09T14:12:47-05:00"
-      },
-      {
-        "titulo": "Detalles del decreto de De La Espriella sobre el fin de autorización especial y límites de porte",
-        "url": "https://www.portafolio.co/economia/gobierno/fin-de-la-autorizacion-especial-limites-del-porte-y-otros-detalles-del-decreto-publicado-de-de-la-espriella-502133",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Fin de la 'autorización especial', límites del porte y otros detalles del decreto publicado de De La Espriella",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Estrategias para la planeación futura de la capital",
-        "url": "https://www.portafolio.co/economia/infraestructura/como-planificar-bogota-hacia-el-futuro-502135",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Cómo planificar Bogotá hacia el futuro",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del euro frente al peso colombiano este 9 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-9-de-septiembre-frente-al-peso-colombiano-502130",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 9 de septiembre frente al peso colombiano",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Orígenes de la estafa piramidal de DMG y los motivos de su regreso a la actualidad nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/que-fue-la-estafa-piramidal-de-dmg-y-por-que-vuelve-a-ser-noticia-en-colombia-502129",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Qué fue la estafa piramidal de DMG y por qué vuelve a ser noticia en Colombia",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Concejo avala normativa para retirar cables de postes y fachadas en Bogotá",
-        "url": "https://www.portafolio.co/economia/gobierno/bogota-enterrara-sus-cables-en-postes-y-fachadas-concejo-aprueba-nuevas-reglas-para-redes-bajo-tierra-502124",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Bogotá enterrará su 'cablerío' en postes y fachadas: Concejo aprueba nuevas reglas para redes de servicios",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Exministros apoyan a Ana María Vesga y exigen pronta investigación sobre audio de fondos públicos",
-        "url": "https://www.portafolio.co/economia/gobierno/exministros-respaldan-a-ana-maria-vesga-y-piden-investigar-con-celeridad-el-audio-sobre-recursos-publicos-502127",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Exministros respaldan a Ana María Vesga y piden investigar con celeridad el audio sobre recursos públicos",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "En 2025 hubo 2.823 casos de suicidio en Colombia lo que equivale a una muerte cada 40 segundos",
-        "url": "https://www.portafolio.co/economia/regiones/cada-40-segundos-una-persona-muere-por-suicidio-colombia-registro-2-823-casos-durante-502123",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Cada 40 segundos una persona muere por suicidio: Colombia registró 2.823 casos durante 2025",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Metro de Bogotá define su cobro con dudas sobre plazos y se consulta el valor del pasaje",
-        "url": "https://www.portafolio.co/economia/regiones/metro-de-bogota-avanza-en-definicion-de-su-sistema-de-pago-ante-el-reto-del-cronograma-cuanto-costara-el-pasaje-502122",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Metro de Bogotá avanza en definición de su sistema de pago ante el reto del cronograma ¿Cuánto costará el pasaje?",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Pasivos por 58,06 billones de EPS a IPS y hospitales generan alerta financiera en 2025",
-        "url": "https://www.portafolio.co/economia/gobierno/hospitales-e-ips-absorben-el-golpe-financiero-de-las-eps-una-deuda-de-58-06-billones-enciende-las-alarmas-en-502120",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Hospitales e IPS absorben el golpe financiero de las EPS: una deuda de $58,06 billones enciende las alarmas en 2025",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Minagricultura otorga créditos y alivios financieros al sector del aguacate hass en Colombia",
-        "url": "https://www.portafolio.co/economia/agro/minagricultura-anuncia-credito-y-alivios-para-darle-un-tanque-de-oxigeno-al-sector-del-aguacate-hass-colombiano-502113",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Minagricultura anuncia crédito y alivios para darle un 'tanque de oxígeno' al sector del aguacate hass colombiano",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "El 72 % de compañías en Valle ve en peligro hasta 20 empleos tras un sismo",
-        "url": "https://www.portafolio.co/economia/regiones/terremoto-deja-en-riesgo-el-empleo-en-valle-72-de-empresas-tiene-hasta-20-puestos-comprometidos-502112",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Terremoto deja en riesgo el empleo en Valle: 72 % de empresas tiene hasta 20 puestos comprometidos",
-        "capturado": "2026-09-09T10:58:18-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El ochenta por ciento de las firmas del país desaparecería hoy y a los ciudadanos les daría igual",
+        "url": "https://www.portafolio.co/negocios/ocho-de-cada-diez-marcas-colombianas-podrian-morir-manana-mismo-y-al-pais-ni-siquiera-le-importaria-502229",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Ocho de cada diez marcas colombianas podrían morir mañana mismo y al país ni siquiera le importaría",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Loymark compra Ariadna Health por un millón de dólares y apunta al sector salud de la región",
+        "url": "https://www.portafolio.co/negocios/empresas/loymark-adquiere-ariadna-health-por-us-1-millon-y-pone-el-foco-en-el-creciente-mercado-regional-de-salud-502240",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Loymark adquiere Ariadna Health por US$1 millón y pone el foco en el creciente mercado regional de salud",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
+      {
+        "titulo": "Nubank usará Bre-B como pieza clave para girar remesas sin costo desde EE UU hacia Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/bre-b-sera-clave-en-la-apuesta-de-nubank-para-enviar-remesas-gratis-desde-estados-unidos-a-colombia-502242",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Bre-B será clave en la apuesta de Nubank para enviar remesas gratis desde Estados Unidos a Colombia",
+        "capturado": "2026-09-10T17:20:45-05:00"
+      },
       {
         "titulo": "Avianca incorpora suites privadas en quince aeronaves para trayectos hacia Europa y Nueva York",
         "url": "https://www.portafolio.co/negocios/avianca-anuncia-una-nueva-cabina-en-15-aviones-con-suites-privadas-en-sus-vuelos-a-europa-y-nueva-york-502196",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-04",
         "titulo_fuente": "La salud mental se convierte en un reto para las empresas: el 72% de los colaboradores teme impactos en su carrera",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "HPE cede a Oracle 4,15 millones de títulos a un centavo al alcanzar objetivos de compra para IA",
-        "url": "https://www.portafolio.co/negocios/empresas/hpe-ofrece-a-oracle-4-15-millones-de-acciones-a-un-centavo-si-cumple-metas-de-compras-para-ia-501875",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "HPE ofrece a Oracle 4,15 millones de acciones a un centavo si cumple metas de compras para IA",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Jaime Gilinski estuvo en Caracas junto a Delcy Rodríguez tras concretarse el acuerdo petrolero con Venezuela",
-        "url": "https://www.portafolio.co/negocios/empresas/jaime-gilinski-aparecio-en-caracas-con-la-presidenta-rodriguez-tras-concretarse-acuerdo-petrolero-con-venezuela-501872",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Jaime Gilinski apareció en Caracas con Delcy Rodríguez, tras concretarse acuerdo petrolero con Venezuela",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Totto renueva sus puntos de venta en Colombia con una nueva experiencia para los consumidores",
-        "url": "https://www.portafolio.co/negocios/comercio/totto-transforma-sus-tiendas-en-colombia-asi-sera-la-nueva-experiencia-para-sus-clientes-501860",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Totto transforma sus tiendas en Colombia: así será la nueva experiencia para sus clientes",
         "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
