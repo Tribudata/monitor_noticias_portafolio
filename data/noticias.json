@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T18:50:20-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-09T22:15:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo encarga a José Manuel Restrepo la coordinación de energía, IA y rubros de inversión",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-asigna-a-jose-manuel-restrepo-la-coordinacion-de-inversion-ia-y-energia-502172",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Gobierno asigna a José Manuel Restrepo la coordinación de inversión, IA y energía",
+        "capturado": "2026-09-09T22:15:21-05:00"
+      },
+      {
+        "titulo": "Administración nacional solicitará al Legislativo 1,2 billones de pesos para prevenir apagones en El Niño",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pedira-al-congreso-1-2-billones-para-evitar-apagones-durante-el-nino-502171",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Gobierno pedirá al Congreso $1,2 billones para evitar apagones durante El Niño",
+        "capturado": "2026-09-09T22:15:21-05:00"
+      },
+      {
+        "titulo": "Primicia: tarifa oficial del iPhone 18 Pro y Pro Max en los establecimientos Mac Center de Colombia",
+        "url": "https://www.portafolio.co/economia/primicia-precio-oficial-del-iphone-18-pro-y-pro-max-en-las-tiendas-de-mac-center-en-colombia-502163",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Primicia: precio oficial del iPhone 18 Pro y Pro Max en las tiendas de Mac Center en Colombia",
+        "capturado": "2026-09-09T22:15:21-05:00"
+      },
+      {
+        "titulo": "Gobierno reporta objetivo de 30.000 kilómetros de carreteras regionales en territorio nacional",
+        "url": "https://www.portafolio.co/economia/gobierno-anuncia-meta-de-30-000-kilometros-de-vias-regionales-en-colombia-502170",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Gobierno anuncia meta de 30.000 kilómetros de vías regionales en Colombia",
+        "capturado": "2026-09-09T22:15:21-05:00"
+      },
       {
         "titulo": "Juliana Guerrero pide disculpas a la nación tras admitir su culpabilidad en fraude procesal",
         "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-pide-perdon-al-pais-tras-aceptar-responsabilidad-por-fraude-procesal-502168",
@@ -563,46 +603,6 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Nuevos puntos de fuentes, árboles y refugios climáticos: la apuesta de Barranquilla para hacerle frente al calor",
         "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Inversiones estratégicas en Bogotá se financiarán con $1,26 billones anuales de nueva reforma tributaria",
-        "url": "https://www.portafolio.co/economia/reforma-tributaria/reforma-tributaria-de-bogota-busca-generar-1-26-billones-anuales-para-financiar-inversiones-estrategicas-502036",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Reforma tributaria",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Reforma tributaria de Bogotá busca generar $1,26 billones anuales para financiar inversiones estratégicas",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Tatyana Orozco suena como posible directora de la Cámara Colombiana de la Infraestructura",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-tatyana-orozco-la-persona-que-suena-para-liderar-la-camara-colombiana-de-la-infraestructura-502035",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Quién es Tatyana Orozco, la persona que suena para liderar la Cámara Colombiana de la Infraestructura",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "La bancarrota de personas naturales subió 374% en el gobierno Petro frente al mandato de Iván Duque",
-        "url": "https://www.portafolio.co/economia/personas-naturales-que-se-declararon-en-quiebra-aumentaron-374-durante-petro-frente-al-periodo-de-ivan-duque-502033",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Personas naturales que se declararon en quiebra aumentaron 374% durante Petro frente al periodo de Iván Duque",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del euro en Colombia: este 8 de septiembre así se mueve frente al peso",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-este-8-de-septiembre-frente-al-peso-colombiano-502030",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza este 8 de septiembre frente al peso colombiano",
-        "capturado": "2026-09-08T08:29:28-05:00"
       }
     ],
     "Negocios": [
