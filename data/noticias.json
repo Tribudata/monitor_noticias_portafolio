@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T12:04:29-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-09-10T14:56:46-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El 75% de las personas analfabetas en Colombia se consideran campesinas según la geografía del aprendizaje",
+        "url": "https://www.portafolio.co/economia/regiones/la-geografia-que-define-quien-aprende-a-leer-en-colombia-75-de-los-analfabetas-en-colombia-se-reconoce-campesino-502222",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "La geografía que define quién aprende a leer en Colombia: 75% de los analfabetas en Colombia se reconoce campesino",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "La probabilidad de que El Niño sea el más fuerte desde 1950 sube al 75% y podría ser histórico",
+        "url": "https://www.portafolio.co/economia/gobierno/fenomeno-de-el-nino-podria-ser-historico-este-ano-sube-al-75-la-probabilidad-de-que-sea-el-mas-intenso-desde-502234",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Fenómeno de El Niño podría ser histórico este año: sube al 75% la probabilidad de que sea el más intenso desde 1950",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional confirma que construirá diez megacárceles en Colombia y revela fechas",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-confirma-la-construccion-de-diez-megacarceles-en-colombia-cuando-estarian-listas-502236",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Gobierno Nacional confirma la construcción de diez 'megacárceles' en Colombia: ¿cuándo estarían listas?",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "La manera en que las compañías contribuirán a la reconstrucción del país mediante Obras por Impuestos",
+        "url": "https://www.portafolio.co/economia/gobierno/asi-aportaran-las-empresas-a-la-reconstruccion-de-colombia-con-el-mecanismo-de-obras-por-impuestos-502235",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Así aportarán las empresas a la reconstrucción de Colombia con el mecanismo de Obras por Impuestos",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "El Gobierno eliminará el tope de inversiones externas en fondos de pensiones mediante un decreto",
+        "url": "https://www.portafolio.co/economia/con-proyecto-de-decreto-el-gobierno-derogara-la-limitacion-de-inversiones-en-el-extranjero-de-los-fondos-de-pension-502230",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Con proyecto de decreto el Gobierno derogará la limitación de inversiones en el extranjero de los fondos de pensión",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "El Gobierno evaluará la situación de las EPS intervenidas para definir cuáles se salvan y cuáles liquidan",
+        "url": "https://www.portafolio.co/economia/gobierno/alta-cirugia-para-las-eps-intervenidas-el-gobierno-decidira-cuales-pueden-salvarse-y-cuales-iran-a-liquidacion-502228",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "‘Alta cirugía’ para las EPS intervenidas: el Gobierno decidirá cuáles pueden salvarse y cuáles irán a liquidación",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "El almacenamiento de contenedores vacíos en terminales causa un nuevo bloqueo en Buenaventura",
+        "url": "https://www.portafolio.co/economia/buenaventura-vuelve-a-bloquearse-por-el-represamiento-de-contenedores-vacios-en-los-patios-portuarios-502219",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Buenaventura vuelve a bloquearse por el represamiento de contenedores vacíos en los patios portuarios",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "Wingo proyecta movilizar 150.000 pasajeros en 2026 ante el auge de Aruba para los colombianos",
+        "url": "https://www.portafolio.co/economia/finanzas/aruba-gana-fuerza-como-destino-para-los-colombianos-wingo-espera-transportar-150-000-viajeros-durante-todo-502227",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Aruba gana fuerza como destino para los colombianos: Wingo espera transportar 150.000 viajeros durante todo 2026",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "Empleo con disparidad: aumentan los cargos de baja remuneración y los del sector público",
+        "url": "https://www.portafolio.co/economia/la-creacion-de-empleo-muestra-una-brecha-crecen-los-puestos-de-menores-ingresos-y-tambien-los-del-sector-publico-502224",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "La creación de empleo muestra una brecha: crecen los puestos de menores ingresos y también los del sector público",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
+      {
+        "titulo": "Así operan los mercados hoy: sube el petróleo, cae la dólar y se mueve la bolsa",
+        "url": "https://www.portafolio.co/economia/finanzas/el-movimiento-de-los-mercados-hoy-petroleo-sigue-disparado-dolar-baja-y-asi-se-comporta-la-bolsa-502223",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "El movimiento de los mercados hoy: petróleo sigue disparado, dólar baja y así se comporta la bolsa",
+        "capturado": "2026-09-10T14:56:46-05:00"
+      },
       {
         "titulo": "ANIF sugiere revisar en conjunto los datos de PILA y GEIH ante sus diferencias para medir el empleo",
         "url": "https://www.portafolio.co/economia/pila-y-geih-miden-distinto-el-mercado-laboral-anif-pide-analizar-sus-cifras-de-forma-complementaria-502221",
@@ -503,106 +603,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Terremoto deja en riesgo el empleo en Valle: 72 % de empresas tiene hasta 20 puestos comprometidos",
         "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar en Colombia hoy: la moneda sigue cayendo y se aproxima a los 3100 pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-continua-en-tendencia-a-la-baja-y-se-acerca-a-los-3-502111",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Precio del dólar hoy en colombia: divisa continúa en tendencia a la baja y se acerca a los $3.100",
-        "capturado": "2026-09-09T06:42:52-05:00"
-      },
-      {
-        "titulo": "El legado de Petro: el desmedro del bienestar",
-        "url": "https://www.portafolio.co/economia/el-legado-de-petro-el-deterioro-del-bienestar-502105",
-        "resumen": "",
-        "autor": "Hernan avendano cruz",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "El legado de Petro: el deterioro del bienestar",
-        "capturado": "2026-09-09T01:23:39-05:00"
-      },
-      {
-        "titulo": "Senado convoca a moción de censura al ministro de Vivienda por viaje a Santa Marta tras el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/senado-cita-a-mocion-de-censura-al-ministro-de-vivienda-por-viaje-a-santa-marta-tras-el-terremoto-502099",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Senado cita a moción de censura al ministro de Vivienda por viaje a Santa Marta tras el terremoto",
-        "capturado": "2026-09-09T01:23:39-05:00"
-      },
-      {
-        "titulo": "ANI establece plan para agilizar ocho iniciativas viales fundamentales del territorio nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/ani-define-hoja-de-ruta-para-acelerar-ocho-proyectos-carreteros-clave-en-el-pais-502096",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "ANI define hoja de ruta para acelerar ocho proyectos carreteros clave en el país",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Pasivo externo estatal en Colombia aumentó 17,1% en doce meses, de acuerdo con el Emisor",
-        "url": "https://www.portafolio.co/economia/deuda-externa-publica-en-colombia-crecio-17-1-en-un-ano-segun-el-banco-de-la-republica-502095",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Deuda externa pública en Colombia creció 17,1% en un año, según el Banco de la República",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Agenda paralela: actividades de la Primera Dama en compañía de la cónyuge de Marco Rubio",
-        "url": "https://www.portafolio.co/economia/gobierno/agenda-paralela-que-hizo-la-primera-dama-junto-a-la-esposa-de-marco-rubio-502093",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "'Agenda paralela': qué hizo la Primera Dama junto a la esposa de Marco Rubio",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Estos son los pactos suscritos por Colombia y Estados Unidos sobre energía atómica y minerales",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-acuerdos-que-colombia-firmo-con-estados-unidos-en-minerales-y-energia-nuclear-502091",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Estos son los acuerdos que Colombia firmó con Estados Unidos en minerales y energía nuclear",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "El nuevo puerto antioqueño Puerto Progreso operará sin dragado y costará US$1.300 millones",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-nuevo-megapuerto-de-antioquia-puerto-progreso-sera-posible-sin-dragado-y-con-una-inversion-de-us-1-300-millones-502081",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "El nuevo megapuerto de Antioquia: Puerto Progreso será posible sin dragado y con una inversión de US$1.300 millones",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Comerciantes solicitan al Concejo distrital detener incremento del ICA para vehículos y licores",
-        "url": "https://www.portafolio.co/economia/comerciantes-piden-al-concejo-de-bogota-frenar-alza-del-ica-a-licores-tabaco-y-vehiculos-502087",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Comerciantes piden al Concejo de Bogotá frenar alza del ICA a licores, tabaco y vehículos",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Aliadas presenta ante el Gobierno de De La Espriella treinta iniciativas para disminuir la informalidad laboral",
-        "url": "https://www.portafolio.co/economia/empleo/aliadas-pone-en-la-mesa-del-gobierno-de-la-espriella-30-propuestas-para-reducir-la-informalidad-en-el-pais-502085",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Aliadas pone en la mesa del Gobierno De La Espriella 30 propuestas para reducir la informalidad en el país",
-        "capturado": "2026-09-08T17:53:07-05:00"
       }
     ],
     "Negocios": [
