@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T08:01:30-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-10T12:04:29-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "ANIF sugiere revisar en conjunto los datos de PILA y GEIH ante sus diferencias para medir el empleo",
+        "url": "https://www.portafolio.co/economia/pila-y-geih-miden-distinto-el-mercado-laboral-anif-pide-analizar-sus-cifras-de-forma-complementaria-502221",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "PILA y GEIH miden distinto el mercado laboral: ANIF pide analizar sus cifras de forma complementaria",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Ministro Beltrán pide perdón y justifica su traslado a Santa Marta durante debate de censura en el Capitolio",
+        "url": "https://www.portafolio.co/economia/gobierno/mil-disculpas-ministro-beltran-vuelve-a-defender-viaje-a-santa-marta-en-mocion-de-censura-en-el-congreso-502217",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "'Mil disculpas': ministro Beltrán vuelve a defender viaje a Santa Marta en moción de censura en el Congreso",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Especialistas señalan que la salud requiere mayor gobernanza y menor improvisación por falta de escucha",
+        "url": "https://www.portafolio.co/economia/gobierno/expertos-advierten-que-la-salud-necesita-menos-improvisacion-y-mas-gobernanza-el-problema-es-que-no-se-escucha-502218",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Expertos advierten que la salud necesita menos improvisación y más gobernanza: “El problema es que no se escucha”",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Alcance real del decreto de De la Espriella sobre la tenencia de armas en territorio nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/porte-de-armas-en-colombia-que-permite-realmente-el-decreto-de-de-la-espriella-502210",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Porte de armas en Colombia: ¿qué permite realmente el decreto de De la Espriella?",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "A pesar de existir un plan de salud pública, el 37 por ciento de indicadores es crítico y urge aplicarlo",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-tiene-un-plan-de-salud-publica-pero-37-de-sus-indicadores-esta-en-estado-critico-el-reto-es-ejecutarlo-502208",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Colombia tiene un plan de salud pública, pero 37% de sus indicadores está en estado crítico: el reto es ejecutarlo",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Damnificados que lo perdieron todo tras cumplirse un mes del sismo",
+        "url": "https://www.portafolio.co/economia/regiones/un-mes-despues-del-terremoto-familias-que-lo-perdieron-todo-502207",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Un mes después del terremoto: familias que lo perdieron todo",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Superfinanciera advierte que no emite plásticos, préstamos ni ningún servicio financiero",
+        "url": "https://www.portafolio.co/economia/gobierno/superintendencia-financiera-alerta-que-no-ofrece-tarjetas-de-credito-creditos-o-cualquier-otro-producto-financiero-502206",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Superintendencia Financiera alerta que no ofrece tarjetas de crédito, créditos o cualquier otro producto financiero",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio baja abarató el iPhone en el país, mas la ventaja al cliente fue poca",
+        "url": "https://www.portafolio.co/economia/dolar-mas-barato-reduce-el-precio-del-iphone-en-colombia-pero-el-alivio-para-el-comprador-fue-limitado-502204",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Dólar más barato reduce el precio del iPhone en Colombia, pero el alivio para el comprador fue limitado",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Cotización del euro en Colombia: este es el precio de la moneda este 10 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-10-de-septiembre-frente-al-peso-colombiano-502203",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 10 de septiembre frente al peso colombiano",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Exigen mostrar balances de salud previos a otra reforma gubernamental del sector",
+        "url": "https://www.portafolio.co/economia/gobierno/la-plata-alcanza-o-no-piden-revelar-cuentas-de-la-salud-antes-de-que-el-gobierno-vuelva-a-reformar-el-sistema-502202",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "'¿La plata alcanza o no?': piden revelar cuentas de la salud antes de que el Gobierno vuelva a reformar el sistema",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Bogotá dispone más de 1.000 puestos para mayores de 50 años en feria laboral del jueves 10",
+        "url": "https://www.portafolio.co/economia/bogota-abre-mas-de-1-000-vacantes-para-mayores-de-50-anos-en-feria-de-empleo-este-jueves-10-de-septiembre-502200",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Bogotá abre más de 1.000 vacantes para mayores de 50 años en feria de empleo este jueves 10 de septiembre",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Plazos para reclamar saldos a favor de la Dian varían entre seis meses y cinco años",
+        "url": "https://www.portafolio.co/economia/gobierno/la-dian-le-debe-plata-algunas-devoluciones-de-impuestos-tienen-cinco-anos-para-reclamarse-otras-solo-seis-meses-502198",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿La Dian le debe plata? Algunas devoluciones de impuestos tienen cinco años para reclamarse, otras solo seis meses",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Apenas cinco terminales aéreas concentran el setenta por ciento del tráfico nacional y San Andrés destaca",
+        "url": "https://www.portafolio.co/economia/solo-cinco-aeropuertos-mueven-a-7-de-cada-10-pasajeros-que-vuelan-dentro-del-pais-san-andres-es-la-nueva-estrella-502140",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Solo cinco aeropuertos mueven a 7 de cada 10 pasajeros que vuelan dentro del país; San Andrés es la nueva estrella",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "La mitad de los colombianos percibe mal la economía y un porcentaje similar prevé mejoras a medio año",
+        "url": "https://www.portafolio.co/economia/gobierno/economia-divide-a-los-colombianos-51-la-ve-mal-pero-la-mitad-espera-una-mejora-en-seis-meses-502193",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Economía divide a los colombianos: 51 % la ve mal, pero la mitad espera una mejora en seis meses",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Prueba piloto de De La Espriella para erradicar coca sustituirá el glifosato con glufosinato de amonio",
+        "url": "https://www.portafolio.co/economia/gobierno/glifosato-reemplazado-por-glufosinato-de-amonio-asi-sera-el-piloto-de-de-la-espriella-para-erradicar-coca-502190",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Glifosato reemplazado por glufosinato de amonio: así será el piloto de De La Espriella para erradicar coca",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Primer mes de gobierno de De La Espriella registra una favorabilidad del cincuenta y uno coma ocho por ciento",
+        "url": "https://www.portafolio.co/economia/gobierno/primera-evaluacion-para-de-la-espriella-encuesta-le-otorga-una-aprobacion-de-51-8-en-su-primer-mes-de-gobierno-502191",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Aprobación de De La Espriella llega a 51,8% en su primer mes de Gobierno, según la primera evaluación de su gestión",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
       {
         "titulo": "Modificaciones del Gobierno De La Espriella al vicepresidente y funciones asignadas a Restrepo",
         "url": "https://www.portafolio.co/economia/gobierno/el-vicepresidente-jose-manuel-restrepo-tendra-nuevas-funciones-de-la-espriella-amplia-su-papel-dentro-del-gobierno-502189",
@@ -443,169 +603,59 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Aliadas pone en la mesa del Gobierno De La Espriella 30 propuestas para reducir la informalidad en el país",
         "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Reactivar la economía es la prioridad de los pactos de Barranquilla tras el encuentro Rubio-De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/recuperar-la-economia-principal-punto-de-los-acuerdos-de-barranquilla-tras-reunion-marco-rubio-de-la-espriella-502084",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Recuperar la economía: principal punto de 'los acuerdos de Barranquilla' tras reunión Marco Rubio-De La Espriella",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Resultados del encuentro sostenido en Barranquilla por Marco Rubio y Abelardo De la Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/conclusiones-de-la-reunion-entre-marco-rubio-y-abelardo-de-la-espriella-en-barranquilla-502080",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Conclusiones de la reunión entre Marco Rubio y Abelardo De la Espriella en Barranquilla",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Sismos, conflagraciones y El Niño afectaron la oferta e incrementaron los precios de comida en agosto 2026",
-        "url": "https://www.portafolio.co/economia/terremoto-incendios-y-el-nino-presionaron-el-abastecimiento-y-elevaron-los-costos-de-alimentos-en-agosto-502077",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Terremoto, incendios y El Niño presionaron el abastecimiento y elevaron los costos de alimentos en agosto 2026",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "El reto ineludible en Colombia: transformar la prevención y el autocuidado en política pública nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/el-desafio-que-colombia-ya-no-puede-aplazar-convertir-la-prevencion-y-el-autocuidado-en-politica-publica-nacional-502078",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "El desafío que Colombia ya no puede aplazar: convertir la prevención y el autocuidado en política pública nacional",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Predios con cobros excesivos y los problemas expuestos por el jefe de la cartera agropecuaria",
-        "url": "https://www.portafolio.co/economia/agro/predios-con-precios-inflados-y-los-chicharrones-que-denuncia-el-ministro-de-agricultura-502069",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Predios con precios inflados y los ‘chicharrones’ que denuncia el Ministro de agricultura",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Marco Rubio llegó a Barranquilla para encuentro crucial con el mandatario Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/marco-rubio-aterrizo-en-barranquilla-para-reunion-clave-con-el-presidente-abelardo-de-la-espriella-502071",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Marco Rubio aterrizó en Barranquilla para reunión clave con el presidente Abelardo De La Espriella",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Regímenes común y simplificado: definición y motivos de su enredo fiscal en las compañías",
-        "url": "https://www.portafolio.co/economia/impuestos/regimen-comun-y-regimen-simplificado-que-son-y-por-que-generan-confusion-tributaria-entre-empresas-502070",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Régimen común y régimen simplificado: qué son y por qué generan confusión tributaria entre empresas",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Bogotá sufrirá una reducción de hasta 3 billones de pesos en fondos viales el año entrante",
-        "url": "https://www.portafolio.co/economia/infraestructura/bogota-enfrentaria-un-recorte-de-hasta-3-billones-de-pesos-en-inversion-para-movilidad-el-proximo-ano-502058",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Bogotá enfrentaría un recorte de hasta 3 billones de pesos en inversión para movilidad el próximo año",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Café de afuera avanza en Colombia y enciende alarmas sobre el pago a las familias caficultoras",
-        "url": "https://www.portafolio.co/economia/agro/cafe-importado-gana-terreno-en-colombia-y-prende-las-alertas-por-el-precio-que-reciben-las-familias-cafeteras-502062",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Café importado gana terreno en Colombia y prende las alertas por el precio que reciben las familias cafeteras",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Qué cabe esperar del encuentro de Marco Rubio con la nueva administración De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/que-se-puede-esperar-de-la-reunion-de-marco-rubio-con-el-nuevo-gobierno-de-la-espriella-502059",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "¿Qué se puede esperar de la reunión de Marco Rubio con el nuevo Gobierno De La Espriella?",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "De mal en peor: el sismo evidenció la debilidad sanitaria en las zonas rurales golpeadas",
-        "url": "https://www.portafolio.co/economia/gobierno/de-mal-en-peor-el-terremoto-dejo-al-descubierto-la-fragilidad-de-la-salud-en-los-municipios-rurales-afectados-502055",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "De mal en peor: el terremoto dejó al descubierto la fragilidad de la salud en los municipios rurales afectados",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Declaración de renta 2026: La Dian anuncia los plazos vitales y el piso salarial para tributar",
-        "url": "https://www.portafolio.co/economia/impuestos/declaracion-de-renta-2026-la-dian-confirma-las-fechas-claves-y-desde-que-salario-le-toca-pagar-502056",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Declaración de renta 2026: La Dian confirma las fechas claves y desde que salario le toca pagar",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "El 30,7% de las agencias de viajes considera el turismo receptivo como la gran apuesta de expansión",
-        "url": "https://www.portafolio.co/economia/el-30-7-de-las-agencias-de-viajes-ve-en-el-turismo-receptivo-la-gran-apuesta-de-crecimiento-del-pais-502049",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "El 30,7% de las agencias de viajes ve en el turismo receptivo la gran apuesta de crecimiento del país",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Quiénes estarán autorizados para llevar armas legalmente en Colombia bajo el nuevo decreto estatal",
-        "url": "https://www.portafolio.co/economia/gobierno/porte-de-armas-en-colombia-asi-funcionara-tras-levantamiento-de-la-suspension-general-firmada-por-de-la-espriella-502051",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Quiénes podrán portar armas de fuego legalmente en Colombia con el nuevo decreto del Gobierno",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Banca rechaza subida del 50% en el ICA bogotano y exige conservar la tarifa actual",
-        "url": "https://www.portafolio.co/economia/regiones/sector-financiero-rechaza-aumento-de-50-en-el-ica-de-bogota-y-pide-mantener-la-tarifa-actual-502048",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Sector financiero rechaza aumento de 50% en el ICA de Bogotá y pide mantener la tarifa actual",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "De La Espriella suscribe decreto que frena la suspensión de permisos para porte de armas",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-firma-decreto-que-levanta-suspension-de-permisos-para-el-porte-de-armas-de-fuego-502047",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "De La Espriella firma decreto que levanta suspensión de permisos para el porte de armas de fuego",
-        "capturado": "2026-09-08T12:24:34-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Avianca incorpora suites privadas en quince aeronaves para trayectos hacia Europa y Nueva York",
+        "url": "https://www.portafolio.co/negocios/avianca-anuncia-una-nueva-cabina-en-15-aviones-con-suites-privadas-en-sus-vuelos-a-europa-y-nueva-york-502196",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Avianca anuncia una nueva cabina en 15 aviones con suites privadas en sus vuelos a Europa y Nueva York",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "David Vélez confirma expansión de Nu a Estados Unidos y cuenta global con stablecoins para 35 naciones",
+        "url": "https://www.portafolio.co/negocios/empresas/nu-lanza-su-aterrizaje-en-estados-unidos-y-anuncia-una-cuenta-global-basada-en-stablecoins-502213",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "David Vélez anuncia aterrizaje del banco digital Nu en EE. UU. y una cuenta global con stablecoins para 35 países",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Cambios en Ecopetrol: cuatro empleados relacionados con conocidos del exmandatario Petro dejan la empresa",
+        "url": "https://www.portafolio.co/negocios/empresas/remezon-en-ecopetrol-salen-cuatro-funcionarios-con-vinculos-familiares-o-politicos-de-su-nomina-502212",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Remezón en Ecopetrol: cuatro funcionarios vinculados con allegados al expresidente Petro salen de su nómina",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "Banco de Occidente otorga tasas especiales y préstamos hasta de $500 millones a damnificados por sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/banco-de-occidente-ofrece-tasas-preferenciales-y-creditos-de-hasta-500-millones-para-afectados-por-terremoto-502209",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Banco de Occidente ofrece tasas preferenciales y créditos de hasta $500 millones para afectados por terremoto",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
+      {
+        "titulo": "trii habilita la compra de más de 10.000 acciones y ETF estadounidenses para inversionistas",
+        "url": "https://www.portafolio.co/negocios/inversion/no-sabe-en-que-invertir-trii-abre-acceso-a-mas-de-10-000-acciones-y-etf-del-mercado-de-estados-unidos-502205",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿No sabe en qué invertir? trii abre acceso a más de 10.000 acciones y ETF del mercado de Estados Unidos",
+        "capturado": "2026-09-10T12:04:29-05:00"
+      },
       {
         "titulo": "Asi fue como Gilinski paso de US$170 millones a US$700 millones para quedarse con GeoPark",
         "url": "https://www.portafolio.co/negocios/empresas/de-us-170-millones-a-us-700-millones-la-operacion-que-llevaria-a-gilinski-al-control-de-geopark-502161",
@@ -1154,56 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-09-04",
         "titulo_fuente": "Totto transforma sus tiendas en Colombia: así será la nueva experiencia para sus clientes",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Auteco Blue acapara el 80% del mercado de camiones eléctricos con menos de 1000 unidades vendidas",
-        "url": "https://www.portafolio.co/negocios/vehiculo/auteco-blue-abarca-el-80-de-ventas-de-camiones-electricos-con-menos-de-1-000-unidades-ahi-esta-la-oportunidad-501861",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Auteco Blue abarca el 80% de ventas de camiones eléctricos con menos de 1.000 unidades: 'ahí está la oportunidad'",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Los detalles del servicio de conectividad premium de Tesla en Colombia que dejará de ser gratis",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-letra-pequena-del-servicio-de-conectividad-premium-que-tesla-ofrece-en-colombia-ya-no-tendra-costo-cero-501854",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "La 'letra pequeña' del servicio de conectividad premium que Tesla ofrece en Colombia: ya no tendrá costo cero",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Estos son los centros comerciales favoritos de los bogotanos para el año 2026 según encuesta",
-        "url": "https://www.portafolio.co/negocios/comercio/estos-son-los-centros-comerciales-preferidos-de-bogota-en-2026-segun-consulta-a-los-ciudadanos-501848",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Estos son los centros comerciales preferidos de Bogotá en 2026, según consulta a los ciudadanos",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Codirectora del Banco de la República advierte sobre el incremento repentino de las importaciones",
-        "url": "https://www.portafolio.co/negocios/comercio/codirectora-del-banco-de-la-republica-prende-las-alertas-por-el-salto-de-las-importaciones-501853",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Codirectora del Banco de la República prende las alertas por el salto de las importaciones",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Amcham señala que paso de Marco Rubio por el país generaría inversión norteamericana y menos aranceles",
-        "url": "https://www.portafolio.co/negocios/comercio/visita-de-marco-rubio-a-colombia-podria-traer-alivio-arancelario-y-mas-inversion-de-ee-uu-amcham-501849",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Visita de Marco Rubio a Colombia podría traer alivio arancelario y más inversión de EE. UU.: Amcham",
         "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
