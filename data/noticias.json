@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T03:19:33-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-10T08:01:30-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Modificaciones del Gobierno De La Espriella al vicepresidente y funciones asignadas a Restrepo",
+        "url": "https://www.portafolio.co/economia/gobierno/el-vicepresidente-jose-manuel-restrepo-tendra-nuevas-funciones-de-la-espriella-amplia-su-papel-dentro-del-gobierno-502189",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Cambios que incorporó Gobierno De La Espriella a la figura del vicepresidente: las facultades que tendrá Restrepo",
+        "capturado": "2026-09-10T08:01:30-05:00"
+      },
+      {
+        "titulo": "Los 11 decretos de emergencia económica firmados por De La Espriella sobre obras por impuestos y más",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-11-decretos-de-la-emergencia-economica-que-firmo-de-la-espriella-obras-por-impuestos-y-otras-medidas-502188",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Estos son los 11 decretos de la emergencia económica que firmó De La Espriella: obras por impuestos y otras medidas",
+        "capturado": "2026-09-10T08:01:30-05:00"
+      },
+      {
+        "titulo": "Precio del dólar en Colombia: la moneda arranca la sesión a la baja y se aproxima a los $3.000",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-divisa-inicia-la-jornada-con-perdidas-y-cada-vez-mas-cerca-de-los-3-502185",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Dólar hoy en Colombia: divisa inicia la jornada con pérdidas y cada vez más cerca de los $3.000",
+        "capturado": "2026-09-10T08:01:30-05:00"
+      },
+      {
+        "titulo": "Alerta: bruma del Sahara arriba hoy 10 de septiembre a territorio colombiano y afectaría estas zonas",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-polvo-del-sahara-llega-hoy-10-de-septiembre-a-colombiano-y-podria-sentirse-en-estas-regiones-502184",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Atención: polvo del Sahara llega hoy 10 de septiembre a colombia y podría sentirse en estas regiones",
+        "capturado": "2026-09-10T08:01:30-05:00"
+      },
       {
         "titulo": "Inchcape y GWM introducen al país el híbrido Haval New H7",
         "url": "https://www.portafolio.co/economia/de-la-mano-de-inchcape-gwm-trae-la-haval-new-h7-hibrida-502178",
@@ -562,46 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-09-08",
         "titulo_fuente": "De La Espriella firma decreto que levanta suspensión de permisos para el porte de armas de fuego",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Ministra Ana María Vesga advierte presunta red de cobros ilegales en Infraestructura de Salud",
-        "url": "https://www.portafolio.co/economia/gobierno/ministra-ana-maria-vesga-denuncia-presunta-red-de-cobros-irregulares-en-la-direccion-de-infraestructura-de-salud-502045",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Ministra Ana María Vesga denuncia presunta red de cobros irregulares en la Dirección de Infraestructura de Salud",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Uno de cada tres colombianos adultos carece de historial de crédito tradicional en la banca",
-        "url": "https://www.portafolio.co/economia/finanzas/uno-de-cada-tres-adultos-en-colombia-sigue-sin-historial-crediticio-tradicional-con-el-sistema-financiero-502043",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Uno de cada tres adultos en Colombia sigue sin historial crediticio tradicional con el sistema financiero",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Comida, hotelería, salud y educación sostienen la inflación anual sobre el 6,24% en agosto",
-        "url": "https://www.portafolio.co/economia/restaurantes-hoteles-salud-y-educacion-mantienen-la-inflacion-anual-por-encima-del-6-24-en-agosto-502042",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Restaurantes, hoteles, salud y educación mantienen la inflación anual por encima del 6,24% en agosto",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Guillermo Jaramillo asistirá a audiencia por filtrar datos médicos de Kevin Acosta: estado del caso",
-        "url": "https://www.portafolio.co/economia/gobierno/guillermo-jaramillo-ira-a-audiencia-por-revelar-datos-medicos-de-kevin-acosta-asi-avanza-el-caso-502041",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Guillermo Jaramillo irá a audiencia por revelar datos médicos de Kevin Acosta: así avanza el caso",
         "capturado": "2026-09-08T12:24:34-05:00"
       }
     ],
