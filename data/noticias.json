@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-09T22:15:21-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-10T03:19:33-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Inchcape y GWM introducen al país el híbrido Haval New H7",
+        "url": "https://www.portafolio.co/economia/de-la-mano-de-inchcape-gwm-trae-la-haval-new-h7-hibrida-502178",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "De la mano de Inchcape, GWM trae la Haval New H7 híbrida",
+        "capturado": "2026-09-10T03:19:33-05:00"
+      },
+      {
+        "titulo": "Abelardo expide 11 decretos y funda el Fondo Patria Milagro para restaurar a Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/aberlardo-firma-11-decretos-y-crea-el-fondo-patria-milagro-para-la-reconstruccion-de-colombia-502175",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Abelardo firma 11 decretos y crea el Fondo Patria Milagro para la reconstrucción de Colombia",
+        "capturado": "2026-09-10T03:19:33-05:00"
+      },
+      {
+        "titulo": "Un mes tras el sismo en Colombia: entre escombros y luto",
+        "url": "https://www.portafolio.co/economia/regiones/entre-el-duelo-y-las-ruinas-un-mes-despues-del-terremoto-en-colombia-501943",
+        "resumen": "",
+        "autor": "Paula galeano balaguera, julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Entre el duelo y las ruinas: Un mes después del terremoto en Colombia",
+        "capturado": "2026-09-10T03:19:33-05:00"
+      },
       {
         "titulo": "Ejecutivo encarga a José Manuel Restrepo la coordinación de energía, IA y rubros de inversión",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-asigna-a-jose-manuel-restrepo-la-coordinacion-de-inversion-ia-y-energia-502172",
@@ -572,36 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-09-08",
         "titulo_fuente": "Guillermo Jaramillo irá a audiencia por revelar datos médicos de Kevin Acosta: así avanza el caso",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Contraloría halla detrimento fiscal por $370.000 millones en contratación de la ANT del Gobierno Petro",
-        "url": "https://www.portafolio.co/economia/gobierno/contraloria-confirma-hallazgo-fiscal-por-370-000-millones-en-contratos-de-la-ant-del-gobierno-petro-502040",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Contraloría confirma hallazgo fiscal por $370.000 millones en contratos de la ANT del Gobierno Petro",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Costo de vida en Colombia: las razones por las cuales la inflación persiste",
-        "url": "https://www.portafolio.co/economia/crecimiento/inflacion-en-colombia-por-que-no-cede-el-costo-de-vida-502039",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Inflación en Colombia: ¿por qué no cede el costo de vida?",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Barranquilla apuesta por refugios climáticos, árboles y fuentes para combatir las altas temperaturas",
-        "url": "https://www.portafolio.co/economia/regiones/nuevos-puntos-de-fuentes-arboles-y-refugios-climaticos-la-apuesta-de-barranquilla-para-hacerle-frente-al-calor-502037",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Nuevos puntos de fuentes, árboles y refugios climáticos: la apuesta de Barranquilla para hacerle frente al calor",
         "capturado": "2026-09-08T12:24:34-05:00"
       }
     ],
