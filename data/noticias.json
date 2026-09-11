@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T09:04:17-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-11T12:49:21-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sismo matutino de magnitud 4,5 sacude el departamento del Chocó este viernes 11 de septiembre",
+        "url": "https://www.portafolio.co/economia/regiones/nuevo-temblor-en-choco-de-magnitud-4-5-en-la-manana-de-este-viernes-11-de-septiembre-502310",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Nuevo temblor en Chocó de magnitud 4,5 en la mañana de este viernes 11 de septiembre",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Aspecto tributario del retorno de James y Cuadrado al país según la legislación fiscal vigente",
+        "url": "https://www.portafolio.co/economia/impuestos/como-seria-el-tema-tributario-de-james-y-cuadrado-con-su-regreso-a-colombia-esto-dice-la-ley-fiscal-sobre-el-caso-502309",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "¿Cómo sería el tema tributario de James y Cuadrado con su regreso a Colombia? Esto dice la ley fiscal sobre el caso",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Singapur surge como aliado estratégico para comercio exterior, inversión y negocios desde Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/nuevo-giro-de-colombia-hacia-asia-singapur-aparece-como-socio-clave-para-exportar-invertir-y-hacer-negocios-502298",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Nuevo giro de Colombia hacia Asia: Singapur aparece como socio clave para exportar, invertir y hacer negocios",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Gobierno prohíbe vehículos de fotomultas y exige presencia de agente de tránsito para sancionar",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-gobierno-frena-los-carros-cazafotomultas-comparendos-exigiran-agente-de-transito-presente-502300",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Atención: Gobierno frena los carros cazafotomultas; comparendos exigirán agente de tránsito presente",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Bogotá capacita a sesenta compañías para vender en el exterior mediante puente con compradores",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-prepara-a-60-empresas-para-exportar-con-una-estrategia-que-las-conecta-con-compradores-internacionales-502297",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Bogotá prepara a 60 empresas para exportar con una estrategia que las conecta con compradores internacionales",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "De La Espriella termina negociaciones con bandas tras cobro de siete mil millones por la paz",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-7-000-millones-de-honorarios-de-la-paz-de-petro-de-la-espriella-pone-fin-a-dialogos-con-grupos-armados-502296",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Tras $7.000 millones de honorarios de la paz de Petro, De La Espriella pone fin a diálogos con grupos armados",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "El Festival Cordillera 2026 prevé impacto de $108.942 millones en Bogotá y 40% de foráneos serían turistas",
+        "url": "https://www.portafolio.co/economia/festival-cordillera-2026-proyecta-108-942-millones-de-impacto-en-bogota-y-40-de-asistentes-serian-turistas-502292",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Festival Cordillera 2026 proyecta $108.942 millones de impacto en Bogotá y 40% de asistentes serían turistas",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
       {
         "titulo": "A pesar de constantes ataques del Gobierno Petro, Banco de la República se consolidó como institución con más confianza",
         "url": "https://www.portafolio.co/economia/gobierno/pese-a-constantes-ataques-del-gobierno-petro-banco-de-la-republica-se-consolido-como-institucion-con-mas-confianza-502285",
@@ -533,79 +603,99 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Glifosato reemplazado por glufosinato de amonio: así será el piloto de De La Espriella para erradicar coca",
         "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Primer mes de gobierno de De La Espriella registra una favorabilidad del cincuenta y uno coma ocho por ciento",
-        "url": "https://www.portafolio.co/economia/gobierno/primera-evaluacion-para-de-la-espriella-encuesta-le-otorga-una-aprobacion-de-51-8-en-su-primer-mes-de-gobierno-502191",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Aprobación de De La Espriella llega a 51,8% en su primer mes de Gobierno, según la primera evaluación de su gestión",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Modificaciones del Gobierno De La Espriella al vicepresidente y funciones asignadas a Restrepo",
-        "url": "https://www.portafolio.co/economia/gobierno/el-vicepresidente-jose-manuel-restrepo-tendra-nuevas-funciones-de-la-espriella-amplia-su-papel-dentro-del-gobierno-502189",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Cambios que incorporó Gobierno De La Espriella a la figura del vicepresidente: las facultades que tendrá Restrepo",
-        "capturado": "2026-09-10T08:01:30-05:00"
-      },
-      {
-        "titulo": "Los 11 decretos de emergencia económica firmados por De La Espriella sobre obras por impuestos y más",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-11-decretos-de-la-emergencia-economica-que-firmo-de-la-espriella-obras-por-impuestos-y-otras-medidas-502188",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Estos son los 11 decretos de la emergencia económica que firmó De La Espriella: obras por impuestos y otras medidas",
-        "capturado": "2026-09-10T08:01:30-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia: la moneda arranca la sesión a la baja y se aproxima a los $3.000",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-divisa-inicia-la-jornada-con-perdidas-y-cada-vez-mas-cerca-de-los-3-502185",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Dólar hoy en Colombia: divisa inicia la jornada con pérdidas y cada vez más cerca de los $3.000",
-        "capturado": "2026-09-10T08:01:30-05:00"
-      },
-      {
-        "titulo": "Alerta: bruma del Sahara arriba hoy 10 de septiembre a territorio colombiano y afectaría estas zonas",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-polvo-del-sahara-llega-hoy-10-de-septiembre-a-colombiano-y-podria-sentirse-en-estas-regiones-502184",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Atención: polvo del Sahara llega hoy 10 de septiembre a colombia y podría sentirse en estas regiones",
-        "capturado": "2026-09-10T08:01:30-05:00"
-      },
-      {
-        "titulo": "Inchcape y GWM introducen al país el híbrido Haval New H7",
-        "url": "https://www.portafolio.co/economia/de-la-mano-de-inchcape-gwm-trae-la-haval-new-h7-hibrida-502178",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "De la mano de Inchcape, GWM trae la Haval New H7 híbrida",
-        "capturado": "2026-09-10T03:19:33-05:00"
-      },
-      {
-        "titulo": "Abelardo expide 11 decretos y funda el Fondo Patria Milagro para restaurar a Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/aberlardo-firma-11-decretos-y-crea-el-fondo-patria-milagro-para-la-reconstruccion-de-colombia-502175",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Abelardo firma 11 decretos y crea el Fondo Patria Milagro para la reconstrucción de Colombia",
-        "capturado": "2026-09-10T03:19:33-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ecopetrol ofrece más de 300 plazas de prácticas en 24 urbes y campos nacionales: cómo postularse",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-abre-mas-de-300-cupos-de-practicas-para-estudiantes-en-24-ciudades-y-campos-del-pais-asi-puede-aplicar-502312",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Ecopetrol abre más de 300 cupos de prácticas para estudiantes en 24 ciudades y campos del país: así puede aplicar",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "780 citas de negocios y firmas de 8 naciones: el movimiento industrial en la Feria de Diseño en Medellín",
+        "url": "https://www.portafolio.co/negocios/empresas/780-reuniones-de-negocio-y-marcas-de-8-paises-asi-se-mueve-la-industria-en-la-feria-de-diseno-en-medellin-502306",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "780 reuniones de negocio y marcas de 8 países: así se mueve la industria en la Feria de Diseño en Medellín",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Envigado finaliza ocho años de capital privado: así concluyó la transacción del 55% del equipo",
+        "url": "https://www.portafolio.co/negocios/empresas/envigado-cierra-ocho-anos-de-inversion-privada-asi-termino-el-negocio-que-tomo-el-55-del-club-502303",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Envigado cierra ocho años de inversión privada: así terminó el negocio que tomó el 55% del club",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Compañías aumentan su confianza, pero cuatro de diez ya modificaron sus plantillas en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/empresas-elevan-su-optimismo-pero-cuatro-de-cada-10-ya-ajustaron-sus-nominas-en-colombia-502293",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Empresas elevan su optimismo, pero cuatro de cada 10 ya ajustaron sus nóminas en Colombia",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "BVC y Asobolsa proponen la fórmula para destrabar el mercado bursátil en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/bvc-y-asobolsa-ponen-sobre-la-mesa-la-formula-para-destrabar-el-mercado-de-capitales-en-colombia-502294",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "BVC y Asobolsa ponen sobre la mesa la fórmula para destrabar el mercado de capitales en Colombia",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "Banasan designa nuevo gerente y reestructura su organización para afrontar los retos bananeros",
+        "url": "https://www.portafolio.co/negocios/empresas/banasan-nombra-nuevo-gerente-y-reorganiza-su-estructura-para-enfrentar-retos-del-sector-bananero-502290",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Banasan nombra nuevo gerente y reorganiza su estructura para enfrentar retos del sector bananero",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "F45 Training aterriza en Colombia: destinará US$800.000 y lanzará siete sedes iniciales en Bogotá",
+        "url": "https://www.portafolio.co/negocios/empresas/f45-training-llega-a-colombia-invertira-us-800-000-y-abrira-siete-estudios-inicialmente-en-bogota-502287",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "F45 Training llega a Colombia: invertirá US$800.000 y abrirá siete estudios inicialmente en Bogotá",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "De US$2.400 millones a casi US$6.000 millones: la evolución del agro colombiano por el TLC con EE UU en 14 años",
+        "url": "https://www.portafolio.co/negocios/comercio/de-us-2-400-millones-a-casi-us-6-000-millones-asi-cambio-el-agro-colombiano-con-tlc-con-estados-unidos-en-14-anos-502288",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "De US$2.400 millones a casi US$6.000 millones: así cambió el agro colombiano con TLC con Estados Unidos en 14 años",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
+      {
+        "titulo": "¿Se irían ocho de diez marcas sin causar nostalgia? Esto revela una investigación en Colombia",
+        "url": "https://www.portafolio.co/negocios/podrian-desaparecer-ocho-de-cada-diez-marcas-sin-ser-realmente-extranadas-esto-dice-un-estudio-en-colombia-502229",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿Podrían desaparecer ocho de cada diez marcas sin ser realmente extrañadas? Esto dice un estudio en Colombia",
+        "capturado": "2026-09-11T12:49:21-05:00"
+      },
       {
         "titulo": "El negocio de James Rodríguez y Juan Cuadrado, recientes fichajes del rentado local",
         "url": "https://www.portafolio.co/negocios/empresas/asi-es-la-faceta-empresarial-de-james-rodriguez-y-juan-cuadrado-nuevos-jugadores-del-futbol-colombiano-502281",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "AngloGold prevé iniciar en 2028 la construcción de Quebradona y exportar cobre desde 2032, tras obtener la licencia",
         "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Dian inspeccionará el trayecto del comercio externo nacional",
-        "url": "https://www.portafolio.co/negocios/comercio/dian-allanara-la-ruta-del-comercio-exterior-del-pais-501953",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Dian allanará la ruta del comercio exterior del país",
-        "capturado": "2026-09-07T01:27:21-05:00"
-      },
-      {
-        "titulo": "Visita de Marco Rubio a Colombia y el estado actual del comercio exterior con Estados Unidos",
-        "url": "https://www.portafolio.co/negocios/comercio/marco-rubio-llega-a-colombia-asi-se-mueve-el-comercio-exterior-con-estados-unidos-501923",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Marco Rubio llega a Colombia: así se mueve el comercio exterior con Estados Unidos",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "El sector financiero concentra a los empresarios colombianos de mayor influencia regional en 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/los-empresarios-colombianos-mas-influyentes-de-america-latina-en-2026-estan-en-el-sector-financiero-501917",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Los empresarios colombianos más influyentes de América Latina en 2026 están en el sector financiero",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Detalles de las dificultades que enfrenta la inversión en Colombia y su impacto económico",
-        "url": "https://www.portafolio.co/negocios/inversion/analisis-los-pormenores-de-los-lios-que-atraviesa-la-inversion-en-colombia-y-sus-efectos-en-la-economia-501919",
-        "resumen": "",
-        "autor": "Ricardo avila",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Análisis: los pormenores de los líos que atraviesa la inversión en Colombia y sus efectos en la economía",
-        "capturado": "2026-09-06T12:15:02-05:00"
-      },
-      {
-        "titulo": "Las acciones de Victoria’s Secret suben en bolsa por el sorpresivo impacto económico de los fármacos para bajar de peso",
-        "url": "https://www.portafolio.co/negocios/empresas/victoria-s-secret-se-dispara-en-bolsa-el-inesperado-efecto-economico-de-los-medicamentos-para-adelgazar-501915",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "Victoria’s Secret se dispara en bolsa: el inesperado efecto económico de los medicamentos para adelgazar",
-        "capturado": "2026-09-06T09:20:07-05:00"
-      },
-      {
-        "titulo": "El desafío para los comercios por las tasas de interés y la inminente decisión del Banco de la República",
-        "url": "https://www.portafolio.co/negocios/comercio/tasas-de-interes-el-reto-que-enfrentan-los-comercios-ante-la-proxima-decision-del-banco-de-la-republica-501909",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Tasas de interés: el reto que enfrentan los comercios ante la próxima decisión del Banco de la República",
-        "capturado": "2026-09-05T18:12:48-05:00"
-      },
-      {
-        "titulo": "Subida del 27% en treinta días para la acción de Collective Mining por hallazgo de tungsteno y avances de Apollo",
-        "url": "https://www.portafolio.co/negocios/empresas/hallazgo-de-tungsteno-y-avances-de-apollo-elevan-27-la-accion-de-collective-mining-en-un-mes-501907",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Hallazgo de tungsteno y avances de Apollo elevan 27% la acción de Collective Mining en un mes",
-        "capturado": "2026-09-05T16:29:58-05:00"
-      },
-      {
-        "titulo": "Inconvenientes de Volkswagen alcanzan a Ducati y Roma alista estrategia para salvaguardar la firma",
-        "url": "https://www.portafolio.co/negocios/empresas/crisis-de-volkswagen-salpica-a-ducati-italia-prepara-una-ofensiva-para-proteger-su-emblematica-marca-de-motos-501898",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-05",
-        "titulo_fuente": "Crisis de Volkswagen salpica a Ducati: Italia prepara una ofensiva para proteger su emblemática marca de motos",
-        "capturado": "2026-09-05T12:09:52-05:00"
-      },
-      {
-        "titulo": "Atlético Nacional ficha a trii como reciente sponsor enfocado en promover la educación financiera",
-        "url": "https://www.portafolio.co/negocios/empresas/atletico-nacional-suma-a-trii-como-nuevo-patrocinador-con-apuesta-por-la-educacion-financiera-501886",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Atlético Nacional suma a trii como nuevo patrocinador con apuesta por la educación financiera",
-        "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
   }
