@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T04:32:08-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-11T09:04:17-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "A pesar de constantes ataques del Gobierno Petro, Banco de la República se consolidó como institución con más confianza",
+        "url": "https://www.portafolio.co/economia/gobierno/pese-a-constantes-ataques-del-gobierno-petro-banco-de-la-republica-se-consolido-como-institucion-con-mas-confianza-502285",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Pese a constantes ataques del Gobierno Petro, Banco de la República se consolidó como institución con más confianza",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "El nuevo POT de Medellín pondría en riesgo el ingreso de miles de familias que dependen del turismo, alerta Asohost",
+        "url": "https://www.portafolio.co/economia/regiones/el-nuevo-pot-de-medellin-pondria-en-riesgo-el-ingreso-de-miles-de-familias-que-dependen-del-turismo-alerta-asohost-502283",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "El nuevo POT de Medellín pondría en riesgo el ingreso de miles de familias que dependen del turismo, alerta Asohost",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "Wingo abrirá la venta de Destino Oculto 3: estas son las fechas y precios para comprar el paquete todo incluido",
+        "url": "https://www.portafolio.co/economia/wingo-abrira-la-venta-de-destino-oculto-3-estas-son-las-fechas-y-precios-para-comprar-el-paquete-todo-incluido-502280",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Wingo abrirá la venta de Destino Oculto 3: estas son las fechas y precios para comprar el paquete todo incluido",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 11 de septiembre en el mercado frente al peso colombiano",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-11-de-septiembre-en-el-mercado-frente-al-peso-colombiano-502278",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 11 de septiembre en el mercado frente al peso colombiano",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "Semana Milagro: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6 por ciento anual",
+        "url": "https://www.portafolio.co/economia/gobierno/semana-milagro-asi-sera-la-gira-global-con-la-que-el-vicepresidente-buscara-llevar-el-pib-a-crecer-al-6-anual-502279",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "‘Semana Milagro’: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6% anual",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "ANT reporta gasto de 7 billones de pesos en tierras y contratos durante Gobierno Petro, pero entrega solo llegó a 6,6 por ciento",
+        "url": "https://www.portafolio.co/economia/gobierno/ant-reporta-gasto-de-7-billones-en-tierras-y-contratos-durante-gobierno-petro-pero-entrega-solo-llego-a-6-502276",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "ANT reporta gasto de $7 billones en tierras y contratos durante Gobierno Petro, pero entrega solo llegó a 6,6 %",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "La moneda norteamericana cayó otra vez en el país y perforó la barrera inferior de los 3.100 pesos",
+        "url": "https://www.portafolio.co/economia/gobierno/precio-del-dolar-en-colombia-hoy-la-divisa-inicia-la-jornada-cerca-de-los-3-502275",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "El dólar en Colombia volvió a bajar: la divisa rompió a la baja el piso de los $3.100",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "Luego de sincerar balances, el Carf avisa que el déficit fiscal rozará el 10% del PIB con espacio acotado",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-sincerada-de-cuentas-el-carf-advierte-que-deficit-fiscal-bordeara-el-10-del-pib-y-deja-un-margen-reducido-502274",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Tras 'sincerada' de cuentas, el Carf advierte que déficit fiscal bordeará el 10% del PIB y deja un margen reducido",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
       {
         "titulo": "Títulos alcanzan máximo histórico con un incremento en la liquidez",
         "url": "https://www.portafolio.co/economia/finanzas/las-acciones-marcan-record-y-un-mayor-flujo-de-la-liquidez-502271",
@@ -523,89 +603,39 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Abelardo firma 11 decretos y crea el Fondo Patria Milagro para la reconstrucción de Colombia",
         "capturado": "2026-09-10T03:19:33-05:00"
-      },
-      {
-        "titulo": "Un mes tras el sismo en Colombia: entre escombros y luto",
-        "url": "https://www.portafolio.co/economia/regiones/entre-el-duelo-y-las-ruinas-un-mes-despues-del-terremoto-en-colombia-501943",
-        "resumen": "",
-        "autor": "Paula galeano balaguera, julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Entre el duelo y las ruinas: Un mes después del terremoto en Colombia",
-        "capturado": "2026-09-10T03:19:33-05:00"
-      },
-      {
-        "titulo": "Ejecutivo encarga a José Manuel Restrepo la coordinación de energía, IA y rubros de inversión",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-asigna-a-jose-manuel-restrepo-la-coordinacion-de-inversion-ia-y-energia-502172",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Gobierno asigna a José Manuel Restrepo la coordinación de inversión, IA y energía",
-        "capturado": "2026-09-09T22:15:21-05:00"
-      },
-      {
-        "titulo": "Administración nacional solicitará al Legislativo 1,2 billones de pesos para prevenir apagones en El Niño",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pedira-al-congreso-1-2-billones-para-evitar-apagones-durante-el-nino-502171",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Gobierno pedirá al Congreso $1,2 billones para evitar apagones durante El Niño",
-        "capturado": "2026-09-09T22:15:21-05:00"
-      },
-      {
-        "titulo": "Primicia: tarifa oficial del iPhone 18 Pro y Pro Max en los establecimientos Mac Center de Colombia",
-        "url": "https://www.portafolio.co/economia/primicia-precio-oficial-del-iphone-18-pro-y-pro-max-en-las-tiendas-de-mac-center-en-colombia-502163",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Primicia: precio oficial del iPhone 18 Pro y Pro Max en las tiendas de Mac Center en Colombia",
-        "capturado": "2026-09-09T22:15:21-05:00"
-      },
-      {
-        "titulo": "Gobierno reporta objetivo de 30.000 kilómetros de carreteras regionales en territorio nacional",
-        "url": "https://www.portafolio.co/economia/gobierno-anuncia-meta-de-30-000-kilometros-de-vias-regionales-en-colombia-502170",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Gobierno anuncia meta de 30.000 kilómetros de vías regionales en Colombia",
-        "capturado": "2026-09-09T22:15:21-05:00"
-      },
-      {
-        "titulo": "Juliana Guerrero pide disculpas a la nación tras admitir su culpabilidad en fraude procesal",
-        "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-pide-perdon-al-pais-tras-aceptar-responsabilidad-por-fraude-procesal-502168",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Juliana Guerrero pide perdón al país tras aceptar responsabilidad por fraude procesal",
-        "capturado": "2026-09-09T18:50:20-05:00"
-      },
-      {
-        "titulo": "Pasa primer debate la reforma tributaria de Galán en Bogotá con cambios al ICA y rebajas",
-        "url": "https://www.portafolio.co/economia/regiones/aprueban-en-primer-debate-ajustes-al-ica-en-bogota-proyecto-incluye-alivios-del-60-en-sanciones-502167",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Aprueban en primer debate reforma tributaria de Galán en Bogotá, que incluye ajustes al ICA y alivios en sanciones",
-        "capturado": "2026-09-09T18:50:20-05:00"
-      },
-      {
-        "titulo": "Cual fue el ganador del galardon Vida y Obra de los premios Portafolio 2025",
-        "url": "https://www.portafolio.co/economia/quien-fue-el-ganador-del-premio-vida-y-obra-de-los-premios-portafolio-502166",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "¿Quién fue el ganador del premio Vida y Obra de los premios Portafolio 2025?",
-        "capturado": "2026-09-09T18:50:20-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El negocio de James Rodríguez y Juan Cuadrado, recientes fichajes del rentado local",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-es-la-faceta-empresarial-de-james-rodriguez-y-juan-cuadrado-nuevos-jugadores-del-futbol-colombiano-502281",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Así es la faceta empresarial de James Rodríguez y Juan Cuadrado, nuevos jugadores del fútbol colombiano",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "GeoPark contempla cotizar su título en el país además de EE UU por estos motivos",
+        "url": "https://www.portafolio.co/negocios/empresas/geopark-podria-listar-su-accion-en-colombia-ademas-de-nueva-york-estas-son-las-razones-del-plan-502282",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "GeoPark podría listar su acción en Colombia además de Nueva York: estas son las razones del plan",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
+      {
+        "titulo": "Frontier Airlines aterrizará en el país con 14 trayectos sin escalas en diciembre",
+        "url": "https://www.portafolio.co/negocios/frontier-airlines-llegara-a-colombia-con-14-vuelos-directos-hacia-bogota-medellin-y-cartagena-en-diciembre-502277",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Frontier Airlines llegará a Colombia con 14 vuelos directos hacia Bogotá, Medellín y Cartagena en diciembre",
+        "capturado": "2026-09-11T09:04:17-05:00"
+      },
       {
         "titulo": "Según Cifras y Conceptos, Alpina es la compañía más admirada del país en 2026",
         "url": "https://www.portafolio.co/negocios/empresas/alpina-la-empresa-mas-admirada-de-colombia-en-2026-segun-cifras-y-conceptos-502268",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-04",
         "titulo_fuente": "Atlético Nacional suma a trii como nuevo patrocinador con apuesta por la educación financiera",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Director ejecutivo de Addi, único connacional galardonado por Fast Company por su IA",
-        "url": "https://www.portafolio.co/negocios/empresas/ceo-de-addi-unico-colombiano-reconocido-por-la-revista-fast-company-por-su-trabajo-con-inteligencia-artificial-501884",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "CEO de Addi, único colombiano reconocido por la revista Fast Company por su trabajo con inteligencia artificial",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Elizabeth Rey, de Colombia, estará al frente de la unificación regional de Citi en cuatro países",
-        "url": "https://www.portafolio.co/negocios/empresas/elizabeth-rey-liderara-la-integracion-regional-de-citi-en-los-mercados-de-peru-chile-ecuador-y-colombia-501883",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Colombiana Elizabeth Rey liderará la integración regional de Citi en cuatro mercados de Sudamérica",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Tiendas autónomas sin personal ni cajeros arriban al país con sistemas para adquirir productos todo el día",
-        "url": "https://www.portafolio.co/negocios/empresas/micromercados-sin-empleados-ni-cajeros-llegan-a-colombia-con-tecnologia-para-compras-las-24-horas-del-dia-501880",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "Micromercados sin empleados ni cajeros llegan a Colombia con tecnología para compras las 24 horas del día",
         "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
