@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T15:30:23-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-11T17:59:05-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Angie Rodríguez se pronuncia sobre el caso de Juliana Guerrero",
+        "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-habla-del-escandalo-de-juliana-guerrero-502338",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Angie Rodríguez habla del escándalo de Juliana Guerrero",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "Fallece a los 77 años Rafael Mejía, antiguo dirigente de la SAC",
+        "url": "https://www.portafolio.co/economia/agro/murio-a-los-77-anos-rafael-mejia-exdirigente-de-la-sac-y-referente-del-sector-agropecuario-colombiano-502337",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "¿Quién fue Rafael Mejía, el expresidente de la SAC que falleció a los 77 años?",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "De La Espriella sugiere bajar el IVA a vuelos hacia regiones del sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-propone-reducir-el-iva-de-los-vuelos-con-destino-a-las-zonas-afectadas-por-el-terremoto-502332",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "De La Espriella propone reducir el IVA de los vuelos con destino a las zonas afectadas por el terremoto",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "Requisitos y pasos para que colombianos viajen a Israel sin visado",
+        "url": "https://www.portafolio.co/economia/gobierno/colombianos-podran-viajar-a-israel-sin-visa-estas-son-las-condiciones-y-el-tramite-requerido-502331",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Colombianos podrán viajar a Israel sin visa: estas son las condiciones y el trámite requerido",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "Origen, historia y beneficiarios de los galardones Portafolio 2026",
+        "url": "https://www.portafolio.co/economia/premios-portafolio-2026-que-son-desde-cuando-se-entregan-y-a-quienes-reconocen-502329",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Premios Portafolio 2026: qué son, desde cuándo se entregan y a quiénes reconocen",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "Propuesta para modificar el etiquetado del café nacional y los blends",
+        "url": "https://www.portafolio.co/economia/agro/cafe-colombiano-o-mezcla-la-propuesta-que-busca-cambiar-como-se-identifican-estos-productos-502328",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "¿Café colombiano o mezcla? La propuesta que busca cambiar cómo se identifican estos productos",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
+      {
+        "titulo": "Asi ha cambiado la cotizacion del dolar tras la llegada de Abelardo De La Espriella a la presidencia",
+        "url": "https://www.portafolio.co/economia/finanzas/como-se-ha-movido-el-dolar-desde-abelardo-de-la-espriella-asumio-la-presidencia-estas-son-las-variaciones-502311",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "¿Cómo se ha movido el dólar desde Abelardo De La Espriella asumió la presidencia? Estas son las variaciones",
+        "capturado": "2026-09-11T17:59:05-05:00"
+      },
       {
         "titulo": "Fiscalía indaga a Angie Rodríguez por datos cruciales sobre Juliana Guerrero",
         "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-tendria-informacion-clave-sobre-juliana-guerrero-en-nueva-investigacion-de-la-fiscalia-502322",
@@ -532,76 +602,6 @@
         "subseccion": "Regiones",
         "publicacion": "2026-09-10",
         "titulo_fuente": "Un mes después del terremoto: familias que lo perdieron todo",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Superfinanciera advierte que no emite plásticos, préstamos ni ningún servicio financiero",
-        "url": "https://www.portafolio.co/economia/gobierno/superintendencia-financiera-alerta-que-no-ofrece-tarjetas-de-credito-creditos-o-cualquier-otro-producto-financiero-502206",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Superintendencia Financiera alerta que no ofrece tarjetas de crédito, créditos o cualquier otro producto financiero",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio baja abarató el iPhone en el país, mas la ventaja al cliente fue poca",
-        "url": "https://www.portafolio.co/economia/dolar-mas-barato-reduce-el-precio-del-iphone-en-colombia-pero-el-alivio-para-el-comprador-fue-limitado-502204",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Dólar más barato reduce el precio del iPhone en Colombia, pero el alivio para el comprador fue limitado",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Cotización del euro en Colombia: este es el precio de la moneda este 10 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-10-de-septiembre-frente-al-peso-colombiano-502203",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 10 de septiembre frente al peso colombiano",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Exigen mostrar balances de salud previos a otra reforma gubernamental del sector",
-        "url": "https://www.portafolio.co/economia/gobierno/la-plata-alcanza-o-no-piden-revelar-cuentas-de-la-salud-antes-de-que-el-gobierno-vuelva-a-reformar-el-sistema-502202",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "'¿La plata alcanza o no?': piden revelar cuentas de la salud antes de que el Gobierno vuelva a reformar el sistema",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Bogotá dispone más de 1.000 puestos para mayores de 50 años en feria laboral del jueves 10",
-        "url": "https://www.portafolio.co/economia/bogota-abre-mas-de-1-000-vacantes-para-mayores-de-50-anos-en-feria-de-empleo-este-jueves-10-de-septiembre-502200",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Bogotá abre más de 1.000 vacantes para mayores de 50 años en feria de empleo este jueves 10 de septiembre",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Plazos para reclamar saldos a favor de la Dian varían entre seis meses y cinco años",
-        "url": "https://www.portafolio.co/economia/gobierno/la-dian-le-debe-plata-algunas-devoluciones-de-impuestos-tienen-cinco-anos-para-reclamarse-otras-solo-seis-meses-502198",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿La Dian le debe plata? Algunas devoluciones de impuestos tienen cinco años para reclamarse, otras solo seis meses",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Apenas cinco terminales aéreas concentran el setenta por ciento del tráfico nacional y San Andrés destaca",
-        "url": "https://www.portafolio.co/economia/solo-cinco-aeropuertos-mueven-a-7-de-cada-10-pasajeros-que-vuelan-dentro-del-pais-san-andres-es-la-nueva-estrella-502140",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Solo cinco aeropuertos mueven a 7 de cada 10 pasajeros que vuelan dentro del país; San Andrés es la nueva estrella",
         "capturado": "2026-09-10T12:04:29-05:00"
       }
     ],
