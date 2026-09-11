@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T17:20:45-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-09-10T19:21:54-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Unicef advierte sobre más de 4.268 colegios dañados tras el sismo en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-el-terremoto-en-colombia-unicef-alerta-por-mas-de-4-268-escuelas-afectadas-502267",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Tras el terremoto en Colombia, Unicef alerta por más de 4.268 escuelas afectadas",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "Perú, Chile y Colombia añadirían US$100.000 millones al PIB en un quinquenio al retomar su dinamismo",
+        "url": "https://www.portafolio.co/economia/finanzas/chile-colombia-y-peru-podrian-sumar-us-100-000-millones-a-su-pib-en-cinco-anos-si-recuperan-ritmo-de-crecimiento-502266",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Chile, Colombia y Perú podrían sumar US$100.000 millones a su PIB en cinco años si recuperan ritmo de crecimiento",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "Alcalde Galán dialoga con el ministro de Hacienda por obras atrasadas de la capital",
+        "url": "https://www.portafolio.co/economia/regiones/galan-se-reune-con-ministro-de-hacienda-para-hablar-sobre-proyectos-pendientes-de-bogota-502260",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Galán se reúne con ministro de Hacienda para hablar sobre proyectos pendientes de Bogotá",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "Ya hay apetito por Colombia en los mercados financieros; pero falta que eso se traduzca en plata",
+        "url": "https://www.portafolio.co/economia/finanzas/ya-hay-apetito-por-colombia-en-los-mercados-financieros-pero-falta-que-eso-se-traduzca-en-plata-502259",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "‘Ya hay apetito por Colombia en los mercados financieros; pero falta que eso se traduzca en plata’",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "Chocó estrena la primera casa levantada de nuevo luego del movimiento telúrico del 10 de agosto",
+        "url": "https://www.portafolio.co/economia/regiones/choco-recibe-su-primera-vivienda-reconstruida-tras-el-terremoto-del-10-de-agosto-502258",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Chocó recibe su primera vivienda reconstruida tras el terremoto del 10 de agosto",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "El Túnel del Toyo empezará a funcionar en octubre de 2027 tras destrabar aparatos esenciales",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-tunel-del-toyo-entrara-en-operacion-en-octubre-de-2027-tras-destrabe-de-equipos-clave-para-el-proyecto-502256",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "El Túnel del Toyo entrará en operación en octubre de 2027, tras destrabe de equipos clave para el proyecto",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
+      {
+        "titulo": "Requisitos, tipos de formación y postulación para capacitaciones de Office en el Sena 2026",
+        "url": "https://www.portafolio.co/economia/regiones/cursos-de-office-en-el-sena-2026-requisitos-modalidades-y-como-aplicar-502255",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Cursos de Office en el Sena 2026: requisitos, modalidades y cómo aplicar",
+        "capturado": "2026-09-10T19:21:54-05:00"
+      },
       {
         "titulo": "Un mes tras el sismo, así progresan las obras de derribo y edificación en Cali",
         "url": "https://www.portafolio.co/economia/regiones/un-mes-despues-del-terremoto-asi-avanza-la-demolicion-y-reconstruccion-de-edificios-en-cali-502253",
@@ -533,76 +603,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "¿Cuánto podría costar enterrar el 'cablerío' de los postes y fachadas de Bogotá? Estas son algunas estimaciones",
         "capturado": "2026-09-09T18:50:20-05:00"
-      },
-      {
-        "titulo": "Cual es la razon de los menores ingresos de los profesionales universitarios en Colombia",
-        "url": "https://www.portafolio.co/economia/por-que-ganan-menos-los-profesionales-universitarios-en-colombia-502164",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "¿Por qué ganan menos los profesionales universitarios en Colombia?",
-        "capturado": "2026-09-09T18:50:20-05:00"
-      },
-      {
-        "titulo": "Congreso Acoset 2026: el evento empresarial que definirá la agenda laboral colombiana",
-        "url": "https://www.portafolio.co/economia/finanzas/congreso-acoset-2026-la-cumbre-empresarial-que-marcara-la-hoja-de-ruta-del-trabajo-en-colombia-502162",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Congreso ACOSET 2026: La cumbre empresarial que marcará la hoja de ruta del trabajo en Colombia",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "El costo de vida nacional superaría el 7% e intereses llegarían al 13% por El Niño",
-        "url": "https://www.portafolio.co/economia/inflacion-en-colombia-podria-pasar-el-7-y-las-tasas-de-interes-llegarian-al-13-con-un-fuerte-fenomeno-de-el-nino-502156",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Inflación en Colombia podría pasar el 7% y las tasas de interés llegarían al 13% con un fuerte Fenómeno de El Niño",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "Presupuesto: Mintrabajo eleva 33,2% su gasto para 2027 enfocándose en empleo y formalidad",
-        "url": "https://www.portafolio.co/economia/empleo/presupuesto-mintrabajo-aumenta-33-2-su-inversion-para-2027-para-priorizar-empleo-y-formalizacion-502155",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Presupuesto: Mintrabajo aumenta 33,2% su inversión para 2027 para priorizar empleo y formalización",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "Cartagena lanzará acuabuses en diciembre con cuatro paradas en su fase inicial",
-        "url": "https://www.portafolio.co/economia/regiones/cartagena-probara-acuabuses-en-diciembre-estas-seran-las-cuatro-estaciones-del-piloto-inicial-502154",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Cartagena probará acuabuses en diciembre: estas serán las cuatro estaciones del piloto inicial",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "Minsalud solicita $13,9 billones adicionales para 2027 por huecos en aseguramiento y red hospitalaria",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-13-9-billones-mas-para-2027-ante-faltantes-en-aseguramiento-y-recuperacion-hospitalaria-502145",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Minsalud pide $13,9 billones más para 2027 ante faltantes en aseguramiento y recuperación hospitalaria",
-        "capturado": "2026-09-09T14:12:47-05:00"
-      },
-      {
-        "titulo": "Juliana Guerrero selló preacuerdo con la Fiscalía y admitió haber recibido títulos falsos de la Fundación San José",
-        "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-firmo-preacuerdo-con-la-fiscalia-acepto-que-recibio-titulos-falsos-de-la-fundacion-san-jose-502143",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Juliana Guerrero firmó preacuerdo con la Fiscalía: aceptó que recibió títulos falsos de la Fundación San José",
-        "capturado": "2026-09-09T14:12:47-05:00"
       }
     ],
     "Negocios": [
