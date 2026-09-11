@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-10T19:21:54-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-10T23:59:31-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Títulos alcanzan máximo histórico con un incremento en la liquidez",
+        "url": "https://www.portafolio.co/economia/finanzas/las-acciones-marcan-record-y-un-mayor-flujo-de-la-liquidez-502271",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Las acciones marcan récord y un mayor flujo de la liquidez",
+        "capturado": "2026-09-10T23:59:31-05:00"
+      },
       {
         "titulo": "Unicef advierte sobre más de 4.268 colegios dañados tras el sismo en Colombia",
         "url": "https://www.portafolio.co/economia/gobierno/tras-el-terremoto-en-colombia-unicef-alerta-por-mas-de-4-268-escuelas-afectadas-502267",
@@ -593,19 +603,19 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "¿Quién fue el ganador del premio Vida y Obra de los premios Portafolio 2025?",
         "capturado": "2026-09-09T18:50:20-05:00"
-      },
-      {
-        "titulo": "Cual seria el costo de soterrar los cables de postes y fachadas en Bogota segun calculos",
-        "url": "https://www.portafolio.co/economia/gobierno/cuanto-podria-costar-enterrar-el-cablerio-de-los-postes-y-fachadas-de-bogota-estas-son-algunas-estimaciones-502158",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "¿Cuánto podría costar enterrar el 'cablerío' de los postes y fachadas de Bogotá? Estas son algunas estimaciones",
-        "capturado": "2026-09-09T18:50:20-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Según Cifras y Conceptos, Alpina es la compañía más admirada del país en 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/alpina-la-empresa-mas-admirada-de-colombia-en-2026-segun-cifras-y-conceptos-502268",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "Alpina, la empresa más admirada de Colombia en 2026, según Cifras y Conceptos",
+        "capturado": "2026-09-10T23:59:31-05:00"
+      },
       {
         "titulo": "El ochenta por ciento de las firmas del país desaparecería hoy y a los ciudadanos les daría igual",
         "url": "https://www.portafolio.co/negocios/ocho-de-cada-diez-marcas-colombianas-podrian-morir-manana-mismo-y-al-pais-ni-siquiera-le-importaria-502229",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-04",
         "titulo_fuente": "Micromercados sin empleados ni cajeros llegan a Colombia con tecnología para compras las 24 horas del día",
-        "capturado": "2026-09-04T21:36:18-05:00"
-      },
-      {
-        "titulo": "Bienestar emocional se vuelve desafío empresarial: 72% de empleados teme efectos en su trayectoria",
-        "url": "https://www.portafolio.co/negocios/empresas/la-salud-mental-se-convierte-en-un-reto-para-las-empresas-el-72-de-los-colaboradores-teme-impactos-en-su-carrera-501868",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-04",
-        "titulo_fuente": "La salud mental se convierte en un reto para las empresas: el 72% de los colaboradores teme impactos en su carrera",
         "capturado": "2026-09-04T21:36:18-05:00"
       }
     ]
