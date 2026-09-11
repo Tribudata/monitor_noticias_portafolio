@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T12:49:21-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-09-11T15:30:23-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Fiscalía indaga a Angie Rodríguez por datos cruciales sobre Juliana Guerrero",
+        "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-tendria-informacion-clave-sobre-juliana-guerrero-en-nueva-investigacion-de-la-fiscalia-502322",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Angie Rodríguez tendría información clave sobre Juliana Guerrero en nueva investigación de la Fiscalía",
+        "capturado": "2026-09-11T15:30:23-05:00"
+      },
+      {
+        "titulo": "De La Espriella amonestó a mandatarios locales por no reportar afectaciones del sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-llamo-la-atencion-a-alcaldes-del-pais-por-falta-de-informacion-sobre-los-danos-del-terremoto-502315",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "De La Espriella llamó la atención a alcaldes del país por falta de información sobre los daños del terremoto",
+        "capturado": "2026-09-11T15:30:23-05:00"
+      },
       {
         "titulo": "Sismo matutino de magnitud 4,5 sacude el departamento del Chocó este viernes 11 de septiembre",
         "url": "https://www.portafolio.co/economia/regiones/nuevo-temblor-en-choco-de-magnitud-4-5-en-la-manana-de-este-viernes-11-de-septiembre-502310",
@@ -583,29 +603,19 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Solo cinco aeropuertos mueven a 7 de cada 10 pasajeros que vuelan dentro del país; San Andrés es la nueva estrella",
         "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "La mitad de los colombianos percibe mal la economía y un porcentaje similar prevé mejoras a medio año",
-        "url": "https://www.portafolio.co/economia/gobierno/economia-divide-a-los-colombianos-51-la-ve-mal-pero-la-mitad-espera-una-mejora-en-seis-meses-502193",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Economía divide a los colombianos: 51 % la ve mal, pero la mitad espera una mejora en seis meses",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Prueba piloto de De La Espriella para erradicar coca sustituirá el glifosato con glufosinato de amonio",
-        "url": "https://www.portafolio.co/economia/gobierno/glifosato-reemplazado-por-glufosinato-de-amonio-asi-sera-el-piloto-de-de-la-espriella-para-erradicar-coca-502190",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Glifosato reemplazado por glufosinato de amonio: así será el piloto de De La Espriella para erradicar coca",
-        "capturado": "2026-09-10T12:04:29-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Compañías afrontan recientes exigencias de apertura, rivalidad e intervención ciudadana",
+        "url": "https://www.portafolio.co/negocios/empresas/las-empresas-enfrentan-nuevas-expectativas-sobre-transparencia-competencia-y-participacion-publica-502313",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Las empresas enfrentan nuevas expectativas sobre transparencia, competencia y participación pública",
+        "capturado": "2026-09-11T15:30:23-05:00"
+      },
       {
         "titulo": "Ecopetrol ofrece más de 300 plazas de prácticas en 24 urbes y campos nacionales: cómo postularse",
         "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-abre-mas-de-300-cupos-de-practicas-para-estudiantes-en-24-ciudades-y-campos-del-pais-asi-puede-aplicar-502312",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-07",
         "titulo_fuente": "Novo Nordisk avanza contra la obesidad infantil: 40,4% de los niños mejoró con medicamento para bajar de peso",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "AngloGold proyecta edificar Quebradona en 2028 y vender cobre al exterior desde 2032 con licencia",
-        "url": "https://www.portafolio.co/negocios/empresas/anglogold-preve-iniciar-en-2028-la-construccion-de-quebradona-y-exportar-cobre-desde-2032-tras-obtener-la-licencia-501961",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "AngloGold prevé iniciar en 2028 la construcción de Quebradona y exportar cobre desde 2032, tras obtener la licencia",
         "capturado": "2026-09-07T13:10:19-05:00"
       }
     ]
