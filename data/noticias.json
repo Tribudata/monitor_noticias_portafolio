@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-12T16:56:38-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-12T18:53:04-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Textos de fuera bajan hasta 30%: este es el efecto del peso fuerte en las editoriales",
+        "url": "https://www.portafolio.co/negocios/comercio/libros-importados-cuestan-hasta-30-menos-asi-impacta-la-revaluacion-del-peso-al-sector-editorial-502381",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Libros importados cuestan hasta 30% menos: así impacta la revaluación del peso al sector editorial",
+        "capturado": "2026-09-12T18:53:04-05:00"
+      },
+      {
         "titulo": "Copilot de Word, Excel y PowerPoint integra la IA Grok creada por Elon Musk",
         "url": "https://www.portafolio.co/negocios/empresas/microsoft-incorpora-la-ia-grok-de-elon-musk-a-copilot-para-word-excel-y-powerpoint-502377",
         "resumen": "",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Millonaria factura para aseguradoras: van 68.270 reclamaciones y el valor asegurado se multiplicó por diez",
         "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Inversionistas de bonos aprueban integración de Ecopetrol con Parque Solar Portón del Sol",
-        "url": "https://www.portafolio.co/negocios/empresas/tenedores-de-bonos-avalan-fusion-de-ecopetrol-con-parque-solar-porton-del-sol-502006",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Tenedores de bonos avalan fusión de Ecopetrol con Parque Solar Portón del Sol",
-        "capturado": "2026-09-07T18:59:55-05:00"
       }
     ]
   }
