@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-12T09:17:08-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-12T12:21:11-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ministerio de Transporte exige mayor trabajo y menores pretextos en el aeropuerto Rafael Núñez",
+        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-rafael-nunez-mintransporte-pide-menos-excusas-y-mas-ejecucion-502366",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Aeropuerto Rafael Núñez: MinTransporte pide \"menos excusas y más ejecución\"",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo prepara herramienta digital para la adquisición directa de TES por parte de ciudadanos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-alista-plataforma-para-que-colombianos-compren-tes-sin-intermediarios-502364",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Gobierno alista plataforma para que colombianos compren TES sin intermediarios",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "De la Espriella entregó su inicial salario a ancianato y afirmó que mensualmente lo donará",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-dono-su-primer-sueldo-a-hogar-geriatrico-y-anuncio-que-cada-mes-lo-dara-a-una-causa-social-502363",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "De la Espriella donó su primer sueldo a hogar geriátrico y anunció que cada mes lo dará a una causa social",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "Agencia Nacional de Infraestructura inicia estrategia para destrabar 553 trámites detenidos en el país",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-lanza-plan-de-choque-para-destrabar-553-tramites-de-infraestructura-represados-en-colombia-502360",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "ANI lanza plan de choque para destrabar 553 trámites de infraestructura represados en Colombia",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "Colombia asigna $7.446 millones para proteger sanidad de aves y cerdos e impulsar las ventas externas",
+        "url": "https://www.portafolio.co/economia/agro/colombia-destina-7-446-millones-para-blindar-sanidad-avicola-y-porcicola-y-fortalecer-exportaciones-502359",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Colombia destina $7.446 millones para blindar sanidad avícola y porcícola y fortalecer exportaciones",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "Las siete propuestas del dirigente de la Andi, Bruce Mac Master, frente a la escasez de energía",
+        "url": "https://www.portafolio.co/economia/gobierno/que-hacer-ante-el-deficit-energetico-las-siete-medidas-que-plantea-el-presidente-de-la-andi-bruce-mac-master-502356",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "¿Qué hacer ante el déficit energético? Las siete medidas que plantea el presidente de la Andi, Bruce Mac Master",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "Cerca del 90 por ciento de los afiliados presentó fallas al reclamar fármacos en 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/casi-9-de-cada-10-usuarios-tuvo-problemas-para-recibir-sus-medicamentos-en-502355",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Casi 9 de cada 10 usuarios tuvo problemas para recibir sus medicamentos en 2026",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
       {
         "titulo": "El dólar cayó $53 en la semana y sigue perdiendo terreno ante el peso",
         "url": "https://www.portafolio.co/economia/finanzas/el-dolar-bajo-53-durante-la-semana-y-continua-perdiando-terreno-frente-al-peso-502354",
@@ -533,79 +603,49 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Fenómeno de El Niño podría ser histórico este año: sube al 75% la probabilidad de que sea el más intenso desde 1950",
         "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional confirma que construirá diez megacárceles en Colombia y revela fechas",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-confirma-la-construccion-de-diez-megacarceles-en-colombia-cuando-estarian-listas-502236",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Gobierno Nacional confirma la construcción de diez 'megacárceles' en Colombia: ¿cuándo estarían listas?",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "La manera en que las compañías contribuirán a la reconstrucción del país mediante Obras por Impuestos",
-        "url": "https://www.portafolio.co/economia/gobierno/asi-aportaran-las-empresas-a-la-reconstruccion-de-colombia-con-el-mecanismo-de-obras-por-impuestos-502235",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Así aportarán las empresas a la reconstrucción de Colombia con el mecanismo de Obras por Impuestos",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "El Gobierno eliminará el tope de inversiones externas en fondos de pensiones mediante un decreto",
-        "url": "https://www.portafolio.co/economia/con-proyecto-de-decreto-el-gobierno-derogara-la-limitacion-de-inversiones-en-el-extranjero-de-los-fondos-de-pension-502230",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Con proyecto de decreto el Gobierno derogará la limitación de inversiones en el extranjero de los fondos de pensión",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "El Gobierno evaluará la situación de las EPS intervenidas para definir cuáles se salvan y cuáles liquidan",
-        "url": "https://www.portafolio.co/economia/gobierno/alta-cirugia-para-las-eps-intervenidas-el-gobierno-decidira-cuales-pueden-salvarse-y-cuales-iran-a-liquidacion-502228",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "‘Alta cirugía’ para las EPS intervenidas: el Gobierno decidirá cuáles pueden salvarse y cuáles irán a liquidación",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "El almacenamiento de contenedores vacíos en terminales causa un nuevo bloqueo en Buenaventura",
-        "url": "https://www.portafolio.co/economia/buenaventura-vuelve-a-bloquearse-por-el-represamiento-de-contenedores-vacios-en-los-patios-portuarios-502219",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Buenaventura vuelve a bloquearse por el represamiento de contenedores vacíos en los patios portuarios",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "Wingo proyecta movilizar 150.000 pasajeros en 2026 ante el auge de Aruba para los colombianos",
-        "url": "https://www.portafolio.co/economia/finanzas/aruba-gana-fuerza-como-destino-para-los-colombianos-wingo-espera-transportar-150-000-viajeros-durante-todo-502227",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Aruba gana fuerza como destino para los colombianos: Wingo espera transportar 150.000 viajeros durante todo 2026",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "Empleo con disparidad: aumentan los cargos de baja remuneración y los del sector público",
-        "url": "https://www.portafolio.co/economia/la-creacion-de-empleo-muestra-una-brecha-crecen-los-puestos-de-menores-ingresos-y-tambien-los-del-sector-publico-502224",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "La creación de empleo muestra una brecha: crecen los puestos de menores ingresos y también los del sector público",
-        "capturado": "2026-09-10T14:56:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Más de 520 proyectos productivos participan en la Feria EVA de Bogotá durante Amor y Amistad",
+        "url": "https://www.portafolio.co/negocios/comercio/la-feria-eva-reune-mas-de-520-emprendimientos-en-bogota-en-plena-temporada-de-amor-y-amistad-502367",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "La Feria EVA reúne más de 520 emprendimientos en Bogotá en plena temporada de Amor y Amistad",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "Arranca la preventa de los nuevos iPhone 18 Pro de Apple en Colombia y revelan sus tarifas",
+        "url": "https://www.portafolio.co/negocios/empresas/iphone-18-pro-en-colombia-inicio-la-preventa-y-estos-son-los-precios-de-la-nueva-generacion-de-apple-502362",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "iPhone 18 Pro en Colombia: inició la preventa y estos son los precios de la nueva generación de Apple",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "El Eje Cafetero fue seleccionado para estudiar la instalación de pequeños reactores nucleares",
+        "url": "https://www.portafolio.co/negocios/industrias/energia-nuclear-en-colombia-el-eje-cafetero-es-la-zona-elegida-para-la-viabilidad-de-pequenos-reactores-modulares-502358",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Energía nuclear en Colombia: el Eje Cafetero es la zona elegida para la viabilidad de pequeños reactores modulares",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
+      {
+        "titulo": "110 vendedores de San Andresito del Sur serán trasladados por la Alcaldía al predio de La 14",
+        "url": "https://www.portafolio.co/negocios/empresas/cali-reubicara-a-110-comerciantes-de-san-andresito-del-sur-en-el-antiguo-edificio-de-la-502357",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Cali reubicará a 110 comerciantes de San Andresito del Sur en el antiguo edificio de La 14",
+        "capturado": "2026-09-12T12:21:11-05:00"
+      },
       {
         "titulo": "Compañías afrontan recientes exigencias de apertura, rivalidad e intervención ciudadana",
         "url": "https://www.portafolio.co/negocios/empresas/las-empresas-enfrentan-nuevas-expectativas-sobre-transparencia-competencia-y-participacion-publica-502313",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "David Vélez se compromete con nueva estrategia de Nubank para impulsar la bancarización en el Chocó",
         "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "El desbalance comercial de Colombia con China lidera Suramérica y se acerca a los US$20.000 millones",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-tiene-el-mayor-deficit-comercial-con-china-en-suramerica-el-desbalance-ya-ronda-los-us-20-000-millones-501975",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Colombia tiene el mayor déficit comercial con China en Suramérica: el desbalance ya ronda los US$20.000 millones",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Café Sello Rojo reduce sus tarifas hasta 17% y ofrece un respiro financiero a los colombianos",
-        "url": "https://www.portafolio.co/negocios/empresas/cafe-sello-rojo-baja-hasta-17-sus-precios-y-promete-mas-alivio-para-el-bolsillo-de-los-colombianos-501974",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Café Sello Rojo baja hasta 17% sus precios y promete más alivio para el bolsillo de los colombianos",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa anuncia baja en las tarifas de Café Sello Rojo para beneficio de los compradores",
-        "url": "https://www.portafolio.co/negocios/empresas/buenas-noticias-para-consumidores-de-cafe-sello-rojo-esta-es-la-reduccion-de-precio-que-anuncia-el-grupo-nutresa-501965",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Buenas noticias para consumidores de Café Sello Rojo: esta es la reducción de precio que anuncia el Grupo Nutresa",
-        "capturado": "2026-09-07T13:10:19-05:00"
-      },
-      {
-        "titulo": "Tratamiento contra la obesidad infantil de Novo Nordisk muestra mejoría en el 40,4% de los menores",
-        "url": "https://www.portafolio.co/negocios/empresas/novo-nordisk-avanza-contra-la-obesidad-infantil-40-4-de-los-ninos-mejoro-con-medicamento-para-bajar-de-peso-501963",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Novo Nordisk avanza contra la obesidad infantil: 40,4% de los niños mejoró con medicamento para bajar de peso",
-        "capturado": "2026-09-07T13:10:19-05:00"
       }
     ]
   }
