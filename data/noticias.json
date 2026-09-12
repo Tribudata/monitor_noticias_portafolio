@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T20:01:31-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-12T01:11:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Las tres bases que Asobolsa sugiere para proteger la bolsa colombiana",
+        "url": "https://www.portafolio.co/economia/finanzas/los-tres-pilares-que-asobolsa-propone-para-blindar-el-mercado-de-capitales-en-colombia-502348",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Los tres pilares que Asobolsa propone para blindar el mercado de capitales en Colombia",
+        "capturado": "2026-09-12T01:11:42-05:00"
+      },
       {
         "titulo": "CRC ayuda a operadores a identificar el Registro Único de Damnificados",
         "url": "https://www.portafolio.co/economia/gobierno/como-saber-si-estoy-en-el-registro-unico-de-damnificados-la-crc-facilita-la-respuesta-a-operadores-502345",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "2026-09-10",
         "titulo_fuente": "PILA y GEIH miden distinto el mercado laboral: ANIF pide analizar sus cifras de forma complementaria",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Ministro Beltrán pide perdón y justifica su traslado a Santa Marta durante debate de censura en el Capitolio",
-        "url": "https://www.portafolio.co/economia/gobierno/mil-disculpas-ministro-beltran-vuelve-a-defender-viaje-a-santa-marta-en-mocion-de-censura-en-el-congreso-502217",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "'Mil disculpas': ministro Beltrán vuelve a defender viaje a Santa Marta en moción de censura en el Congreso",
         "capturado": "2026-09-10T12:04:29-05:00"
       }
     ],
