@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-12T06:05:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T09:17:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El dólar cayó $53 en la semana y sigue perdiendo terreno ante el peso",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-bajo-53-durante-la-semana-y-continua-perdiando-terreno-frente-al-peso-502354",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "El dólar bajó $53 durante la semana y continúa perdiando terreno frente al peso",
+        "capturado": "2026-09-12T09:17:08-05:00"
+      },
+      {
+        "titulo": "Es válida una charla de WhatsApp impresa como prueba en procesos laborales según la Corte Suprema",
+        "url": "https://www.portafolio.co/economia/gobierno/un-whatsapp-impreso-es-una-prueba-valida-en-un-juicio-laboral-esto-dijo-la-corte-suprema-502353",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "¿Un WhatsApp impreso es una prueba válida en un juicio laboral? Esto dijo la Corte Suprema",
+        "capturado": "2026-09-12T09:17:08-05:00"
+      },
       {
         "titulo": "Las tres bases que Asobolsa sugiere para proteger la bolsa colombiana",
         "url": "https://www.portafolio.co/economia/finanzas/los-tres-pilares-que-asobolsa-propone-para-blindar-el-mercado-de-capitales-en-colombia-502348",
@@ -583,26 +603,6 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "La creación de empleo muestra una brecha: crecen los puestos de menores ingresos y también los del sector público",
         "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "Así operan los mercados hoy: sube el petróleo, cae la dólar y se mueve la bolsa",
-        "url": "https://www.portafolio.co/economia/finanzas/el-movimiento-de-los-mercados-hoy-petroleo-sigue-disparado-dolar-baja-y-asi-se-comporta-la-bolsa-502223",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "El movimiento de los mercados hoy: petróleo sigue disparado, dólar baja y así se comporta la bolsa",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "ANIF sugiere revisar en conjunto los datos de PILA y GEIH ante sus diferencias para medir el empleo",
-        "url": "https://www.portafolio.co/economia/pila-y-geih-miden-distinto-el-mercado-laboral-anif-pide-analizar-sus-cifras-de-forma-complementaria-502221",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "PILA y GEIH miden distinto el mercado laboral: ANIF pide analizar sus cifras de forma complementaria",
-        "capturado": "2026-09-10T12:04:29-05:00"
       }
     ],
     "Negocios": [
