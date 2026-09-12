@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-12T12:21:11-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-12T14:33:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Abelardo De La Espriella señala que la Dian decomisó mercancía ilegal por $30.000 millones en un mes",
+        "url": "https://www.portafolio.co/economia/gobierno/dian-ha-incautado-30-000-millones-en-contrabando-en-menos-de-un-mes-segun-abelardo-de-la-espriella-502374",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Dian ha incautado $30.000 millones en contrabando en menos de un mes, según Abelardo De La Espriella",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
+      {
+        "titulo": "El fármaco para la epilepsia Urbadan se encuentra nuevamente a la venta en el país",
+        "url": "https://www.portafolio.co/economia/gobierno/urbadan-vuelve-a-estar-disponible-en-colombia-esto-dice-el-ministerio-de-salud-502372",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Urbadan, medicamento clave para pacientes con epilepsia vuelve a estar disponible en Colombia",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
+      {
+        "titulo": "Los tres inmuebles confiscados a Óscar Iván Zuluaga por el escándalo de Odebrecht",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-tres-bienes-embargados-a-oscar-ivan-zuluaga-por-el-caso-odebrecht-502369",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Estos son los tres bienes embargados a Óscar Iván Zuluaga por el caso Odebrecht",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
       {
         "titulo": "Ministerio de Transporte exige mayor trabajo y menores pretextos en el aeropuerto Rafael Núñez",
         "url": "https://www.portafolio.co/economia/regiones/aeropuerto-rafael-nunez-mintransporte-pide-menos-excusas-y-mas-ejecucion-502366",
@@ -573,39 +603,39 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Cancillería solicita autorizar la personalización del stock existente en el pasaportes de Colombia",
         "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Mintrabajo avisa sobre déficit de $4,84 billones para cubrir mesadas pensionales en 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/mintrabajo-advierte-faltante-de-4-84-billones-para-garantizar-el-pago-de-pensiones-para-502238",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Hay faltante de $4,84 billones para garantizar el pago de pensiones en 2027, advierte Mintrabajo",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "El 75% de las personas analfabetas en Colombia se consideran campesinas según la geografía del aprendizaje",
-        "url": "https://www.portafolio.co/economia/regiones/la-geografia-que-define-quien-aprende-a-leer-en-colombia-75-de-los-analfabetas-en-colombia-se-reconoce-campesino-502222",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "La geografía que define quién aprende a leer en Colombia: 75% de los analfabetas en Colombia se reconoce campesino",
-        "capturado": "2026-09-10T14:56:46-05:00"
-      },
-      {
-        "titulo": "La probabilidad de que El Niño sea el más fuerte desde 1950 sube al 75% y podría ser histórico",
-        "url": "https://www.portafolio.co/economia/gobierno/fenomeno-de-el-nino-podria-ser-historico-este-ano-sube-al-75-la-probabilidad-de-que-sea-el-mas-intenso-desde-502234",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Fenómeno de El Niño podría ser histórico este año: sube al 75% la probabilidad de que sea el más intenso desde 1950",
-        "capturado": "2026-09-10T14:56:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Colombia ubica tres clínicas en el top ocho latinoamericano del escalafón IntelLat 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-mete-tres-hospitales-entre-los-ocho-mejores-de-america-latina-en-ranking-intellat-502375",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Colombia mete tres hospitales entre los ocho mejores de América Latina en ranking IntelLat 2026",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
+      {
+        "titulo": "El cincuenta por ciento de bares y gastrobares pereiranos continúa inactivo a un mes del sismo",
+        "url": "https://www.portafolio.co/negocios/comercio/la-mitad-de-los-bares-y-gastrobares-de-pereira-sigue-sin-operacion-un-mes-despues-del-terremoto-502370",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "La mitad de los bares y gastrobares de Pereira sigue sin operación un mes después del terremoto",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
+      {
+        "titulo": "Lionel Messi avanza en la compra de un equipo hispano y el Eldense cambiaría de dueño",
+        "url": "https://www.portafolio.co/negocios/inversion/lionel-messi-esta-cerca-de-comprar-un-club-de-espana-eldense-tendria-nuevo-maximo-accionista-502368",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Lionel Messi está cerca de comprar un club de España: Eldense tendría nuevo máximo accionista.",
+        "capturado": "2026-09-12T14:33:20-05:00"
+      },
       {
         "titulo": "Más de 520 proyectos productivos participan en la Feria EVA de Bogotá durante Amor y Amistad",
         "url": "https://www.portafolio.co/negocios/comercio/la-feria-eva-reune-mas-de-520-emprendimientos-en-bogota-en-plena-temporada-de-amor-y-amistad-502367",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-07",
         "titulo_fuente": "Nutresa y Nubank entregarán 100 becas a jóvenes del Chocó",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Colombina, Nutresa y Olímpica adquirirán directo de cultivadores chocoanos, incluso incluirá viche",
-        "url": "https://www.portafolio.co/negocios/empresas/olimpica-nutresa-y-colombina-compraran-directamente-a-productores-chocoanos-hasta-viche-llevaran-501988",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Olímpica, Nutresa y Colombina comprarán directamente a productores chocoanos ¡Hasta viche llevarán!",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Trabas portuarias y cambiarias ponen en riesgo el crecimiento exportador agrícola colombiano pretendido",
-        "url": "https://www.portafolio.co/negocios/comercio/del-puerto-al-dolar-los-obstaculos-que-amenazan-el-salto-exportador-que-colombia-busca-darle-al-sector-agricola-501983",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Del puerto al dólar: los obstáculos que amenazan el salto exportador que Colombia busca darle al sector agrícola",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "David Vélez respalda nueva iniciativa de Nubank para fomentar la bancarización chocoana",
-        "url": "https://www.portafolio.co/negocios/empresas/david-velez-se-compromete-con-nueva-estrategia-de-nubank-para-impulsar-la-bancarizacion-en-el-choco-501981",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "David Vélez se compromete con nueva estrategia de Nubank para impulsar la bancarización en el Chocó",
         "capturado": "2026-09-07T16:42:18-05:00"
       }
     ]
