@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-11T17:59:05-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-11T20:01:31-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "CRC ayuda a operadores a identificar el Registro Único de Damnificados",
+        "url": "https://www.portafolio.co/economia/gobierno/como-saber-si-estoy-en-el-registro-unico-de-damnificados-la-crc-facilita-la-respuesta-a-operadores-502345",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "¿Cómo saber si estoy en el Registro Único de Damnificados? La CRC facilita la respuesta a operadores",
+        "capturado": "2026-09-11T20:01:31-05:00"
+      },
+      {
+        "titulo": "Mintrabajo remitirá casos de Comfamiliar Atlántico a Fiscalía, Procuraduría y Contraloría",
+        "url": "https://www.portafolio.co/economia/gobierno/mintrabajo-llevara-hallazgos-en-comfamiliar-atlantico-a-fiscalia-procuraduria-y-contraloria-502344",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Mintrabajo llevará hallazgos en Comfamiliar Atlántico a Fiscalía, Procuraduría y Contraloría",
+        "capturado": "2026-09-11T20:01:31-05:00"
+      },
+      {
+        "titulo": "Magistrado suspende aspersión aérea con glufosinato de amonio en Putumayo",
+        "url": "https://www.portafolio.co/economia/gobierno/juez-frena-aspersion-aerea-con-glufosinato-de-amonio-en-putumayo-502343",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Juez frena aspersión aérea con glufosinato de amonio en Putumayo",
+        "capturado": "2026-09-11T20:01:31-05:00"
+      },
+      {
+        "titulo": "Gobierno objeta gravamen al patrimonio y propone cambio en la bolsa de valores",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cuestiona-el-impuesto-al-patrimonio-y-plantea-giro-en-el-mercado-de-capitales-502340",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-11",
+        "titulo_fuente": "Gobierno cuestiona el impuesto al patrimonio y plantea giro en el mercado de capitales",
+        "capturado": "2026-09-11T20:01:31-05:00"
+      },
       {
         "titulo": "Angie Rodríguez se pronuncia sobre el caso de Juliana Guerrero",
         "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-habla-del-escandalo-de-juliana-guerrero-502338",
@@ -562,46 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-09-10",
         "titulo_fuente": "'Mil disculpas': ministro Beltrán vuelve a defender viaje a Santa Marta en moción de censura en el Congreso",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Especialistas señalan que la salud requiere mayor gobernanza y menor improvisación por falta de escucha",
-        "url": "https://www.portafolio.co/economia/gobierno/expertos-advierten-que-la-salud-necesita-menos-improvisacion-y-mas-gobernanza-el-problema-es-que-no-se-escucha-502218",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Expertos advierten que la salud necesita menos improvisación y más gobernanza: “El problema es que no se escucha”",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Alcance real del decreto de De la Espriella sobre la tenencia de armas en territorio nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/porte-de-armas-en-colombia-que-permite-realmente-el-decreto-de-de-la-espriella-502210",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Porte de armas en Colombia: ¿qué permite realmente el decreto de De la Espriella?",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "A pesar de existir un plan de salud pública, el 37 por ciento de indicadores es crítico y urge aplicarlo",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-tiene-un-plan-de-salud-publica-pero-37-de-sus-indicadores-esta-en-estado-critico-el-reto-es-ejecutarlo-502208",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Colombia tiene un plan de salud pública, pero 37% de sus indicadores está en estado crítico: el reto es ejecutarlo",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Damnificados que lo perdieron todo tras cumplirse un mes del sismo",
-        "url": "https://www.portafolio.co/economia/regiones/un-mes-despues-del-terremoto-familias-que-lo-perdieron-todo-502207",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Un mes después del terremoto: familias que lo perdieron todo",
         "capturado": "2026-09-10T12:04:29-05:00"
       }
     ],
