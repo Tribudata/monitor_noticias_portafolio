@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-12T14:33:20-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-12T16:56:38-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Reforma pensional: ¿alivio fiscal genuino o trampa a futuro?",
+        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-un-alivio-fiscal-real-o-una-trampa-a-largo-plazo-502380",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Reforma pensional: ¿un alivio fiscal real o una trampa a largo plazo?",
+        "capturado": "2026-09-12T16:56:38-05:00"
+      },
       {
         "titulo": "Abelardo De La Espriella señala que la Dian decomisó mercancía ilegal por $30.000 millones en un mes",
         "url": "https://www.portafolio.co/economia/gobierno/dian-ha-incautado-30-000-millones-en-contrabando-en-menos-de-un-mes-segun-abelardo-de-la-espriella-502374",
@@ -593,19 +603,49 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Primera Dama publica balance de su campaña tras un mes del terremoto: más de 5.000 toneladas de ayuda",
         "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Ministerio de Relaciones Exteriores pide aval para personalizar libretas de pasaporte actuales",
-        "url": "https://www.portafolio.co/economia/gobierno/cancilleria-solicita-autorizar-la-personalizacion-del-stock-existente-en-el-pasaportes-de-colombia-502243",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Cancillería solicita autorizar la personalización del stock existente en el pasaportes de Colombia",
-        "capturado": "2026-09-10T17:20:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Copilot de Word, Excel y PowerPoint integra la IA Grok creada por Elon Musk",
+        "url": "https://www.portafolio.co/negocios/empresas/microsoft-incorpora-la-ia-grok-de-elon-musk-a-copilot-para-word-excel-y-powerpoint-502377",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Microsoft incorpora la IA Grok de Elon Musk a Copilot para Word, Excel y PowerPoint",
+        "capturado": "2026-09-12T16:56:38-05:00"
+      },
+      {
+        "titulo": "De esta forma Tiendas D1 transforma sus cajas en cajeros de retiro en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-es-como-tiendas-d1-esta-convirtiendo-sus-cajas-en-puntos-para-retirar-efectivo-en-colombia-502378",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Así es como Tiendas D1 está convirtiendo sus cajas en puntos para retirar efectivo en Colombia",
+        "capturado": "2026-09-12T16:56:38-05:00"
+      },
+      {
+        "titulo": "Ocho firmas de Bogotá participan en las pasarelas de la Semana de la Moda de Nueva York 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/ocho-marcas-bogotanas-desfilan-en-la-semana-de-la-moda-de-nueva-york-502376",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Ocho marcas bogotanas desfilan en la Semana de la Moda de Nueva York 2026",
+        "capturado": "2026-09-12T16:56:38-05:00"
+      },
+      {
+        "titulo": "Pactan acuerdo con EE UU sobre minerales clave para fomentar inversiones con reformas",
+        "url": "https://www.portafolio.co/negocios/empresas/minerales-estrategicos-acuerdo-con-ee-uu-debe-impulsar-reformas-para-atraer-inversion-502373",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-12",
+        "titulo_fuente": "Minerales estratégicos: acuerdo con EE. UU. debe impulsar reformas para atraer inversión",
+        "capturado": "2026-09-12T16:56:38-05:00"
+      },
       {
         "titulo": "Colombia ubica tres clínicas en el top ocho latinoamericano del escalafón IntelLat 2026",
         "url": "https://www.portafolio.co/negocios/empresas/colombia-mete-tres-hospitales-entre-los-ocho-mejores-de-america-latina-en-ranking-intellat-502375",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Tenedores de bonos avalan fusión de Ecopetrol con Parque Solar Portón del Sol",
         "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Nike sale del top 100 de las compañías más grandes de Estados Unidos",
-        "url": "https://www.portafolio.co/negocios/empresas/nike-deja-de-estar-entre-las-grandes-asi-perdio-su-lugar-entre-las-100-empresas-mas-grandes-de-ee-uu-502005",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Nike deja de estar entre las grandes: así perdió su lugar entre las 100 empresas más grandes de EE. UU",
-        "capturado": "2026-09-07T18:59:55-05:00"
-      },
-      {
-        "titulo": "Negativa judicial a reabrir proceso a Ricardo Roa por aeronaves de Ecopetrol y presunto nexo con Helistar",
-        "url": "https://www.portafolio.co/negocios/empresas/juez-nego-reabrir-caso-contra-ricardo-roa-por-helicopteros-de-ecopetrol-y-presunto-favorecimiento-a-helistar-501996",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Juez negó reabrir caso contra Ricardo Roa por helicópteros de Ecopetrol y presunto favorecimiento a Helistar",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Conductores de Tesla en Colombia abonarán por nuevos servicios de la app: conozca los detalles",
-        "url": "https://www.portafolio.co/negocios/empresas/usuarios-de-tesla-en-colombia-deberan-pagar-por-nuevas-funciones-que-la-aplicacion-cobra-de-que-se-trata-501991",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Usuarios de Tesla en Colombia deberán pagar por nuevas funciones que la aplicación cobra: ¿de qué se trata?",
-        "capturado": "2026-09-07T16:42:18-05:00"
-      },
-      {
-        "titulo": "Nubank y Nutresa otorgarán cien becas a muchachos del Chocó",
-        "url": "https://www.portafolio.co/negocios/empresas/nutresa-y-nubank-entregaran-100-becas-a-jovenes-del-choco-501987",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Nutresa y Nubank entregarán 100 becas a jóvenes del Chocó",
-        "capturado": "2026-09-07T16:42:18-05:00"
       }
     ]
   }
