@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-13T14:38:46-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-13T17:07:54-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Westfield Business School abre convocatoria para postularse a becas del 50 por ciento en MBA local",
+        "url": "https://www.portafolio.co/economia/asi-puede-acceder-a-una-beca-del-50-para-un-mba-en-colombia-westfield-business-school-anuncia-nueva-convocatoria-502406",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Así puede acceder a una beca del 50% para un MBA en Colombia: Westfield Business School anuncia nueva convocatoria",
+        "capturado": "2026-09-13T17:07:54-05:00"
+      },
       {
         "titulo": "Gobierno analiza los términos del costoso acuerdo por 3.100 millones de euros para adquirir aviones Gripen",
         "url": "https://www.portafolio.co/economia/gobierno/aviones-gripen-por-3-100-millones-de-euros-gobierno-revisa-condiciones-del-millonario-contrato-502399",
@@ -593,19 +603,49 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Galán se reúne con ministro de Hacienda para hablar sobre proyectos pendientes de Bogotá",
         "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Ya hay apetito por Colombia en los mercados financieros; pero falta que eso se traduzca en plata",
-        "url": "https://www.portafolio.co/economia/finanzas/ya-hay-apetito-por-colombia-en-los-mercados-financieros-pero-falta-que-eso-se-traduzca-en-plata-502259",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "‘Ya hay apetito por Colombia en los mercados financieros; pero falta que eso se traduzca en plata’",
-        "capturado": "2026-09-10T19:21:54-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Galardón internacional para centro comercial bogotano por estrategia contra el cáncer",
+        "url": "https://www.portafolio.co/negocios/comercio/este-centro-comercial-de-bogota-recibio-premio-internacional-por-campana-de-prevencion-del-cancer-502407",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Este centro comercial de Bogotá recibió premio internacional por campaña de prevención del cáncer",
+        "capturado": "2026-09-13T17:07:54-05:00"
+      },
+      {
+        "titulo": "Ciento ochenta caficultores y cacaoteros caucanos gestionan ya sus propias empresas",
+        "url": "https://www.portafolio.co/negocios/empresas/180-productores-de-cafe-y-cacao-en-el-cauca-ya-administran-sus-propios-negocios-502405",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "180 productores de café y cacao en el Cauca ya administran sus propios negocios",
+        "capturado": "2026-09-13T17:07:54-05:00"
+      },
+      {
+        "titulo": "Veinte compañías colombianas van a Miami en busca de opciones comerciales en EE. UU.",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-de-20-empresas-colombianas-viaja-a-miami-para-explorar-oportunidades-de-negocio-en-estados-unidos-502404",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Grupo de 20 empresas colombianas viaja a Miami para explorar oportunidades de negocio en Estados Unidos",
+        "capturado": "2026-09-13T17:07:54-05:00"
+      },
+      {
+        "titulo": "Avianca consigue préstamo récord de US$300 millones para reparar motores en Brasil",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-logra-financiacion-historica-de-us-300-millones-para-mantenimiento-de-motores-en-brasil-502402",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Avianca logra financiación histórica de US$300 millones para mantenimiento de motores en Brasil",
+        "capturado": "2026-09-13T17:07:54-05:00"
+      },
       {
         "titulo": "El mercado laboral colombiano sube su ritmo a finales de 2026: 48% de compañías aumentará su personal",
         "url": "https://www.portafolio.co/negocios/empresas/empleo-en-colombia-acelera-al-cierre-de-2026-48-de-empresas-preve-ampliar-su-planta-laboral-502401",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Mario Hernández recibió Honoris Causa por su aporte al diseño y la marroquinería colombiana",
         "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Bancamía implementa esquema para ampliar créditos a mujeres y disminuir la brecha de género",
-        "url": "https://www.portafolio.co/negocios/empresas/bancamia-lanza-modelo-para-que-las-mujeres-accedan-a-creditos-mas-altos-y-reduzcan-la-brecha-frente-a-los-hombres-502064",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Bancamía lanza modelo para que las mujeres accedan a créditos más altos y reduzcan la brecha frente a los hombres",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Ventas de vehículos eléctricos subieron 176% en agosto y Tesla encabezó el mercado nacional",
-        "url": "https://www.portafolio.co/negocios/vehiculo/matriculas-de-carros-electricos-crecieron-176-en-agosto-tesla-lidero-el-mercado-colombiano-502063",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Matrículas de carros eléctricos crecieron 176% en agosto: Tesla lideró el mercado colombiano",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Los datos por los cuales Colombia es considerada un mercado clave para la empresa Electrolux",
-        "url": "https://www.portafolio.co/negocios/industrias/las-cifras-que-hacen-que-colombia-sea-vista-como-un-mercado-estrategico-para-la-multinacional-electrolux-502054",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Las cifras que hacen que Colombia sea vista como un mercado estratégico para la multinacional Electrolux",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Familias colombianas disponen de mayor capacidad de gasto pero conservan prudencia al adquirir",
-        "url": "https://www.portafolio.co/negocios/comercio/hogares-colombianos-tienen-mas-margen-para-consumir-pero-mantienen-cautela-en-sus-compras-502050",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Hogares colombianos tienen más margen para consumir, pero mantienen cautela en sus compras",
-        "capturado": "2026-09-08T12:24:34-05:00"
       }
     ]
   }
