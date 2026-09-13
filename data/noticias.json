@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-13T12:01:28-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-13T14:38:46-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno analiza los términos del costoso acuerdo por 3.100 millones de euros para adquirir aviones Gripen",
+        "url": "https://www.portafolio.co/economia/gobierno/aviones-gripen-por-3-100-millones-de-euros-gobierno-revisa-condiciones-del-millonario-contrato-502399",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Aviones Gripen por 3.100 millones de euros: Gobierno revisa condiciones del millonario contrato",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Autopista del Mar 2 registra un 99,5% de obra con sesenta y dos puentes y trece túneles en el Urabá",
+        "url": "https://www.portafolio.co/economia/infraestructura/trece-tuneles-y-62-puentes-en-la-selva-del-uraba-asi-avanza-la-autopista-del-mar-2-con-el-99-5-de-avance-fisico-502307",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Trece túneles y 62 puentes en la selva del Urabá: así avanza la Autopista del Mar 2 con el 99,5% de avance físico",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Aerocivil busca aeronave con cinco ocupantes tras perder contacto en trayecto entre Condoto y Guaymaral",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-aerocivil-busca-aeronave-con-cinco-personas-a-bordo-tras-perder-comunicacion-en-ruta-condoto-guaymaral-502398",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Atención: Aerocivil busca aeronave con cinco personas a bordo tras perder comunicación en ruta Condoto-Guaymaral",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Vacantes y pasantías disponibles en Banco Agrario, Banco de la República y Ecopetrol",
+        "url": "https://www.portafolio.co/economia/empleo/estos-son-los-trabajos-y-practicas-que-hay-en-ecopetrol-banco-agrario-y-banco-de-la-republica-502395",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Estos son los trabajos y prácticas que hay en Ecopetrol, Banco Agrario y Banco de la República",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Banco de la República advierte que los jóvenes que ni estudian ni trabajan limitan el PIB potencial",
+        "url": "https://www.portafolio.co/economia/los-nini-frenan-la-productividad-a-largo-plazo-y-el-pib-potencial-del-pais-advierte-el-banco-de-la-republica-502316",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Los 'nini' frenan la productividad a largo plazo y el PIB potencial del país, advierte el Banco de la República",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Análisis sobre la crisis financiera que comienza a gestarse",
+        "url": "https://www.portafolio.co/economia/crecimiento/analisis-la-tormenta-financiera-que-ya-esta-tomando-forma-502390",
+        "resumen": "",
+        "autor": "Ricardo avila",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Análisis: La tormenta financiera que ya está tomando forma",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
       {
         "titulo": "Sena detalla cómo colombianos validarán gratis competencias para hallar trabajo en Chile",
         "url": "https://www.portafolio.co/economia/gobierno/colombianos-podran-certificar-gratis-sus-habilidades-para-buscar-empleo-en-chile-asi-sera-el-proceso-con-el-sena-502392",
@@ -543,69 +603,39 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "‘Ya hay apetito por Colombia en los mercados financieros; pero falta que eso se traduzca en plata’",
         "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Chocó estrena la primera casa levantada de nuevo luego del movimiento telúrico del 10 de agosto",
-        "url": "https://www.portafolio.co/economia/regiones/choco-recibe-su-primera-vivienda-reconstruida-tras-el-terremoto-del-10-de-agosto-502258",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Chocó recibe su primera vivienda reconstruida tras el terremoto del 10 de agosto",
-        "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "El Túnel del Toyo empezará a funcionar en octubre de 2027 tras destrabar aparatos esenciales",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-tunel-del-toyo-entrara-en-operacion-en-octubre-de-2027-tras-destrabe-de-equipos-clave-para-el-proyecto-502256",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "El Túnel del Toyo entrará en operación en octubre de 2027, tras destrabe de equipos clave para el proyecto",
-        "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Requisitos, tipos de formación y postulación para capacitaciones de Office en el Sena 2026",
-        "url": "https://www.portafolio.co/economia/regiones/cursos-de-office-en-el-sena-2026-requisitos-modalidades-y-como-aplicar-502255",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Cursos de Office en el Sena 2026: requisitos, modalidades y cómo aplicar",
-        "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Un mes tras el sismo, así progresan las obras de derribo y edificación en Cali",
-        "url": "https://www.portafolio.co/economia/regiones/un-mes-despues-del-terremoto-asi-avanza-la-demolicion-y-reconstruccion-de-edificios-en-cali-502253",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Un mes después del terremoto, así avanza la demolición y reconstrucción de edificios en Cali",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "El cupo para iniciativas APP descendería al mínimo en 2030, con solo 0,04% del PIB",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-espacio-para-nuevos-proyectos-app-tocaria-su-punto-mas-bajo-en-2030-con-apenas-0-04-del-pib-disponible-502233",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "El espacio para nuevos proyectos APP tocaría su punto más bajo en 2030, con apenas 0,04% del PIB disponible",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Cuánto aportaron las empresas para levantar la zona afectada por el movimiento telúrico",
-        "url": "https://www.portafolio.co/economia/cuanto-ha-donado-el-sector-empresarial-para-la-reconstruccion-tras-el-terremoto-502252",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿Cuánto ha donado el sector empresarial para la reconstrucción tras el terremoto?",
-        "capturado": "2026-09-10T17:20:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El mercado laboral colombiano sube su ritmo a finales de 2026: 48% de compañías aumentará su personal",
+        "url": "https://www.portafolio.co/negocios/empresas/empleo-en-colombia-acelera-al-cierre-de-2026-48-de-empresas-preve-ampliar-su-planta-laboral-502401",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Empleo en Colombia acelera al cierre de 2026: 48% de empresas prevé ampliar su planta laboral",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "La ultracongelación de donas, la transformación de producción y logística que alista Dunkin' Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/ultracongelar-sus-donas-el-revolcon-productivo-y-logistico-que-afina-dunkin-colombia-502382",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Ultracongelar sus donas, el 'revolcón' productivo y logístico que afina Dunkin' Colombia",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
+      {
+        "titulo": "Terrenta, plataforma de financiamiento colectivo, planea fondear $10.000 millones en obras de finca raíz",
+        "url": "https://www.portafolio.co/negocios/terrenta-fintech-de-crowdfunding-proyecta-financiar-10-000-millones-en-proyectos-inmobiliarios-502314",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Terrenta, fintech de crowdfunding, proyecta financiar $10.000 millones en proyectos inmobiliarios",
+        "capturado": "2026-09-13T14:38:46-05:00"
+      },
       {
         "titulo": "Especialistas sugieren diversificar comercio más allá de EE. UU. y Europa ante déficit con Asia",
         "url": "https://www.portafolio.co/negocios/comercio/colombia-tiene-una-deuda-comercial-con-asia-expertos-piden-dejar-de-mirar-solo-a-ee-uu-y-europa-502326",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Hogares colombianos tienen más margen para consumir, pero mantienen cautela en sus compras",
         "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Tatyana Orozco asume la presidencia de la Cámara Colombiana de la Infraestructura",
-        "url": "https://www.portafolio.co/negocios/empresas/tatyana-orozco-es-la-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura-502046",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura",
-        "capturado": "2026-09-08T12:24:34-05:00"
-      },
-      {
-        "titulo": "Visitas sorpresa de Mintrabajo: 8 de cada 10 pymes en el país no se preparan y lo desconocen",
-        "url": "https://www.portafolio.co/negocios/empresas/inspecciones-del-mintrabajo-sin-previo-aviso-8-de-cada-10-pymes-colombianas-no-estan-listas-y-no-lo-saben-502032",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Inspecciones del Mintrabajo sin previo aviso: 8 de cada 10 pymes colombianas no están listas y no lo saben",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Bon Bon Bum salta al sector cosmético mediante alianza con Cyzone",
-        "url": "https://www.portafolio.co/negocios/empresas/de-la-chupeta-al-maquillaje-bon-bon-bum-entra-al-maquillaje-de-la-mano-de-cyzone-502029",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "De la chupeta al maquillaje: Bon Bon Bum entra al maquillaje de la mano de Cyzone",
-        "capturado": "2026-09-08T08:29:28-05:00"
       }
     ]
   }
