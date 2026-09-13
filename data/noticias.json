@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-13T08:25:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-13T12:01:28-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sena detalla cómo colombianos validarán gratis competencias para hallar trabajo en Chile",
+        "url": "https://www.portafolio.co/economia/gobierno/colombianos-podran-certificar-gratis-sus-habilidades-para-buscar-empleo-en-chile-asi-sera-el-proceso-con-el-sena-502392",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Colombianos podrán certificar gratis sus habilidades para buscar empleo en Chile: así será el proceso con el Sena",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "Resolución en pausa: la situación de los contenedores vacíos y la ruta a Buenaventura",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-resolucion-en-veremos-que-esta-pasando-con-los-contenedores-vacios-y-la-via-al-puerto-de-buenaventura-502335",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "La resolución en 'veremos': qué está pasando con los contenedores vacíos y la vía al puerto de Buenaventura",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "Inicia retiro del puente de la 100 con Séptima: cierres y desvíos por un año",
+        "url": "https://www.portafolio.co/economia/regiones/arranca-desmonte-del-puente-de-la-calle-100-con-septima-estos-son-los-cierres-y-desvios-clave-durante-12-meses-502388",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Arranca desmonte del puente de la calle 100 con Séptima: estos son los cierres y desvíos clave durante 12 meses",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "PGN 2027 a punto de concluir: Congreso fijará cifra antes del 15 de septiembre y piden ajuste",
+        "url": "https://www.portafolio.co/economia/pgn-2027-entra-en-su-recta-final-congreso-debera-definir-monto-antes-del-15-de-septiembre-solicitan-ajuste-fiscal-502330",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "PGN 2027 entra en su recta final: Congreso deberá definir monto antes del 15 de septiembre, solicitan ajuste fiscal",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "De La Espriella asigna cinco misiones a Restrepo: inversión, empleo, energía e IA",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-le-fija-cinco-grandes-tareas-a-restrepo-inversion-empleo-energia-e-inteligencia-artificial-502387",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "De La Espriella le fija cinco grandes tareas a Restrepo: inversión, empleo, energía e inteligencia artificial",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "El 60 % de los ciberataques en Colombia impacta a clínicas y hospitales",
+        "url": "https://www.portafolio.co/economia/gobierno/seis-de-cada-10-ciberataques-en-colombia-tienen-como-blanco-a-hospitales-y-clinicas-del-pais-502384",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Seis de cada 10 ciberataques en Colombia tienen como blanco a hospitales y clínicas del país",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
+      {
+        "titulo": "Colombia alista un nuevo Censo Agropecuario para actualizar las cifras del campo tras 12 años",
+        "url": "https://www.portafolio.co/economia/agro/colombia-prepara-nuevo-censo-agropecuario-para-actualizar-las-cifras-del-campo-despues-de-12-anos-502383",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Colombia prepara nuevo Censo Agropecuario para actualizar las cifras del campo después de 12 años",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
       {
         "titulo": "Reforma pensional: ¿alivio fiscal genuino o trampa a futuro?",
         "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-un-alivio-fiscal-real-o-una-trampa-a-largo-plazo-502380",
@@ -533,79 +603,19 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "¿Cuánto ha donado el sector empresarial para la reconstrucción tras el terremoto?",
         "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Juliana Guerrero enfrentaría otro proceso legal tras su fallo, veto y sanción",
-        "url": "https://www.portafolio.co/economia/gobierno/caso-juliana-guerrero-podria-sumar-nueva-investigacion-tras-condena-inhabilidad-y-multa-502251",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Caso Juliana Guerrero podría sumar nueva investigación tras condena, inhabilidad y multa",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella sacó a exfuncionarios de Petro y pasados gobiernos de cámaras de comercio",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-retiro-a-todos-los-representantes-que-dejaron-petro-y-otros-gobiernos-en-camaras-de-comercio-502247",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "De La Espriella retiró a todos los representantes que dejaron Petro y otros gobiernos en cámaras de comercio",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Por qué las empresas emergentes de Colombia paran su expansión, según analistas",
-        "url": "https://www.portafolio.co/economia/finanzas/por-que-las-startups-colombianas-se-frenan-al-crecer-esto-dicen-los-expertos-502250",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿Por qué las startups colombianas se frenan al crecer? Esto dicen los expertos",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Sanción económica y prohibición a Juliana Guerrero por incurrir en fraude procesal",
-        "url": "https://www.portafolio.co/economia/gobierno/cuanto-debera-pagar-juliana-guerrero-tras-ser-condenada-e-inhabilitada-por-fraude-procesal-502249",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿Cuánto deberá pagar Juliana Guerrero tras ser condenada e inhabilitada por fraude procesal?",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Fondo de Desarrollo Nacional prestará hasta $610.000 millones, el 50% para Accesos Norte Fase II",
-        "url": "https://www.portafolio.co/economia/infraestructura/fondo-de-desarrollo-nacional-aportara-hasta-610-000-millones-de-deuda-para-accesos-norte-fase-ii-equivale-al-502244",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Fondo de Desarrollo Nacional aportará hasta $610.000 millones de deuda para Accesos Norte Fase II, equivale al 50%",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Decretos de emergencia permiten pasivos y traslados, pero el Presupuesto asumiría gran parte",
-        "url": "https://www.portafolio.co/economia/decretos-de-emergencia-habilitan-deuda-y-reasignaciones-pero-gran-parte-del-costo-aun-seria-del-presupuesto-502246",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Decretos de emergencia habilitan deuda y reasignaciones, pero gran parte del costo aún sería del Presupuesto",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "A un mes del sismo, Primera Dama reporta más de 5.000 toneladas de asistencia entregadas",
-        "url": "https://www.portafolio.co/economia/regiones/primera-dama-ana-lucia-pineda-publica-balance-de-su-campana-tras-un-mes-del-terremoto-mas-de-5-000-toneladas-502239",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Primera Dama publica balance de su campaña tras un mes del terremoto: más de 5.000 toneladas de ayuda",
-        "capturado": "2026-09-10T17:20:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Especialistas sugieren diversificar comercio más allá de EE. UU. y Europa ante déficit con Asia",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-tiene-una-deuda-comercial-con-asia-expertos-piden-dejar-de-mirar-solo-a-ee-uu-y-europa-502326",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Colombia tiene una deuda comercial con Asia: expertos piden dejar de mirar solo a EE. UU. y Europa",
+        "capturado": "2026-09-13T12:01:28-05:00"
+      },
       {
         "titulo": "Textos de fuera bajan hasta 30%: este es el efecto del peso fuerte en las editoriales",
         "url": "https://www.portafolio.co/negocios/comercio/libros-importados-cuestan-hasta-30-menos-asi-impacta-la-revaluacion-del-peso-al-sector-editorial-502381",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-08",
         "titulo_fuente": "De la chupeta al maquillaje: Bon Bon Bum entra al maquillaje de la mano de Cyzone",
-        "capturado": "2026-09-08T08:29:28-05:00"
-      },
-      {
-        "titulo": "Gran costo para aseguradoras: suman 68.270 solicitudes y el monto asegurado se multiplicó por diez",
-        "url": "https://www.portafolio.co/negocios/empresas/millonaria-factura-para-aseguradoras-van-68-270-reclamaciones-y-el-valor-asegurado-se-multiplico-por-diez-502027",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Millonaria factura para aseguradoras: van 68.270 reclamaciones y el valor asegurado se multiplicó por diez",
         "capturado": "2026-09-08T08:29:28-05:00"
       }
     ]
