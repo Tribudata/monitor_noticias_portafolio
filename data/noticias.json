@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-13T19:20:23-05:00",
+  "actualizado": "2026-09-14T00:17:15-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De la Espriella acota autonomía universitaria ante violencia y advierte que irá por los responsables",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pone-limites-a-la-autonomia-universitaria-por-hechos-de-violencia-voy-por-ustedes-502416",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "De la Espriella pone límites a la autonomía universitaria por hechos de violencia: ‘Voy por ustedes’",
+        "capturado": "2026-09-14T00:17:15-05:00"
+      },
+      {
+        "titulo": "El 44% del Presupuesto de Petro proviene de endeudamiento para cubrir gastos, señala De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-la-verdad-2027-asi-queda-la-deuda-que-colombia-debe-pagar-tras-el-gobierno-petro-502415",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "‘Estamos pagando deuda del derroche’: 44% del Presupuesto viene de deuda del Gobierno Petro, según De La Espriella",
+        "capturado": "2026-09-14T00:17:15-05:00"
+      },
+      {
+        "titulo": "Mandatario Abelardo De La Espriella se dirige a la nación",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-le-habla-al-pais-502414",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Presidente Abelardo De La Espriella le habla al país",
+        "capturado": "2026-09-14T00:17:15-05:00"
+      },
       {
         "titulo": "Aeronave perdida en Chocó sufrió un choque fatal y transportaba a cinco ocupantes",
         "url": "https://www.portafolio.co/economia/regiones/confirman-que-avioneta-desaparecida-en-choco-si-se-estrello-iban-cinco-personas-a-bordo-502412",
@@ -573,36 +603,6 @@
         "publicacion": "2026-09-11",
         "titulo_fuente": "El dólar en Colombia volvió a bajar: la divisa rompió a la baja el piso de los $3.100",
         "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Luego de sincerar balances, el Carf avisa que el déficit fiscal rozará el 10% del PIB con espacio acotado",
-        "url": "https://www.portafolio.co/economia/gobierno/tras-sincerada-de-cuentas-el-carf-advierte-que-deficit-fiscal-bordeara-el-10-del-pib-y-deja-un-margen-reducido-502274",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Tras 'sincerada' de cuentas, el Carf advierte que déficit fiscal bordeará el 10% del PIB y deja un margen reducido",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Títulos alcanzan máximo histórico con un incremento en la liquidez",
-        "url": "https://www.portafolio.co/economia/finanzas/las-acciones-marcan-record-y-un-mayor-flujo-de-la-liquidez-502271",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Las acciones marcan récord y un mayor flujo de la liquidez",
-        "capturado": "2026-09-10T23:59:31-05:00"
-      },
-      {
-        "titulo": "Unicef advierte sobre más de 4.268 colegios dañados tras el sismo en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/tras-el-terremoto-en-colombia-unicef-alerta-por-mas-de-4-268-escuelas-afectadas-502267",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Tras el terremoto en Colombia, Unicef alerta por más de 4.268 escuelas afectadas",
-        "capturado": "2026-09-10T19:21:54-05:00"
       }
     ],
     "Negocios": [
