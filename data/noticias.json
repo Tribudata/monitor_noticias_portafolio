@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-14T11:47:11-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-09-14T15:44:56-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Siete jueces y una elección: método y nombres de quienes escogerán los Premios Portafolio 2026",
+        "url": "https://www.portafolio.co/economia/siete-nombres-una-votacion-quienes-eligen-a-los-ganadores-de-los-premios-portafolio-2026-y-como-es-la-seleccion-502486",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Siete nombres, una votación: ¿Quiénes eligen a los ganadores de los Premios Portafolio 2026 y cómo es la selección?",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "ANI informa que iniciativas 4G alcanzan 93,32% de avance y cuatro obras superan 90% ejecutado",
+        "url": "https://www.portafolio.co/economia/infraestructura/proyectos-4g-llegan-al-93-32-de-avance-y-cuatro-obras-ya-superan-el-90-de-ejecucion-nacional-dice-la-ani-502483",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Proyectos 4G llegan al 93,32% de avance y cuatro obras ya superan el 90% de ejecución nacional, dice la ANI",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Colombia ingresa al grupo de diez mayores productores mundiales de cacao para potenciar ventas y valor",
+        "url": "https://www.portafolio.co/economia/agro/colombia-entra-al-top-10-mundial-del-cacao-y-busca-convertir-su-calidad-en-mas-exportaciones-y-valor-agregado-502481",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Colombia entra al top 10 mundial del cacao y busca convertir su calidad en más exportaciones y valor agregado",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Ubican la zona del impacto de la aeronave extraviada con cinco ocupantes",
+        "url": "https://www.portafolio.co/economia/regiones/hallan-indicios-de-la-avioneta-desaparecida-desde-el-fin-de-semana-esto-es-lo-que-se-sabe-502473",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Hallan punto de impacto de avioneta desaparecida y en la que iban cinco personas a bordo: esta es la ubicación",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Corte Suprema inicia investigación a Iván Cepeda por dineros de consulta del Pacto Histórico",
+        "url": "https://www.portafolio.co/economia/gobierno/corte-suprema-abrio-indagacion-contra-ivan-cepeda-por-financiacion-de-consulta-del-pacto-historico-502470",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Corte Suprema abrió indagación contra Iván Cepeda por financiación de consulta del Pacto Histórico",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Fiscalía formula cargos a Laura Sarabia por peculado, constreñimiento y abuso de función pública",
+        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-imputa-cargos-a-laura-sarabia-por-abuso-de-funcion-publica-constrenimiento-y-peculado-502466",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Fiscalía imputa cargos a Laura Sarabia por abuso de función pública, constreñimiento y peculado",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Bogotá tiene 1.864 puestos de trabajo disponibles esta semana, con 150 cupos para primer empleo",
+        "url": "https://www.portafolio.co/economia/bogota-ofrece-1-864-vacantes-esta-semana-incluidas-150-opciones-para-quienes-buscan-su-primer-empleo-502462",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Bogotá ofrece 1.864 vacantes esta semana, incluidas 150 opciones para quienes buscan su primer empleo",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Iván Cancino reitera postura estatal sobre universidades al señalar que ningún espacio elude la norma",
+        "url": "https://www.portafolio.co/economia/gobierno/ningun-espacio-esta-por-fuera-de-la-ley-ivan-cancino-reafirma-postura-del-gobierno-sobre-universidades-502455",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "‘Ningún espacio está por fuera de la ley’: Iván Cancino reafirma postura del Gobierno sobre universidades",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Gobierno reactiva órdenes de captura contra grupos armados tras terminación de los diálogos de paz",
+        "url": "https://www.portafolio.co/economia/gobierno/fin-a-los-dialogos-de-paz-gobierno-reactiva-ordenes-de-captura-contra-estructuras-armadas-502459",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Fin a los diálogos de paz: Gobierno reactiva órdenes de captura contra estructuras armadas",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
+      {
+        "titulo": "Sector agropecuario se ajusta: Gobierno anuncia 10.000 contratos menos y mayor eficiencia rural",
+        "url": "https://www.portafolio.co/economia/agro/el-agro-entra-en-modo-ajuste-gobierno-anuncia-recorte-de-10-000-contratos-y-mas-eficiencia-en-el-sector-rural-502457",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "El agro entra en modo ajuste: Gobierno anuncia recorte de 10.000 contratos y más eficiencia en el sector rural",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
       {
         "titulo": "Esto estipula la ley sobre la devolución de la dotación al terminar el contrato laboral",
         "url": "https://www.portafolio.co/economia/empleo/debe-devolver-la-dotacion-laboral-cuando-deja-de-trabajar-con-una-empresa-esto-dice-la-norma-502451",
@@ -503,109 +603,19 @@
         "publicacion": "2026-09-11",
         "titulo_fuente": "Juez frena aspersión aérea con glufosinato de amonio en Putumayo",
         "capturado": "2026-09-11T20:01:31-05:00"
-      },
-      {
-        "titulo": "Gobierno objeta gravamen al patrimonio y propone cambio en la bolsa de valores",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cuestiona-el-impuesto-al-patrimonio-y-plantea-giro-en-el-mercado-de-capitales-502340",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Gobierno cuestiona el impuesto al patrimonio y plantea giro en el mercado de capitales",
-        "capturado": "2026-09-11T20:01:31-05:00"
-      },
-      {
-        "titulo": "Angie Rodríguez se pronuncia sobre el caso de Juliana Guerrero",
-        "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-habla-del-escandalo-de-juliana-guerrero-502338",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Angie Rodríguez habla del escándalo de Juliana Guerrero",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Fallece a los 77 años Rafael Mejía, antiguo dirigente de la SAC",
-        "url": "https://www.portafolio.co/economia/agro/murio-a-los-77-anos-rafael-mejia-exdirigente-de-la-sac-y-referente-del-sector-agropecuario-colombiano-502337",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "¿Quién fue Rafael Mejía, el expresidente de la SAC que falleció a los 77 años?",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "De La Espriella sugiere bajar el IVA a vuelos hacia regiones del sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-propone-reducir-el-iva-de-los-vuelos-con-destino-a-las-zonas-afectadas-por-el-terremoto-502332",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "De La Espriella propone reducir el IVA de los vuelos con destino a las zonas afectadas por el terremoto",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Requisitos y pasos para que colombianos viajen a Israel sin visado",
-        "url": "https://www.portafolio.co/economia/gobierno/colombianos-podran-viajar-a-israel-sin-visa-estas-son-las-condiciones-y-el-tramite-requerido-502331",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Colombianos podrán viajar a Israel sin visa: estas son las condiciones y el trámite requerido",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Origen, historia y beneficiarios de los galardones Portafolio 2026",
-        "url": "https://www.portafolio.co/economia/premios-portafolio-2026-que-son-desde-cuando-se-entregan-y-a-quienes-reconocen-502329",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Premios Portafolio 2026: qué son, desde cuándo se entregan y a quiénes reconocen",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Propuesta para modificar el etiquetado del café nacional y los blends",
-        "url": "https://www.portafolio.co/economia/agro/cafe-colombiano-o-mezcla-la-propuesta-que-busca-cambiar-como-se-identifican-estos-productos-502328",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "¿Café colombiano o mezcla? La propuesta que busca cambiar cómo se identifican estos productos",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Asi ha cambiado la cotizacion del dolar tras la llegada de Abelardo De La Espriella a la presidencia",
-        "url": "https://www.portafolio.co/economia/finanzas/como-se-ha-movido-el-dolar-desde-abelardo-de-la-espriella-asumio-la-presidencia-estas-son-las-variaciones-502311",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "¿Cómo se ha movido el dólar desde Abelardo De La Espriella asumió la presidencia? Estas son las variaciones",
-        "capturado": "2026-09-11T17:59:05-05:00"
-      },
-      {
-        "titulo": "Fiscalía indaga a Angie Rodríguez por datos cruciales sobre Juliana Guerrero",
-        "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-tendria-informacion-clave-sobre-juliana-guerrero-en-nueva-investigacion-de-la-fiscalia-502322",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Angie Rodríguez tendría información clave sobre Juliana Guerrero en nueva investigación de la Fiscalía",
-        "capturado": "2026-09-11T15:30:23-05:00"
-      },
-      {
-        "titulo": "De La Espriella amonestó a mandatarios locales por no reportar afectaciones del sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-llamo-la-atencion-a-alcaldes-del-pais-por-falta-de-informacion-sobre-los-danos-del-terremoto-502315",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "De La Espriella llamó la atención a alcaldes del país por falta de información sobre los daños del terremoto",
-        "capturado": "2026-09-11T15:30:23-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Comercios impulsan Bre-B: llaves activas aumentan 77% y mueven 3,2 billones de pesos",
+        "url": "https://www.portafolio.co/negocios/comercio/bre-b-se-dispara-en-los-comercios-llaves-activas-crecen-77-y-mueven-3-2-billones-502484",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Bre-B se dispara en los comercios: llaves activas crecen 77% y mueven $3,2 billones",
+        "capturado": "2026-09-14T15:44:56-05:00"
+      },
       {
         "titulo": "Air Europa operará la ruta Barranquilla-Madrid desde la fecha anunciada",
         "url": "https://www.portafolio.co/negocios/empresas/air-europa-sera-la-empresa-encargada-de-conectar-barranquilla-con-madrid-a-partir-de-esta-fecha-seran-los-vuelos-502456",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-09",
         "titulo_fuente": "Coca-Cola cambia diseño de sus latas y botellas en Colombia y lleva sus símbolos icónicos a nueva etapa comercial",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado rechaza tutela de Jorge Andrés Carrillo frente a nulidad en ISA",
-        "url": "https://www.portafolio.co/negocios/empresas/consejo-de-estado-declara-improcedente-tutela-de-jorge-andres-carrillo-contra-la-nulidad-de-su-eleccion-en-isa-502118",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Consejo de Estado declara improcedente tutela de Jorge Andrés Carrillo contra la nulidad de su elección en ISA",
         "capturado": "2026-09-09T10:58:18-05:00"
       }
     ]
