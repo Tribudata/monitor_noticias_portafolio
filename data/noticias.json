@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-13T17:07:54-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-13T19:20:23-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Aeronave perdida en Chocó sufrió un choque fatal y transportaba a cinco ocupantes",
+        "url": "https://www.portafolio.co/economia/regiones/confirman-que-avioneta-desaparecida-en-choco-si-se-estrello-iban-cinco-personas-a-bordo-502412",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Confirman que avioneta desaparecida en Chocó sí se estrelló: iban cinco personas a bordo",
+        "capturado": "2026-09-13T19:20:23-05:00"
+      },
+      {
+        "titulo": "Valle del Cauca fija trece metas y solicita fondos estatales para obras y redificación",
+        "url": "https://www.portafolio.co/economia/regiones/valle-del-cauca-define-agenda-de-13-prioridades-y-pide-recursos-al-gobierno-para-reconstruccion-e-infraestructura-502409",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Valle del Cauca define agenda de 13 prioridades y pide recursos al Gobierno para reconstrucción e infraestructura",
+        "capturado": "2026-09-13T19:20:23-05:00"
+      },
       {
         "titulo": "Westfield Business School abre convocatoria para postularse a becas del 50 por ciento en MBA local",
         "url": "https://www.portafolio.co/economia/asi-puede-acceder-a-una-beca-del-50-para-un-mba-en-colombia-westfield-business-school-anuncia-nueva-convocatoria-502406",
@@ -583,29 +603,19 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Tras el terremoto en Colombia, Unicef alerta por más de 4.268 escuelas afectadas",
         "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Perú, Chile y Colombia añadirían US$100.000 millones al PIB en un quinquenio al retomar su dinamismo",
-        "url": "https://www.portafolio.co/economia/finanzas/chile-colombia-y-peru-podrian-sumar-us-100-000-millones-a-su-pib-en-cinco-anos-si-recuperan-ritmo-de-crecimiento-502266",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Chile, Colombia y Perú podrían sumar US$100.000 millones a su PIB en cinco años si recuperan ritmo de crecimiento",
-        "capturado": "2026-09-10T19:21:54-05:00"
-      },
-      {
-        "titulo": "Alcalde Galán dialoga con el ministro de Hacienda por obras atrasadas de la capital",
-        "url": "https://www.portafolio.co/economia/regiones/galan-se-reune-con-ministro-de-hacienda-para-hablar-sobre-proyectos-pendientes-de-bogota-502260",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Galán se reúne con ministro de Hacienda para hablar sobre proyectos pendientes de Bogotá",
-        "capturado": "2026-09-10T19:21:54-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Makro festeja aniversario ofreciendo rebajas de hasta el 50 por ciento y rifando un año de mercado",
+        "url": "https://www.portafolio.co/negocios/empresas/makro-esta-de-aniversario-promete-descuentos-de-hasta-50-y-el-sorteo-de-un-ano-de-mercado-gratis-502413",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-13",
+        "titulo_fuente": "Makro está de aniversario: promete descuentos de hasta 50% y el sorteo de un año de mercado gratis",
+        "capturado": "2026-09-13T19:20:23-05:00"
+      },
       {
         "titulo": "Galardón internacional para centro comercial bogotano por estrategia contra el cáncer",
         "url": "https://www.portafolio.co/negocios/comercio/este-centro-comercial-de-bogota-recibio-premio-internacional-por-campana-de-prevencion-del-cancer-502407",
@@ -1194,16 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-09-08",
         "titulo_fuente": "Aceleradoras cambian la vara en Latinoamérica: capital, ventas y expansión pesan más al medir resultados reales hoy",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Mario Hernández obtuvo el título Honoris Causa por su contribución al diseño y marroquinería",
-        "url": "https://www.portafolio.co/negocios/empresas/mario-hernandez-recibira-honoris-causa-por-su-aporte-al-diseno-y-la-marroquineria-colombiana-502067",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Mario Hernández recibió Honoris Causa por su aporte al diseño y la marroquinería colombiana",
         "capturado": "2026-09-08T15:05:51-05:00"
       }
     ]
