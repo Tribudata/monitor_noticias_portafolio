@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-14T05:53:00-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-14T11:47:11-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Esto estipula la ley sobre la devolución de la dotación al terminar el contrato laboral",
+        "url": "https://www.portafolio.co/economia/empleo/debe-devolver-la-dotacion-laboral-cuando-deja-de-trabajar-con-una-empresa-esto-dice-la-norma-502451",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "¿Debe devolver la dotación laboral cuando deja de trabajar con una empresa? Esto dice la norma",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Ministro de Justicia Iván Cancino defiende la aspersión aérea de cultivos tras fallo de suspensión",
+        "url": "https://www.portafolio.co/economia/gobierno/ministro-de-justicia-ivan-cancino-lanza-mensaje-en-defensa-de-aspersion-aerea-de-cultivos-tras-suspension-judicial-502446",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Ministro de Justicia Iván Cancino lanza mensaje en defensa de aspersión aérea de cultivos tras suspensión judicial",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "El costo de mantener y reparar un vehículo en Colombia superó el nivel de la inflación",
+        "url": "https://www.portafolio.co/economia/finanzas/tener-carro-en-colombia-ahora-cuesta-mas-mantenimiento-y-reparacion-subieron-mas-que-la-inflacion-502447",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Tener carro en Colombia ahora cuesta más: mantenimiento y reparación subieron más que la inflación",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "La Corte exige indagar fallas tras la devolución de más de 21 mil giros de ayuda humanitaria",
+        "url": "https://www.portafolio.co/economia/mas-de-21-000-giros-de-ayudas-humanitarias-fueron-reintegrados-corte-pide-revisar-posibles-irregularidades-502444",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Más de 21.000 giros de ayudas humanitarias fueron reintegrados: Corte pide revisar posibles irregularidades",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Mauricio Cárdenas sugiere vender ISA para saldar el déficit fiscal generado por Petro",
+        "url": "https://www.portafolio.co/economia/vender-isa-para-bajar-la-deuda-la-propuesta-de-mauricio-cardenas-frente-a-la-crisis-fiscal-502443",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Vender ISA para bajar la deuda: la propuesta de Mauricio Cárdenas frente al hueco fiscal que dejó Petro",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Cotización del euro en Colombia para este catorce de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-en-colombia-asi-cotiza-la-moneda-este-14-de-septiembre-502442",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Precio del euro en Colombia: así cotiza la moneda este 14 de septiembre",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "EPS en aprietos: el costoso déficit que fijaría su permanencia o salida del sistema este año",
+        "url": "https://www.portafolio.co/economia/gobierno/eps-bajo-presion-el-millonario-hueco-que-podria-definir-cuales-sobreviven-y-cuales-salen-del-sistema-este-ano-502318",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "EPS bajo presión: el millonario hueco que podría definir cuáles sobreviven y cuáles salen del sistema este año",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "De La Espriella señaló al Gobierno Petro de ocultar datos económicos y prometió investigar a los autores",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-acuso-al-gobierno-petro-de-esconder-cifras-economicas-y-aseguro-perseguir-a-los-responsables-502428",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "De La Espriella acusó al Gobierno Petro de esconder cifras económicas y aseguró perseguir a los responsables",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Petro solicitará réplica al discurso del presidente De La Espriella: Pagamos casi $100 billones de deuda heredada",
+        "url": "https://www.portafolio.co/economia/gobierno/petro-pedira-replica-a-discurso-del-presidente-de-la-espriella-pagamos-casi-100-billones-de-deuda-heredada-502426",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Petro pedirá réplica a discurso del presidente De La Espriella: 'Pagamos casi $100 billones' de deuda heredada",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar en Colombia: la moneda inició la sesión de este 14 de septiembre con un repunte menor",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-asi-cotiza-la-divisa-este-14-de-septiembre-tras-perder-mas-de-50-en-una-semana-502424",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa abrió la jornada de este 14 de septiembre con leve recuperación",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Barranquilla contará con nuevo vuelo directo a Madrid: el Ejecutivo asignará $1.000 millones para impulsarlo",
+        "url": "https://www.portafolio.co/economia/gobierno/barranquilla-tendra-nueva-ruta-directa-a-madrid-gobierno-destinara-1-000-millones-para-promoverla-502423",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Barranquilla tendrá nueva ruta directa a Madrid: Gobierno destinará $1.000 millones para promoverla",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "La gerencia del puerto de Buenaventura solicita dragar el canal a 16 metros para rivalizar con Posorja, Callao y Panamá",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-gerente-del-puerto-de-buenaventura-pide-dragar-el-canal-a-16-metros-para-competir-con-posorja-callao-y-panama-502420",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "El gerente del puerto de Buenaventura pide dragar el canal a 16 metros para competir con Posorja, Callao y Panamá",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Solo para suscriptores: el 39 % de los camiones arriba tarde a Puerto Industrial Aguadulce, Buenaventura",
+        "url": "https://www.portafolio.co/economia/infraestructura/exclusivo-el-39-de-los-camiones-llega-fuera-de-horario-a-puerto-industrial-aguadulce-en-buenaventura-502417",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Exclusivo: el 39 % de los camiones llega fuera de horario a Puerto Industrial Aguadulce, en Buenaventura",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "El 76,9 % de la carga marítima del país se concentra en Cartagena, Santa Marta y Buenaventura",
+        "url": "https://www.portafolio.co/economia/infraestructura/cartagena-santa-marta-y-buenaventura-concentran-el-76-9-de-toda-la-carga-maritima-nacional-502339",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Cartagena, Santa Marta y Buenaventura concentran el 76,9% de toda la carga marítima nacional",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
       {
         "titulo": "De la Espriella acota autonomía universitaria ante violencia y advierte que irá por los responsables",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pone-limites-a-la-autonomia-universitaria-por-hechos-de-violencia-voy-por-ustedes-502416",
@@ -463,149 +603,69 @@
         "publicacion": "2026-09-11",
         "titulo_fuente": "De La Espriella llamó la atención a alcaldes del país por falta de información sobre los daños del terremoto",
         "capturado": "2026-09-11T15:30:23-05:00"
-      },
-      {
-        "titulo": "Sismo matutino de magnitud 4,5 sacude el departamento del Chocó este viernes 11 de septiembre",
-        "url": "https://www.portafolio.co/economia/regiones/nuevo-temblor-en-choco-de-magnitud-4-5-en-la-manana-de-este-viernes-11-de-septiembre-502310",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Nuevo temblor en Chocó de magnitud 4,5 en la mañana de este viernes 11 de septiembre",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Aspecto tributario del retorno de James y Cuadrado al país según la legislación fiscal vigente",
-        "url": "https://www.portafolio.co/economia/impuestos/como-seria-el-tema-tributario-de-james-y-cuadrado-con-su-regreso-a-colombia-esto-dice-la-ley-fiscal-sobre-el-caso-502309",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "¿Cómo sería el tema tributario de James y Cuadrado con su regreso a Colombia? Esto dice la ley fiscal sobre el caso",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Singapur surge como aliado estratégico para comercio exterior, inversión y negocios desde Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/nuevo-giro-de-colombia-hacia-asia-singapur-aparece-como-socio-clave-para-exportar-invertir-y-hacer-negocios-502298",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Nuevo giro de Colombia hacia Asia: Singapur aparece como socio clave para exportar, invertir y hacer negocios",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Gobierno prohíbe vehículos de fotomultas y exige presencia de agente de tránsito para sancionar",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-gobierno-frena-los-carros-cazafotomultas-comparendos-exigiran-agente-de-transito-presente-502300",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Atención: Gobierno frena los carros cazafotomultas; comparendos exigirán agente de tránsito presente",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Bogotá capacita a sesenta compañías para vender en el exterior mediante puente con compradores",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-prepara-a-60-empresas-para-exportar-con-una-estrategia-que-las-conecta-con-compradores-internacionales-502297",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Bogotá prepara a 60 empresas para exportar con una estrategia que las conecta con compradores internacionales",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "De La Espriella termina negociaciones con bandas tras cobro de siete mil millones por la paz",
-        "url": "https://www.portafolio.co/economia/gobierno/tras-7-000-millones-de-honorarios-de-la-paz-de-petro-de-la-espriella-pone-fin-a-dialogos-con-grupos-armados-502296",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Tras $7.000 millones de honorarios de la paz de Petro, De La Espriella pone fin a diálogos con grupos armados",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "El Festival Cordillera 2026 prevé impacto de $108.942 millones en Bogotá y 40% de foráneos serían turistas",
-        "url": "https://www.portafolio.co/economia/festival-cordillera-2026-proyecta-108-942-millones-de-impacto-en-bogota-y-40-de-asistentes-serian-turistas-502292",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Festival Cordillera 2026 proyecta $108.942 millones de impacto en Bogotá y 40% de asistentes serían turistas",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "A pesar de constantes ataques del Gobierno Petro, Banco de la República se consolidó como institución con más confianza",
-        "url": "https://www.portafolio.co/economia/gobierno/pese-a-constantes-ataques-del-gobierno-petro-banco-de-la-republica-se-consolido-como-institucion-con-mas-confianza-502285",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Pese a constantes ataques del Gobierno Petro, Banco de la República se consolidó como institución con más confianza",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "El nuevo POT de Medellín pondría en riesgo el ingreso de miles de familias que dependen del turismo, alerta Asohost",
-        "url": "https://www.portafolio.co/economia/regiones/el-nuevo-pot-de-medellin-pondria-en-riesgo-el-ingreso-de-miles-de-familias-que-dependen-del-turismo-alerta-asohost-502283",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "El nuevo POT de Medellín pondría en riesgo el ingreso de miles de familias que dependen del turismo, alerta Asohost",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Wingo abrirá la venta de Destino Oculto 3: estas son las fechas y precios para comprar el paquete todo incluido",
-        "url": "https://www.portafolio.co/economia/wingo-abrira-la-venta-de-destino-oculto-3-estas-son-las-fechas-y-precios-para-comprar-el-paquete-todo-incluido-502280",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Wingo abrirá la venta de Destino Oculto 3: estas son las fechas y precios para comprar el paquete todo incluido",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 11 de septiembre en el mercado frente al peso colombiano",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-hoy-11-de-septiembre-en-el-mercado-frente-al-peso-colombiano-502278",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa hoy 11 de septiembre en el mercado frente al peso colombiano",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Semana Milagro: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6 por ciento anual",
-        "url": "https://www.portafolio.co/economia/gobierno/semana-milagro-asi-sera-la-gira-global-con-la-que-el-vicepresidente-buscara-llevar-el-pib-a-crecer-al-6-anual-502279",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "‘Semana Milagro’: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6% anual",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "ANT reporta gasto de 7 billones de pesos en tierras y contratos durante Gobierno Petro, pero entrega solo llegó a 6,6 por ciento",
-        "url": "https://www.portafolio.co/economia/gobierno/ant-reporta-gasto-de-7-billones-en-tierras-y-contratos-durante-gobierno-petro-pero-entrega-solo-llego-a-6-502276",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "ANT reporta gasto de $7 billones en tierras y contratos durante Gobierno Petro, pero entrega solo llegó a 6,6 %",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "La moneda norteamericana cayó otra vez en el país y perforó la barrera inferior de los 3.100 pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/precio-del-dolar-en-colombia-hoy-la-divisa-inicia-la-jornada-cerca-de-los-3-502275",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "El dólar en Colombia volvió a bajar: la divisa rompió a la baja el piso de los $3.100",
-        "capturado": "2026-09-11T09:04:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Air Europa operará la ruta Barranquilla-Madrid desde la fecha anunciada",
+        "url": "https://www.portafolio.co/negocios/empresas/air-europa-sera-la-empresa-encargada-de-conectar-barranquilla-con-madrid-a-partir-de-esta-fecha-seran-los-vuelos-502456",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Air Europa será la empresa encargada de conectar Barranquilla con Madrid: a partir de esta fecha serán los vuelos",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Mintrabajo inspeccionará local de Zara en Bogotá para revisar el ámbito laboral",
+        "url": "https://www.portafolio.co/negocios/empresas/ministerio-del-trabajo-hara-inspeccion-en-tienda-zara-en-bogota-para-verificar-condiciones-laborales-502450",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Ministerio del Trabajo hará inspección en tienda Zara en Bogotá para verificar condiciones laborales",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Las apuestas de Credicorp en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/las-apuestas-de-credicorp-en-colombia-502445",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Las apuestas de Credicorp en Colombia",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Dian prepara ajustes aduaneros: fiscalización a equipos y facilidades para gas",
+        "url": "https://www.portafolio.co/negocios/comercio/dian-alista-cambios-aduaneros-mas-controles-a-maquinaria-y-drones-y-facilidades-para-importar-gas-natural-licuado-502437",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Dian alista cambios aduaneros: más controles a maquinaria y drones y facilidades para importar gas natural licuado",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Bancolombia e Ísimo se unen para dar efectivo en más de 300 locales",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-tiendas-isimo-se-alian-para-ofrecer-retiros-de-efectivo-en-mas-de-300-puntos-502429",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Bancolombia y Tiendas Ísimo se alían para ofrecer retiros de efectivo en más de 300 puntos",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
+      {
+        "titulo": "Buscamos mostrar que Perú es más que Machu Picchu: arranca Perú Week acá",
+        "url": "https://www.portafolio.co/negocios/nuestro-interes-es-que-el-colombiano-conozca-que-somos-mucho-mas-que-machu-picchu-inicia-peru-week-en-colombia-502419",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "'Nuestro interés es que el colombiano conozca que somos mucho más que Machu Picchu': inicia Perú Week en Colombia",
+        "capturado": "2026-09-14T11:47:11-05:00"
+      },
       {
         "titulo": "Makro festeja aniversario ofreciendo rebajas de hasta el 50 por ciento y rifando un año de mercado",
         "url": "https://www.portafolio.co/negocios/empresas/makro-esta-de-aniversario-promete-descuentos-de-hasta-50-y-el-sorteo-de-un-ano-de-mercado-gratis-502413",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Consejo de Estado declara improcedente tutela de Jorge Andrés Carrillo contra la nulidad de su elección en ISA",
         "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Los aportes tecnológicos benefician a los 77 millones de usuarios en los 10 países con presencia",
-        "url": "https://www.portafolio.co/negocios/inversion/las-inversiones-que-hacemos-en-tecnologia-benefician-a-los-77-millones-de-clientes-en-los-10-paises-donde-estamos-502090",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "‘Las inversiones que hacemos en tecnología benefician a los 77 millones de clientes en los 10 países donde estamos’",
-        "capturado": "2026-09-08T20:03:31-05:00"
-      },
-      {
-        "titulo": "Tostao impulsa el empleo de mujeres y presenta el café Mujeres Imparables",
-        "url": "https://www.portafolio.co/negocios/empresas/tostao-le-apuesta-a-la-contratacion-femenina-y-lanza-el-cafe-mujeres-imparables-502082",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Tostao’ le apuesta a la contratación femenina y lanza el café ‘Mujeres Imparables’",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Conozca la planta procesadora de Tostao, un negocio que opera sin pausa",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-es-la-planta-de-produccion-de-tostao-una-panaderia-que-nunca-se-detiene-502068",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Así es la planta de producción de Tostao’, una panadería que nunca se detiene",
-        "capturado": "2026-09-08T17:53:07-05:00"
-      },
-      {
-        "titulo": "Rodolfo Castillo y Rosario Gómez toman las riendas de la junta directiva de la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/rodolfo-castillo-y-rosario-gomez-asumen-el-liderazgo-de-la-junta-directiva-de-la-andi-502076",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Rodolfo Castillo y Rosario Gómez asumen el liderazgo de la junta directiva de la Andi",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Santander y Coursera habilitan 100000 plazas sin costo para estudiar IA, datos y liderazgo",
-        "url": "https://www.portafolio.co/negocios/empresas/santander-y-coursera-abre-100-000-cupos-gratis-para-formarse-en-ia-datos-y-liderazgo-502060",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Santander y Coursera abre 100.000 cupos gratis para formarse en IA, datos y liderazgo",
-        "capturado": "2026-09-08T15:05:51-05:00"
-      },
-      {
-        "titulo": "Aceleradoras modifican su enfoque en Latinoamérica: capital, ventas y expansión definen el éxito hoy",
-        "url": "https://www.portafolio.co/negocios/inversion/aceleradoras-cambian-la-vara-en-latinoamerica-capital-ventas-y-expansion-pesan-mas-al-medir-resultados-reales-hoy-502072",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Aceleradoras cambian la vara en Latinoamérica: capital, ventas y expansión pesan más al medir resultados reales hoy",
-        "capturado": "2026-09-08T15:05:51-05:00"
       }
     ]
   }
