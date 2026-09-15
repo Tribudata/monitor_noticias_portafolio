@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-15T16:37:23-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-15T18:58:23-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Bandas armadas casi sumaron el doble de miembros en la Paz Total del mandato Petro, dice Mininterior",
+        "url": "https://www.portafolio.co/economia/gobierno/grupos-armados-casi-duplicaron-sus-integrantes-durante-la-paz-total-del-gobierno-petro-segun-mininterior-502594",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Grupos armados casi duplicaron sus integrantes durante la 'Paz Total' del gobierno Petro, según Mininterior",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
+      {
+        "titulo": "Firmas capitalinas obtendrán hasta 13 millones por mantener puestos de mayores de 50 años",
+        "url": "https://www.portafolio.co/economia/empleo/empresas-de-bogota-podran-recibir-hasta-13-millones-por-conservar-empleos-de-mayores-de-50-anos-502592",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Empresas de Bogotá podrán recibir hasta $13 millones por conservar empleos de mayores de 50 años",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
+      {
+        "titulo": "Senado en pleno niega moción de censura al ministro de Vivienda, Jaime Andrés Beltrán",
+        "url": "https://www.portafolio.co/economia/gobierno/plenaria-del-senado-rechaza-mocion-de-censura-contra-el-ministro-de-vivienda-jaime-andres-beltran-502591",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Plenaria del Senado rechaza moción de censura contra el ministro de Vivienda, Jaime Andrés Beltrán",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
+      {
+        "titulo": "De La Espriella informa traslado de 120 reclusos de Buenaventura con traje naranja y atados",
+        "url": "https://www.portafolio.co/economia/gobierno/motiladito-uniforme-naranja-bien-amarradito-de-la-espriella-anuncia-traslado-de-120-presos-de-buenaventura-502588",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "'Motiladito, uniforme naranja, bien amarradito': De La Espriella anuncia traslado de 120 presos de Buenaventura",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
+      {
+        "titulo": "Cofres actuales de la Fiscalía durarían solo hasta mitad de 2027, avisa Luz Adriana Camargo",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-actual-de-la-fiscalia-solo-alcanzaria-hasta-mediados-de-2027-advierte-luz-adriana-camargo-502587",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Presupuesto actual de la Fiscalía solo alcanzaría hasta mediados de 2027, advierte Luz Adriana Camargo",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
       {
         "titulo": "Asociación sindical del Dane muestra inquietud por la renuncia de Ricardo Valencia",
         "url": "https://www.portafolio.co/economia/sindicato-del-dane-expresa-preocupacion-por-salida-de-ricardo-valencia-502578",
@@ -553,59 +603,29 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "El gerente del puerto de Buenaventura pide dragar el canal a 16 metros para competir con Posorja, Callao y Panamá",
         "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Solo para suscriptores: el 39 % de los camiones arriba tarde a Puerto Industrial Aguadulce, Buenaventura",
-        "url": "https://www.portafolio.co/economia/infraestructura/exclusivo-el-39-de-los-camiones-llega-fuera-de-horario-a-puerto-industrial-aguadulce-en-buenaventura-502417",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Exclusivo: el 39 % de los camiones llega fuera de horario a Puerto Industrial Aguadulce, en Buenaventura",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "El 76,9 % de la carga marítima del país se concentra en Cartagena, Santa Marta y Buenaventura",
-        "url": "https://www.portafolio.co/economia/infraestructura/cartagena-santa-marta-y-buenaventura-concentran-el-76-9-de-toda-la-carga-maritima-nacional-502339",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Cartagena, Santa Marta y Buenaventura concentran el 76,9% de toda la carga marítima nacional",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "De la Espriella acota autonomía universitaria ante violencia y advierte que irá por los responsables",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pone-limites-a-la-autonomia-universitaria-por-hechos-de-violencia-voy-por-ustedes-502416",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "De la Espriella pone límites a la autonomía universitaria por hechos de violencia: ‘Voy por ustedes’",
-        "capturado": "2026-09-14T00:17:15-05:00"
-      },
-      {
-        "titulo": "El 44% del Presupuesto de Petro proviene de endeudamiento para cubrir gastos, señala De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-la-verdad-2027-asi-queda-la-deuda-que-colombia-debe-pagar-tras-el-gobierno-petro-502415",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "‘Estamos pagando deuda del derroche’: 44% del Presupuesto viene de deuda del Gobierno Petro, según De La Espriella",
-        "capturado": "2026-09-14T00:17:15-05:00"
-      },
-      {
-        "titulo": "Mandatario Abelardo De La Espriella se dirige a la nación",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-le-habla-al-pais-502414",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Presidente Abelardo De La Espriella le habla al país",
-        "capturado": "2026-09-14T00:17:15-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Siderurgia latinoamericana avanza hacia una repunte paulatino",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-del-acero-en-latinoamerica-da-pasos-para-consolidar-una-recuperacion-gradual-502584",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Industria del acero en Latinoamérica da pasos para consolidar una recuperación gradual",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
+      {
+        "titulo": "Latam obtiene un préstamo de US$ 505 millones con BNP Paribas para once aeronaves",
+        "url": "https://www.portafolio.co/negocios/latam-asegura-us-505-millones-en-credito-con-el-banco-bnp-paribas-para-11-nuevos-aviones-502581",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Latam asegura US$ 505 millones en crédito con el banco BNP Paribas para 11 nuevos aviones",
+        "capturado": "2026-09-15T18:58:23-05:00"
+      },
       {
         "titulo": "Banco de Bogotá, Despegar y Mastercard sacan tarjeta para crear viajes con puntos y más",
         "url": "https://www.portafolio.co/negocios/empresas/no-solo-vuelos-despegar-banco-de-bogota-y-mastercard-lanzan-tarjeta-para-armar-viajes-con-puntos-502579",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-11",
         "titulo_fuente": "GeoPark podría listar su acción en Colombia además de Nueva York: estas son las razones del plan",
         "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Frontier Airlines aterrizará en el país con 14 trayectos sin escalas en diciembre",
-        "url": "https://www.portafolio.co/negocios/frontier-airlines-llegara-a-colombia-con-14-vuelos-directos-hacia-bogota-medellin-y-cartagena-en-diciembre-502277",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Frontier Airlines llegará a Colombia con 14 vuelos directos hacia Bogotá, Medellín y Cartagena en diciembre",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "Según Cifras y Conceptos, Alpina es la compañía más admirada del país en 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/alpina-la-empresa-mas-admirada-de-colombia-en-2026-segun-cifras-y-conceptos-502268",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Alpina, la empresa más admirada de Colombia en 2026, según Cifras y Conceptos",
-        "capturado": "2026-09-10T23:59:31-05:00"
       }
     ]
   }
