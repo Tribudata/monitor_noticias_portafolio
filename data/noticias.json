@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-15T04:12:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-15T09:24:22-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "En octubre el Ejecutivo radicará Ley de Rescate en el Congreso con recortes de gastos y beneficios fiscales",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-llevara-en-octubre-la-ley-de-rescate-al-congreso-habra-alivios-tributarios-y-austeridad-502530",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Gobierno llevará en octubre la Ley de Rescate al Congreso: habrá alivios tributarios y austeridad",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Ideam declara alertas rojas por derrumbes e incendios y señala los departamentos más amenazados",
+        "url": "https://www.portafolio.co/economia/regiones/ideam-activa-alertas-rojas-por-incendios-y-deslizamientos-estos-son-los-departamentos-con-mayor-riesgo-502529",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Ideam activa alertas rojas por incendios y deslizamientos: estos son los departamentos con mayor riesgo",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "La moneda europea cae a mínimos frente al peso colombiano y estas son sus tasas de compra y venta",
+        "url": "https://www.portafolio.co/economia/euro-toca-minimos-frente-al-peso-colombiano-estos-son-los-precios-de-compra-y-venta-502527",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Euro toca mínimos frente al peso colombiano: estos son los precios de compra y venta",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Alza del salario mínimo eleva los gastos laborales en las estaciones de combustible colombianas",
+        "url": "https://www.portafolio.co/economia/salario-minimo-dispara-el-costo-laboral-de-las-estaciones-de-servicio-en-colombia-502521",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Salario mínimo dispara el costo laboral de las estaciones de servicio en Colombia",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Estrategia de Colombia en Top Resa 2026 busca captar más viajeros extranjeros mediante divisas y turismo",
+        "url": "https://www.portafolio.co/economia/turismo-y-divisas-asi-es-la-jugada-de-colombia-para-atraer-mas-visitantes-internacionales-en-top-resa-502519",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Turismo y divisas: así es la jugada de Colombia para atraer más visitantes internacionales en Top Resa 2026",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Directivos del Grupo Aval señalan que la sobretasa al ICA en Bogotá perjudica al sector financiero",
+        "url": "https://www.portafolio.co/economia/gobierno/sobretasa-al-ica-en-bogota-golpea-al-sistema-financiero-advierten-directivos-de-grupo-aval-502517",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Sobretasa al ICA en Bogotá golpea al sistema financiero, advierten directivos de Grupo Aval",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "La divisa estadounidense descendió un poco en Colombia: así se negocia hoy 15 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-15-de-septiembre-502515",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "El dólar bajó levemente en Colombia: así cotiza la divisa este 15 de septiembre",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Administración estatal prepara baja gradual del 4x1000: Ley de Rescate se radicará en octubre",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-alista-reduccion-progresiva-del-4x1-000-ley-de-rescate-sera-presentada-en-octubre-502514",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Gobierno alista reducción progresiva del 4x1.000: ‘Ley de Rescate’ será presentada en octubre",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
       {
         "titulo": "Minhacienda reconoce que el PGN 2027 no es el perfecto, pero afirma que sesenta y cinco billones se financian",
         "url": "https://www.portafolio.co/economia/gobierno/minhacienda-admite-que-pgn-2027-no-es-el-ideal-pero-sostiene-que-634-9-billones-es-lo-financiable-502501",
@@ -523,89 +603,49 @@
         "publicacion": "2026-09-13",
         "titulo_fuente": "Colombia prepara nuevo Censo Agropecuario para actualizar las cifras del campo después de 12 años",
         "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "Reforma pensional: ¿alivio fiscal genuino o trampa a futuro?",
-        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-un-alivio-fiscal-real-o-una-trampa-a-largo-plazo-502380",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Reforma pensional: ¿un alivio fiscal real o una trampa a largo plazo?",
-        "capturado": "2026-09-12T16:56:38-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella señala que la Dian decomisó mercancía ilegal por $30.000 millones en un mes",
-        "url": "https://www.portafolio.co/economia/gobierno/dian-ha-incautado-30-000-millones-en-contrabando-en-menos-de-un-mes-segun-abelardo-de-la-espriella-502374",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Dian ha incautado $30.000 millones en contrabando en menos de un mes, según Abelardo De La Espriella",
-        "capturado": "2026-09-12T14:33:20-05:00"
-      },
-      {
-        "titulo": "El fármaco para la epilepsia Urbadan se encuentra nuevamente a la venta en el país",
-        "url": "https://www.portafolio.co/economia/gobierno/urbadan-vuelve-a-estar-disponible-en-colombia-esto-dice-el-ministerio-de-salud-502372",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Urbadan, medicamento clave para pacientes con epilepsia vuelve a estar disponible en Colombia",
-        "capturado": "2026-09-12T14:33:20-05:00"
-      },
-      {
-        "titulo": "Los tres inmuebles confiscados a Óscar Iván Zuluaga por el escándalo de Odebrecht",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-tres-bienes-embargados-a-oscar-ivan-zuluaga-por-el-caso-odebrecht-502369",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Estos son los tres bienes embargados a Óscar Iván Zuluaga por el caso Odebrecht",
-        "capturado": "2026-09-12T14:33:20-05:00"
-      },
-      {
-        "titulo": "Ministerio de Transporte exige mayor trabajo y menores pretextos en el aeropuerto Rafael Núñez",
-        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-rafael-nunez-mintransporte-pide-menos-excusas-y-mas-ejecucion-502366",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Aeropuerto Rafael Núñez: MinTransporte pide \"menos excusas y más ejecución\"",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo prepara herramienta digital para la adquisición directa de TES por parte de ciudadanos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-alista-plataforma-para-que-colombianos-compren-tes-sin-intermediarios-502364",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Gobierno alista plataforma para que colombianos compren TES sin intermediarios",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "De la Espriella entregó su inicial salario a ancianato y afirmó que mensualmente lo donará",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-dono-su-primer-sueldo-a-hogar-geriatrico-y-anuncio-que-cada-mes-lo-dara-a-una-causa-social-502363",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "De la Espriella donó su primer sueldo a hogar geriátrico y anunció que cada mes lo dará a una causa social",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "Agencia Nacional de Infraestructura inicia estrategia para destrabar 553 trámites detenidos en el país",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-lanza-plan-de-choque-para-destrabar-553-tramites-de-infraestructura-represados-en-colombia-502360",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "ANI lanza plan de choque para destrabar 553 trámites de infraestructura represados en Colombia",
-        "capturado": "2026-09-12T12:21:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "DHL adquiere importante operador logístico local para consolidar su cadena de suministro en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-crece-dhl-en-colombia-adquiere-a-uno-de-los-mayores-operadores-logisticos-del-pais-502525",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "DHL compra uno de los mayores operadores logísticos de Colombia para reforzar su cadena de suministros en el país",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Exportadores advierten sobre competencia desleal de Shein y Temu y solicitan mayor vigilancia de la Dian",
+        "url": "https://www.portafolio.co/negocios/comercio/exportadores-alertan-por-competencia-desleal-de-shein-y-temu-y-piden-mas-control-de-la-dian-502522",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Exportadores alertan por competencia desleal de Shein y Temu y piden más control de la Dian",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Alfonso Camilo Barco tomará la presidencia temporal de Ecopetrol tras la renuncia de Juan Carlos Hurtado",
+        "url": "https://www.portafolio.co/negocios/empresas/alfonso-camilo-barco-asumira-la-presidencia-encargada-de-ecopetrol-tras-salida-de-juan-carlos-hurtado-502513",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Alfonso Camilo Barco asumirá la presidencia encargada de Ecopetrol tras salida de Juan Carlos Hurtado",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
+      {
+        "titulo": "Portafolio nombra a José Caparroso como su nuevo director",
+        "url": "https://www.portafolio.co/negocios/empresas/portafolio-anuncia-a-jose-caparroso-como-su-nuevo-director-502499",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Portafolio anuncia a José Caparroso como su nuevo director",
+        "capturado": "2026-09-15T09:24:22-05:00"
+      },
       {
         "titulo": "Los propietarios de Koaj inician confrontación directa frente a las aplicaciones Temu y Shein",
         "url": "https://www.portafolio.co/negocios/comercio/los-duenos-de-koaj-emprenden-lucha-frontal-contra-las-plataformas-temu-y-shein-502505",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "'Tenemos double digit growth en Colombia': la CEO global de Pandora explica cómo operan los 72 puntos en Colombia",
         "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "Tostao' espera finalizar 2026 con $300.000 millones en ventas y un alza de hasta 15%",
-        "url": "https://www.portafolio.co/negocios/empresas/tostao-proyecta-cerrar-2026-con-ingresos-por-300-000-millones-y-un-crecimiento-de-hasta-502160",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Tostao' proyecta cerrar 2026 con ingresos por $300.000 millones y un crecimiento de hasta 15%",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "Cine Colombia invierte US$35 millones en Bogota con Lumina para expandirse mas alla del cine",
-        "url": "https://www.portafolio.co/negocios/empresas/cine-colombia-lleva-su-negocio-mas-alla-de-las-salas-con-una-apuesta-de-us-35-millones-en-bogota-con-lumina-502157",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Cine Colombia lleva su negocio más allá de las salas con una apuesta de US$35 millones en Bogotá con Lumina",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "GAC lanza carro eléctrico de cinco puertas por menos de 60 millones y estas son sus especificaciones",
-        "url": "https://www.portafolio.co/negocios/vehiculo/gac-aprieta-el-mercado-con-nuevo-electrico-de-cinco-puertas-por-menos-de-60-millones-estas-son-sus-caracteristicas-502144",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "GAC aprieta el mercado con nuevo eléctrico de cinco puertas por menos de 60 millones: estas son sus características",
-        "capturado": "2026-09-09T14:12:47-05:00"
-      },
-      {
-        "titulo": "Eli Lilly compraría a Merida Biosciences por cerca de US$2.875 millones para potenciar su inmunología",
-        "url": "https://www.portafolio.co/negocios/empresas/eli-lilly-pagaria-hasta-us-2-875-millones-por-merida-biosciences-y-reforzaria-su-apuesta-por-la-inmunologia-502141",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Eli Lilly pagaría hasta US$2.875 millones por Merida Biosciences y reforzaría su apuesta por la inmunología",
-        "capturado": "2026-09-09T14:12:47-05:00"
       }
     ]
   }
