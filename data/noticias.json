@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-15T09:24:22-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-15T13:22:42-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Corte Constitucional emite sentencia de la reforma pensional: lo aprobado y lo que regresa al Congreso",
+        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-publica-fallo-sobre-la-reforma-pensional-que-quedo-en-firme-y-que-vuelve-al-congreso-502563",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Corte Constitucional publica fallo sobre la reforma pensional: qué quedó en firme y qué vuelve al Congreso",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Advertencia por veintinueve billones trescientos mil millones de inversión pública frenados sin pago",
+        "url": "https://www.portafolio.co/economia/gobierno/alerta-por-29-3-billones-de-inversion-publica-que-estan-comprometidos-pero-siguen-sin-llegar-a-la-fase-de-pago-502542",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Alerta por $29,3 billones de inversión pública que están comprometidos, pero siguen sin llegar a la fase de pago",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "PIB: exministro José Manuel Restrepo propone estrategia para llegar al 6 por ciento con inversión",
+        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-va-por-un-crecimiento-del-pib-de-6-prepara-plan-para-atraer-inversion-nacional-y-extranjera-502554",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "PIB: Vicepresidente José Manuel Restrepo lanza plan para crecer al 6% basado en inversión nacional y extranjera",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027: Ministerio de Hacienda objeta incremento de 23 por ciento y analistas calculan",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-minhacienda-cuestiona-alza-de-23-como-quedaria-segun-expertos-502546",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Salario mínimo 2027: Minhacienda cuestiona alza de 23%, cómo quedaría según expertos",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Contraloría halla anomalías por seis mil seiscientos cuarenta y tres millones en contrato bomberil",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-detecto-irregularidades-por-6-643-millones-en-contrato-de-bomberos-de-bogota-502545",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Contraloría detectó irregularidades por $6.643 millones en contrato de Bomberos de Bogotá",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Primicia: La Guajira usará dineros de regalías para hacer la carretera entre Riohacha y Venezuela",
+        "url": "https://www.portafolio.co/economia/infraestructura/primicia-la-guajira-destinara-recursos-de-regalias-para-construir-la-via-que-conectara-riohacha-con-venezuela-502557",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Primicia: La Guajira destinará recursos de regalías para construir la vía que conectará Riohacha con Venezuela",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "El clima adverso entorpece las labores aéreas y terrestres tras el siniestro de la aeronave con cinco ocupantes",
+        "url": "https://www.portafolio.co/economia/regiones/avioneta-accidentada-con-cinco-personas-el-mal-tiempo-dificulta-el-operativo-por-aire-y-tierra-502536",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Avioneta accidentada con cinco personas: el mal tiempo dificulta el operativo por aire y tierra",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Más de $150 billones en riesgo para las grandes obras de infraestructura proyectadas en el país",
+        "url": "https://www.portafolio.co/economia/infraestructura/los-macroproyectos-de-infraestructura-en-colombia-para-los-proximos-anos-estan-comprometidos-mas-de-150-billones-502552",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Los macroproyectos de infraestructura en Colombia para los próximos años, están comprometidos más de $150 billones",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "De La Espriella reporta golpe al contrabando con decomiso que necesitó 12 camiones para su transporte",
+        "url": "https://www.portafolio.co/economia/regiones/dian-incauta-mercancia-de-contrabando-por-10-000-millones-en-bogota-esto-fue-lo-encontrado-502533",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "De La Espriella anuncia nuevo golpe al contrabando: incautación requirió 12 camiones para traslado de mercancía",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
       {
         "titulo": "En octubre el Ejecutivo radicará Ley de Rescate en el Congreso con recortes de gastos y beneficios fiscales",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-llevara-en-octubre-la-ley-de-rescate-al-congreso-habra-alivios-tributarios-y-austeridad-502530",
@@ -513,99 +603,79 @@
         "publicacion": "2026-09-13",
         "titulo_fuente": "Estos son los trabajos y prácticas que hay en Ecopetrol, Banco Agrario y Banco de la República",
         "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Banco de la República advierte que los jóvenes que ni estudian ni trabajan limitan el PIB potencial",
-        "url": "https://www.portafolio.co/economia/los-nini-frenan-la-productividad-a-largo-plazo-y-el-pib-potencial-del-pais-advierte-el-banco-de-la-republica-502316",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Los 'nini' frenan la productividad a largo plazo y el PIB potencial del país, advierte el Banco de la República",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Análisis sobre la crisis financiera que comienza a gestarse",
-        "url": "https://www.portafolio.co/economia/crecimiento/analisis-la-tormenta-financiera-que-ya-esta-tomando-forma-502390",
-        "resumen": "",
-        "autor": "Ricardo avila",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Análisis: La tormenta financiera que ya está tomando forma",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Sena detalla cómo colombianos validarán gratis competencias para hallar trabajo en Chile",
-        "url": "https://www.portafolio.co/economia/gobierno/colombianos-podran-certificar-gratis-sus-habilidades-para-buscar-empleo-en-chile-asi-sera-el-proceso-con-el-sena-502392",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Colombianos podrán certificar gratis sus habilidades para buscar empleo en Chile: así será el proceso con el Sena",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "Resolución en pausa: la situación de los contenedores vacíos y la ruta a Buenaventura",
-        "url": "https://www.portafolio.co/economia/infraestructura/la-resolucion-en-veremos-que-esta-pasando-con-los-contenedores-vacios-y-la-via-al-puerto-de-buenaventura-502335",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "La resolución en 'veremos': qué está pasando con los contenedores vacíos y la vía al puerto de Buenaventura",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "Inicia retiro del puente de la 100 con Séptima: cierres y desvíos por un año",
-        "url": "https://www.portafolio.co/economia/regiones/arranca-desmonte-del-puente-de-la-calle-100-con-septima-estos-son-los-cierres-y-desvios-clave-durante-12-meses-502388",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Arranca desmonte del puente de la calle 100 con Séptima: estos son los cierres y desvíos clave durante 12 meses",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "PGN 2027 a punto de concluir: Congreso fijará cifra antes del 15 de septiembre y piden ajuste",
-        "url": "https://www.portafolio.co/economia/pgn-2027-entra-en-su-recta-final-congreso-debera-definir-monto-antes-del-15-de-septiembre-solicitan-ajuste-fiscal-502330",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "PGN 2027 entra en su recta final: Congreso deberá definir monto antes del 15 de septiembre, solicitan ajuste fiscal",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "De La Espriella asigna cinco misiones a Restrepo: inversión, empleo, energía e IA",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-le-fija-cinco-grandes-tareas-a-restrepo-inversion-empleo-energia-e-inteligencia-artificial-502387",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "De La Espriella le fija cinco grandes tareas a Restrepo: inversión, empleo, energía e inteligencia artificial",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "El 60 % de los ciberataques en Colombia impacta a clínicas y hospitales",
-        "url": "https://www.portafolio.co/economia/gobierno/seis-de-cada-10-ciberataques-en-colombia-tienen-como-blanco-a-hospitales-y-clinicas-del-pais-502384",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Seis de cada 10 ciberataques en Colombia tienen como blanco a hospitales y clínicas del país",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "Colombia alista un nuevo Censo Agropecuario para actualizar las cifras del campo tras 12 años",
-        "url": "https://www.portafolio.co/economia/agro/colombia-prepara-nuevo-censo-agropecuario-para-actualizar-las-cifras-del-campo-despues-de-12-anos-502383",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Colombia prepara nuevo Censo Agropecuario para actualizar las cifras del campo después de 12 años",
-        "capturado": "2026-09-13T12:01:28-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Relatos de compañías: El encanto oculto de los anillos dulces",
+        "url": "https://www.portafolio.co/negocios/empresas/confesiones-empresariales-la-magia-detras-de-las-donas-502562",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Confesiones empresariales: La magia detrás de las donas",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Revolut recibe aval en Colombia: la empresa fintech ya cuenta con permiso de la SFC",
+        "url": "https://www.portafolio.co/negocios/empresas/revolut-obtiene-luz-verde-en-colombia-la-fintech-europea-ya-tiene-licencia-bancaria-y-esto-es-lo-que-ofrece-502561",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Revolut obtiene luz verde en Colombia: la fintech europea ya tiene licencia de la SFC",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Ecopetrol modifica normas de Junta: permite cambio total y estabilidad de vocero laboral",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-aprueba-mantener-al-representante-de-los-trabajadores-en-la-junta-sin-repetir-la-votacion-de-trabajadores-502559",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Ecopetrol ajusta reglas de Junta: abre puerta a renovación total y a estabilidad de representante de trabajadores",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Usuarios en las EPS nacionales: las entidades con mayor afiliación y su patrimonio a junio",
+        "url": "https://www.portafolio.co/negocios/empresas/afiliados-en-las-eps-del-pais-las-entidades-con-mas-usuarios-y-como-va-su-patrimonio-en-el-primer-semestre-502547",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Afiliados en las EPS del país: las entidades con más usuarios y cómo va su patrimonio en el primer semestre",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Americana de Colchones inaugurará seis locales en Colombia y consolida su crecimiento",
+        "url": "https://www.portafolio.co/negocios/comercio/americana-de-colchones-abrira-seis-nuevas-tiendas-en-colombia-y-fortalece-su-expansion-nacional-502541",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Americana de Colchones abrirá seis nuevas tiendas en Colombia y fortalece su expansión nacional",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Gobierno y Bavaria fomentarán el rescate de 3000 establecimientos golpeados por la crisis",
+        "url": "https://www.portafolio.co/negocios/empresas/bavaria-y-gobierno-impulsaran-la-recuperacion-de-3-000-negocios-afectados-por-la-emergencia-502535",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Gobierno y Bavaria impulsarán la recuperación de 3.000 negocios afectados por la emergencia",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
+      {
+        "titulo": "Clientes y D1 recolectan más de dos mil toneladas de asistencia para damnificados por el temblor",
+        "url": "https://www.portafolio.co/negocios/comercio/d1-y-sus-clientes-superan-las-2-000-toneladas-de-ayuda-para-afectados-por-el-sismo-502531",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "D1 y sus clientes superan las 2.000 toneladas de ayuda para afectados por el sismo",
+        "capturado": "2026-09-15T13:22:42-05:00"
+      },
       {
         "titulo": "DHL adquiere importante operador logístico local para consolidar su cadena de suministro en Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/asi-crece-dhl-en-colombia-adquiere-a-uno-de-los-mayores-operadores-logisticos-del-pais-502525",
@@ -1135,76 +1205,6 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Bre-B será clave en la apuesta de Nubank para enviar remesas gratis desde Estados Unidos a Colombia",
         "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Avianca incorpora suites privadas en quince aeronaves para trayectos hacia Europa y Nueva York",
-        "url": "https://www.portafolio.co/negocios/avianca-anuncia-una-nueva-cabina-en-15-aviones-con-suites-privadas-en-sus-vuelos-a-europa-y-nueva-york-502196",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Avianca anuncia una nueva cabina en 15 aviones con suites privadas en sus vuelos a Europa y Nueva York",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "David Vélez confirma expansión de Nu a Estados Unidos y cuenta global con stablecoins para 35 naciones",
-        "url": "https://www.portafolio.co/negocios/empresas/nu-lanza-su-aterrizaje-en-estados-unidos-y-anuncia-una-cuenta-global-basada-en-stablecoins-502213",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "David Vélez anuncia aterrizaje del banco digital Nu en EE. UU. y una cuenta global con stablecoins para 35 países",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Cambios en Ecopetrol: cuatro empleados relacionados con conocidos del exmandatario Petro dejan la empresa",
-        "url": "https://www.portafolio.co/negocios/empresas/remezon-en-ecopetrol-salen-cuatro-funcionarios-con-vinculos-familiares-o-politicos-de-su-nomina-502212",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Remezón en Ecopetrol: cuatro funcionarios vinculados con allegados al expresidente Petro salen de su nómina",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Banco de Occidente otorga tasas especiales y préstamos hasta de $500 millones a damnificados por sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/banco-de-occidente-ofrece-tasas-preferenciales-y-creditos-de-hasta-500-millones-para-afectados-por-terremoto-502209",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Banco de Occidente ofrece tasas preferenciales y créditos de hasta $500 millones para afectados por terremoto",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "trii habilita la compra de más de 10.000 acciones y ETF estadounidenses para inversionistas",
-        "url": "https://www.portafolio.co/negocios/inversion/no-sabe-en-que-invertir-trii-abre-acceso-a-mas-de-10-000-acciones-y-etf-del-mercado-de-estados-unidos-502205",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿No sabe en qué invertir? trii abre acceso a más de 10.000 acciones y ETF del mercado de Estados Unidos",
-        "capturado": "2026-09-10T12:04:29-05:00"
-      },
-      {
-        "titulo": "Asi fue como Gilinski paso de US$170 millones a US$700 millones para quedarse con GeoPark",
-        "url": "https://www.portafolio.co/negocios/empresas/de-us-170-millones-a-us-700-millones-la-operacion-que-llevaria-a-gilinski-al-control-de-geopark-502161",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "De US$170 millones a US$700 millones: la operación que llevó a Gilinski al control de GeoPark",
-        "capturado": "2026-09-09T16:49:46-05:00"
-      },
-      {
-        "titulo": "La CEO global de Pandora detalla el crecimiento de doble digito y sus 72 locales en Colombia",
-        "url": "https://www.portafolio.co/negocios/tenemos-double-digit-growth-en-colombia-la-ceo-global-de-pandora-explica-como-operan-los-72-puntos-en-colombia-502153",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "'Tenemos double digit growth en Colombia': la CEO global de Pandora explica cómo operan los 72 puntos en Colombia",
-        "capturado": "2026-09-09T16:49:46-05:00"
       }
     ]
   }
