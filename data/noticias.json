@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-15T13:22:42-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-09-15T16:37:23-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Asociación sindical del Dane muestra inquietud por la renuncia de Ricardo Valencia",
+        "url": "https://www.portafolio.co/economia/sindicato-del-dane-expresa-preocupacion-por-salida-de-ricardo-valencia-502578",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Sindicato del Dane expresa preocupación por salida de Ricardo Valencia",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Embajadora Consuelo Araújo en la Casa Blanca: presenta credenciales a Trump el día del fallo antidrogas",
+        "url": "https://www.portafolio.co/economia/gobierno/embajadora-consuelo-araujo-en-la-casa-blanca-entrega-cartas-a-trump-el-dia-de-decision-de-certificacion-antidrogas-502577",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Embajadora Consuelo Araújo en la Casa Blanca: entrega cartas a Trump el día de decisión de certificación antidrogas",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Tipos de interés en Colombia: ¿hacia dónde van frente al encuentro de la Fed y la inflación?",
+        "url": "https://www.portafolio.co/economia/gobierno/tasas-de-interes-en-colombia-que-rumbo-tomaran-ante-la-reunion-de-la-fed-y-la-inflacion-502576",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Tasas de interés en Colombia: ¿qué rumbo tomarán ante la reunión de la Fed y la inflación?",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Qué agregar como trayectoria laboral en el currículum: pasantías y empleo independiente",
+        "url": "https://www.portafolio.co/economia/empleo/que-se-puede-incluir-como-experiencia-laboral-en-la-hoja-de-vida-practicas-y-trabajo-autonomo-502575",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Qué se puede incluir como experiencia laboral en la hoja de vida: prácticas y trabajo autónomo",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Minambiente anuncia su presupuesto para 2027 y detalla el destino de la inversión",
+        "url": "https://www.portafolio.co/economia/gobierno/ministerio-de-ambiente-revela-cuanto-tendra-de-presupuesto-en-2027-y-en-que-invertira-los-recursos-502574",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Ministerio de Ambiente revela cuánto tendrá de presupuesto en 2027 y en qué invertirá los recursos",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Las remesas de trabajadores hacia Colombia llegaron a US$7.752 millones, con un pequeño aumento",
+        "url": "https://www.portafolio.co/economia/finanzas/las-remesas-que-envian-los-trabajadores-a-colombia-alcanzaron-los-us-7-752-millones-con-un-leve-incremento-502571",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Las remesas que envían los trabajadores a Colombia alcanzaron los US$7.752 millones, con un leve incremento",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Solicitan maquinaria amarilla para atender treinta municipios y cerca de cien mil damnificados en Chocó",
+        "url": "https://www.portafolio.co/economia/regiones/choco-sigue-en-emergencia-piden-maquinaria-amarilla-para-afectaciones-de-30-municipios-y-casi-100-000-personas-502560",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Chocó sigue en emergencia: piden maquinaria amarilla para afectaciones de 30 municipios y casi 100.000 personas",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
       {
         "titulo": "Corte Constitucional emite sentencia de la reforma pensional: lo aprobado y lo que regresa al Congreso",
         "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-publica-fallo-sobre-la-reforma-pensional-que-quedo-en-firme-y-que-vuelve-al-congreso-502563",
@@ -533,79 +603,39 @@
         "publicacion": "2026-09-13",
         "titulo_fuente": "Presidente Abelardo De La Espriella le habla al país",
         "capturado": "2026-09-14T00:17:15-05:00"
-      },
-      {
-        "titulo": "Aeronave perdida en Chocó sufrió un choque fatal y transportaba a cinco ocupantes",
-        "url": "https://www.portafolio.co/economia/regiones/confirman-que-avioneta-desaparecida-en-choco-si-se-estrello-iban-cinco-personas-a-bordo-502412",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Confirman que avioneta desaparecida en Chocó sí se estrelló: iban cinco personas a bordo",
-        "capturado": "2026-09-13T19:20:23-05:00"
-      },
-      {
-        "titulo": "Valle del Cauca fija trece metas y solicita fondos estatales para obras y redificación",
-        "url": "https://www.portafolio.co/economia/regiones/valle-del-cauca-define-agenda-de-13-prioridades-y-pide-recursos-al-gobierno-para-reconstruccion-e-infraestructura-502409",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Valle del Cauca define agenda de 13 prioridades y pide recursos al Gobierno para reconstrucción e infraestructura",
-        "capturado": "2026-09-13T19:20:23-05:00"
-      },
-      {
-        "titulo": "Westfield Business School abre convocatoria para postularse a becas del 50 por ciento en MBA local",
-        "url": "https://www.portafolio.co/economia/asi-puede-acceder-a-una-beca-del-50-para-un-mba-en-colombia-westfield-business-school-anuncia-nueva-convocatoria-502406",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Así puede acceder a una beca del 50% para un MBA en Colombia: Westfield Business School anuncia nueva convocatoria",
-        "capturado": "2026-09-13T17:07:54-05:00"
-      },
-      {
-        "titulo": "Gobierno analiza los términos del costoso acuerdo por 3.100 millones de euros para adquirir aviones Gripen",
-        "url": "https://www.portafolio.co/economia/gobierno/aviones-gripen-por-3-100-millones-de-euros-gobierno-revisa-condiciones-del-millonario-contrato-502399",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Aviones Gripen por 3.100 millones de euros: Gobierno revisa condiciones del millonario contrato",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Autopista del Mar 2 registra un 99,5% de obra con sesenta y dos puentes y trece túneles en el Urabá",
-        "url": "https://www.portafolio.co/economia/infraestructura/trece-tuneles-y-62-puentes-en-la-selva-del-uraba-asi-avanza-la-autopista-del-mar-2-con-el-99-5-de-avance-fisico-502307",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Trece túneles y 62 puentes en la selva del Urabá: así avanza la Autopista del Mar 2 con el 99,5% de avance físico",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Aerocivil busca aeronave con cinco ocupantes tras perder contacto en trayecto entre Condoto y Guaymaral",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-aerocivil-busca-aeronave-con-cinco-personas-a-bordo-tras-perder-comunicacion-en-ruta-condoto-guaymaral-502398",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Atención: Aerocivil busca aeronave con cinco personas a bordo tras perder comunicación en ruta Condoto-Guaymaral",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Vacantes y pasantías disponibles en Banco Agrario, Banco de la República y Ecopetrol",
-        "url": "https://www.portafolio.co/economia/empleo/estos-son-los-trabajos-y-practicas-que-hay-en-ecopetrol-banco-agrario-y-banco-de-la-republica-502395",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Estos son los trabajos y prácticas que hay en Ecopetrol, Banco Agrario y Banco de la República",
-        "capturado": "2026-09-13T14:38:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Banco de Bogotá, Despegar y Mastercard sacan tarjeta para crear viajes con puntos y más",
+        "url": "https://www.portafolio.co/negocios/empresas/no-solo-vuelos-despegar-banco-de-bogota-y-mastercard-lanzan-tarjeta-para-armar-viajes-con-puntos-502579",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "No solo vuelos: Despegar, Banco de Bogotá y Mastercard lanzan tarjeta para armar viajes con puntos",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Scalo es la nueva apuesta fintech de Bancoomeva que prevé colocar un billón en préstamos",
+        "url": "https://www.portafolio.co/negocios/empresas/nuevo-negocio-de-bancoomeva-con-las-fintech-lanzo-scalo-y-proyecta-colocar-1-billon-en-creditos-502573",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Nuevo negocio de Bancoomeva con las fintech: lanzó Scalo y proyecta colocar $1 billón en créditos",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
+      {
+        "titulo": "Dividir el comercio global saldría muy caro y bajaría el PIB mundial hasta un 5,1 por ciento",
+        "url": "https://www.portafolio.co/negocios/comercio/fragmentar-el-comercio-mundial-tendria-un-alto-costo-y-podria-reducir-hasta-5-1-el-pib-global-502565",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Fragmentar el comercio mundial tendría un alto costo y podría reducir hasta 5,1% el PIB global",
+        "capturado": "2026-09-15T16:37:23-05:00"
+      },
       {
         "titulo": "Relatos de compañías: El encanto oculto de los anillos dulces",
         "url": "https://www.portafolio.co/negocios/empresas/confesiones-empresariales-la-magia-detras-de-las-donas-502562",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "Alpina, la empresa más admirada de Colombia en 2026, según Cifras y Conceptos",
         "capturado": "2026-09-10T23:59:31-05:00"
-      },
-      {
-        "titulo": "El ochenta por ciento de las firmas del país desaparecería hoy y a los ciudadanos les daría igual",
-        "url": "https://www.portafolio.co/negocios/ocho-de-cada-diez-marcas-colombianas-podrian-morir-manana-mismo-y-al-pais-ni-siquiera-le-importaria-502229",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Ocho de cada diez marcas colombianas podrían morir mañana mismo y al país ni siquiera le importaría",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Loymark compra Ariadna Health por un millón de dólares y apunta al sector salud de la región",
-        "url": "https://www.portafolio.co/negocios/empresas/loymark-adquiere-ariadna-health-por-us-1-millon-y-pone-el-foco-en-el-creciente-mercado-regional-de-salud-502240",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Loymark adquiere Ariadna Health por US$1 millón y pone el foco en el creciente mercado regional de salud",
-        "capturado": "2026-09-10T17:20:45-05:00"
-      },
-      {
-        "titulo": "Nubank usará Bre-B como pieza clave para girar remesas sin costo desde EE UU hacia Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/bre-b-sera-clave-en-la-apuesta-de-nubank-para-enviar-remesas-gratis-desde-estados-unidos-a-colombia-502242",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "Bre-B será clave en la apuesta de Nubank para enviar remesas gratis desde Estados Unidos a Colombia",
-        "capturado": "2026-09-10T17:20:45-05:00"
       }
     ]
   }
