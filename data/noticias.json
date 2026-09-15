@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-14T18:41:39-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-14T22:33:39-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Minhacienda reconoce que el PGN 2027 no es el perfecto, pero afirma que sesenta y cinco billones se financian",
+        "url": "https://www.portafolio.co/economia/gobierno/minhacienda-admite-que-pgn-2027-no-es-el-ideal-pero-sostiene-que-634-9-billones-es-lo-financiable-502501",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Minhacienda admite que PGN 2027 no es el ideal, pero sostiene que $635 billones es financiable",
+        "capturado": "2026-09-14T22:33:39-05:00"
+      },
+      {
+        "titulo": "El Pacto Histórico cedió en la puja por el PGN previo a que el Legislativo aprobara el tope de 635 billones para 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/pacto-historico-perdio-pulso-por-el-pgn-antes-de-que-el-congreso-mantuviera-el-techo-de-635-billones-para-502500",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Pacto Histórico perdió pulso por el PGN antes de que el Congreso mantuviera el techo de $635 billones para 2027",
+        "capturado": "2026-09-14T22:33:39-05:00"
+      },
       {
         "titulo": "Inversión del exterior baja 9,7% y muestra mayor prudencia",
         "url": "https://www.portafolio.co/economia/crecimiento/inversion-extranjera-cae-9-7-y-evidencia-una-mayor-cautela-502496",
@@ -583,29 +603,29 @@
         "publicacion": "2026-09-12",
         "titulo_fuente": "ANI lanza plan de choque para destrabar 553 trámites de infraestructura represados en Colombia",
         "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "Colombia asigna $7.446 millones para proteger sanidad de aves y cerdos e impulsar las ventas externas",
-        "url": "https://www.portafolio.co/economia/agro/colombia-destina-7-446-millones-para-blindar-sanidad-avicola-y-porcicola-y-fortalecer-exportaciones-502359",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Colombia destina $7.446 millones para blindar sanidad avícola y porcícola y fortalecer exportaciones",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "Las siete propuestas del dirigente de la Andi, Bruce Mac Master, frente a la escasez de energía",
-        "url": "https://www.portafolio.co/economia/gobierno/que-hacer-ante-el-deficit-energetico-las-siete-medidas-que-plantea-el-presidente-de-la-andi-bruce-mac-master-502356",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "¿Qué hacer ante el déficit energético? Las siete medidas que plantea el presidente de la Andi, Bruce Mac Master",
-        "capturado": "2026-09-12T12:21:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los propietarios de Koaj inician confrontación directa frente a las aplicaciones Temu y Shein",
+        "url": "https://www.portafolio.co/negocios/comercio/los-duenos-de-koaj-emprenden-lucha-frontal-contra-las-plataformas-temu-y-shein-502505",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "Los dueños de Koaj emprenden lucha frontal contra las plataformas Temu y Shein",
+        "capturado": "2026-09-14T22:33:39-05:00"
+      },
+      {
+        "titulo": "Frente a la modificación prevista en Ecopetrol, estos son los puntos clave de un directorio clave",
+        "url": "https://www.portafolio.co/negocios/empresas/a-proposito-del-cambio-que-viene-para-ecopetrol-estas-son-las-claves-detras-de-una-junta-directiva-estrategica-502498",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-14",
+        "titulo_fuente": "A propósito del cambio que viene para Ecopetrol: estas son las claves detrás de una junta directiva estratégica",
+        "capturado": "2026-09-14T22:33:39-05:00"
+      },
       {
         "titulo": "Banasan posee cupo para 15 millones de cajas y apunta a expandirse pese a los desafíos bananeros",
         "url": "https://www.portafolio.co/negocios/empresas/banasan-tiene-capacidad-para-15-millones-de-cajas-y-busca-crecer-pese-a-los-retos-del-banano-502493",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Eli Lilly pagaría hasta US$2.875 millones por Merida Biosciences y reforzaría su apuesta por la inmunología",
         "capturado": "2026-09-09T14:12:47-05:00"
-      },
-      {
-        "titulo": "Bayer afirma que su meta es entrar a los discounters con una oferta idónea de salud",
-        "url": "https://www.portafolio.co/negocios/empresas/queremos-llegar-a-los-discounters-con-un-portafolio-de-salud-adecuado-bayer-502134",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "‘Queremos llegar a los discounters con un portafolio de salud adecuado’: Bayer",
-        "capturado": "2026-09-09T10:58:18-05:00"
-      },
-      {
-        "titulo": "Usuarios de Nu podrán sacar hasta $700.000 en D1 con QR y sin plástico: así operará",
-        "url": "https://www.portafolio.co/negocios/empresas/clientes-de-nu-podran-retirar-hasta-700-000-en-tiendas-d1-con-codigo-qr-y-sin-tarjeta-fisica-asi-funcionara-502131",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Clientes de Nu podrán retirar hasta $700.000 en tiendas D1 con código QR y sin tarjeta física: así funcionará",
-        "capturado": "2026-09-09T10:58:18-05:00"
       }
     ]
   }
