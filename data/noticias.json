@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-16T09:36:46-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-16T13:39:36-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Presupuesto 2027: administración nacional pretende garantizar fondos para levantar 10 megacárceles",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-gobierno-busca-asegurar-los-recursos-para-construir-10-megacarceles-en-colombia-502659",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Presupuesto 2027: Gobierno busca asegurar los recursos para construir 10 megacárceles en Colombia",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "De La Espriella ratifica el fallecimiento de los pasajeros de aeronave siniestrada en Chocó hallada sin personas",
+        "url": "https://www.portafolio.co/economia/regiones/de-la-espriella-confirma-la-muerte-de-todos-los-ocupantes-de-avioneta-accidentada-en-choco-que-se-localizo-vacia-502648",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "De La Espriella confirma la muerte de todos los ocupantes de avioneta accidentada en Chocó que se localizó vacía",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Convenios de RTVC crecieron 1.108% de 2023 a 2025, de acuerdo con estudio del Observatorio Fiscal Javeriano",
+        "url": "https://www.portafolio.co/economia/contratos-de-rtvc-aumentaron-1-108-entre-2023-y-2025-segun-analisis-del-observatorio-fiscal-javeriano-502647",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Contratos de RTVC aumentaron 1.108% entre 2023 y 2025, según análisis del Observatorio Fiscal Javeriano",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Radar de 41.400 millones de la Aeronáutica Civil sufrió ataque con drones en el Valle: informó la entidad",
+        "url": "https://www.portafolio.co/economia/regiones/radar-de-41-400-millones-de-la-aeronautica-civil-fue-atacado-con-drones-en-el-valle-esto-dijo-la-entidad-502638",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Radar de $41.400 millones de la Aeronáutica Civil fue atacado con drones en el Valle: esto dijo la entidad",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Advertencia en terminales aéreas: IATA indica inminente congestión en Bogotá y Barranquilla y exige ampliación",
+        "url": "https://www.portafolio.co/economia/alerta-en-aeropuertos-la-iata-senala-posible-saturacion-en-barranquilla-y-bogota-pide-expansion-fisica-502655",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Alerta en aeropuertos: la IATA señala posible saturación en Barranquilla y Bogotá, pide expansión física",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Embajadora colombiana en Estados Unidos endosa al gobierno pasado el empeoramiento de la seguridad y el narcotráfico",
+        "url": "https://www.portafolio.co/economia/gobierno/embajadora-de-colombia-en-ee-uu-atribuye-al-anterior-gobierno-el-deterioro-de-la-seguridad-y-la-lucha-antidrogas-502633",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Embajadora de Colombia en EE. UU. atribuye al anterior Gobierno el deterioro de la seguridad y la lucha antidrogas",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Analistas prevén posibles movimientos en las tasas del Emisor para el cierre de mes",
+        "url": "https://www.portafolio.co/economia/finanzas/cuanto-podria-subir-o-bajar-las-tasas-de-interes-el-banco-de-la-republica-en-el-fin-de-mes-esto-dicen-expertos-502629",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas, brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "¿Cuánto podría subir o bajar las tasas de interés el Banco de la República en el fin de mes? Esto dicen expertos",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "dale! ya comercializa dólares y euros digitales mediante su sistema",
+        "url": "https://www.portafolio.co/economia/finanzas/dale-empieza-a-ofrecer-dolares-y-euros-digitales-en-su-plataforma-502634",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "dale! empieza a ofrecer dólares y euros digitales en su plataforma",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Washington afirma que Colombia se encuentra lista para liderar de nuevo en seguridad regional",
+        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-dice-que-colombia-esta-preparada-para-retomar-su-posicion-como-principal-socio-en-seguridad-en-la-region-502632",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "EE. UU. dice que Colombia está preparada para retomar su posición como principal socio en seguridad en la región",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Estados Unidos conserva a Colombia en su lista negra antidrogas y da un plazo de doce meses para ver avances",
+        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-mantiene-a-colombia-en-su-lista-negra-antidrogas-y-fija-un-ano-para-que-el-pais-demuestre-resultados-502624",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "EE. UU. mantiene a Colombia en su lista negra antidrogas y fija un año para que el país demuestre resultados",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Tributos saludables generan un nuevo debate en el país debido a su impacto en ventas, recaudación y negocios",
+        "url": "https://www.portafolio.co/economia/finanzas/impuestos-saludables-enfrentan-nuevo-pulso-en-colombia-por-su-efecto-en-consumo-recaudo-y-pequenos-comercios-502621",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Impuestos saludables enfrentan nuevo pulso en Colombia por su efecto en consumo, recaudo y pequeños comercios",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
       {
         "titulo": "Satena efectúa su quinto vuelo humanitario al Pacífico y acumula más de 60 toneladas de ayuda post terremoto",
         "url": "https://www.portafolio.co/economia/regiones/satena-completa-el-quinto-vuelo-humanitario-al-pacifico-y-completa-mas-de-60-toneladas-de-ayuda-tras-el-terremoto-502593",
@@ -493,119 +603,39 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "Dian advierte faltante de $788.869 millones para 2027 frente a necesidades por $4,63 billones",
         "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Siete jueces y una elección: método y nombres de quienes escogerán los Premios Portafolio 2026",
-        "url": "https://www.portafolio.co/economia/siete-nombres-una-votacion-quienes-eligen-a-los-ganadores-de-los-premios-portafolio-2026-y-como-es-la-seleccion-502486",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Siete nombres, una votación: ¿Quiénes eligen a los ganadores de los Premios Portafolio 2026 y cómo es la selección?",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "ANI informa que iniciativas 4G alcanzan 93,32% de avance y cuatro obras superan 90% ejecutado",
-        "url": "https://www.portafolio.co/economia/infraestructura/proyectos-4g-llegan-al-93-32-de-avance-y-cuatro-obras-ya-superan-el-90-de-ejecucion-nacional-dice-la-ani-502483",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Proyectos 4G llegan al 93,32% de avance y cuatro obras ya superan el 90% de ejecución nacional, dice la ANI",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Colombia ingresa al grupo de diez mayores productores mundiales de cacao para potenciar ventas y valor",
-        "url": "https://www.portafolio.co/economia/agro/colombia-entra-al-top-10-mundial-del-cacao-y-busca-convertir-su-calidad-en-mas-exportaciones-y-valor-agregado-502481",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Colombia entra al top 10 mundial del cacao y busca convertir su calidad en más exportaciones y valor agregado",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Ubican la zona del impacto de la aeronave extraviada con cinco ocupantes",
-        "url": "https://www.portafolio.co/economia/regiones/hallan-indicios-de-la-avioneta-desaparecida-desde-el-fin-de-semana-esto-es-lo-que-se-sabe-502473",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Hallan punto de impacto de avioneta desaparecida y en la que iban cinco personas a bordo: esta es la ubicación",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Corte Suprema inicia investigación a Iván Cepeda por dineros de consulta del Pacto Histórico",
-        "url": "https://www.portafolio.co/economia/gobierno/corte-suprema-abrio-indagacion-contra-ivan-cepeda-por-financiacion-de-consulta-del-pacto-historico-502470",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Corte Suprema abrió indagación contra Iván Cepeda por financiación de consulta del Pacto Histórico",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Fiscalía formula cargos a Laura Sarabia por peculado, constreñimiento y abuso de función pública",
-        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-imputa-cargos-a-laura-sarabia-por-abuso-de-funcion-publica-constrenimiento-y-peculado-502466",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Fiscalía imputa cargos a Laura Sarabia por abuso de función pública, constreñimiento y peculado",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Bogotá tiene 1.864 puestos de trabajo disponibles esta semana, con 150 cupos para primer empleo",
-        "url": "https://www.portafolio.co/economia/bogota-ofrece-1-864-vacantes-esta-semana-incluidas-150-opciones-para-quienes-buscan-su-primer-empleo-502462",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Bogotá ofrece 1.864 vacantes esta semana, incluidas 150 opciones para quienes buscan su primer empleo",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Iván Cancino reitera postura estatal sobre universidades al señalar que ningún espacio elude la norma",
-        "url": "https://www.portafolio.co/economia/gobierno/ningun-espacio-esta-por-fuera-de-la-ley-ivan-cancino-reafirma-postura-del-gobierno-sobre-universidades-502455",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "‘Ningún espacio está por fuera de la ley’: Iván Cancino reafirma postura del Gobierno sobre universidades",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Gobierno reactiva órdenes de captura contra grupos armados tras terminación de los diálogos de paz",
-        "url": "https://www.portafolio.co/economia/gobierno/fin-a-los-dialogos-de-paz-gobierno-reactiva-ordenes-de-captura-contra-estructuras-armadas-502459",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Fin a los diálogos de paz: Gobierno reactiva órdenes de captura contra estructuras armadas",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Sector agropecuario se ajusta: Gobierno anuncia 10.000 contratos menos y mayor eficiencia rural",
-        "url": "https://www.portafolio.co/economia/agro/el-agro-entra-en-modo-ajuste-gobierno-anuncia-recorte-de-10-000-contratos-y-mas-eficiencia-en-el-sector-rural-502457",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "El agro entra en modo ajuste: Gobierno anuncia recorte de 10.000 contratos y más eficiencia en el sector rural",
-        "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Esto estipula la ley sobre la devolución de la dotación al terminar el contrato laboral",
-        "url": "https://www.portafolio.co/economia/empleo/debe-devolver-la-dotacion-laboral-cuando-deja-de-trabajar-con-una-empresa-esto-dice-la-norma-502451",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "¿Debe devolver la dotación laboral cuando deja de trabajar con una empresa? Esto dice la norma",
-        "capturado": "2026-09-14T11:47:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "En agosto bajó la confianza del consumidor mas sigue en positivo según Fedesarrollo",
+        "url": "https://www.portafolio.co/negocios/comercio/la-confianza-del-consumidor-se-modero-en-agosto-pero-sigue-en-terreno-positivo-segun-fedesarrollo-502640",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "La confianza del consumidor se moderó en agosto, pero sigue en terreno positivo, según Fedesarrollo",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "El banco británico Revolut arribará en 2027 y suma 200.000 colombianos en espera",
+        "url": "https://www.portafolio.co/negocios/empresas/revolut-banco-britanico-que-llegara-en-2027-ya-tiene-200-000-colombianos-en-lista-de-espera-como-inscribirse-502646",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Revolut, banco británico que llegará en 2027, ya tiene 200.000 colombianos en lista de espera: ¿cómo inscribirse?",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
+      {
+        "titulo": "Hatsu Tea lanza edición especial en colaboración con Ágatha Ruiz de la Prada",
+        "url": "https://www.portafolio.co/negocios/empresas/hatsu-tea-estrena-edicion-especial-junto-con-agatha-ruiz-de-la-prada-502619",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Hatsu Tea estrena edición especial junto con Ágatha Ruiz de la Prada",
+        "capturado": "2026-09-16T13:39:36-05:00"
+      },
       {
         "titulo": "Alimentos procesados y galletas de Colombia reducirán barreras para arribar al mercado europeo",
         "url": "https://www.portafolio.co/negocios/comercio/galletas-y-otros-alimentos-colombianos-tendran-menos-trabas-para-llegar-a-los-consumidores-de-la-union-europea-502616",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-11",
         "titulo_fuente": "Banasan nombra nuevo gerente y reorganiza su estructura para enfrentar retos del sector bananero",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "F45 Training aterriza en Colombia: destinará US$800.000 y lanzará siete sedes iniciales en Bogotá",
-        "url": "https://www.portafolio.co/negocios/empresas/f45-training-llega-a-colombia-invertira-us-800-000-y-abrira-siete-estudios-inicialmente-en-bogota-502287",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "F45 Training llega a Colombia: invertirá US$800.000 y abrirá siete estudios inicialmente en Bogotá",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "De US$2.400 millones a casi US$6.000 millones: la evolución del agro colombiano por el TLC con EE UU en 14 años",
-        "url": "https://www.portafolio.co/negocios/comercio/de-us-2-400-millones-a-casi-us-6-000-millones-asi-cambio-el-agro-colombiano-con-tlc-con-estados-unidos-en-14-anos-502288",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "De US$2.400 millones a casi US$6.000 millones: así cambió el agro colombiano con TLC con Estados Unidos en 14 años",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "¿Se irían ocho de diez marcas sin causar nostalgia? Esto revela una investigación en Colombia",
-        "url": "https://www.portafolio.co/negocios/podrian-desaparecer-ocho-de-cada-diez-marcas-sin-ser-realmente-extranadas-esto-dice-un-estudio-en-colombia-502229",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿Podrían desaparecer ocho de cada diez marcas sin ser realmente extrañadas? Esto dice un estudio en Colombia",
         "capturado": "2026-09-11T12:49:21-05:00"
       }
     ]
