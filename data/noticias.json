@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-16T04:41:15-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T09:36:46-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Satena efectúa su quinto vuelo humanitario al Pacífico y acumula más de 60 toneladas de ayuda post terremoto",
+        "url": "https://www.portafolio.co/economia/regiones/satena-completa-el-quinto-vuelo-humanitario-al-pacifico-y-completa-mas-de-60-toneladas-de-ayuda-tras-el-terremoto-502593",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Satena completa el quinto vuelo humanitario al Pacífico y completa más de 60 toneladas de ayuda tras el terremoto",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Minsalud desembolsa fondos a 7.668 internos de medicina y detalla demoras en ciertos pagos en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-gira-recursos-a-7-668-internos-de-medicina-y-explica-por-que-algunos-pagos-siguen-pendientes-en-colombia-502615",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Minsalud gira recursos a 7.668 internos de medicina y explica por qué algunos pagos siguen pendientes en Colombia",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Embalses de Ranchería abrirían paso a capital israelí para renovar la agricultura en La Guajira",
+        "url": "https://www.portafolio.co/economia/agro/represas-de-rancheria-podrian-abrir-la-puerta-a-inversion-israeli-para-transformar-el-agro-de-la-guajira-502612",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Represas de Ranchería podrían abrir la puerta a inversión israelí para transformar el agro de La Guajira",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Cotización del euro en Colombia hoy: aumenta y se ubica en $3.595 este 16 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-sube-y-se-cotiza-en-3-595-este-16-de-septiembre-502614",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Precio del euro hoy en Colombia: sube y se cotiza en $3.595 este 16 de septiembre",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Norma de sometimiento en el país: administración establece pautas y rechaza excarcelaciones",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-sometimiento-en-colombia-gobierno-fija-reglas-y-descarta-excarcelaciones-502611",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Ley de sometimiento en Colombia: Gobierno fija reglas y descarta excarcelaciones",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Continúan tensiones en Ecopetrol: jefe de Junta señala anomalías y establece tres metas operativas",
+        "url": "https://www.portafolio.co/economia/gobierno/siguen-las-tensiones-en-ecopetrol-presidente-de-junta-denuncia-irregularidades-y-fija-tres-prioridades-operativas-502610",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Siguen las tensiones en Ecopetrol: presidente de Junta denuncia irregularidades y fija tres prioridades operativas",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "El costo de la divisa estadounidense en el país arrancó la sesión de hoy 16 de septiembre con alza de $10",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-16-de-septiembre-502609",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Precio del dólar en Colombia inició la jornada de este 16 de septiembre $10 más caro",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
+      {
+        "titulo": "Artículos de Epa Colombia reciben sanción de $140 millones por violar regulaciones de comercio digital",
+        "url": "https://www.portafolio.co/economia/gobierno/esto-fue-lo-que-epa-no-informo-a-sus-clientes-y-que-termino-en-una-multa-de-140-millones-por-parte-de-la-sic-502608",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Productos de Epa Colombia enfrentan multa de $140 millones por incumplir normas en ventas por internet",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
       {
         "titulo": "Nómina digital en 2026: el desafío consiste en calcular correctamente",
         "url": "https://www.portafolio.co/economia/empleo/nomina-electronica-en-2026-el-reto-es-hacer-bien-las-cuentas-502607",
@@ -523,89 +603,19 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "¿Debe devolver la dotación laboral cuando deja de trabajar con una empresa? Esto dice la norma",
         "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Ministro de Justicia Iván Cancino defiende la aspersión aérea de cultivos tras fallo de suspensión",
-        "url": "https://www.portafolio.co/economia/gobierno/ministro-de-justicia-ivan-cancino-lanza-mensaje-en-defensa-de-aspersion-aerea-de-cultivos-tras-suspension-judicial-502446",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Ministro de Justicia Iván Cancino lanza mensaje en defensa de aspersión aérea de cultivos tras suspensión judicial",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "El costo de mantener y reparar un vehículo en Colombia superó el nivel de la inflación",
-        "url": "https://www.portafolio.co/economia/finanzas/tener-carro-en-colombia-ahora-cuesta-mas-mantenimiento-y-reparacion-subieron-mas-que-la-inflacion-502447",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Tener carro en Colombia ahora cuesta más: mantenimiento y reparación subieron más que la inflación",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "La Corte exige indagar fallas tras la devolución de más de 21 mil giros de ayuda humanitaria",
-        "url": "https://www.portafolio.co/economia/mas-de-21-000-giros-de-ayudas-humanitarias-fueron-reintegrados-corte-pide-revisar-posibles-irregularidades-502444",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Más de 21.000 giros de ayudas humanitarias fueron reintegrados: Corte pide revisar posibles irregularidades",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Mauricio Cárdenas sugiere vender ISA para saldar el déficit fiscal generado por Petro",
-        "url": "https://www.portafolio.co/economia/vender-isa-para-bajar-la-deuda-la-propuesta-de-mauricio-cardenas-frente-a-la-crisis-fiscal-502443",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Vender ISA para bajar la deuda: la propuesta de Mauricio Cárdenas frente al hueco fiscal que dejó Petro",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Cotización del euro en Colombia para este catorce de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-en-colombia-asi-cotiza-la-moneda-este-14-de-septiembre-502442",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Precio del euro en Colombia: así cotiza la moneda este 14 de septiembre",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "EPS en aprietos: el costoso déficit que fijaría su permanencia o salida del sistema este año",
-        "url": "https://www.portafolio.co/economia/gobierno/eps-bajo-presion-el-millonario-hueco-que-podria-definir-cuales-sobreviven-y-cuales-salen-del-sistema-este-ano-502318",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "EPS bajo presión: el millonario hueco que podría definir cuáles sobreviven y cuáles salen del sistema este año",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "De La Espriella señaló al Gobierno Petro de ocultar datos económicos y prometió investigar a los autores",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-acuso-al-gobierno-petro-de-esconder-cifras-economicas-y-aseguro-perseguir-a-los-responsables-502428",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "De La Espriella acusó al Gobierno Petro de esconder cifras económicas y aseguró perseguir a los responsables",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Petro solicitará réplica al discurso del presidente De La Espriella: Pagamos casi $100 billones de deuda heredada",
-        "url": "https://www.portafolio.co/economia/gobierno/petro-pedira-replica-a-discurso-del-presidente-de-la-espriella-pagamos-casi-100-billones-de-deuda-heredada-502426",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Petro pedirá réplica a discurso del presidente De La Espriella: 'Pagamos casi $100 billones' de deuda heredada",
-        "capturado": "2026-09-14T11:47:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Alimentos procesados y galletas de Colombia reducirán barreras para arribar al mercado europeo",
+        "url": "https://www.portafolio.co/negocios/comercio/galletas-y-otros-alimentos-colombianos-tendran-menos-trabas-para-llegar-a-los-consumidores-de-la-union-europea-502616",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Galletas y otros alimentos colombianos tendrán menos trabas para llegar a los consumidores de la Unión Europea",
+        "capturado": "2026-09-16T09:36:46-05:00"
+      },
       {
         "titulo": "Revolut incrementará su capital en Colombia por encima de US$100 millones previo a su apertura",
         "url": "https://www.portafolio.co/negocios/inversion/revolut-elevara-su-inversion-en-colombia-a-mas-de-us-100-millones-antes-de-iniciar-operaciones-502602",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "¿Podrían desaparecer ocho de cada diez marcas sin ser realmente extrañadas? Esto dice un estudio en Colombia",
         "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "El negocio de James Rodríguez y Juan Cuadrado, recientes fichajes del rentado local",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-es-la-faceta-empresarial-de-james-rodriguez-y-juan-cuadrado-nuevos-jugadores-del-futbol-colombiano-502281",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Así es la faceta empresarial de James Rodríguez y Juan Cuadrado, nuevos jugadores del fútbol colombiano",
-        "capturado": "2026-09-11T09:04:17-05:00"
       }
     ]
   }
