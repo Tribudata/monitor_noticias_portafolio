@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-15T18:58:23-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-15T23:36:57-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Nómina digital en 2026: el desafío consiste en calcular correctamente",
+        "url": "https://www.portafolio.co/economia/empleo/nomina-electronica-en-2026-el-reto-es-hacer-bien-las-cuentas-502607",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Nómina electrónica en 2026: el reto es hacer bien las cuentas",
+        "capturado": "2026-09-15T23:36:57-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella enfoca 187 obras locales por $515.000 millones en ocho departamentos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-prioriza-187-proyectos-regionales-por-515-000-millones-en-ocho-departamentos-del-pais-502604",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Gobierno De La Espriella prioriza 187 proyectos regionales por $515.000 millones en ocho departamentos del país",
+        "capturado": "2026-09-15T23:36:57-05:00"
+      },
+      {
+        "titulo": "Como réplica, Petro contesta a De La Espriella sobre datos fiscales y objeta el PGN de $635 billones",
+        "url": "https://www.portafolio.co/economia/gobierno/en-replica-petro-responde-a-de-la-espriella-por-las-cifras-fiscales-y-cuestiona-el-pgn-de-635-billones-502603",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "En réplica, Petro responde a De La Espriella por las cifras fiscales y cuestiona el PGN de $635 billones",
+        "capturado": "2026-09-15T23:36:57-05:00"
+      },
       {
         "titulo": "Bandas armadas casi sumaron el doble de miembros en la Paz Total del mandato Petro, dice Mininterior",
         "url": "https://www.portafolio.co/economia/gobierno/grupos-armados-casi-duplicaron-sus-integrantes-durante-la-paz-total-del-gobierno-petro-segun-mininterior-502594",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "Petro pedirá réplica a discurso del presidente De La Espriella: 'Pagamos casi $100 billones' de deuda heredada",
         "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar en Colombia: la moneda inició la sesión de este 14 de septiembre con un repunte menor",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-asi-cotiza-la-divisa-este-14-de-septiembre-tras-perder-mas-de-50-en-una-semana-502424",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa abrió la jornada de este 14 de septiembre con leve recuperación",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Barranquilla contará con nuevo vuelo directo a Madrid: el Ejecutivo asignará $1.000 millones para impulsarlo",
-        "url": "https://www.portafolio.co/economia/gobierno/barranquilla-tendra-nueva-ruta-directa-a-madrid-gobierno-destinara-1-000-millones-para-promoverla-502423",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Barranquilla tendrá nueva ruta directa a Madrid: Gobierno destinará $1.000 millones para promoverla",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "La gerencia del puerto de Buenaventura solicita dragar el canal a 16 metros para rivalizar con Posorja, Callao y Panamá",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-gerente-del-puerto-de-buenaventura-pide-dragar-el-canal-a-16-metros-para-competir-con-posorja-callao-y-panama-502420",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "El gerente del puerto de Buenaventura pide dragar el canal a 16 metros para competir con Posorja, Callao y Panamá",
-        "capturado": "2026-09-14T11:47:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Revolut incrementará su capital en Colombia por encima de US$100 millones previo a su apertura",
+        "url": "https://www.portafolio.co/negocios/inversion/revolut-elevara-su-inversion-en-colombia-a-mas-de-us-100-millones-antes-de-iniciar-operaciones-502602",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Revolut elevará su inversión en Colombia a más de US$100 millones antes de iniciar operaciones",
+        "capturado": "2026-09-15T23:36:57-05:00"
+      },
       {
         "titulo": "Siderurgia latinoamericana avanza hacia una repunte paulatino",
         "url": "https://www.portafolio.co/negocios/industrias/industria-del-acero-en-latinoamerica-da-pasos-para-consolidar-una-recuperacion-gradual-502584",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-11",
         "titulo_fuente": "Así es la faceta empresarial de James Rodríguez y Juan Cuadrado, nuevos jugadores del fútbol colombiano",
-        "capturado": "2026-09-11T09:04:17-05:00"
-      },
-      {
-        "titulo": "GeoPark contempla cotizar su título en el país además de EE UU por estos motivos",
-        "url": "https://www.portafolio.co/negocios/empresas/geopark-podria-listar-su-accion-en-colombia-ademas-de-nueva-york-estas-son-las-razones-del-plan-502282",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "GeoPark podría listar su acción en Colombia además de Nueva York: estas son las razones del plan",
         "capturado": "2026-09-11T09:04:17-05:00"
       }
     ]
