@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-16T13:39:36-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-16T16:53:22-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Bogotá presenta nueva guía para inversores de afuera con datos de visas, impuestos y operación",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-lanza-nueva-guia-para-inversionistas-extranjeros-incluye-visas-impuestos-y-operacion-502685",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Bogotá lanza nueva guía para inversionistas extranjeros: incluye visas, impuestos y operación",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Pacto tecnológico para Colombia: Google, Microsoft, Amazon, Oracle y HPE fondearán el país",
+        "url": "https://www.portafolio.co/economia/gobierno/google-microsoft-amazon-oracle-y-hpe-invertiran-en-el-pais-este-es-el-pacto-tecnologico-para-colombia-502683",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Google, Microsoft, Amazon, Oracle y HPE invertirán en el país: este es el pacto tecnológico para Colombia",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Colpensiones acapara la peticion mayor del sector Trabajo para 2027 por cerca de $4,8 billones",
+        "url": "https://www.portafolio.co/economia/colpensiones-concentra-la-mayor-solicitud-del-sector-trabajo-para-2027-con-recursos-cercanos-a-4-8-billones-502682",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Colpensiones concentra la mayor solicitud del sector Trabajo para 2027, con recursos cercanos a $4,8 billones",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "La billetera dale! incursiona en dólares digitales y promete hasta 5% de rentabilidad",
+        "url": "https://www.portafolio.co/economia/finanzas/dale-entra-al-negocio-de-los-dolares-digitales-la-billetera-anuncia-rentabilidad-de-hasta-502679",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "dale! entra al negocio de los dólares digitales: la billetera anuncia rentabilidad de hasta 5%",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027 superará el peso frente al PIB visto desde la pandemia, según Javeriana",
+        "url": "https://www.portafolio.co/economia/observatorio-fiscal-de-la-u-javeriana-presupuesto-2027-seria-el-de-mayor-peso-frente-al-pib-desde-la-pandemia-502674",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Observatorio fiscal de la U. Javeriana: Presupuesto 2027 sería el de mayor peso frente al PIB desde la pandemia",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Congreso de la República tendrá que enmendar estos artículos de la reforma pensional de Petro",
+        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-de-petro-estos-los-articulos-de-que-el-congreso-de-la-republica-debera-corregir-502670",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Reforma pensional de Petro: estos los artículos de que el Congreso de la República deberá corregir",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Corte solicita a Contraloría auditar desembolsos de auxilios humanitarios por fallas a víctimas",
+        "url": "https://www.portafolio.co/economia/corte-pide-a-contraloria-revisar-giros-de-ayudas-humanitarias-tras-fallas-en-entrega-a-victimas-del-conflicto-502669",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Corte pide a Contraloría revisar giros de ayudas humanitarias tras fallas en entrega a víctimas del conflicto",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "IFC destinará US$2.000 millones a Colombia y duplica así su inversión en el territorio nacional",
+        "url": "https://www.portafolio.co/economia/ifc-invertira-us-2-000-millones-en-colombia-duplicando-su-apuesta-por-el-pais-502668",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "IFC invertirá US$2.000 millones en Colombia, duplicando su apuesta por el país",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027: proyección con alzas de 6%, 7% y 8% a partir del monto vigente",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-asi-quedaria-con-aumentos-de-6-7-y-8-desde-el-valor-actual-502663",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Salario mínimo 2027: así quedaría con aumentos de 6%, 7% y 8% desde el valor actual",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Deuda pública sufre presión por alta emisión y un déficit fiscal que rondaría el 10% del PIB",
+        "url": "https://www.portafolio.co/economia/deuda-publica-enfrenta-presion-por-mayor-emision-y-un-deficit-fiscal-que-podria-acercarse-al-10-del-pib-502662",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Deuda pública enfrenta presión por mayor emisión y un déficit fiscal que podría acercarse al 10% del PIB",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Búsquedas de vuelos a Colombia desde Costa Rica, Ecuador y México rebasan 50% con 2,3 millones de reservas",
+        "url": "https://www.portafolio.co/economia/busquedas-de-vuelos-hacia-colombia-desde-costa-rica-ecuador-y-mexico-superan-el-50-son-2-3-millones-de-reservas-502657",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Búsquedas de vuelos hacia Colombia desde Costa Rica, Ecuador y México superan el 50%, son 2,3 millones de reservas",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
       {
         "titulo": "Presupuesto 2027: administración nacional pretende garantizar fondos para levantar 10 megacárceles",
         "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-gobierno-busca-asegurar-los-recursos-para-construir-10-megacarceles-en-colombia-502659",
@@ -493,119 +603,79 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Sobretasa al ICA en Bogotá golpea al sistema financiero, advierten directivos de Grupo Aval",
         "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense descendió un poco en Colombia: así se negocia hoy 15 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-15-de-septiembre-502515",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "El dólar bajó levemente en Colombia: así cotiza la divisa este 15 de septiembre",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Administración estatal prepara baja gradual del 4x1000: Ley de Rescate se radicará en octubre",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-alista-reduccion-progresiva-del-4x1-000-ley-de-rescate-sera-presentada-en-octubre-502514",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Gobierno alista reducción progresiva del 4x1.000: ‘Ley de Rescate’ será presentada en octubre",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Minhacienda reconoce que el PGN 2027 no es el perfecto, pero afirma que sesenta y cinco billones se financian",
-        "url": "https://www.portafolio.co/economia/gobierno/minhacienda-admite-que-pgn-2027-no-es-el-ideal-pero-sostiene-que-634-9-billones-es-lo-financiable-502501",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Minhacienda admite que PGN 2027 no es el ideal, pero sostiene que $635 billones es financiable",
-        "capturado": "2026-09-14T22:33:39-05:00"
-      },
-      {
-        "titulo": "El Pacto Histórico cedió en la puja por el PGN previo a que el Legislativo aprobara el tope de 635 billones para 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/pacto-historico-perdio-pulso-por-el-pgn-antes-de-que-el-congreso-mantuviera-el-techo-de-635-billones-para-502500",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Pacto Histórico perdió pulso por el PGN antes de que el Congreso mantuviera el techo de $635 billones para 2027",
-        "capturado": "2026-09-14T22:33:39-05:00"
-      },
-      {
-        "titulo": "Inversión del exterior baja 9,7% y muestra mayor prudencia",
-        "url": "https://www.portafolio.co/economia/crecimiento/inversion-extranjera-cae-9-7-y-evidencia-una-mayor-cautela-502496",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Inversión extranjera cae 9,7% y evidencia una mayor cautela",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Ejecutivos del Grupo Aval consideran posible financiar el presupuesto 2027 sin subir tributos privados",
-        "url": "https://www.portafolio.co/economia/gobierno/directivas-del-grupo-aval-ven-viable-financiar-el-presupuesto-2027-sin-aumentar-los-impuesto-al-sector-privado-502495",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Directivas del Grupo Aval ven viable financiar el presupuesto 2027 sin aumentar los impuesto al sector privado",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Designan a Juan Manuel Alvarado como director del Dane en sustitución de Ricardo Valencia",
-        "url": "https://www.portafolio.co/economia/gobierno/juan-manuel-alvarado-es-nombrado-como-nuevo-director-del-dane-en-reemplazo-de-ricardo-valencia-502494",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Juan Manuel Alvarado es nombrado como nuevo director del Dane, en reemplazo de Ricardo Valencia",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Presupuesto General 2027: Congreso avala cifra de $635 billones presentada por el Ejecutivo",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-general-2027-congreso-aprueba-monto-proyecto-de-635-billones-propuesto-por-el-gobierno-502492",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Presupuesto General 2027: Congreso aprueba monto de $635 billones propuesto por el Gobierno",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Nuevo sismo en Colombia: temblor de 4,9 sacude al Chocó tras tres movimientos este lunes",
-        "url": "https://www.portafolio.co/economia/regiones/nuevo-sismo-en-colombia-movimiento-de-4-4-se-sintio-en-cali-pereira-y-otras-ciudades-502491",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Nuevo sismo en Colombia: movimiento de 4,9 se registró en Chocó tras otros tres temblores este lunes",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Colombia arriba mejor a revisión antidrogas de EE. UU. aunque persiste el reto de bajar la oferta de coca",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-llega-mejor-a-la-evaluacion-antidrogas-de-ee-uu-pero-aun-enfrenta-un-reto-reducir-la-oferta-de-coca-502488",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Colombia llega mejor a la evaluación antidrogas de EE. UU., pero aún enfrenta un reto: reducir la oferta de coca",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Dian alerta déficit de $788.869 millones hacia 2027 ante requerimientos por $4,63 billones",
-        "url": "https://www.portafolio.co/economia/gobierno/dian-advierte-faltante-de-788-869-millones-para-2027-frente-a-necesidades-por-4-63-billones-502487",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Dian advierte faltante de $788.869 millones para 2027 frente a necesidades por $4,63 billones",
-        "capturado": "2026-09-14T18:41:39-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ganancia neta de Olímpica subió 10,3% al cierre del primer semestre y rebasó la inflación anual",
+        "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-de-olimpica-crecio-10-3-en-el-primer-semestre-y-supero-la-inflacion-anual-502690",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Utilidad neta de Olímpica creció 10,3% en el primer semestre y superó la inflación anual",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Midea intensifica su crecimiento en Colombia proyectando ventas superiores a $280.000 millones para 2026",
+        "url": "https://www.portafolio.co/negocios/industrias/midea-acelera-su-expansion-en-colombia-espera-vender-mas-de-280-000-millones-en-502689",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Midea acelera su expansión en Colombia: espera vender más de $280.000 millones en 2026",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Ventas del comercio minorista conservaron su fuerza en julio con un alza del 5,3% empujadas por autos",
+        "url": "https://www.portafolio.co/negocios/comercio/comercio-minorista-mantuvo-su-dinamismo-en-julio-y-crecio-5-3-impulsado-por-la-venta-de-vehiculos-502675",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Comercio minorista mantuvo su dinamismo en julio y creció 5,3% impulsado por la venta de vehículos",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Nuevas acciones contra Lili Pink: la Fiscalía intervino 45 locales comerciales tasados en más de $184.000 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/nuevas-medidas-contra-lili-pink-la-fiscalia-ocupo-45-almacenes-de-la-marca-avaluados-en-mas-de-184-000-millones-502681",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Nuevas medidas contra Lili Pink: la Fiscalía ocupó 45 almacenes de la marca avaluados en más de $184.000 millones",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Producción industrial bajó un 2,3% en julio y la Andi advierte indicios de desaceleración",
+        "url": "https://www.portafolio.co/negocios/industrias/la-produccion-industrial-cayo-un-2-3-en-julio-y-la-andi-advierte-senales-de-menor-dinamismo-502667",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "La producción industrial cayó un 2,3% en julio y la Andi advierte señales de menor dinamismo",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Andi advierte sobre el reto de mantener la inversión al subir el peso de la deuda en el PGN 2027 tras cita con congresistas",
+        "url": "https://www.portafolio.co/negocios/inversion/andi-tras-reunion-con-congresistas-alerta-sobre-reto-de-sostener-inversion-mientras-deuda-gana-peso-en-pgn-502666",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Andi, tras reunión con congresistas, alerta sobre reto de sostener inversión mientras deuda gana peso en PGN 2027",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
+      {
+        "titulo": "Fenalco aplaza su Congreso Nacional para priorizar la ayuda a los comerciantes afectados por el temblor",
+        "url": "https://www.portafolio.co/negocios/comercio/para-priorizar-el-apoyo-a-los-comerciantes-afectados-por-el-terremoto-fenalco-aplaza-su-congreso-nacional-502660",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Para priorizar el apoyo a los comerciantes afectados por el terremoto, Fenalco aplaza su Congreso Nacional",
+        "capturado": "2026-09-16T16:53:22-05:00"
+      },
       {
         "titulo": "En agosto bajó la confianza del consumidor mas sigue en positivo según Fedesarrollo",
         "url": "https://www.portafolio.co/negocios/comercio/la-confianza-del-consumidor-se-modero-en-agosto-pero-sigue-en-terreno-positivo-segun-fedesarrollo-502640",
@@ -1135,76 +1205,6 @@
         "publicacion": "2026-09-12",
         "titulo_fuente": "Cali reubicará a 110 comerciantes de San Andresito del Sur en el antiguo edificio de La 14",
         "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "Compañías afrontan recientes exigencias de apertura, rivalidad e intervención ciudadana",
-        "url": "https://www.portafolio.co/negocios/empresas/las-empresas-enfrentan-nuevas-expectativas-sobre-transparencia-competencia-y-participacion-publica-502313",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Las empresas enfrentan nuevas expectativas sobre transparencia, competencia y participación pública",
-        "capturado": "2026-09-11T15:30:23-05:00"
-      },
-      {
-        "titulo": "Ecopetrol ofrece más de 300 plazas de prácticas en 24 urbes y campos nacionales: cómo postularse",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-abre-mas-de-300-cupos-de-practicas-para-estudiantes-en-24-ciudades-y-campos-del-pais-asi-puede-aplicar-502312",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Ecopetrol abre más de 300 cupos de prácticas para estudiantes en 24 ciudades y campos del país: así puede aplicar",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "780 citas de negocios y firmas de 8 naciones: el movimiento industrial en la Feria de Diseño en Medellín",
-        "url": "https://www.portafolio.co/negocios/empresas/780-reuniones-de-negocio-y-marcas-de-8-paises-asi-se-mueve-la-industria-en-la-feria-de-diseno-en-medellin-502306",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "780 reuniones de negocio y marcas de 8 países: así se mueve la industria en la Feria de Diseño en Medellín",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Envigado finaliza ocho años de capital privado: así concluyó la transacción del 55% del equipo",
-        "url": "https://www.portafolio.co/negocios/empresas/envigado-cierra-ocho-anos-de-inversion-privada-asi-termino-el-negocio-que-tomo-el-55-del-club-502303",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Envigado cierra ocho años de inversión privada: así terminó el negocio que tomó el 55% del club",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Compañías aumentan su confianza, pero cuatro de diez ya modificaron sus plantillas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/empresas-elevan-su-optimismo-pero-cuatro-de-cada-10-ya-ajustaron-sus-nominas-en-colombia-502293",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Empresas elevan su optimismo, pero cuatro de cada 10 ya ajustaron sus nóminas en Colombia",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "BVC y Asobolsa proponen la fórmula para destrabar el mercado bursátil en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/bvc-y-asobolsa-ponen-sobre-la-mesa-la-formula-para-destrabar-el-mercado-de-capitales-en-colombia-502294",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "BVC y Asobolsa ponen sobre la mesa la fórmula para destrabar el mercado de capitales en Colombia",
-        "capturado": "2026-09-11T12:49:21-05:00"
-      },
-      {
-        "titulo": "Banasan designa nuevo gerente y reestructura su organización para afrontar los retos bananeros",
-        "url": "https://www.portafolio.co/negocios/empresas/banasan-nombra-nuevo-gerente-y-reorganiza-su-estructura-para-enfrentar-retos-del-sector-bananero-502290",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-11",
-        "titulo_fuente": "Banasan nombra nuevo gerente y reorganiza su estructura para enfrentar retos del sector bananero",
-        "capturado": "2026-09-11T12:49:21-05:00"
       }
     ]
   }
