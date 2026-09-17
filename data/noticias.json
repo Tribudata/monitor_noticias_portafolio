@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-17T10:11:06-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-17T14:10:21-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Superfinanciero señala desprotección de usuarios por ausencia de normas en criptoactivos",
+        "url": "https://www.portafolio.co/economia/gobierno/superintendente-financiero-advierte-que-hay-consumidores-desprotegidos-por-falta-de-regulacion-de-activos-digitales-502761",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Superintendente financiero advierte que hay consumidores desprotegidos por falta de regulación de activos digitales",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Alza de costos energéticos e insumos presiona la inflación colombiana tras conflicto en Medio Oriente",
+        "url": "https://www.portafolio.co/economia/gobierno/inflacion-en-colombia-bajo-presion-por-energia-cara-y-fertilizantes-tras-crisis-en-medio-oriente-502758",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Inflación en Colombia, bajo presión por energía cara y fertilizantes tras crisis en Medio Oriente",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Conozca a Carlos Suárez, nuevo líder de la junta de Ecopetrol y sus retos ante la crisis actual",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-es-carlos-suarez-nueva-cabeza-de-la-junta-de-ecopetrol-su-reto-ante-la-crisis-heredada-del-gobierno-petro-502750",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "¿Quién es Carlos Suárez, nueva cabeza de la junta de Ecopetrol? Su reto ante la crisis heredada del Gobierno Petro",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Ministerio de Salud propone elevar la UPC hasta un 13% para el año 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/nuevo-ajuste-para-la-salud-minsalud-plantea-aumentar-la-upc-en-un-rago-de-12-a-13-para-el-502743",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Nuevo ajuste para la salud: Minsalud plantea aumentar la UPC en hasta un 13% para el 2027",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Barrio bogotano figura entre los más atractivos del mundo según prestigioso escalafón de turismo",
+        "url": "https://www.portafolio.co/economia/bogota-recibe-reconocimiento-turistico-un-barrio-de-la-ciudad-esta-entre-los-barrios-mas-cool-del-mundo-502737",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Este es el barrio de Bogotá considerado entre los más 'cool' del mundo, según prestigioso listado turístico",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Educación media agrupa el 37,1% de los trabajadores colombianos y registra el mayor desempleo",
+        "url": "https://www.portafolio.co/economia/la-educacion-media-concentra-el-37-1-de-la-fuerza-laboral-del-pais-pero-tambien-el-mayor-desempleo-502755",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "La educación media concentra el 37,1% de la fuerza laboral del país, pero también el mayor desempleo",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "El PIB colombiano recibe impulso de la construcción al subir 17,1% en obras civiles durante el segundo trimestre",
+        "url": "https://www.portafolio.co/economia/infraestructura/construccion-impulsa-el-pib-de-colombia-con-un-crecimiento-de-17-1-en-obras-civiles-en-el-segundo-trimestre-502738",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Construcción impulsa el PIB de Colombia con un crecimiento de 17,1% en obras civiles en el segundo trimestre",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
       {
         "titulo": "Ejecutivo presentará 100 iniciativas en Nueva York para captar capital extranjero hacia Colombia",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-llevara-100-proyectos-a-nueva-york-para-atraer-inversion-a-colombia-estos-son-los-proyectos-502736",
@@ -533,79 +603,109 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Sindicato del Dane expresa preocupación por salida de Ricardo Valencia",
         "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Embajadora Consuelo Araújo en la Casa Blanca: presenta credenciales a Trump el día del fallo antidrogas",
-        "url": "https://www.portafolio.co/economia/gobierno/embajadora-consuelo-araujo-en-la-casa-blanca-entrega-cartas-a-trump-el-dia-de-decision-de-certificacion-antidrogas-502577",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Embajadora Consuelo Araújo en la Casa Blanca: entrega cartas a Trump el día de decisión de certificación antidrogas",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Tipos de interés en Colombia: ¿hacia dónde van frente al encuentro de la Fed y la inflación?",
-        "url": "https://www.portafolio.co/economia/gobierno/tasas-de-interes-en-colombia-que-rumbo-tomaran-ante-la-reunion-de-la-fed-y-la-inflacion-502576",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Tasas de interés en Colombia: ¿qué rumbo tomarán ante la reunión de la Fed y la inflación?",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Qué agregar como trayectoria laboral en el currículum: pasantías y empleo independiente",
-        "url": "https://www.portafolio.co/economia/empleo/que-se-puede-incluir-como-experiencia-laboral-en-la-hoja-de-vida-practicas-y-trabajo-autonomo-502575",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Qué se puede incluir como experiencia laboral en la hoja de vida: prácticas y trabajo autónomo",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Minambiente anuncia su presupuesto para 2027 y detalla el destino de la inversión",
-        "url": "https://www.portafolio.co/economia/gobierno/ministerio-de-ambiente-revela-cuanto-tendra-de-presupuesto-en-2027-y-en-que-invertira-los-recursos-502574",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Ministerio de Ambiente revela cuánto tendrá de presupuesto en 2027 y en qué invertirá los recursos",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Las remesas de trabajadores hacia Colombia llegaron a US$7.752 millones, con un pequeño aumento",
-        "url": "https://www.portafolio.co/economia/finanzas/las-remesas-que-envian-los-trabajadores-a-colombia-alcanzaron-los-us-7-752-millones-con-un-leve-incremento-502571",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Las remesas que envían los trabajadores a Colombia alcanzaron los US$7.752 millones, con un leve incremento",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Solicitan maquinaria amarilla para atender treinta municipios y cerca de cien mil damnificados en Chocó",
-        "url": "https://www.portafolio.co/economia/regiones/choco-sigue-en-emergencia-piden-maquinaria-amarilla-para-afectaciones-de-30-municipios-y-casi-100-000-personas-502560",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Chocó sigue en emergencia: piden maquinaria amarilla para afectaciones de 30 municipios y casi 100.000 personas",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Corte Constitucional emite sentencia de la reforma pensional: lo aprobado y lo que regresa al Congreso",
-        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-publica-fallo-sobre-la-reforma-pensional-que-quedo-en-firme-y-que-vuelve-al-congreso-502563",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Corte Constitucional publica fallo sobre la reforma pensional: qué quedó en firme y qué vuelve al Congreso",
-        "capturado": "2026-09-15T13:22:42-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Alza en presupuesto de colombianos para Amor y Amistad con mayor inclinación hacia vivencias",
+        "url": "https://www.portafolio.co/negocios/comercio/colombianos-gastaran-mas-en-amor-y-amistad-pero-cada-vez-prefieren-invertir-en-experiencias-502760",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Colombianos gastarán más en Amor y Amistad, pero cada vez prefieren invertir en experiencias",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Dueña del DaviArena en Medellín adquiere la totalidad de la gestión del Movistar Arena",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-firma-detras-del-daviarena-de-medellin-que-compro-el-100-de-la-operacion-del-movistar-arena-502757",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Esta es la firma detrás del DaviArena de Medellín que compró el 100% de la operación del Movistar Arena",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Galardón Portafolio 2026 homenajeará la trayectoria empresarial de Carlos Mario Giraldo Moreno",
+        "url": "https://www.portafolio.co/negocios/empresas/premios-portafolio-2026-reconocera-la-vida-y-obra-del-empresario-carlos-mario-giraldo-moreno-502752",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Premios Portafolio 2026 reconocerá la vida y obra del empresario Carlos Mario Giraldo Moreno",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Totto señala que prefiere equipos sin permiso previo pero que su autonomía exija resultados",
+        "url": "https://www.portafolio.co/negocios/empresas/no-creo-en-equipos-que-necesiten-autorizacion-para-todo-pero-la-autonomia-debe-venir-con-resultados-totto-502756",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "'No creo en equipos que necesiten autorización para todo, pero la autonomía debe venir con resultados': Totto",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Spotify introduce en Colombia el Partner Program como nuevo esquema de pago para podcasters",
+        "url": "https://www.portafolio.co/negocios/empresas/spotify-lanza-nuevo-modelo-de-monetizacion-en-colombia-para-creadores-de-podcasts-esto-es-partner-program-502754",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Spotify lanza nuevo modelo de monetización en Colombia para creadores de podcasts: esto es Partner Program",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Especial sobre el AFI Summit 2026 junto a Ignacio Gaitán, cabeza visible de Afidro",
+        "url": "https://www.portafolio.co/negocios/empresas/cubrimiento-especial-del-afi-summit-2026-con-ignacio-gaitan-presidente-ejecutivo-de-afidro-502753",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Cubrimiento especial del AFI Summit 2026 con Ignacio Gaitán, presidente ejecutivo de Afidro",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Las 23 marcas preferidas por los colombianos y las que luchan por ganar su afecto",
+        "url": "https://www.portafolio.co/negocios/las-23-marcas-mas-amadas-por-los-colombianos-y-las-que-siguen-en-la-pelea-por-conquistar-corazones-502739",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Las 23 marcas más amadas por los colombianos y las que siguen en la pelea por conquistar corazones",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Raddar advierte desaceleración en el consumo de los hogares en Colombia con señales de alerta",
+        "url": "https://www.portafolio.co/negocios/comercio/el-gasto-de-los-hogares-se-desacelera-en-colombia-informe-de-raddar-pone-sobre-la-mesa-las-senales-de-alerta-502747",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "El gasto de los hogares se desacelera en Colombia: informe de Raddar pone sobre la mesa las señales de alerta",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Lulo Bank incursiona en el factoring digital mediante un nuevo ecosistema empresarial",
+        "url": "https://www.portafolio.co/negocios/empresas/lulo-bank-entra-al-mercado-del-factoring-digital-bajo-un-nuevo-ecosistema-de-banca-empresarial-502742",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Lulo Bank entra al mercado del factoring digital bajo un nuevo ecosistema de banca empresarial",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito inicia campaña de un mes con rebajas de hasta 60% y moverá 167 millones de unidades",
+        "url": "https://www.portafolio.co/negocios/comercio/grupo-exito-lanza-promocion-de-un-mes-con-descuentos-de-hasta-el-60-y-movilizara-167-millones-de-unidades-502728",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Grupo Éxito lanza promoción de un mes con descuentos de hasta el 60% y movilizará 167 millones de unidades",
+        "capturado": "2026-09-17T14:10:21-05:00"
+      },
       {
         "titulo": "GeoPark encabeza la disputa por un nuevo bloque petrolero en Neuquén para ampliar el fracking en Argentina",
         "url": "https://www.portafolio.co/negocios/empresas/atencion-geopark-va-por-mas-fracking-en-argentina-lidera-la-puja-por-una-nueva-area-petrolera-en-neuquen-502730",
@@ -1105,106 +1205,6 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "'Nuestro interés es que el colombiano conozca que somos mucho más que Machu Picchu': inicia Perú Week en Colombia",
         "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Makro festeja aniversario ofreciendo rebajas de hasta el 50 por ciento y rifando un año de mercado",
-        "url": "https://www.portafolio.co/negocios/empresas/makro-esta-de-aniversario-promete-descuentos-de-hasta-50-y-el-sorteo-de-un-ano-de-mercado-gratis-502413",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Makro está de aniversario: promete descuentos de hasta 50% y el sorteo de un año de mercado gratis",
-        "capturado": "2026-09-13T19:20:23-05:00"
-      },
-      {
-        "titulo": "Galardón internacional para centro comercial bogotano por estrategia contra el cáncer",
-        "url": "https://www.portafolio.co/negocios/comercio/este-centro-comercial-de-bogota-recibio-premio-internacional-por-campana-de-prevencion-del-cancer-502407",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Este centro comercial de Bogotá recibió premio internacional por campaña de prevención del cáncer",
-        "capturado": "2026-09-13T17:07:54-05:00"
-      },
-      {
-        "titulo": "Ciento ochenta caficultores y cacaoteros caucanos gestionan ya sus propias empresas",
-        "url": "https://www.portafolio.co/negocios/empresas/180-productores-de-cafe-y-cacao-en-el-cauca-ya-administran-sus-propios-negocios-502405",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "180 productores de café y cacao en el Cauca ya administran sus propios negocios",
-        "capturado": "2026-09-13T17:07:54-05:00"
-      },
-      {
-        "titulo": "Veinte compañías colombianas van a Miami en busca de opciones comerciales en EE. UU.",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-de-20-empresas-colombianas-viaja-a-miami-para-explorar-oportunidades-de-negocio-en-estados-unidos-502404",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Grupo de 20 empresas colombianas viaja a Miami para explorar oportunidades de negocio en Estados Unidos",
-        "capturado": "2026-09-13T17:07:54-05:00"
-      },
-      {
-        "titulo": "Avianca consigue préstamo récord de US$300 millones para reparar motores en Brasil",
-        "url": "https://www.portafolio.co/negocios/empresas/avianca-logra-financiacion-historica-de-us-300-millones-para-mantenimiento-de-motores-en-brasil-502402",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Avianca logra financiación histórica de US$300 millones para mantenimiento de motores en Brasil",
-        "capturado": "2026-09-13T17:07:54-05:00"
-      },
-      {
-        "titulo": "El mercado laboral colombiano sube su ritmo a finales de 2026: 48% de compañías aumentará su personal",
-        "url": "https://www.portafolio.co/negocios/empresas/empleo-en-colombia-acelera-al-cierre-de-2026-48-de-empresas-preve-ampliar-su-planta-laboral-502401",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Empleo en Colombia acelera al cierre de 2026: 48% de empresas prevé ampliar su planta laboral",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "La ultracongelación de donas, la transformación de producción y logística que alista Dunkin' Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/ultracongelar-sus-donas-el-revolcon-productivo-y-logistico-que-afina-dunkin-colombia-502382",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Ultracongelar sus donas, el 'revolcón' productivo y logístico que afina Dunkin' Colombia",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Terrenta, plataforma de financiamiento colectivo, planea fondear $10.000 millones en obras de finca raíz",
-        "url": "https://www.portafolio.co/negocios/terrenta-fintech-de-crowdfunding-proyecta-financiar-10-000-millones-en-proyectos-inmobiliarios-502314",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Terrenta, fintech de crowdfunding, proyecta financiar $10.000 millones en proyectos inmobiliarios",
-        "capturado": "2026-09-13T14:38:46-05:00"
-      },
-      {
-        "titulo": "Especialistas sugieren diversificar comercio más allá de EE. UU. y Europa ante déficit con Asia",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-tiene-una-deuda-comercial-con-asia-expertos-piden-dejar-de-mirar-solo-a-ee-uu-y-europa-502326",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-13",
-        "titulo_fuente": "Colombia tiene una deuda comercial con Asia: expertos piden dejar de mirar solo a EE. UU. y Europa",
-        "capturado": "2026-09-13T12:01:28-05:00"
-      },
-      {
-        "titulo": "Textos de fuera bajan hasta 30%: este es el efecto del peso fuerte en las editoriales",
-        "url": "https://www.portafolio.co/negocios/comercio/libros-importados-cuestan-hasta-30-menos-asi-impacta-la-revaluacion-del-peso-al-sector-editorial-502381",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Libros importados cuestan hasta 30% menos: así impacta la revaluación del peso al sector editorial",
-        "capturado": "2026-09-12T18:53:04-05:00"
       }
     ]
   }
