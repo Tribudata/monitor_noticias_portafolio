@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-16T16:53:22-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-09-16T19:06:59-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Dapre advierte salto del 595% en contratos bajo el mandato Petro y prevé baja cercana al 65%",
+        "url": "https://www.portafolio.co/economia/gobierno/dapre-denuncia-que-contratos-en-la-entidad-crecieron-595-en-gobierno-petro-y-anuncia-recorte-de-casi-502702",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Dapre denuncia que contratos en la entidad crecieron 595% en Gobierno Petro y anuncia recorte de casi 65%",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Desembolsos por $4,4 billones del Fomag al cierre del mandato Petro carecerían de respaldos claros",
+        "url": "https://www.portafolio.co/economia/gobierno/pagos-por-4-4-billones-del-fomag-en-las-ultimas-semanas-del-gobierno-petro-no-tendrian-soportes-identificados-502688",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Pagos por $4,4 billones del Fomag en las últimas semanas del Gobierno Petro no tendrían soportes identificados",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Magistrado revoca pausa a bombardeos aunque impone rigurosos condicionamientos si hay menores",
+        "url": "https://www.portafolio.co/economia/gobierno/juez-levanta-suspension-de-bombardeos-pero-fija-condiciones-estrictas-cuando-haya-menores-502694",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Juez levanta suspensión de bombardeos, pero fija condiciones estrictas cuando haya menores",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Gobierno cambió sus cuatro curules en la Cámara de Comercio de Bogotá previo a elegir nuevo líder",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-renovo-sus-cuatro-puestos-en-la-camara-de-comercio-de-bogota-de-cara-a-la-eleccion-de-un-nuevo-presidente-502691",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Gobierno renovó sus cuatro puestos en la Cámara de Comercio de Bogotá de cara a la elección de un nuevo presidente",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
       {
         "titulo": "Bogotá presenta nueva guía para inversores de afuera con datos de visas, impuestos y operación",
         "url": "https://www.portafolio.co/economia/regiones/bogota-lanza-nueva-guia-para-inversionistas-extranjeros-incluye-visas-impuestos-y-operacion-502685",
@@ -563,49 +603,49 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Ideam activa alertas rojas por incendios y deslizamientos: estos son los departamentos con mayor riesgo",
         "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "La moneda europea cae a mínimos frente al peso colombiano y estas son sus tasas de compra y venta",
-        "url": "https://www.portafolio.co/economia/euro-toca-minimos-frente-al-peso-colombiano-estos-son-los-precios-de-compra-y-venta-502527",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Euro toca mínimos frente al peso colombiano: estos son los precios de compra y venta",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Alza del salario mínimo eleva los gastos laborales en las estaciones de combustible colombianas",
-        "url": "https://www.portafolio.co/economia/salario-minimo-dispara-el-costo-laboral-de-las-estaciones-de-servicio-en-colombia-502521",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Salario mínimo dispara el costo laboral de las estaciones de servicio en Colombia",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Estrategia de Colombia en Top Resa 2026 busca captar más viajeros extranjeros mediante divisas y turismo",
-        "url": "https://www.portafolio.co/economia/turismo-y-divisas-asi-es-la-jugada-de-colombia-para-atraer-mas-visitantes-internacionales-en-top-resa-502519",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Turismo y divisas: así es la jugada de Colombia para atraer más visitantes internacionales en Top Resa 2026",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Directivos del Grupo Aval señalan que la sobretasa al ICA en Bogotá perjudica al sector financiero",
-        "url": "https://www.portafolio.co/economia/gobierno/sobretasa-al-ica-en-bogota-golpea-al-sistema-financiero-advierten-directivos-de-grupo-aval-502517",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Sobretasa al ICA en Bogotá golpea al sistema financiero, advierten directivos de Grupo Aval",
-        "capturado": "2026-09-15T09:24:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Esto explicó la marca Andina acerca de su posible vínculo con el fichaje de Cuadrado por Millonarios",
+        "url": "https://www.portafolio.co/negocios/empresas/que-tiene-que-ver-andina-con-la-llegada-de-cuadrado-a-millonarios-esto-dice-la-marca-502699",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "¿Qué tiene que ver Andina con la llegada de Cuadrado a Millonarios? Esto dice la marca",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Seguros Sura advierte sobre un riesgo de pandemia de salud mental tras eventos trágicos como sismos",
+        "url": "https://www.portafolio.co/negocios/empresas/seguros-sura-alerta-por-posibilidad-de-una-pandemia-de-salud-mental-ante-hechos-catastroficos-como-el-terremoto-502696",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Seguros Sura alerta por posibilidad de una 'pandemia de salud mental', ante hechos catastróficos como el terremoto",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Plaza de las Américas destina 30 por ciento de su propuesta a ocio y comida tras crecer cerca de un billón",
+        "url": "https://www.portafolio.co/negocios/comercio/tras-expansion-cercana-a-1-billon-plaza-de-las-americas-tiene-30-de-su-oferta-en-entretenimiento-y-gastronomia-502692",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Tras expansión cercana a $1 billón, Plaza de las Américas tiene 30% de su oferta en entretenimiento y gastronomía",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
+      {
+        "titulo": "Ya se conocen los nombres de los directivos colombianos destacados por su talento empresarial",
+        "url": "https://www.portafolio.co/negocios/empresas/el-talento-empresarial-de-colombia-ya-tiene-nombres-502693",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "El talento empresarial de Colombia ya tiene nombres",
+        "capturado": "2026-09-16T19:06:59-05:00"
+      },
       {
         "titulo": "Ganancia neta de Olímpica subió 10,3% al cierre del primer semestre y rebasó la inflación anual",
         "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-de-olimpica-crecio-10-3-en-el-primer-semestre-y-supero-la-inflacion-anual-502690",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-12",
         "titulo_fuente": "Lionel Messi está cerca de comprar un club de España: Eldense tendría nuevo máximo accionista.",
         "capturado": "2026-09-12T14:33:20-05:00"
-      },
-      {
-        "titulo": "Más de 520 proyectos productivos participan en la Feria EVA de Bogotá durante Amor y Amistad",
-        "url": "https://www.portafolio.co/negocios/comercio/la-feria-eva-reune-mas-de-520-emprendimientos-en-bogota-en-plena-temporada-de-amor-y-amistad-502367",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "La Feria EVA reúne más de 520 emprendimientos en Bogotá en plena temporada de Amor y Amistad",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "Arranca la preventa de los nuevos iPhone 18 Pro de Apple en Colombia y revelan sus tarifas",
-        "url": "https://www.portafolio.co/negocios/empresas/iphone-18-pro-en-colombia-inicio-la-preventa-y-estos-son-los-precios-de-la-nueva-generacion-de-apple-502362",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "iPhone 18 Pro en Colombia: inició la preventa y estos son los precios de la nueva generación de Apple",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "El Eje Cafetero fue seleccionado para estudiar la instalación de pequeños reactores nucleares",
-        "url": "https://www.portafolio.co/negocios/industrias/energia-nuclear-en-colombia-el-eje-cafetero-es-la-zona-elegida-para-la-viabilidad-de-pequenos-reactores-modulares-502358",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Energía nuclear en Colombia: el Eje Cafetero es la zona elegida para la viabilidad de pequeños reactores modulares",
-        "capturado": "2026-09-12T12:21:11-05:00"
-      },
-      {
-        "titulo": "110 vendedores de San Andresito del Sur serán trasladados por la Alcaldía al predio de La 14",
-        "url": "https://www.portafolio.co/negocios/empresas/cali-reubicara-a-110-comerciantes-de-san-andresito-del-sur-en-el-antiguo-edificio-de-la-502357",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Cali reubicará a 110 comerciantes de San Andresito del Sur en el antiguo edificio de La 14",
-        "capturado": "2026-09-12T12:21:11-05:00"
       }
     ]
   }
