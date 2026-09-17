@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-17T14:10:21-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-09-17T17:20:19-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Especialistas económicos completan medio año al alza su pronóstico inflacionario para este diciembre",
+        "url": "https://www.portafolio.co/economia/crecimiento/analistas-financieros-llevan-seis-meses-incrementando-su-proyeccion-de-inflacion-para-diciembre-de-este-ano-502781",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Analistas financieros llevan seis meses incrementando su proyección de inflación para diciembre de este año",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Alumnos del Sena locales contarán con gratuidad total en el transporte",
+        "url": "https://www.portafolio.co/economia/regiones/los-estudiantes-del-sena-de-esta-ciudad-tendran-el-pasaje-100-gratis-502776",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Los estudiantes del Sena de esta ciudad tendrán el pasaje 100% gratis",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Carlos René Montoya Muñoz asume la presidencia de Colpensiones",
+        "url": "https://www.portafolio.co/economia/gobierno/colpensiones-elige-a-carlos-rene-montoya-munoz-como-nuevo-presidente-502777",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Colpensiones elige a Carlos René Montoya Muñoz como nuevo presidente",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Un temblor de magnitud 4.6 en Chocó fue informado por el Servicio Geológico Colombiano",
+        "url": "https://www.portafolio.co/economia/regiones/servicio-geologico-colombiano-reporto-sismo-de-magnitud-4-6-en-choco-502773",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Servicio Geológico Colombiano reportó sismo de magnitud 4.6 en Chocó",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Valor del huevo subiría en 2027 tras disminuir 12% la entrada de pollitas a predios",
+        "url": "https://www.portafolio.co/economia/agro/precio-del-huevo-podria-repuntar-en-2027-tras-caer-12-el-ingreso-de-pollitas-a-las-granjas-502770",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Precio del huevo podría repuntar en 2027 tras caer 12% el ingreso de pollitas a las granjas",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Asofondos señala que el hueco fiscal de $5 billones en Colpensiones surge por subir el mínimo",
+        "url": "https://www.portafolio.co/economia/gobierno/asofondos-explica-que-el-desfase-fiscal-en-colpensiones-de-5-billones-se-debe-al-alza-del-salario-minimo-502764",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Asofondos explica que el desfase fiscal en Colpensiones de $5 billones se debe al alza del salario mínimo",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "El Banrepública señala marcadas diferencias en formalidad según el grado de desarrollo económico del país",
+        "url": "https://www.portafolio.co/economia/colombia-exhibe-fuertes-brechas-de-formalidad-a-medida-que-cambia-el-nivel-de-desarrollo-economico-banrepublica-502763",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Colombia exhibe fuertes brechas de formalidad a medida que cambia el nivel de desarrollo económico: Banrepública",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
       {
         "titulo": "Superfinanciero señala desprotección de usuarios por ausencia de normas en criptoactivos",
         "url": "https://www.portafolio.co/economia/gobierno/superintendente-financiero-advierte-que-hay-consumidores-desprotegidos-por-falta-de-regulacion-de-activos-digitales-502761",
@@ -533,79 +603,59 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Gobierno De La Espriella prioriza 187 proyectos regionales por $515.000 millones en ocho departamentos del país",
         "capturado": "2026-09-15T23:36:57-05:00"
-      },
-      {
-        "titulo": "Como réplica, Petro contesta a De La Espriella sobre datos fiscales y objeta el PGN de $635 billones",
-        "url": "https://www.portafolio.co/economia/gobierno/en-replica-petro-responde-a-de-la-espriella-por-las-cifras-fiscales-y-cuestiona-el-pgn-de-635-billones-502603",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "En réplica, Petro responde a De La Espriella por las cifras fiscales y cuestiona el PGN de $635 billones",
-        "capturado": "2026-09-15T23:36:57-05:00"
-      },
-      {
-        "titulo": "Bandas armadas casi sumaron el doble de miembros en la Paz Total del mandato Petro, dice Mininterior",
-        "url": "https://www.portafolio.co/economia/gobierno/grupos-armados-casi-duplicaron-sus-integrantes-durante-la-paz-total-del-gobierno-petro-segun-mininterior-502594",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Grupos armados casi duplicaron sus integrantes durante la 'Paz Total' del gobierno Petro, según Mininterior",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Firmas capitalinas obtendrán hasta 13 millones por mantener puestos de mayores de 50 años",
-        "url": "https://www.portafolio.co/economia/empleo/empresas-de-bogota-podran-recibir-hasta-13-millones-por-conservar-empleos-de-mayores-de-50-anos-502592",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Empresas de Bogotá podrán recibir hasta $13 millones por conservar empleos de mayores de 50 años",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Senado en pleno niega moción de censura al ministro de Vivienda, Jaime Andrés Beltrán",
-        "url": "https://www.portafolio.co/economia/gobierno/plenaria-del-senado-rechaza-mocion-de-censura-contra-el-ministro-de-vivienda-jaime-andres-beltran-502591",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Plenaria del Senado rechaza moción de censura contra el ministro de Vivienda, Jaime Andrés Beltrán",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "De La Espriella informa traslado de 120 reclusos de Buenaventura con traje naranja y atados",
-        "url": "https://www.portafolio.co/economia/gobierno/motiladito-uniforme-naranja-bien-amarradito-de-la-espriella-anuncia-traslado-de-120-presos-de-buenaventura-502588",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "'Motiladito, uniforme naranja, bien amarradito': De La Espriella anuncia traslado de 120 presos de Buenaventura",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Cofres actuales de la Fiscalía durarían solo hasta mitad de 2027, avisa Luz Adriana Camargo",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-actual-de-la-fiscalia-solo-alcanzaria-hasta-mediados-de-2027-advierte-luz-adriana-camargo-502587",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Presupuesto actual de la Fiscalía solo alcanzaría hasta mediados de 2027, advierte Luz Adriana Camargo",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Asociación sindical del Dane muestra inquietud por la renuncia de Ricardo Valencia",
-        "url": "https://www.portafolio.co/economia/sindicato-del-dane-expresa-preocupacion-por-salida-de-ricardo-valencia-502578",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Sindicato del Dane expresa preocupación por salida de Ricardo Valencia",
-        "capturado": "2026-09-15T16:37:23-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Cobertura AFI con Catalina Ricaurte gerente de Merck y presidenta de la junta directiva de Afidro",
+        "url": "https://www.portafolio.co/negocios/empresas/cubrimiento-afi-con-catalina-ricaurte-gerente-de-merck-y-presidente-de-la-junta-directiva-de-afidro-502775",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Cubrimiento AFI con Catalina Ricaurte Gerente de Merck y presidente de la junta directiva de Afidro",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Supertransporte advierte sobre revisiones técnico mecánicas exprés y la posibilidad de una multa",
+        "url": "https://www.portafolio.co/negocios/vehiculo/supertransporte-alerta-por-revisiones-tecnico-mecanicas-expres-podria-terminar-recibiendo-una-multa-502768",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Supertransporte alerta por revisiones técnico-mecánicas ‘exprés’: podría terminar recibiendo una multa",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "La marca Eddie Bauer planea cuatro locales nuevos en Colombia y dinamiza su crecimiento",
+        "url": "https://www.portafolio.co/negocios/empresas/la-marca-eddie-bauer-proyecta-cuatro-nuevas-tiendas-en-colombia-y-acelera-su-expansion-502771",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "La marca Eddie Bauer proyecta cuatro nuevas tiendas en Colombia y acelera su expansión",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "Trulab alcanza más de ochocientas empresas asesoradas y mueve sobre siete millones de dólares",
+        "url": "https://www.portafolio.co/negocios/inversion/trulab-supera-800-empresas-acompanadas-y-moviliza-mas-de-us-7-millones-para-fortalecer-negocios-502769",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Trulab supera 800 empresas acompañadas y moviliza más de US$7 millones para fortalecer negocios",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
+      {
+        "titulo": "SIC conserva indagación a Caracol Radio por presunta integración empresarial con Canal Uno",
+        "url": "https://www.portafolio.co/negocios/empresas/sic-mantiene-investigacion-contra-caracol-radio-por-posible-integracion-empresarial-con-canal-uno-502765",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "SIC mantiene investigación contra Caracol Radio por posible integración empresarial con Canal Uno",
+        "capturado": "2026-09-17T17:20:19-05:00"
+      },
       {
         "titulo": "Alza en presupuesto de colombianos para Amor y Amistad con mayor inclinación hacia vivencias",
         "url": "https://www.portafolio.co/negocios/comercio/colombianos-gastaran-mas-en-amor-y-amistad-pero-cada-vez-prefieren-invertir-en-experiencias-502760",
@@ -1154,56 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-14",
         "titulo_fuente": "Air Europa será la empresa encargada de conectar Barranquilla con Madrid: a partir de esta fecha serán los vuelos",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Mintrabajo inspeccionará local de Zara en Bogotá para revisar el ámbito laboral",
-        "url": "https://www.portafolio.co/negocios/empresas/ministerio-del-trabajo-hara-inspeccion-en-tienda-zara-en-bogota-para-verificar-condiciones-laborales-502450",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Ministerio del Trabajo hará inspección en tienda Zara en Bogotá para verificar condiciones laborales",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Las apuestas de Credicorp en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/las-apuestas-de-credicorp-en-colombia-502445",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Las apuestas de Credicorp en Colombia",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Dian prepara ajustes aduaneros: fiscalización a equipos y facilidades para gas",
-        "url": "https://www.portafolio.co/negocios/comercio/dian-alista-cambios-aduaneros-mas-controles-a-maquinaria-y-drones-y-facilidades-para-importar-gas-natural-licuado-502437",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Dian alista cambios aduaneros: más controles a maquinaria y drones y facilidades para importar gas natural licuado",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Bancolombia e Ísimo se unen para dar efectivo en más de 300 locales",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-tiendas-isimo-se-alian-para-ofrecer-retiros-de-efectivo-en-mas-de-300-puntos-502429",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Bancolombia y Tiendas Ísimo se alían para ofrecer retiros de efectivo en más de 300 puntos",
-        "capturado": "2026-09-14T11:47:11-05:00"
-      },
-      {
-        "titulo": "Buscamos mostrar que Perú es más que Machu Picchu: arranca Perú Week acá",
-        "url": "https://www.portafolio.co/negocios/nuestro-interes-es-que-el-colombiano-conozca-que-somos-mucho-mas-que-machu-picchu-inicia-peru-week-en-colombia-502419",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "'Nuestro interés es que el colombiano conozca que somos mucho más que Machu Picchu': inicia Perú Week en Colombia",
         "capturado": "2026-09-14T11:47:11-05:00"
       }
     ]
