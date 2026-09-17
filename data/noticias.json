@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-17T05:16:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-17T10:11:06-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo presentará 100 iniciativas en Nueva York para captar capital extranjero hacia Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-llevara-100-proyectos-a-nueva-york-para-atraer-inversion-a-colombia-estos-son-los-proyectos-502736",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Gobierno llevará 100 proyectos a Nueva York para atraer inversión a Colombia: Estos son los proyectos",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Designan a Carlos Suárez, asesor de Abelardo De La Espriella, como presidente de la junta de Ecopetrol",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-carlos-suarez-estratega-de-abelardo-de-la-espriella-fue-elegido-presidente-de-la-junta-de-ecopetrol-502740",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Atención: Carlos Suárez, estratega de Abelardo De La Espriella, fue elegido presidente de la junta de Ecopetrol",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Dian busca 1,28 billones de pesos en retenciones morosas y ejecuta 35.500 embargos",
+        "url": "https://www.portafolio.co/economia/gobierno/dian-va-por-1-28-billones-en-retenciones-sin-pagar-ya-adelanto-35-500-embargos-502735",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Dian va por $1,28 billones en retenciones sin pagar: ya adelantó 35.500 embargos",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Un sector bogotano figura entre los 10 barrios más atractivos globalmente para el año 2026",
+        "url": "https://www.portafolio.co/economia/regiones/este-barrio-de-bogota-fue-elegido-entre-los-10-mas-cool-del-mundo-en-2026-conozca-el-iconico-sector-502727",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Este barrio de Bogotá fue elegido entre los 10 más ‘cool’ del mundo en 2026: conozca el icónico sector",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Mintrabajo advierte faltantes por 5 billones de pesos para cubrir mesadas al terminar 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/no-hay-plata-para-pagar-la-pension-a-los-colombianos-mintrabajo-senala-deficit-de-5-billones-para-cierre-de-502724",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "No hay plata para pagar la pensión a los Colombianos: Mintrabajo señala déficit de $5 billones para cierre de 2026",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Divisa europea baja en Colombia este 17 de septiembre y así se negocia su precio",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-cae-este-17-de-septiembre-asi-se-cotiza-la-moneda-europea-502723",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Euro hoy en Colombia cae este 17 de septiembre: así se cotiza la moneda europea",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Divisa arranca en tres mil ciento veintiséis con dieciséis tras alza de tasas en Estados Unidos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-17-de-septiembre-502722",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "El dólar en Colombia inicia con expectativas tras aumento de tasas en EE. UU.: divisa abrió en $3,126.16",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
       {
         "titulo": "Cerrar las EPS bajo intervención no solucionaría la crisis y elevaría la presión en el sistema",
         "url": "https://www.portafolio.co/economia/gobierno/liquidar-las-eps-intervenidas-no-resolveria-la-crisis-y-podria-aumentar-la-presion-sobre-el-sistema-502707",
@@ -533,79 +603,39 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Corte Constitucional publica fallo sobre la reforma pensional: qué quedó en firme y qué vuelve al Congreso",
         "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Advertencia por veintinueve billones trescientos mil millones de inversión pública frenados sin pago",
-        "url": "https://www.portafolio.co/economia/gobierno/alerta-por-29-3-billones-de-inversion-publica-que-estan-comprometidos-pero-siguen-sin-llegar-a-la-fase-de-pago-502542",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Alerta por $29,3 billones de inversión pública que están comprometidos, pero siguen sin llegar a la fase de pago",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "PIB: exministro José Manuel Restrepo propone estrategia para llegar al 6 por ciento con inversión",
-        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-va-por-un-crecimiento-del-pib-de-6-prepara-plan-para-atraer-inversion-nacional-y-extranjera-502554",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "PIB: Vicepresidente José Manuel Restrepo lanza plan para crecer al 6% basado en inversión nacional y extranjera",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: Ministerio de Hacienda objeta incremento de 23 por ciento y analistas calculan",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-minhacienda-cuestiona-alza-de-23-como-quedaria-segun-expertos-502546",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Salario mínimo 2027: Minhacienda cuestiona alza de 23%, cómo quedaría según expertos",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Contraloría halla anomalías por seis mil seiscientos cuarenta y tres millones en contrato bomberil",
-        "url": "https://www.portafolio.co/economia/gobierno/contraloria-detecto-irregularidades-por-6-643-millones-en-contrato-de-bomberos-de-bogota-502545",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Contraloría detectó irregularidades por $6.643 millones en contrato de Bomberos de Bogotá",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Primicia: La Guajira usará dineros de regalías para hacer la carretera entre Riohacha y Venezuela",
-        "url": "https://www.portafolio.co/economia/infraestructura/primicia-la-guajira-destinara-recursos-de-regalias-para-construir-la-via-que-conectara-riohacha-con-venezuela-502557",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Primicia: La Guajira destinará recursos de regalías para construir la vía que conectará Riohacha con Venezuela",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "El clima adverso entorpece las labores aéreas y terrestres tras el siniestro de la aeronave con cinco ocupantes",
-        "url": "https://www.portafolio.co/economia/regiones/avioneta-accidentada-con-cinco-personas-el-mal-tiempo-dificulta-el-operativo-por-aire-y-tierra-502536",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Avioneta accidentada con cinco personas: el mal tiempo dificulta el operativo por aire y tierra",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Más de $150 billones en riesgo para las grandes obras de infraestructura proyectadas en el país",
-        "url": "https://www.portafolio.co/economia/infraestructura/los-macroproyectos-de-infraestructura-en-colombia-para-los-proximos-anos-estan-comprometidos-mas-de-150-billones-502552",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Los macroproyectos de infraestructura en Colombia para los próximos años, están comprometidos más de $150 billones",
-        "capturado": "2026-09-15T13:22:42-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "GeoPark encabeza la disputa por un nuevo bloque petrolero en Neuquén para ampliar el fracking en Argentina",
+        "url": "https://www.portafolio.co/negocios/empresas/atencion-geopark-va-por-mas-fracking-en-argentina-lidera-la-puja-por-una-nueva-area-petrolera-en-neuquen-502730",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Atención, GeoPark va por más fracking en Argentina: lidera la puja por una nueva área petrolera en Neuquén",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "Afi Summit 2026 tendrá cobertura especial según Afidro",
+        "url": "https://www.portafolio.co/negocios/empresas/afidro-cubrimiento-especial-afi-summit-502729",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Afidro: Cubrimiento especial AFI Summit 2026",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
+      {
+        "titulo": "BeatHub Entertainment asume la operación total del Movistar Arena y se alista para una etapa de expansión",
+        "url": "https://www.portafolio.co/negocios/empresas/beathub-entertainment-consolida-el-100-del-movistar-arena-y-prepara-nueva-etapa-de-expansion-502726",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Movistar Arena pasa a ser operada 100% por BeatHub Entertainment y se prepara para una nueva etapa de expansión",
+        "capturado": "2026-09-17T10:11:06-05:00"
+      },
       {
         "titulo": "Matriculas de automotores nuevos terminaran este ano cerca de 330000 unidades",
         "url": "https://www.portafolio.co/negocios/vehiculo/este-ano-cierra-con-unos-330-000-vehiculos-nuevos-502709",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-12",
         "titulo_fuente": "Libros importados cuestan hasta 30% menos: así impacta la revaluación del peso al sector editorial",
         "capturado": "2026-09-12T18:53:04-05:00"
-      },
-      {
-        "titulo": "Copilot de Word, Excel y PowerPoint integra la IA Grok creada por Elon Musk",
-        "url": "https://www.portafolio.co/negocios/empresas/microsoft-incorpora-la-ia-grok-de-elon-musk-a-copilot-para-word-excel-y-powerpoint-502377",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Microsoft incorpora la IA Grok de Elon Musk a Copilot para Word, Excel y PowerPoint",
-        "capturado": "2026-09-12T16:56:38-05:00"
-      },
-      {
-        "titulo": "De esta forma Tiendas D1 transforma sus cajas en cajeros de retiro en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-es-como-tiendas-d1-esta-convirtiendo-sus-cajas-en-puntos-para-retirar-efectivo-en-colombia-502378",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Así es como Tiendas D1 está convirtiendo sus cajas en puntos para retirar efectivo en Colombia",
-        "capturado": "2026-09-12T16:56:38-05:00"
-      },
-      {
-        "titulo": "Ocho firmas de Bogotá participan en las pasarelas de la Semana de la Moda de Nueva York 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/ocho-marcas-bogotanas-desfilan-en-la-semana-de-la-moda-de-nueva-york-502376",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-12",
-        "titulo_fuente": "Ocho marcas bogotanas desfilan en la Semana de la Moda de Nueva York 2026",
-        "capturado": "2026-09-12T16:56:38-05:00"
       }
     ]
   }
