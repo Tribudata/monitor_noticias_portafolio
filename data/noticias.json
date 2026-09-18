@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-18T13:05:30-05:00",
+  "actualizado": "2026-09-18T16:06:45-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo entregará subsidio del 40% del salario mínimo por empleado a mipymes afectadas por el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-dara-apoyo-de-40-de-un-salario-minimo-por-trabajador-a-mipymes-golpeadas-por-el-sismo-502835",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Gobierno dará apoyo de 40% de un salario mínimo por trabajador a mipymes golpeadas por el terremoto",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
+      {
+        "titulo": "La divisa colombiana sobresale globalmente: la ruta para figurar entre las más apreciadas de 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/el-peso-colombiano-destaca-en-el-mundo-como-llego-a-ser-una-de-las-monedas-mas-fuertes-de-502832",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "El peso colombiano destaca en el mundo: ¿cómo llegó a ser una de las monedas más fuertes de 2026?",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
       {
         "titulo": "Abelardo De La Espriella informa que David Vélez será su asesor en estrategia de IA para achicar el Estado",
         "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-que-david-velez-lo-asesorara-en-plan-de-ia-para-reducir-el-estado-colombiano-502823",
@@ -583,29 +603,59 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "IFC invertirá US$2.000 millones en Colombia, duplicando su apuesta por el país",
         "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: proyección con alzas de 6%, 7% y 8% a partir del monto vigente",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-asi-quedaria-con-aumentos-de-6-7-y-8-desde-el-valor-actual-502663",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Salario mínimo 2027: así quedaría con aumentos de 6%, 7% y 8% desde el valor actual",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Deuda pública sufre presión por alta emisión y un déficit fiscal que rondaría el 10% del PIB",
-        "url": "https://www.portafolio.co/economia/deuda-publica-enfrenta-presion-por-mayor-emision-y-un-deficit-fiscal-que-podria-acercarse-al-10-del-pib-502662",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Deuda pública enfrenta presión por mayor emisión y un déficit fiscal que podría acercarse al 10% del PIB",
-        "capturado": "2026-09-16T16:53:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Makro anuncia descuentos de hasta 60% por Amor y Amistad en artículos con vigencia hasta el 24 de septiembre",
+        "url": "https://www.portafolio.co/negocios/empresas/ofertas-de-hasta-60-por-amor-y-amistad-en-makro-estos-son-los-productos-con-rebaja-hasta-el-24-de-septiembre-502836",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Ofertas de hasta 60% por Amor y Amistad en Makro: estos son los productos con rebaja hasta el 24 de septiembre",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
+      {
+        "titulo": "Bogotá prevé incremento de 16% en gasto en restaurantes por Amor y Amistad, impulsando el sector",
+        "url": "https://www.portafolio.co/negocios/comercio/restaurantes-lideran-el-consumo-de-amor-y-amistad-con-alza-proyectada-de-16-en-bogota-este-ano-502833",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Restaurantes lideran el consumo de Amor y Amistad con alza proyectada de 16% en Bogotá este año",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
+      {
+        "titulo": "Newsweek 2027 ubica a la Fundación Santa Fe como primera en Colombia en oncología, nefrología y gastroenterología",
+        "url": "https://www.portafolio.co/negocios/empresas/fundacion-santa-fe-lidera-en-colombia-en-gastroenterologia-nefrologia-y-oncologia-segun-newsweek-502831",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Fundación Santa Fe lidera en Colombia en gastroenterología, nefrología y oncología, según Newsweek 2027",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
+      {
+        "titulo": "Francisco Martínez, creador de Arquitectura y Concreto: Trato de verle lo bueno a cualquier situación mala",
+        "url": "https://www.portafolio.co/negocios/empresas/trato-de-verle-lo-bueno-a-cualquier-situacion-mala-francisco-martinez-fundador-de-arquitectura-y-concreto-502830",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "'Trato de verle lo bueno a cualquier situación mala': Francisco Martínez, fundador de Arquitectura y Concreto",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
+      {
+        "titulo": "Lili Pink rechaza nuevas reglas de extinción de dominio señalando afectación a bienes externos a la firma",
+        "url": "https://www.portafolio.co/negocios/comercio/lili-pink-cuestiona-nuevas-medidas-de-extincion-de-dominio-y-dice-que-afectan-bienes-ajenos-a-la-marca-502826",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Lili Pink cuestiona nuevas medidas de extinción de dominio y dice que afectan bienes ajenos a la marca",
+        "capturado": "2026-09-18T16:06:45-05:00"
+      },
       {
         "titulo": "Nu Colombia planea cinco billones de pesos para afianzar su servicio digital",
         "url": "https://www.portafolio.co/negocios/empresas/nu-colombia-proyecta-5-billones-en-inversion-para-fortalecer-su-operacion-digital-502824",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Exportadores alertan por competencia desleal de Shein y Temu y piden más control de la Dian",
         "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Alfonso Camilo Barco tomará la presidencia temporal de Ecopetrol tras la renuncia de Juan Carlos Hurtado",
-        "url": "https://www.portafolio.co/negocios/empresas/alfonso-camilo-barco-asumira-la-presidencia-encargada-de-ecopetrol-tras-salida-de-juan-carlos-hurtado-502513",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Alfonso Camilo Barco asumirá la presidencia encargada de Ecopetrol tras salida de Juan Carlos Hurtado",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Portafolio nombra a José Caparroso como su nuevo director",
-        "url": "https://www.portafolio.co/negocios/empresas/portafolio-anuncia-a-jose-caparroso-como-su-nuevo-director-502499",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Portafolio anuncia a José Caparroso como su nuevo director",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Los propietarios de Koaj inician confrontación directa frente a las aplicaciones Temu y Shein",
-        "url": "https://www.portafolio.co/negocios/comercio/los-duenos-de-koaj-emprenden-lucha-frontal-contra-las-plataformas-temu-y-shein-502505",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Los dueños de Koaj emprenden lucha frontal contra las plataformas Temu y Shein",
-        "capturado": "2026-09-14T22:33:39-05:00"
-      },
-      {
-        "titulo": "Frente a la modificación prevista en Ecopetrol, estos son los puntos clave de un directorio clave",
-        "url": "https://www.portafolio.co/negocios/empresas/a-proposito-del-cambio-que-viene-para-ecopetrol-estas-son-las-claves-detras-de-una-junta-directiva-estrategica-502498",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "A propósito del cambio que viene para Ecopetrol: estas son las claves detrás de una junta directiva estratégica",
-        "capturado": "2026-09-14T22:33:39-05:00"
-      },
-      {
-        "titulo": "Banasan posee cupo para 15 millones de cajas y apunta a expandirse pese a los desafíos bananeros",
-        "url": "https://www.portafolio.co/negocios/empresas/banasan-tiene-capacidad-para-15-millones-de-cajas-y-busca-crecer-pese-a-los-retos-del-banano-502493",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Banasan tiene capacidad para 15 millones de cajas y busca crecer pese a los retos del banano",
-        "capturado": "2026-09-14T18:41:39-05:00"
       }
     ]
   }
