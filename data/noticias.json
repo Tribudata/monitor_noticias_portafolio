@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-17T19:37:18-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-18T00:33:57-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno revela gran estrategia de inversión en La Guajira para agua, vivienda, salud, vías y turismo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-plan-de-inversion-millonario-en-la-guajira-con-recursos-para-agua-vivienda-salud-vias-y-turismo-502793",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Gobierno anuncia plan de inversión millonario en La Guajira con recursos para agua, vivienda, salud, vías y turismo",
+        "capturado": "2026-09-18T00:33:57-05:00"
+      },
+      {
+        "titulo": "Empresas fintech de Colombia destinarán 4,3 billones de pesos en un año para fomentar innovación digital",
+        "url": "https://www.portafolio.co/economia/fintechs-colombianas-invertiran-4-3-billones-en-el-proximo-ano-para-impulsar-la-innovacion-tecnologica-en-el-pais-502792",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Fintechs colombianas invertirán $4,3 billones en el próximo año para impulsar la innovación tecnológica en el país",
+        "capturado": "2026-09-18T00:33:57-05:00"
+      },
+      {
+        "titulo": "Sector fintech será clave en la administración actual, afirmó José Manuel Restrepo",
+        "url": "https://www.portafolio.co/economia/gobierno/fintech-jugara-un-papel-protagonico-en-el-gobierno-aseguro-jose-manuel-restrepo-502790",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Fintech \"jugará un papel protagónico\" en el Gobierno, aseguró José Manuel Restrepo",
+        "capturado": "2026-09-18T00:33:57-05:00"
+      },
       {
         "titulo": "Salvación Nacional busca quitar $100.000 millones a la JEP para pasarlos a la Rama Judicial",
         "url": "https://www.portafolio.co/economia/gobierno/salvacion-nacional-propone-quitar-100-000-millones-a-la-jep-y-trasladarlos-a-la-rama-judicial-502789",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Impuestos saludables enfrentan nuevo pulso en Colombia por su efecto en consumo, recaudo y pequeños comercios",
         "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Satena efectúa su quinto vuelo humanitario al Pacífico y acumula más de 60 toneladas de ayuda post terremoto",
-        "url": "https://www.portafolio.co/economia/regiones/satena-completa-el-quinto-vuelo-humanitario-al-pacifico-y-completa-mas-de-60-toneladas-de-ayuda-tras-el-terremoto-502593",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Satena completa el quinto vuelo humanitario al Pacífico y completa más de 60 toneladas de ayuda tras el terremoto",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Minsalud desembolsa fondos a 7.668 internos de medicina y detalla demoras en ciertos pagos en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-gira-recursos-a-7-668-internos-de-medicina-y-explica-por-que-algunos-pagos-siguen-pendientes-en-colombia-502615",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Minsalud gira recursos a 7.668 internos de medicina y explica por qué algunos pagos siguen pendientes en Colombia",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Embalses de Ranchería abrirían paso a capital israelí para renovar la agricultura en La Guajira",
-        "url": "https://www.portafolio.co/economia/agro/represas-de-rancheria-podrian-abrir-la-puerta-a-inversion-israeli-para-transformar-el-agro-de-la-guajira-502612",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Represas de Ranchería podrían abrir la puerta a inversión israelí para transformar el agro de La Guajira",
-        "capturado": "2026-09-16T09:36:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Juan Esteban Orrego es designado como el nuevo presidente de la Cámara de Comercio de Bogotá",
+        "url": "https://www.portafolio.co/negocios/comercio/camara-de-comercio-de-bogota-elige-a-juan-esteban-orrego-como-su-nuevo-presidente-502791",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Cámara de Comercio de Bogotá elige a Juan Esteban Orrego como su nuevo presidente",
+        "capturado": "2026-09-18T00:33:57-05:00"
+      },
       {
         "titulo": "Cobertura AFI con Catalina Ricaurte gerente de Merck y presidenta de la junta directiva de Afidro",
         "url": "https://www.portafolio.co/negocios/empresas/cubrimiento-afi-con-catalina-ricaurte-gerente-de-merck-y-presidente-de-la-junta-directiva-de-afidro-502775",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "Bre-B se dispara en los comercios: llaves activas crecen 77% y mueven $3,2 billones",
         "capturado": "2026-09-14T15:44:56-05:00"
-      },
-      {
-        "titulo": "Air Europa operará la ruta Barranquilla-Madrid desde la fecha anunciada",
-        "url": "https://www.portafolio.co/negocios/empresas/air-europa-sera-la-empresa-encargada-de-conectar-barranquilla-con-madrid-a-partir-de-esta-fecha-seran-los-vuelos-502456",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Air Europa será la empresa encargada de conectar Barranquilla con Madrid: a partir de esta fecha serán los vuelos",
-        "capturado": "2026-09-14T11:47:11-05:00"
       }
     ]
   }
