@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-18T05:37:54-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-18T09:47:38-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno expide incentivos para atraer capital a zonas del sismo y Hacienda vigilará sus efectos",
+        "url": "https://www.portafolio.co/economia/decreto-crea-alivios-para-atraer-inversion-en-zonas-afectadas-por-el-terremoto-pero-hacienda-vigilara-su-impacto-502812",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Decreto crea alivios para atraer inversión en zonas afectadas por el terremoto, pero Hacienda vigilará su impacto",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "CEO en Colombia de Revolut anuncia el lanzamiento de cuentas conjuntas y para menores de edad",
+        "url": "https://www.portafolio.co/economia/finanzas/revolut-lanzara-en-colombia-cuentas-para-ninos-y-cuentas-conjuntas-para-parejas-revela-su-ceo-en-el-pais-502809",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Revolut lanzará en Colombia cuentas para niños y cuentas conjuntas para parejas, revela su CEO en el país",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "Sector floricultor solicita ayudas estatales por costos elevados, tasa de cambio y freno exportador",
+        "url": "https://www.portafolio.co/economia/agro/floricultura-pide-oxigeno-al-gobierno-ante-alza-de-costos-peso-fuerte-y-presion-sobre-sus-exportaciones-502808",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Floricultura pide oxígeno al Gobierno ante alza de costos, peso fuerte y presión sobre sus exportaciones",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del euro en Colombia: divisa sube más de $43 y ronda los $3.630 este 18 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-moneda-europea-sube-mas-de-43-y-se-acerca-a-los-3-630-este-18-de-septiembre-502807",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Euro hoy en Colombia: moneda europea sube más de $43 y se acerca a los $3.630 este 18 de septiembre",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella propone fusionar y suprimir carteras ministeriales sin aval del Congreso",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-busca-fusionar-y-eliminar-ministerios-sin-aprobacion-del-congreso-502805",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Abelardo De La Espriella busca fusionar y eliminar ministerios sin aprobación del Congreso",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar en Colombia sube: divisa arrancó al alza la jornada de este 18 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/asi-se-comporta-el-precio-del-dolar-en-colombia-tras-el-aumento-de-las-tasas-de-interes-en-los-estados-unidos-502804",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Precio del dólar en Colombia se disparó: divisa comenzó al jornada de este 18 de septiembre al alza",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
+      {
+        "titulo": "Tribunal detiene nuevo esquema de pasaportes y Cancillería usa urgencia manifiesta para prevenir paradas",
+        "url": "https://www.portafolio.co/economia/gobierno/fallo-judicial-frena-nuevo-modelo-de-pasaportes-y-cancilleria-activa-urgencia-manifiesta-para-evitar-interrupciones-502803",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Fallo judicial frena nuevo modelo de pasaportes y Cancillería activa urgencia manifiesta para evitar interrupciones",
+        "capturado": "2026-09-18T09:47:38-05:00"
+      },
       {
         "titulo": "Gobierno revela gran estrategia de inversión en La Guajira para agua, vivienda, salud, vías y turismo",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-plan-de-inversion-millonario-en-la-guajira-con-recursos-para-agua-vivienda-salud-vias-y-turismo-502793",
@@ -532,76 +602,6 @@
         "subseccion": "Regiones",
         "publicacion": "2026-09-16",
         "titulo_fuente": "Radar de $41.400 millones de la Aeronáutica Civil fue atacado con drones en el Valle: esto dijo la entidad",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Advertencia en terminales aéreas: IATA indica inminente congestión en Bogotá y Barranquilla y exige ampliación",
-        "url": "https://www.portafolio.co/economia/alerta-en-aeropuertos-la-iata-senala-posible-saturacion-en-barranquilla-y-bogota-pide-expansion-fisica-502655",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Alerta en aeropuertos: la IATA señala posible saturación en Barranquilla y Bogotá, pide expansión física",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Embajadora colombiana en Estados Unidos endosa al gobierno pasado el empeoramiento de la seguridad y el narcotráfico",
-        "url": "https://www.portafolio.co/economia/gobierno/embajadora-de-colombia-en-ee-uu-atribuye-al-anterior-gobierno-el-deterioro-de-la-seguridad-y-la-lucha-antidrogas-502633",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Embajadora de Colombia en EE. UU. atribuye al anterior Gobierno el deterioro de la seguridad y la lucha antidrogas",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Analistas prevén posibles movimientos en las tasas del Emisor para el cierre de mes",
-        "url": "https://www.portafolio.co/economia/finanzas/cuanto-podria-subir-o-bajar-las-tasas-de-interes-el-banco-de-la-republica-en-el-fin-de-mes-esto-dicen-expertos-502629",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas, brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "¿Cuánto podría subir o bajar las tasas de interés el Banco de la República en el fin de mes? Esto dicen expertos",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "dale! ya comercializa dólares y euros digitales mediante su sistema",
-        "url": "https://www.portafolio.co/economia/finanzas/dale-empieza-a-ofrecer-dolares-y-euros-digitales-en-su-plataforma-502634",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "dale! empieza a ofrecer dólares y euros digitales en su plataforma",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Washington afirma que Colombia se encuentra lista para liderar de nuevo en seguridad regional",
-        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-dice-que-colombia-esta-preparada-para-retomar-su-posicion-como-principal-socio-en-seguridad-en-la-region-502632",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "EE. UU. dice que Colombia está preparada para retomar su posición como principal socio en seguridad en la región",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Estados Unidos conserva a Colombia en su lista negra antidrogas y da un plazo de doce meses para ver avances",
-        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-mantiene-a-colombia-en-su-lista-negra-antidrogas-y-fija-un-ano-para-que-el-pais-demuestre-resultados-502624",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "EE. UU. mantiene a Colombia en su lista negra antidrogas y fija un año para que el país demuestre resultados",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Tributos saludables generan un nuevo debate en el país debido a su impacto en ventas, recaudación y negocios",
-        "url": "https://www.portafolio.co/economia/finanzas/impuestos-saludables-enfrentan-nuevo-pulso-en-colombia-por-su-efecto-en-consumo-recaudo-y-pequenos-comercios-502621",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Impuestos saludables enfrentan nuevo pulso en Colombia por su efecto en consumo, recaudo y pequeños comercios",
         "capturado": "2026-09-16T13:39:36-05:00"
       }
     ],
