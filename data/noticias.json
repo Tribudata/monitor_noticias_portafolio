@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-18T09:47:38-05:00",
+  "actualizado": "2026-09-18T13:05:30-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Abelardo De La Espriella informa que David Vélez será su asesor en estrategia de IA para achicar el Estado",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-que-david-velez-lo-asesorara-en-plan-de-ia-para-reducir-el-estado-colombiano-502823",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Abelardo De La Espriella anuncia que David Vélez lo asesorará en plan de IA para reducir el Estado colombiano",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
+      {
+        "titulo": "Ministerio de Salud asigna 1,95 billones de pesos para restaurar hospitales afectados por sismo de agosto",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-destina-1-95-billones-para-recuperar-la-red-hospitalaria-danada-por-el-terremoto-de-agosto-en-colombia-502820",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Minsalud destina $1,95 billones para recuperar la red hospitalaria dañada por el terremoto de agosto en Colombia",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
+      {
+        "titulo": "Repunte de la economía nacional se redujo a 1,11 por ciento durante el séptimo mes del año",
+        "url": "https://www.portafolio.co/economia/economia-colombiana-modero-su-crecimiento-en-julio-al-ubicarse-en-1-502819",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Economía colombiana moderó su crecimiento en julio al ubicarse en 1,11%",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
+      {
+        "titulo": "elempleo y Hunty establecen nueva etapa para los procesos de contratación laboral",
+        "url": "https://www.portafolio.co/economia/empleo/elempleo-hunty-una-nueva-era-para-el-reclutamiento-502815",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "elempleo + Hunty: una nueva era para el reclutamiento",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
+      {
+        "titulo": "TransMiCable de San Cristóbal alcanza 94 por ciento de obra y recortará 72 por ciento de tiempos de viaje",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-transmicable-de-san-cristobal-llega-al-94-de-avance-y-reducira-72-los-tiempos-de-viaje-en-bogota-502816",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "El TransMiCable de San Cristóbal llega al 94 % de avance y reducirá 72 % los tiempos de viaje en Bogotá",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
       {
         "titulo": "Gobierno expide incentivos para atraer capital a zonas del sismo y Hacienda vigilará sus efectos",
         "url": "https://www.portafolio.co/economia/decreto-crea-alivios-para-atraer-inversion-en-zonas-afectadas-por-el-terremoto-pero-hacienda-vigilara-su-impacto-502812",
@@ -553,59 +603,29 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Deuda pública enfrenta presión por mayor emisión y un déficit fiscal que podría acercarse al 10% del PIB",
         "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Búsquedas de vuelos a Colombia desde Costa Rica, Ecuador y México rebasan 50% con 2,3 millones de reservas",
-        "url": "https://www.portafolio.co/economia/busquedas-de-vuelos-hacia-colombia-desde-costa-rica-ecuador-y-mexico-superan-el-50-son-2-3-millones-de-reservas-502657",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Búsquedas de vuelos hacia Colombia desde Costa Rica, Ecuador y México superan el 50%, son 2,3 millones de reservas",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027: administración nacional pretende garantizar fondos para levantar 10 megacárceles",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-gobierno-busca-asegurar-los-recursos-para-construir-10-megacarceles-en-colombia-502659",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Presupuesto 2027: Gobierno busca asegurar los recursos para construir 10 megacárceles en Colombia",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "De La Espriella ratifica el fallecimiento de los pasajeros de aeronave siniestrada en Chocó hallada sin personas",
-        "url": "https://www.portafolio.co/economia/regiones/de-la-espriella-confirma-la-muerte-de-todos-los-ocupantes-de-avioneta-accidentada-en-choco-que-se-localizo-vacia-502648",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "De La Espriella confirma la muerte de todos los ocupantes de avioneta accidentada en Chocó que se localizó vacía",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Convenios de RTVC crecieron 1.108% de 2023 a 2025, de acuerdo con estudio del Observatorio Fiscal Javeriano",
-        "url": "https://www.portafolio.co/economia/contratos-de-rtvc-aumentaron-1-108-entre-2023-y-2025-segun-analisis-del-observatorio-fiscal-javeriano-502647",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Contratos de RTVC aumentaron 1.108% entre 2023 y 2025, según análisis del Observatorio Fiscal Javeriano",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Radar de 41.400 millones de la Aeronáutica Civil sufrió ataque con drones en el Valle: informó la entidad",
-        "url": "https://www.portafolio.co/economia/regiones/radar-de-41-400-millones-de-la-aeronautica-civil-fue-atacado-con-drones-en-el-valle-esto-dijo-la-entidad-502638",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Radar de $41.400 millones de la Aeronáutica Civil fue atacado con drones en el Valle: esto dijo la entidad",
-        "capturado": "2026-09-16T13:39:36-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nu Colombia planea cinco billones de pesos para afianzar su servicio digital",
+        "url": "https://www.portafolio.co/negocios/empresas/nu-colombia-proyecta-5-billones-en-inversion-para-fortalecer-su-operacion-digital-502824",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Nu Colombia proyecta $5 billones en inversión para fortalecer su operación digital",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
+      {
+        "titulo": "Nubank respaldará al Gobierno De La Espriella en la digitalización con IA según Restrepo",
+        "url": "https://www.portafolio.co/negocios/empresas/nubank-apoyara-al-gobierno-de-la-espriella-en-la-modernizacion-del-estado-con-ia-restrepo-hablo-con-david-velez-502821",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Nubank apoyará al Gobierno De La Espriella en la modernización del Estado con IA: Restrepo habló con David Vélez",
+        "capturado": "2026-09-18T13:05:30-05:00"
+      },
       {
         "titulo": "Juan Esteban Orrego es designado como el nuevo presidente de la Cámara de Comercio de Bogotá",
         "url": "https://www.portafolio.co/negocios/comercio/camara-de-comercio-de-bogota-elige-a-juan-esteban-orrego-como-su-nuevo-presidente-502791",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-14",
         "titulo_fuente": "Banasan tiene capacidad para 15 millones de cajas y busca crecer pese a los retos del banano",
         "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "La colombiana MozartAI aterriza en México luego de afianzarse en cuatro plazas y busca automatizar salud",
-        "url": "https://www.portafolio.co/negocios/empresas/colombiana-mozartai-llega-a-mexico-tras-consolidarse-en-cuatro-mercados-y-apuesta-por-automatizar-el-sector-salud-502490",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Colombiana MozartAI llega a México tras consolidarse en cuatro mercados y apuesta por automatizar el sector salud",
-        "capturado": "2026-09-14T18:41:39-05:00"
-      },
-      {
-        "titulo": "Comercios impulsan Bre-B: llaves activas aumentan 77% y mueven 3,2 billones de pesos",
-        "url": "https://www.portafolio.co/negocios/comercio/bre-b-se-dispara-en-los-comercios-llaves-activas-crecen-77-y-mueven-3-2-billones-502484",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-14",
-        "titulo_fuente": "Bre-B se dispara en los comercios: llaves activas crecen 77% y mueven $3,2 billones",
-        "capturado": "2026-09-14T15:44:56-05:00"
       }
     ]
   }
