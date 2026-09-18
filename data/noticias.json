@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-17T17:20:19-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-17T19:37:18-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Salvación Nacional busca quitar $100.000 millones a la JEP para pasarlos a la Rama Judicial",
+        "url": "https://www.portafolio.co/economia/gobierno/salvacion-nacional-propone-quitar-100-000-millones-a-la-jep-y-trasladarlos-a-la-rama-judicial-502789",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Salvación Nacional propone quitar $100.000 millones a la JEP y trasladarlos a la Rama Judicial",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "Concejal David Quintero critica la oposición de Enel a su plan de soterrar cables",
+        "url": "https://www.portafolio.co/economia/gobierno/concejal-david-quintero-cuestiona-oposicion-de-enel-a-su-propuesta-de-enterrar-cables-esto-dijo-la-empresa-502786",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Concejal David Quintero cuestiona oposición de Enel a su propuesta de enterrar cables: esto dijo la empresa",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "La calidad de cartera bancaria sigue mejorando y llegó a 3,8% en julio",
+        "url": "https://www.portafolio.co/economia/finanzas/la-salud-de-la-cartera-entre-los-establecimientos-de-credito-sigue-mejorando-y-se-coloco-en-el-3-8-en-julio-502788",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "La salud de la cartera entre los establecimientos de crédito sigue mejorando y se colocó en el 3,8% en julio",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "ISE de julio: analistas prevén desaceleración económica tras el 3,5% de junio",
+        "url": "https://www.portafolio.co/economia/ise-de-julio-analistas-anticipan-una-moderacion-de-la-economia-tras-el-crecimiento-de-3-5-en-junio-502787",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "ISE de julio: analistas anticipan una moderación de la economía tras el crecimiento de 3,5% en junio",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "Puntos de vista del Congreso sobre la normalización del sistema de salud",
+        "url": "https://www.portafolio.co/economia/gobierno/perspectivas-del-congreso-de-la-republica-sobre-la-estabilizacion-del-sistema-de-salud-502784",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Perspectivas del Congreso de la República sobre la estabilización del sistema de salud",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "Girare la pensión de noviembre y diciembre a colombianos: primer reto en Colpensiones",
+        "url": "https://www.portafolio.co/economia/gobierno/pagar-a-los-colombianos-la-pension-de-noviembre-y-diciembre-primer-reto-del-nuevo-presidente-de-colpensiones-502779",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Pagar a los colombianos la pensión de noviembre y diciembre: primer reto del nuevo presidente de Colpensiones",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
+      {
+        "titulo": "Vicepresidente señala al Gobierno Petro por legar un presupuesto falso ante trabas para pagar pensiones",
+        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-acusa-al-gobierno-petro-de-dejar-un-presupuesto-de-mentiras-tras-dificultades-de-pago-de-pensiones-502772",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-17",
+        "titulo_fuente": "Vicepresidente acusa al Gobierno Petro de dejar un 'presupuesto de mentiras' tras dificultades de pago de pensiones",
+        "capturado": "2026-09-17T19:37:18-05:00"
+      },
       {
         "titulo": "Especialistas económicos completan medio año al alza su pronóstico inflacionario para este diciembre",
         "url": "https://www.portafolio.co/economia/crecimiento/analistas-financieros-llevan-seis-meses-incrementando-su-proyeccion-de-inflacion-para-diciembre-de-este-ano-502781",
@@ -533,76 +603,6 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Represas de Ranchería podrían abrir la puerta a inversión israelí para transformar el agro de La Guajira",
         "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Cotización del euro en Colombia hoy: aumenta y se ubica en $3.595 este 16 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-sube-y-se-cotiza-en-3-595-este-16-de-septiembre-502614",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Precio del euro hoy en Colombia: sube y se cotiza en $3.595 este 16 de septiembre",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Norma de sometimiento en el país: administración establece pautas y rechaza excarcelaciones",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-sometimiento-en-colombia-gobierno-fija-reglas-y-descarta-excarcelaciones-502611",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Ley de sometimiento en Colombia: Gobierno fija reglas y descarta excarcelaciones",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Continúan tensiones en Ecopetrol: jefe de Junta señala anomalías y establece tres metas operativas",
-        "url": "https://www.portafolio.co/economia/gobierno/siguen-las-tensiones-en-ecopetrol-presidente-de-junta-denuncia-irregularidades-y-fija-tres-prioridades-operativas-502610",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Siguen las tensiones en Ecopetrol: presidente de Junta denuncia irregularidades y fija tres prioridades operativas",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "El costo de la divisa estadounidense en el país arrancó la sesión de hoy 16 de septiembre con alza de $10",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-16-de-septiembre-502609",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Precio del dólar en Colombia inició la jornada de este 16 de septiembre $10 más caro",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Artículos de Epa Colombia reciben sanción de $140 millones por violar regulaciones de comercio digital",
-        "url": "https://www.portafolio.co/economia/gobierno/esto-fue-lo-que-epa-no-informo-a-sus-clientes-y-que-termino-en-una-multa-de-140-millones-por-parte-de-la-sic-502608",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Productos de Epa Colombia enfrentan multa de $140 millones por incumplir normas en ventas por internet",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Nómina digital en 2026: el desafío consiste en calcular correctamente",
-        "url": "https://www.portafolio.co/economia/empleo/nomina-electronica-en-2026-el-reto-es-hacer-bien-las-cuentas-502607",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Nómina electrónica en 2026: el reto es hacer bien las cuentas",
-        "capturado": "2026-09-15T23:36:57-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella enfoca 187 obras locales por $515.000 millones en ocho departamentos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-prioriza-187-proyectos-regionales-por-515-000-millones-en-ocho-departamentos-del-pais-502604",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Gobierno De La Espriella prioriza 187 proyectos regionales por $515.000 millones en ocho departamentos del país",
-        "capturado": "2026-09-15T23:36:57-05:00"
       }
     ],
     "Negocios": [
