@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-18T16:06:45-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-18T18:28:37-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Causas del alza del dólar tras el incremento de tasas de la FED en USA según analista",
+        "url": "https://www.portafolio.co/economia/finanzas/por-que-el-dolar-ha-subido-desde-que-la-fed-aumento-la-tasa-de-interes-en-estados-unidos-esto-dice-experto-502837",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "¿Por qué el dólar ha subido desde que la FED aumentó la tasa de interés en Estados Unidos? Esto dice experto",
+        "capturado": "2026-09-18T18:28:37-05:00"
+      },
       {
         "titulo": "Ejecutivo entregará subsidio del 40% del salario mínimo por empleado a mipymes afectadas por el sismo",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-dara-apoyo-de-40-de-un-salario-minimo-por-trabajador-a-mipymes-golpeadas-por-el-sismo-502835",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "2026-09-16",
         "titulo_fuente": "Corte pide a Contraloría revisar giros de ayudas humanitarias tras fallas en entrega a víctimas del conflicto",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "IFC destinará US$2.000 millones a Colombia y duplica así su inversión en el territorio nacional",
-        "url": "https://www.portafolio.co/economia/ifc-invertira-us-2-000-millones-en-colombia-duplicando-su-apuesta-por-el-pais-502668",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "IFC invertirá US$2.000 millones en Colombia, duplicando su apuesta por el país",
         "capturado": "2026-09-16T16:53:22-05:00"
       }
     ],
