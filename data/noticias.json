@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-18T20:29:18-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T01:30:16-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Consulte y baje acá la versión virtual de Portafolio fin de semana",
+        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-502853",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
+        "capturado": "2026-09-19T01:30:16-05:00"
+      },
       {
         "titulo": "Causas del alza del dólar tras el incremento de tasas de la FED en USA según analista",
         "url": "https://www.portafolio.co/economia/finanzas/por-que-el-dolar-ha-subido-desde-que-la-fed-aumento-la-tasa-de-interes-en-estados-unidos-esto-dice-experto-502837",
@@ -593,19 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Reforma pensional de Petro: estos los artículos de que el Congreso de la República deberá corregir",
         "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Corte solicita a Contraloría auditar desembolsos de auxilios humanitarios por fallas a víctimas",
-        "url": "https://www.portafolio.co/economia/corte-pide-a-contraloria-revisar-giros-de-ayudas-humanitarias-tras-fallas-en-entrega-a-victimas-del-conflicto-502669",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Corte pide a Contraloría revisar giros de ayudas humanitarias tras fallas en entrega a víctimas del conflicto",
-        "capturado": "2026-09-16T16:53:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Manuel Fernández, economista de Barranquilla con cerca de 25 años de experiencia, asume la presidencia de Bancóldex",
+        "url": "https://www.portafolio.co/negocios/empresas/bancoldex-nombra-como-presidente-a-manuel-fernandez-economista-barranquillero-con-casi-25-anos-de-trayectoria-502849",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Bancóldex nombra como presidente a Manuel Fernández, economista barranquillero con casi 25 años de trayectoria",
+        "capturado": "2026-09-19T01:30:16-05:00"
+      },
       {
         "titulo": "Makro anuncia descuentos de hasta 60% por Amor y Amistad en artículos con vigencia hasta el 24 de septiembre",
         "url": "https://www.portafolio.co/negocios/empresas/ofertas-de-hasta-60-por-amor-y-amistad-en-makro-estos-son-los-productos-con-rebaja-hasta-el-24-de-septiembre-502836",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-15",
         "titulo_fuente": "DHL compra uno de los mayores operadores logísticos de Colombia para reforzar su cadena de suministros en el país",
-        "capturado": "2026-09-15T09:24:22-05:00"
-      },
-      {
-        "titulo": "Exportadores advierten sobre competencia desleal de Shein y Temu y solicitan mayor vigilancia de la Dian",
-        "url": "https://www.portafolio.co/negocios/comercio/exportadores-alertan-por-competencia-desleal-de-shein-y-temu-y-piden-mas-control-de-la-dian-502522",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Exportadores alertan por competencia desleal de Shein y Temu y piden más control de la Dian",
         "capturado": "2026-09-15T09:24:22-05:00"
       }
     ]
