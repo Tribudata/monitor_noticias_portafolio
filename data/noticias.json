@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-19T10:25:42-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-19T13:09:37-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno de De La Espriella plantea que la Dian recaude solo cuatro tributos y los otros se eliminen",
+        "url": "https://www.portafolio.co/economia/gobierno/dian-solo-cobraria-estos-cuatro-impuestos-y-los-demas-desaparecerian-segun-plan-del-gobierno-de-de-la-espriella-502872",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Dian solo cobraría estos cuatro impuestos y los demás desaparecerían, según plan del gobierno de De La Espriella",
+        "capturado": "2026-09-19T13:09:37-05:00"
+      },
+      {
+        "titulo": "El departamento con mayor gasto en compras de Amor y Amistad no es Bogotá ni Antioquia",
+        "url": "https://www.portafolio.co/economia/finanzas/no-es-bogota-ni-antioquia-el-departamento-que-mas-gasta-por-compra-en-amor-y-amistad-502864",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "No es Bogotá ni Antioquia: el departamento que más gasta por compra en Amor y Amistad",
+        "capturado": "2026-09-19T13:09:37-05:00"
+      },
+      {
+        "titulo": "Dian lanza gran paquete de beneficios tributarios para afectados y contribuyentes por sismo",
+        "url": "https://www.portafolio.co/economia/impuestos/terremoto-en-colombia-dian-activa-amplio-paquete-de-alivios-fiscales-para-contribuyentes-y-zonas-afectadas-502866",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Terremoto en Colombia: Dian activa amplio paquete de alivios fiscales para contribuyentes y zonas afectadas",
+        "capturado": "2026-09-19T13:09:37-05:00"
+      },
+      {
+        "titulo": "Fenalco aplaude el retorno de la Cámara de Comercio de Bogotá a manos de los comerciantes",
+        "url": "https://www.portafolio.co/economia/gobierno/fenalco-celebra-la-devolucion-de-la-camara-de-comercio-de-bogota-a-los-comerciantes-502865",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Fenalco celebra la devolución de la Cámara de Comercio de Bogotá a los comerciantes",
+        "capturado": "2026-09-19T13:09:37-05:00"
+      },
       {
         "titulo": "Jurista de parientes del médico muerto en Tailandia será delegado ante la UE y la Otan",
         "url": "https://www.portafolio.co/economia/gobierno/abogado-de-la-familia-del-cirujano-colombiano-asesinado-en-tailandia-representara-a-colombia-ante-la-ue-y-la-otan-502860",
@@ -563,49 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Gobierno renovó sus cuatro puestos en la Cámara de Comercio de Bogotá de cara a la elección de un nuevo presidente",
         "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Bogotá presenta nueva guía para inversores de afuera con datos de visas, impuestos y operación",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-lanza-nueva-guia-para-inversionistas-extranjeros-incluye-visas-impuestos-y-operacion-502685",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Bogotá lanza nueva guía para inversionistas extranjeros: incluye visas, impuestos y operación",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Pacto tecnológico para Colombia: Google, Microsoft, Amazon, Oracle y HPE fondearán el país",
-        "url": "https://www.portafolio.co/economia/gobierno/google-microsoft-amazon-oracle-y-hpe-invertiran-en-el-pais-este-es-el-pacto-tecnologico-para-colombia-502683",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Google, Microsoft, Amazon, Oracle y HPE invertirán en el país: este es el pacto tecnológico para Colombia",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Colpensiones acapara la peticion mayor del sector Trabajo para 2027 por cerca de $4,8 billones",
-        "url": "https://www.portafolio.co/economia/colpensiones-concentra-la-mayor-solicitud-del-sector-trabajo-para-2027-con-recursos-cercanos-a-4-8-billones-502682",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Colpensiones concentra la mayor solicitud del sector Trabajo para 2027, con recursos cercanos a $4,8 billones",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "La billetera dale! incursiona en dólares digitales y promete hasta 5% de rentabilidad",
-        "url": "https://www.portafolio.co/economia/finanzas/dale-entra-al-negocio-de-los-dolares-digitales-la-billetera-anuncia-rentabilidad-de-hasta-502679",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "dale! entra al negocio de los dólares digitales: la billetera anuncia rentabilidad de hasta 5%",
-        "capturado": "2026-09-16T16:53:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Quince cámaras de comercio nacionales conforman la nueva junta directiva de Confecámaras para 2027",
+        "url": "https://www.portafolio.co/negocios/comercio/confecamaras-elige-nueva-junta-directiva-para-2027-con-15-camaras-de-comercio-de-todo-el-pais-502868",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Confecámaras elige nueva junta directiva para 2027 con 15 cámaras de comercio de todo el país",
+        "capturado": "2026-09-19T13:09:37-05:00"
+      },
       {
         "titulo": "Más de 740.000 empleados están inscritos en dos de las 11 cajas de compensación intervenidas por el Ejecutivo",
         "url": "https://www.portafolio.co/negocios/empresas/mas-de-740-000-trabajadores-estan-afiliados-a-dos-de-las-11-cajas-de-compensacion-bajo-revision-del-gobierno-502861",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-15",
         "titulo_fuente": "Gobierno y Bavaria impulsarán la recuperación de 3.000 negocios afectados por la emergencia",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Clientes y D1 recolectan más de dos mil toneladas de asistencia para damnificados por el temblor",
-        "url": "https://www.portafolio.co/negocios/comercio/d1-y-sus-clientes-superan-las-2-000-toneladas-de-ayuda-para-afectados-por-el-sismo-502531",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "D1 y sus clientes superan las 2.000 toneladas de ayuda para afectados por el sismo",
         "capturado": "2026-09-15T13:22:42-05:00"
       }
     ]
