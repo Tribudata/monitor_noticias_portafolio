@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-19T13:09:37-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-19T15:54:28-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De la Espriella ordena mover a 120 presos de Buenaventura a penales de alta seguridad",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ordena-trasladar-a-120-reclusos-de-buenaventura-a-carceles-de-maxima-seguridad-502876",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "De la Espriella ordena trasladar a 120 reclusos de Buenaventura a cárceles de máxima seguridad",
+        "capturado": "2026-09-19T15:54:28-05:00"
+      },
+      {
+        "titulo": "El nuevo director de la DNI habría solicitado la dimisión protocolaria de seis directivos",
+        "url": "https://www.portafolio.co/economia/gobierno/nuevo-director-de-la-dni-habria-pedido-renuncias-protocolarias-a-seis-cargos-clave-de-la-entidad-502875",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Nuevo director de la DNI habría pedido renuncias protocolarias a seis cargos clave de la entidad",
+        "capturado": "2026-09-19T15:54:28-05:00"
+      },
       {
         "titulo": "Gobierno de De La Espriella plantea que la Dian recaude solo cuatro tributos y los otros se eliminen",
         "url": "https://www.portafolio.co/economia/gobierno/dian-solo-cobraria-estos-cuatro-impuestos-y-los-demas-desaparecerian-segun-plan-del-gobierno-de-de-la-espriella-502872",
@@ -583,29 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Pagos por $4,4 billones del Fomag en las últimas semanas del Gobierno Petro no tendrían soportes identificados",
         "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Magistrado revoca pausa a bombardeos aunque impone rigurosos condicionamientos si hay menores",
-        "url": "https://www.portafolio.co/economia/gobierno/juez-levanta-suspension-de-bombardeos-pero-fija-condiciones-estrictas-cuando-haya-menores-502694",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Juez levanta suspensión de bombardeos, pero fija condiciones estrictas cuando haya menores",
-        "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Gobierno cambió sus cuatro curules en la Cámara de Comercio de Bogotá previo a elegir nuevo líder",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-renovo-sus-cuatro-puestos-en-la-camara-de-comercio-de-bogota-de-cara-a-la-eleccion-de-un-nuevo-presidente-502691",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Gobierno renovó sus cuatro puestos en la Cámara de Comercio de Bogotá de cara a la elección de un nuevo presidente",
-        "capturado": "2026-09-16T19:06:59-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Toys R Us apresura su vuelta a EE UU con 120 aperturas previas a la época navideña",
+        "url": "https://www.portafolio.co/negocios/empresas/toys-r-us-acelera-su-regreso-en-ee-uu-con-120-nuevas-tiendas-antes-de-la-temporada-navidena-502873",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Toys 'R' Us acelera su regreso en EE. UU. con 120 nuevas tiendas antes de la temporada navideña",
+        "capturado": "2026-09-19T15:54:28-05:00"
+      },
       {
         "titulo": "Quince cámaras de comercio nacionales conforman la nueva junta directiva de Confecámaras para 2027",
         "url": "https://www.portafolio.co/negocios/comercio/confecamaras-elige-nueva-junta-directiva-para-2027-con-15-camaras-de-comercio-de-todo-el-pais-502868",
@@ -1194,16 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-09-15",
         "titulo_fuente": "Americana de Colchones abrirá seis nuevas tiendas en Colombia y fortalece su expansión nacional",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Gobierno y Bavaria fomentarán el rescate de 3000 establecimientos golpeados por la crisis",
-        "url": "https://www.portafolio.co/negocios/empresas/bavaria-y-gobierno-impulsaran-la-recuperacion-de-3-000-negocios-afectados-por-la-emergencia-502535",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Gobierno y Bavaria impulsarán la recuperación de 3.000 negocios afectados por la emergencia",
         "capturado": "2026-09-15T13:22:42-05:00"
       }
     ]
