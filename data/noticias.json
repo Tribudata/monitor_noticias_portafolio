@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-19T06:47:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T10:25:42-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Jurista de parientes del médico muerto en Tailandia será delegado ante la UE y la Otan",
+        "url": "https://www.portafolio.co/economia/gobierno/abogado-de-la-familia-del-cirujano-colombiano-asesinado-en-tailandia-representara-a-colombia-ante-la-ue-y-la-otan-502860",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Abogado de la familia del cirujano colombiano asesinado en Tailandia, representará a Colombia ante la UE y la Otan",
+        "capturado": "2026-09-19T10:25:42-05:00"
+      },
+      {
+        "titulo": "Ejecutivo vigila a once cajas de compensación por supuestas anomalías y riesgos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pone-la-lupa-a-11-cajas-de-compensacion-por-presuntas-irregularidades-y-posibles-riesgos-502859",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Gobierno pone la lupa a 11 cajas de compensación por presuntas irregularidades y posibles riesgos",
+        "capturado": "2026-09-19T10:25:42-05:00"
+      },
       {
         "titulo": "Consulte y baje acá la versión virtual de Portafolio fin de semana",
         "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-502853",
@@ -583,29 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "dale! entra al negocio de los dólares digitales: la billetera anuncia rentabilidad de hasta 5%",
         "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027 superará el peso frente al PIB visto desde la pandemia, según Javeriana",
-        "url": "https://www.portafolio.co/economia/observatorio-fiscal-de-la-u-javeriana-presupuesto-2027-seria-el-de-mayor-peso-frente-al-pib-desde-la-pandemia-502674",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Observatorio fiscal de la U. Javeriana: Presupuesto 2027 sería el de mayor peso frente al PIB desde la pandemia",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Congreso de la República tendrá que enmendar estos artículos de la reforma pensional de Petro",
-        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-de-petro-estos-los-articulos-de-que-el-congreso-de-la-republica-debera-corregir-502670",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Reforma pensional de Petro: estos los artículos de que el Congreso de la República deberá corregir",
-        "capturado": "2026-09-16T16:53:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Más de 740.000 empleados están inscritos en dos de las 11 cajas de compensación intervenidas por el Ejecutivo",
+        "url": "https://www.portafolio.co/negocios/empresas/mas-de-740-000-trabajadores-estan-afiliados-a-dos-de-las-11-cajas-de-compensacion-bajo-revision-del-gobierno-502861",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-19",
+        "titulo_fuente": "Más de 740.000 trabajadores están afiliados a dos de las 11 cajas de compensación bajo revisión del Gobierno",
+        "capturado": "2026-09-19T10:25:42-05:00"
+      },
       {
         "titulo": "Manuel Fernández, economista de Barranquilla con cerca de 25 años de experiencia, asume la presidencia de Bancóldex",
         "url": "https://www.portafolio.co/negocios/empresas/bancoldex-nombra-como-presidente-a-manuel-fernandez-economista-barranquillero-con-casi-25-anos-de-trayectoria-502849",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "D1 y sus clientes superan las 2.000 toneladas de ayuda para afectados por el sismo",
         "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "DHL adquiere importante operador logístico local para consolidar su cadena de suministro en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-crece-dhl-en-colombia-adquiere-a-uno-de-los-mayores-operadores-logisticos-del-pais-502525",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "DHL compra uno de los mayores operadores logísticos de Colombia para reforzar su cadena de suministros en el país",
-        "capturado": "2026-09-15T09:24:22-05:00"
       }
     ]
   }
