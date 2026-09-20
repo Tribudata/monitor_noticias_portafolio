@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-20T12:58:28-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-20T15:41:49-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Aparente bodega de Temu causa revuelo en Soledad, Atlántico: compradores acudieron, pero hay un detalle clave",
+        "url": "https://www.portafolio.co/economia/regiones/supuesta-bodega-de-temu-genera-furor-en-soledad-atlantico-compradores-corrieron-pero-hay-un-detalle-clave-502911",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Supuesta ‘bodega de Temu’ genera furor en Soledad, Atlántico: compradores corrieron, pero hay un detalle clave",
+        "capturado": "2026-09-20T15:41:49-05:00"
+      },
+      {
+        "titulo": "Presidente Abelardo De la Espriella descarta retaliación contra la JEP y respalda la reducción de presupuesto",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-abelardo-de-la-espriella-niega-que-quiera-vengarse-de-la-jep-y-defiende-el-recorte-presupuestal-502910",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Presidente Abelardo De la Espriella niega que quiera vengarse de la JEP y defiende el recorte presupuestal",
+        "capturado": "2026-09-20T15:41:49-05:00"
+      },
+      {
+        "titulo": "Fuego forestal en Villa de Leyva habría sido intencional: autoridades exponen nuevos indicios",
+        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-habria-sido-provocado-autoridades-revelan-nuevos-indicios-502909",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Incendio forestal en Villa de Leyva habría sido provocado: autoridades revelan nuevos indicios",
+        "capturado": "2026-09-20T15:41:49-05:00"
+      },
+      {
+        "titulo": "Vicepresidente José Manuel Restrepo expondrá en Nueva York las Semanas Milagro y hablará ante la ONU",
+        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-jose-manuel-restrepo-presentara-en-nueva-york-las-semanas-milagro-y-hablara-ante-la-onu-502908",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Vicepresidente José Manuel Restrepo presentará en Nueva York las 'Semanas Milagro' y hablará ante la ONU",
+        "capturado": "2026-09-20T15:41:49-05:00"
+      },
       {
         "titulo": "El uso de efectivo en el país llega a mínimos históricos por el auge de los pagos electrónicos",
         "url": "https://www.portafolio.co/economia/finanzas/los-pagos-en-efectivo-en-colombia-caen-a-minimos-historicos-con-el-crecimiento-de-pagos-digitales-502903",
@@ -563,46 +603,6 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "La educación media concentra el 37,1% de la fuerza laboral del país, pero también el mayor desempleo",
         "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "El PIB colombiano recibe impulso de la construcción al subir 17,1% en obras civiles durante el segundo trimestre",
-        "url": "https://www.portafolio.co/economia/infraestructura/construccion-impulsa-el-pib-de-colombia-con-un-crecimiento-de-17-1-en-obras-civiles-en-el-segundo-trimestre-502738",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Construcción impulsa el PIB de Colombia con un crecimiento de 17,1% en obras civiles en el segundo trimestre",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Ejecutivo presentará 100 iniciativas en Nueva York para captar capital extranjero hacia Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-llevara-100-proyectos-a-nueva-york-para-atraer-inversion-a-colombia-estos-son-los-proyectos-502736",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Gobierno llevará 100 proyectos a Nueva York para atraer inversión a Colombia: Estos son los proyectos",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Designan a Carlos Suárez, asesor de Abelardo De La Espriella, como presidente de la junta de Ecopetrol",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-carlos-suarez-estratega-de-abelardo-de-la-espriella-fue-elegido-presidente-de-la-junta-de-ecopetrol-502740",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Atención: Carlos Suárez, estratega de Abelardo De La Espriella, fue elegido presidente de la junta de Ecopetrol",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Dian busca 1,28 billones de pesos en retenciones morosas y ejecuta 35.500 embargos",
-        "url": "https://www.portafolio.co/economia/gobierno/dian-va-por-1-28-billones-en-retenciones-sin-pagar-ya-adelanto-35-500-embargos-502735",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Dian va por $1,28 billones en retenciones sin pagar: ya adelantó 35.500 embargos",
-        "capturado": "2026-09-17T10:11:06-05:00"
       }
     ],
     "Negocios": [
