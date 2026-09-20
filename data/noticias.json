@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-20T09:30:27-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-20T12:58:28-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El uso de efectivo en el país llega a mínimos históricos por el auge de los pagos electrónicos",
+        "url": "https://www.portafolio.co/economia/finanzas/los-pagos-en-efectivo-en-colombia-caen-a-minimos-historicos-con-el-crecimiento-de-pagos-digitales-502903",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Los pagos en efectivo en Colombia caen a mínimos históricos, con el crecimiento de pagos digitales",
+        "capturado": "2026-09-20T12:58:28-05:00"
+      },
+      {
+        "titulo": "El 60 por ciento de los trayectos aéreos del presidente De La Espriella duraron menos de 10 minutos en su primer mes",
+        "url": "https://www.portafolio.co/economia/gobierno/seis-de-cada-10-vuelos-del-presidente-de-la-espriella-fueron-de-menos-de-10-minutos-durante-su-primer-mes-502905",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Seis de cada 10 vuelos del presidente De La Espriella fueron de menos de 10 minutos durante su primer mes",
+        "capturado": "2026-09-20T12:58:28-05:00"
+      },
+      {
+        "titulo": "El embajador de China en el país contesta a Peñalosa sobre el Metro de Bogotá y dice que no es entrega de mostrador",
+        "url": "https://www.portafolio.co/economia/regiones/embajador-chino-en-colombia-responde-a-penalosa-por-visita-al-metro-de-bogota-no-es-una-entrega-de-mostrador-502901",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Embajador chino en Colombia responde a Peñalosa por visita al Metro de Bogotá: ‘No es una entrega de mostrador’",
+        "capturado": "2026-09-20T12:58:28-05:00"
+      },
+      {
+        "titulo": "¿Acudir al Fondo para resolver el déficit fiscal? Una revisión de las alternativas para la nación",
+        "url": "https://www.portafolio.co/economia/gobierno/ir-al-fondo-para-salir-del-hoyo-fiscal-una-mirada-a-las-opciones-de-colombia-502900",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "¿Ir al Fondo para salir del hoyo fiscal? Una mirada a las opciones de Colombia",
+        "capturado": "2026-09-20T12:58:28-05:00"
+      },
+      {
+        "titulo": "Intensos vientos dificultan las tareas para extinguir la conflagración en Villa de Leyva",
+        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-autoridades-luchan-por-controlar-las-llamas-502899",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Fuertes vientos complican la labores para apagar incendio en Villa de Leyva",
+        "capturado": "2026-09-20T12:58:28-05:00"
+      },
       {
         "titulo": "Colombia y Emiratos Árabes Unidos estrecharán sus lazos en infraestructura, inteligencia artificial y energía",
         "url": "https://www.portafolio.co/economia/gobierno/colombia-y-emiratos-arabes-unidos-fortaleceran-su-relacion-en-energia-inteligencia-artificial-e-infraestructura-502897",
@@ -553,56 +603,6 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "Dian va por $1,28 billones en retenciones sin pagar: ya adelantó 35.500 embargos",
         "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Un sector bogotano figura entre los 10 barrios más atractivos globalmente para el año 2026",
-        "url": "https://www.portafolio.co/economia/regiones/este-barrio-de-bogota-fue-elegido-entre-los-10-mas-cool-del-mundo-en-2026-conozca-el-iconico-sector-502727",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Este barrio de Bogotá fue elegido entre los 10 más ‘cool’ del mundo en 2026: conozca el icónico sector",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Mintrabajo advierte faltantes por 5 billones de pesos para cubrir mesadas al terminar 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/no-hay-plata-para-pagar-la-pension-a-los-colombianos-mintrabajo-senala-deficit-de-5-billones-para-cierre-de-502724",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "No hay plata para pagar la pensión a los Colombianos: Mintrabajo señala déficit de $5 billones para cierre de 2026",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Divisa europea baja en Colombia este 17 de septiembre y así se negocia su precio",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-cae-este-17-de-septiembre-asi-se-cotiza-la-moneda-europea-502723",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Euro hoy en Colombia cae este 17 de septiembre: así se cotiza la moneda europea",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Divisa arranca en tres mil ciento veintiséis con dieciséis tras alza de tasas en Estados Unidos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-17-de-septiembre-502722",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "El dólar en Colombia inicia con expectativas tras aumento de tasas en EE. UU.: divisa abrió en $3,126.16",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Cerrar las EPS bajo intervención no solucionaría la crisis y elevaría la presión en el sistema",
-        "url": "https://www.portafolio.co/economia/gobierno/liquidar-las-eps-intervenidas-no-resolveria-la-crisis-y-podria-aumentar-la-presion-sobre-el-sistema-502707",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Liquidar las EPS intervenidas no resolvería la crisis y podría aumentar la presión sobre el sistema",
-        "capturado": "2026-09-17T00:07:24-05:00"
       }
     ],
     "Negocios": [
