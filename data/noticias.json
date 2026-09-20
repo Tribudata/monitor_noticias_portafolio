@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-20T15:41:49-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-20T17:59:41-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Asobancaria crea índice para calcular la solicitud de dinero físico en zonas colombianas",
+        "url": "https://www.portafolio.co/economia/finanzas/asobancaria-lanza-indicador-para-medir-la-demanda-de-efectivo-en-las-regiones-de-colombia-502889",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Asobancaria lanza indicador para medir la demanda de efectivo en las regiones de Colombia",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
+      {
+        "titulo": "Sector agropecuario, minero, industrial y constructor detuvieron la economía en julio ubicando el ISE en 1,11%",
+        "url": "https://www.portafolio.co/economia/agro-mineria-industria-y-construccion-frenaron-la-economia-en-julio-y-llevaron-el-ise-a-crecer-solo-1-502828",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Agro, minería, industria y construcción frenaron la economía en julio y llevaron el ISE a crecer solo 1,11%",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
+      {
+        "titulo": "De esta manera operará el conjunto de 15 acciones reveladas por el Ejecutivo para mitigar el sismo",
+        "url": "https://www.portafolio.co/economia/asi-funcionara-el-nuevo-paquete-de-15-medidas-anunciadas-por-el-gobierno-para-enfrentar-los-efectos-del-terremoto-502838",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Así funcionará el nuevo paquete de 15 medidas anunciadas por el Gobierno para enfrentar los efectos del terremoto",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
+      {
+        "titulo": "Elempleo.com se alza con la empresa emergente Hunty para mecanizar la selección laboral en el país",
+        "url": "https://www.portafolio.co/economia/empleo/elempleo-com-se-junta-con-la-startup-hunty-para-automatizar-la-contratacion-en-colombia-502890",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
       {
         "titulo": "Aparente bodega de Temu causa revuelo en Soledad, Atlántico: compradores acudieron, pero hay un detalle clave",
         "url": "https://www.portafolio.co/economia/regiones/supuesta-bodega-de-temu-genera-furor-en-soledad-atlantico-compradores-corrieron-pero-hay-un-detalle-clave-502911",
@@ -563,49 +603,29 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "Inflación en Colombia, bajo presión por energía cara y fertilizantes tras crisis en Medio Oriente",
         "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Conozca a Carlos Suárez, nuevo líder de la junta de Ecopetrol y sus retos ante la crisis actual",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-carlos-suarez-nueva-cabeza-de-la-junta-de-ecopetrol-su-reto-ante-la-crisis-heredada-del-gobierno-petro-502750",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "¿Quién es Carlos Suárez, nueva cabeza de la junta de Ecopetrol? Su reto ante la crisis heredada del Gobierno Petro",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Ministerio de Salud propone elevar la UPC hasta un 13% para el año 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/nuevo-ajuste-para-la-salud-minsalud-plantea-aumentar-la-upc-en-un-rago-de-12-a-13-para-el-502743",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Nuevo ajuste para la salud: Minsalud plantea aumentar la UPC en hasta un 13% para el 2027",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Barrio bogotano figura entre los más atractivos del mundo según prestigioso escalafón de turismo",
-        "url": "https://www.portafolio.co/economia/bogota-recibe-reconocimiento-turistico-un-barrio-de-la-ciudad-esta-entre-los-barrios-mas-cool-del-mundo-502737",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Este es el barrio de Bogotá considerado entre los más 'cool' del mundo, según prestigioso listado turístico",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Educación media agrupa el 37,1% de los trabajadores colombianos y registra el mayor desempleo",
-        "url": "https://www.portafolio.co/economia/la-educacion-media-concentra-el-37-1-de-la-fuerza-laboral-del-pais-pero-tambien-el-mayor-desempleo-502755",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "La educación media concentra el 37,1% de la fuerza laboral del país, pero también el mayor desempleo",
-        "capturado": "2026-09-17T14:10:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Dirigir consiste en coordinar habilidades y no en poseer cada contestación, dice Alejandra Zapata de Coninsa",
+        "url": "https://www.portafolio.co/negocios/empresas/liderar-no-es-tener-todas-las-respuestas-sino-orquestar-el-talento-alejandra-zapata-presidente-de-coninsa-502811",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "'Liderar no es tener todas las respuestas, sino orquestar el talento': Alejandra Zapata, presidente de Coninsa",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
+      {
+        "titulo": "El ochenta y cinco coma siete por ciento del rubro en salud colombiano en 2025 fue de fármacos foráneos",
+        "url": "https://www.portafolio.co/negocios/industrias/medicamentos-importados-concentraron-85-7-del-gasto-del-sistema-de-salud-en-colombia-durante-502839",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Medicamentos importados concentraron 85,7% del gasto del sistema de salud en Colombia durante 2025",
+        "capturado": "2026-09-20T17:59:41-05:00"
+      },
       {
         "titulo": "Exclusiva, McDonald's inicia un nuevo sistema de franquicias en el país debido a la escasez de suelo",
         "url": "https://www.portafolio.co/negocios/primicia-mcdonald-s-comienza-nuevo-modelo-de-franquiciado-en-colombia-es-dificil-conseguir-tierra-502817",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-15",
         "titulo_fuente": "Revolut obtiene luz verde en Colombia: la fintech europea ya tiene licencia de la SFC",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Ecopetrol modifica normas de Junta: permite cambio total y estabilidad de vocero laboral",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-aprueba-mantener-al-representante-de-los-trabajadores-en-la-junta-sin-repetir-la-votacion-de-trabajadores-502559",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Ecopetrol ajusta reglas de Junta: abre puerta a renovación total y a estabilidad de representante de trabajadores",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Usuarios en las EPS nacionales: las entidades con mayor afiliación y su patrimonio a junio",
-        "url": "https://www.portafolio.co/negocios/empresas/afiliados-en-las-eps-del-pais-las-entidades-con-mas-usuarios-y-como-va-su-patrimonio-en-el-primer-semestre-502547",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Afiliados en las EPS del país: las entidades con más usuarios y cómo va su patrimonio en el primer semestre",
         "capturado": "2026-09-15T13:22:42-05:00"
       }
     ]
