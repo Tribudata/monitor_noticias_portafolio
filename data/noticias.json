@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-20T05:41:39-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-20T09:30:27-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia y Emiratos Árabes Unidos estrecharán sus lazos en infraestructura, inteligencia artificial y energía",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-y-emiratos-arabes-unidos-fortaleceran-su-relacion-en-energia-inteligencia-artificial-e-infraestructura-502897",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Colombia y Emiratos Árabes Unidos fortalecerán su relación en energía, inteligencia artificial, e infraestructura",
+        "capturado": "2026-09-20T09:30:27-05:00"
+      },
       {
         "titulo": "Nación desbloquea y entrega proyectos que cambian el espacio de Canaán y El Delirio, en Villavicencio",
         "url": "https://www.portafolio.co/economia/regiones/gobierno-nacional-destraba-y-entrega-obras-que-transforman-el-entorno-de-canaan-y-el-delirio-en-villavicencio-502881",
@@ -593,19 +603,19 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Liquidar las EPS intervenidas no resolvería la crisis y podría aumentar la presión sobre el sistema",
         "capturado": "2026-09-17T00:07:24-05:00"
-      },
-      {
-        "titulo": "Restrepo expone a De La Espriella cuatro frentes iniciales para impulsar el crecimiento al 6%",
-        "url": "https://www.portafolio.co/economia/gobierno/restrepo-presenta-a-de-la-espriella-los-primeros-cuatro-frentes-para-acelerar-el-crecimiento-al-502703",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Restrepo presenta a De La Espriella los primeros cuatro frentes para acelerar el crecimiento al 6%",
-        "capturado": "2026-09-17T00:07:24-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Exclusiva, McDonald's inicia un nuevo sistema de franquicias en el país debido a la escasez de suelo",
+        "url": "https://www.portafolio.co/negocios/primicia-mcdonald-s-comienza-nuevo-modelo-de-franquiciado-en-colombia-es-dificil-conseguir-tierra-502817",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-20",
+        "titulo_fuente": "Primicia, McDonald's comienza nuevo modelo de franquiciado en Colombia: 'Es difícil conseguir tierra'",
+        "capturado": "2026-09-20T09:30:27-05:00"
+      },
       {
         "titulo": "Toys R Us apresura su vuelta a EE UU con 120 aperturas previas a la época navideña",
         "url": "https://www.portafolio.co/negocios/empresas/toys-r-us-acelera-su-regreso-en-ee-uu-con-120-nuevas-tiendas-antes-de-la-temporada-navidena-502873",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-15",
         "titulo_fuente": "Afiliados en las EPS del país: las entidades con más usuarios y cómo va su patrimonio en el primer semestre",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Americana de Colchones inaugurará seis locales en Colombia y consolida su crecimiento",
-        "url": "https://www.portafolio.co/negocios/comercio/americana-de-colchones-abrira-seis-nuevas-tiendas-en-colombia-y-fortalece-su-expansion-nacional-502541",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Americana de Colchones abrirá seis nuevas tiendas en Colombia y fortalece su expansión nacional",
         "capturado": "2026-09-15T13:22:42-05:00"
       }
     ]
