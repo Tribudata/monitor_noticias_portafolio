@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-21T14:04:31-05:00",
-  "nuevos_en_esta_corrida": 29,
+  "actualizado": "2026-09-21T17:43:11-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Superintendencia sanciona a distribuidora con 4.614 millones de pesos por exceder el tope en 47 fármacos",
+        "url": "https://www.portafolio.co/economia/gobierno/sic-multa-con-4-614-millones-a-distribuidora-por-vender-47-medicamentos-sobre-precio-maximo-502989",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "SIC multa con $4.614 millones a distribuidora por vender 47 medicamentos sobre precio máximo",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Ente acusador llama a diligencia de interrogatorio al personal financiero de los grupos de Iván Cepeda y Carolina Corcho",
+        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-cita-a-interrogatorio-al-equipo-financiero-de-las-campanas-de-ivan-cepeda-y-carolina-corcho-502987",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Fiscalía cita a interrogatorio al equipo financiero de las campañas de Iván Cepeda y Carolina Corcho",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Compañías de seguros calculan desembolsos de 5,5 billones por sismo y solicitudes suman 85.496",
+        "url": "https://www.portafolio.co/economia/gobierno/aseguradoras-estiman-pagos-por-5-5-billones-tras-terremoto-y-reclamaciones-llegan-a-85-502985",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Aseguradoras estiman pagos por $5,5 billones tras terremoto y reclamaciones llegan a 85.496",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Impuesto de renta 2026: las tipologías obligadas a presentar del 21 al 25 de septiembre",
+        "url": "https://www.portafolio.co/economia/impuestos/declaracion-de-renta-2026-las-cedulas-que-deben-declarar-del-21-al-25-de-septiembre-502979",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Declaración de renta 2026: las cédulas que deben declarar del 21 al 25 de septiembre",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Paola Holguín respalda pausa de subsidios artísticos: halló pasivos superiores a 185.000 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/paola-holguin-defiende-suspension-de-estimulos-culturales-encontro-deuda-de-mas-de-185-000-millones-502971",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Paola Holguín defiende suspensión de estímulos culturales: encontró deuda de más de $185.000 millones",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
       {
         "titulo": "55 millones de personas ya están en el Registro Universal de Ingresos y 8,7 millones siguen sin grupo",
         "url": "https://www.portafolio.co/economia/registro-universal-de-ingresos-ya-clasifica-a-55-millones-de-personas-pero-8-7-millones-siguen-sin-grupo-definido-502967",
@@ -553,59 +603,39 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Decreto crea alivios para atraer inversión en zonas afectadas por el terremoto, pero Hacienda vigilará su impacto",
         "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "CEO en Colombia de Revolut anuncia el lanzamiento de cuentas conjuntas y para menores de edad",
-        "url": "https://www.portafolio.co/economia/finanzas/revolut-lanzara-en-colombia-cuentas-para-ninos-y-cuentas-conjuntas-para-parejas-revela-su-ceo-en-el-pais-502809",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Revolut lanzará en Colombia cuentas para niños y cuentas conjuntas para parejas, revela su CEO en el país",
-        "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Sector floricultor solicita ayudas estatales por costos elevados, tasa de cambio y freno exportador",
-        "url": "https://www.portafolio.co/economia/agro/floricultura-pide-oxigeno-al-gobierno-ante-alza-de-costos-peso-fuerte-y-presion-sobre-sus-exportaciones-502808",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Floricultura pide oxígeno al Gobierno ante alza de costos, peso fuerte y presión sobre sus exportaciones",
-        "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del euro en Colombia: divisa sube más de $43 y ronda los $3.630 este 18 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-moneda-europea-sube-mas-de-43-y-se-acerca-a-los-3-630-este-18-de-septiembre-502807",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Euro hoy en Colombia: moneda europea sube más de $43 y se acerca a los $3.630 este 18 de septiembre",
-        "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella propone fusionar y suprimir carteras ministeriales sin aval del Congreso",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-busca-fusionar-y-eliminar-ministerios-sin-aprobacion-del-congreso-502805",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Abelardo De La Espriella busca fusionar y eliminar ministerios sin aprobación del Congreso",
-        "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar en Colombia sube: divisa arrancó al alza la jornada de este 18 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/asi-se-comporta-el-precio-del-dolar-en-colombia-tras-el-aumento-de-las-tasas-de-interes-en-los-estados-unidos-502804",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Precio del dólar en Colombia se disparó: divisa comenzó al jornada de este 18 de septiembre al alza",
-        "capturado": "2026-09-18T09:47:38-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Asi opera la alianza entre LG y Faber-Castell para beneficiar a la ninez en el pais",
+        "url": "https://www.portafolio.co/negocios/empresas/lg-y-faber-castell-lanzan-un-nuevo-proyecto-por-los-ninos-en-colombia-asi-funcionara-su-iniciativa-502991",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "LG y Faber-Castell lanzan un nuevo proyecto por los niños en Colombia: así funcionará su iniciativa",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Transmision en directo de la trigesima segunda edicion de los Premios Portafolio 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/premios-portafolio-2026-vea-en-vivo-la-ceremonia-numero-502990",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Premios Portafolio 2026 | vea en vivo la ceremonia número 32",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
+      {
+        "titulo": "Entidad nacional recibe 200.000 euros por app de WhatsApp dirigida a madres jovenes",
+        "url": "https://www.portafolio.co/negocios/empresas/organizacion-colombiana-gana-e200-000-por-una-herramienta-de-whatsapp-para-madres-adolescentes-502988",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Organización colombiana gana €200.000 por una herramienta de WhatsApp para madres adolescentes",
+        "capturado": "2026-09-21T17:43:11-05:00"
+      },
       {
         "titulo": "El país exige directivos optimistas y posibilistas, asegura Miguel Fernando Escobar, CEO de Postobón",
         "url": "https://www.portafolio.co/negocios/empresas/colombia-requiere-lideres-optimistas-y-posibilistas-capaces-de-inspirar-confianza-y-movilizar-hacia-el-progreso-502854",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-17",
         "titulo_fuente": "Spotify lanza nuevo modelo de monetización en Colombia para creadores de podcasts: esto es Partner Program",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Especial sobre el AFI Summit 2026 junto a Ignacio Gaitán, cabeza visible de Afidro",
-        "url": "https://www.portafolio.co/negocios/empresas/cubrimiento-especial-del-afi-summit-2026-con-ignacio-gaitan-presidente-ejecutivo-de-afidro-502753",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Cubrimiento especial del AFI Summit 2026 con Ignacio Gaitán, presidente ejecutivo de Afidro",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Las 23 marcas preferidas por los colombianos y las que luchan por ganar su afecto",
-        "url": "https://www.portafolio.co/negocios/las-23-marcas-mas-amadas-por-los-colombianos-y-las-que-siguen-en-la-pelea-por-conquistar-corazones-502739",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Las 23 marcas más amadas por los colombianos y las que siguen en la pelea por conquistar corazones",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Raddar advierte desaceleración en el consumo de los hogares en Colombia con señales de alerta",
-        "url": "https://www.portafolio.co/negocios/comercio/el-gasto-de-los-hogares-se-desacelera-en-colombia-informe-de-raddar-pone-sobre-la-mesa-las-senales-de-alerta-502747",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "El gasto de los hogares se desacelera en Colombia: informe de Raddar pone sobre la mesa las señales de alerta",
         "capturado": "2026-09-17T14:10:21-05:00"
       }
     ]
