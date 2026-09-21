@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-21T01:47:13-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-21T08:38:54-05:00",
+  "nuevos_en_esta_corrida": 23,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ecopetrol investigado: auditoría analiza 32 anomalías y el caso podría escalar a tribunales de EE. UU.",
+        "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-bajo-lupa-auditoria-revisa-32-casos-con-irregularidades-e-indagacion-podria-llegar-a-justicia-de-ee-uu-502928",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Ecopetrol bajo lupa: auditoría revisa 32 casos con irregularidades e indagación podría llegar a justicia de EE. UU.",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master sugiere que el gasto en salud se ajuste al costo real y demandas del sistema",
+        "url": "https://www.portafolio.co/economia/gobierno/bruce-mac-master-plantea-que-el-presupuesto-en-salud-debe-responder-al-gasto-real-y-a-las-necesidades-del-sistema-502926",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Bruce Mac Master plantea que el presupuesto en salud debe responder al gasto real y a las necesidades del sistema",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Bogotá ofrece 1.817 empleos esta semana, con plazas para personas con y sin trayectoria laboral",
+        "url": "https://www.portafolio.co/economia/empleo/bogota-tiene-1-817-vacantes-disponibles-esta-semana-con-oportunidades-para-perfiles-con-y-sin-experiencia-502925",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Bogotá tiene 1.817 vacantes disponibles esta semana, con oportunidades para perfiles con y sin experiencia",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Euro al alza en Colombia este 21 de septiembre, ubicándose arriba de los $3.600",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-sube-en-colombia-este-21-de-septiembre-y-se-mantiene-por-encima-de-los-3-502924",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Euro sube en Colombia este 21 de septiembre y se mantiene por encima de los $3.600",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Nueva advertencia por déficit pensional: faltante en Colpensiones rebasaría los $4,2 billones",
+        "url": "https://www.portafolio.co/economia/contraloria-alerta-por-mas-de-4-2-billones-que-faltarian-para-cubrir-las-pensiones-de-colpensiones-de-502923",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Nueva alerta por recursos faltantes para cubrir pensiones: desfinanciación de Colpensiones superaría $4,2 billones",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Crudo descendió cerca de US$100 y en Colombia el dólar retrocedió por tipos de interés en EE. UU.",
+        "url": "https://www.portafolio.co/economia/finanzas/el-petroleo-cayo-y-se-acerco-a-los-us-100-mientras-que-en-colombia-el-dolar-bajo-por-las-tasas-en-ee-uu-502922",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "El petróleo cayó y se acercó a los US$100, mientras que en Colombia el dólar bajó por las tasas en EE. UU.",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Valor de la divisa este 21 de septiembre en Colombia luego de caer más de 120 pesos en la semana",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-21-de-septiembre-tras-perder-mas-de-120-en-la-semana-502920",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa este 21 de septiembre tras perder más de $120 en la semana",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
       {
         "titulo": "Asobancaria crea índice para calcular la solicitud de dinero físico en zonas colombianas",
         "url": "https://www.portafolio.co/economia/finanzas/asobancaria-lanza-indicador-para-medir-la-demanda-de-efectivo-en-las-regiones-de-colombia-502889",
@@ -533,79 +603,169 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "Los estudiantes del Sena de esta ciudad tendrán el pasaje 100% gratis",
         "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Carlos René Montoya Muñoz asume la presidencia de Colpensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/colpensiones-elige-a-carlos-rene-montoya-munoz-como-nuevo-presidente-502777",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Colpensiones elige a Carlos René Montoya Muñoz como nuevo presidente",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Un temblor de magnitud 4.6 en Chocó fue informado por el Servicio Geológico Colombiano",
-        "url": "https://www.portafolio.co/economia/regiones/servicio-geologico-colombiano-reporto-sismo-de-magnitud-4-6-en-choco-502773",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Servicio Geológico Colombiano reportó sismo de magnitud 4.6 en Chocó",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Valor del huevo subiría en 2027 tras disminuir 12% la entrada de pollitas a predios",
-        "url": "https://www.portafolio.co/economia/agro/precio-del-huevo-podria-repuntar-en-2027-tras-caer-12-el-ingreso-de-pollitas-a-las-granjas-502770",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Precio del huevo podría repuntar en 2027 tras caer 12% el ingreso de pollitas a las granjas",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Asofondos señala que el hueco fiscal de $5 billones en Colpensiones surge por subir el mínimo",
-        "url": "https://www.portafolio.co/economia/gobierno/asofondos-explica-que-el-desfase-fiscal-en-colpensiones-de-5-billones-se-debe-al-alza-del-salario-minimo-502764",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Asofondos explica que el desfase fiscal en Colpensiones de $5 billones se debe al alza del salario mínimo",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "El Banrepública señala marcadas diferencias en formalidad según el grado de desarrollo económico del país",
-        "url": "https://www.portafolio.co/economia/colombia-exhibe-fuertes-brechas-de-formalidad-a-medida-que-cambia-el-nivel-de-desarrollo-economico-banrepublica-502763",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Colombia exhibe fuertes brechas de formalidad a medida que cambia el nivel de desarrollo económico: Banrepública",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Superfinanciero señala desprotección de usuarios por ausencia de normas en criptoactivos",
-        "url": "https://www.portafolio.co/economia/gobierno/superintendente-financiero-advierte-que-hay-consumidores-desprotegidos-por-falta-de-regulacion-de-activos-digitales-502761",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Superintendente financiero advierte que hay consumidores desprotegidos por falta de regulación de activos digitales",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Alza de costos energéticos e insumos presiona la inflación colombiana tras conflicto en Medio Oriente",
-        "url": "https://www.portafolio.co/economia/gobierno/inflacion-en-colombia-bajo-presion-por-energia-cara-y-fertilizantes-tras-crisis-en-medio-oriente-502758",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Inflación en Colombia, bajo presión por energía cara y fertilizantes tras crisis en Medio Oriente",
-        "capturado": "2026-09-17T14:10:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bia Energy modifica el consumo energético empresarial mediante emprendimiento de alto impacto",
+        "url": "https://www.portafolio.co/negocios/empresas/emprendimiento-alto-impacto-bia-energy-esta-cambiando-la-forma-en-que-las-empresas-consumen-energia-502630",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Emprendimiento alto impacto: Bia Energy está cambiando la forma en que las empresas consumen energía",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Nexa BPO redefine el porvenir de la atención al cliente a través de la digitalización",
+        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-nexa-bpo-transforma-el-futuro-de-la-experiencia-del-cliente-502628",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Transformación digital: Nexa BPO transforma el futuro de la experiencia del cliente",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Protección S.A. emplea inteligencia artificial para renovar la vivencia financiera digital",
+        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-proteccion-s-a-usa-inteligencia-artificial-para-transformar-la-experiencia-financiera-502627",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Transformación digital: Protección S.A. usa inteligencia artificial para transformar la experiencia financiera",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Cenit reconvierte su esquema funcional con analítica e inteligencia artificial digital",
+        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-cenit-transforma-su-modelo-operativo-con-inteligencia-artificial-y-datos-502626",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Transformación digital: Cenit transforma su modelo operativo con inteligencia artificial y datos",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Autogermana recurre a la inteligencia artificial para modernizar sus trámites internos",
+        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-autogermana-apuesta-por-la-ia-para-transformar-sus-procesos-internos-502625",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Transformación digital: Autogermana apuesta por la IA para transformar sus procesos internos",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Alegra optimiza operaciones y renueva la administración contable y corporativa digital",
+        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-alegra-automatiza-procesos-y-transforma-la-gestion-de-empresas-y-contadores-502623",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Transformación digital: Alegra automatiza procesos y transforma la gestión de empresas y contadores",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Conozca las iniciativas finalistas a los galardones Portafolio 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-proyectos-finalistas-de-los-premios-portafolio-502308",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Estos son los proyectos finalistas de los Premios Portafolio 2026",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Emprendimiento de alto impacto: enerBit descentraliza la energía en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/emprendimiento-alto-impacto-enerbit-esta-descentralizando-la-energia-en-colombia-502635",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Emprendimiento alto impacto: enerBit está descentralizando la energía en Colombia",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Innovación: TicSocial y su esquema con datos que salvan vidas",
+        "url": "https://www.portafolio.co/negocios/empresas/innovacion-ticsocial-y-su-modelo-basado-en-datos-que-salvan-vidas-502583",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Innovación: TicSocial y su modelo basado en datos que salvan vidas",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Innovación: Servinformación, una inteligencia puesta al servicio del mercado",
+        "url": "https://www.portafolio.co/negocios/empresas/innovacion-servinformacion-una-inteligencia-al-servicio-del-mercado-502569",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Innovación: Servinformación, una inteligencia al servicio del mercado",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Innovación: Banco de Occidente creó una inteligencia artificial generativa que negocia y comercializa",
+        "url": "https://www.portafolio.co/negocios/empresas/innovacion-banco-de-occidente-desarrollo-una-ia-generativa-que-negocia-y-vende-502568",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Innovación: Banco de Occidente desarrolló una IA generativa que negocia y vende",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Innovación: Kéfir Plus de Alpina, una creación para la microbiota y el bienestar de los compradores",
+        "url": "https://www.portafolio.co/negocios/empresas/innovacion-kefir-plus-de-alpina-un-desarrollo-para-la-microbiota-y-la-salud-de-sus-clientes-502567",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Innovación: Kéfir Plus de Alpina, un desarrollo para la microbiota y la salud de sus clientes",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Akua integra pagos y operaciones de entidades financieras mediante plataforma de inteligencia artificial",
+        "url": "https://www.portafolio.co/negocios/empresas/innovacion-akua-unifica-pagos-y-operaciones-para-instituciones-financiera-con-su-plataforma-ai-native-502566",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Innovación: Akua unifica pagos y operaciones para instituciones financiera con su plataforma AI-Native",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Alcaldía Mayor de Bogotá implementa Zona Urbana por un Mejor Aire para la gestión ecológica local",
+        "url": "https://www.portafolio.co/negocios/empresas/gestion-publica-sostenible-alcaldia-mayor-de-bogota-activa-zona-urbana-por-un-mejor-aire-zuma-502553",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Gestión pública sostenible: Alcaldía Mayor de Bogotá activa Zona Urbana por un Mejor Aire (Zuma)",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Municipio de Supía coordinó su iniciativa hídrica participativa junto con la comunidad",
+        "url": "https://www.portafolio.co/negocios/empresas/gestion-publica-sostenible-municipio-de-supia-articulo-su-estrategia-con-la-comunidad-a-traves-del-agua-502549",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Gestión pública sostenible: Municipio de Supía articuló su estrategia con la comunidad a través del agua",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
+      {
+        "titulo": "Industria Licorera de Caldas convierte sus envases en nuevas alternativas ecológicas",
+        "url": "https://www.portafolio.co/negocios/empresas/gestion-publica-sostenible-industria-licorera-de-caldas-transforma-sus-empaques-en-oportunidades-502544",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Gestión pública sostenible: Industria Licorera de Caldas transforma sus empaques en oportunidades",
+        "capturado": "2026-09-21T08:38:54-05:00"
+      },
       {
         "titulo": "Dirigir consiste en coordinar habilidades y no en poseer cada contestación, dice Alejandra Zapata de Coninsa",
         "url": "https://www.portafolio.co/negocios/empresas/liderar-no-es-tener-todas-las-respuestas-sino-orquestar-el-talento-alejandra-zapata-presidente-de-coninsa-502811",
@@ -1045,166 +1205,6 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "Comercio minorista mantuvo su dinamismo en julio y creció 5,3% impulsado por la venta de vehículos",
         "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Nuevas acciones contra Lili Pink: la Fiscalía intervino 45 locales comerciales tasados en más de $184.000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/nuevas-medidas-contra-lili-pink-la-fiscalia-ocupo-45-almacenes-de-la-marca-avaluados-en-mas-de-184-000-millones-502681",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Nuevas medidas contra Lili Pink: la Fiscalía ocupó 45 almacenes de la marca avaluados en más de $184.000 millones",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Producción industrial bajó un 2,3% en julio y la Andi advierte indicios de desaceleración",
-        "url": "https://www.portafolio.co/negocios/industrias/la-produccion-industrial-cayo-un-2-3-en-julio-y-la-andi-advierte-senales-de-menor-dinamismo-502667",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "La producción industrial cayó un 2,3% en julio y la Andi advierte señales de menor dinamismo",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Andi advierte sobre el reto de mantener la inversión al subir el peso de la deuda en el PGN 2027 tras cita con congresistas",
-        "url": "https://www.portafolio.co/negocios/inversion/andi-tras-reunion-con-congresistas-alerta-sobre-reto-de-sostener-inversion-mientras-deuda-gana-peso-en-pgn-502666",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Andi, tras reunión con congresistas, alerta sobre reto de sostener inversión mientras deuda gana peso en PGN 2027",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Fenalco aplaza su Congreso Nacional para priorizar la ayuda a los comerciantes afectados por el temblor",
-        "url": "https://www.portafolio.co/negocios/comercio/para-priorizar-el-apoyo-a-los-comerciantes-afectados-por-el-terremoto-fenalco-aplaza-su-congreso-nacional-502660",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Para priorizar el apoyo a los comerciantes afectados por el terremoto, Fenalco aplaza su Congreso Nacional",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "En agosto bajó la confianza del consumidor mas sigue en positivo según Fedesarrollo",
-        "url": "https://www.portafolio.co/negocios/comercio/la-confianza-del-consumidor-se-modero-en-agosto-pero-sigue-en-terreno-positivo-segun-fedesarrollo-502640",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "La confianza del consumidor se moderó en agosto, pero sigue en terreno positivo, según Fedesarrollo",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "El banco británico Revolut arribará en 2027 y suma 200.000 colombianos en espera",
-        "url": "https://www.portafolio.co/negocios/empresas/revolut-banco-britanico-que-llegara-en-2027-ya-tiene-200-000-colombianos-en-lista-de-espera-como-inscribirse-502646",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Revolut, banco británico que llegará en 2027, ya tiene 200.000 colombianos en lista de espera: ¿cómo inscribirse?",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Hatsu Tea lanza edición especial en colaboración con Ágatha Ruiz de la Prada",
-        "url": "https://www.portafolio.co/negocios/empresas/hatsu-tea-estrena-edicion-especial-junto-con-agatha-ruiz-de-la-prada-502619",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Hatsu Tea estrena edición especial junto con Ágatha Ruiz de la Prada",
-        "capturado": "2026-09-16T13:39:36-05:00"
-      },
-      {
-        "titulo": "Alimentos procesados y galletas de Colombia reducirán barreras para arribar al mercado europeo",
-        "url": "https://www.portafolio.co/negocios/comercio/galletas-y-otros-alimentos-colombianos-tendran-menos-trabas-para-llegar-a-los-consumidores-de-la-union-europea-502616",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Galletas y otros alimentos colombianos tendrán menos trabas para llegar a los consumidores de la Unión Europea",
-        "capturado": "2026-09-16T09:36:46-05:00"
-      },
-      {
-        "titulo": "Revolut incrementará su capital en Colombia por encima de US$100 millones previo a su apertura",
-        "url": "https://www.portafolio.co/negocios/inversion/revolut-elevara-su-inversion-en-colombia-a-mas-de-us-100-millones-antes-de-iniciar-operaciones-502602",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Revolut elevará su inversión en Colombia a más de US$100 millones antes de iniciar operaciones",
-        "capturado": "2026-09-15T23:36:57-05:00"
-      },
-      {
-        "titulo": "Siderurgia latinoamericana avanza hacia una repunte paulatino",
-        "url": "https://www.portafolio.co/negocios/industrias/industria-del-acero-en-latinoamerica-da-pasos-para-consolidar-una-recuperacion-gradual-502584",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Industria del acero en Latinoamérica da pasos para consolidar una recuperación gradual",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Latam obtiene un préstamo de US$ 505 millones con BNP Paribas para once aeronaves",
-        "url": "https://www.portafolio.co/negocios/latam-asegura-us-505-millones-en-credito-con-el-banco-bnp-paribas-para-11-nuevos-aviones-502581",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Latam asegura US$ 505 millones en crédito con el banco BNP Paribas para 11 nuevos aviones",
-        "capturado": "2026-09-15T18:58:23-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá, Despegar y Mastercard sacan tarjeta para crear viajes con puntos y más",
-        "url": "https://www.portafolio.co/negocios/empresas/no-solo-vuelos-despegar-banco-de-bogota-y-mastercard-lanzan-tarjeta-para-armar-viajes-con-puntos-502579",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "No solo vuelos: Despegar, Banco de Bogotá y Mastercard lanzan tarjeta para armar viajes con puntos",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Scalo es la nueva apuesta fintech de Bancoomeva que prevé colocar un billón en préstamos",
-        "url": "https://www.portafolio.co/negocios/empresas/nuevo-negocio-de-bancoomeva-con-las-fintech-lanzo-scalo-y-proyecta-colocar-1-billon-en-creditos-502573",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Nuevo negocio de Bancoomeva con las fintech: lanzó Scalo y proyecta colocar $1 billón en créditos",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Dividir el comercio global saldría muy caro y bajaría el PIB mundial hasta un 5,1 por ciento",
-        "url": "https://www.portafolio.co/negocios/comercio/fragmentar-el-comercio-mundial-tendria-un-alto-costo-y-podria-reducir-hasta-5-1-el-pib-global-502565",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Fragmentar el comercio mundial tendría un alto costo y podría reducir hasta 5,1% el PIB global",
-        "capturado": "2026-09-15T16:37:23-05:00"
-      },
-      {
-        "titulo": "Relatos de compañías: El encanto oculto de los anillos dulces",
-        "url": "https://www.portafolio.co/negocios/empresas/confesiones-empresariales-la-magia-detras-de-las-donas-502562",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Confesiones empresariales: La magia detrás de las donas",
-        "capturado": "2026-09-15T13:22:42-05:00"
-      },
-      {
-        "titulo": "Revolut recibe aval en Colombia: la empresa fintech ya cuenta con permiso de la SFC",
-        "url": "https://www.portafolio.co/negocios/empresas/revolut-obtiene-luz-verde-en-colombia-la-fintech-europea-ya-tiene-licencia-bancaria-y-esto-es-lo-que-ofrece-502561",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Revolut obtiene luz verde en Colombia: la fintech europea ya tiene licencia de la SFC",
-        "capturado": "2026-09-15T13:22:42-05:00"
       }
     ]
   }
