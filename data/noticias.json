@@ -1,9 +1,139 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-21T08:38:54-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-09-21T14:04:31-05:00",
+  "nuevos_en_esta_corrida": 29,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "55 millones de personas ya están en el Registro Universal de Ingresos y 8,7 millones siguen sin grupo",
+        "url": "https://www.portafolio.co/economia/registro-universal-de-ingresos-ya-clasifica-a-55-millones-de-personas-pero-8-7-millones-siguen-sin-grupo-definido-502967",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Registro Universal de Ingresos ya clasifica a 55 millones de personas, pero 8,7 millones siguen sin grupo definido",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "El dólar barato llegaría a su fin: alza de tasas en Estados Unidos restaría fuerza al peso",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-barato-estaria-llegando-a-su-fin-subida-de-tasas-en-estados-unidos-le-restarian-fuerza-al-peso-colombiano-502963",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Dólar barato estaría llegando a su fin: subida de tasas en Estados Unidos le restarían fuerza al peso colombiano",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Salario mínimo y dólar barato inquietan a empresarios: Consejo Gremial pide cuidar competitividad",
+        "url": "https://www.portafolio.co/economia/consejo-gremial-respalda-ajuste-fiscal-pero-alerta-por-salario-minimo-y-dolar-barato-502960",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Salario mínimo y dólar barato preocupan a empresarios: Consejo Gremial pide cuidar la competitividad",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Cárcel y multas millonarias: sanciones graves por provocar un incendio forestal como en Villa de Leyva",
+        "url": "https://www.portafolio.co/economia/regiones/carcel-y-multas-millonarias-las-graves-sanciones-por-provocar-un-incendio-forestal-como-el-de-villa-de-leyva-502956",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Cárcel y multas millonarias: las graves sanciones por provocar un incendio forestal como el de Villa de Leyva",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Elempleo.com se une a la startup Hunty para automatizar la contratación en Colombia",
+        "url": "https://www.portafolio.co/economia/empleo/elempleo-com-se-junta-con-la-startup-hunty-para-automatizar-la-contratacion-en-colombia-502954",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "David Vélez insiste en quitar la tasa de usura en Colombia y advierte sobre el gota a gota",
+        "url": "https://www.portafolio.co/economia/gobierno/david-velez-insiste-en-eliminar-la-tasa-de-usura-en-colombia-y-lanza-alerta-por-el-gota-a-gota-502953",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "David Vélez insiste en eliminar la tasa de usura en Colombia y lanza alerta por el ‘gota a gota’",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Asi funciona la ley para frenar llamadas comerciales de bancos y empresas de telecomunicaciones en el pais",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-dejen-de-fregar-asi-puede-dejar-de-recibir-llamadas-de-bancos-y-operadores-en-colombia-502950",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Ley ‘Dejen de Fregar’: así puede dejar de recibir llamadas de bancos y operadores en Colombia",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Ejecutivo establece en Nueva York la meta de elevar el crecimiento nacional al 6 por ciento con capital privado",
+        "url": "https://www.portafolio.co/economia/gobierno-fija-en-nueva-york-la-meta-de-llevar-el-crecimiento-de-colombia-hasta-el-6-con-inversion-privada-502949",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Gobierno fija en Nueva York la meta de llevar el crecimiento de Colombia hasta el 6% con inversión privada",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Cotizacion del dolar en Colombia hoy: la moneda abre a la baja luego de ganar mas de 120 pesos en la semana",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-inicia-a-la-baja-tras-subir-mas-de-120-durante-la-semana-502920",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa inicia a la baja tras subir más de $120 durante la semana",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Estado de la economia nacional: panorama del primer semestre de 2026",
+        "url": "https://www.portafolio.co/economia/crecimiento/como-va-la-economia-colombiana-radiografia-de-la-primera-mitad-de-502940",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "¿Cómo va la economía colombiana? Radiografía de la primera mitad de 2026",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Incendio forestal en Villa de Leyva sigue activo: arrasa 290 hectareas y tiene un control del 50 por ciento",
+        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-no-da-tregua-afecta-290-hectareas-y-apenas-esta-controlado-en-un-502937",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Incendio forestal en Villa de Leyva no da tregua: afecta 290 hectáreas y apenas está controlado en un 50%",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Cajas de Compensacion podrian destinar 550 mil millones de pesos tras el sismo",
+        "url": "https://www.portafolio.co/economia/cajas-de-compensacion-podrian-movilizar-550-mil-millones-tras-el-terremoto-502934",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Cajas de Compensación podrían movilizar $550 mil millones tras el terremoto",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Gobierno Petro habría elevado la contratación en casi un 600 por ciento según críticas",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-petro-habria-aumentado-las-ops-en-casi-un-600-convirtieron-la-casa-de-narino-en-un-contratadero-502932",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "'Convirtieron la Casa de Nariño en contratadero': Gobierno Petro habría contratación en casi un 600%",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
       {
         "titulo": "Ecopetrol investigado: auditoría analiza 32 anomalías y el caso podría escalar a tribunales de EE. UU.",
         "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-bajo-lupa-auditoria-revisa-32-casos-con-irregularidades-e-indagacion-podria-llegar-a-justicia-de-ee-uu-502928",
@@ -473,139 +603,169 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Precio del dólar en Colombia se disparó: divisa comenzó al jornada de este 18 de septiembre al alza",
         "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Tribunal detiene nuevo esquema de pasaportes y Cancillería usa urgencia manifiesta para prevenir paradas",
-        "url": "https://www.portafolio.co/economia/gobierno/fallo-judicial-frena-nuevo-modelo-de-pasaportes-y-cancilleria-activa-urgencia-manifiesta-para-evitar-interrupciones-502803",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Fallo judicial frena nuevo modelo de pasaportes y Cancillería activa urgencia manifiesta para evitar interrupciones",
-        "capturado": "2026-09-18T09:47:38-05:00"
-      },
-      {
-        "titulo": "Gobierno revela gran estrategia de inversión en La Guajira para agua, vivienda, salud, vías y turismo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-plan-de-inversion-millonario-en-la-guajira-con-recursos-para-agua-vivienda-salud-vias-y-turismo-502793",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Gobierno anuncia plan de inversión millonario en La Guajira con recursos para agua, vivienda, salud, vías y turismo",
-        "capturado": "2026-09-18T00:33:57-05:00"
-      },
-      {
-        "titulo": "Empresas fintech de Colombia destinarán 4,3 billones de pesos en un año para fomentar innovación digital",
-        "url": "https://www.portafolio.co/economia/fintechs-colombianas-invertiran-4-3-billones-en-el-proximo-ano-para-impulsar-la-innovacion-tecnologica-en-el-pais-502792",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Fintechs colombianas invertirán $4,3 billones en el próximo año para impulsar la innovación tecnológica en el país",
-        "capturado": "2026-09-18T00:33:57-05:00"
-      },
-      {
-        "titulo": "Sector fintech será clave en la administración actual, afirmó José Manuel Restrepo",
-        "url": "https://www.portafolio.co/economia/gobierno/fintech-jugara-un-papel-protagonico-en-el-gobierno-aseguro-jose-manuel-restrepo-502790",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Fintech \"jugará un papel protagónico\" en el Gobierno, aseguró José Manuel Restrepo",
-        "capturado": "2026-09-18T00:33:57-05:00"
-      },
-      {
-        "titulo": "Salvación Nacional busca quitar $100.000 millones a la JEP para pasarlos a la Rama Judicial",
-        "url": "https://www.portafolio.co/economia/gobierno/salvacion-nacional-propone-quitar-100-000-millones-a-la-jep-y-trasladarlos-a-la-rama-judicial-502789",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Salvación Nacional propone quitar $100.000 millones a la JEP y trasladarlos a la Rama Judicial",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "Concejal David Quintero critica la oposición de Enel a su plan de soterrar cables",
-        "url": "https://www.portafolio.co/economia/gobierno/concejal-david-quintero-cuestiona-oposicion-de-enel-a-su-propuesta-de-enterrar-cables-esto-dijo-la-empresa-502786",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Concejal David Quintero cuestiona oposición de Enel a su propuesta de enterrar cables: esto dijo la empresa",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "La calidad de cartera bancaria sigue mejorando y llegó a 3,8% en julio",
-        "url": "https://www.portafolio.co/economia/finanzas/la-salud-de-la-cartera-entre-los-establecimientos-de-credito-sigue-mejorando-y-se-coloco-en-el-3-8-en-julio-502788",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "La salud de la cartera entre los establecimientos de crédito sigue mejorando y se colocó en el 3,8% en julio",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "ISE de julio: analistas prevén desaceleración económica tras el 3,5% de junio",
-        "url": "https://www.portafolio.co/economia/ise-de-julio-analistas-anticipan-una-moderacion-de-la-economia-tras-el-crecimiento-de-3-5-en-junio-502787",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "ISE de julio: analistas anticipan una moderación de la economía tras el crecimiento de 3,5% en junio",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "Puntos de vista del Congreso sobre la normalización del sistema de salud",
-        "url": "https://www.portafolio.co/economia/gobierno/perspectivas-del-congreso-de-la-republica-sobre-la-estabilizacion-del-sistema-de-salud-502784",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Perspectivas del Congreso de la República sobre la estabilización del sistema de salud",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "Girare la pensión de noviembre y diciembre a colombianos: primer reto en Colpensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/pagar-a-los-colombianos-la-pension-de-noviembre-y-diciembre-primer-reto-del-nuevo-presidente-de-colpensiones-502779",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Pagar a los colombianos la pensión de noviembre y diciembre: primer reto del nuevo presidente de Colpensiones",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "Vicepresidente señala al Gobierno Petro por legar un presupuesto falso ante trabas para pagar pensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-acusa-al-gobierno-petro-de-dejar-un-presupuesto-de-mentiras-tras-dificultades-de-pago-de-pensiones-502772",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Vicepresidente acusa al Gobierno Petro de dejar un 'presupuesto de mentiras' tras dificultades de pago de pensiones",
-        "capturado": "2026-09-17T19:37:18-05:00"
-      },
-      {
-        "titulo": "Especialistas económicos completan medio año al alza su pronóstico inflacionario para este diciembre",
-        "url": "https://www.portafolio.co/economia/crecimiento/analistas-financieros-llevan-seis-meses-incrementando-su-proyeccion-de-inflacion-para-diciembre-de-este-ano-502781",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Analistas financieros llevan seis meses incrementando su proyección de inflación para diciembre de este año",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Alumnos del Sena locales contarán con gratuidad total en el transporte",
-        "url": "https://www.portafolio.co/economia/regiones/los-estudiantes-del-sena-de-esta-ciudad-tendran-el-pasaje-100-gratis-502776",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Los estudiantes del Sena de esta ciudad tendrán el pasaje 100% gratis",
-        "capturado": "2026-09-17T17:20:19-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El país exige directivos optimistas y posibilistas, asegura Miguel Fernando Escobar, CEO de Postobón",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-requiere-lideres-optimistas-y-posibilistas-capaces-de-inspirar-confianza-y-movilizar-hacia-el-progreso-502854",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "‘El país requiere líderes que sean optimistas y posibilistas’: Miguel Fernando Escobar, CEO de Postobón",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Collective Mining expone el potencial del tungsteno en Caldas y su compromiso de explorar en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/collective-mining-revela-el-potencial-del-tungsteno-hallado-en-caldas-y-su-apuesta-por-seguir-explorando-colombia-502965",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Collective Mining revela el potencial del tungsteno hallado en Caldas y su apuesta por seguir explorando Colombia",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Koaj y Lili Pink en la mira: intervienen 38 predios tasados en 379.873 millones de pesos",
+        "url": "https://www.portafolio.co/negocios/empresas/koaj-y-lili-pink-bajo-la-lupa-ocupan-38-inmuebles-avaluados-en-379-873-millones-502964",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Koaj y Lili Pink, bajo la lupa: ocupan 38 inmuebles avaluados en $379.873 millones",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "De La Espriella informa megadique de 50 millones de dólares para la capacidad naval de Cotecmar",
+        "url": "https://www.portafolio.co/negocios/comercio/de-la-espriella-anuncia-megadique-de-us-50-millones-para-ampliar-capacidad-naval-de-cotecmar-en-cartagena-502961",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "De La Espriella anuncia megadique de US$50 millones para ampliar capacidad naval de Cotecmar en Cartagena",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Colombia dinamiza sus compras externas: subieron 22,9% en julio y el déficit comercial aumentó",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-acelera-sus-importaciones-crecieron-22-9-en-julio-y-el-deficit-comercial-se-amplio-frente-a-502955",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Colombia acelera sus importaciones: crecieron 22,9% en julio y el déficit comercial se amplió frente a 2025",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacada alumna universitaria: Yessica Suárez, de experta en economía a impulsora del debate escolar",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-yessica-suarez-de-campeona-de-economia-a-promotora-del-debate-en-colegios-publicos-502716",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor estudiante universitario: Yessica Suárez, de campeona de economía a promotora del debate en colegios públicos",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacada alumna universitaria María José Medellín y su enfoque en impulsar el rol de las economistas",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-maria-jose-medellin-y-su-apuesta-por-una-mayor-participacion-de-las-economista-502715",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor estudiante universitario: María José Medellín y su apuesta por una mayor participación de las economista",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacada profesora universitaria Gloria Lucía Bernal Nisperuza: perfil y hoja de vida",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-quien-es-gloria-lucia-bernal-nisperuza-perfil-y-trayectoria-502718",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor docente universitario: ¿Quién es Gloria Lucía Bernal Nisperuza? Perfil y trayectoria",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado docente universitario Jahir Lombana-Coy, doctor en Economía y docente de UniNorte",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-jahir-lombana-coy-doctor-en-economia-y-profesor-de-uninorte-502719",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor docente universitario: Jahir Lombana-Coy, doctor en Economía y profesor de UniNorte",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado alumno universitario Jerónimo Salazar, rendimiento académico e investigación en Economía Cuantitativa",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-jeronimo-salazar-excelencia-academica-e-investigacion-en-economia-cuantitativa-502714",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor estudiante universitario: Jerónimo Salazar, excelencia académica e investigación en Economía Cuantitativa",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado profesor universitario Jonathan Malagón González, economista y docente de la Universidad Nacional",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-jonathan-malagon-gonzalez-economista-y-profesor-de-la-universidad-nacional-502720",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor docente universitario: Jonathan Malagón González, economista y profesor de la Universidad Nacional",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado docente universitario Mauricio Villamizar Villegas, especialista en política monetaria y mercados financieros",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-mauricio-villamizar-villegas-experto-en-politica-monetaria-y-mercados-financieros-502721",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor docente universitario: Mauricio Villamizar Villegas, experto en política monetaria y mercados financieros",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado alumno de economía: Diego Andrés Laiton y su recorrido de alta calidad académica",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-diego-andres-laiton-una-trayectoria-de-excelencia-academica-en-economia-502713",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor estudiante universitario: Diego Andrés Laiton, una trayectoria de excelencia académica en Economía",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado maestro universitario: Álvaro Alexander Guzmán Vásquez, experto en gobierno corporativo regional",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-alvaro-alexander-guzman-vasquez-referente-en-gobierno-corporativo-en-america-latina-502717",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor docente universitario: Álvaro Alexander Guzmán Vásquez, referente en gobierno corporativo en América Latina",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Destacado alumno universitario: Andrés Felipe Leguizamón López, el investigador nacional en el MIT",
+        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-andres-felipe-leguizamon-lopez-el-colombiano-que-llego-a-investigar-en-mit-502712",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Mejor estudiante universitario: Andrés Felipe Leguizamón López, el colombiano que llegó a investigar en MIT",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
+      {
+        "titulo": "Dirigente corporativo del año: Miguel Fernando Escobar Penagos, al mando del cambio en Postobón",
+        "url": "https://www.portafolio.co/negocios/empresas/lider-empresarial-del-ano-miguel-fernando-escobar-penagos-el-lider-detras-de-la-transformacion-de-postobon-502711",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Líder empresarial del año: Miguel Fernando Escobar Penagos, el líder detrás de la transformación de Postobón",
+        "capturado": "2026-09-21T14:04:31-05:00"
+      },
       {
         "titulo": "Bia Energy modifica el consumo energético empresarial mediante emprendimiento de alto impacto",
         "url": "https://www.portafolio.co/negocios/empresas/emprendimiento-alto-impacto-bia-energy-esta-cambiando-la-forma-en-que-las-empresas-consumen-energia-502630",
@@ -1045,166 +1205,6 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "El gasto de los hogares se desacelera en Colombia: informe de Raddar pone sobre la mesa las señales de alerta",
         "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Lulo Bank incursiona en el factoring digital mediante un nuevo ecosistema empresarial",
-        "url": "https://www.portafolio.co/negocios/empresas/lulo-bank-entra-al-mercado-del-factoring-digital-bajo-un-nuevo-ecosistema-de-banca-empresarial-502742",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Lulo Bank entra al mercado del factoring digital bajo un nuevo ecosistema de banca empresarial",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito inicia campaña de un mes con rebajas de hasta 60% y moverá 167 millones de unidades",
-        "url": "https://www.portafolio.co/negocios/comercio/grupo-exito-lanza-promocion-de-un-mes-con-descuentos-de-hasta-el-60-y-movilizara-167-millones-de-unidades-502728",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Grupo Éxito lanza promoción de un mes con descuentos de hasta el 60% y movilizará 167 millones de unidades",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "GeoPark encabeza la disputa por un nuevo bloque petrolero en Neuquén para ampliar el fracking en Argentina",
-        "url": "https://www.portafolio.co/negocios/empresas/atencion-geopark-va-por-mas-fracking-en-argentina-lidera-la-puja-por-una-nueva-area-petrolera-en-neuquen-502730",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Atención, GeoPark va por más fracking en Argentina: lidera la puja por una nueva área petrolera en Neuquén",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Afi Summit 2026 tendrá cobertura especial según Afidro",
-        "url": "https://www.portafolio.co/negocios/empresas/afidro-cubrimiento-especial-afi-summit-502729",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Afidro: Cubrimiento especial AFI Summit 2026",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "BeatHub Entertainment asume la operación total del Movistar Arena y se alista para una etapa de expansión",
-        "url": "https://www.portafolio.co/negocios/empresas/beathub-entertainment-consolida-el-100-del-movistar-arena-y-prepara-nueva-etapa-de-expansion-502726",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Movistar Arena pasa a ser operada 100% por BeatHub Entertainment y se prepara para una nueva etapa de expansión",
-        "capturado": "2026-09-17T10:11:06-05:00"
-      },
-      {
-        "titulo": "Matriculas de automotores nuevos terminaran este ano cerca de 330000 unidades",
-        "url": "https://www.portafolio.co/negocios/vehiculo/este-ano-cierra-con-unos-330-000-vehiculos-nuevos-502709",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "‘Este año cierra con unos 330.000 vehículos nuevos’",
-        "capturado": "2026-09-17T00:07:24-05:00"
-      },
-      {
-        "titulo": "La innovacion en medicamentos no se trae del exterior para comercializar, segun Afidro",
-        "url": "https://www.portafolio.co/negocios/empresas/la-innovacion-en-medicamentos-no-es-una-caja-que-se-importa-y-se-vende-la-categorica-posicion-de-afidro-502641",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "'La innovación en medicamentos no es una caja que se importa y se vende', la categórica posición de Afidro",
-        "capturado": "2026-09-17T00:07:24-05:00"
-      },
-      {
-        "titulo": "Seguros Sura advierte crisis de salud mental por desastres como el sismo y explica motivos",
-        "url": "https://www.portafolio.co/negocios/empresas/la-pandemia-de-salud-mental-que-le-preocupa-a-seguros-sura-ante-hechos-catastroficos-como-el-terremoto-las-razones-502696",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "La pandemia de salud mental que le preocupa a Seguros Sura ante hechos catastróficos como el terremoto; las razones",
-        "capturado": "2026-09-17T00:07:24-05:00"
-      },
-      {
-        "titulo": "Fenalco posterga su Congreso Nacional para enfocar ayuda a comerciantes damnificados por el sismo",
-        "url": "https://www.portafolio.co/negocios/comercio/fenalco-aplaza-su-congreso-nacional-para-priorizar-el-apoyo-a-los-comerciantes-afectados-por-el-terremoto-502660",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Fenalco aplaza su Congreso Nacional para priorizar el apoyo a los comerciantes afectados por el terremoto",
-        "capturado": "2026-09-17T00:07:24-05:00"
-      },
-      {
-        "titulo": "Esto explicó la marca Andina acerca de su posible vínculo con el fichaje de Cuadrado por Millonarios",
-        "url": "https://www.portafolio.co/negocios/empresas/que-tiene-que-ver-andina-con-la-llegada-de-cuadrado-a-millonarios-esto-dice-la-marca-502699",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "¿Qué tiene que ver Andina con la llegada de Cuadrado a Millonarios? Esto dice la marca",
-        "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Seguros Sura advierte sobre un riesgo de pandemia de salud mental tras eventos trágicos como sismos",
-        "url": "https://www.portafolio.co/negocios/empresas/seguros-sura-alerta-por-posibilidad-de-una-pandemia-de-salud-mental-ante-hechos-catastroficos-como-el-terremoto-502696",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Seguros Sura alerta por posibilidad de una 'pandemia de salud mental', ante hechos catastróficos como el terremoto",
-        "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Plaza de las Américas destina 30 por ciento de su propuesta a ocio y comida tras crecer cerca de un billón",
-        "url": "https://www.portafolio.co/negocios/comercio/tras-expansion-cercana-a-1-billon-plaza-de-las-americas-tiene-30-de-su-oferta-en-entretenimiento-y-gastronomia-502692",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Tras expansión cercana a $1 billón, Plaza de las Américas tiene 30% de su oferta en entretenimiento y gastronomía",
-        "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Ya se conocen los nombres de los directivos colombianos destacados por su talento empresarial",
-        "url": "https://www.portafolio.co/negocios/empresas/el-talento-empresarial-de-colombia-ya-tiene-nombres-502693",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "El talento empresarial de Colombia ya tiene nombres",
-        "capturado": "2026-09-16T19:06:59-05:00"
-      },
-      {
-        "titulo": "Ganancia neta de Olímpica subió 10,3% al cierre del primer semestre y rebasó la inflación anual",
-        "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-de-olimpica-crecio-10-3-en-el-primer-semestre-y-supero-la-inflacion-anual-502690",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Utilidad neta de Olímpica creció 10,3% en el primer semestre y superó la inflación anual",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Midea intensifica su crecimiento en Colombia proyectando ventas superiores a $280.000 millones para 2026",
-        "url": "https://www.portafolio.co/negocios/industrias/midea-acelera-su-expansion-en-colombia-espera-vender-mas-de-280-000-millones-en-502689",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Midea acelera su expansión en Colombia: espera vender más de $280.000 millones en 2026",
-        "capturado": "2026-09-16T16:53:22-05:00"
-      },
-      {
-        "titulo": "Ventas del comercio minorista conservaron su fuerza en julio con un alza del 5,3% empujadas por autos",
-        "url": "https://www.portafolio.co/negocios/comercio/comercio-minorista-mantuvo-su-dinamismo-en-julio-y-crecio-5-3-impulsado-por-la-venta-de-vehiculos-502675",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Comercio minorista mantuvo su dinamismo en julio y creció 5,3% impulsado por la venta de vehículos",
-        "capturado": "2026-09-16T16:53:22-05:00"
       }
     ]
   }
