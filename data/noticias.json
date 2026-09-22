@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-22T07:22:04-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-22T12:08:48-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Asbama advierte que el banano sufre menores ingresos, más riesgos y clima adverso para el cultivador",
+        "url": "https://www.portafolio.co/economia/agro/el-banano-enfrenta-una-espiral-perversa-cae-el-ingreso-suben-los-riesgos-y-el-clima-golpea-al-productor-asbama-502829",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "'El banano enfrenta una espiral perversa: cae el ingreso, suben los riesgos y el clima golpea al productor': Asbama",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Indagan a exdirectivos de Emssanar por presunta omisión en manejo de 14.000 millones de pesos estatales",
+        "url": "https://www.portafolio.co/economia/gobierno/procuraduria-investiga-a-exdirectivos-de-emssanar-por-posible-falta-de-gestion-sobre-14-000-millones-publicos-503028",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Procuraduría investiga a exdirectivos de Emssanar por posible falta de gestión sobre $14.000 millones públicos",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "El plan gubernamental para elevar la economía nacional al 6 por ciento apoyado en capital privado",
+        "url": "https://www.portafolio.co/economia/gobierno/asi-busca-jose-manuel-restrepo-llevar-el-crecimiento-de-colombia-al-6-con-inversion-privada-y-menos-trabas-503027",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "La ruta con la que el Gobierno busca llevar el crecimiento de Colombia al 6%, basada en la inversión privada",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Bancolombia registra más de 1,3 millones de consultas en Tu Puntaje Crediticio y gana terreno",
+        "url": "https://www.portafolio.co/economia/tu-puntaje-crediticio-supera-1-3-millones-de-consultas-y-gana-espacio-entre-los-clientes-de-bancolombia-503025",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Tu Puntaje Crediticio supera 1,3 millones de consultas y gana espacio entre los clientes de Bancolombia",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Capitales de ricos colombianos salen al extranjero para mermar peligros: hacia dónde se dirigen",
+        "url": "https://www.portafolio.co/economia/finanzas/grandes-fortunas-colombianas-sacan-parte-de-su-capital-al-exterior-para-reducir-riesgos-a-donde-van-a-parar-503022",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Grandes fortunas colombianas sacan parte de su capital al exterior para reducir riesgos: ¿a dónde van a parar?",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "FNC sube de 10.000 a 12.000 pesos el pago por kilo de pasilla para los caficultores",
+        "url": "https://www.portafolio.co/economia/agro/cafeteros-recibiran-mas-por-la-pasilla-fnc-eleva-de-10-000-a-12-000-el-pago-por-kilogramo-503021",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Cafeteros recibirán más por la pasilla: FNC eleva de $10.000 a $12.000 el pago por kilogramo",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Más de 651.000 millones de pesos adeudan a la Alcaldía 274.119 ciudadanos bogotanos",
+        "url": "https://www.portafolio.co/economia/274-119-contribuyentes-de-bogota-tienen-deudas-tributarias-por-mas-de-651-000-millones-con-el-distrito-503019",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "274.119 contribuyentes de Bogotá tienen deudas tributarias por más de $651.000 millones con el Distrito",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Una moneda protocolaria de oro con tigre ojiverde y seguridades diseña Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-prepara-moneda-protocolaria-de-oro-tendria-un-tigre-ojiverde-y-simbolos-de-seguridad-503014",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Abelardo De La Espriella prepara moneda protocolaria de oro: tendría un tigre ojiverde y símbolos de seguridad",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Wenia habilita en la plataforma de Bancolombia la adquisición de oro digital",
+        "url": "https://www.portafolio.co/economia/finanzas/bancolombia-suma-oro-digital-a-su-portafolio-y-amplia-su-apuesta-por-los-activos-digitales-503013",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Oro digital llega al ecosistema Bancolombia y se podrá comprar desde la plataforma de Wenia",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
+      {
+        "titulo": "Demoras en obras y frentes clave ponen al Metro de Bogotá bajo observación de la Contraloría",
+        "url": "https://www.portafolio.co/economia/gobierno/metro-de-bogota-queda-bajo-la-lupa-de-la-contraloria-por-retrasos-en-obras-y-frentes-clave-503012",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Metro de Bogotá queda bajo la lupa de la Contraloría por retrasos en obras y frentes clave",
+        "capturado": "2026-09-22T12:08:48-05:00"
+      },
       {
         "titulo": "Precio del euro en Colombia este 22 de septiembre y su variación reciente",
         "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-asi-se-cotiza-este-22-de-septiembre-y-cuanto-ha-subido-503010",
@@ -503,106 +603,6 @@
         "publicacion": "2026-09-19",
         "titulo_fuente": "Dian solo cobraría estos cuatro impuestos y los demás desaparecerían, según plan del gobierno de De La Espriella",
         "capturado": "2026-09-19T13:09:37-05:00"
-      },
-      {
-        "titulo": "El departamento con mayor gasto en compras de Amor y Amistad no es Bogotá ni Antioquia",
-        "url": "https://www.portafolio.co/economia/finanzas/no-es-bogota-ni-antioquia-el-departamento-que-mas-gasta-por-compra-en-amor-y-amistad-502864",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-19",
-        "titulo_fuente": "No es Bogotá ni Antioquia: el departamento que más gasta por compra en Amor y Amistad",
-        "capturado": "2026-09-19T13:09:37-05:00"
-      },
-      {
-        "titulo": "Dian lanza gran paquete de beneficios tributarios para afectados y contribuyentes por sismo",
-        "url": "https://www.portafolio.co/economia/impuestos/terremoto-en-colombia-dian-activa-amplio-paquete-de-alivios-fiscales-para-contribuyentes-y-zonas-afectadas-502866",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-19",
-        "titulo_fuente": "Terremoto en Colombia: Dian activa amplio paquete de alivios fiscales para contribuyentes y zonas afectadas",
-        "capturado": "2026-09-19T13:09:37-05:00"
-      },
-      {
-        "titulo": "Fenalco aplaude el retorno de la Cámara de Comercio de Bogotá a manos de los comerciantes",
-        "url": "https://www.portafolio.co/economia/gobierno/fenalco-celebra-la-devolucion-de-la-camara-de-comercio-de-bogota-a-los-comerciantes-502865",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-19",
-        "titulo_fuente": "Fenalco celebra la devolución de la Cámara de Comercio de Bogotá a los comerciantes",
-        "capturado": "2026-09-19T13:09:37-05:00"
-      },
-      {
-        "titulo": "Jurista de parientes del médico muerto en Tailandia será delegado ante la UE y la Otan",
-        "url": "https://www.portafolio.co/economia/gobierno/abogado-de-la-familia-del-cirujano-colombiano-asesinado-en-tailandia-representara-a-colombia-ante-la-ue-y-la-otan-502860",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-19",
-        "titulo_fuente": "Abogado de la familia del cirujano colombiano asesinado en Tailandia, representará a Colombia ante la UE y la Otan",
-        "capturado": "2026-09-19T10:25:42-05:00"
-      },
-      {
-        "titulo": "Ejecutivo vigila a once cajas de compensación por supuestas anomalías y riesgos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pone-la-lupa-a-11-cajas-de-compensacion-por-presuntas-irregularidades-y-posibles-riesgos-502859",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-19",
-        "titulo_fuente": "Gobierno pone la lupa a 11 cajas de compensación por presuntas irregularidades y posibles riesgos",
-        "capturado": "2026-09-19T10:25:42-05:00"
-      },
-      {
-        "titulo": "Consulte y baje acá la versión virtual de Portafolio fin de semana",
-        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-502853",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
-        "capturado": "2026-09-19T01:30:16-05:00"
-      },
-      {
-        "titulo": "Causas del alza del dólar tras el incremento de tasas de la FED en USA según analista",
-        "url": "https://www.portafolio.co/economia/finanzas/por-que-el-dolar-ha-subido-desde-que-la-fed-aumento-la-tasa-de-interes-en-estados-unidos-esto-dice-experto-502837",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "¿Por qué el dólar ha subido desde que la FED aumentó la tasa de interés en Estados Unidos? Esto dice experto",
-        "capturado": "2026-09-18T18:28:37-05:00"
-      },
-      {
-        "titulo": "Ejecutivo entregará subsidio del 40% del salario mínimo por empleado a mipymes afectadas por el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-dara-apoyo-de-40-de-un-salario-minimo-por-trabajador-a-mipymes-golpeadas-por-el-sismo-502835",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Gobierno dará apoyo de 40% de un salario mínimo por trabajador a mipymes golpeadas por el terremoto",
-        "capturado": "2026-09-18T16:06:45-05:00"
-      },
-      {
-        "titulo": "La divisa colombiana sobresale globalmente: la ruta para figurar entre las más apreciadas de 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/el-peso-colombiano-destaca-en-el-mundo-como-llego-a-ser-una-de-las-monedas-mas-fuertes-de-502832",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "El peso colombiano destaca en el mundo: ¿cómo llegó a ser una de las monedas más fuertes de 2026?",
-        "capturado": "2026-09-18T16:06:45-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella informa que David Vélez será su asesor en estrategia de IA para achicar el Estado",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-que-david-velez-lo-asesorara-en-plan-de-ia-para-reducir-el-estado-colombiano-502823",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Abelardo De La Espriella anuncia que David Vélez lo asesorará en plan de IA para reducir el Estado colombiano",
-        "capturado": "2026-09-18T13:05:30-05:00"
       }
     ],
     "Negocios": [
