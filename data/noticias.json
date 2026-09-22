@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-21T17:43:11-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-21T20:26:27-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,106 @@
     ],
     "Negocios": [
       {
+        "titulo": "Estos fueron los galardonados en los galardones Portafolio 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-quedo-el-cuadro-de-honor-de-los-premios-portafolio-502996",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Así quedó el cuadro de honor de los premios Portafolio 2026",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Diego Andrés Laiton, de la Universidad Nacional, gana Mejor Estudiante Universitario en Premios Portafolio 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/diego-andres-laiton-de-la-universidad-nacional-es-el-mejor-estudiante-universitario-de-premios-portafolio-502943",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Diego Andrés Laiton, de la Universidad Nacional, es el Mejor Estudiante Universitario de Premios Portafolio 2026",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "De monitor académico a Docente Universitario del Año: el relato de Álvaro Guzmán",
+        "url": "https://www.portafolio.co/negocios/empresas/de-monitor-academico-a-docente-universitario-del-ano-la-historia-de-alvaro-guzman-502946",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "De monitor académico a Docente Universitario del Año: la historia de Álvaro Guzmán",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Supía obtiene los Premios Portafolio 2026 por abastecer con agua potable a 9800 pobladores del campo",
+        "url": "https://www.portafolio.co/negocios/empresas/supia-gana-los-premios-portafolio-2026-por-llevar-agua-potable-a-9-800-habitantes-rurales-502945",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Supía gana los Premios Portafolio 2026 por llevar agua potable a 9.800 habitantes rurales",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Hospital Padrino, de la Fundación Valle del Lili, se lleva el Premio Portafolio en Aporte a la Comunidad",
+        "url": "https://www.portafolio.co/negocios/empresas/hospital-padrino-de-la-fundacion-valle-del-lili-gana-el-premio-portafolio-en-aporte-a-la-comunidad-502941",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "‘Hospital Padrino’, de la Fundación Valle del Lili, gana el Premio Portafolio en Aporte a la Comunidad",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Desde la arracacha hasta la arqueología y un esquema de progreso rural impulsado por Crepes & Waffles",
+        "url": "https://www.portafolio.co/negocios/empresas/de-la-arracacha-a-la-arqueologia-y-un-modelo-de-desarrollo-rural-que-promueve-crepes-waffles-502944",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "De la arracacha a la arqueología y un modelo de desarrollo rural que promueve Crepes & Waffles",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Uniban gana galardón de gestión Ambiental y Sostenibilidad por su enfoque de productividad y biodiversidad",
+        "url": "https://www.portafolio.co/negocios/empresas/por-su-estrategia-de-biodiversidad-y-productividad-uniban-recibe-el-premio-de-gestion-ambiental-y-sostenibilidad-502973",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Por su estrategia de biodiversidad y productividad Uniban recibe el premio de gestión Ambiental y Sostenibilidad",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Cenit recibe reconocimiento por su plan de bienestar y por hacer del talento humano un eje de negocio",
+        "url": "https://www.portafolio.co/negocios/empresas/cenit-es-premiada-por-su-estrategia-de-bienestar-y-por-convertir-la-gestion-del-talento-en-un-eje-de-negocio-502974",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Cenit es premiada por su estrategia de bienestar y por convertir la gestión del talento en un eje de negocio",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Discurso de José Caparroso en Premios Portafolio 2026 destaca datos que generan optimismo pese a todo",
+        "url": "https://www.portafolio.co/negocios/pese-a-todo-hay-datos-que-invitan-al-optimismo-discurso-de-jose-caparroso-en-los-premios-portafolio-502983",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "‘Pese a todo, hay datos que invitan al optimismo’: discurso de José Caparroso, en los Premios Portafolio 2026",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
+        "titulo": "Bajo precio del dólar eleva importaciones en Colombia a máximo histórico con alza de 22,9% en julio",
+        "url": "https://www.portafolio.co/negocios/comercio/dolar-barato-impulsa-record-de-importaciones-en-colombia-que-crecieron-22-9-durante-julio-502994",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Dólar barato impulsa récord de importaciones en Colombia, que crecieron 22,9% durante julio",
+        "capturado": "2026-09-21T20:26:27-05:00"
+      },
+      {
         "titulo": "Asi opera la alianza entre LG y Faber-Castell para beneficiar a la ninez en el pais",
         "url": "https://www.portafolio.co/negocios/empresas/lg-y-faber-castell-lanzan-un-nuevo-proyecto-por-los-ninos-en-colombia-asi-funcionara-su-iniciativa-502991",
         "resumen": "",
@@ -1105,106 +1205,6 @@
         "publicacion": "2026-09-17",
         "titulo_fuente": "Cámara de Comercio de Bogotá elige a Juan Esteban Orrego como su nuevo presidente",
         "capturado": "2026-09-18T00:33:57-05:00"
-      },
-      {
-        "titulo": "Cobertura AFI con Catalina Ricaurte gerente de Merck y presidenta de la junta directiva de Afidro",
-        "url": "https://www.portafolio.co/negocios/empresas/cubrimiento-afi-con-catalina-ricaurte-gerente-de-merck-y-presidente-de-la-junta-directiva-de-afidro-502775",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Cubrimiento AFI con Catalina Ricaurte Gerente de Merck y presidente de la junta directiva de Afidro",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Supertransporte advierte sobre revisiones técnico mecánicas exprés y la posibilidad de una multa",
-        "url": "https://www.portafolio.co/negocios/vehiculo/supertransporte-alerta-por-revisiones-tecnico-mecanicas-expres-podria-terminar-recibiendo-una-multa-502768",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Supertransporte alerta por revisiones técnico-mecánicas ‘exprés’: podría terminar recibiendo una multa",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "La marca Eddie Bauer planea cuatro locales nuevos en Colombia y dinamiza su crecimiento",
-        "url": "https://www.portafolio.co/negocios/empresas/la-marca-eddie-bauer-proyecta-cuatro-nuevas-tiendas-en-colombia-y-acelera-su-expansion-502771",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "La marca Eddie Bauer proyecta cuatro nuevas tiendas en Colombia y acelera su expansión",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Trulab alcanza más de ochocientas empresas asesoradas y mueve sobre siete millones de dólares",
-        "url": "https://www.portafolio.co/negocios/inversion/trulab-supera-800-empresas-acompanadas-y-moviliza-mas-de-us-7-millones-para-fortalecer-negocios-502769",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Trulab supera 800 empresas acompañadas y moviliza más de US$7 millones para fortalecer negocios",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "SIC conserva indagación a Caracol Radio por presunta integración empresarial con Canal Uno",
-        "url": "https://www.portafolio.co/negocios/empresas/sic-mantiene-investigacion-contra-caracol-radio-por-posible-integracion-empresarial-con-canal-uno-502765",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "SIC mantiene investigación contra Caracol Radio por posible integración empresarial con Canal Uno",
-        "capturado": "2026-09-17T17:20:19-05:00"
-      },
-      {
-        "titulo": "Alza en presupuesto de colombianos para Amor y Amistad con mayor inclinación hacia vivencias",
-        "url": "https://www.portafolio.co/negocios/comercio/colombianos-gastaran-mas-en-amor-y-amistad-pero-cada-vez-prefieren-invertir-en-experiencias-502760",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Colombianos gastarán más en Amor y Amistad, pero cada vez prefieren invertir en experiencias",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Dueña del DaviArena en Medellín adquiere la totalidad de la gestión del Movistar Arena",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-firma-detras-del-daviarena-de-medellin-que-compro-el-100-de-la-operacion-del-movistar-arena-502757",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Esta es la firma detrás del DaviArena de Medellín que compró el 100% de la operación del Movistar Arena",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Galardón Portafolio 2026 homenajeará la trayectoria empresarial de Carlos Mario Giraldo Moreno",
-        "url": "https://www.portafolio.co/negocios/empresas/premios-portafolio-2026-reconocera-la-vida-y-obra-del-empresario-carlos-mario-giraldo-moreno-502752",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Premios Portafolio 2026 reconocerá la vida y obra del empresario Carlos Mario Giraldo Moreno",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Totto señala que prefiere equipos sin permiso previo pero que su autonomía exija resultados",
-        "url": "https://www.portafolio.co/negocios/empresas/no-creo-en-equipos-que-necesiten-autorizacion-para-todo-pero-la-autonomia-debe-venir-con-resultados-totto-502756",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "'No creo en equipos que necesiten autorización para todo, pero la autonomía debe venir con resultados': Totto",
-        "capturado": "2026-09-17T14:10:21-05:00"
-      },
-      {
-        "titulo": "Spotify introduce en Colombia el Partner Program como nuevo esquema de pago para podcasters",
-        "url": "https://www.portafolio.co/negocios/empresas/spotify-lanza-nuevo-modelo-de-monetizacion-en-colombia-para-creadores-de-podcasts-esto-es-partner-program-502754",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Spotify lanza nuevo modelo de monetización en Colombia para creadores de podcasts: esto es Partner Program",
-        "capturado": "2026-09-17T14:10:21-05:00"
       }
     ]
   }
