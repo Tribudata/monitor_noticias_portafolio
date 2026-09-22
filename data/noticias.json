@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-21T20:26:27-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-22T01:38:07-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ministro Rodrigo Lara confirma 75 por ciento de control de incendio en Villa de Leyva y sigue foco en Iguaque",
+        "url": "https://www.portafolio.co/economia/gobierno/ministro-rodrigo-lara-confirma-75-de-control-del-incendio-en-villa-de-leyva-persiste-foco-critico-en-iguaque-503005",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Ministro Rodrigo Lara confirma 75% de control del incendio en Villa de Leyva: persiste foco crítico en Iguaque",
+        "capturado": "2026-09-22T01:38:07-05:00"
+      },
+      {
+        "titulo": "Gobierno lanza estrategia de emergencia en salud luego de superar el millón de citas y procedimientos atrasados",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-plan-de-choque-en-salud-tras-mas-de-1-millon-de-pacientes-con-atenciones-pendientes-503002",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Gobierno anuncia plan de choque en salud tras más de 1 millón de pacientes con atenciones pendientes",
+        "capturado": "2026-09-22T01:38:07-05:00"
+      },
       {
         "titulo": "Superintendencia sanciona a distribuidora con 4.614 millones de pesos por exceder el tope en 47 fármacos",
         "url": "https://www.portafolio.co/economia/gobierno/sic-multa-con-4-614-millones-a-distribuidora-por-vender-47-medicamentos-sobre-precio-maximo-502989",
@@ -583,29 +603,29 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "elempleo + Hunty: una nueva era para el reclutamiento",
         "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "TransMiCable de San Cristóbal alcanza 94 por ciento de obra y recortará 72 por ciento de tiempos de viaje",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-transmicable-de-san-cristobal-llega-al-94-de-avance-y-reducira-72-los-tiempos-de-viaje-en-bogota-502816",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "El TransMiCable de San Cristóbal llega al 94 % de avance y reducirá 72 % los tiempos de viaje en Bogotá",
-        "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "Gobierno expide incentivos para atraer capital a zonas del sismo y Hacienda vigilará sus efectos",
-        "url": "https://www.portafolio.co/economia/decreto-crea-alivios-para-atraer-inversion-en-zonas-afectadas-por-el-terremoto-pero-hacienda-vigilara-su-impacto-502812",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Decreto crea alivios para atraer inversión en zonas afectadas por el terremoto, pero Hacienda vigilará su impacto",
-        "capturado": "2026-09-18T09:47:38-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Firmas nacionales inician operaciones en Venezuela y analizan vínculos con De La Espriella",
+        "url": "https://www.portafolio.co/negocios/comercio/empresas-colombianas-dan-primeros-pasos-en-venezuela-como-seran-las-relaciones-con-de-la-espriella-503004",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Empresas colombianas dan primeros pasos en Venezuela: cómo serán las relaciones con De La Espriella",
+        "capturado": "2026-09-22T01:38:07-05:00"
+      },
+      {
+        "titulo": "La relación comercial entre Colombia y Venezuela inicia una etapa de reactivación",
+        "url": "https://www.portafolio.co/negocios/colombia-y-venezuela-el-nuevo-capitulo-de-una-relacion-comercial-en-proceso-de-reconstruccion-503003",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Colombia y Venezuela: el nuevo capítulo de una relación comercial en proceso de reconstrucción",
+        "capturado": "2026-09-22T01:38:07-05:00"
+      },
       {
         "titulo": "Estos fueron los galardonados en los galardones Portafolio 2026",
         "url": "https://www.portafolio.co/negocios/empresas/asi-quedo-el-cuadro-de-honor-de-los-premios-portafolio-502996",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Nu Colombia proyecta $5 billones en inversión para fortalecer su operación digital",
         "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "Nubank respaldará al Gobierno De La Espriella en la digitalización con IA según Restrepo",
-        "url": "https://www.portafolio.co/negocios/empresas/nubank-apoyara-al-gobierno-de-la-espriella-en-la-modernizacion-del-estado-con-ia-restrepo-hablo-con-david-velez-502821",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Nubank apoyará al Gobierno De La Espriella en la modernización del Estado con IA: Restrepo habló con David Vélez",
-        "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "Juan Esteban Orrego es designado como el nuevo presidente de la Cámara de Comercio de Bogotá",
-        "url": "https://www.portafolio.co/negocios/comercio/camara-de-comercio-de-bogota-elige-a-juan-esteban-orrego-como-su-nuevo-presidente-502791",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-17",
-        "titulo_fuente": "Cámara de Comercio de Bogotá elige a Juan Esteban Orrego como su nuevo presidente",
-        "capturado": "2026-09-18T00:33:57-05:00"
       }
     ]
   }
