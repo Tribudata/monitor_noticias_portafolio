@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-22T15:21:50-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-09-22T18:08:44-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Taxis y apps: uno alega pérdidas por 28,67 billones y el otro destaca desarrollo y mayores ganancias",
+        "url": "https://www.portafolio.co/economia/taxis-vs-plataformas-un-lado-dice-perder-28-67-billones-el-otro-habla-de-progreso-y-mas-ingresos-503056",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Taxis vs. plataformas: un lado dice perder $28,67 billones, el otro habla de progreso y más ingresos",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Entidad bancaria alemana otorgará 25 millones de euros para ampliar vías en el departamento del Caquetá",
+        "url": "https://www.portafolio.co/economia/infraestructura/un-banco-aleman-va-a-financiar-con-25-millones-de-euros-la-ampliacion-del-programa-vial-de-caqueta-503057",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Un banco alemán va a financiar con 25 millones de euros la ampliación del programa vial de Caquetá",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Fed complica perspectivas del peso colombiano y tasa de cambio rondaría los 3.300 pesos estos días",
+        "url": "https://www.portafolio.co/economia/finanzas/fed-endurece-el-panorama-del-dolar-peso-colombiano-podria-acercarse-a-los-3-300-esta-semana-503059",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Fed endurece el panorama del peso colombiano: dólar podría acercarse a los $3.300 esta semana",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella busca 1,5 millones de hectáreas cultivables nuevas en el cuatrienio",
+        "url": "https://www.portafolio.co/economia/agro/gobierno-de-la-espriella-fija-meta-en-la-agricultura-sumar-1-5-millones-de-hectareas-productivas-en-cuatro-anos-503058",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Gobierno De La Espriella fija meta en la agricultura: sumar 1,5 millones de hectáreas productivas en cuatro años",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá: Galán admite retrasos en trabajos esenciales pero confirma inauguración para 2028",
+        "url": "https://www.portafolio.co/economia/infraestructura/metro-de-bogota-galan-reconoce-demoras-en-obras-clave-pero-mantiene-su-fecha-de-entrega-para-503054",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Metro de Bogotá: Galán reconoce demoras en obras clave, pero mantiene su fecha de entrega para 2028",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Turismo nórdico en auge: Colombia acogió 20.113 visitantes de esa región en 2025, casi cuatro veces 2020",
+        "url": "https://www.portafolio.co/economia/la-fiebre-vikinga-en-el-pais-colombia-recibio-20-113-turistas-nordicos-en-2025-casi-cuatro-veces-mas-que-en-503049",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "La fiebre vikinga en el país: Colombia recibió 20.113 turistas nórdicos en 2025, casi cuatro veces más que en 2020",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Acoset: adaptabilidad en el trabajo e inteligencia artificial para contratar en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/acoset-flexibilidad-laboral-e-inteligencia-artificial-en-la-contratacion-en-colombia-503050",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Acoset: flexibilidad laboral e inteligencia artificial en la contratación en Colombia",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
       {
         "titulo": "Analistas prevén que el Emisor conserve los tipos de interés en 12%",
         "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-mantendria-las-tasas-de-interes-en-12-segun-los-analistas-503048",
@@ -533,79 +603,29 @@
         "publicacion": "2026-09-20",
         "titulo_fuente": "Incendio forestal en Villa de Leyva habría sido provocado: autoridades revelan nuevos indicios",
         "capturado": "2026-09-20T15:41:49-05:00"
-      },
-      {
-        "titulo": "Vicepresidente José Manuel Restrepo expondrá en Nueva York las Semanas Milagro y hablará ante la ONU",
-        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-jose-manuel-restrepo-presentara-en-nueva-york-las-semanas-milagro-y-hablara-ante-la-onu-502908",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Vicepresidente José Manuel Restrepo presentará en Nueva York las 'Semanas Milagro' y hablará ante la ONU",
-        "capturado": "2026-09-20T15:41:49-05:00"
-      },
-      {
-        "titulo": "El uso de efectivo en el país llega a mínimos históricos por el auge de los pagos electrónicos",
-        "url": "https://www.portafolio.co/economia/finanzas/los-pagos-en-efectivo-en-colombia-caen-a-minimos-historicos-con-el-crecimiento-de-pagos-digitales-502903",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Los pagos en efectivo en Colombia caen a mínimos históricos, con el crecimiento de pagos digitales",
-        "capturado": "2026-09-20T12:58:28-05:00"
-      },
-      {
-        "titulo": "El 60 por ciento de los trayectos aéreos del presidente De La Espriella duraron menos de 10 minutos en su primer mes",
-        "url": "https://www.portafolio.co/economia/gobierno/seis-de-cada-10-vuelos-del-presidente-de-la-espriella-fueron-de-menos-de-10-minutos-durante-su-primer-mes-502905",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Seis de cada 10 vuelos del presidente De La Espriella fueron de menos de 10 minutos durante su primer mes",
-        "capturado": "2026-09-20T12:58:28-05:00"
-      },
-      {
-        "titulo": "El embajador de China en el país contesta a Peñalosa sobre el Metro de Bogotá y dice que no es entrega de mostrador",
-        "url": "https://www.portafolio.co/economia/regiones/embajador-chino-en-colombia-responde-a-penalosa-por-visita-al-metro-de-bogota-no-es-una-entrega-de-mostrador-502901",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Embajador chino en Colombia responde a Peñalosa por visita al Metro de Bogotá: ‘No es una entrega de mostrador’",
-        "capturado": "2026-09-20T12:58:28-05:00"
-      },
-      {
-        "titulo": "¿Acudir al Fondo para resolver el déficit fiscal? Una revisión de las alternativas para la nación",
-        "url": "https://www.portafolio.co/economia/gobierno/ir-al-fondo-para-salir-del-hoyo-fiscal-una-mirada-a-las-opciones-de-colombia-502900",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "¿Ir al Fondo para salir del hoyo fiscal? Una mirada a las opciones de Colombia",
-        "capturado": "2026-09-20T12:58:28-05:00"
-      },
-      {
-        "titulo": "Intensos vientos dificultan las tareas para extinguir la conflagración en Villa de Leyva",
-        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-autoridades-luchan-por-controlar-las-llamas-502899",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Fuertes vientos complican la labores para apagar incendio en Villa de Leyva",
-        "capturado": "2026-09-20T12:58:28-05:00"
-      },
-      {
-        "titulo": "Colombia y Emiratos Árabes Unidos estrecharán sus lazos en infraestructura, inteligencia artificial y energía",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-y-emiratos-arabes-unidos-fortaleceran-su-relacion-en-energia-inteligencia-artificial-e-infraestructura-502897",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Colombia y Emiratos Árabes Unidos fortalecerán su relación en energía, inteligencia artificial, e infraestructura",
-        "capturado": "2026-09-20T09:30:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Designan nuevo presidente en Quebradona, una de las iniciativas cupríferas principales del país",
+        "url": "https://www.portafolio.co/negocios/empresas/nuevo-presidente-para-uno-de-los-proyectos-de-cobre-mas-importantes-de-colombia-que-viene-para-quebradona-503060",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Nuevo presidente para uno de los proyectos de cobre más importantes de Colombia: ¿qué viene para Quebradona?",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
+      {
+        "titulo": "Covisian incrementa su peso en Colombia al generar el diez por ciento de su facturación mundial",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-gana-protagonismo-para-covisian-ya-aporta-el-10-de-los-ingresos-globales-del-grupo-503046",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Colombia gana protagonismo para Covisian: ya aporta el 10% de los ingresos globales del grupo",
+        "capturado": "2026-09-22T18:08:44-05:00"
+      },
       {
         "titulo": "Coca-Cola llega a su centenario en Colombia y este es su impacto actual en la economía nacional",
         "url": "https://www.portafolio.co/negocios/empresas/coca-cola-a-las-puertas-de-cumplir-100-anos-en-colombia-asi-pesa-hoy-en-la-economia-del-pais-503047",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-21",
         "titulo_fuente": "Innovación: Akua unifica pagos y operaciones para instituciones financiera con su plataforma AI-Native",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Alcaldía Mayor de Bogotá implementa Zona Urbana por un Mejor Aire para la gestión ecológica local",
-        "url": "https://www.portafolio.co/negocios/empresas/gestion-publica-sostenible-alcaldia-mayor-de-bogota-activa-zona-urbana-por-un-mejor-aire-zuma-502553",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Gestión pública sostenible: Alcaldía Mayor de Bogotá activa Zona Urbana por un Mejor Aire (Zuma)",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Municipio de Supía coordinó su iniciativa hídrica participativa junto con la comunidad",
-        "url": "https://www.portafolio.co/negocios/empresas/gestion-publica-sostenible-municipio-de-supia-articulo-su-estrategia-con-la-comunidad-a-traves-del-agua-502549",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Gestión pública sostenible: Municipio de Supía articuló su estrategia con la comunidad a través del agua",
         "capturado": "2026-09-21T08:38:54-05:00"
       }
     ]
