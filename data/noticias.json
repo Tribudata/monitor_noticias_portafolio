@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-22T01:38:07-05:00",
+  "actualizado": "2026-09-22T07:22:04-05:00",
   "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del euro en Colombia este 22 de septiembre y su variación reciente",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-asi-se-cotiza-este-22-de-septiembre-y-cuanto-ha-subido-503010",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Euro hoy en Colombia: así se cotiza este 22 de septiembre y cuánto ha subido",
+        "capturado": "2026-09-22T07:22:04-05:00"
+      },
+      {
+        "titulo": "Traba en presupuesto 2027: MinHacienda rechaza cambios por $111,6 billones y cede $3 billones",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-se-traba-hacienda-rechazo-cambios-por-111-6-billones-y-propone-mover-solo-3-billones-503009",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Presupuesto de 2027 se traba: Hacienda rechazó cambios por $111,6 billones y propone mover solo $3 billones",
+        "capturado": "2026-09-22T07:22:04-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar en Colombia este 22 de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-estadounidense-este-22-de-septiembre-503008",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa estadounidense este 22 de septiembre",
+        "capturado": "2026-09-22T07:22:04-05:00"
+      },
       {
         "titulo": "Ministro Rodrigo Lara confirma 75 por ciento de control de incendio en Villa de Leyva y sigue foco en Iguaque",
         "url": "https://www.portafolio.co/economia/gobierno/ministro-rodrigo-lara-confirma-75-de-control-del-incendio-en-villa-de-leyva-persiste-foco-critico-en-iguaque-503005",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Abelardo De La Espriella anuncia que David Vélez lo asesorará en plan de IA para reducir el Estado colombiano",
         "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "Ministerio de Salud asigna 1,95 billones de pesos para restaurar hospitales afectados por sismo de agosto",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-destina-1-95-billones-para-recuperar-la-red-hospitalaria-danada-por-el-terremoto-de-agosto-en-colombia-502820",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Minsalud destina $1,95 billones para recuperar la red hospitalaria dañada por el terremoto de agosto en Colombia",
-        "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "Repunte de la economía nacional se redujo a 1,11 por ciento durante el séptimo mes del año",
-        "url": "https://www.portafolio.co/economia/economia-colombiana-modero-su-crecimiento-en-julio-al-ubicarse-en-1-502819",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Economía colombiana moderó su crecimiento en julio al ubicarse en 1,11%",
-        "capturado": "2026-09-18T13:05:30-05:00"
-      },
-      {
-        "titulo": "elempleo y Hunty establecen nueva etapa para los procesos de contratación laboral",
-        "url": "https://www.portafolio.co/economia/empleo/elempleo-hunty-una-nueva-era-para-el-reclutamiento-502815",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "elempleo + Hunty: una nueva era para el reclutamiento",
-        "capturado": "2026-09-18T13:05:30-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Innovación para vehículos de carga ofrece reducir hasta 15% el gasto en gasolina ante mayores normas",
+        "url": "https://www.portafolio.co/negocios/empresas/tecnologia-para-flotas-de-carga-promete-hasta-15-de-ahorro-en-combustible-mientras-crecen-exigencias-regulatorias-503006",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Tecnología para flotas de carga promete hasta 15% de ahorro en combustible mientras crecen exigencias regulatorias",
+        "capturado": "2026-09-22T07:22:04-05:00"
+      },
       {
         "titulo": "Firmas nacionales inician operaciones en Venezuela y analizan vínculos con De La Espriella",
         "url": "https://www.portafolio.co/negocios/comercio/empresas-colombianas-dan-primeros-pasos-en-venezuela-como-seran-las-relaciones-con-de-la-espriella-503004",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Lili Pink cuestiona nuevas medidas de extinción de dominio y dice que afectan bienes ajenos a la marca",
         "capturado": "2026-09-18T16:06:45-05:00"
-      },
-      {
-        "titulo": "Nu Colombia planea cinco billones de pesos para afianzar su servicio digital",
-        "url": "https://www.portafolio.co/negocios/empresas/nu-colombia-proyecta-5-billones-en-inversion-para-fortalecer-su-operacion-digital-502824",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Nu Colombia proyecta $5 billones en inversión para fortalecer su operación digital",
-        "capturado": "2026-09-18T13:05:30-05:00"
       }
     ]
   }
