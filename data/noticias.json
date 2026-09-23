@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-23T16:07:41-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-23T18:51:26-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sigue la discusión del Presupuesto General en el Congreso con posturas de la izquierda y el Minhacienda",
+        "url": "https://www.portafolio.co/economia/gobierno/avanza-el-debate-del-presupuesto-general-en-el-congreso-los-argumentos-de-la-izquierda-y-la-defensa-de-minhacienda-503149",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Avanza el debate del Presupuesto General en el Congreso: los argumentos de la izquierda y la defensa de Minhacienda",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Credicorp Capital proyecta inflación de 7% para 2026 y tasas altas por El Niño y mayor gasto estatal",
+        "url": "https://www.portafolio.co/economia/inflacion-cerraria-en-7-2026-y-mantendria-las-tasas-altas-ante-el-nino-y-mayor-gasto-publico-credicorp-capital-503148",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Inflación cerraría en 7% 2026 y mantendría las tasas altas ante El Niño y mayor gasto público: Credicorp Capital",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "El 94% de las firmas retiene talento con beneficios y el 82% conserva métodos tradicionales de trabajo",
+        "url": "https://www.portafolio.co/economia/empleo/el-94-de-las-empresas-busca-retener-talento-con-beneficios-pero-82-mantiene-esquemas-tradicionales-503141",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "El 94% de las empresas busca retener talento con beneficios, pero 82% mantiene esquemas tradicionales",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
       {
         "titulo": "Títulos de Royal Caribbean caen fuerte al revelar compra del 50 por ciento de Sandals por 3000 millones de dólares",
         "url": "https://www.portafolio.co/economia/acciones-de-royal-caribbean-se-desploman-tras-anunciar-la-compra-de-la-mitad-de-sandals-por-us-3-000-millones-503125",
@@ -573,39 +603,69 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Gobierno anuncia plan de choque en salud tras más de 1 millón de pacientes con atenciones pendientes",
         "capturado": "2026-09-22T01:38:07-05:00"
-      },
-      {
-        "titulo": "Superintendencia sanciona a distribuidora con 4.614 millones de pesos por exceder el tope en 47 fármacos",
-        "url": "https://www.portafolio.co/economia/gobierno/sic-multa-con-4-614-millones-a-distribuidora-por-vender-47-medicamentos-sobre-precio-maximo-502989",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "SIC multa con $4.614 millones a distribuidora por vender 47 medicamentos sobre precio máximo",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Ente acusador llama a diligencia de interrogatorio al personal financiero de los grupos de Iván Cepeda y Carolina Corcho",
-        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-cita-a-interrogatorio-al-equipo-financiero-de-las-campanas-de-ivan-cepeda-y-carolina-corcho-502987",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Fiscalía cita a interrogatorio al equipo financiero de las campañas de Iván Cepeda y Carolina Corcho",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Compañías de seguros calculan desembolsos de 5,5 billones por sismo y solicitudes suman 85.496",
-        "url": "https://www.portafolio.co/economia/gobierno/aseguradoras-estiman-pagos-por-5-5-billones-tras-terremoto-y-reclamaciones-llegan-a-85-502985",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Aseguradoras estiman pagos por $5,5 billones tras terremoto y reclamaciones llegan a 85.496",
-        "capturado": "2026-09-21T17:43:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Treinta y cuatro mil viajeros colombianos fueron a la isla caribeña y aseguran que cualquier época es buena",
+        "url": "https://www.portafolio.co/negocios/no-hay-una-temporada-mala-para-visitar-aruba-34-000-turistas-colombianos-visitaron-la-isla-del-caribe-503145",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "'No hay una temporada mala para visitar Aruba': 34.000 turistas colombianos visitaron la isla del Caribe",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Nick Pérez, heredero del rey de los condominios de Miami, afirma que EE. UU. es el sitio más seguro para invertir",
+        "url": "https://www.portafolio.co/negocios/estados-unidos-es-hoy-el-lugar-mas-seguro-para-invertir-nick-perez-hijo-del-rey-de-los-condominios-de-miami-503146",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "'Estados Unidos es hoy el lugar más seguro para invertir': Nick Pérez, hijo del 'rey de los condominios' de Miami",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Uber Mujeres se estrena en Bogotá, Medellín y Cali como una alternativa de la plataforma para solicitar viajes",
+        "url": "https://www.portafolio.co/negocios/llega-uber-mujeres-la-nueva-opcion-de-la-app-que-permitira-pedir-viajes-con-conductoras-en-bogota-medellin-y-cali-503134",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Llega Uber Mujeres, la nueva opción de la app que permitirá pedir viajes con conductoras en Bogotá, Medellín y Cali",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Falta de recursos para mega cárceles obliga al Gobierno a usar lotes estatales y unirse a constructoras",
+        "url": "https://www.portafolio.co/negocios/empresas/sin-plata-para-megacarceles-gobierno-busca-usar-predios-de-la-nacion-y-aliarse-con-constructoras-para-levantarlas-503140",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Sin plata para megacárceles: Gobierno busca usar predios de la Nación y aliarse con constructoras para levantarlas",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Tras tres años en Colombia, Ikea crece: compradores aumentan 24% y las visitas a almacenes suben 18% en 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/ikea-gana-terreno-en-colombia-clientes-crecen-24-y-visitas-a-tiendas-suben-18-en-503139",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Ikea sigue ganando terreno, luego 3 años en Colombia: clientes crecen 24% y visitas a tiendas suben 18% en 2026",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
+      {
+        "titulo": "Informe especial sobre las determinaciones clave de inversión en Bogotá",
+        "url": "https://www.portafolio.co/negocios/inversion/cubrimiento-especial-las-grandes-decisiones-de-inversion-en-bogota-503137",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Cubrimiento especial: las grandes decisiones de inversión en Bogotá",
+        "capturado": "2026-09-23T18:51:26-05:00"
+      },
       {
         "titulo": "Tendencias que mueven los mercados en la Investor Conference 2026",
         "url": "https://www.portafolio.co/negocios/inversion/investor-conference-2026-tendencias-que-mueven-los-mercados-503135",
@@ -1144,66 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-21",
         "titulo_fuente": "Mejor estudiante universitario: Yessica Suárez, de campeona de economía a promotora del debate en colegios públicos",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacada alumna universitaria María José Medellín y su enfoque en impulsar el rol de las economistas",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-maria-jose-medellin-y-su-apuesta-por-una-mayor-participacion-de-las-economista-502715",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor estudiante universitario: María José Medellín y su apuesta por una mayor participación de las economista",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacada profesora universitaria Gloria Lucía Bernal Nisperuza: perfil y hoja de vida",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-quien-es-gloria-lucia-bernal-nisperuza-perfil-y-trayectoria-502718",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor docente universitario: ¿Quién es Gloria Lucía Bernal Nisperuza? Perfil y trayectoria",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado docente universitario Jahir Lombana-Coy, doctor en Economía y docente de UniNorte",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-jahir-lombana-coy-doctor-en-economia-y-profesor-de-uninorte-502719",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor docente universitario: Jahir Lombana-Coy, doctor en Economía y profesor de UniNorte",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado alumno universitario Jerónimo Salazar, rendimiento académico e investigación en Economía Cuantitativa",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-jeronimo-salazar-excelencia-academica-e-investigacion-en-economia-cuantitativa-502714",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor estudiante universitario: Jerónimo Salazar, excelencia académica e investigación en Economía Cuantitativa",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado profesor universitario Jonathan Malagón González, economista y docente de la Universidad Nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-jonathan-malagon-gonzalez-economista-y-profesor-de-la-universidad-nacional-502720",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor docente universitario: Jonathan Malagón González, economista y profesor de la Universidad Nacional",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado docente universitario Mauricio Villamizar Villegas, especialista en política monetaria y mercados financieros",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-mauricio-villamizar-villegas-experto-en-politica-monetaria-y-mercados-financieros-502721",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor docente universitario: Mauricio Villamizar Villegas, experto en política monetaria y mercados financieros",
         "capturado": "2026-09-21T14:04:31-05:00"
       }
     ]
