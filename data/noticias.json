@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-22T18:08:44-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-22T20:38:44-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Modificaciones del Minhacienda al Presupuesto 2027: $170.000 millones menos para justicia transicional",
+        "url": "https://www.portafolio.co/economia/gobierno/los-cambios-aprobados-de-minhacienda-al-presupuesto-2027-170-000-millones-menos-para-la-justicia-transicional-503072",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Los cambios aprobados de Minhacienda al Presupuesto 2027: $170.000 millones menos para la justicia transicional",
+        "capturado": "2026-09-22T20:38:44-05:00"
+      },
       {
         "titulo": "Taxis y apps: uno alega pérdidas por 28,67 billones y el otro destaca desarrollo y mayores ganancias",
         "url": "https://www.portafolio.co/economia/taxis-vs-plataformas-un-lado-dice-perder-28-67-billones-el-otro-habla-de-progreso-y-mas-ingresos-503056",
@@ -593,19 +603,29 @@
         "publicacion": "2026-09-20",
         "titulo_fuente": "Presidente Abelardo De la Espriella niega que quiera vengarse de la JEP y defiende el recorte presupuestal",
         "capturado": "2026-09-20T15:41:49-05:00"
-      },
-      {
-        "titulo": "Fuego forestal en Villa de Leyva habría sido intencional: autoridades exponen nuevos indicios",
-        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-habria-sido-provocado-autoridades-revelan-nuevos-indicios-502909",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Incendio forestal en Villa de Leyva habría sido provocado: autoridades revelan nuevos indicios",
-        "capturado": "2026-09-20T15:41:49-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Estudian en el Congreso subsidio para deudores del Soat en Bogotá y otras ciudades",
+        "url": "https://www.portafolio.co/negocios/vehiculo/posible-alivio-para-deudores-del-soat-en-bogota-y-otras-ciudades-asi-funcionaria-subsidio-que-estudia-el-congreso-503071",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Posible alivio para deudores del Soat en Bogotá y otras ciudades: así funcionaría subsidio que estudia el Congreso",
+        "capturado": "2026-09-22T20:38:44-05:00"
+      },
+      {
+        "titulo": "Tiendas Herbolario buscan liderar mercado saludable en ciudades intermedias",
+        "url": "https://www.portafolio.co/negocios/comercio/liderar-el-mercado-de-productos-saludables-en-ciudades-intermedias-meta-de-las-tiendas-herbolario-503063",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Liderar el mercado de productos saludables en ciudades intermedias, meta de las tiendas Herbolario",
+        "capturado": "2026-09-22T20:38:44-05:00"
+      },
       {
         "titulo": "Designan nuevo presidente en Quebradona, una de las iniciativas cupríferas principales del país",
         "url": "https://www.portafolio.co/negocios/empresas/nuevo-presidente-para-uno-de-los-proyectos-de-cobre-mas-importantes-de-colombia-que-viene-para-quebradona-503060",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-21",
         "titulo_fuente": "Innovación: Banco de Occidente desarrolló una IA generativa que negocia y vende",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Innovación: Kéfir Plus de Alpina, una creación para la microbiota y el bienestar de los compradores",
-        "url": "https://www.portafolio.co/negocios/empresas/innovacion-kefir-plus-de-alpina-un-desarrollo-para-la-microbiota-y-la-salud-de-sus-clientes-502567",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Innovación: Kéfir Plus de Alpina, un desarrollo para la microbiota y la salud de sus clientes",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Akua integra pagos y operaciones de entidades financieras mediante plataforma de inteligencia artificial",
-        "url": "https://www.portafolio.co/negocios/empresas/innovacion-akua-unifica-pagos-y-operaciones-para-instituciones-financiera-con-su-plataforma-ai-native-502566",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Innovación: Akua unifica pagos y operaciones para instituciones financiera con su plataforma AI-Native",
         "capturado": "2026-09-21T08:38:54-05:00"
       }
     ]
