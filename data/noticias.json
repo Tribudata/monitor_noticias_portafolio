@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-23T02:22:57-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-23T07:54:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del euro en Colombia baja hoy y registra una caída ante el peso",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-precio-cae-y-marca-retroceso-frente-al-peso-colombiano-503083",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Euro hoy en Colombia: precio cae y marca retroceso frente al peso colombiano",
+        "capturado": "2026-09-23T07:54:21-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia sube este 23 de septiembre y la TRM queda en $3.208,66",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-amanece-al-alza-este-23-de-septiembre-y-la-trm-se-fija-en-3-208-503082",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "El dólar en Colombia amanece al alza este 23 de septiembre y la TRM se fija en $3.208,66",
+        "capturado": "2026-09-23T07:54:21-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella alista segunda emergencia económica por El Niño",
+        "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-de-la-espriella-prepara-su-segunda-declaratoria-de-emergencia-economica-esta-vez-por-el-nino-503081",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Gobierno De La Espriella prepara su segunda declaratoria de emergencia económica para anticiparse a El Niño",
+        "capturado": "2026-09-23T07:54:21-05:00"
+      },
       {
         "titulo": "Colpensiones solicita a la Corte Constitucional postergar a 2028 la vigencia de la reforma pensional",
         "url": "https://www.portafolio.co/economia/gobierno/colpensiones-pide-a-la-corte-constitucional-aplazar-hasta-2028-la-entrada-en-vigencia-de-la-reforma-pensional-503066",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-20",
         "titulo_fuente": "Asobancaria lanza indicador para medir la demanda de efectivo en las regiones de Colombia",
         "capturado": "2026-09-20T17:59:41-05:00"
-      },
-      {
-        "titulo": "Sector agropecuario, minero, industrial y constructor detuvieron la economía en julio ubicando el ISE en 1,11%",
-        "url": "https://www.portafolio.co/economia/agro-mineria-industria-y-construccion-frenaron-la-economia-en-julio-y-llevaron-el-ise-a-crecer-solo-1-502828",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Agro, minería, industria y construcción frenaron la economía en julio y llevaron el ISE a crecer solo 1,11%",
-        "capturado": "2026-09-20T17:59:41-05:00"
-      },
-      {
-        "titulo": "De esta manera operará el conjunto de 15 acciones reveladas por el Ejecutivo para mitigar el sismo",
-        "url": "https://www.portafolio.co/economia/asi-funcionara-el-nuevo-paquete-de-15-medidas-anunciadas-por-el-gobierno-para-enfrentar-los-efectos-del-terremoto-502838",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Así funcionará el nuevo paquete de 15 medidas anunciadas por el Gobierno para enfrentar los efectos del terremoto",
-        "capturado": "2026-09-20T17:59:41-05:00"
-      },
-      {
-        "titulo": "Elempleo.com se alza con la empresa emergente Hunty para mecanizar la selección laboral en el país",
-        "url": "https://www.portafolio.co/economia/empleo/elempleo-com-se-junta-con-la-startup-hunty-para-automatizar-la-contratacion-en-colombia-502890",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
-        "capturado": "2026-09-20T17:59:41-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nueva plataforma conecta a Colombia con 15 naciones para fomentar comercio y capitales",
+        "url": "https://www.portafolio.co/negocios/comercio/nueva-red-empresarial-une-a-colombia-con-15-paises-para-impulsar-negocios-e-inversion-regional-503080",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Nueva red empresarial une a Colombia con 15 países para impulsar negocios e inversión regional",
+        "capturado": "2026-09-23T07:54:21-05:00"
+      },
       {
         "titulo": "Estudian en el Congreso subsidio para deudores del Soat en Bogotá y otras ciudades",
         "url": "https://www.portafolio.co/negocios/vehiculo/posible-alivio-para-deudores-del-soat-en-bogota-y-otras-ciudades-asi-funcionaria-subsidio-que-estudia-el-congreso-503071",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-21",
         "titulo_fuente": "Innovación: Servinformación, una inteligencia al servicio del mercado",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Innovación: Banco de Occidente creó una inteligencia artificial generativa que negocia y comercializa",
-        "url": "https://www.portafolio.co/negocios/empresas/innovacion-banco-de-occidente-desarrollo-una-ia-generativa-que-negocia-y-vende-502568",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Innovación: Banco de Occidente desarrolló una IA generativa que negocia y vende",
         "capturado": "2026-09-21T08:38:54-05:00"
       }
     ]
