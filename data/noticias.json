@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-23T07:54:21-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-23T12:42:51-05:00",
+  "nuevos_en_esta_corrida": 25,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "ANI entrega 6,5 km de doble calzada entre Jamundí y Villa Rica y Accesos Cali y Palmira llega al 72,66 %",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-habilita-6-5-km-de-segunda-calzada-entre-jamundi-y-villa-rica-accesos-cali-y-palmira-avanza-al-72-503110",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "ANI habilita 6,5 km de segunda calzada entre Jamundí y Villa Rica; Accesos Cali y Palmira avanza al 72,66 %",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Tres opciones de expertos para poner dinero en oro desde Colombia",
+        "url": "https://www.portafolio.co/economia/como-invertir-en-oro-desde-colombia-tres-alternativas-que-proponen-los-expertos-503113",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "¿Cómo invertir en oro desde Colombia?: Tres alternativas que proponen los expertos",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Aumentan pronósticos de inflación para 2026 a 6,82% y prevén alza en las tasas de interés",
+        "url": "https://www.portafolio.co/economia/finanzas/proyecciones-de-inflacion-para-2026-siguen-creciendo-6-82-y-las-tasas-de-interes-tambien-tendrian-repunte-503111",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Proyecciones de inflación para 2026 siguen creciendo: 6,82% y las tasas de interés también tendrían repunte",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Inversionistas de Pei declinan su derecho preferencial para viabilizar la compra del portafolio Terranum",
+        "url": "https://www.portafolio.co/economia/inversionistas-de-pei-renuncian-a-su-derecho-preferencial-para-que-avance-la-compra-del-portafolio-de-terranum-503107",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Inversionistas de Pei renuncian a su derecho preferencial para que avance la compra del portafolio de Terranum",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Sanyang Motor Colombia lanza vacantes vigentes para operario de producción y coordinador comercial",
+        "url": "https://www.portafolio.co/economia/finanzas/sanyang-motor-colombia-abre-convocatorias-ofertas-activas-para-operario-de-produccion-y-coordinador-comercial-503108",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Sanyang Motor Colombia abre convocatorias: ofertas activas para operario de producción y coordinador comercial",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Paro armado hunde al 15% la ocupación hotelera rural en Santa Marta y ya hay cancelaciones",
+        "url": "https://www.portafolio.co/economia/ya-estan-cancelando-paro-armado-desploma-al-15-la-ocupacion-hotelera-en-la-zona-rural-de-santa-marta-503100",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "'Ya están cancelando'; paro armado desploma al 15% la ocupación hotelera en la zona rural de Santa Marta",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Carf avisa que sin fondos de emergencia económica, los impuestos habrían bajado 1,6% de enero a julio",
+        "url": "https://www.portafolio.co/economia/gobierno/carf-advierte-que-sin-recursos-de-emergencias-el-recaudo-tributario-habria-caido-1-6-real-entre-enero-y-julio-503105",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Carf advierte que sin recursos de emergencia económica, el recaudo tributario habría caído 1,6% entre enero y julio",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Fernando Isaza Gutierrez ocuparía la presidencia del Fondo Nacional de Garantías",
+        "url": "https://www.portafolio.co/economia/gobierno/fernando-isaza-gutierrez-seria-el-nuevo-presidente-del-fondo-nacional-de-garantias-503103",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Fernando Isaza Gutierrez sería el nuevo presidente del Fondo Nacional de Garantías",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "De 75.681 a 39.397: la Universidad Nacional cae a su menor nivel de aspirantes en 20 años",
+        "url": "https://www.portafolio.co/economia/de-75-681-a-39-397-la-universidad-nacional-pierde-casi-la-mitad-de-sus-aspirantes-y-toca-su-minimo-en-20-anos-503097",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "De 75.681 a 39.397: la Universidad Nacional pierde casi la mitad de sus aspirantes y toca su mínimo en 20 años",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Vías 4G llegan al 93,32 % de avance, con $67,23 billones invertidos y 17 obras finalizadas",
+        "url": "https://www.portafolio.co/economia/infraestructura/asi-avanzan-las-vias-4g-con-93-32-de-ejecucion-inversiones-por-67-23-billones-y-17-proyectos-ya-en-operacion-503086",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Así avanzan las vías 4G con 93,32 % de ejecución, inversiones por $67,23 billones y 17 proyectos ya en operación",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Cerrejón reporta sexto atentado del año con daños en vía férrea y vagones fuera de los rieles",
+        "url": "https://www.portafolio.co/economia/regiones/cerrejon-sufre-sexto-atentado-del-ano-ataque-deja-danos-en-linea-ferrea-clave-y-vagones-descarrilados-503098",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Cerrejón sufre sexto atentado del año: ataque deja daños en línea férrea clave y vagones descarrilados",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Gobierno de De La Espriella pone en marcha estrategia para contener el crecimiento de hipopótamos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-plan-para-frenar-expansion-de-hipopotamos-de-pablo-escobar-en-colombia-503096",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Gobierno de De La Espriella activa plan para frenar expansión de hipopótamos de Pablo Escobar en Colombia",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá: Contraloría Distrital halla nueva irregularidad administrativa en la Primera Línea",
+        "url": "https://www.portafolio.co/economia/regiones/metro-de-bogota-contraloria-distrital-detecta-nuevo-hallazgo-administrativo-en-la-primera-linea-503094",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Metro de Bogotá: Contraloría Distrital detecta nuevo hallazgo administrativo en la Primera Línea",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "El Niño continúa: Ideam conserva alerta en más de 300 municipios del país por conflagraciones",
+        "url": "https://www.portafolio.co/economia/gobierno/el-nino-sigue-presionando-ideam-mantiene-en-alerta-mas-de-300-municipios-del-pais-por-incendios-503092",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "El Niño sigue presionando: Ideam mantiene en alerta más de 300 municipios del país por incendios",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "SIC investiga más de 300 contratos por presunta corrupción que ronda los $2 billones",
+        "url": "https://www.portafolio.co/economia/gobierno/sic-pone-bajo-la-lupa-mas-de-300-contratos-por-posible-esquema-de-corrupcion-cercano-a-2-billones-503090",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "SIC pone bajo la lupa más de 300 contratos por posible esquema de corrupción cercano a $2 billones",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Reforma pensional de Petro se aplazaría a 2028: objeciones de Colpensiones para su ejecución",
+        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-de-petro-podria-aplazarse-hasta-2028-estas-son-las-dificultades-para-ponerla-en-marcha-503089",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Reforma pensional de Petro podría aplazarse hasta 2028: reparos que encontró Colpensiones para ponerla en marcha",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
       {
         "titulo": "Precio del euro en Colombia baja hoy y registra una caída ante el peso",
         "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-precio-cae-y-marca-retroceso-frente-al-peso-colombiano-503083",
@@ -443,169 +603,99 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
         "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "David Vélez insiste en quitar la tasa de usura en Colombia y advierte sobre el gota a gota",
-        "url": "https://www.portafolio.co/economia/gobierno/david-velez-insiste-en-eliminar-la-tasa-de-usura-en-colombia-y-lanza-alerta-por-el-gota-a-gota-502953",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "David Vélez insiste en eliminar la tasa de usura en Colombia y lanza alerta por el ‘gota a gota’",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Asi funciona la ley para frenar llamadas comerciales de bancos y empresas de telecomunicaciones en el pais",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-dejen-de-fregar-asi-puede-dejar-de-recibir-llamadas-de-bancos-y-operadores-en-colombia-502950",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Ley ‘Dejen de Fregar’: así puede dejar de recibir llamadas de bancos y operadores en Colombia",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Ejecutivo establece en Nueva York la meta de elevar el crecimiento nacional al 6 por ciento con capital privado",
-        "url": "https://www.portafolio.co/economia/gobierno-fija-en-nueva-york-la-meta-de-llevar-el-crecimiento-de-colombia-hasta-el-6-con-inversion-privada-502949",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Gobierno fija en Nueva York la meta de llevar el crecimiento de Colombia hasta el 6% con inversión privada",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Cotizacion del dolar en Colombia hoy: la moneda abre a la baja luego de ganar mas de 120 pesos en la semana",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-inicia-a-la-baja-tras-subir-mas-de-120-durante-la-semana-502920",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa inicia a la baja tras subir más de $120 durante la semana",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Estado de la economia nacional: panorama del primer semestre de 2026",
-        "url": "https://www.portafolio.co/economia/crecimiento/como-va-la-economia-colombiana-radiografia-de-la-primera-mitad-de-502940",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "¿Cómo va la economía colombiana? Radiografía de la primera mitad de 2026",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Incendio forestal en Villa de Leyva sigue activo: arrasa 290 hectareas y tiene un control del 50 por ciento",
-        "url": "https://www.portafolio.co/economia/regiones/incendio-forestal-en-villa-de-leyva-no-da-tregua-afecta-290-hectareas-y-apenas-esta-controlado-en-un-502937",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Incendio forestal en Villa de Leyva no da tregua: afecta 290 hectáreas y apenas está controlado en un 50%",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Cajas de Compensacion podrian destinar 550 mil millones de pesos tras el sismo",
-        "url": "https://www.portafolio.co/economia/cajas-de-compensacion-podrian-movilizar-550-mil-millones-tras-el-terremoto-502934",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Cajas de Compensación podrían movilizar $550 mil millones tras el terremoto",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Gobierno Petro habría elevado la contratación en casi un 600 por ciento según críticas",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-petro-habria-aumentado-las-ops-en-casi-un-600-convirtieron-la-casa-de-narino-en-un-contratadero-502932",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "'Convirtieron la Casa de Nariño en contratadero': Gobierno Petro habría contratación en casi un 600%",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Ecopetrol investigado: auditoría analiza 32 anomalías y el caso podría escalar a tribunales de EE. UU.",
-        "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-bajo-lupa-auditoria-revisa-32-casos-con-irregularidades-e-indagacion-podria-llegar-a-justicia-de-ee-uu-502928",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Ecopetrol bajo lupa: auditoría revisa 32 casos con irregularidades e indagación podría llegar a justicia de EE. UU.",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master sugiere que el gasto en salud se ajuste al costo real y demandas del sistema",
-        "url": "https://www.portafolio.co/economia/gobierno/bruce-mac-master-plantea-que-el-presupuesto-en-salud-debe-responder-al-gasto-real-y-a-las-necesidades-del-sistema-502926",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Bruce Mac Master plantea que el presupuesto en salud debe responder al gasto real y a las necesidades del sistema",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Bogotá ofrece 1.817 empleos esta semana, con plazas para personas con y sin trayectoria laboral",
-        "url": "https://www.portafolio.co/economia/empleo/bogota-tiene-1-817-vacantes-disponibles-esta-semana-con-oportunidades-para-perfiles-con-y-sin-experiencia-502925",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Bogotá tiene 1.817 vacantes disponibles esta semana, con oportunidades para perfiles con y sin experiencia",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Euro al alza en Colombia este 21 de septiembre, ubicándose arriba de los $3.600",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-sube-en-colombia-este-21-de-septiembre-y-se-mantiene-por-encima-de-los-3-502924",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Euro sube en Colombia este 21 de septiembre y se mantiene por encima de los $3.600",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Nueva advertencia por déficit pensional: faltante en Colpensiones rebasaría los $4,2 billones",
-        "url": "https://www.portafolio.co/economia/contraloria-alerta-por-mas-de-4-2-billones-que-faltarian-para-cubrir-las-pensiones-de-colpensiones-de-502923",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Nueva alerta por recursos faltantes para cubrir pensiones: desfinanciación de Colpensiones superaría $4,2 billones",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Crudo descendió cerca de US$100 y en Colombia el dólar retrocedió por tipos de interés en EE. UU.",
-        "url": "https://www.portafolio.co/economia/finanzas/el-petroleo-cayo-y-se-acerco-a-los-us-100-mientras-que-en-colombia-el-dolar-bajo-por-las-tasas-en-ee-uu-502922",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "El petróleo cayó y se acercó a los US$100, mientras que en Colombia el dólar bajó por las tasas en EE. UU.",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Valor de la divisa este 21 de septiembre en Colombia luego de caer más de 120 pesos en la semana",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-21-de-septiembre-tras-perder-mas-de-120-en-la-semana-502920",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa este 21 de septiembre tras perder más de $120 en la semana",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Asobancaria crea índice para calcular la solicitud de dinero físico en zonas colombianas",
-        "url": "https://www.portafolio.co/economia/finanzas/asobancaria-lanza-indicador-para-medir-la-demanda-de-efectivo-en-las-regiones-de-colombia-502889",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Asobancaria lanza indicador para medir la demanda de efectivo en las regiones de Colombia",
-        "capturado": "2026-09-20T17:59:41-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Cámara de Comercio avisa que inseguridad deja pérdidas diarias de unos $40.000 millones en Santa Marta",
+        "url": "https://www.portafolio.co/negocios/empresas/santa-marta-pierde-cerca-de-40-000-millones-diarios-por-crisis-de-seguridad-advierte-camara-de-comercio-503112",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Santa Marta pierde cerca de $40.000 millones diarios por crisis de seguridad, advierte Cámara de Comercio",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Producción manufacturera bajó 2,3% anual en julio de 2026 debido al impacto de la fortaleza del peso",
+        "url": "https://www.portafolio.co/negocios/empresas/peso-fuerte-golpeo-a-la-industria-produccion-manufacturera-cayo-2-3-anual-en-julio-de-503115",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Peso fuerte golpeó a la industria: producción manufacturera cayó 2,3% anual en julio de 2026",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Tendencias que mueven los mercados según la Investor Conference 2026",
+        "url": "https://www.portafolio.co/negocios/inversion/investor-conference-2026-tendencias-que-mueven-los-mercados-503109",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Investor Conference 2026: tendencias que mueven los mercados",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Ventas externas de esmeraldas suben 14% a julio y febrero concentra casi 40% del total negociado",
+        "url": "https://www.portafolio.co/negocios/empresas/exportaciones-de-esmeraldas-crecen-14-hasta-julio-pero-febrero-concentra-casi-40-del-valor-vendido-503101",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Exportaciones de esmeraldas crecen 14% hasta julio, pero febrero concentra casi 40% del valor vendido",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Prácticas sencillas de EPM para bajar el gasto hídrico en casa y ahorrar agua",
+        "url": "https://www.portafolio.co/negocios/empresas/quiere-ahorrar-agua-estas-practicas-sencillas-de-epm-pueden-reducir-el-consumo-en-el-hogar-503099",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "¿Quiere ahorrar agua? Estas prácticas sencillas de EPM pueden reducir el consumo en el hogar",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "El reto corporativo en el país entre rentabilidad y expansión según Portafolio",
+        "url": "https://www.portafolio.co/negocios/empresas/entre-el-crecimiento-y-la-rentabilidad-el-desafio-empresarial-en-colombia-portafolio-503095",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Entre el crecimiento y la rentabilidad: el desafío empresarial en Colombia | Portafolio",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Aruba anuncia plan para el turismo y más vuelos hacia 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/aruba-nueva-conectividad-aerea-y-plan-turistico-para-503093",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Aruba: nueva conectividad aérea y plan turístico para 2027",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Gremios apoyan ofensiva de De La Espriella y piden frenar inseguridad en Santa Marta",
+        "url": "https://www.portafolio.co/negocios/empresas/gremios-respaldan-acciones-de-las-autoridades-para-recuperar-la-seguridad-en-santa-marta-503091",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "'Recuperar la seguridad en Santa Marta es inaplazable': ​Gremios respaldan ofensiva del Gobierno De La Espriella",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
+      {
+        "titulo": "Ventas de comerciantes en zonas afectadas por el sismo caen 45% en agosto",
+        "url": "https://www.portafolio.co/negocios/comercio/efectos-del-terremoto-se-reflejan-en-la-economia-comerciantes-de-zonas-impactadas-bajan-ventas-45-en-agosto-503085",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Efectos del terremoto se reflejan en la economía: comerciantes de zonas impactadas bajan ventas 45% en agosto",
+        "capturado": "2026-09-23T12:42:51-05:00"
+      },
       {
         "titulo": "Nueva plataforma conecta a Colombia con 15 naciones para fomentar comercio y capitales",
         "url": "https://www.portafolio.co/negocios/comercio/nueva-red-empresarial-une-a-colombia-con-15-paises-para-impulsar-negocios-e-inversion-regional-503080",
@@ -1114,96 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-21",
         "titulo_fuente": "Emprendimiento alto impacto: Bia Energy está cambiando la forma en que las empresas consumen energía",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Nexa BPO redefine el porvenir de la atención al cliente a través de la digitalización",
-        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-nexa-bpo-transforma-el-futuro-de-la-experiencia-del-cliente-502628",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Transformación digital: Nexa BPO transforma el futuro de la experiencia del cliente",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Protección S.A. emplea inteligencia artificial para renovar la vivencia financiera digital",
-        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-proteccion-s-a-usa-inteligencia-artificial-para-transformar-la-experiencia-financiera-502627",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Transformación digital: Protección S.A. usa inteligencia artificial para transformar la experiencia financiera",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Cenit reconvierte su esquema funcional con analítica e inteligencia artificial digital",
-        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-cenit-transforma-su-modelo-operativo-con-inteligencia-artificial-y-datos-502626",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Transformación digital: Cenit transforma su modelo operativo con inteligencia artificial y datos",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Autogermana recurre a la inteligencia artificial para modernizar sus trámites internos",
-        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-autogermana-apuesta-por-la-ia-para-transformar-sus-procesos-internos-502625",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Transformación digital: Autogermana apuesta por la IA para transformar sus procesos internos",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Alegra optimiza operaciones y renueva la administración contable y corporativa digital",
-        "url": "https://www.portafolio.co/negocios/empresas/transformacion-digital-alegra-automatiza-procesos-y-transforma-la-gestion-de-empresas-y-contadores-502623",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Transformación digital: Alegra automatiza procesos y transforma la gestión de empresas y contadores",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Conozca las iniciativas finalistas a los galardones Portafolio 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-proyectos-finalistas-de-los-premios-portafolio-502308",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Estos son los proyectos finalistas de los Premios Portafolio 2026",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Emprendimiento de alto impacto: enerBit descentraliza la energía en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/emprendimiento-alto-impacto-enerbit-esta-descentralizando-la-energia-en-colombia-502635",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Emprendimiento alto impacto: enerBit está descentralizando la energía en Colombia",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Innovación: TicSocial y su esquema con datos que salvan vidas",
-        "url": "https://www.portafolio.co/negocios/empresas/innovacion-ticsocial-y-su-modelo-basado-en-datos-que-salvan-vidas-502583",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Innovación: TicSocial y su modelo basado en datos que salvan vidas",
-        "capturado": "2026-09-21T08:38:54-05:00"
-      },
-      {
-        "titulo": "Innovación: Servinformación, una inteligencia puesta al servicio del mercado",
-        "url": "https://www.portafolio.co/negocios/empresas/innovacion-servinformacion-una-inteligencia-al-servicio-del-mercado-502569",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Innovación: Servinformación, una inteligencia al servicio del mercado",
         "capturado": "2026-09-21T08:38:54-05:00"
       }
     ]
