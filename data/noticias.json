@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-23T12:42:51-05:00",
-  "nuevos_en_esta_corrida": 25,
+  "actualizado": "2026-09-23T16:07:41-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Títulos de Royal Caribbean caen fuerte al revelar compra del 50 por ciento de Sandals por 3000 millones de dólares",
+        "url": "https://www.portafolio.co/economia/acciones-de-royal-caribbean-se-desploman-tras-anunciar-la-compra-de-la-mitad-de-sandals-por-us-3-000-millones-503125",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Acciones de Royal Caribbean se desploman tras anunciar la compra de la mitad de Sandals por US$ 3.000 millones",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Restrepo finaliza su día inicial en Nueva York con reuniones sobre inversión, seguridad y cooperación mundial",
+        "url": "https://www.portafolio.co/economia/gobierno/restrepo-cierra-primera-jornada-en-nueva-york-con-agenda-de-inversion-seguridad-y-alianzas-globales-503132",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Restrepo cierra primera jornada en Nueva York con agenda de inversión, seguridad y alianzas globales",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Puntajes Icfes Saber 11 2026: fecha y sitio web para ver los resultados del examen de Calendario A",
+        "url": "https://www.portafolio.co/economia/resultados-saber-11-2026-desde-que-dia-y-en-que-pagina-consultar-el-puntaje-del-icfes-del-examen-para-calendario-a-503124",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Resultados Saber 11 2026: desde qué día y en qué página consultar el puntaje del Icfes del examen para Calendario A",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "De La Espriella sale caminando entre cadáveres de combate tras fallo favorable de tutela en primera instancia",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-podra-aparecer-caminando-entre-cuerpos-de-bajas-en-combate-tras-ganar-tutela-en-primera-instancia-503126",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "De La Espriella podrá aparecer caminando entre cuerpos de bajas en combate, tras ganar tutela en primera instancia",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Apertura del vigésimo octavo Congreso de ANDESCO",
+        "url": "https://www.portafolio.co/economia/finanzas/instalacion-del-28-congreso-de-andesco-503123",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Instalación del 28° Congreso de ANDESCO",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "No solo es Colpensiones: BanRepública y Minhacienda hallaron objeciones al arranque de la ley pensional",
+        "url": "https://www.portafolio.co/economia/gobierno/no-es-solo-colpensiones-banrepublica-y-minhacienda-encontraron-reparos-en-la-entrada-en-vigencia-de-la-pensional-503119",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "No es solo colpensiones: BanRepública y Minhacienda encontraron reparos en la entrada en vigencia de la pensional",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Asofondos sugiere aplazar la reforma pensional por inquietudes de funcionamiento, caja y curso en el Congreso",
+        "url": "https://www.portafolio.co/economia/asofondos-plantea-aplazar-la-reforma-pensional-ante-dudas-sobre-operacion-financiacion-y-tramite-legislativo-503118",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Asofondos ve necesario posponer la reforma pensional ante dudas sobre operación, financiación y trámite legislativo",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
       {
         "titulo": "ANI entrega 6,5 km de doble calzada entre Jamundí y Villa Rica y Accesos Cali y Palmira llega al 72,66 %",
         "url": "https://www.portafolio.co/economia/infraestructura/ani-habilita-6-5-km-de-segunda-calzada-entre-jamundi-y-villa-rica-accesos-cali-y-palmira-avanza-al-72-503110",
@@ -533,79 +603,59 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Aseguradoras estiman pagos por $5,5 billones tras terremoto y reclamaciones llegan a 85.496",
         "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Impuesto de renta 2026: las tipologías obligadas a presentar del 21 al 25 de septiembre",
-        "url": "https://www.portafolio.co/economia/impuestos/declaracion-de-renta-2026-las-cedulas-que-deben-declarar-del-21-al-25-de-septiembre-502979",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Declaración de renta 2026: las cédulas que deben declarar del 21 al 25 de septiembre",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Paola Holguín respalda pausa de subsidios artísticos: halló pasivos superiores a 185.000 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/paola-holguin-defiende-suspension-de-estimulos-culturales-encontro-deuda-de-mas-de-185-000-millones-502971",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Paola Holguín defiende suspensión de estímulos culturales: encontró deuda de más de $185.000 millones",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "55 millones de personas ya están en el Registro Universal de Ingresos y 8,7 millones siguen sin grupo",
-        "url": "https://www.portafolio.co/economia/registro-universal-de-ingresos-ya-clasifica-a-55-millones-de-personas-pero-8-7-millones-siguen-sin-grupo-definido-502967",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Registro Universal de Ingresos ya clasifica a 55 millones de personas, pero 8,7 millones siguen sin grupo definido",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "El dólar barato llegaría a su fin: alza de tasas en Estados Unidos restaría fuerza al peso",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-barato-estaria-llegando-a-su-fin-subida-de-tasas-en-estados-unidos-le-restarian-fuerza-al-peso-colombiano-502963",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Dólar barato estaría llegando a su fin: subida de tasas en Estados Unidos le restarían fuerza al peso colombiano",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Salario mínimo y dólar barato inquietan a empresarios: Consejo Gremial pide cuidar competitividad",
-        "url": "https://www.portafolio.co/economia/consejo-gremial-respalda-ajuste-fiscal-pero-alerta-por-salario-minimo-y-dolar-barato-502960",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Salario mínimo y dólar barato preocupan a empresarios: Consejo Gremial pide cuidar la competitividad",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Cárcel y multas millonarias: sanciones graves por provocar un incendio forestal como en Villa de Leyva",
-        "url": "https://www.portafolio.co/economia/regiones/carcel-y-multas-millonarias-las-graves-sanciones-por-provocar-un-incendio-forestal-como-el-de-villa-de-leyva-502956",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Cárcel y multas millonarias: las graves sanciones por provocar un incendio forestal como el de Villa de Leyva",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Elempleo.com se une a la startup Hunty para automatizar la contratación en Colombia",
-        "url": "https://www.portafolio.co/economia/empleo/elempleo-com-se-junta-con-la-startup-hunty-para-automatizar-la-contratacion-en-colombia-502954",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
-        "capturado": "2026-09-21T14:04:31-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Tendencias que mueven los mercados en la Investor Conference 2026",
+        "url": "https://www.portafolio.co/negocios/inversion/investor-conference-2026-tendencias-que-mueven-los-mercados-503135",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Investor Conference 2026: tendencias que mueven los mercados",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "La clave para ir más allá de los pilotos si la IA aún no genera más ingresos o ahorro de costos",
+        "url": "https://www.portafolio.co/negocios/empresas/con-el-uso-de-la-ia-aun-no-ve-mas-ingresos-o-ahorro-de-costos-esta-es-la-clave-para-ir-mas-alla-de-los-pilotos-503129",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "¿Con el uso de la IA aún no ve más ingresos o ahorro de costos?: esta es la clave para ir más allá de los pilotos",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Marcas presentan propuestas para el nuevo nombre del escenario, según el operador del Movistar Arena",
+        "url": "https://www.portafolio.co/negocios/empresas/operador-del-movistar-arena-revela-que-las-marcas-estan-presentando-propuestas-para-el-nuevo-nombre-del-escenario-503130",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Operador del Movistar Arena revela que las marcas están presentando propuestas para el nuevo nombre del escenario",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Nequi traslada la tecnología de más de 6 millones de tarjetas Visa a la nueva plataforma Pismo",
+        "url": "https://www.portafolio.co/negocios/empresas/nequi-migra-la-tecnologia-de-mas-de-6-millones-de-tarjetas-visa-que-cambia-con-la-nueva-plataforma-pismo-503127",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Nequi migra la tecnología de más de 6 millones de tarjetas Visa: ¿qué cambia con la nueva plataforma Pismo?",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
+      {
+        "titulo": "Gabriel Gilinski y su esposa donan US$22,5 millones a Universidad de Pensilvania para becar latinoamericanos",
+        "url": "https://www.portafolio.co/negocios/empresas/gabriel-gilinski-y-su-esposa-donan-us-22-5-millones-a-la-universidad-de-pensilvania-503117",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Gabriel Gilinski y su esposa donan US$22,5 millones a Universidad de Pensilvania: becarán estudiantes de A. Latina",
+        "capturado": "2026-09-23T16:07:41-05:00"
+      },
       {
         "titulo": "Cámara de Comercio avisa que inseguridad deja pérdidas diarias de unos $40.000 millones en Santa Marta",
         "url": "https://www.portafolio.co/negocios/empresas/santa-marta-pierde-cerca-de-40-000-millones-diarios-por-crisis-de-seguridad-advierte-camara-de-comercio-503112",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Mejor docente universitario: Mauricio Villamizar Villegas, experto en política monetaria y mercados financieros",
         "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado alumno de economía: Diego Andrés Laiton y su recorrido de alta calidad académica",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-diego-andres-laiton-una-trayectoria-de-excelencia-academica-en-economia-502713",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor estudiante universitario: Diego Andrés Laiton, una trayectoria de excelencia académica en Economía",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado maestro universitario: Álvaro Alexander Guzmán Vásquez, experto en gobierno corporativo regional",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-docente-universitario-alvaro-alexander-guzman-vasquez-referente-en-gobierno-corporativo-en-america-latina-502717",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor docente universitario: Álvaro Alexander Guzmán Vásquez, referente en gobierno corporativo en América Latina",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacado alumno universitario: Andrés Felipe Leguizamón López, el investigador nacional en el MIT",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-andres-felipe-leguizamon-lopez-el-colombiano-que-llego-a-investigar-en-mit-502712",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor estudiante universitario: Andrés Felipe Leguizamón López, el colombiano que llegó a investigar en MIT",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Dirigente corporativo del año: Miguel Fernando Escobar Penagos, al mando del cambio en Postobón",
-        "url": "https://www.portafolio.co/negocios/empresas/lider-empresarial-del-ano-miguel-fernando-escobar-penagos-el-lider-detras-de-la-transformacion-de-postobon-502711",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Líder empresarial del año: Miguel Fernando Escobar Penagos, el líder detrás de la transformación de Postobón",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Bia Energy modifica el consumo energético empresarial mediante emprendimiento de alto impacto",
-        "url": "https://www.portafolio.co/negocios/empresas/emprendimiento-alto-impacto-bia-energy-esta-cambiando-la-forma-en-que-las-empresas-consumen-energia-502630",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Emprendimiento alto impacto: Bia Energy está cambiando la forma en que las empresas consumen energía",
-        "capturado": "2026-09-21T08:38:54-05:00"
       }
     ]
   }
