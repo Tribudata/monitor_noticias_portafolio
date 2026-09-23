@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-22T20:38:44-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-23T02:22:57-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colpensiones solicita a la Corte Constitucional postergar a 2028 la vigencia de la reforma pensional",
+        "url": "https://www.portafolio.co/economia/gobierno/colpensiones-pide-a-la-corte-constitucional-aplazar-hasta-2028-la-entrada-en-vigencia-de-la-reforma-pensional-503066",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "Colpensiones pide a la Corte Constitucional aplazar hasta 2028 la entrada en vigencia de la reforma pensional",
+        "capturado": "2026-09-23T02:22:57-05:00"
+      },
+      {
+        "titulo": "ANT tendrá fuerte recorte en 2027: directora detalla avance de Reforma Agraria con $556.767 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/ant-enfrentara-notable-recorte-en-2027-directora-explica-como-avanzara-la-reforma-agraria-con-556-767-millones-503073",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-22",
+        "titulo_fuente": "ANT enfrentará notable recorte en 2027: directora explica cómo avanzará la Reforma Agraria con $556.767 millones",
+        "capturado": "2026-09-23T02:22:57-05:00"
+      },
       {
         "titulo": "Modificaciones del Minhacienda al Presupuesto 2027: $170.000 millones menos para justicia transicional",
         "url": "https://www.portafolio.co/economia/gobierno/los-cambios-aprobados-de-minhacienda-al-presupuesto-2027-170-000-millones-menos-para-la-justicia-transicional-503072",
@@ -583,26 +603,6 @@
         "publicacion": "2026-09-20",
         "titulo_fuente": "Elempleo.com se junta con la ‘startup’ Hunty para automatizar la contratación en Colombia",
         "capturado": "2026-09-20T17:59:41-05:00"
-      },
-      {
-        "titulo": "Aparente bodega de Temu causa revuelo en Soledad, Atlántico: compradores acudieron, pero hay un detalle clave",
-        "url": "https://www.portafolio.co/economia/regiones/supuesta-bodega-de-temu-genera-furor-en-soledad-atlantico-compradores-corrieron-pero-hay-un-detalle-clave-502911",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Supuesta ‘bodega de Temu’ genera furor en Soledad, Atlántico: compradores corrieron, pero hay un detalle clave",
-        "capturado": "2026-09-20T15:41:49-05:00"
-      },
-      {
-        "titulo": "Presidente Abelardo De la Espriella descarta retaliación contra la JEP y respalda la reducción de presupuesto",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-abelardo-de-la-espriella-niega-que-quiera-vengarse-de-la-jep-y-defiende-el-recorte-presupuestal-502910",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-20",
-        "titulo_fuente": "Presidente Abelardo De la Espriella niega que quiera vengarse de la JEP y defiende el recorte presupuestal",
-        "capturado": "2026-09-20T15:41:49-05:00"
       }
     ],
     "Negocios": [
