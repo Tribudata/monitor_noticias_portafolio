@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-24T09:02:14-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T13:32:55-05:00",
+  "nuevos_en_esta_corrida": 25,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "José Manuel Restrepo en la ONU: invito a quienes buscan dónde invertir a que miren a Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-en-la-onu-a-quienes-esten-buscando-donde-invertir-invito-que-miren-a-colombia-503205",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "José Manuel Restrepo en la ONU: 'a quienes estén buscando dónde invertir, invito que miren a Colombia'",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Titular de Colpensiones tendrá segunda ocasión para defender presupuesto de 2027 ante el Senado",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-colpensiones-tendra-segunda-oportunidad-para-sustentar-presupuesto-de-2027-ante-el-senado-503206",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Presidente de Colpensiones tendrá segunda oportunidad para sustentar presupuesto de 2027 ante el Senado",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Cali recibe cinco buses eléctricos del MIO y alista la primera flota pública de la localidad",
+        "url": "https://www.portafolio.co/economia/regiones/cali-estrena-cinco-buses-electricos-del-mio-y-prepara-la-primera-flota-publica-de-la-ciudad-503204",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Cali estrena cinco buses eléctricos del MIO y prepara la primera flota pública de la ciudad",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Vicepresidente José Manuel Restrepo interviene ante la ONU",
+        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-jose-manuel-restrepo-habla-ante-la-onu-503203",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Vicepresidente José Manuel Restrepo habla ante la ONU",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Colombia modifica su dinámica demográfica: crecen nacimientos en 2026 a la vez que baja la fecundidad",
+        "url": "https://www.portafolio.co/economia/colombia-cambia-su-dinamica-demografica-suben-nacimientos-en-2026-mientras-cae-la-fecundidad-nacional-503202",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Colombia cambia su dinámica demográfica: suben nacimientos en 2026 mientras cae la fecundidad nacional",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "UNGRD advierte por segunda temporada de lluvias: estas son las zonas con mayor peligro",
+        "url": "https://www.portafolio.co/economia/gobierno/ungrd-alerta-por-segunda-temporada-de-lluvias-estas-son-las-regiones-con-mayor-riesgo-503201",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "UNGRD alerta por segunda temporada de lluvias: estas son las regiones con mayor riesgo",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Topes legales del impuesto predial y cuándo reclamar ante incrementos excesivos",
+        "url": "https://www.portafolio.co/economia/impuestos/impuesto-predial-no-puede-subir-sin-limite-estos-son-los-topes-legales-y-casos-en-los-que-puede-reclamar-503198",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Impuesto predial no puede subir sin límite: estos son los topes legales y casos en los que puede reclamar",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "El agro frente a El Niño debe priorizar cultivos en lugar de solo usar más agua",
+        "url": "https://www.portafolio.co/economia/agro/mas-agua-no-siempre-es-la-solucion-agro-debe-identificar-que-cultivos-requieren-atencion-prioritaria-ante-el-nino-503193",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Más agua no siempre es la solución: agro debe identificar qué cultivos requieren atención prioritaria ante El Niño",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Sube 12,7% la mortalidad laboral en Colombia con un fallecido cada 18 horas en 2026",
+        "url": "https://www.portafolio.co/economia/regiones/mortalidad-laboral-en-colombia-sube-12-7-un-trabajador-murio-cada-18-horas-en-primer-semestre-de-503194",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Mortalidad laboral en Colombia sube 12,7%: un trabajador murió cada 18 horas en primer semestre de 2026",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Iberia invierte 6.000 millones de euros, eleva su flota y planea llegar a 70 aeronaves",
+        "url": "https://www.portafolio.co/economia/con-6-000-millones-de-euros-de-inversion-iberia-pasa-de-43-a-51-aviones-de-largo-radio-y-proyecta-llegar-a-503187",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Con 6.000 millones de euros de inversión, Iberia pasa de 43 a 51 aviones de largo radio y proyecta llegar a 70",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Bogotá ante un sismo: 257.193 predios estarían en riesgo de sufrir daños",
+        "url": "https://www.portafolio.co/economia/regiones/que-tan-preparada-esta-bogota-para-un-terremoto-257-193-predios-podrian-tener-afectaciones-503190",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "¿Qué tan preparada está Bogotá para un terremoto? 257.193 predios podrían tener afectaciones",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Más del 50% de viajeros estadounidenses usa IA para organizar sus viajes, según Anato",
+        "url": "https://www.portafolio.co/economia/mas-de-la-mitad-de-los-viajeros-de-estados-unidos-ya-usa-ia-para-planear-o-reservar-viajes-segun-anato-503186",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Más de la mitad de los viajeros de Estados Unidos ya usa IA para planear o reservar viajes, según Anato",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "La Magola en Barranquilla pasará a ser un centro comercial con 357 locales y nueva plaza de comidas",
+        "url": "https://www.portafolio.co/economia/regiones/la-magola-se-convertira-en-centro-comercial-con-357-locales-y-nueva-plaza-de-comidas-en-barranquilla-503188",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "La Magola se convertirá en centro comercial con 357 locales y nueva plaza de comidas en Barranquilla",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Funza destina 6.198 millones propios para destrabar tres vías de acceso hacia el aeropuerto El Dorado",
+        "url": "https://www.portafolio.co/economia/infraestructura/funza-pone-6-198-millones-de-su-bolsillo-para-destrabar-tres-vias-de-acceso-al-aeropuerto-el-dorado-503177",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Funza pone $6.198 millones de su bolsillo para destrabar tres vías de acceso al aeropuerto El Dorado",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Ganaderos informan 95.065 millones en pérdidas por El Niño y 19.030 animales muertos de junio a septiembre de 2026",
+        "url": "https://www.portafolio.co/economia/agro/ganaderos-reportan-95-065-millones-en-perdidas-por-el-nino-y-19-030-animales-muertos-de-junio-a-septiembre-de-503182",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Ganaderos reportan $95.065 millones en pérdidas por El Niño y 19.030 animales muertos de junio a septiembre de 2026",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "La economía colombiana desaceleraría su ritmo en 2027 y se ubicaría en 2,4%: los motivos",
+        "url": "https://www.portafolio.co/economia/crecimiento/el-crecimiento-de-colombia-perderia-fuerza-en-2027-y-se-moderaria-hasta-2-4-estas-son-las-razones-503179",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Crecimiento económico de Colombia perdería fuerza en 2027 y se moderaría hasta 2,4%: estas son las razones",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
       {
         "titulo": "Luz verde al Presupuesto General 2027 en las Comisiones Económicas del Congreso rumbo a plenarias",
         "url": "https://www.portafolio.co/economia/gobierno/aprobado-el-presupuesto-general-2027-en-debate-de-comisiones-economicas-del-congreso-asi-se-perfila-para-plenarias-503159",
@@ -443,169 +603,99 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "'Nunca me vetaron': Piedad Urdinola reacciona a versión sobre supuesto veto del Gobierno a Bruce Mac Master",
         "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Alerta en plan de choque de salud: el desafío será trasladar dineros sin duplicar pagos por servicio",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-de-choque-en-salud-advierten-que-el-reto-sera-mover-recursos-sin-pagar-dos-veces-por-el-mismo-servicio-503042",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Plan de choque en salud: advierten que el reto será mover recursos sin pagar dos veces por el mismo servicio",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Minsalud solicita $13,9 billones adicionales para 2027 y avisa desplome del 31,18% en inversión",
-        "url": "https://www.portafolio.co/economia/gobierno/mientras-minsalud-pide-13-9-billones-mas-para-2027-advierte-por-caida-de-31-18-en-presupuesto-de-inversion-503040",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Mientras Minsalud pide $13,9 billones más para 2027, advierte por caída de 31,18% en presupuesto de inversión",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Agenda clave en Barranquilla: De La Espriella dialoga con la mandataria costarricense Laura Fernández",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-se-reune-con-laura-fernandez-presidenta-de-costa-rica-en-barranquilla-esta-es-la-agenda-clave-503038",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "De La Espriella se reúne con Laura Fernández, presidenta de Costa Rica, en Barranquilla: esta es la agenda clave",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Congreso discute recorte de hasta $45 billones al Presupuesto 2027 tras avalar monto de $634,95 billones",
-        "url": "https://www.portafolio.co/economia/congreso-plantea-tijeretazo-de-hasta-45-billones-al-presupuesto-2027-tras-aprobar-monto-de-634-95-billones-503036",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Congreso plantea 'tijeretazo' de hasta $45 billones al Presupuesto 2027 tras aprobar monto de $634,95 billones",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Asbama advierte que el banano sufre menores ingresos, más riesgos y clima adverso para el cultivador",
-        "url": "https://www.portafolio.co/economia/agro/el-banano-enfrenta-una-espiral-perversa-cae-el-ingreso-suben-los-riesgos-y-el-clima-golpea-al-productor-asbama-502829",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "'El banano enfrenta una espiral perversa: cae el ingreso, suben los riesgos y el clima golpea al productor': Asbama",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Indagan a exdirectivos de Emssanar por presunta omisión en manejo de 14.000 millones de pesos estatales",
-        "url": "https://www.portafolio.co/economia/gobierno/procuraduria-investiga-a-exdirectivos-de-emssanar-por-posible-falta-de-gestion-sobre-14-000-millones-publicos-503028",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Procuraduría investiga a exdirectivos de Emssanar por posible falta de gestión sobre $14.000 millones públicos",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "El plan gubernamental para elevar la economía nacional al 6 por ciento apoyado en capital privado",
-        "url": "https://www.portafolio.co/economia/gobierno/asi-busca-jose-manuel-restrepo-llevar-el-crecimiento-de-colombia-al-6-con-inversion-privada-y-menos-trabas-503027",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "La ruta con la que el Gobierno busca llevar el crecimiento de Colombia al 6%, basada en la inversión privada",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Bancolombia registra más de 1,3 millones de consultas en Tu Puntaje Crediticio y gana terreno",
-        "url": "https://www.portafolio.co/economia/tu-puntaje-crediticio-supera-1-3-millones-de-consultas-y-gana-espacio-entre-los-clientes-de-bancolombia-503025",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Tu Puntaje Crediticio supera 1,3 millones de consultas y gana espacio entre los clientes de Bancolombia",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Capitales de ricos colombianos salen al extranjero para mermar peligros: hacia dónde se dirigen",
-        "url": "https://www.portafolio.co/economia/finanzas/grandes-fortunas-colombianas-sacan-parte-de-su-capital-al-exterior-para-reducir-riesgos-a-donde-van-a-parar-503022",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Grandes fortunas colombianas sacan parte de su capital al exterior para reducir riesgos: ¿a dónde van a parar?",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "FNC sube de 10.000 a 12.000 pesos el pago por kilo de pasilla para los caficultores",
-        "url": "https://www.portafolio.co/economia/agro/cafeteros-recibiran-mas-por-la-pasilla-fnc-eleva-de-10-000-a-12-000-el-pago-por-kilogramo-503021",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Cafeteros recibirán más por la pasilla: FNC eleva de $10.000 a $12.000 el pago por kilogramo",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Más de 651.000 millones de pesos adeudan a la Alcaldía 274.119 ciudadanos bogotanos",
-        "url": "https://www.portafolio.co/economia/274-119-contribuyentes-de-bogota-tienen-deudas-tributarias-por-mas-de-651-000-millones-con-el-distrito-503019",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "274.119 contribuyentes de Bogotá tienen deudas tributarias por más de $651.000 millones con el Distrito",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Una moneda protocolaria de oro con tigre ojiverde y seguridades diseña Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-prepara-moneda-protocolaria-de-oro-tendria-un-tigre-ojiverde-y-simbolos-de-seguridad-503014",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Abelardo De La Espriella prepara moneda protocolaria de oro: tendría un tigre ojiverde y símbolos de seguridad",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Wenia habilita en la plataforma de Bancolombia la adquisición de oro digital",
-        "url": "https://www.portafolio.co/economia/finanzas/bancolombia-suma-oro-digital-a-su-portafolio-y-amplia-su-apuesta-por-los-activos-digitales-503013",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Oro digital llega al ecosistema Bancolombia y se podrá comprar desde la plataforma de Wenia",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Demoras en obras y frentes clave ponen al Metro de Bogotá bajo observación de la Contraloría",
-        "url": "https://www.portafolio.co/economia/gobierno/metro-de-bogota-queda-bajo-la-lupa-de-la-contraloria-por-retrasos-en-obras-y-frentes-clave-503012",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Metro de Bogotá queda bajo la lupa de la Contraloría por retrasos en obras y frentes clave",
-        "capturado": "2026-09-22T12:08:48-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia este 22 de septiembre y su variación reciente",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-asi-se-cotiza-este-22-de-septiembre-y-cuanto-ha-subido-503010",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Euro hoy en Colombia: así se cotiza este 22 de septiembre y cuánto ha subido",
-        "capturado": "2026-09-22T07:22:04-05:00"
-      },
-      {
-        "titulo": "Traba en presupuesto 2027: MinHacienda rechaza cambios por $111,6 billones y cede $3 billones",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-se-traba-hacienda-rechazo-cambios-por-111-6-billones-y-propone-mover-solo-3-billones-503009",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Presupuesto de 2027 se traba: Hacienda rechazó cambios por $111,6 billones y propone mover solo $3 billones",
-        "capturado": "2026-09-22T07:22:04-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Comerciantes calculan los efectos financieros de dos días de parálisis en Santa Marta por problemas de orden público",
+        "url": "https://www.portafolio.co/negocios/comercio/comerciantes-miden-el-impacto-economico-de-dos-dias-de-paralisis-en-santa-marta-por-alteracion-del-orden-publico-503200",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Comerciantes miden el impacto económico de dos días de parálisis en Santa Marta por alteración del orden público",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Bogotá registra la desocupación de oficinas más reducida entre cinco grandes metrópolis latinoamericanas con un 5,4%",
+        "url": "https://www.portafolio.co/negocios/empresas/bogota-tiene-la-vacancia-de-oficinas-mas-baja-entre-cinco-grandes-ciudades-de-america-latina-solo-5-503195",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Bogotá tiene la vacancia de oficinas más baja entre cinco grandes ciudades de América Latina: solo 5,4%",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Binance destina 100 millones de dólares a Circle y consolida su respaldo a la criptomoneda estable USDC",
+        "url": "https://www.portafolio.co/negocios/inversion/binance-invierte-us-100-millones-en-circle-y-refuerza-su-apuesta-por-la-stablecoin-usdc-503197",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Binance invierte US$100 millones en Circle y refuerza su apuesta por la stablecoin USDC",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Red Summa contesta a indagación de la SIC por contratos por cerca de 2 billones de pesos y rechaza conexiones",
+        "url": "https://www.portafolio.co/negocios/empresas/red-summa-responde-a-investigacion-de-la-sic-por-contratos-cercanos-a-2-billones-y-niega-vinculos-503192",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Red Summa responde a investigación de la SIC por contratos cercanos a $2 billones y niega vínculos",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Primicia: InDrive ficha a Juan Sebastián Uribe, exdirectivo de MercadoLibre, como su primer gerente en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/primicia-indrive-contrata-a-juan-sebastian-uribe-como-su-primer-country-manager-en-colombia-503184",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Primicia: InDrive contrata a Juan Sebastián Uribe, un ex-MercadoLibre, como su primer country manager en Colombia",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "De Cali hacia otros mercados: Quest alcanza 171 locales y proyecta 22 inauguraciones de cara al año 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/de-cali-a-nuevos-mercados-quest-suma-171-puntos-de-venta-y-prepara-22-aperturas-para-503168",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "De Cali a nuevos mercados: Quest suma 171 puntos de venta y prepara 22 aperturas para 2027",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Empresa global de envases busca participar en el segmento de mipymes y nuevos negocios",
+        "url": "https://www.portafolio.co/negocios/empresas/multinacional-de-los-empaques-va-por-tajada-del-mercado-de-emprendimientos-y-pequenos-negocios-503172",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Multinacional de los empaques va por 'tajada' del mercado de emprendimientos y pequeños negocios",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Aerocivil recibirá apoyo técnico de Airbus y Avianca para mejorar la seguridad aérea bogotana",
+        "url": "https://www.portafolio.co/negocios/empresas/airbus-y-avianca-apoyaran-a-aerocivil-en-estudios-tecnicos-para-reforzar-la-seguridad-del-espacio-aereo-de-bogota-503170",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Airbus y Avianca apoyarán a Aerocivil en estudios técnicos para reforzar la seguridad del espacio aéreo de Bogotá",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
+      {
+        "titulo": "Empresas nacionales enfrentan sanciones de EE UU sin operar allá, más allá de la Lista Clinton",
+        "url": "https://www.portafolio.co/negocios/empresas/empresas-colombianas-podrian-ser-sancionadas-por-ee-uu-sin-haber-operado-nunca-en-ese-pais-503171",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Más allá de la Lista Clinton: empresas colombianas podrían ser sancionadas por EE. UU. sin haber operado allí",
+        "capturado": "2026-09-24T13:32:55-05:00"
+      },
       {
         "titulo": "Treinta y cuatro mil viajeros colombianos fueron a la isla caribeña y aseguran que cualquier época es buena",
         "url": "https://www.portafolio.co/negocios/no-hay-una-temporada-mala-para-visitar-aruba-34-000-turistas-colombianos-visitaron-la-isla-del-caribe-503145",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Dólar barato impulsa récord de importaciones en Colombia, que crecieron 22,9% durante julio",
         "capturado": "2026-09-21T20:26:27-05:00"
-      },
-      {
-        "titulo": "Asi opera la alianza entre LG y Faber-Castell para beneficiar a la ninez en el pais",
-        "url": "https://www.portafolio.co/negocios/empresas/lg-y-faber-castell-lanzan-un-nuevo-proyecto-por-los-ninos-en-colombia-asi-funcionara-su-iniciativa-502991",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "LG y Faber-Castell lanzan un nuevo proyecto por los niños en Colombia: así funcionará su iniciativa",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Transmision en directo de la trigesima segunda edicion de los Premios Portafolio 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/premios-portafolio-2026-vea-en-vivo-la-ceremonia-numero-502990",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Premios Portafolio 2026 | vea en vivo la ceremonia número 32",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "Entidad nacional recibe 200.000 euros por app de WhatsApp dirigida a madres jovenes",
-        "url": "https://www.portafolio.co/negocios/empresas/organizacion-colombiana-gana-e200-000-por-una-herramienta-de-whatsapp-para-madres-adolescentes-502988",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Organización colombiana gana €200.000 por una herramienta de WhatsApp para madres adolescentes",
-        "capturado": "2026-09-21T17:43:11-05:00"
-      },
-      {
-        "titulo": "El país exige directivos optimistas y posibilistas, asegura Miguel Fernando Escobar, CEO de Postobón",
-        "url": "https://www.portafolio.co/negocios/empresas/colombia-requiere-lideres-optimistas-y-posibilistas-capaces-de-inspirar-confianza-y-movilizar-hacia-el-progreso-502854",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "‘El país requiere líderes que sean optimistas y posibilistas’: Miguel Fernando Escobar, CEO de Postobón",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Collective Mining expone el potencial del tungsteno en Caldas y su compromiso de explorar en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/collective-mining-revela-el-potencial-del-tungsteno-hallado-en-caldas-y-su-apuesta-por-seguir-explorando-colombia-502965",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Collective Mining revela el potencial del tungsteno hallado en Caldas y su apuesta por seguir explorando Colombia",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Koaj y Lili Pink en la mira: intervienen 38 predios tasados en 379.873 millones de pesos",
-        "url": "https://www.portafolio.co/negocios/empresas/koaj-y-lili-pink-bajo-la-lupa-ocupan-38-inmuebles-avaluados-en-379-873-millones-502964",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Koaj y Lili Pink, bajo la lupa: ocupan 38 inmuebles avaluados en $379.873 millones",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "De La Espriella informa megadique de 50 millones de dólares para la capacidad naval de Cotecmar",
-        "url": "https://www.portafolio.co/negocios/comercio/de-la-espriella-anuncia-megadique-de-us-50-millones-para-ampliar-capacidad-naval-de-cotecmar-en-cartagena-502961",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "De La Espriella anuncia megadique de US$50 millones para ampliar capacidad naval de Cotecmar en Cartagena",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Colombia dinamiza sus compras externas: subieron 22,9% en julio y el déficit comercial aumentó",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-acelera-sus-importaciones-crecieron-22-9-en-julio-y-el-deficit-comercial-se-amplio-frente-a-502955",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Colombia acelera sus importaciones: crecieron 22,9% en julio y el déficit comercial se amplió frente a 2025",
-        "capturado": "2026-09-21T14:04:31-05:00"
-      },
-      {
-        "titulo": "Destacada alumna universitaria: Yessica Suárez, de experta en economía a impulsora del debate escolar",
-        "url": "https://www.portafolio.co/negocios/empresas/mejor-estudiante-universitario-yessica-suarez-de-campeona-de-economia-a-promotora-del-debate-en-colegios-publicos-502716",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Mejor estudiante universitario: Yessica Suárez, de campeona de economía a promotora del debate en colegios públicos",
-        "capturado": "2026-09-21T14:04:31-05:00"
       }
     ]
   }
