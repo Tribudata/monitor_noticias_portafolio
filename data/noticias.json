@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-23T18:51:26-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-23T22:18:45-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Luz verde al Presupuesto General 2027 en las Comisiones Económicas del Congreso rumbo a plenarias",
+        "url": "https://www.portafolio.co/economia/gobierno/aprobado-el-presupuesto-general-2027-en-debate-de-comisiones-economicas-del-congreso-asi-se-perfila-para-plenarias-503159",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Aprobado el Presupuesto General 2027 en debate de Comisiones Económicas del Congreso: así se perfila para plenarias",
+        "capturado": "2026-09-23T22:18:45-05:00"
+      },
+      {
+        "titulo": "Estados Unidos advierte sobre un bloqueo armado de 72 horas en la ciudad de Santa Marta",
+        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-alerta-por-bloqueo-armado-de-72-horas-en-santa-marta-503156",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "EE. UU. alerta por bloqueo armado de 72 horas en Santa Marta",
+        "capturado": "2026-09-23T22:18:45-05:00"
+      },
+      {
+        "titulo": "CNSC abre concurso docente 2026: condiciones y plazos de inscripción para más de 28.000 puestos",
+        "url": "https://www.portafolio.co/economia/empleo/concurso-docente-cnsc-2026-requisitos-y-nuevas-fechas-de-inscripcion-para-mas-de-28-000-vacantes-503153",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Concurso docente CNSC 2026: requisitos y nuevas fechas de inscripción para más de 28.000 vacantes",
+        "capturado": "2026-09-23T22:18:45-05:00"
+      },
       {
         "titulo": "Sigue la discusión del Presupuesto General en el Congreso con posturas de la izquierda y el Minhacienda",
         "url": "https://www.portafolio.co/economia/gobierno/avanza-el-debate-del-presupuesto-general-en-el-congreso-los-argumentos-de-la-izquierda-y-la-defensa-de-minhacienda-503149",
@@ -573,36 +603,6 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Presupuesto de 2027 se traba: Hacienda rechazó cambios por $111,6 billones y propone mover solo $3 billones",
         "capturado": "2026-09-22T07:22:04-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar en Colombia este 22 de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-estadounidense-este-22-de-septiembre-503008",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa estadounidense este 22 de septiembre",
-        "capturado": "2026-09-22T07:22:04-05:00"
-      },
-      {
-        "titulo": "Ministro Rodrigo Lara confirma 75 por ciento de control de incendio en Villa de Leyva y sigue foco en Iguaque",
-        "url": "https://www.portafolio.co/economia/gobierno/ministro-rodrigo-lara-confirma-75-de-control-del-incendio-en-villa-de-leyva-persiste-foco-critico-en-iguaque-503005",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Ministro Rodrigo Lara confirma 75% de control del incendio en Villa de Leyva: persiste foco crítico en Iguaque",
-        "capturado": "2026-09-22T01:38:07-05:00"
-      },
-      {
-        "titulo": "Gobierno lanza estrategia de emergencia en salud luego de superar el millón de citas y procedimientos atrasados",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-plan-de-choque-en-salud-tras-mas-de-1-millon-de-pacientes-con-atenciones-pendientes-503002",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Gobierno anuncia plan de choque en salud tras más de 1 millón de pacientes con atenciones pendientes",
-        "capturado": "2026-09-22T01:38:07-05:00"
       }
     ],
     "Negocios": [
