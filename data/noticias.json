@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-25T05:24:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-25T10:25:43-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Petróleo y Agencia Nacional de Tierras pactan camino para destrabar proyectos de hidrocarburos frenados",
+        "url": "https://www.portafolio.co/economia/regiones/sector-petrolero-y-agencia-nacional-de-tierras-acuerdan-ruta-para-destrabar-proyectos-de-hidrocarburos-paralizados-503252",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Sector petrolero y Agencia Nacional de Tierras acuerdan ruta para destrabar proyectos de hidrocarburos paralizados",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
+      {
+        "titulo": "Datos confusos y baches técnicos: así transcurrió el debate en el Senado que apartó a Carlos René Montoya de Colpensiones",
+        "url": "https://www.portafolio.co/economia/gobierno/cifras-confusas-y-vacios-tecnicos-asi-fue-la-sesion-en-el-senado-que-saco-a-carlos-rene-montoya-de-colpensiones-503250",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Cifras confusas y vacíos técnicos: así fue la sesión en el Senado que sacó a Carlos René Montoya de Colpensiones",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
+      {
+        "titulo": "De qué manera han crecido los sueldos en Colombia en 2026: alzas de hasta 14,3%, impulsadas por el IPC",
+        "url": "https://www.portafolio.co/economia/empleo/como-han-subido-los-salarios-en-colombia-en-2026-aumentos-de-hasta-14-3-impulsados-por-el-ipc-503236",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "¿Cómo han subido los salarios en Colombia en 2026? Aumentos de hasta 14,3%, impulsados por el IPC",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
       {
         "titulo": "Aprobado en el Concejo el retiro y soterramiento de cables en postes y fachadas de Bogotá",
         "url": "https://www.portafolio.co/economia/gobierno/se-acaba-el-cablerio-en-postes-y-fachadas-de-bogota-concejo-aprueba-su-retiro-y-soterramiento-503238",
@@ -573,39 +603,39 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "ANT enfrentará notable recorte en 2027: directora explica cómo avanzará la Reforma Agraria con $556.767 millones",
         "capturado": "2026-09-23T02:22:57-05:00"
-      },
-      {
-        "titulo": "Modificaciones del Minhacienda al Presupuesto 2027: $170.000 millones menos para justicia transicional",
-        "url": "https://www.portafolio.co/economia/gobierno/los-cambios-aprobados-de-minhacienda-al-presupuesto-2027-170-000-millones-menos-para-la-justicia-transicional-503072",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Los cambios aprobados de Minhacienda al Presupuesto 2027: $170.000 millones menos para la justicia transicional",
-        "capturado": "2026-09-22T20:38:44-05:00"
-      },
-      {
-        "titulo": "Taxis y apps: uno alega pérdidas por 28,67 billones y el otro destaca desarrollo y mayores ganancias",
-        "url": "https://www.portafolio.co/economia/taxis-vs-plataformas-un-lado-dice-perder-28-67-billones-el-otro-habla-de-progreso-y-mas-ingresos-503056",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Taxis vs. plataformas: un lado dice perder $28,67 billones, el otro habla de progreso y más ingresos",
-        "capturado": "2026-09-22T18:08:44-05:00"
-      },
-      {
-        "titulo": "Entidad bancaria alemana otorgará 25 millones de euros para ampliar vías en el departamento del Caquetá",
-        "url": "https://www.portafolio.co/economia/infraestructura/un-banco-aleman-va-a-financiar-con-25-millones-de-euros-la-ampliacion-del-programa-vial-de-caqueta-503057",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Un banco alemán va a financiar con 25 millones de euros la ampliación del programa vial de Caquetá",
-        "capturado": "2026-09-22T18:08:44-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Centros comerciales avisan sobre efectos de nueva sobretasa y alertan incremento de precios en Bogotá",
+        "url": "https://www.portafolio.co/negocios/comercio/centros-comerciales-alertan-por-impacto-de-nueva-sobretasa-y-advierten-alzas-de-precios-en-bogota-503257",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Centros comerciales alertan por impacto de nueva sobretasa y advierten alzas de precios en Bogotá",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master pide defender la Andi y conservar sus determinaciones sin coacción exterior",
+        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-rompe-el-silencio-llama-a-proteger-la-andi-y-a-mantener-sus-decisiones-libres-de-presion-externa-503256",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Bruce Mac Master rompe el silencio: llama a proteger la Andi y a mantener sus decisiones libres de presión externa",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
+      {
+        "titulo": "La sensación de pagos inequitativos detalla gran parte del descontento laboral en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/la-percepcion-de-salarios-injustos-explica-buena-parte-del-malestar-laboral-en-colombia-503251",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "La percepción de salarios injustos explica buena parte del malestar laboral en Colombia",
+        "capturado": "2026-09-25T10:25:43-05:00"
+      },
       {
         "titulo": "Smurfit Westrock adquiere compañía chilena por US$420 millones y expande su presencia en la región",
         "url": "https://www.portafolio.co/negocios/empresas/gigante-del-papel-smurfit-westrock-compra-negocio-chileno-por-us-420-millones-asi-crece-en-latinoamerica-503240",
@@ -1174,36 +1204,6 @@
         "subseccion": "",
         "publicacion": "2026-09-22",
         "titulo_fuente": "Costa Rica ve potencial en Colombia en turismo MICE gracias a sus vuelos directos de Bogotá y Medellín a San José",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Cuáles marcas lideran la despensa y abarcan mayor proporción en la canasta familiar colombiana",
-        "url": "https://www.portafolio.co/negocios/empresas/estas-son-las-marcas-que-mas-espacio-ocupan-en-la-canasta-de-los-hogares-colombianos-502942",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "¿Con cuáles de estas llena su alacena? Las marcas que más espacio ocupan en la canasta de los hogares colombianos",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "On Vacation y Wingo habilitarán vuelo directo Bogotá Río Hato en octubre para fomentar turismo panameño",
-        "url": "https://www.portafolio.co/negocios/empresas/on-vacation-y-wingo-abriran-ruta-directa-entre-bogota-y-rio-hato-desde-octubre-para-impulsar-el-turismo-en-panama-498933",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "On Vacation y Wingo abrirán ruta directa entre Bogotá y Río Hato desde octubre para impulsar el turismo en Panamá",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Euromoney galardona al Banco de Bogotá como la entidad líder para pequeñas y medianas empresas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/banco-de-bogota-es-reconocido-por-euromoney-como-el-mejor-banco-para-pymes-en-colombia-503017",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Banco de Bogotá es reconocido por Euromoney como el mejor banco para pymes en Colombia",
         "capturado": "2026-09-22T15:21:50-05:00"
       }
     ]
