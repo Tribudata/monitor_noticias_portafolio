@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-25T14:26:51-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-25T17:40:44-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia lanza la Semana Milagro en Nueva York para captar capital foráneo",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-anuncia-la-semana-milagro-en-nueva-york-asi-busca-atraer-inversion-internacional-503293",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Colombia anuncia la Semana Milagro en Nueva York: así busca atraer inversión internacional",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Exministro critica la tardanza en conocerse la ley de rescate y su ajuste fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/la-ignota-ley-rescate-exministro-cuestiona-demora-de-la-llave-maestra-del-ajuste-fiscal-que-aun-no-se-conoce-503292",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "'La ignota ley rescate': exministro cuestiona demora de la llave maestra del ajuste fiscal que aún no se conoce",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Minvivienda halla graves irregularidades en contratos y obras de agua y vivienda",
+        "url": "https://www.portafolio.co/economia/gobierno/minvivienda-reporta-hallazgos-graves-en-proyectos-de-agua-vivienda-y-contratacion-503291",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Minvivienda reporta hallazgos graves en proyectos de agua, vivienda y contratación",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Bogotá habilita 6.200 hectáreas para vivienda cerca de TransMilenio y el Metro",
+        "url": "https://www.portafolio.co/economia/infraestructura/bogota-abre-6-200-hectareas-a-desarrollos-inmobiliarios-alrededor-de-transmilenio-y-la-primera-linea-del-metro-503288",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Bogotá abre 6.200 hectáreas a desarrollos inmobiliarios alrededor de TransMilenio y la Primera Línea del Metro",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Inician obras de ALO Sur por $2 billones, divididos entre obra y operación",
+        "url": "https://www.portafolio.co/economia/infraestructura/alo-sur-arranca-obras-con-2-billones-1-25-billones-iran-a-construccion-y-0-76-billones-a-operar-el-corredor-503284",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "ALO Sur arranca obras con $2 billones: $1,25 billones irán a construcción y $0,76 billones a operar el corredor",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Corte Constitucional establece normas para la UPC 2027 ligadas al costo real",
+        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-fija-nuevas-reglas-para-la-upc-de-2027-y-exige-que-el-calculo-responda-al-costo-real-503285",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Corte Constitucional fija nuevas reglas para la UPC de 2027 y exige que el cálculo responda al costo real",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Cartera de Agricultura descarta más de 4.000 fallecimientos de reses a causa de El Niño en el Caribe",
+        "url": "https://www.portafolio.co/economia/gobierno/ministerio-de-agricultura-niega-mas-de-4-000-muertes-de-bovinos-por-el-nino-en-el-caribe-503282",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Ministerio de Agricultura niega más de 4.000 muertes de bovinos por El Niño en el Caribe",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
       {
         "titulo": "Ciudadanos elevan sus tenencias en dólares digitales al modificarse sus hábitos de consumo",
         "url": "https://www.portafolio.co/economia/finanzas/colombianos-aumentan-sus-saldos-en-dolares-digitales-mientras-cambia-el-comportamiento-de-compra-503270",
@@ -533,79 +603,69 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "Así avanzan las vías 4G con 93,32 % de ejecución, inversiones por $67,23 billones y 17 proyectos ya en operación",
         "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Cerrejón reporta sexto atentado del año con daños en vía férrea y vagones fuera de los rieles",
-        "url": "https://www.portafolio.co/economia/regiones/cerrejon-sufre-sexto-atentado-del-ano-ataque-deja-danos-en-linea-ferrea-clave-y-vagones-descarrilados-503098",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Cerrejón sufre sexto atentado del año: ataque deja daños en línea férrea clave y vagones descarrilados",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Gobierno de De La Espriella pone en marcha estrategia para contener el crecimiento de hipopótamos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-plan-para-frenar-expansion-de-hipopotamos-de-pablo-escobar-en-colombia-503096",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Gobierno de De La Espriella activa plan para frenar expansión de hipopótamos de Pablo Escobar en Colombia",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Metro de Bogotá: Contraloría Distrital halla nueva irregularidad administrativa en la Primera Línea",
-        "url": "https://www.portafolio.co/economia/regiones/metro-de-bogota-contraloria-distrital-detecta-nuevo-hallazgo-administrativo-en-la-primera-linea-503094",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Metro de Bogotá: Contraloría Distrital detecta nuevo hallazgo administrativo en la Primera Línea",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "El Niño continúa: Ideam conserva alerta en más de 300 municipios del país por conflagraciones",
-        "url": "https://www.portafolio.co/economia/gobierno/el-nino-sigue-presionando-ideam-mantiene-en-alerta-mas-de-300-municipios-del-pais-por-incendios-503092",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "El Niño sigue presionando: Ideam mantiene en alerta más de 300 municipios del país por incendios",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "SIC investiga más de 300 contratos por presunta corrupción que ronda los $2 billones",
-        "url": "https://www.portafolio.co/economia/gobierno/sic-pone-bajo-la-lupa-mas-de-300-contratos-por-posible-esquema-de-corrupcion-cercano-a-2-billones-503090",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "SIC pone bajo la lupa más de 300 contratos por posible esquema de corrupción cercano a $2 billones",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Reforma pensional de Petro se aplazaría a 2028: objeciones de Colpensiones para su ejecución",
-        "url": "https://www.portafolio.co/economia/gobierno/reforma-pensional-de-petro-podria-aplazarse-hasta-2028-estas-son-las-dificultades-para-ponerla-en-marcha-503089",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Reforma pensional de Petro podría aplazarse hasta 2028: reparos que encontró Colpensiones para ponerla en marcha",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia baja hoy y registra una caída ante el peso",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-precio-cae-y-marca-retroceso-frente-al-peso-colombiano-503083",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Euro hoy en Colombia: precio cae y marca retroceso frente al peso colombiano",
-        "capturado": "2026-09-23T07:54:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Theatron: el secreto del éxito del establecimiento nocturno más extenso de la capital",
+        "url": "https://www.portafolio.co/negocios/empresas/theatron-la-formula-detras-de-la-discoteca-mas-grande-de-bogota-503299",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Theatron: la fórmula detrás de la discoteca más grande de Bogotá",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Respaldo total a Bruce Mac Master mediante misiva para defender gremios de presiones",
+        "url": "https://www.portafolio.co/negocios/empresas/comite-intergremial-de-santander-respalda-a-bruce-mac-master-tras-su-carta-y-pide-proteger-a-los-gremios-503295",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Ola de respaldo a Bruce Mac Master: publican carta en la que pide proteger a los gremios ante presiones externas",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá impulsa granja solar de 39 MWp en Meta para abastecer 35.000 casas",
+        "url": "https://www.portafolio.co/negocios/banco-de-bogota-financia-proyecto-solar-de-39-mwp-en-el-meta-generara-energia-para-35-000-hogares-503296",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Banco de Bogotá financia proyecto solar de 39 MWp en el Meta: generará energía para 35.000 hogares",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Toyota Yaris Gazoo Racing actualiza su diseño y presenta cambios para el año 2027",
+        "url": "https://www.portafolio.co/negocios/vehiculo/toyota-yaris-gazoo-racing-referente-de-la-ingenieria-que-se-renueva-estas-son-sus-novedades-para-la-version-503265",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Toyota Yaris Gazoo Racing, referente de la ingeniería que se renueva: estas son sus novedades para la versión 2027",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "Comfaguajira proyecta finalizar 2026 con alza del 17% en entradas tras salir de crisis",
+        "url": "https://www.portafolio.co/negocios/empresas/comfaguajira-preve-cerrar-2026-con-un-crecimiento-del-17-en-sus-ingresos-tras-superar-intervencion-503280",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Comfaguajira prevé cerrar 2026 con un crecimiento del 17% en sus ingresos tras superar intervención",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
+      {
+        "titulo": "El cocinero Virgilio Martínez figura entre los destacados del Auténtico Aruba Culinary Festival",
+        "url": "https://www.portafolio.co/negocios/industrias/el-chef-internacional-virgilio-martinez-entre-las-estrellas-de-autentico-aruba-culinary-festival-503276",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "El chef internacional Virgilio Martínez, entre las estrellas de Auténtico Aruba Culinary Festival",
+        "capturado": "2026-09-25T17:40:44-05:00"
+      },
       {
         "titulo": "Banco de Bogotá lanza Comunidad Pyme Mujer para estimular el desarrollo de empresas lideradas por damas",
         "url": "https://www.portafolio.co/negocios/empresas/banco-de-bogota-puso-en-marcha-comunidad-pyme-mujer-para-impulsar-crecimiento-de-las-pymes-lideradas-por-mujeres-503275",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Colombia gana protagonismo para Covisian: ya aporta el 10% de los ingresos globales del grupo",
         "capturado": "2026-09-22T18:08:44-05:00"
-      },
-      {
-        "titulo": "Coca-Cola llega a su centenario en Colombia y este es su impacto actual en la economía nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/coca-cola-a-las-puertas-de-cumplir-100-anos-en-colombia-asi-pesa-hoy-en-la-economia-del-pais-503047",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Coca-Cola, a las puertas de cumplir 100 años en Colombia: así pesa hoy en la economía del país",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Minería ilegal asedia a Compañías Muzo: 900 personas ocupan un título con 250 túneles",
-        "url": "https://www.portafolio.co/negocios/empresas/companias-muzo-de-esmeraldas-cercada-por-la-mineria-ilegal-900-personas-ocupan-un-titulo-y-hay-250-tuneles-503041",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Compañías Muzo, de esmeraldas, cercada por la minería ilegal: 900 personas ocupan un título y hay 250 túneles",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Juan Valdez avanza en Canadá e ingresa a más de 400 supermercados para conquistar nuevos clientes",
-        "url": "https://www.portafolio.co/negocios/empresas/juan-valdez-sigue-en-la-expansion-internacional-aterriza-en-mas-de-400-supermercados-de-canada-503033",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Juan Valdez da paso clave en busca de conquistar los paladares canadienses: aterriza en más de 400 supermercados",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Estos son los cinco errores contables que generan pérdidas monetarias a las pymes",
-        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-cinco-errores-contables-que-les-estan-costando-dinero-a-las-pymes-503037",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Estos son los cinco errores contables que les están costando dinero a las pymes.",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Independientes con múltiples contratos modificarían sus pagos a seguridad social desde 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/pilas-independientes-tener-dos-o-mas-contratos-cambiaria-sus-aportes-a-seguridad-social-a-partir-de-503035",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Pilas, independientes: tener dos o más contratos cambiaría sus aportes a seguridad social a partir de 2027",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "DaVita invirtió 1.400 millones de pesos para asegurar la atención renal tras el temblor del 10 de agosto",
-        "url": "https://www.portafolio.co/negocios/empresas/davita-destino-1-400-millones-para-mantener-la-atencion-de-pacientes-renales-tras-el-sismo-del-10-de-agosto-503034",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "DaVita destinó $1.400 millones para mantener la atención de pacientes renales tras el sismo del 10 de agosto",
-        "capturado": "2026-09-22T15:21:50-05:00"
       }
     ]
   }
