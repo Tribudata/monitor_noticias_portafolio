@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-24T16:58:59-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-24T19:26:30-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Carlos René Montoya, director de Colpensiones, recibió solicitud de dimisión de parte de De La Espriella tras el Senado",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pidio-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-tras-su-paso-por-el-senado-503237",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "De La Espriella pidió la renuncia del presidente de Colpensiones, Carlos René Montoya, tras su paso por el Senado",
+        "capturado": "2026-09-24T19:26:30-05:00"
+      },
       {
         "titulo": "Iván Duque se integra al nuevo Consejo Asesor del BID para evaluar el porvenir de la región",
         "url": "https://www.portafolio.co/economia/gobierno/ivan-duque-entra-al-nuevo-consejo-asesor-del-bid-para-analizar-el-futuro-de-america-latina-503229",
@@ -593,19 +603,39 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Fed endurece el panorama del peso colombiano: dólar podría acercarse a los $3.300 esta semana",
         "capturado": "2026-09-22T18:08:44-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella busca 1,5 millones de hectáreas cultivables nuevas en el cuatrienio",
-        "url": "https://www.portafolio.co/economia/agro/gobierno-de-la-espriella-fija-meta-en-la-agricultura-sumar-1-5-millones-de-hectareas-productivas-en-cuatro-anos-503058",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Gobierno De La Espriella fija meta en la agricultura: sumar 1,5 millones de hectáreas productivas en cuatro años",
-        "capturado": "2026-09-22T18:08:44-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "PowerChina construirá el nuevo estadio El Campín y analizan aumentar su capacidad",
+        "url": "https://www.portafolio.co/negocios/empresas/nuevo-estadio-el-campin-ya-tiene-constructor-powerchina-asumira-la-obra-y-estudian-mayor-aforo-503231",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Nuevo estadio El Campín ya tiene constructor: PowerChina asumirá la obra y estudian mayor aforo",
+        "capturado": "2026-09-24T19:26:30-05:00"
+      },
+      {
+        "titulo": "El sesenta por ciento de las compañías afrontan diversos riesgos climáticos sin alistarse",
+        "url": "https://www.portafolio.co/negocios/empresas/seis-de-cada-diez-empresas-enfrentan-multiples-riesgos-climaticos-y-muchas-aun-no-se-preparan-503225",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Seis de cada diez empresas enfrentan múltiples riesgos climáticos y muchas aún no se preparan",
+        "capturado": "2026-09-24T19:26:30-05:00"
+      },
+      {
+        "titulo": "La designación del nuevo presidente no impactó la acción de Ecopetrol en bolsa",
+        "url": "https://www.portafolio.co/negocios/empresas/accion-de-ecopetrol-no-alcanzo-a-sentir-el-nombramiento-de-su-nuevo-presidente-asi-se-movio-en-bvc-y-wall-street-503227",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Acción de Ecopetrol no alcanzó a sentir el nombramiento de su nuevo presidente: así se movió en BVC y Wall Street",
+        "capturado": "2026-09-24T19:26:30-05:00"
+      },
       {
         "titulo": "Aumentar las ganancias: retos que Joaquín Gutiérrez, nuevo presidente de Ecopetrol, recibe de Ricardo Roa",
         "url": "https://www.portafolio.co/negocios/empresas/subir-las-utilidades-retos-que-joaquin-gutierrez-nuevo-presidente-de-ecopetrol-hereda-de-ricardo-roa-503223",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Tecnología para flotas de carga promete hasta 15% de ahorro en combustible mientras crecen exigencias regulatorias",
         "capturado": "2026-09-22T07:22:04-05:00"
-      },
-      {
-        "titulo": "Firmas nacionales inician operaciones en Venezuela y analizan vínculos con De La Espriella",
-        "url": "https://www.portafolio.co/negocios/comercio/empresas-colombianas-dan-primeros-pasos-en-venezuela-como-seran-las-relaciones-con-de-la-espriella-503004",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Empresas colombianas dan primeros pasos en Venezuela: cómo serán las relaciones con De La Espriella",
-        "capturado": "2026-09-22T01:38:07-05:00"
-      },
-      {
-        "titulo": "La relación comercial entre Colombia y Venezuela inicia una etapa de reactivación",
-        "url": "https://www.portafolio.co/negocios/colombia-y-venezuela-el-nuevo-capitulo-de-una-relacion-comercial-en-proceso-de-reconstruccion-503003",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Colombia y Venezuela: el nuevo capítulo de una relación comercial en proceso de reconstrucción",
-        "capturado": "2026-09-22T01:38:07-05:00"
-      },
-      {
-        "titulo": "Estos fueron los galardonados en los galardones Portafolio 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-quedo-el-cuadro-de-honor-de-los-premios-portafolio-502996",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Así quedó el cuadro de honor de los premios Portafolio 2026",
-        "capturado": "2026-09-21T20:26:27-05:00"
       }
     ]
   }
