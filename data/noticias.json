@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-25T10:25:43-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-25T14:26:51-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ciudadanos elevan sus tenencias en dólares digitales al modificarse sus hábitos de consumo",
+        "url": "https://www.portafolio.co/economia/finanzas/colombianos-aumentan-sus-saldos-en-dolares-digitales-mientras-cambia-el-comportamiento-de-compra-503270",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Colombianos aumentan sus saldos en dólares digitales mientras cambia el comportamiento de compra",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Modifican el ICA en Bogotá: banca tributará más y 275 sectores bajarán tasas desde 2027",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-cambia-el-ica-sector-financiero-pagara-mas-y-275-actividades-tendran-menores-tarifas-desde-503269",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Bogotá cambia el ICA: sector financiero pagará más y 275 actividades tendrán menores tarifas desde 2027",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Cuál será el costo del impuesto de alumbrado por estrato socioeconómico en Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/cuanto-debera-pagar-por-alumbrado-segun-estrato-en-bogota-503266",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "¿Cuánto deberá pagar por el alumbrado según su estrato en Bogotá?",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Jornada tres del vigesimoctavo Congreso de ANDESCO",
+        "url": "https://www.portafolio.co/economia/finanzas/tercer-dia-del-28-congreso-de-andesco-503261",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Tercer día del 28° Congreso de ANDESCO",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
       {
         "titulo": "Petróleo y Agencia Nacional de Tierras pactan camino para destrabar proyectos de hidrocarburos frenados",
         "url": "https://www.portafolio.co/economia/regiones/sector-petrolero-y-agencia-nacional-de-tierras-acuerdan-ruta-para-destrabar-proyectos-de-hidrocarburos-paralizados-503252",
@@ -563,49 +603,49 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "Euro hoy en Colombia: precio cae y marca retroceso frente al peso colombiano",
         "capturado": "2026-09-23T07:54:21-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia sube este 23 de septiembre y la TRM queda en $3.208,66",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-amanece-al-alza-este-23-de-septiembre-y-la-trm-se-fija-en-3-208-503082",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "El dólar en Colombia amanece al alza este 23 de septiembre y la TRM se fija en $3.208,66",
-        "capturado": "2026-09-23T07:54:21-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella alista segunda emergencia económica por El Niño",
-        "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-de-la-espriella-prepara-su-segunda-declaratoria-de-emergencia-economica-esta-vez-por-el-nino-503081",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Gobierno De La Espriella prepara su segunda declaratoria de emergencia económica para anticiparse a El Niño",
-        "capturado": "2026-09-23T07:54:21-05:00"
-      },
-      {
-        "titulo": "Colpensiones solicita a la Corte Constitucional postergar a 2028 la vigencia de la reforma pensional",
-        "url": "https://www.portafolio.co/economia/gobierno/colpensiones-pide-a-la-corte-constitucional-aplazar-hasta-2028-la-entrada-en-vigencia-de-la-reforma-pensional-503066",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Colpensiones pide a la Corte Constitucional aplazar hasta 2028 la entrada en vigencia de la reforma pensional",
-        "capturado": "2026-09-23T02:22:57-05:00"
-      },
-      {
-        "titulo": "ANT tendrá fuerte recorte en 2027: directora detalla avance de Reforma Agraria con $556.767 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/ant-enfrentara-notable-recorte-en-2027-directora-explica-como-avanzara-la-reforma-agraria-con-556-767-millones-503073",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "ANT enfrentará notable recorte en 2027: directora explica cómo avanzará la Reforma Agraria con $556.767 millones",
-        "capturado": "2026-09-23T02:22:57-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Banco de Bogotá lanza Comunidad Pyme Mujer para estimular el desarrollo de empresas lideradas por damas",
+        "url": "https://www.portafolio.co/negocios/empresas/banco-de-bogota-puso-en-marcha-comunidad-pyme-mujer-para-impulsar-crecimiento-de-las-pymes-lideradas-por-mujeres-503275",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Banco de Bogotá puso en marcha Comunidad Pyme Mujer, para impulsar crecimiento de las pymes lideradas por mujeres",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Destituyen al titular de 4-72 tras informe del MinTIC que exige documentos para tomar determinaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/ordenan-la-salida-de-fuad-abdala-salaiman-de-la-presidencia-de-4-72-esto-es-lo-que-se-sabe-503272",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Remueven al presidente de 4-72: MinTIC recibió diagnóstico de la empresa y ordenó solicitar soportes para decidir",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Costos del servicio hídrico en Bogotá crecieron 7% y el gerente detalla efectos de la norma",
+        "url": "https://www.portafolio.co/negocios/empresas/tarifas-de-acueducto-en-bogota-subieron-7-gerente-explica-el-impacto-del-nuevo-marco-regulatorio-503260",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Tarifas de acueducto en Bogotá subieron 7%: gerente explica el impacto del nuevo marco regulatorio",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
+      {
+        "titulo": "Finanzas urbanas por espectáculos: tarimas y recitales generan ganancias cuantiosas en las urbes",
+        "url": "https://www.portafolio.co/negocios/inversion/la-economia-tras-el-escenario-festivales-y-conciertos-deja-millonarios-ingresos-a-las-ciudades-503255",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "La economía tras el escenario: festivales y conciertos dejan millonarios ingresos a las ciudades",
+        "capturado": "2026-09-25T14:26:51-05:00"
+      },
       {
         "titulo": "Centros comerciales avisan sobre efectos de nueva sobretasa y alertan incremento de precios en Bogotá",
         "url": "https://www.portafolio.co/negocios/comercio/centros-comerciales-alertan-por-impacto-de-nueva-sobretasa-y-advierten-alzas-de-precios-en-bogota-503257",
@@ -1164,46 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-22",
         "titulo_fuente": "DaVita destinó $1.400 millones para mantener la atención de pacientes renales tras el sismo del 10 de agosto",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Permoda, dueña de Koaj, se pronuncia acerca de presunto procedimiento de extinción de dominio",
-        "url": "https://www.portafolio.co/negocios/empresas/koaj-responde-por-proceso-de-extincion-de-dominio-esto-dijo-permoda-503032",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Koaj responde sobre supuesto proceso de extinción de dominio: esto dijo Permoda, casa matriz de la marca",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Shalom proyecta comercializar un millón de anchetas navideñas desde septiembre para el cierre de año",
-        "url": "https://www.portafolio.co/negocios/comercio/todo-listo-para-fin-de-ano-shalom-espera-vender-un-millon-de-anchetas-para-la-temporada-503030",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Desde septiembre... Todo listo para fin de año: Shalom espera vender un millón de anchetas para temporada navideña",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "La realidad de las bodegas de Temu: el comercio tras el auge en Soledad y su vínculo con la plataforma",
-        "url": "https://www.portafolio.co/negocios/empresas/la-verdad-sobre-las-bodegas-de-temu-el-negocio-detras-del-furor-que-estallo-en-soledad-y-su-relacion-con-la-app-503029",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "La verdad sobre las ‘bodegas de Temu’: el negocio detrás del furor que estalló en Soledad y su relación con la app",
-        "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Costa Rica halla oportunidad en Colombia para turismo MICE por conexiones aéreas directas Bogotá Medellín San José",
-        "url": "https://www.portafolio.co/negocios/costa-rica-ve-potencial-en-colombia-en-turismo-mice-gracias-a-sus-vuelos-directos-de-bogota-y-medellin-a-san-jose-503026",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Costa Rica ve potencial en Colombia en turismo MICE gracias a sus vuelos directos de Bogotá y Medellín a San José",
         "capturado": "2026-09-22T15:21:50-05:00"
       }
     ]
