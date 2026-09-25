@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-24T19:26:30-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-25T00:14:12-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Aprobado en el Concejo el retiro y soterramiento de cables en postes y fachadas de Bogotá",
+        "url": "https://www.portafolio.co/economia/gobierno/se-acaba-el-cablerio-en-postes-y-fachadas-de-bogota-concejo-aprueba-su-retiro-y-soterramiento-503238",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Se acaba el 'cablerío' en postes y fachadas de Bogotá: Concejo aprueba su retiro y soterramiento",
+        "capturado": "2026-09-25T00:14:12-05:00"
+      },
       {
         "titulo": "Carlos René Montoya, director de Colpensiones, recibió solicitud de dimisión de parte de De La Espriella tras el Senado",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pidio-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-tras-su-paso-por-el-senado-503237",
@@ -593,19 +603,19 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Un banco alemán va a financiar con 25 millones de euros la ampliación del programa vial de Caquetá",
         "capturado": "2026-09-22T18:08:44-05:00"
-      },
-      {
-        "titulo": "Fed complica perspectivas del peso colombiano y tasa de cambio rondaría los 3.300 pesos estos días",
-        "url": "https://www.portafolio.co/economia/finanzas/fed-endurece-el-panorama-del-dolar-peso-colombiano-podria-acercarse-a-los-3-300-esta-semana-503059",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Fed endurece el panorama del peso colombiano: dólar podría acercarse a los $3.300 esta semana",
-        "capturado": "2026-09-22T18:08:44-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Smurfit Westrock adquiere compañía chilena por US$420 millones y expande su presencia en la región",
+        "url": "https://www.portafolio.co/negocios/empresas/gigante-del-papel-smurfit-westrock-compra-negocio-chileno-por-us-420-millones-asi-crece-en-latinoamerica-503240",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Gigante del papel Smurfit Westrock compra negocio chileno por US$420 millones: así crece en Latinoamérica",
+        "capturado": "2026-09-25T00:14:12-05:00"
+      },
       {
         "titulo": "PowerChina construirá el nuevo estadio El Campín y analizan aumentar su capacidad",
         "url": "https://www.portafolio.co/negocios/empresas/nuevo-estadio-el-campin-ya-tiene-constructor-powerchina-asumira-la-obra-y-estudian-mayor-aforo-503231",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-22",
         "titulo_fuente": "Banco de Bogotá es reconocido por Euromoney como el mejor banco para pymes en Colombia",
         "capturado": "2026-09-22T15:21:50-05:00"
-      },
-      {
-        "titulo": "Innovación para vehículos de carga ofrece reducir hasta 15% el gasto en gasolina ante mayores normas",
-        "url": "https://www.portafolio.co/negocios/empresas/tecnologia-para-flotas-de-carga-promete-hasta-15-de-ahorro-en-combustible-mientras-crecen-exigencias-regulatorias-503006",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Tecnología para flotas de carga promete hasta 15% de ahorro en combustible mientras crecen exigencias regulatorias",
-        "capturado": "2026-09-22T07:22:04-05:00"
       }
     ]
   }
