@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-26T06:40:49-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-26T10:51:31-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "A qué hora es el juego de hoy de Colombia ante México sin James ni Quintero y canales de transmisión",
+        "url": "https://www.portafolio.co/economia/sin-james-ni-quintero-a-que-hora-juega-hoy-la-seleccion-colombia-contra-mexico-y-donde-puede-ver-el-partido-503323",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Sin James ni Quintero, a qué hora juega hoy la Selección Colombia contra México y dónde puede ver el partido",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
+      {
+        "titulo": "Ocho trayectos especiales de Transmilenio habilitados para la salida de los shows de BTS en El Campín",
+        "url": "https://www.portafolio.co/economia/conozca-las-ocho-rutas-especiales-de-transmilenio-para-la-salida-de-los-conciertos-de-bts-en-el-campin-503322",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Conozca las ocho rutas especiales de Transmilenio para la salida de los conciertos de BTS en El Campín",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
+      {
+        "titulo": "Gobierno habilita vía para asegurar el pago de mesadas de noviembre y diciembre por hueco fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-activa-ruta-para-garantizar-pago-de-pensiones-de-noviembre-y-diciembre-tras-faltante-presupuestal-503321",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Gobierno activa ruta para garantizar pago de pensiones de noviembre y diciembre tras faltante presupuestal",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
+      {
+        "titulo": "Tres factores que justifican el repunte del dólar en el país que terminó la semana sobre $3.300",
+        "url": "https://www.portafolio.co/economia/finanzas/tres-variables-que-explican-el-rebote-del-dolar-en-colombia-que-cerro-por-encima-de-3-300-esta-semana-503319",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Tres variables que explican el rebote del dólar en Colombia que cerró por encima de $3.300 esta semana",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
       {
         "titulo": "Cundinamarca informa rebaja del 90 por ciento en multas y recargos tributarios y fija plazo",
         "url": "https://www.portafolio.co/economia/gobierno/cundinamarca-anuncia-descuento-del-90-en-intereses-y-sanciones-de-impuestos-hasta-cuando-503315",
@@ -563,49 +603,29 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "ANI habilita 6,5 km de segunda calzada entre Jamundí y Villa Rica; Accesos Cali y Palmira avanza al 72,66 %",
         "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Tres opciones de expertos para poner dinero en oro desde Colombia",
-        "url": "https://www.portafolio.co/economia/como-invertir-en-oro-desde-colombia-tres-alternativas-que-proponen-los-expertos-503113",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "¿Cómo invertir en oro desde Colombia?: Tres alternativas que proponen los expertos",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Aumentan pronósticos de inflación para 2026 a 6,82% y prevén alza en las tasas de interés",
-        "url": "https://www.portafolio.co/economia/finanzas/proyecciones-de-inflacion-para-2026-siguen-creciendo-6-82-y-las-tasas-de-interes-tambien-tendrian-repunte-503111",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Proyecciones de inflación para 2026 siguen creciendo: 6,82% y las tasas de interés también tendrían repunte",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Inversionistas de Pei declinan su derecho preferencial para viabilizar la compra del portafolio Terranum",
-        "url": "https://www.portafolio.co/economia/inversionistas-de-pei-renuncian-a-su-derecho-preferencial-para-que-avance-la-compra-del-portafolio-de-terranum-503107",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Inversionistas de Pei renuncian a su derecho preferencial para que avance la compra del portafolio de Terranum",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Sanyang Motor Colombia lanza vacantes vigentes para operario de producción y coordinador comercial",
-        "url": "https://www.portafolio.co/economia/finanzas/sanyang-motor-colombia-abre-convocatorias-ofertas-activas-para-operario-de-produccion-y-coordinador-comercial-503108",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Sanyang Motor Colombia abre convocatorias: ofertas activas para operario de producción y coordinador comercial",
-        "capturado": "2026-09-23T12:42:51-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nubank dialoga para adquirir a Monzo en un negocio que elevaría al doble la tasación británica",
+        "url": "https://www.portafolio.co/negocios/nubank-negocia-comprar-monzo-en-una-operacion-que-podria-duplicar-el-valor-del-banco-britanico-en-menos-de-dos-anos-503325",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Nubank negocia comprar Monzo en una operación que podría duplicar el valor del banco británico en menos de dos años",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
+      {
+        "titulo": "Fractura gremial: Fenalco Santander recrimina al Comité Intergremial por usar su logo en carta",
+        "url": "https://www.portafolio.co/negocios/empresas/division-gremial-fenalco-santander-cuestiona-a-comite-intergremial-por-incluir-logo-en-carta-de-apoyo-a-mac-master-503320",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "División gremial: Fenalco Santander cuestiona a Comité Intergremial por incluir logo en carta de apoyo a Mac Master",
+        "capturado": "2026-09-26T10:51:31-05:00"
+      },
       {
         "titulo": "Sector de bebidas: Las razones de la salida de Coca-Cola de la Cámara de la Andi",
         "url": "https://www.portafolio.co/negocios/empresas/industria-de-bebidas-por-que-coca-cola-se-salio-de-la-camara-de-bebidas-de-la-andi-503317",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "Efectos del terremoto se reflejan en la economía: comerciantes de zonas impactadas bajan ventas 45% en agosto",
         "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Nueva plataforma conecta a Colombia con 15 naciones para fomentar comercio y capitales",
-        "url": "https://www.portafolio.co/negocios/comercio/nueva-red-empresarial-une-a-colombia-con-15-paises-para-impulsar-negocios-e-inversion-regional-503080",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Nueva red empresarial une a Colombia con 15 países para impulsar negocios e inversión regional",
-        "capturado": "2026-09-23T07:54:21-05:00"
-      },
-      {
-        "titulo": "Estudian en el Congreso subsidio para deudores del Soat en Bogotá y otras ciudades",
-        "url": "https://www.portafolio.co/negocios/vehiculo/posible-alivio-para-deudores-del-soat-en-bogota-y-otras-ciudades-asi-funcionaria-subsidio-que-estudia-el-congreso-503071",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Posible alivio para deudores del Soat en Bogotá y otras ciudades: así funcionaría subsidio que estudia el Congreso",
-        "capturado": "2026-09-22T20:38:44-05:00"
       }
     ]
   }
