@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-26T10:51:31-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-26T14:01:58-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "La Unidad de Restitución reporta 455.000 hectáreas entregadas o compensadas al cumplirse una década del Acuerdo de Paz",
+        "url": "https://www.portafolio.co/economia/gobierno/el-acuerdo-de-paz-cumple-10-anos-con-455-000-hectareas-entregadas-o-compensadas-por-la-unidad-de-restitucion-503329",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "El Acuerdo de Paz cumple 10 años con 455.000 hectáreas entregadas o compensadas por la Unidad de Restitución",
+        "capturado": "2026-09-26T14:01:58-05:00"
+      },
+      {
+        "titulo": "A una década del accidente de Chapecoense, los aprendizajes obtenidos para la aviación comercial en Colombia",
+        "url": "https://www.portafolio.co/economia/diez-anos-despues-de-la-tragedia-de-chapecoense-las-lecciones-que-dejo-para-la-seguridad-aerea-en-colombia-503327",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Diez años después de la tragedia de Chapecoense, las lecciones que dejó para la seguridad aérea en Colombia",
+        "capturado": "2026-09-26T14:01:58-05:00"
+      },
       {
         "titulo": "A qué hora es el juego de hoy de Colombia ante México sin James ni Quintero y canales de transmisión",
         "url": "https://www.portafolio.co/economia/sin-james-ni-quintero-a-que-hora-juega-hoy-la-seleccion-colombia-contra-mexico-y-donde-puede-ver-el-partido-503323",
@@ -583,29 +603,29 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "No es solo colpensiones: BanRepública y Minhacienda encontraron reparos en la entrada en vigencia de la pensional",
         "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "Asofondos sugiere aplazar la reforma pensional por inquietudes de funcionamiento, caja y curso en el Congreso",
-        "url": "https://www.portafolio.co/economia/asofondos-plantea-aplazar-la-reforma-pensional-ante-dudas-sobre-operacion-financiacion-y-tramite-legislativo-503118",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Asofondos ve necesario posponer la reforma pensional ante dudas sobre operación, financiación y trámite legislativo",
-        "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "ANI entrega 6,5 km de doble calzada entre Jamundí y Villa Rica y Accesos Cali y Palmira llega al 72,66 %",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-habilita-6-5-km-de-segunda-calzada-entre-jamundi-y-villa-rica-accesos-cali-y-palmira-avanza-al-72-503110",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "ANI habilita 6,5 km de segunda calzada entre Jamundí y Villa Rica; Accesos Cali y Palmira avanza al 72,66 %",
-        "capturado": "2026-09-23T12:42:51-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bruce Mac Master conversó con el FMI acerca de las cuentas nacionales y solicitó más protagonismo empresarial",
+        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-hablo-con-el-fmi-sobre-las-finanzas-de-colombia-y-pidio-mayor-papel-del-sector-productivo-503333",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Bruce Mac Master habló con el FMI sobre las finanzas de Colombia y pidió mayor papel del sector productivo",
+        "capturado": "2026-09-26T14:01:58-05:00"
+      },
+      {
+        "titulo": "Especialistas colombianos avanzan en Estados Unidos y pasan de la tercerización a dirigir obras de diseño",
+        "url": "https://www.portafolio.co/negocios/empresas/talento-colombiano-gana-terreno-en-ee-uu-arquitectos-pasan-del-outsourcing-a-liderar-grandes-proyectos-de-diseno-503328",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Talento colombiano gana terreno en EE. UU.: arquitectos pasan del outsourcing a liderar grandes proyectos de diseño",
+        "capturado": "2026-09-26T14:01:58-05:00"
+      },
       {
         "titulo": "Nubank dialoga para adquirir a Monzo en un negocio que elevaría al doble la tasación británica",
         "url": "https://www.portafolio.co/negocios/nubank-negocia-comprar-monzo-en-una-operacion-que-podria-duplicar-el-valor-del-banco-britanico-en-menos-de-dos-anos-503325",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-23",
         "titulo_fuente": "Aruba: nueva conectividad aérea y plan turístico para 2027",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Gremios apoyan ofensiva de De La Espriella y piden frenar inseguridad en Santa Marta",
-        "url": "https://www.portafolio.co/negocios/empresas/gremios-respaldan-acciones-de-las-autoridades-para-recuperar-la-seguridad-en-santa-marta-503091",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "'Recuperar la seguridad en Santa Marta es inaplazable': ​Gremios respaldan ofensiva del Gobierno De La Espriella",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Ventas de comerciantes en zonas afectadas por el sismo caen 45% en agosto",
-        "url": "https://www.portafolio.co/negocios/comercio/efectos-del-terremoto-se-reflejan-en-la-economia-comerciantes-de-zonas-impactadas-bajan-ventas-45-en-agosto-503085",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Efectos del terremoto se reflejan en la economía: comerciantes de zonas impactadas bajan ventas 45% en agosto",
         "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
