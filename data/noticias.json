@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-25T17:40:44-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-09-25T20:12:08-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Mandatario De La Espriella confirma recursos para Santa Marta tras crisis de seguridad en la zona",
+        "url": "https://www.portafolio.co/economia/regiones/presidente-de-la-espriella-anuncia-inversiones-en-santa-marta-luego-de-crisis-de-seguridad-en-la-region-503306",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Presidente De La Espriella anuncia inversiones en Santa Marta luego de crisis de seguridad en la región",
+        "capturado": "2026-09-25T20:12:08-05:00"
+      },
+      {
+        "titulo": "De La Espriella catalogó al nuevo líder de Ecopetrol como padrino samario pidiéndole lucirse",
+        "url": "https://www.portafolio.co/economia/regiones/de-la-espriella-presento-al-nuevo-presidente-de-ecopetrol-como-el-padrino-de-santa-marta-hagame-quedar-bien-503309",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "De La Espriella presentó al nuevo presidente de Ecopetrol como el ‘padrino’ de Santa Marta: ‘Hágame quedar bien’",
+        "capturado": "2026-09-25T20:12:08-05:00"
+      },
+      {
+        "titulo": "UNGRD gira 14.784 millones de pesos a damnificados por sismo en Quindío y Risaralda",
+        "url": "https://www.portafolio.co/economia/regiones/ungrd-inicia-pago-de-14-784-millones-a-familias-afectadas-por-terremoto-en-risaralda-y-quindio-503310",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "UNGRD inicia pago de $14.784 millones a familias afectadas por terremoto en Risaralda y Quindío",
+        "capturado": "2026-09-25T20:12:08-05:00"
+      },
+      {
+        "titulo": "RTVC señala al Gobierno Petro por falta de fondos y advierte hueco de 148.391 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/rtvc-acusa-al-gobierno-petro-de-dejarlo-desfinanciado-y-alerta-sobre-un-faltante-de-148-391-millones-503303",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "RTVC acusa al Gobierno Petro de dejarlo desfinanciado y alerta sobre un faltante de $148.391 millones",
+        "capturado": "2026-09-25T20:12:08-05:00"
+      },
       {
         "titulo": "Colombia lanza la Semana Milagro en Nueva York para captar capital foráneo",
         "url": "https://www.portafolio.co/economia/gobierno/colombia-anuncia-la-semana-milagro-en-nueva-york-asi-busca-atraer-inversion-internacional-503293",
@@ -563,49 +603,19 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "'Ya están cancelando'; paro armado desploma al 15% la ocupación hotelera en la zona rural de Santa Marta",
         "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Carf avisa que sin fondos de emergencia económica, los impuestos habrían bajado 1,6% de enero a julio",
-        "url": "https://www.portafolio.co/economia/gobierno/carf-advierte-que-sin-recursos-de-emergencias-el-recaudo-tributario-habria-caido-1-6-real-entre-enero-y-julio-503105",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Carf advierte que sin recursos de emergencia económica, el recaudo tributario habría caído 1,6% entre enero y julio",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Fernando Isaza Gutierrez ocuparía la presidencia del Fondo Nacional de Garantías",
-        "url": "https://www.portafolio.co/economia/gobierno/fernando-isaza-gutierrez-seria-el-nuevo-presidente-del-fondo-nacional-de-garantias-503103",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Fernando Isaza Gutierrez sería el nuevo presidente del Fondo Nacional de Garantías",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "De 75.681 a 39.397: la Universidad Nacional cae a su menor nivel de aspirantes en 20 años",
-        "url": "https://www.portafolio.co/economia/de-75-681-a-39-397-la-universidad-nacional-pierde-casi-la-mitad-de-sus-aspirantes-y-toca-su-minimo-en-20-anos-503097",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "De 75.681 a 39.397: la Universidad Nacional pierde casi la mitad de sus aspirantes y toca su mínimo en 20 años",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Vías 4G llegan al 93,32 % de avance, con $67,23 billones invertidos y 17 obras finalizadas",
-        "url": "https://www.portafolio.co/economia/infraestructura/asi-avanzan-las-vias-4g-con-93-32-de-ejecucion-inversiones-por-67-23-billones-y-17-proyectos-ya-en-operacion-503086",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Así avanzan las vías 4G con 93,32 % de ejecución, inversiones por $67,23 billones y 17 proyectos ya en operación",
-        "capturado": "2026-09-23T12:42:51-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "CRC propone usar la regasificación de gas para fomentar los centros de datos en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/crc-plantea-aprovechar-la-regasificacion-del-gas-para-impulsar-los-data-centers-en-colombia-503302",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "CRC plantea aprovechar la regasificación del gas para impulsar los data centers en Colombia",
+        "capturado": "2026-09-25T20:12:08-05:00"
+      },
       {
         "titulo": "Theatron: el secreto del éxito del establecimiento nocturno más extenso de la capital",
         "url": "https://www.portafolio.co/negocios/empresas/theatron-la-formula-detras-de-la-discoteca-mas-grande-de-bogota-503299",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-22",
         "titulo_fuente": "Nuevo presidente para uno de los proyectos de cobre más importantes de Colombia: ¿qué viene para Quebradona?",
-        "capturado": "2026-09-22T18:08:44-05:00"
-      },
-      {
-        "titulo": "Covisian incrementa su peso en Colombia al generar el diez por ciento de su facturación mundial",
-        "url": "https://www.portafolio.co/negocios/empresas/colombia-gana-protagonismo-para-covisian-ya-aporta-el-10-de-los-ingresos-globales-del-grupo-503046",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Colombia gana protagonismo para Covisian: ya aporta el 10% de los ingresos globales del grupo",
         "capturado": "2026-09-22T18:08:44-05:00"
       }
     ]
