@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-26T01:25:29-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-26T06:40:49-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Sector de bebidas: Las razones de la salida de Coca-Cola de la Cámara de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/industria-de-bebidas-por-que-coca-cola-se-salio-de-la-camara-de-bebidas-de-la-andi-503317",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Industria de bebidas: ¿Por qué Coca-Cola se salió de la Cámara de bebidas de la Andi?",
+        "capturado": "2026-09-26T06:40:49-05:00"
+      },
+      {
         "titulo": "Wingz y Frisby despliegan Convite por Colombia para impulsar comercios golpeados por el sismo",
         "url": "https://www.portafolio.co/negocios/empresas/frisby-y-wingz-lanzan-convite-por-colombia-para-reactivar-negocios-afectados-por-el-terremoto-503316",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-09-22",
         "titulo_fuente": "Posible alivio para deudores del Soat en Bogotá y otras ciudades: así funcionaría subsidio que estudia el Congreso",
-        "capturado": "2026-09-22T20:38:44-05:00"
-      },
-      {
-        "titulo": "Tiendas Herbolario buscan liderar mercado saludable en ciudades intermedias",
-        "url": "https://www.portafolio.co/negocios/comercio/liderar-el-mercado-de-productos-saludables-en-ciudades-intermedias-meta-de-las-tiendas-herbolario-503063",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-22",
-        "titulo_fuente": "Liderar el mercado de productos saludables en ciudades intermedias, meta de las tiendas Herbolario",
         "capturado": "2026-09-22T20:38:44-05:00"
       }
     ]
