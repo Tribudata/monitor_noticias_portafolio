@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-27T12:08:34-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-27T15:17:30-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del inodoro inteligente en Colombia entre $1,5 millones y casi $5 millones",
+        "url": "https://www.portafolio.co/economia/adios-al-papel-higienico-esto-cuesta-un-inodoro-inteligente-en-colombia-de-1-5-millones-a-casi-5-millones-503370",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "¿Adiós al papel higiénico? Esto cuesta un inodoro inteligente en Colombia: de $1,5 millones a casi $5 millones",
+        "capturado": "2026-09-27T15:17:30-05:00"
+      },
+      {
+        "titulo": "Ecopetrol lanzó convocatoria de empleo para estudiantes con 300 cupos hasta el 16 de octubre",
+        "url": "https://www.portafolio.co/economia/empleo/ecopetrol-abrio-convocatoria-laboral-para-estudiantes-con-300-oportunidades-hay-plazo-hasta-el-16-de-octubre-503367",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Ecopetrol abrió convocatoria laboral para estudiantes con 300 oportunidades: hay plazo hasta el 16 de octubre",
+        "capturado": "2026-09-27T15:17:30-05:00"
+      },
+      {
+        "titulo": "Inspección a la Universidad de Pamplona para revisar denuncias por supuesta contratación irregular",
+        "url": "https://www.portafolio.co/economia/gobierno/visita-de-inspeccion-a-la-universidad-de-pamplona-buscara-verificar-denuncias-por-presunta-contratacion-irregular-503362",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Visita de inspección a la Universidad de Pamplona buscará verificar denuncias por presunta contratación irregular",
+        "capturado": "2026-09-27T15:17:30-05:00"
+      },
       {
         "titulo": "Tasa de cambio afronta periodo crucial por anuncio del Emisor: posibles escenarios",
         "url": "https://www.portafolio.co/economia/finanzas/dolar-entra-en-semana-clave-por-decision-del-banco-de-la-republica-que-puede-pasar-con-la-tasa-de-cambio-503364",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Más de la mitad de los viajeros de Estados Unidos ya usa IA para planear o reservar viajes, según Anato",
         "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "La Magola en Barranquilla pasará a ser un centro comercial con 357 locales y nueva plaza de comidas",
-        "url": "https://www.portafolio.co/economia/regiones/la-magola-se-convertira-en-centro-comercial-con-357-locales-y-nueva-plaza-de-comidas-en-barranquilla-503188",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "La Magola se convertirá en centro comercial con 357 locales y nueva plaza de comidas en Barranquilla",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Funza destina 6.198 millones propios para destrabar tres vías de acceso hacia el aeropuerto El Dorado",
-        "url": "https://www.portafolio.co/economia/infraestructura/funza-pone-6-198-millones-de-su-bolsillo-para-destrabar-tres-vias-de-acceso-al-aeropuerto-el-dorado-503177",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Funza pone $6.198 millones de su bolsillo para destrabar tres vías de acceso al aeropuerto El Dorado",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Ganaderos informan 95.065 millones en pérdidas por El Niño y 19.030 animales muertos de junio a septiembre de 2026",
-        "url": "https://www.portafolio.co/economia/agro/ganaderos-reportan-95-065-millones-en-perdidas-por-el-nino-y-19-030-animales-muertos-de-junio-a-septiembre-de-503182",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Ganaderos reportan $95.065 millones en pérdidas por El Niño y 19.030 animales muertos de junio a septiembre de 2026",
-        "capturado": "2026-09-24T13:32:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bruce Mac Master dialogó con el nuevo agregado comercial de EE UU acerca del vínculo bilateral tras cita con el FMI",
+        "url": "https://www.portafolio.co/negocios/comercio/bruce-mac-master-hablo-con-nuevo-agregado-comercial-de-ee-uu-sobre-la-relacion-bilateral-tras-reunion-con-el-fmi-503366",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Bruce Mac Master habló con nuevo agregado comercial de EE. UU. sobre la relación bilateral tras reunión con el FMI",
+        "capturado": "2026-09-27T15:17:30-05:00"
+      },
       {
         "titulo": "Icontec renueva la norma de gestión de calidad más usada globalmente y explica sus novedades",
         "url": "https://www.portafolio.co/negocios/empresas/icontec-actualiza-norma-de-gestion-de-calidad-la-mas-utilizada-por-las-empresas-en-el-mundo-que-cambia-503360",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-23",
         "titulo_fuente": "Peso fuerte golpeó a la industria: producción manufacturera cayó 2,3% anual en julio de 2026",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Tendencias que mueven los mercados según la Investor Conference 2026",
-        "url": "https://www.portafolio.co/negocios/inversion/investor-conference-2026-tendencias-que-mueven-los-mercados-503109",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Investor Conference 2026: tendencias que mueven los mercados",
         "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
