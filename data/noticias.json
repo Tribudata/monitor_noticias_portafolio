@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-27T15:17:30-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-27T18:15:35-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Nacional de Seguros afirma que su estrategia de crecimiento los trasladó a Perú por sus favorables opciones",
+        "url": "https://www.portafolio.co/economia/finanzas/plan-de-expansion-nos-llevo-a-peru-donde-hay-buenas-oportunidades-nacional-de-seguros-503384",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "‘Plan de expansión nos llevó a Perú, donde hay buenas oportunidades’: Nacional de Seguros",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "La multinacional británica de equipos pesados JCB cambia su operación en Colombia mediante una nueva alianza",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-gigante-britanica-de-maquinaria-pesada-jcb-mueve-su-negocio-en-colombia-esta-es-su-nueva-alianza-503378",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "La gigante británica de maquinaria pesada JCB mueve su negocio en Colombia: esta es su nueva alianza",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Fedetranscarga plantea la fórmula Colombia para reducir el diésel, que representa el 40,2% del gasto operativo",
+        "url": "https://www.portafolio.co/economia/fedetranscarga-propone-la-formula-colombia-para-bajar-el-diesel-que-pesa-40-2-en-el-costo-de-operar-un-camion-503283",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Fedetranscarga propone la 'fórmula Colombia' para bajar el diésel, que pesa 40,2% en el costo de operar un camión",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Colombia pretende reactivar la inversión tras seis años a la baja y Credicorp vaticina un alza de 8,9% en 2027",
+        "url": "https://www.portafolio.co/economia/colombia-busca-recuperar-la-inversion-tras-seis-anos-de-caida-y-credicorp-proyecta-un-repunte-de-8-9-en-503313",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Colombia busca recuperar la inversión tras seis años de caída y Credicorp proyecta un repunte de 8,9% en 2027",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Presidente De la Espriella anuncia que PepsiCo destinará US$ 1.000 millones en Colombia durante cinco años",
+        "url": "https://www.portafolio.co/economia/atencion-pepsico-invertira-us-1-000-millones-en-colombia-por-cinco-anos-anuncio-el-presidente-de-la-espriella-503375",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Atención: PepsiCo invertirá US$ 1.000 millones en Colombia por cinco años, anunció el presidente De la Espriella",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Gustavo Petro eliminó su contestación a Westcol al interpretar como amenaza un texto de un reto de Minecraft",
+        "url": "https://www.portafolio.co/economia/gustavo-petro-borro-su-respuesta-a-westcol-tras-leer-como-amenaza-un-mensaje-que-era-parte-de-un-reto-de-minecraft-503371",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Gustavo Petro borró su respuesta a Westcol tras leer como amenaza un mensaje que era parte de un reto de Minecraft",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Un sanitario inteligente en Colombia vale entre 1,5 y cerca de 5 millones de pesos",
+        "url": "https://www.portafolio.co/economia/esto-cuesta-un-inodoro-inteligente-en-colombia-de-1-5-millones-a-casi-5-millones-503370",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "De $1,5 millones a casi $5 millones cuesta un inodoro inteligente en Colombia",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
       {
         "titulo": "Precio del inodoro inteligente en Colombia entre $1,5 millones y casi $5 millones",
         "url": "https://www.portafolio.co/economia/adios-al-papel-higienico-esto-cuesta-un-inodoro-inteligente-en-colombia-de-1-5-millones-a-casi-5-millones-503370",
@@ -533,79 +603,39 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Colombia cambia su dinámica demográfica: suben nacimientos en 2026 mientras cae la fecundidad nacional",
         "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "UNGRD advierte por segunda temporada de lluvias: estas son las zonas con mayor peligro",
-        "url": "https://www.portafolio.co/economia/gobierno/ungrd-alerta-por-segunda-temporada-de-lluvias-estas-son-las-regiones-con-mayor-riesgo-503201",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "UNGRD alerta por segunda temporada de lluvias: estas son las regiones con mayor riesgo",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Topes legales del impuesto predial y cuándo reclamar ante incrementos excesivos",
-        "url": "https://www.portafolio.co/economia/impuestos/impuesto-predial-no-puede-subir-sin-limite-estos-son-los-topes-legales-y-casos-en-los-que-puede-reclamar-503198",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Impuesto predial no puede subir sin límite: estos son los topes legales y casos en los que puede reclamar",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "El agro frente a El Niño debe priorizar cultivos en lugar de solo usar más agua",
-        "url": "https://www.portafolio.co/economia/agro/mas-agua-no-siempre-es-la-solucion-agro-debe-identificar-que-cultivos-requieren-atencion-prioritaria-ante-el-nino-503193",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Más agua no siempre es la solución: agro debe identificar qué cultivos requieren atención prioritaria ante El Niño",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Sube 12,7% la mortalidad laboral en Colombia con un fallecido cada 18 horas en 2026",
-        "url": "https://www.portafolio.co/economia/regiones/mortalidad-laboral-en-colombia-sube-12-7-un-trabajador-murio-cada-18-horas-en-primer-semestre-de-503194",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Mortalidad laboral en Colombia sube 12,7%: un trabajador murió cada 18 horas en primer semestre de 2026",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Iberia invierte 6.000 millones de euros, eleva su flota y planea llegar a 70 aeronaves",
-        "url": "https://www.portafolio.co/economia/con-6-000-millones-de-euros-de-inversion-iberia-pasa-de-43-a-51-aviones-de-largo-radio-y-proyecta-llegar-a-503187",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Con 6.000 millones de euros de inversión, Iberia pasa de 43 a 51 aviones de largo radio y proyecta llegar a 70",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Bogotá ante un sismo: 257.193 predios estarían en riesgo de sufrir daños",
-        "url": "https://www.portafolio.co/economia/regiones/que-tan-preparada-esta-bogota-para-un-terremoto-257-193-predios-podrian-tener-afectaciones-503190",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "¿Qué tan preparada está Bogotá para un terremoto? 257.193 predios podrían tener afectaciones",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Más del 50% de viajeros estadounidenses usa IA para organizar sus viajes, según Anato",
-        "url": "https://www.portafolio.co/economia/mas-de-la-mitad-de-los-viajeros-de-estados-unidos-ya-usa-ia-para-planear-o-reservar-viajes-segun-anato-503186",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Más de la mitad de los viajeros de Estados Unidos ya usa IA para planear o reservar viajes, según Anato",
-        "capturado": "2026-09-24T13:32:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Usuarios de Nu en 540 municipios retiran plata en D1 y suman a Oxxo y Farmatodo para consignaciones",
+        "url": "https://www.portafolio.co/negocios/clientes-de-nu-en-540-municipios-ya-pueden-retirar-efectivo-en-d1-y-ahora-tendran-oxxo-y-farmatodo-para-consignar-503377",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Clientes de Nu en 540 municipios ya pueden retirar efectivo en D1 y ahora tendrán Oxxo y Farmatodo para consignar",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "La próxima jugada de Claro en Colombia va desde la conectividad hasta nuevas soluciones",
+        "url": "https://www.portafolio.co/negocios/empresas/de-la-conectividad-a-nuevas-soluciones-la-proxima-apuesta-de-claro-en-colombia-503308",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "De la conectividad a nuevas soluciones, la próxima apuesta de Claro en Colombia",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
+      {
+        "titulo": "Comercio, aranceles y la inversión mueven la agenda de Mac Master en EE. UU. en medio de presunta presión a la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/comercio-inversion-y-aranceles-la-agenda-de-mac-master-con-ee-uu-en-medio-de-presunta-presion-sobre-la-andi-503372",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Comercio, inversión y aranceles: la agenda de Mac Master con EE. UU. en medio de presunta presión sobre la Andi",
+        "capturado": "2026-09-27T18:15:35-05:00"
+      },
       {
         "titulo": "Bruce Mac Master dialogó con el nuevo agregado comercial de EE UU acerca del vínculo bilateral tras cita con el FMI",
         "url": "https://www.portafolio.co/negocios/comercio/bruce-mac-master-hablo-con-nuevo-agregado-comercial-de-ee-uu-sobre-la-relacion-bilateral-tras-reunion-con-el-fmi-503366",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "Nequi migra la tecnología de más de 6 millones de tarjetas Visa: ¿qué cambia con la nueva plataforma Pismo?",
         "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "Gabriel Gilinski y su esposa donan US$22,5 millones a Universidad de Pensilvania para becar latinoamericanos",
-        "url": "https://www.portafolio.co/negocios/empresas/gabriel-gilinski-y-su-esposa-donan-us-22-5-millones-a-la-universidad-de-pensilvania-503117",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Gabriel Gilinski y su esposa donan US$22,5 millones a Universidad de Pensilvania: becarán estudiantes de A. Latina",
-        "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "Cámara de Comercio avisa que inseguridad deja pérdidas diarias de unos $40.000 millones en Santa Marta",
-        "url": "https://www.portafolio.co/negocios/empresas/santa-marta-pierde-cerca-de-40-000-millones-diarios-por-crisis-de-seguridad-advierte-camara-de-comercio-503112",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Santa Marta pierde cerca de $40.000 millones diarios por crisis de seguridad, advierte Cámara de Comercio",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Producción manufacturera bajó 2,3% anual en julio de 2026 debido al impacto de la fortaleza del peso",
-        "url": "https://www.portafolio.co/negocios/empresas/peso-fuerte-golpeo-a-la-industria-produccion-manufacturera-cayo-2-3-anual-en-julio-de-503115",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Peso fuerte golpeó a la industria: producción manufacturera cayó 2,3% anual en julio de 2026",
-        "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
   }
