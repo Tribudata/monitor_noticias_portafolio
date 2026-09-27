@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-26T19:46:05-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-27T01:15:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Fenalco Santander sale del Comité Intergremial tras usar su logo en carta de apoyo a Bruce Mac Master",
+        "url": "https://www.portafolio.co/negocios/empresas/fenalco-santander-se-retira-del-comite-intergremial-por-incluir-su-logo-en-carta-de-apoyo-a-bruce-mac-master-503353",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Fenalco Santander se retira del Comité Intergremial por incluir su logo en carta de apoyo a Bruce Mac Master",
+        "capturado": "2026-09-27T01:15:44-05:00"
+      },
+      {
         "titulo": "Esto fue lo manifestado por Nequi acerca de los problemas presentados en su app durante este sábado",
         "url": "https://www.portafolio.co/negocios/empresas/nequi-se-pronuncio-sobre-las-fallas-en-su-aplicacion-de-este-sabado-esto-dijo-la-empresa-503352",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-23",
         "titulo_fuente": "¿Quiere ahorrar agua? Estas prácticas sencillas de EPM pueden reducir el consumo en el hogar",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "El reto corporativo en el país entre rentabilidad y expansión según Portafolio",
-        "url": "https://www.portafolio.co/negocios/empresas/entre-el-crecimiento-y-la-rentabilidad-el-desafio-empresarial-en-colombia-portafolio-503095",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Entre el crecimiento y la rentabilidad: el desafío empresarial en Colombia | Portafolio",
         "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
