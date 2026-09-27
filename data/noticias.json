@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-26T17:04:42-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T19:46:05-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De La Espriella pide supervisar ya la Universidad de Pamplona por quejas de contratación",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-exige-vigilancia-inmediata-a-la-universidad-de-pamplona-por-denuncias-sobre-manejo-de-contratos-503350",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "De La Espriella exige vigilancia inmediata a la Universidad de Pamplona por denuncias sobre manejo de contratos",
+        "capturado": "2026-09-26T19:46:05-05:00"
+      },
+      {
+        "titulo": "El Niño azota a Bogotá: fuego en cerros de Las Moyas con 20 bomberos, 6 carros y drones",
+        "url": "https://www.portafolio.co/economia/el-nino-llega-a-bogota-incendio-en-los-cerros-sector-las-moyas-moviliza-20-bomberos-6-vehiculos-y-drones-503348",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "El Niño llega a Bogotá: incendio en los cerros, sector Las Moyas, moviliza 20 bomberos, 6 vehículos y drones",
+        "capturado": "2026-09-26T19:46:05-05:00"
+      },
+      {
+        "titulo": "Empeora la lectura juvenil en Colombia según Pisa 2025 sobre el empleo por venir",
+        "url": "https://www.portafolio.co/economia/los-jovenes-en-colombia-estan-leyendo-peor-lo-que-dicen-las-pruebas-pisa-2025-sobre-los-trabajadores-del-futuro-503346",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Los jóvenes en Colombia están leyendo peor: lo que dicen las pruebas Pisa 2025 sobre los trabajadores del futuro",
+        "capturado": "2026-09-26T19:46:05-05:00"
+      },
       {
         "titulo": "Detalles de financiación y operación del primer túnel submarino latinoamericano por 6.800 millones de reales",
         "url": "https://www.portafolio.co/economia/infraestructura/como-funcionara-el-primer-tunel-submarino-en-america-latina-y-quien-financia-la-obra-de-6-800-millones-de-reales-503342",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "Avanza el debate del Presupuesto General en el Congreso: los argumentos de la izquierda y la defensa de Minhacienda",
         "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Credicorp Capital proyecta inflación de 7% para 2026 y tasas altas por El Niño y mayor gasto estatal",
-        "url": "https://www.portafolio.co/economia/inflacion-cerraria-en-7-2026-y-mantendria-las-tasas-altas-ante-el-nino-y-mayor-gasto-publico-credicorp-capital-503148",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Inflación cerraría en 7% 2026 y mantendría las tasas altas ante El Niño y mayor gasto público: Credicorp Capital",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "El 94% de las firmas retiene talento con beneficios y el 82% conserva métodos tradicionales de trabajo",
-        "url": "https://www.portafolio.co/economia/empleo/el-94-de-las-empresas-busca-retener-talento-con-beneficios-pero-82-mantiene-esquemas-tradicionales-503141",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "El 94% de las empresas busca retener talento con beneficios, pero 82% mantiene esquemas tradicionales",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Títulos de Royal Caribbean caen fuerte al revelar compra del 50 por ciento de Sandals por 3000 millones de dólares",
-        "url": "https://www.portafolio.co/economia/acciones-de-royal-caribbean-se-desploman-tras-anunciar-la-compra-de-la-mitad-de-sandals-por-us-3-000-millones-503125",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Acciones de Royal Caribbean se desploman tras anunciar la compra de la mitad de Sandals por US$ 3.000 millones",
-        "capturado": "2026-09-23T16:07:41-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Esto fue lo manifestado por Nequi acerca de los problemas presentados en su app durante este sábado",
+        "url": "https://www.portafolio.co/negocios/empresas/nequi-se-pronuncio-sobre-las-fallas-en-su-aplicacion-de-este-sabado-esto-dijo-la-empresa-503352",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-26",
+        "titulo_fuente": "Nequi se pronunció sobre las fallas en su aplicación de este sábado: esto dijo la empresa",
+        "capturado": "2026-09-26T19:46:05-05:00"
+      },
       {
         "titulo": "Bruce Mac Master conversó con el FMI acerca de las cuentas nacionales y solicitó más protagonismo empresarial",
         "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-hablo-con-el-fmi-sobre-las-finanzas-de-colombia-y-pidio-mayor-papel-del-sector-productivo-503333",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-23",
         "titulo_fuente": "Entre el crecimiento y la rentabilidad: el desafío empresarial en Colombia | Portafolio",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Aruba anuncia plan para el turismo y más vuelos hacia 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/aruba-nueva-conectividad-aerea-y-plan-turistico-para-503093",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Aruba: nueva conectividad aérea y plan turístico para 2027",
         "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
