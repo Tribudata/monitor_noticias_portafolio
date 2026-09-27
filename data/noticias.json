@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-27T07:17:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-27T12:08:34-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Tasa de cambio afronta periodo crucial por anuncio del Emisor: posibles escenarios",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-entra-en-semana-clave-por-decision-del-banco-de-la-republica-que-puede-pasar-con-la-tasa-de-cambio-503364",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Dólar entra en semana clave por decisión del Banco de la República: ¿qué puede pasar con la tasa de cambio?",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
+      {
+        "titulo": "Innovación digital impulsa oportunidades para hogares y negocios locales en la fecha del turismo",
+        "url": "https://www.portafolio.co/economia/dia-mundial-del-turismo-la-innovacion-digital-busca-abrir-oportunidades-a-familias-y-emprendedores-regionales-503361",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Día Mundial del Turismo: la innovación digital busca abrir oportunidades a familias y emprendedores regionales",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
+      {
+        "titulo": "Mecanismo de Obras por Impuestos aportará 500 mil millones para infraestructura vial y aérea chocoana",
+        "url": "https://www.portafolio.co/economia/infraestructura/obras-por-impuestos-financiara-500-000-millones-del-plan-marshall-para-las-vias-y-el-aeropuerto-del-choco-503356",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Obras por Impuestos financiará $500.000 millones del Plan Marshall para las vías y el aeropuerto del Chocó",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
+      {
+        "titulo": "ICA descarta datos de Fedegán acerca de decesos y traslado bovino por sequía reciente",
+        "url": "https://www.portafolio.co/economia/agro/el-ica-niega-cifras-de-fedegan-sobre-muertes-y-movilizacion-de-ganado-por-el-nino-en-los-ultimos-meses-503355",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "El ICA niega cifras de Fedegán sobre muertes y movilización de ganado por El Niño en los últimos meses",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
+      {
+        "titulo": "Paso vehicular optimizado para 127.000 automotores con el puente El Edén que reemplaza el semáforo",
+        "url": "https://www.portafolio.co/economia/infraestructura/adios-al-semaforo-de-la-boyaca-con-calle-12b-nuevo-puente-de-el-eden-agiliza-el-paso-de-127-000-vehiculos-503354",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Adiós al semáforo de la Boyacá con calle 12B: nuevo puente de El Edén agiliza el paso de 127.000 vehículos",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
       {
         "titulo": "De La Espriella pide supervisar ya la Universidad de Pamplona por quejas de contratación",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-exige-vigilancia-inmediata-a-la-universidad-de-pamplona-por-denuncias-sobre-manejo-de-contratos-503350",
@@ -553,59 +603,29 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Ganaderos reportan $95.065 millones en pérdidas por El Niño y 19.030 animales muertos de junio a septiembre de 2026",
         "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "La economía colombiana desaceleraría su ritmo en 2027 y se ubicaría en 2,4%: los motivos",
-        "url": "https://www.portafolio.co/economia/crecimiento/el-crecimiento-de-colombia-perderia-fuerza-en-2027-y-se-moderaria-hasta-2-4-estas-son-las-razones-503179",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Crecimiento económico de Colombia perdería fuerza en 2027 y se moderaría hasta 2,4%: estas son las razones",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Luz verde al Presupuesto General 2027 en las Comisiones Económicas del Congreso rumbo a plenarias",
-        "url": "https://www.portafolio.co/economia/gobierno/aprobado-el-presupuesto-general-2027-en-debate-de-comisiones-economicas-del-congreso-asi-se-perfila-para-plenarias-503159",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Aprobado el Presupuesto General 2027 en debate de Comisiones Económicas del Congreso: así se perfila para plenarias",
-        "capturado": "2026-09-23T22:18:45-05:00"
-      },
-      {
-        "titulo": "Estados Unidos advierte sobre un bloqueo armado de 72 horas en la ciudad de Santa Marta",
-        "url": "https://www.portafolio.co/economia/gobierno/ee-uu-alerta-por-bloqueo-armado-de-72-horas-en-santa-marta-503156",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "EE. UU. alerta por bloqueo armado de 72 horas en Santa Marta",
-        "capturado": "2026-09-23T22:18:45-05:00"
-      },
-      {
-        "titulo": "CNSC abre concurso docente 2026: condiciones y plazos de inscripción para más de 28.000 puestos",
-        "url": "https://www.portafolio.co/economia/empleo/concurso-docente-cnsc-2026-requisitos-y-nuevas-fechas-de-inscripcion-para-mas-de-28-000-vacantes-503153",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Concurso docente CNSC 2026: requisitos y nuevas fechas de inscripción para más de 28.000 vacantes",
-        "capturado": "2026-09-23T22:18:45-05:00"
-      },
-      {
-        "titulo": "Sigue la discusión del Presupuesto General en el Congreso con posturas de la izquierda y el Minhacienda",
-        "url": "https://www.portafolio.co/economia/gobierno/avanza-el-debate-del-presupuesto-general-en-el-congreso-los-argumentos-de-la-izquierda-y-la-defensa-de-minhacienda-503149",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Avanza el debate del Presupuesto General en el Congreso: los argumentos de la izquierda y la defensa de Minhacienda",
-        "capturado": "2026-09-23T18:51:26-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Icontec renueva la norma de gestión de calidad más usada globalmente y explica sus novedades",
+        "url": "https://www.portafolio.co/negocios/empresas/icontec-actualiza-norma-de-gestion-de-calidad-la-mas-utilizada-por-las-empresas-en-el-mundo-que-cambia-503360",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Icontec actualiza norma de gestión de calidad, la más utilizada por las empresas en el mundo: ¿qué cambia?",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
+      {
+        "titulo": "Aumentan los ingresos en 18,2% pero la utilidad cae 34% para Juan Valdez en el primer semestre",
+        "url": "https://www.portafolio.co/negocios/juan-valdez-vende-mas-pero-gana-menos-ingresos-suben-18-2-y-la-utilidad-se-hunde-34-en-el-primer-semestre-503358",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Juan Valdez vende más, pero gana menos: ingresos suben 18,2% y la utilidad se hunde 34% en el primer semestre",
+        "capturado": "2026-09-27T12:08:34-05:00"
+      },
       {
         "titulo": "Fenalco Santander sale del Comité Intergremial tras usar su logo en carta de apoyo a Bruce Mac Master",
         "url": "https://www.portafolio.co/negocios/empresas/fenalco-santander-se-retira-del-comite-intergremial-por-incluir-su-logo-en-carta-de-apoyo-a-bruce-mac-master-503353",
@@ -1184,26 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-09-23",
         "titulo_fuente": "Investor Conference 2026: tendencias que mueven los mercados",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Ventas externas de esmeraldas suben 14% a julio y febrero concentra casi 40% del total negociado",
-        "url": "https://www.portafolio.co/negocios/empresas/exportaciones-de-esmeraldas-crecen-14-hasta-julio-pero-febrero-concentra-casi-40-del-valor-vendido-503101",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Exportaciones de esmeraldas crecen 14% hasta julio, pero febrero concentra casi 40% del valor vendido",
-        "capturado": "2026-09-23T12:42:51-05:00"
-      },
-      {
-        "titulo": "Prácticas sencillas de EPM para bajar el gasto hídrico en casa y ahorrar agua",
-        "url": "https://www.portafolio.co/negocios/empresas/quiere-ahorrar-agua-estas-practicas-sencillas-de-epm-pueden-reducir-el-consumo-en-el-hogar-503099",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "¿Quiere ahorrar agua? Estas prácticas sencillas de EPM pueden reducir el consumo en el hogar",
         "capturado": "2026-09-23T12:42:51-05:00"
       }
     ]
