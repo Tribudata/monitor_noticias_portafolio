@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-28T11:53:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-28T17:24:33-05:00",
+  "nuevos_en_esta_corrida": 30,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Fitch advierte caja precaria y altos tipos de interés en firmas colombianas",
+        "url": "https://www.portafolio.co/economia/fitch-alerta-por-flujo-de-caja-debil-y-tasas-altas-en-empresas-de-colombia-503443",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Fitch alerta por flujo de caja débil y tasas altas en empresas de Colombia",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Portafolio convoca a los colombianos a registrarse en sus boletines de economía",
+        "url": "https://www.portafolio.co/economia/portafolio-invita-a-los-colombianos-a-suscribirse-a-sus-boletines-economicos-503440",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Portafolio invita a los colombianos a suscribirse a sus boletines económicos",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Turismo en salud sube 17,6%: 21.034 foráneos vinieron por procedimientos de enero a agosto",
+        "url": "https://www.portafolio.co/economia/turismo-medico-en-colombia-crece-17-6-21-034-extranjeros-llegaron-por-tratamientos-entre-enero-y-agosto-503436",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Turismo médico en Colombia crece 17,6%: 21.034 extranjeros llegaron por tratamientos entre enero y agosto",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Bogotá modifica normas fiscales: Cabildo avala cambio al ICA y auxilios a más de 2 millones de morosos",
+        "url": "https://www.portafolio.co/economia/bogota-cambia-las-reglas-tributarias-concejo-aprueba-reforma-al-ica-y-alivios-para-mas-de-2-millones-de-deudores-503438",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Bogotá cambia las reglas tributarias: Concejo aprueba reforma al ICA y alivios para más de 2 millones de deudores",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "La Orinoquía surge en el mapa comercial viajero: planes que agencias de 18 naciones tratarán en el Meta",
+        "url": "https://www.portafolio.co/economia/la-orinoquia-entra-al-mapa-de-los-negocios-turisticos-la-oferta-que-operadores-de-18-paises-negociaran-en-el-meta-503418",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "La Orinoquía entra al mapa de los negocios turísticos: la oferta que operadores de 18 países negociarán en el Meta",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Retorno de IVA a autos híbridos y eléctricos halla traba por escasez de citas en la Dian",
+        "url": "https://www.portafolio.co/economia/devolucion-de-iva-a-carros-hibridos-y-electricos-enfrenta-un-cuello-de-botella-por-falta-de-citas-en-la-dian-503433",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Devolución de IVA a carros híbridos y eléctricos enfrenta un cuello de botella por falta de citas en la Dian",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Club social de $50.000 millones en Bogotá reemplaza costosas acciones por membresías para clase media",
+        "url": "https://www.portafolio.co/economia/el-nuevo-club-social-de-50-000-millones-en-bogota-cambia-las-costosas-acciones-por-membresias-para-la-clase-media-503417",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "El nuevo club social de $50.000 millones en Bogotá; cambia las costosas acciones por membresías para la clase media",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Joven con puntaje máximo en Saber 11 elige carrera y agradece beca otorgada por De La Espriella",
+        "url": "https://www.portafolio.co/economia/regiones/puntaje-perfecto-en-saber-11-matias-luengas-ya-sabe-que-estudiara-y-agradecio-su-beca-503432",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Joven con máximo puntaje en Prueba Saber 11 ya sabe qué va a estudiar y agradeció a De La Espriella por la beca",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Colombia presentará 176 proyectos estratégicos en Nueva York para captar inversión en Milagro Week",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-llevara-a-nueva-york-176-proyectos-estrategicos-para-atraer-inversion-en-la-milagro-week-503431",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Colombia llevará a Nueva York 176 proyectos estratégicos para atraer inversión en la 'Milagro Week'",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "FMI prioriza el ajuste fiscal: Colombia tiene que reducir la diferencia entre entradas y salidas",
+        "url": "https://www.portafolio.co/economia/fmi-pone-el-ajuste-fiscal-en-el-centro-del-debate-colombia-debera-cerrar-la-brecha-entre-ingresos-y-gastos-503429",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "FMI pone el ajuste fiscal en el centro del debate: Colombia deberá cerrar la brecha entre ingresos y gastos",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Es rentable hacer una carrera en Colombia? El salario real disminuyó a partir de 2010",
+        "url": "https://www.portafolio.co/economia/sigue-valiendo-la-pena-estudiar-un-pregrado-en-colombia-el-ingreso-real-bajo-desde-503428",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "¿Sigue valiendo la pena estudiar un pregrado en Colombia? El ingreso real bajó desde 2010",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Martha Peralta y Euclides Torres se quedan sin visa y EE. UU. aplica la sanción a sus allegados",
+        "url": "https://www.portafolio.co/economia/gobierno/martha-peralta-y-euclides-torres-pierden-su-visa-ee-uu-tambien-extiende-la-medida-a-sus-familiares-503426",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Martha Peralta y Euclides Torres pierden su visa: EE. UU. también extiende la medida a sus familiares",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "David Murcia retira acusaciones sobre De La Espriella y nombra a Petro por un posible acercamiento de paz",
+        "url": "https://www.portafolio.co/economia/gobierno/david-murcia-se-retracta-de-senalamientos-contra-de-la-espriella-y-menciona-a-petro-por-posible-gestoria-de-paz-503422",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "David Murcia se retracta de señalamientos contra De La Espriella y menciona a Petro por posible gestoría de paz",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "SAC avisa que sería grave una intromisión estatal en los asuntos internos de las asociaciones del país",
+        "url": "https://www.portafolio.co/economia/gobierno/sac-advierte-que-seria-grave-que-el-gobierno-intervenga-en-las-decisiones-internas-de-los-gremios-empresariales-503412",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "SAC advierte que sería 'grave' que el Gobierno intervenga en las decisiones internas de los gremios empresariales",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Analistas debaten si el país necesita un cambio fiscal para lograr un crédito del Fondo Monetario",
+        "url": "https://www.portafolio.co/economia/gobierno/debe-colombia-hacer-una-reforma-tributaria-para-acceder-a-un-prestamos-del-fmi-esto-dicen-los-expertos-503391",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "¿Debe Colombia hacer una reforma tributaria para acceder a un préstamo del FMI? Esto dicen los expertos",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Tarifas de energía alcanzarían una quinta parte de los gastos en industrias colombianas más vulnerables",
+        "url": "https://www.portafolio.co/economia/costos-energeticos-podrian-llegar-al-20-de-los-gastos-operativos-en-sectores-productivos-mas-expuestos-en-colombia-503411",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Costos energéticos podrían llegar al 20% de los gastos operativos en sectores productivos más expuestos en Colombia",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
       {
         "titulo": "Presidente De La Espriella hablará con el Fondo Monetario Internacional para hallar salida a crisis fiscal",
         "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-conversara-con-el-fondo-monetario-internacional-para-buscar-salida-a-la-crisis-fiscal-503389",
@@ -443,169 +603,149 @@
         "publicacion": "2026-09-25",
         "titulo_fuente": "Ministerio de Agricultura niega más de 4.000 muertes de bovinos por El Niño en el Caribe",
         "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Ciudadanos elevan sus tenencias en dólares digitales al modificarse sus hábitos de consumo",
-        "url": "https://www.portafolio.co/economia/finanzas/colombianos-aumentan-sus-saldos-en-dolares-digitales-mientras-cambia-el-comportamiento-de-compra-503270",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Colombianos aumentan sus saldos en dólares digitales mientras cambia el comportamiento de compra",
-        "capturado": "2026-09-25T14:26:51-05:00"
-      },
-      {
-        "titulo": "Modifican el ICA en Bogotá: banca tributará más y 275 sectores bajarán tasas desde 2027",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-cambia-el-ica-sector-financiero-pagara-mas-y-275-actividades-tendran-menores-tarifas-desde-503269",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Bogotá cambia el ICA: sector financiero pagará más y 275 actividades tendrán menores tarifas desde 2027",
-        "capturado": "2026-09-25T14:26:51-05:00"
-      },
-      {
-        "titulo": "Cuál será el costo del impuesto de alumbrado por estrato socioeconómico en Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/cuanto-debera-pagar-por-alumbrado-segun-estrato-en-bogota-503266",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "¿Cuánto deberá pagar por el alumbrado según su estrato en Bogotá?",
-        "capturado": "2026-09-25T14:26:51-05:00"
-      },
-      {
-        "titulo": "Jornada tres del vigesimoctavo Congreso de ANDESCO",
-        "url": "https://www.portafolio.co/economia/finanzas/tercer-dia-del-28-congreso-de-andesco-503261",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Tercer día del 28° Congreso de ANDESCO",
-        "capturado": "2026-09-25T14:26:51-05:00"
-      },
-      {
-        "titulo": "Petróleo y Agencia Nacional de Tierras pactan camino para destrabar proyectos de hidrocarburos frenados",
-        "url": "https://www.portafolio.co/economia/regiones/sector-petrolero-y-agencia-nacional-de-tierras-acuerdan-ruta-para-destrabar-proyectos-de-hidrocarburos-paralizados-503252",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Sector petrolero y Agencia Nacional de Tierras acuerdan ruta para destrabar proyectos de hidrocarburos paralizados",
-        "capturado": "2026-09-25T10:25:43-05:00"
-      },
-      {
-        "titulo": "Datos confusos y baches técnicos: así transcurrió el debate en el Senado que apartó a Carlos René Montoya de Colpensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/cifras-confusas-y-vacios-tecnicos-asi-fue-la-sesion-en-el-senado-que-saco-a-carlos-rene-montoya-de-colpensiones-503250",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Cifras confusas y vacíos técnicos: así fue la sesión en el Senado que sacó a Carlos René Montoya de Colpensiones",
-        "capturado": "2026-09-25T10:25:43-05:00"
-      },
-      {
-        "titulo": "De qué manera han crecido los sueldos en Colombia en 2026: alzas de hasta 14,3%, impulsadas por el IPC",
-        "url": "https://www.portafolio.co/economia/empleo/como-han-subido-los-salarios-en-colombia-en-2026-aumentos-de-hasta-14-3-impulsados-por-el-ipc-503236",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "¿Cómo han subido los salarios en Colombia en 2026? Aumentos de hasta 14,3%, impulsados por el IPC",
-        "capturado": "2026-09-25T10:25:43-05:00"
-      },
-      {
-        "titulo": "Aprobado en el Concejo el retiro y soterramiento de cables en postes y fachadas de Bogotá",
-        "url": "https://www.portafolio.co/economia/gobierno/se-acaba-el-cablerio-en-postes-y-fachadas-de-bogota-concejo-aprueba-su-retiro-y-soterramiento-503238",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Se acaba el 'cablerío' en postes y fachadas de Bogotá: Concejo aprueba su retiro y soterramiento",
-        "capturado": "2026-09-25T00:14:12-05:00"
-      },
-      {
-        "titulo": "Carlos René Montoya, director de Colpensiones, recibió solicitud de dimisión de parte de De La Espriella tras el Senado",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-pidio-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-tras-su-paso-por-el-senado-503237",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "De La Espriella pidió la renuncia del presidente de Colpensiones, Carlos René Montoya, tras su paso por el Senado",
-        "capturado": "2026-09-24T19:26:30-05:00"
-      },
-      {
-        "titulo": "Iván Duque se integra al nuevo Consejo Asesor del BID para evaluar el porvenir de la región",
-        "url": "https://www.portafolio.co/economia/gobierno/ivan-duque-entra-al-nuevo-consejo-asesor-del-bid-para-analizar-el-futuro-de-america-latina-503229",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Iván Duque entra al nuevo Consejo Asesor del BID para analizar el futuro de América Latina",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Quién es Joaquín Gutiérrez, pieza clave con De La Espriella y nuevo presidente de Ecopetrol",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-joaquin-gutierrez-clave-en-la-campana-de-de-la-espriella-y-nuevo-presidente-de-ecopetrol-503221",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "¿Quién es Joaquín Gutiérrez, clave en la campaña de De La Espriella y nuevo presidente de Ecopetrol?",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Cabildo de Bogotá progresa en la validación del tributo distrital",
-        "url": "https://www.portafolio.co/economia/concejo-de-bogota-avanza-en-la-aprobacion-de-la-reforma-tributaria-de-la-capital-503224",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Concejo de Bogotá avanza en la aprobación de la reforma tributaria de la capital",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Cobertura del PAE trepa a 81,8% pero atendió a 239.674 alumnos menos en 2025 frente a 2024",
-        "url": "https://www.portafolio.co/economia/gobierno/cobertura-del-pae-sube-a-81-8-pero-el-programa-atendio-a-239-674-estudiantes-menos-en-2025-que-en-503211",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Cobertura del PAE sube a 81,8%, pero el programa atendió a 239.674 estudiantes menos en 2025 que en 2024",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027 incluye deudas y habilita un recorte fiscal de hasta 50 billones de pesos",
-        "url": "https://www.portafolio.co/economia/presupuesto-2027-incorpora-obligaciones-pendientes-y-abre-paso-a-un-ajuste-fiscal-de-hasta-50-billones-503214",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Presupuesto 2027 incorpora obligaciones pendientes y abre paso a un ajuste fiscal de hasta $50 billones",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo en la ONU: invito a quienes buscan dónde invertir a que miren a Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-en-la-onu-a-quienes-esten-buscando-donde-invertir-invito-que-miren-a-colombia-503205",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "José Manuel Restrepo en la ONU: 'a quienes estén buscando dónde invertir, invito que miren a Colombia'",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Titular de Colpensiones tendrá segunda ocasión para defender presupuesto de 2027 ante el Senado",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-colpensiones-tendra-segunda-oportunidad-para-sustentar-presupuesto-de-2027-ante-el-senado-503206",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Presidente de Colpensiones tendrá segunda oportunidad para sustentar presupuesto de 2027 ante el Senado",
-        "capturado": "2026-09-24T13:32:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Grupo Éxito incursiona con doble red para expandir su servicio de telefonía celular en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-ahora-apuesta-a-dos-redes-para-ampliar-su-negocio-de-telefonia-movil-en-el-pais-503434",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Grupo Éxito ahora apuesta a dos redes para ampliar su negocio de telefonía móvil en el país",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Concesionarios solicitan reducir el IVA vehicular y suprimir tributos para actualizar la flota",
+        "url": "https://www.portafolio.co/negocios/vehiculo/concesionarios-piden-bajar-el-iva-de-los-carros-y-eliminar-impuestos-para-renovar-el-parque-automotor-503430",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Concesionarios piden bajar el IVA de los carros y eliminar impuestos para renovar el parque automotor",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Theatron alberga cerca de 6000 asistentes un sábado según el relato sobre el club bogotano",
+        "url": "https://www.portafolio.co/negocios/theatron-un-sabado-perfectamente-puede-tener-6-000-personas-la-historia-detras-de-la-famosa-discoteca-en-bogota-503404",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "'Theatron un sábado perfectamente puede tener 6.000 personas': la historia detrás de la famosa discoteca en Bogotá",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Coosalud reporta desembolso superior a un billón de pesos a prestadores bajo toma de posesión",
+        "url": "https://www.portafolio.co/negocios/empresas/coosalud-anuncia-inyeccion-de-mas-de-1-billon-a-su-red-de-prestadores-durante-la-intervencion-administrativa-503425",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Coosalud anuncia inyección de más de $1 billón a su red de prestadores durante la intervención administrativa",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "650 establecimientos Oxxo integran servicios financieros de Puntored además de sus ventas",
+        "url": "https://www.portafolio.co/negocios/empresas/mas-que-compras-650-tiendas-oxxo-ya-permiten-realizar-operaciones-financieras-con-puntored-503424",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Más que compras: 650 tiendas Oxxo ya permiten realizar operaciones financieras con Puntored",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "J Balvin agota en preventa los Jordan 4 Amazonas y alista su estreno mundial en octubre",
+        "url": "https://www.portafolio.co/negocios/empresas/sold-out-j-balvin-agota-los-jordan-4-amazonas-en-preventa-y-prepara-su-lanzamiento-global-para-octubre-503423",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "'Sold out': J Balvin agota los Jordan 4 ‘Amazonas’ en preventa y prepara su lanzamiento global para octubre",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Olímpica dispone de más de 2.800 cajas para transacciones de Davivienda y DaviPlata",
+        "url": "https://www.portafolio.co/negocios/comercio/olimpica-habilita-mas-de-2-800-cajas-para-operaciones-de-davivienda-y-daviplata-503416",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Olímpica habilita más de 2.800 cajas para operaciones de Davivienda y DaviPlata",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Inversionistas del Grupo Energía Bogotá avalan llegada con ADR's a la Bolsa de Nueva York",
+        "url": "https://www.portafolio.co/negocios/empresas/accionistas-del-grupo-energia-bogota-aprueban-ingreso-con-adr-s-a-la-bolsa-de-nueva-york-503419",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Accionistas del Grupo Energía Bogotá aprueban ingreso con ADR's a la Bolsa de Nueva York",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "El grave fallo del pilotaje automático de Tesla con las velocidades que afectaría al conductor",
+        "url": "https://www.portafolio.co/negocios/vehiculo/el-peligroso-error-de-la-conduccion-autonoma-de-tesla-con-los-limites-de-velocidad-que-podria-costarle-al-conductor-503415",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "El peligroso error de la conducción autónoma de Tesla con los límites de velocidad que podría costarle al conductor",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Claro entra al terreno de Tigo: Móvil Éxito opera desde ahora en ambas redes",
+        "url": "https://www.portafolio.co/negocios/empresas/claro-se-mete-en-la-cancha-de-tigo-movil-exito-ahora-navega-en-las-dos-redes-503409",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Claro se mete en la cancha de Tigo: Móvil Éxito ahora navega en las dos redes",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Wall Street evalúa la estrategia NEXT de McDonald's: demanda ingresos y réditos",
+        "url": "https://www.portafolio.co/negocios/empresas/wall-street-pone-a-prueba-el-plan-next-de-mcdonald-s-exige-ventas-y-retornos-503413",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Wall Street pone a prueba el plan NEXT de McDonald’s: exige ventas y retornos",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Títulos de Nu bajan más de 8% tras rumores de multimillonaria compra del banco digital Monzo",
+        "url": "https://www.portafolio.co/negocios/empresas/acciones-de-nu-caen-mas-de-8-tras-versiones-sobre-millonaria-compra-de-monzo-503410",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Acciones de Nu caen más de 8% tras versiones sobre millonaria compra de Monzo, banco digital británico",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "Decathlon acelera su crecimiento en Colombia al comercializar 7 millones de productos cada año",
+        "url": "https://www.portafolio.co/negocios/comercio/decathlon-pisa-el-acelerador-de-la-expansion-en-colombia-vende-7-millones-de-unidades-al-ano-503297",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Decathlon pisa el acelerador de la expansión en Colombia: vende 7 millones de unidades al año",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
+      {
+        "titulo": "SmartFit se suma a la inversión en Venezuela con la apertura de su primer establecimiento allí",
+        "url": "https://www.portafolio.co/negocios/empresas/la-cadena-de-gimnasios-smartfit-se-sube-a-la-ola-de-inversion-en-venezuela-y-abre-su-primera-sede-en-ese-pais-503397",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "La cadena de gimnasios SmartFit se sube a la ola de inversión en Venezuela y abre su primera sede en ese país",
+        "capturado": "2026-09-28T17:24:33-05:00"
+      },
       {
         "titulo": "El cofundador de Tecnoglass, Christian Daes, financiará la beca del estudiante con mejor puntaje en el ICFES",
         "url": "https://www.portafolio.co/negocios/empresas/christian-daes-cofundador-de-tecnoglass-es-el-empresario-que-becara-a-estudiante-con-mas-alto-puntaje-en-pruebas-saber-503387",
@@ -1065,146 +1205,6 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Red Summa responde a investigación de la SIC por contratos cercanos a $2 billones y niega vínculos",
         "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Primicia: InDrive ficha a Juan Sebastián Uribe, exdirectivo de MercadoLibre, como su primer gerente en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/primicia-indrive-contrata-a-juan-sebastian-uribe-como-su-primer-country-manager-en-colombia-503184",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Primicia: InDrive contrata a Juan Sebastián Uribe, un ex-MercadoLibre, como su primer country manager en Colombia",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "De Cali hacia otros mercados: Quest alcanza 171 locales y proyecta 22 inauguraciones de cara al año 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/de-cali-a-nuevos-mercados-quest-suma-171-puntos-de-venta-y-prepara-22-aperturas-para-503168",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "De Cali a nuevos mercados: Quest suma 171 puntos de venta y prepara 22 aperturas para 2027",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Empresa global de envases busca participar en el segmento de mipymes y nuevos negocios",
-        "url": "https://www.portafolio.co/negocios/empresas/multinacional-de-los-empaques-va-por-tajada-del-mercado-de-emprendimientos-y-pequenos-negocios-503172",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Multinacional de los empaques va por 'tajada' del mercado de emprendimientos y pequeños negocios",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Aerocivil recibirá apoyo técnico de Airbus y Avianca para mejorar la seguridad aérea bogotana",
-        "url": "https://www.portafolio.co/negocios/empresas/airbus-y-avianca-apoyaran-a-aerocivil-en-estudios-tecnicos-para-reforzar-la-seguridad-del-espacio-aereo-de-bogota-503170",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Airbus y Avianca apoyarán a Aerocivil en estudios técnicos para reforzar la seguridad del espacio aéreo de Bogotá",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Empresas nacionales enfrentan sanciones de EE UU sin operar allá, más allá de la Lista Clinton",
-        "url": "https://www.portafolio.co/negocios/empresas/empresas-colombianas-podrian-ser-sancionadas-por-ee-uu-sin-haber-operado-nunca-en-ese-pais-503171",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Más allá de la Lista Clinton: empresas colombianas podrían ser sancionadas por EE. UU. sin haber operado allí",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Treinta y cuatro mil viajeros colombianos fueron a la isla caribeña y aseguran que cualquier época es buena",
-        "url": "https://www.portafolio.co/negocios/no-hay-una-temporada-mala-para-visitar-aruba-34-000-turistas-colombianos-visitaron-la-isla-del-caribe-503145",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "'No hay una temporada mala para visitar Aruba': 34.000 turistas colombianos visitaron la isla del Caribe",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Nick Pérez, heredero del rey de los condominios de Miami, afirma que EE. UU. es el sitio más seguro para invertir",
-        "url": "https://www.portafolio.co/negocios/estados-unidos-es-hoy-el-lugar-mas-seguro-para-invertir-nick-perez-hijo-del-rey-de-los-condominios-de-miami-503146",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "'Estados Unidos es hoy el lugar más seguro para invertir': Nick Pérez, hijo del 'rey de los condominios' de Miami",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Uber Mujeres se estrena en Bogotá, Medellín y Cali como una alternativa de la plataforma para solicitar viajes",
-        "url": "https://www.portafolio.co/negocios/llega-uber-mujeres-la-nueva-opcion-de-la-app-que-permitira-pedir-viajes-con-conductoras-en-bogota-medellin-y-cali-503134",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Llega Uber Mujeres, la nueva opción de la app que permitirá pedir viajes con conductoras en Bogotá, Medellín y Cali",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Falta de recursos para mega cárceles obliga al Gobierno a usar lotes estatales y unirse a constructoras",
-        "url": "https://www.portafolio.co/negocios/empresas/sin-plata-para-megacarceles-gobierno-busca-usar-predios-de-la-nacion-y-aliarse-con-constructoras-para-levantarlas-503140",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Sin plata para megacárceles: Gobierno busca usar predios de la Nación y aliarse con constructoras para levantarlas",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Tras tres años en Colombia, Ikea crece: compradores aumentan 24% y las visitas a almacenes suben 18% en 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/ikea-gana-terreno-en-colombia-clientes-crecen-24-y-visitas-a-tiendas-suben-18-en-503139",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Ikea sigue ganando terreno, luego 3 años en Colombia: clientes crecen 24% y visitas a tiendas suben 18% en 2026",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Informe especial sobre las determinaciones clave de inversión en Bogotá",
-        "url": "https://www.portafolio.co/negocios/inversion/cubrimiento-especial-las-grandes-decisiones-de-inversion-en-bogota-503137",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Cubrimiento especial: las grandes decisiones de inversión en Bogotá",
-        "capturado": "2026-09-23T18:51:26-05:00"
-      },
-      {
-        "titulo": "Tendencias que mueven los mercados en la Investor Conference 2026",
-        "url": "https://www.portafolio.co/negocios/inversion/investor-conference-2026-tendencias-que-mueven-los-mercados-503135",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Investor Conference 2026: tendencias que mueven los mercados",
-        "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "La clave para ir más allá de los pilotos si la IA aún no genera más ingresos o ahorro de costos",
-        "url": "https://www.portafolio.co/negocios/empresas/con-el-uso-de-la-ia-aun-no-ve-mas-ingresos-o-ahorro-de-costos-esta-es-la-clave-para-ir-mas-alla-de-los-pilotos-503129",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "¿Con el uso de la IA aún no ve más ingresos o ahorro de costos?: esta es la clave para ir más allá de los pilotos",
-        "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "Marcas presentan propuestas para el nuevo nombre del escenario, según el operador del Movistar Arena",
-        "url": "https://www.portafolio.co/negocios/empresas/operador-del-movistar-arena-revela-que-las-marcas-estan-presentando-propuestas-para-el-nuevo-nombre-del-escenario-503130",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Operador del Movistar Arena revela que las marcas están presentando propuestas para el nuevo nombre del escenario",
-        "capturado": "2026-09-23T16:07:41-05:00"
       }
     ]
   }
