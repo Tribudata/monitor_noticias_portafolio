@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-27T18:15:35-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-27T20:51:33-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Presidente De La Espriella hablará con el Fondo Monetario Internacional para hallar salida a crisis fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-conversara-con-el-fondo-monetario-internacional-para-buscar-salida-a-la-crisis-fiscal-503389",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Presidente De La Espriella conversará con el Fondo Monetario Internacional para buscar salida a la crisis fiscal",
+        "capturado": "2026-09-27T20:51:33-05:00"
+      },
+      {
+        "titulo": "Alocución del mandatario de los colombianos, Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/alocucion-del-senor-presidente-de-la-republica-abelardo-de-la-espriella-503388",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Alocución del señor Presidente de la República, Abelardo De La Espriella",
+        "capturado": "2026-09-27T20:51:33-05:00"
+      },
+      {
+        "titulo": "Entidades bancarias procuran mayor validación de la inteligencia artificial",
+        "url": "https://www.portafolio.co/economia/finanzas/bancos-buscan-mas-reconocimiento-de-la-inteligencia-artificial-503385",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Bancos buscan más reconocimiento de la inteligencia artificial",
+        "capturado": "2026-09-27T20:51:33-05:00"
+      },
       {
         "titulo": "Nacional de Seguros afirma que su estrategia de crecimiento los trasladó a Perú por sus favorables opciones",
         "url": "https://www.portafolio.co/economia/finanzas/plan-de-expansion-nos-llevo-a-peru-donde-hay-buenas-oportunidades-nacional-de-seguros-503384",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Presidente de Colpensiones tendrá segunda oportunidad para sustentar presupuesto de 2027 ante el Senado",
         "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Cali recibe cinco buses eléctricos del MIO y alista la primera flota pública de la localidad",
-        "url": "https://www.portafolio.co/economia/regiones/cali-estrena-cinco-buses-electricos-del-mio-y-prepara-la-primera-flota-publica-de-la-ciudad-503204",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Cali estrena cinco buses eléctricos del MIO y prepara la primera flota pública de la ciudad",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Vicepresidente José Manuel Restrepo interviene ante la ONU",
-        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-jose-manuel-restrepo-habla-ante-la-onu-503203",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Vicepresidente José Manuel Restrepo habla ante la ONU",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Colombia modifica su dinámica demográfica: crecen nacimientos en 2026 a la vez que baja la fecundidad",
-        "url": "https://www.portafolio.co/economia/colombia-cambia-su-dinamica-demografica-suben-nacimientos-en-2026-mientras-cae-la-fecundidad-nacional-503202",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Colombia cambia su dinámica demográfica: suben nacimientos en 2026 mientras cae la fecundidad nacional",
-        "capturado": "2026-09-24T13:32:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El cofundador de Tecnoglass, Christian Daes, financiará la beca del estudiante con mejor puntaje en el ICFES",
+        "url": "https://www.portafolio.co/negocios/empresas/christian-daes-cofundador-de-tecnoglass-es-el-empresario-que-becara-a-estudiante-con-mas-alto-puntaje-en-pruebas-saber-503387",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Christian Daes, cofundador de Tecnoglass, es el empresario que becará a joven con mayor puntaje en Pruebas Saber 11",
+        "capturado": "2026-09-27T20:51:33-05:00"
+      },
       {
         "titulo": "Usuarios de Nu en 540 municipios retiran plata en D1 y suman a Oxxo y Farmatodo para consignaciones",
         "url": "https://www.portafolio.co/negocios/clientes-de-nu-en-540-municipios-ya-pueden-retirar-efectivo-en-d1-y-ahora-tendran-oxxo-y-farmatodo-para-consignar-503377",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-23",
         "titulo_fuente": "Operador del Movistar Arena revela que las marcas están presentando propuestas para el nuevo nombre del escenario",
-        "capturado": "2026-09-23T16:07:41-05:00"
-      },
-      {
-        "titulo": "Nequi traslada la tecnología de más de 6 millones de tarjetas Visa a la nueva plataforma Pismo",
-        "url": "https://www.portafolio.co/negocios/empresas/nequi-migra-la-tecnologia-de-mas-de-6-millones-de-tarjetas-visa-que-cambia-con-la-nueva-plataforma-pismo-503127",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Nequi migra la tecnología de más de 6 millones de tarjetas Visa: ¿qué cambia con la nueva plataforma Pismo?",
         "capturado": "2026-09-23T16:07:41-05:00"
       }
     ]
