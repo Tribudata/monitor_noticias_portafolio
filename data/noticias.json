@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-29T03:52:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T10:22:45-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Extorsiones afectan a cafeteros en regiones marcadas por la violencia y amenazan la producción",
+        "url": "https://www.portafolio.co/economia/agro/la-nueva-roya-del-cafe-extorsion-pone-en-jaque-a-productores-en-las-zonas-mas-golpeadas-por-el-conflicto-503481",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "La ‘nueva roya’ del café: extorsión pone en jaque a productores en las zonas más golpeadas por el conflicto",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Guía de la tributaria en Bogotá: tributos nuevos, funcionamiento y contribuyentes obligados",
+        "url": "https://www.portafolio.co/economia/regiones/abc-de-la-reforma-tributaria-de-bogota-como-quedan-los-nuevos-impuestos-en-la-capital-y-quien-los-pagara-503483",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "ABC de la reforma tributaria de Bogotá: cómo quedan los nuevos impuestos en la capital y quién los pagará",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Tributaria distrital en Bogotá: tarifas para dueños de inmuebles en estratos cuatro, cinco y seis",
+        "url": "https://www.portafolio.co/economia/regiones/alumbrado-publico-en-bogota-esto-es-lo-que-pagaran-propietarios-de-estratos-4-5-y-6-con-la-tributaria-distrital-503480",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Alumbrado público en Bogotá: esto es lo que pagarán propietarios de estratos 4, 5 y 6 con la tributaria distrital",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Procedimientos estéticos preferidos en Colombia: liposucción, cirugías de párpados y senos",
+        "url": "https://www.portafolio.co/economia/regiones/liposuccion-senos-y-parpados-las-cirugias-que-marcan-el-nuevo-mapa-de-la-estetica-en-colombia-503478",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Liposucción, senos y párpados: las cirugías que marcan el nuevo mapa de la estética en Colombia",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "FMI y Colombia inician nueva fase: delegación de Hacienda irá a Washington por asesoría",
+        "url": "https://www.portafolio.co/economia/gobierno/fmi-abre-nueva-etapa-con-colombia-hacienda-viajara-a-washington-para-discutir-apoyo-tecnico-503476",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "FMI abre nueva etapa con Colombia: Hacienda viajará a Washington para discutir apoyo técnico",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Buscan igualar edad de pensión entre géneros proponiendo un incremento para las mujeres",
+        "url": "https://www.portafolio.co/economia/gobierno/proponen-subir-la-edad-para-que-las-mujeres-se-pensionen-y-equipararla-con-la-de-los-hombres-503475",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "'Nivelar la cancha' en pensiones: proponen subir edad de jubilación de mujeres para equipararla con la de hombres",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Euro sube ante el peso hoy martes: este es el comportamiento y el costo actual de la divisa en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-se-dispara-frente-al-peso-este-martes-asi-se-mueve-la-moneda-y-cuanto-esta-costando-en-colombia-503472",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Euro se dispara frente al peso este martes: así se mueve la moneda y cuánto está costando en Colombia",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia: valor de la moneda antes de importante decisión del Emisor",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-inicia-este-29-de-septiembre-en-3-349-63-a-la-espera-de-la-decision-de-tasas-del-banco-de-la-republica-503468",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Precio del dólar en Colombia: así cotiza la divisa previo a clave decisión del Banco de la República",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Galán habla tras aprobación de reforma tributaria: estas son las modificaciones previstas para Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/galan-se-pronuncia-tras-aval-a-reforma-tributaria-estos-son-los-cambios-que-vienen-para-bogota-503467",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Galán se pronuncia tras aval a reforma tributaria: estos son los cambios que vienen para Bogotá",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Colombia y EE. UU. se unen contra arancel de 12,5%: vetan ingreso de productos con trabajo forzoso",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-busca-tumbar-arancel-del-12-5-de-ee-uu-prohibio-importaciones-de-bienes-hechos-con-trabajo-forzoso-503466",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Colombia se alinea con EE.UU. para tumbar arancel de 12,5%: prohíbe importación de bienes a base de trabajo forzoso",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Alerta por 88.000 millones de pesos: Contraloría indaga desembolsos del desaparecido Ministerio de la Igualdad",
+        "url": "https://www.portafolio.co/economia/gobierno/alerta-por-88-000-millones-contraloria-revisa-pagos-del-extinto-ministerio-de-igualdad-del-gobierno-petro-503465",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Alerta por $88.000 millones: Contraloría revisa pagos del extinto Ministerio de Igualdad del Gobierno Petro",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
       {
         "titulo": "FMI asistirá a Colombia: oportuna baja de déficits fiscales afianza confianza",
         "url": "https://www.portafolio.co/economia/confianza-deuda-mas-barata-y-empleo-lo-que-el-fmi-ve-en-una-accion-fiscal-oportuna-en-colombia-503463",
@@ -493,119 +603,29 @@
         "publicacion": "2026-09-26",
         "titulo_fuente": "Turismo MICE: Bogotá ocupa el puesto 36 entre 1.500 ciudades del mundo en reuniones internacionales",
         "capturado": "2026-09-26T17:04:42-05:00"
-      },
-      {
-        "titulo": "Designan a Beatriz Eugenia Vélez al frente de Colpensiones por disposición de De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-nombra-nueva-presidenta-de-colpensiones-tras-polemico-pedido-de-renuncia-a-montoya-503338",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "De La Espriella nombra nueva presidenta de Colpensiones tras polémica salida de Carlos René Montoya",
-        "capturado": "2026-09-26T17:04:42-05:00"
-      },
-      {
-        "titulo": "El diario El Tiempo adopta el tamaño tabloide este domingo tras invertir $130.000 millones",
-        "url": "https://www.portafolio.co/economia/el-tiempo-cambia-a-formato-tabloide-desde-este-domingo-respaldado-por-una-inversion-de-130-000-millones-503336",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "'EL TIEMPO' cambia a formato tabloide desde este domingo, respaldado por una inversión de $130.000 millones",
-        "capturado": "2026-09-26T17:04:42-05:00"
-      },
-      {
-        "titulo": "La Unidad de Restitución reporta 455.000 hectáreas entregadas o compensadas al cumplirse una década del Acuerdo de Paz",
-        "url": "https://www.portafolio.co/economia/gobierno/el-acuerdo-de-paz-cumple-10-anos-con-455-000-hectareas-entregadas-o-compensadas-por-la-unidad-de-restitucion-503329",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "El Acuerdo de Paz cumple 10 años con 455.000 hectáreas entregadas o compensadas por la Unidad de Restitución",
-        "capturado": "2026-09-26T14:01:58-05:00"
-      },
-      {
-        "titulo": "A una década del accidente de Chapecoense, los aprendizajes obtenidos para la aviación comercial en Colombia",
-        "url": "https://www.portafolio.co/economia/diez-anos-despues-de-la-tragedia-de-chapecoense-las-lecciones-que-dejo-para-la-seguridad-aerea-en-colombia-503327",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Diez años después de la tragedia de Chapecoense, las lecciones que dejó para la seguridad aérea en Colombia",
-        "capturado": "2026-09-26T14:01:58-05:00"
-      },
-      {
-        "titulo": "A qué hora es el juego de hoy de Colombia ante México sin James ni Quintero y canales de transmisión",
-        "url": "https://www.portafolio.co/economia/sin-james-ni-quintero-a-que-hora-juega-hoy-la-seleccion-colombia-contra-mexico-y-donde-puede-ver-el-partido-503323",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Sin James ni Quintero, a qué hora juega hoy la Selección Colombia contra México y dónde puede ver el partido",
-        "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Ocho trayectos especiales de Transmilenio habilitados para la salida de los shows de BTS en El Campín",
-        "url": "https://www.portafolio.co/economia/conozca-las-ocho-rutas-especiales-de-transmilenio-para-la-salida-de-los-conciertos-de-bts-en-el-campin-503322",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Conozca las ocho rutas especiales de Transmilenio para la salida de los conciertos de BTS en El Campín",
-        "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Gobierno habilita vía para asegurar el pago de mesadas de noviembre y diciembre por hueco fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-activa-ruta-para-garantizar-pago-de-pensiones-de-noviembre-y-diciembre-tras-faltante-presupuestal-503321",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Gobierno activa ruta para garantizar pago de pensiones de noviembre y diciembre tras faltante presupuestal",
-        "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Tres factores que justifican el repunte del dólar en el país que terminó la semana sobre $3.300",
-        "url": "https://www.portafolio.co/economia/finanzas/tres-variables-que-explican-el-rebote-del-dolar-en-colombia-que-cerro-por-encima-de-3-300-esta-semana-503319",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Tres variables que explican el rebote del dólar en Colombia que cerró por encima de $3.300 esta semana",
-        "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Cundinamarca informa rebaja del 90 por ciento en multas y recargos tributarios y fija plazo",
-        "url": "https://www.portafolio.co/economia/gobierno/cundinamarca-anuncia-descuento-del-90-en-intereses-y-sanciones-de-impuestos-hasta-cuando-503315",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Cundinamarca anuncia descuento del 90% en intereses y sanciones de impuestos: ¿hasta cuándo?",
-        "capturado": "2026-09-26T01:25:29-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella confirma recursos para Santa Marta tras crisis de seguridad en la zona",
-        "url": "https://www.portafolio.co/economia/regiones/presidente-de-la-espriella-anuncia-inversiones-en-santa-marta-luego-de-crisis-de-seguridad-en-la-region-503306",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Presidente De La Espriella anuncia inversiones en Santa Marta luego de crisis de seguridad en la región",
-        "capturado": "2026-09-25T20:12:08-05:00"
-      },
-      {
-        "titulo": "De La Espriella catalogó al nuevo líder de Ecopetrol como padrino samario pidiéndole lucirse",
-        "url": "https://www.portafolio.co/economia/regiones/de-la-espriella-presento-al-nuevo-presidente-de-ecopetrol-como-el-padrino-de-santa-marta-hagame-quedar-bien-503309",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "De La Espriella presentó al nuevo presidente de Ecopetrol como el ‘padrino’ de Santa Marta: ‘Hágame quedar bien’",
-        "capturado": "2026-09-25T20:12:08-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El sector plástico crea el centro i4Plas para impulsar su actualización digital",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-plastica-lanza-el-centro-i4plas-para-acelerar-su-modernizacion-tecnologica-503437",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Industria plástica lanza el centro i4Plas para acelerar su modernización tecnológica",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
+      {
+        "titulo": "Perspectivas rumbo al quincuagésimo primer Congreso Nacional de Colfecar 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/expectativas-para-el-51-congreso-nacional-de-colfecar-503473",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Expectativas para el 51° Congreso Nacional de Colfecar 2026",
+        "capturado": "2026-09-29T10:22:45-05:00"
+      },
       {
         "titulo": "Vélez inaugura en Panamá su tienda insignia más grande en América Latina",
         "url": "https://www.portafolio.co/negocios/empresas/velez-abre-en-panama-su-flagship-mas-grande-de-latinoamerica-503447",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Así se expandió GeoPark, reciente adquisición de Gilinski, antes de anunciar su interés por el fracking en Colombia",
         "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Comerciantes calculan los efectos financieros de dos días de parálisis en Santa Marta por problemas de orden público",
-        "url": "https://www.portafolio.co/negocios/comercio/comerciantes-miden-el-impacto-economico-de-dos-dias-de-paralisis-en-santa-marta-por-alteracion-del-orden-publico-503200",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Comerciantes miden el impacto económico de dos días de parálisis en Santa Marta por alteración del orden público",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Bogotá registra la desocupación de oficinas más reducida entre cinco grandes metrópolis latinoamericanas con un 5,4%",
-        "url": "https://www.portafolio.co/negocios/empresas/bogota-tiene-la-vacancia-de-oficinas-mas-baja-entre-cinco-grandes-ciudades-de-america-latina-solo-5-503195",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Bogotá tiene la vacancia de oficinas más baja entre cinco grandes ciudades de América Latina: solo 5,4%",
-        "capturado": "2026-09-24T13:32:55-05:00"
       }
     ]
   }
