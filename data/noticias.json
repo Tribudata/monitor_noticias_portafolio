@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-28T17:24:33-05:00",
-  "nuevos_en_esta_corrida": 30,
+  "actualizado": "2026-09-28T21:10:24-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "FMI asistirá a Colombia: oportuna baja de déficits fiscales afianza confianza",
+        "url": "https://www.portafolio.co/economia/confianza-deuda-mas-barata-y-empleo-lo-que-el-fmi-ve-en-una-accion-fiscal-oportuna-en-colombia-503463",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "FMI ayudará a Colombia: 'acción oportuna para reducir los desequilibrios fiscales puede fortalecer la confianza’",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Controversia por presuntos apremios a la Andi llega al Congreso: piden no excluir a Mac Master",
+        "url": "https://www.portafolio.co/economia/gobierno/polemica-por-supuestas-presiones-a-la-andi-se-traslada-al-plano-politico-en-el-senado-piden-no-vetar-a-mac-master-503460",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Polémica por supuestas presiones a la Andi se traslada al plano político: en el Senado piden no vetar a Mac Master",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Ana Lucía Pineda, primera dama, entrega Tesla para regiones del sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-anuncia-donacion-de-tesla-para-zonas-del-terremoto-503459",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Primera dama Ana Lucía Pineda anuncia donación de Tesla para zonas del terremoto",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Aria Hotels, marca helena, inaugurará su primer hospedaje latinoamericano en Cartagena",
+        "url": "https://www.portafolio.co/economia/gobierno/aria-hotels-cadena-griega-abrira-su-primer-hotel-en-latinoamerica-en-cartagena-503458",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Aria Hotels, cadena griega, abrirá su primer hotel en Latinoamérica en Cartagena",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "¿Hacia dónde van tutelas contra el mandatario? Decreto de gobierno De La Espriella modifica su curso",
+        "url": "https://www.portafolio.co/economia/gobierno/a-donde-llegan-las-tutelas-contra-el-presidente-gobierno-de-la-espriella-expide-decreto-para-cambiar-su-rumbo-503457",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "¿A dónde llegan las tutelas contra el presidente? Gobierno De La Espriella expide decreto para cambiar su rumbo",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Aseguradoras apartan $5,75 billones para cubrir siniestros del movimiento telúrico",
+        "url": "https://www.portafolio.co/economia/finanzas/el-sector-aseguador-ha-reservado-5-75-billones-para-atender-las-reclamaciones-por-el-terremoto-503456",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "‘El sector aseguador ha reservado $5,75 billones para atender las reclamaciones por el terremoto’",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Cámara Colombiana de Comercio Electrónico y Shein con Temu discuten por el cobro del IVA",
+        "url": "https://www.portafolio.co/economia/impuestos/shein-y-temu-en-disputa-con-la-camara-de-comercio-electronico-por-el-recaudo-del-iva-como-les-funciona-503455",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Shein y Temu, en disputa con la Cámara de Comercio Electrónico por el recaudo del IVA: ¿cómo les funciona?",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Desde el 1 de octubre Colsubsidio entregará los fármacos de Sanitas en Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/donde-reclamar-medicamentos-de-sanitas-en-bogota-colsubsidio-sera-el-nuevo-gestor-desde-el-1-de-octubre-503448",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "¿Dónde reclamar medicamentos de Sanitas en Bogotá? Colsubsidio será el nuevo gestor desde el 1 de octubre",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Ejecutivo presenta cuentas al FMI: el país gasta 40 billones e ingresa 29 billones al mes",
+        "url": "https://www.portafolio.co/economia/crecimiento/gobierno-lleva-al-fmi-panorama-fiscal-de-colombia-estado-gasta-40-billones-y-recibe-29-billones-cada-mes-503446",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Gobierno lleva al FMI panorama fiscal de Colombia: Estado gasta $40 billones y recibe $29 billones cada mes",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
       {
         "titulo": "Fitch advierte caja precaria y altos tipos de interés en firmas colombianas",
         "url": "https://www.portafolio.co/economia/fitch-alerta-por-flujo-de-caja-debil-y-tasas-altas-en-empresas-de-colombia-503443",
@@ -513,99 +603,29 @@
         "publicacion": "2026-09-25",
         "titulo_fuente": "De La Espriella presentó al nuevo presidente de Ecopetrol como el ‘padrino’ de Santa Marta: ‘Hágame quedar bien’",
         "capturado": "2026-09-25T20:12:08-05:00"
-      },
-      {
-        "titulo": "UNGRD gira 14.784 millones de pesos a damnificados por sismo en Quindío y Risaralda",
-        "url": "https://www.portafolio.co/economia/regiones/ungrd-inicia-pago-de-14-784-millones-a-familias-afectadas-por-terremoto-en-risaralda-y-quindio-503310",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "UNGRD inicia pago de $14.784 millones a familias afectadas por terremoto en Risaralda y Quindío",
-        "capturado": "2026-09-25T20:12:08-05:00"
-      },
-      {
-        "titulo": "RTVC señala al Gobierno Petro por falta de fondos y advierte hueco de 148.391 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/rtvc-acusa-al-gobierno-petro-de-dejarlo-desfinanciado-y-alerta-sobre-un-faltante-de-148-391-millones-503303",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "RTVC acusa al Gobierno Petro de dejarlo desfinanciado y alerta sobre un faltante de $148.391 millones",
-        "capturado": "2026-09-25T20:12:08-05:00"
-      },
-      {
-        "titulo": "Colombia lanza la Semana Milagro en Nueva York para captar capital foráneo",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-anuncia-la-semana-milagro-en-nueva-york-asi-busca-atraer-inversion-internacional-503293",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Colombia anuncia la Semana Milagro en Nueva York: así busca atraer inversión internacional",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Exministro critica la tardanza en conocerse la ley de rescate y su ajuste fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/la-ignota-ley-rescate-exministro-cuestiona-demora-de-la-llave-maestra-del-ajuste-fiscal-que-aun-no-se-conoce-503292",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "'La ignota ley rescate': exministro cuestiona demora de la llave maestra del ajuste fiscal que aún no se conoce",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Minvivienda halla graves irregularidades en contratos y obras de agua y vivienda",
-        "url": "https://www.portafolio.co/economia/gobierno/minvivienda-reporta-hallazgos-graves-en-proyectos-de-agua-vivienda-y-contratacion-503291",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Minvivienda reporta hallazgos graves en proyectos de agua, vivienda y contratación",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Bogotá habilita 6.200 hectáreas para vivienda cerca de TransMilenio y el Metro",
-        "url": "https://www.portafolio.co/economia/infraestructura/bogota-abre-6-200-hectareas-a-desarrollos-inmobiliarios-alrededor-de-transmilenio-y-la-primera-linea-del-metro-503288",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Bogotá abre 6.200 hectáreas a desarrollos inmobiliarios alrededor de TransMilenio y la Primera Línea del Metro",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Inician obras de ALO Sur por $2 billones, divididos entre obra y operación",
-        "url": "https://www.portafolio.co/economia/infraestructura/alo-sur-arranca-obras-con-2-billones-1-25-billones-iran-a-construccion-y-0-76-billones-a-operar-el-corredor-503284",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "ALO Sur arranca obras con $2 billones: $1,25 billones irán a construcción y $0,76 billones a operar el corredor",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Corte Constitucional establece normas para la UPC 2027 ligadas al costo real",
-        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-fija-nuevas-reglas-para-la-upc-de-2027-y-exige-que-el-calculo-responda-al-costo-real-503285",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Corte Constitucional fija nuevas reglas para la UPC de 2027 y exige que el cálculo responda al costo real",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Cartera de Agricultura descarta más de 4.000 fallecimientos de reses a causa de El Niño en el Caribe",
-        "url": "https://www.portafolio.co/economia/gobierno/ministerio-de-agricultura-niega-mas-de-4-000-muertes-de-bovinos-por-el-nino-en-el-caribe-503282",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Ministerio de Agricultura niega más de 4.000 muertes de bovinos por El Niño en el Caribe",
-        "capturado": "2026-09-25T17:40:44-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Vélez inaugura en Panamá su tienda insignia más grande en América Latina",
+        "url": "https://www.portafolio.co/negocios/empresas/velez-abre-en-panama-su-flagship-mas-grande-de-latinoamerica-503447",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Vélez abre en Panamá su flagship más grande de Latinoamérica",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
+      {
+        "titulo": "Gobierno prohíbe productos de trabajo forzoso y habilita revisión de arancel de EE. UU.",
+        "url": "https://www.portafolio.co/negocios/comercio/gobierno-prohibe-bienes-hechos-con-trabajo-forzoso-y-abre-via-para-revisar-arancel-de-ee-uu-503445",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Gobierno prohíbe bienes hechos con trabajo forzoso y abre vía para revisar arancel de EE. UU.",
+        "capturado": "2026-09-28T21:10:24-05:00"
+      },
       {
         "titulo": "Grupo Éxito incursiona con doble red para expandir su servicio de telefonía celular en Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-ahora-apuesta-a-dos-redes-para-ampliar-su-negocio-de-telefonia-movil-en-el-pais-503434",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-24",
         "titulo_fuente": "Bogotá tiene la vacancia de oficinas más baja entre cinco grandes ciudades de América Latina: solo 5,4%",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Binance destina 100 millones de dólares a Circle y consolida su respaldo a la criptomoneda estable USDC",
-        "url": "https://www.portafolio.co/negocios/inversion/binance-invierte-us-100-millones-en-circle-y-refuerza-su-apuesta-por-la-stablecoin-usdc-503197",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Binance invierte US$100 millones en Circle y refuerza su apuesta por la stablecoin USDC",
-        "capturado": "2026-09-24T13:32:55-05:00"
-      },
-      {
-        "titulo": "Red Summa contesta a indagación de la SIC por contratos por cerca de 2 billones de pesos y rechaza conexiones",
-        "url": "https://www.portafolio.co/negocios/empresas/red-summa-responde-a-investigacion-de-la-sic-por-contratos-cercanos-a-2-billones-y-niega-vinculos-503192",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Red Summa responde a investigación de la SIC por contratos cercanos a $2 billones y niega vínculos",
         "capturado": "2026-09-24T13:32:55-05:00"
       }
     ]
