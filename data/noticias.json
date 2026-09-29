@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-29T15:07:27-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-09-29T18:52:35-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El dólar sube 3,40% y sitúa al peso colombiano como la divisa de peor rendimiento regional",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-pega-un-salto-de-3-40-y-deja-al-peso-colombiano-como-la-moneda-con-el-peor-desempeno-de-la-region-503529",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Dólar pega un salto de 3,40% y deja al peso colombiano como la moneda con el peor desempeño de la región",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Embajada de EE UU en Bogotá lanza empleo con remuneración anual superior a $114 millones",
+        "url": "https://www.portafolio.co/economia/empleo/embajada-de-estados-unidos-abre-vacante-en-bogota-con-salario-anual-de-mas-de-114-millones-503527",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Embajada de Estados Unidos abre vacante en Bogotá con salario anual de más de $114 millones",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Más personas vuelan en Colombia: 39,4 millones de viajeros entre enero y agosto de 2026",
+        "url": "https://www.portafolio.co/economia/cada-vez-mas-gente-vuela-por-colombia-39-4-millones-de-pasajeros-viajaron-entre-enero-y-agosto-de-503520",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Cada vez más gente vuela por Colombia: 39,4 millones de pasajeros viajaron entre enero y agosto de 2026",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Tributaria distrital modifica el ICA desde 2027 y otorga rebaja en intereses de sanciones",
+        "url": "https://www.portafolio.co/economia/regiones/reforma-tributaria-de-bogota-cambia-el-ica-desde-2027-y-abre-descuento-en-intereses-de-multas-503521",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Reforma tributaria de Bogotá cambia el ICA desde 2027 y abre descuento en intereses de multas",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "El país sigue cultivando aguacate Hass: pasa de 39.000 hectáreas y apunta a nuevos mercados",
+        "url": "https://www.portafolio.co/economia/agro/colombia-no-para-de-sembrar-hass-ya-supera-las-39-000-hectareas-y-estos-son-los-paises-a-los-que-busca-entrar-503518",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Colombia no para de sembrar ‘Hass’: ya supera las 39.000 hectáreas y estos son los países a los que busca entrar",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Tormenta perfecta: alzas en combustibles, salarios y peajes preocupan a Colfecar",
+        "url": "https://www.portafolio.co/economia/tormenta-perfecta-aumento-de-combustibles-salarios-y-peajes-las-prioridades-en-transporte-para-colfecar-503479",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "‘Tormenta perfecta’: aumento de combustibles, salarios y peajes, las prioridades en transporte para Colfecar",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Combustible 73% más caro, dólar e infraestructura: los desafíos de Wingo para alcanzar 4,2 millones de viajeros",
+        "url": "https://www.portafolio.co/economia/infraestructura/combustible-73-mas-caro-dolar-e-infraestructura-los-retos-de-wingo-para-llegar-a-4-2-millones-de-pasajeros-503508",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Combustible 73% más caro, dólar e infraestructura: los retos de Wingo para llegar a 4,2 millones de pasajeros",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
       {
         "titulo": "Norma contra el trabajo forzoso: ¿basta en Colombia para eliminar el arancel de 12,5% de EE. UU.?",
         "url": "https://www.portafolio.co/economia/gobierno/decreto-contra-el-trabajo-forzoso-le-alcanza-a-colombia-para-tumbar-el-arancel-de-12-5-que-cobra-ee-uu-503510",
@@ -533,79 +603,89 @@
         "publicacion": "2026-09-27",
         "titulo_fuente": "Alocución del señor Presidente de la República, Abelardo De La Espriella",
         "capturado": "2026-09-27T20:51:33-05:00"
-      },
-      {
-        "titulo": "Entidades bancarias procuran mayor validación de la inteligencia artificial",
-        "url": "https://www.portafolio.co/economia/finanzas/bancos-buscan-mas-reconocimiento-de-la-inteligencia-artificial-503385",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Bancos buscan más reconocimiento de la inteligencia artificial",
-        "capturado": "2026-09-27T20:51:33-05:00"
-      },
-      {
-        "titulo": "Nacional de Seguros afirma que su estrategia de crecimiento los trasladó a Perú por sus favorables opciones",
-        "url": "https://www.portafolio.co/economia/finanzas/plan-de-expansion-nos-llevo-a-peru-donde-hay-buenas-oportunidades-nacional-de-seguros-503384",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "‘Plan de expansión nos llevó a Perú, donde hay buenas oportunidades’: Nacional de Seguros",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "La multinacional británica de equipos pesados JCB cambia su operación en Colombia mediante una nueva alianza",
-        "url": "https://www.portafolio.co/economia/infraestructura/la-gigante-britanica-de-maquinaria-pesada-jcb-mueve-su-negocio-en-colombia-esta-es-su-nueva-alianza-503378",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "La gigante británica de maquinaria pesada JCB mueve su negocio en Colombia: esta es su nueva alianza",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Fedetranscarga plantea la fórmula Colombia para reducir el diésel, que representa el 40,2% del gasto operativo",
-        "url": "https://www.portafolio.co/economia/fedetranscarga-propone-la-formula-colombia-para-bajar-el-diesel-que-pesa-40-2-en-el-costo-de-operar-un-camion-503283",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Fedetranscarga propone la 'fórmula Colombia' para bajar el diésel, que pesa 40,2% en el costo de operar un camión",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Colombia pretende reactivar la inversión tras seis años a la baja y Credicorp vaticina un alza de 8,9% en 2027",
-        "url": "https://www.portafolio.co/economia/colombia-busca-recuperar-la-inversion-tras-seis-anos-de-caida-y-credicorp-proyecta-un-repunte-de-8-9-en-503313",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Colombia busca recuperar la inversión tras seis años de caída y Credicorp proyecta un repunte de 8,9% en 2027",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Presidente De la Espriella anuncia que PepsiCo destinará US$ 1.000 millones en Colombia durante cinco años",
-        "url": "https://www.portafolio.co/economia/atencion-pepsico-invertira-us-1-000-millones-en-colombia-por-cinco-anos-anuncio-el-presidente-de-la-espriella-503375",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Atención: PepsiCo invertirá US$ 1.000 millones en Colombia por cinco años, anunció el presidente De la Espriella",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Gustavo Petro eliminó su contestación a Westcol al interpretar como amenaza un texto de un reto de Minecraft",
-        "url": "https://www.portafolio.co/economia/gustavo-petro-borro-su-respuesta-a-westcol-tras-leer-como-amenaza-un-mensaje-que-era-parte-de-un-reto-de-minecraft-503371",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Gustavo Petro borró su respuesta a Westcol tras leer como amenaza un mensaje que era parte de un reto de Minecraft",
-        "capturado": "2026-09-27T18:15:35-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Parque acuático del centro colombiano obtuvo una distinción ambiental",
+        "url": "https://www.portafolio.co/negocios/empresas/este-reconocido-parque-acuatico-del-centro-del-pais-recibio-un-reconocimiento-ambiental-503535",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Este reconocido parque acuático del centro del país recibió un reconocimiento ambiental",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Movet destinará $6.000 millones para abrir tres sedes en Antioquia",
+        "url": "https://www.portafolio.co/negocios/empresas/la-veterinaria-movet-acelera-su-expansion-en-colombia-invertira-6-000-millones-en-tres-nuevas-sedes-en-antioquia-503541",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "La veterinaria Movet acelera su expansión en Colombia: invertirá $6.000 millones en tres nuevas sedes en Antioquia",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Desde el 1 de octubre EPS Sanitas modifica operador de fármacos en Bogotá",
+        "url": "https://www.portafolio.co/negocios/empresas/eps-sanitas-cambia-gestor-de-medicamentos-en-bogota-desde-el-1-o-de-octubre-esto-es-lo-que-cambia-503537",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "EPS Sanitas cambia gestor de medicamentos en Bogotá desde el 1.º de octubre: esto es lo que cambia",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Estudio revela que más de la mitad de empleados ven insuficientes sus beneficios",
+        "url": "https://www.portafolio.co/negocios/comercio/mas-de-la-mitad-de-los-trabajadores-creen-que-los-beneficios-laborales-no-cubren-sus-necesidades-segun-estudio-503530",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Más de la mitad de los trabajadores creen que los beneficios laborales no cubren sus necesidades, según estudio",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Acopi señala que microempresas y grandes firmas tienen iguales deberes fiscales",
+        "url": "https://www.portafolio.co/negocios/empresas/una-microempresa-tiene-las-mismas-obligaciones-tributarias-que-una-gran-empresa-y-eso-no-puede-ser-acopi-503515",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "\"Una microempresa tiene las mismas obligaciones tributarias que una gran empresa y eso no puede ser\": Acopi",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Firma australiana construirá uno de los centros auditivos mayores de la región en Bogotá",
+        "url": "https://www.portafolio.co/negocios/inversion/bogota-tendra-uno-de-los-centros-auditivos-mas-grandes-de-america-gracias-a-empresa-australiana-como-sera-503523",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Inversion",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Bogotá tendrá uno de los centros auditivos más grandes de América gracias a empresa australiana: ¿cómo será?",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Directivo de Latam señala incremento en tarifas de vuelos por coste mayor de combustibles",
+        "url": "https://www.portafolio.co/negocios/empresas/ceo-de-latam-advierte-que-los-tiquetes-aereos-estan-subiendo-debido-al-alza-de-los-precios-de-combustibles-503513",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "CEO de Latam advierte que los tiquetes aéreos están subiendo debido al alza de los precios de combustibles",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
+      {
+        "titulo": "Colsubsidio cambia plazo de entrega de fármacos para EPS Sanitas en Bogotá: explicaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/colsubsidio-mueve-fecha-en-la-que-entregara-medicamentos-de-eps-sanitas-en-bogota-que-paso-503511",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Colsubsidio mueve fecha en la que entregará medicamentos de EPS Sanitas en Bogotá: ¿qué pasó?",
+        "capturado": "2026-09-29T18:52:35-05:00"
+      },
       {
         "titulo": "Método para que empresas caleñas entren al plan de rescate tras el sismo",
         "url": "https://www.portafolio.co/negocios/empresas/asi-podran-acceder-empresas-de-cali-a-programa-de-reactivacion-tras-el-terremoto-503507",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Gigante del papel Smurfit Westrock compra negocio chileno por US$420 millones: así crece en Latinoamérica",
         "capturado": "2026-09-25T00:14:12-05:00"
-      },
-      {
-        "titulo": "PowerChina construirá el nuevo estadio El Campín y analizan aumentar su capacidad",
-        "url": "https://www.portafolio.co/negocios/empresas/nuevo-estadio-el-campin-ya-tiene-constructor-powerchina-asumira-la-obra-y-estudian-mayor-aforo-503231",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Nuevo estadio El Campín ya tiene constructor: PowerChina asumirá la obra y estudian mayor aforo",
-        "capturado": "2026-09-24T19:26:30-05:00"
-      },
-      {
-        "titulo": "El sesenta por ciento de las compañías afrontan diversos riesgos climáticos sin alistarse",
-        "url": "https://www.portafolio.co/negocios/empresas/seis-de-cada-diez-empresas-enfrentan-multiples-riesgos-climaticos-y-muchas-aun-no-se-preparan-503225",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Seis de cada diez empresas enfrentan múltiples riesgos climáticos y muchas aún no se preparan",
-        "capturado": "2026-09-24T19:26:30-05:00"
-      },
-      {
-        "titulo": "La designación del nuevo presidente no impactó la acción de Ecopetrol en bolsa",
-        "url": "https://www.portafolio.co/negocios/empresas/accion-de-ecopetrol-no-alcanzo-a-sentir-el-nombramiento-de-su-nuevo-presidente-asi-se-movio-en-bvc-y-wall-street-503227",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Acción de Ecopetrol no alcanzó a sentir el nombramiento de su nuevo presidente: así se movió en BVC y Wall Street",
-        "capturado": "2026-09-24T19:26:30-05:00"
-      },
-      {
-        "titulo": "Aumentar las ganancias: retos que Joaquín Gutiérrez, nuevo presidente de Ecopetrol, recibe de Ricardo Roa",
-        "url": "https://www.portafolio.co/negocios/empresas/subir-las-utilidades-retos-que-joaquin-gutierrez-nuevo-presidente-de-ecopetrol-hereda-de-ricardo-roa-503223",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Subir las utilidades: retos que Joaquín Gutiérrez, nuevo presidente de Ecopetrol, hereda de Ricardo Roa",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "D1 sobrepasa las 1.000 toneladas de ayuda por el sismo y llega a 19.000 hogares",
-        "url": "https://www.portafolio.co/negocios/empresas/d1-supera-las-1-000-toneladas-de-ayuda-por-el-terremoto-y-llega-a-19-000-familias-503222",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "D1 supera las 1.000 toneladas de ayuda por el terremoto y llega a 19.000 familias",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "OCM, la constructora detrás de tiendas OXXO y Cruz Verde, vendió $5.500 millones y prevé $8.000 millones",
-        "url": "https://www.portafolio.co/negocios/ocm-la-constructora-detras-de-tiendas-oxxo-y-cruz-verde-facturo-5-500-millones-y-proyecta-8-000-millones-503212",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "OCM, la constructora detrás de tiendas OXXO y Cruz Verde, facturó $5.500 millones y proyecta $8.000 millones",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Liquidez y diversificación cobran fuerza en portafolios frente a inflación y riesgos globales crecientes",
-        "url": "https://www.portafolio.co/negocios/inversion/liquidez-y-diversificacion-ganan-peso-en-portafolios-ante-inflacion-y-riesgos-geopoliticos-globales-crecientes-503218",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Liquidez y diversificación ganan peso en portafolios ante inflación y riesgos geopolíticos globales crecientes",
-        "capturado": "2026-09-24T16:58:59-05:00"
-      },
-      {
-        "titulo": "Claro ahora busca brindar a las empresas más que conectividad: capacidad tecnológica",
-        "url": "https://www.portafolio.co/negocios/empresas/claro-ahora-quiere-ofrecer-a-las-empresas-algo-mas-que-conectividad-capacidad-tecnologica-503217",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Claro ahora quiere ofrecer a las empresas algo más que conectividad: capacidad tecnológica",
-        "capturado": "2026-09-24T16:58:59-05:00"
       }
     ]
   }
