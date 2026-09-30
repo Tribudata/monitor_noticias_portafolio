@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-30T11:40:01-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-09-30T16:12:52-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Supresión de peajes generó litigios y entrega de vías según CCI",
+        "url": "https://www.portafolio.co/economia/infraestructura/quitar-peajes-lleno-al-pais-de-demandas-y-concesiones-devueltas-la-cci-advierte-que-las-cuentas-no-dan-503584",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Quitar peajes llenó al país de demandas y concesiones devueltas: la CCI advierte que las cuentas no dan",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Gobierno alista reforma fiscal trisectorial y ley de salvamento",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-prepara-ajuste-fiscal-en-tres-etapas-habra-proyecto-de-ley-de-rescate-de-la-economia-en-los-proximos-dias-503607",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Gobierno prepara ajuste fiscal en tres etapas: habrá proyecto de ley de rescate de la economía en los próximos días",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Estudiante de Economía de la Nacional logra promedio de 4,9",
+        "url": "https://www.portafolio.co/economia/asi-logro-el-mejor-estudiante-del-pais-un-promedio-de-4-9-estudiando-economia-en-la-universidad-nacional-503605",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Así logró el mejor estudiante del país un promedio de 4,9 estudiando Economía en la Universidad Nacional",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Gremios opinan tras ubicarse el desempleo en 9,4% durante agosto",
+        "url": "https://www.portafolio.co/economia/desempleo-en-colombia-llego-a-9-4-en-agosto-asi-reaccionan-los-gremios-503601",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Desempleo en Colombia llegó a 9,4% en agosto: así reaccionan los gremios",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Banco de la República sube tasa de interés a 12,25% con alza de 25 pb",
+        "url": "https://www.portafolio.co/economia/finanzas/el-banco-de-la-republica-aumenta-la-tasa-de-interes-en-25-puntos-basicos-y-queda-en-12-503597",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "El Banco de la República aumenta la tasa de interés en 25 puntos básicos: queda en 12,25%",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Subsidio de arrendamiento en Bogotá hasta por $1,08 millones mensuales",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-abre-subsidio-de-arriendo-de-hasta-1-08-millones-al-mes-para-facilitar-compra-de-vivienda-asi-funciona-503595",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Bogotá abre subsidio de arriendo de hasta $1,08 millones al mes para facilitar compra de vivienda: así funciona",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Reclamaciones por supuestos daños del sismo del 10 de agosto suman $25.000 millones en rechazos",
+        "url": "https://www.portafolio.co/economia/regiones/hasta-ahora-se-han-rechazado-reclamaciones-por-25-000-millones-por-supuestos-danos-del-terremoto-del-10-de-agosto-503592",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Hasta ahora se han rechazado reclamaciones por $25.000 millones por supuestos daños del terremoto del 10 de agosto",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "Banco de la República fija tasa de interés en primer encuentro con Gobierno De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-define-la-tasa-de-interes-primera-reunion-con-gobierno-de-la-espriella-503591",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Banco de la República define la tasa de interés: primera reunión con Gobierno De La Espriella",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "CAR evaluará permisos de agua a compañías y podría bajar volúmenes por peligro de escasez",
+        "url": "https://www.portafolio.co/economia/regiones/car-revisara-concesiones-de-agua-a-empresas-y-podra-reducir-caudales-por-riesgo-de-desabastecimiento-503588",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "CAR revisará concesiones de agua a empresas y podrá reducir caudales por riesgo de desabastecimiento",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
       {
         "titulo": "Plazo fijado para la terminación del nuevo estadio El Campín en Bogotá",
         "url": "https://www.portafolio.co/economia/infraestructura/nuevo-estadio-el-campin-de-bogota-ya-tiene-fecha-de-entrega-este-es-el-plazo-anunciado-para-su-construccion-503583",
@@ -513,99 +603,29 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Alerta por $88.000 millones: Contraloría revisa pagos del extinto Ministerio de Igualdad del Gobierno Petro",
         "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "FMI asistirá a Colombia: oportuna baja de déficits fiscales afianza confianza",
-        "url": "https://www.portafolio.co/economia/confianza-deuda-mas-barata-y-empleo-lo-que-el-fmi-ve-en-una-accion-fiscal-oportuna-en-colombia-503463",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "FMI ayudará a Colombia: 'acción oportuna para reducir los desequilibrios fiscales puede fortalecer la confianza’",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Controversia por presuntos apremios a la Andi llega al Congreso: piden no excluir a Mac Master",
-        "url": "https://www.portafolio.co/economia/gobierno/polemica-por-supuestas-presiones-a-la-andi-se-traslada-al-plano-politico-en-el-senado-piden-no-vetar-a-mac-master-503460",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Polémica por supuestas presiones a la Andi se traslada al plano político: en el Senado piden no vetar a Mac Master",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Ana Lucía Pineda, primera dama, entrega Tesla para regiones del sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-anuncia-donacion-de-tesla-para-zonas-del-terremoto-503459",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Primera dama Ana Lucía Pineda anuncia donación de Tesla para zonas del terremoto",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Aria Hotels, marca helena, inaugurará su primer hospedaje latinoamericano en Cartagena",
-        "url": "https://www.portafolio.co/economia/gobierno/aria-hotels-cadena-griega-abrira-su-primer-hotel-en-latinoamerica-en-cartagena-503458",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Aria Hotels, cadena griega, abrirá su primer hotel en Latinoamérica en Cartagena",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "¿Hacia dónde van tutelas contra el mandatario? Decreto de gobierno De La Espriella modifica su curso",
-        "url": "https://www.portafolio.co/economia/gobierno/a-donde-llegan-las-tutelas-contra-el-presidente-gobierno-de-la-espriella-expide-decreto-para-cambiar-su-rumbo-503457",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "¿A dónde llegan las tutelas contra el presidente? Gobierno De La Espriella expide decreto para cambiar su rumbo",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Aseguradoras apartan $5,75 billones para cubrir siniestros del movimiento telúrico",
-        "url": "https://www.portafolio.co/economia/finanzas/el-sector-aseguador-ha-reservado-5-75-billones-para-atender-las-reclamaciones-por-el-terremoto-503456",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "‘El sector aseguador ha reservado $5,75 billones para atender las reclamaciones por el terremoto’",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Cámara Colombiana de Comercio Electrónico y Shein con Temu discuten por el cobro del IVA",
-        "url": "https://www.portafolio.co/economia/impuestos/shein-y-temu-en-disputa-con-la-camara-de-comercio-electronico-por-el-recaudo-del-iva-como-les-funciona-503455",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Shein y Temu, en disputa con la Cámara de Comercio Electrónico por el recaudo del IVA: ¿cómo les funciona?",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Desde el 1 de octubre Colsubsidio entregará los fármacos de Sanitas en Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/donde-reclamar-medicamentos-de-sanitas-en-bogota-colsubsidio-sera-el-nuevo-gestor-desde-el-1-de-octubre-503448",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "¿Dónde reclamar medicamentos de Sanitas en Bogotá? Colsubsidio será el nuevo gestor desde el 1 de octubre",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Ejecutivo presenta cuentas al FMI: el país gasta 40 billones e ingresa 29 billones al mes",
-        "url": "https://www.portafolio.co/economia/crecimiento/gobierno-lleva-al-fmi-panorama-fiscal-de-colombia-estado-gasta-40-billones-y-recibe-29-billones-cada-mes-503446",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Gobierno lleva al FMI panorama fiscal de Colombia: Estado gasta $40 billones y recibe $29 billones cada mes",
-        "capturado": "2026-09-28T21:10:24-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "BoConcept contempla un edificio de su marca en Colombia dentro de sus planes en América Latina",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-una-de-las-apuestas-de-boconcept-en-america-latina-evalua-un-edificio-de-marca-propia-en-el-pais-503598",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Colombia, una de las apuestas de BoConcept en América Latina: evalúa un edificio de marca propia en el país",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
+      {
+        "titulo": "El CEO de Mapfre en Colombia, Oscar García-Serrano, discute los desafíos de las aseguradoras",
+        "url": "https://www.portafolio.co/negocios/empresas/oscar-garcia-serrano-ceo-de-mapfre-en-colombia-habla-sobre-retos-del-sector-asegurador-en-el-pais-503590",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Oscar García-Serrano, CEO de Mapfre en Colombia, habla sobre retos del sector asegurador en el país",
+        "capturado": "2026-09-30T16:12:52-05:00"
+      },
       {
         "titulo": "Gilinski integra otra marca al portafolio de Nutresa con estas recientes adquisiciones",
         "url": "https://www.portafolio.co/negocios/empresas/estas-son-las-ultimas-compras-de-nutresa-grupo-empresarial-de-gilinski-que-sumo-otra-marca-a-su-portafolio-503577",
@@ -1184,26 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-09-25",
         "titulo_fuente": "Toyota Yaris Gazoo Racing, referente de la ingeniería que se renueva: estas son sus novedades para la versión 2027",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Comfaguajira proyecta finalizar 2026 con alza del 17% en entradas tras salir de crisis",
-        "url": "https://www.portafolio.co/negocios/empresas/comfaguajira-preve-cerrar-2026-con-un-crecimiento-del-17-en-sus-ingresos-tras-superar-intervencion-503280",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Comfaguajira prevé cerrar 2026 con un crecimiento del 17% en sus ingresos tras superar intervención",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "El cocinero Virgilio Martínez figura entre los destacados del Auténtico Aruba Culinary Festival",
-        "url": "https://www.portafolio.co/negocios/industrias/el-chef-internacional-virgilio-martinez-entre-las-estrellas-de-autentico-aruba-culinary-festival-503276",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "El chef internacional Virgilio Martínez, entre las estrellas de Auténtico Aruba Culinary Festival",
         "capturado": "2026-09-25T17:40:44-05:00"
       }
     ]
