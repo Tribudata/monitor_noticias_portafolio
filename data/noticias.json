@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-01T09:12:23-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-01T14:41:11-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Renacer: detalles de la cárcel para 1.974 reclusos que impulsa Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/renacer-esto-se-sabe-de-la-megacarcel-de-1-974-cupos-que-de-la-espriella-busca-poner-en-marcha-503678",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Renacer: esto se sabe de la megacárcel de 1.974 cupos que De La Espriella busca poner en marcha",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Rodrigo Lara, Mininterior, ante la salida de Mac Master: Es una determinación propia del gremio",
+        "url": "https://www.portafolio.co/economia/gobierno/me-acabo-de-enterar-una-decision-autonoma-del-gremio-lara-tras-renuncia-de-mac-master-tras-presiones-503668",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Rodrigo Lara, Mininterior, sobre renuncia de Mac Master: 'Me acabo de enterar, es una decisión autónoma del gremio'",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "El 71% de inversores nota subestimados los riesgos al alza para la inflación en 2026: Visión Davivienda",
+        "url": "https://www.portafolio.co/economia/el-71-de-inversionistas-ve-subestimados-los-riesgos-al-alza-para-la-inflacion-en-2026-vision-davivienda-503666",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "El 71% de inversionistas ve subestimados los riesgos al alza para la inflación en 2026: Visión Davivienda",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Espero que ayude a restablecer la labor entre Gobierno y empresarios: Bruce Mac Master tras dejar la Andi",
+        "url": "https://www.portafolio.co/economia/gobierno/espero-que-contribuya-a-recuperar-el-trabajo-entre-gobierno-y-empresarios-bruce-mac-master-tras-salir-de-la-andi-503664",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "'Espero que contribuya a recuperar el trabajo entre Gobierno y empresarios': Bruce Mac Master tras salir de la Andi",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master deja la presidencia de la Andi tras una semana de presuntos apremios al gremio",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-bruce-mac-master-renuncia-a-la-presidencia-de-la-andi-503663",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez, julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Bruce Mac Master renuncia a la presidencia de la Andi, tras una semana de supuestas presiones sobre la agremiación",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Fasecolda solicita al Gobierno instaurar un modelo mixto de aseguramiento en el país",
+        "url": "https://www.portafolio.co/economia/regiones/fasecolda-le-pide-al-gobierno-poner-en-marcha-un-esquema-publico-privado-de-aseguramiento-en-colombia-503658",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Fasecolda le pide al gobierno poner en marcha un esquema público-privado de aseguramiento en Colombia",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Un 25 % de colombianos entre 18 y 24 años ni labora ni estudia, el doble que en la Ocde",
+        "url": "https://www.portafolio.co/economia/uno-de-cada-cuatro-jovenes-de-18-a-24-anos-en-colombia-es-nini-no-estudia-ni-trabaja-el-doble-de-la-ocde-503651",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Uno de cada cuatro jóvenes de 18 a 24 años en Colombia es 'nini', no estudia ni trabaja, el doble de la Ocde",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Bogotá baja su desocupación, mas la creación de puestos varía según cada actividad",
+        "url": "https://www.portafolio.co/economia/empleo/bogota-reduce-el-desempleo-pero-el-empleo-muestra-comportamientos-distintos-entre-sectores-economicos-503655",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Bogotá reduce el desempleo, pero el empleo muestra comportamientos distintos entre sectores económicos",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
       {
         "titulo": "El Gobierno plantea modificaciones a la protesta social y así cambiaría el Decreto 003",
         "url": "https://www.portafolio.co/economia/gobierno/se-conocen-los-cambios-que-el-gobierno-propone-para-la-protesta-social-asi-se-modificaria-el-decreto-503648",
@@ -523,89 +603,139 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Colombia no para de sembrar ‘Hass’: ya supera las 39.000 hectáreas y estos son los países a los que busca entrar",
         "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Tormenta perfecta: alzas en combustibles, salarios y peajes preocupan a Colfecar",
-        "url": "https://www.portafolio.co/economia/tormenta-perfecta-aumento-de-combustibles-salarios-y-peajes-las-prioridades-en-transporte-para-colfecar-503479",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "‘Tormenta perfecta’: aumento de combustibles, salarios y peajes, las prioridades en transporte para Colfecar",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Combustible 73% más caro, dólar e infraestructura: los desafíos de Wingo para alcanzar 4,2 millones de viajeros",
-        "url": "https://www.portafolio.co/economia/infraestructura/combustible-73-mas-caro-dolar-e-infraestructura-los-retos-de-wingo-para-llegar-a-4-2-millones-de-pasajeros-503508",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Combustible 73% más caro, dólar e infraestructura: los retos de Wingo para llegar a 4,2 millones de pasajeros",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Norma contra el trabajo forzoso: ¿basta en Colombia para eliminar el arancel de 12,5% de EE. UU.?",
-        "url": "https://www.portafolio.co/economia/gobierno/decreto-contra-el-trabajo-forzoso-le-alcanza-a-colombia-para-tumbar-el-arancel-de-12-5-que-cobra-ee-uu-503510",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Decreto contra el trabajo forzoso: ¿le alcanza a Colombia para tumbar el arancel de 12,5% que cobra EE. UU.?",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Camacol indica que el renovado Mi Casa Ya movería 61 billones de pesos y daría 1,05 millones de empleos",
-        "url": "https://www.portafolio.co/economia/infraestructura/segun-camacol-nuevo-mi-casa-ya-podria-movilizar-61-billones-y-generar-1-05-millones-de-empleos-503505",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Según Camacol, nuevo Mi Casa Ya podría movilizar $61 billones y generar 1,05 millones de empleos",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "El Gobierno presenta iniciativa para mover 1,2 billones del Presupuesto 2026 hacia la red eléctrica caribeña",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-radica-proyecto-para-trasladar-1-2-billones-del-presupuesto-2027-para-el-sistema-electrico-del-caribe-503504",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Gobierno radica proyecto para trasladar $1,2 billones del Presupuesto 2026 para el sistema eléctrico del Caribe",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "UPC para 2027: el alza de 12% a 13% genera debate sobre la suficiencia de fondos en el sistema",
-        "url": "https://www.portafolio.co/economia/gobierno/upc-para-2027-el-aumento-del-12-al-13-abre-la-discusion-sobre-si-el-sistema-tendra-recursos-suficientes-503503",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "UPC para 2027: el aumento del 12% al 13% abre la discusión sobre si el sistema tendrá recursos suficientes",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Conozca cuáles sitios encabezarían la ocupación hotelera durante la semana de receso",
-        "url": "https://www.portafolio.co/economia/regiones/estos-son-los-destinos-que-liderarian-la-ocupacion-hotelera-en-la-semana-de-receso-503501",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Estos son los destinos que liderarían la ocupación hotelera en la semana de receso",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "El Gobierno presenta ley para sumar 2,7 billones al Presupuesto 2026 ante la emergencia del sismo",
-        "url": "https://www.portafolio.co/economia/gobierno-radica-proyecto-de-ley-con-el-adicionaria-2-7-billones-al-presupuesto-2026-para-atender-el-terremoto-503502",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Gobierno radica proyecto de ley con el adicionaría $2,7 billones al Presupuesto 2026 para atender el terremoto",
-        "capturado": "2026-09-29T15:07:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Inversionistas vuelven a mirar a Colombia y gana terreno frente a los demás mercados de la región",
+        "url": "https://www.portafolio.co/negocios/inversion/colombia-vuelve-a-captar-la-atencion-de-los-inversionistas-y-gana-espacio-frente-a-otros-mercados-de-la-region-503676",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "'Colombia vuelve a captar la atención de los inversionistas y gana espacio frente a otros mercados de la región'",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Marco Arenas, presidente de BBVA Seguros Colombia, conversa acerca del balance de la entidad",
+        "url": "https://www.portafolio.co/negocios/empresas/marco-arenas-presidente-de-bbva-seguros-colombia-habla-sobre-los-resultados-de-la-compania-503674",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Marco Arenas, presidente de BBVA Seguros Colombia, habla sobre los resultados de la compañía",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Por qué importa la cobertura de viaje en semana de receso y qué consideraciones tener presentes",
+        "url": "https://www.portafolio.co/negocios/empresas/la-importancia-de-la-cobertura-de-viaje-en-la-semana-de-receso-que-se-debe-tener-en-cuenta-503673",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "La importancia de la cobertura de viaje en la semana de receso, ¿qué se debe tener en cuenta?",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Marcela Meléndez, directora de Fedesarrollo, se refiere al incremento de las tasas de interés",
+        "url": "https://www.portafolio.co/negocios/empresas/marcela-melendez-directora-de-fedesarrollo-habla-sobre-el-alza-de-las-tasas-de-interes-503672",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Marcela Meléndez, directora de Fedesarrollo, habla sobre el alza de las tasas de interés",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "José Manuel Athie, de SwissRe, detalla los peligros y la exposición frente a desastres naturales",
+        "url": "https://www.portafolio.co/negocios/empresas/a-que-nos-exponemos-ante-catastrofes-naturales-jose-manuel-athie-de-swissre-explica-los-riesgos-503671",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "¿A qué nos exponemos ante catástrofes naturales? José Manuel Athie, de SwissRe, explica los riesgos",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Juan Gabriel Vásquez analiza a Colombia dentro de la complejidad del tiempo contemporáneo",
+        "url": "https://www.portafolio.co/negocios/empresas/juan-gabriel-vasquez-habla-de-colombia-en-la-complejidad-de-la-era-contemporanea-503670",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Juan Gabriel Vásquez habla de Colombia en la complejidad de la era contemporánea",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Diálogo sobre la asistencia y los nuevos métodos de amparo en la anciedad",
+        "url": "https://www.portafolio.co/negocios/empresas/conversemos-el-cuidado-y-las-nuevas-formas-de-proteccion-en-la-vejez-503669",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Conversemos: el cuidado y las nuevas formas de protección en la vejez",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Arranca la Convención Internacional de Seguros Fasecolda 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/se-instala-la-convencion-internacional-de-seguros-fasecolda-503667",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Se instala la Convención Internacional de Seguros Fasecolda 2026",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "El retorno de Miguel McAllister: un software contable con IA hecho sin capitalistas de riesgo",
+        "url": "https://www.portafolio.co/negocios/empresas/miguel-mcallister-regresa-a-la-escena-emprendedora-con-una-plataforma-de-contabilidad-con-ia-construida-sin-inversionistas-503660",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "El regreso de Miguel McAllister: una plataforma de contabilidad con IA construida sin inversionistas",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella convocará a industriales de Venezuela, Colombia y EE. UU. para estrechar lazo mercantil",
+        "url": "https://www.portafolio.co/negocios/comercio/gobierno-de-la-espriella-reunira-a-empresarios-de-venezuela-colombia-y-ee-uu-para-fortalecer-vinculo-comercial-503662",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Gobierno De La Espriella reunirá a empresarios de Venezuela, Colombia y EE. UU. para fortalecer vínculo comercial",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Cuál es el estado anímico y mental de los directivos",
+        "url": "https://www.portafolio.co/negocios/empresas/como-esta-la-salud-mental-de-los-lideres-503656",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "¿Cómo está la salud mental de los líderes?",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "De este modo, Compensar recortará cerca del 30 % su gasto de energía",
+        "url": "https://www.portafolio.co/negocios/inversion/de-esta-manera-compensar-reducira-cerca-del-30-su-consumo-energetico-503654",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "De esta manera, Compensar reducirá cerca del 30 % su consumo energético",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
+      {
+        "titulo": "Kia encabezó las ventas de carros en Colombia en septiembre, mes en el que Tesla ingresó al top cinco",
+        "url": "https://www.portafolio.co/negocios/vehiculo/kia-lidera-mercado-de-carros-nuevos-y-tesla-entra-al-top-cinco-de-marcas-en-septiembre-en-colombia-503653",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Tesla entra al 'top 5' de las marcas de vehículos más vendidas en Colombia que en septiembre fue liderado por Kia",
+        "capturado": "2026-10-01T14:41:11-05:00"
+      },
       {
         "titulo": "Hoy entran en vigor las nuevas normas de la CRC para terminar planes de telefonía móvil sin obstáculos",
         "url": "https://www.portafolio.co/negocios/empresas/desde-hoy-se-acaban-las-trabas-para-cancelar-planes-de-telefonia-movil-estas-son-las-nuevas-reglas-de-la-crc-503644",
@@ -1075,136 +1205,6 @@
         "publicacion": "2026-09-28",
         "titulo_fuente": "Decathlon pisa el acelerador de la expansión en Colombia: vende 7 millones de unidades al año",
         "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "SmartFit se suma a la inversión en Venezuela con la apertura de su primer establecimiento allí",
-        "url": "https://www.portafolio.co/negocios/empresas/la-cadena-de-gimnasios-smartfit-se-sube-a-la-ola-de-inversion-en-venezuela-y-abre-su-primera-sede-en-ese-pais-503397",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "La cadena de gimnasios SmartFit se sube a la ola de inversión en Venezuela y abre su primera sede en ese país",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "El cofundador de Tecnoglass, Christian Daes, financiará la beca del estudiante con mejor puntaje en el ICFES",
-        "url": "https://www.portafolio.co/negocios/empresas/christian-daes-cofundador-de-tecnoglass-es-el-empresario-que-becara-a-estudiante-con-mas-alto-puntaje-en-pruebas-saber-503387",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Christian Daes, cofundador de Tecnoglass, es el empresario que becará a joven con mayor puntaje en Pruebas Saber 11",
-        "capturado": "2026-09-27T20:51:33-05:00"
-      },
-      {
-        "titulo": "Usuarios de Nu en 540 municipios retiran plata en D1 y suman a Oxxo y Farmatodo para consignaciones",
-        "url": "https://www.portafolio.co/negocios/clientes-de-nu-en-540-municipios-ya-pueden-retirar-efectivo-en-d1-y-ahora-tendran-oxxo-y-farmatodo-para-consignar-503377",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Clientes de Nu en 540 municipios ya pueden retirar efectivo en D1 y ahora tendrán Oxxo y Farmatodo para consignar",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "La próxima jugada de Claro en Colombia va desde la conectividad hasta nuevas soluciones",
-        "url": "https://www.portafolio.co/negocios/empresas/de-la-conectividad-a-nuevas-soluciones-la-proxima-apuesta-de-claro-en-colombia-503308",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "De la conectividad a nuevas soluciones, la próxima apuesta de Claro en Colombia",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Comercio, aranceles y la inversión mueven la agenda de Mac Master en EE. UU. en medio de presunta presión a la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/comercio-inversion-y-aranceles-la-agenda-de-mac-master-con-ee-uu-en-medio-de-presunta-presion-sobre-la-andi-503372",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Comercio, inversión y aranceles: la agenda de Mac Master con EE. UU. en medio de presunta presión sobre la Andi",
-        "capturado": "2026-09-27T18:15:35-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master dialogó con el nuevo agregado comercial de EE UU acerca del vínculo bilateral tras cita con el FMI",
-        "url": "https://www.portafolio.co/negocios/comercio/bruce-mac-master-hablo-con-nuevo-agregado-comercial-de-ee-uu-sobre-la-relacion-bilateral-tras-reunion-con-el-fmi-503366",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Bruce Mac Master habló con nuevo agregado comercial de EE. UU. sobre la relación bilateral tras reunión con el FMI",
-        "capturado": "2026-09-27T15:17:30-05:00"
-      },
-      {
-        "titulo": "Icontec renueva la norma de gestión de calidad más usada globalmente y explica sus novedades",
-        "url": "https://www.portafolio.co/negocios/empresas/icontec-actualiza-norma-de-gestion-de-calidad-la-mas-utilizada-por-las-empresas-en-el-mundo-que-cambia-503360",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Icontec actualiza norma de gestión de calidad, la más utilizada por las empresas en el mundo: ¿qué cambia?",
-        "capturado": "2026-09-27T12:08:34-05:00"
-      },
-      {
-        "titulo": "Aumentan los ingresos en 18,2% pero la utilidad cae 34% para Juan Valdez en el primer semestre",
-        "url": "https://www.portafolio.co/negocios/juan-valdez-vende-mas-pero-gana-menos-ingresos-suben-18-2-y-la-utilidad-se-hunde-34-en-el-primer-semestre-503358",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Juan Valdez vende más, pero gana menos: ingresos suben 18,2% y la utilidad se hunde 34% en el primer semestre",
-        "capturado": "2026-09-27T12:08:34-05:00"
-      },
-      {
-        "titulo": "Fenalco Santander sale del Comité Intergremial tras usar su logo en carta de apoyo a Bruce Mac Master",
-        "url": "https://www.portafolio.co/negocios/empresas/fenalco-santander-se-retira-del-comite-intergremial-por-incluir-su-logo-en-carta-de-apoyo-a-bruce-mac-master-503353",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Fenalco Santander se retira del Comité Intergremial por incluir su logo en carta de apoyo a Bruce Mac Master",
-        "capturado": "2026-09-27T01:15:44-05:00"
-      },
-      {
-        "titulo": "Esto fue lo manifestado por Nequi acerca de los problemas presentados en su app durante este sábado",
-        "url": "https://www.portafolio.co/negocios/empresas/nequi-se-pronuncio-sobre-las-fallas-en-su-aplicacion-de-este-sabado-esto-dijo-la-empresa-503352",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Nequi se pronunció sobre las fallas en su aplicación de este sábado: esto dijo la empresa",
-        "capturado": "2026-09-26T19:46:05-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master conversó con el FMI acerca de las cuentas nacionales y solicitó más protagonismo empresarial",
-        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-hablo-con-el-fmi-sobre-las-finanzas-de-colombia-y-pidio-mayor-papel-del-sector-productivo-503333",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Bruce Mac Master habló con el FMI sobre las finanzas de Colombia y pidió mayor papel del sector productivo",
-        "capturado": "2026-09-26T14:01:58-05:00"
-      },
-      {
-        "titulo": "Especialistas colombianos avanzan en Estados Unidos y pasan de la tercerización a dirigir obras de diseño",
-        "url": "https://www.portafolio.co/negocios/empresas/talento-colombiano-gana-terreno-en-ee-uu-arquitectos-pasan-del-outsourcing-a-liderar-grandes-proyectos-de-diseno-503328",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Talento colombiano gana terreno en EE. UU.: arquitectos pasan del outsourcing a liderar grandes proyectos de diseño",
-        "capturado": "2026-09-26T14:01:58-05:00"
-      },
-      {
-        "titulo": "Nubank dialoga para adquirir a Monzo en un negocio que elevaría al doble la tasación británica",
-        "url": "https://www.portafolio.co/negocios/nubank-negocia-comprar-monzo-en-una-operacion-que-podria-duplicar-el-valor-del-banco-britanico-en-menos-de-dos-anos-503325",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Nubank negocia comprar Monzo en una operación que podría duplicar el valor del banco británico en menos de dos años",
-        "capturado": "2026-09-26T10:51:31-05:00"
       }
     ]
   }
