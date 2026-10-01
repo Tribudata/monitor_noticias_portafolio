@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-30T19:41:06-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-01T01:51:44-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ecopetrol designa tres nuevos vicepresidentes: Quiénes son y qué puestos asumirán",
+        "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-nombra-a-tres-nuevos-vicepresidentes-quienes-son-y-que-cargos-ocuparan-503624",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Ecopetrol nombra a tres nuevos vicepresidentes: ¿Quiénes son y qué cargos ocuparán?",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
+      {
+        "titulo": "Gobierno gira $683.990 millones a Ecopetrol por concepto del Fepc",
+        "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-recibe-683-990-millones-del-fepc-por-pago-del-gobierno-503623",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Ecopetrol recibe $683.990 millones del Fepc por pago del Gobierno",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
+      {
+        "titulo": "De La Espriella autoriza 10 extradiciones y alcanza 105 en 53 días de gestión",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-firma-10-extradiciones-y-suma-105-en-53-dias-de-gobierno-503622",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "De La Espriella firma 10 extradiciones y suma 105 en 53 días de Gobierno",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
+      {
+        "titulo": "Tarifa del combustible aumenta $46 por galón en octubre y el ACPM sigue igual",
+        "url": "https://www.portafolio.co/economia/gobierno/precio-de-la-gasolina-sube-46-por-galon-en-octubre-y-el-acpm-se-mantiene-estable-503621",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Precio de la gasolina sube $46 por galón en octubre y el ACPM se mantiene estable",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
+      {
+        "titulo": "Presidente De La Espriella anuncia combate frontal al contrabando tras junta con el director de la Dian",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-declara-guerra-sin-tregua-al-contrabando-tras-reunirse-con-el-director-de-la-dian-503620",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Presidente De La Espriella declara guerra sin tregua al contrabando tras reunirse con el director de la Dian",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
       {
         "titulo": "Acolgen apoya iniciativa de $1,2 billones frente al problema de pagos de energía",
         "url": "https://www.portafolio.co/economia/gobierno/acolgen-respalda-proyecto-de-1-2-billones-para-la-crisis-de-pagos-de-energia-503619",
@@ -553,59 +603,19 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "¿Cuántas pensiones puede recibir una persona al mismo tiempo en Colombia y en qué casos puede hacerlo?",
         "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "A pesar de la elevada inflación, el Banco de la República conservaría sin cambios el tipo de interés",
-        "url": "https://www.portafolio.co/economia/gobierno/pese-a-la-alta-inflacion-banco-de-la-republica-mantendria-inalterada-la-tasa-de-interes-en-colombia-503485",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Pese a la alta inflación, Banco de la República mantendría inalterada la tasa de interés en Colombia",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Extorsiones afectan a cafeteros en regiones marcadas por la violencia y amenazan la producción",
-        "url": "https://www.portafolio.co/economia/agro/la-nueva-roya-del-cafe-extorsion-pone-en-jaque-a-productores-en-las-zonas-mas-golpeadas-por-el-conflicto-503481",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "La ‘nueva roya’ del café: extorsión pone en jaque a productores en las zonas más golpeadas por el conflicto",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Guía de la tributaria en Bogotá: tributos nuevos, funcionamiento y contribuyentes obligados",
-        "url": "https://www.portafolio.co/economia/regiones/abc-de-la-reforma-tributaria-de-bogota-como-quedan-los-nuevos-impuestos-en-la-capital-y-quien-los-pagara-503483",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "ABC de la reforma tributaria de Bogotá: cómo quedan los nuevos impuestos en la capital y quién los pagará",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Tributaria distrital en Bogotá: tarifas para dueños de inmuebles en estratos cuatro, cinco y seis",
-        "url": "https://www.portafolio.co/economia/regiones/alumbrado-publico-en-bogota-esto-es-lo-que-pagaran-propietarios-de-estratos-4-5-y-6-con-la-tributaria-distrital-503480",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Alumbrado público en Bogotá: esto es lo que pagarán propietarios de estratos 4, 5 y 6 con la tributaria distrital",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Procedimientos estéticos preferidos en Colombia: liposucción, cirugías de párpados y senos",
-        "url": "https://www.portafolio.co/economia/regiones/liposuccion-senos-y-parpados-las-cirugias-que-marcan-el-nuevo-mapa-de-la-estetica-en-colombia-503478",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Liposucción, senos y párpados: las cirugías que marcan el nuevo mapa de la estética en Colombia",
-        "capturado": "2026-09-29T10:22:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Llega la versión Platinum de la Ford Territory híbrida",
+        "url": "https://www.portafolio.co/negocios/empresas/arriba-la-ford-territory-hibrida-version-platinum-503635",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Arriba la Ford Territory híbrida versión Platinum",
+        "capturado": "2026-10-01T01:51:44-05:00"
+      },
       {
         "titulo": "Marca de ropa femenina de Pereira dobla ventas y exporta 43.200 piezas anuales a EE. UU. y Guatemala",
         "url": "https://www.portafolio.co/negocios/empresas/empresa-pereirana-de-moda-femenina-duplica-ventas-y-lleva-43-200-prendas-al-ano-a-ee-uu-y-guatemala-503599",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-25",
         "titulo_fuente": "Frisby y Wingz lanzan ‘Convite por Colombia’ para reactivar negocios afectados por el terremoto",
         "capturado": "2026-09-26T01:25:29-05:00"
-      },
-      {
-        "titulo": "CRC propone usar la regasificación de gas para fomentar los centros de datos en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/crc-plantea-aprovechar-la-regasificacion-del-gas-para-impulsar-los-data-centers-en-colombia-503302",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "CRC plantea aprovechar la regasificación del gas para impulsar los data centers en Colombia",
-        "capturado": "2026-09-25T20:12:08-05:00"
       }
     ]
   }
