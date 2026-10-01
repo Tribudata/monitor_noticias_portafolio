@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-01T14:41:11-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-10-01T18:41:32-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "ANI arranca obras de 10 km de carretera alterna hacia Buenaventura para optimizar la entrada al puerto",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-inicia-construccion-de-10-km-de-via-alterna-a-buenaventura-para-mejorar-acceso-al-puerto-503701",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "ANI inicia construcción de 10 km de vía alterna a Buenaventura para mejorar acceso al puerto",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027: Ministerio de Hacienda objeta solicitudes de más fondos sin respaldo financiero",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-minhacienda-cuestiona-pedidos-de-mas-recursos-sin-fuentes-de-financiacion-503700",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Presupuesto 2027: Minhacienda cuestiona pedidos de más recursos sin fuentes de financiación",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Vicepresidencia propondrá al SENA capacitar choferes de carga y otorgarles pase de conducción gratis",
+        "url": "https://www.portafolio.co/economia/vicepresidente-llevara-al-sena-la-propuesta-de-formar-conductores-de-carga-y-entregarles-la-licencia-gratuita-503677",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Vicepresidente llevará al SENA la propuesta de formar conductores de carga y entregarles la licencia gratuita",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Montería tendrá vuelo directo a Panamá con Satena y un trayecto aéreo inferior a una hora",
+        "url": "https://www.portafolio.co/economia/regiones/monteria-estrenara-vuelo-directo-a-panama-con-satena-y-conexion-aerea-de-menos-de-una-hora-503695",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Montería estrenará vuelo directo a Panamá con Satena y conexión aérea de menos de una hora",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Bloqueos suman 12,9 billones de pesos: gremios solicitan al Ejecutivo carreteras libres",
+        "url": "https://www.portafolio.co/economia/bloqueos-ya-cuestan-12-9-billones-colfecar-fenavi-fenalcarbon-y-analdex-piden-al-gobierno-vias-despejadas-503657",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Bloqueos ya cuestan $12,9 billones: Colfecar, Fenavi, Fenalcarbón y Analdex piden al Gobierno vías despejadas",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Conciertos de BTS en Bogotá: TransMilenio habilita ocho trayectos especiales este 2 y 3 de octubre",
+        "url": "https://www.portafolio.co/economia/regiones/bts-en-bogota-transmilenio-activa-ocho-rutas-especiales-por-conciertos-este-2-y-3-de-octubre-503693",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "BTS en Bogotá: TransMilenio activa ocho rutas especiales por conciertos este 2 y 3 de octubre",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Exclusiva: este es el calendario y las directrices del Plan Nacional de Desarrollo de De La Espriella",
+        "url": "https://www.portafolio.co/economia/primicia-estos-son-los-lineamientos-y-el-cronograma-del-plan-nacional-de-desarrollo-de-de-la-espriella-503689",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo, constanza gomez guasca",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Primicia: estos son los lineamientos y el cronograma del Plan Nacional de Desarrollo de De La Espriella",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027: Ejecutivo, gremios y empleados pactan ruta de trabajo de la comisión tripartita",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-gobierno-empresarios-y-centrales-obreras-acuerdan-hoja-de-ruta-y-fechas-para-la-concertacion-503692",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Salario mínimo 2027: Gobierno, empresarios y trabajadores acuerdan hoja de ruta de la mesa tripartita",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Barranquilla aportará 40000 millones propios para destrabar las obras del terminal aéreo Ernesto Cortissoz",
+        "url": "https://www.portafolio.co/economia/infraestructura/barranquilla-pondra-40-000-millones-de-su-bolsillo-para-destrabar-las-obras-del-aeropuerto-ernesto-cortissoz-503683",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Barranquilla pondrá $40.000 millones de su bolsillo para destrabar las obras del aeropuerto Ernesto Cortissoz",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "BBVA Seguros Colombia proyecta sufragar 320000 millones en compensaciones por estragos del sismo",
+        "url": "https://www.portafolio.co/economia/regiones/bbva-seguros-colombia-estima-pagar-indemnizaciones-por-320-000-millones-por-danos-del-terremoto-503684",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "BBVA Seguros Colombia estima pagar indemnizaciones por $320.000 millones por daños del terremoto",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "UNP alerta déficit de 1,08 billones para funcionar en 2027 y asegurar esquemas de seguridad",
+        "url": "https://www.portafolio.co/economia/gobierno/unp-advierte-faltante-de-1-08-billones-para-operar-en-2027-y-garantizar-esquemas-de-proteccion-503681",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "UNP advierte faltante de $1,08 billones para operar en 2027 y garantizar esquemas de protección",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
       {
         "titulo": "Renacer: detalles de la cárcel para 1.974 reclusos que impulsa Abelardo De La Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/renacer-esto-se-sabe-de-la-megacarcel-de-1-974-cupos-que-de-la-espriella-busca-poner-en-marcha-503678",
@@ -493,119 +603,79 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "Banano colombiano llega a Europa bajo presión: clima, costos y peso revaluado golpean a los productores",
         "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado establece cuándo una tornaguía extemporánea causa multa por bienes gravados al consumo",
-        "url": "https://www.portafolio.co/economia/consejo-de-estado-define-cuando-una-tornaguia-tardia-genera-sancion-por-productos-sujetos-al-impuesto-al-consumo-503564",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Consejo de Estado define cuándo una tornaguía tardía genera sanción por productos sujetos al impuesto al consumo",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Carne de Colombia apunta a Filipinas: avanza la vía para vender ganado bovino y porcino a esa nación",
-        "url": "https://www.portafolio.co/economia/agro/carne-colombiana-busca-conquistar-filipinas-se-abre-el-camino-para-exportar-bovinos-y-porcinos-al-pais-asiatico-503563",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Carne colombiana busca conquistar Filipinas: se abre el camino para exportar bovinos y porcinos al país asiático",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Tras diálogo con el FMI, el BID confirma respaldo al Ejecutivo: el país expondrá 37 obras en Nueva York",
-        "url": "https://www.portafolio.co/economia/finanzas/tras-acercamiento-con-el-fmi-bid-tambien-anuncia-apoyo-al-gobierno-colombia-presentara-37-proyectos-en-nueva-york-503560",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Tras acercamiento con el FMI, BID también anuncia apoyo al Gobierno: Colombia presentará 37 proyectos en Nueva York",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Pago fraccionado del predial en Bogotá: 27395 inmuebles tienen plazo del tercer abono al 2 de octubre",
-        "url": "https://www.portafolio.co/economia/predial-por-cuotas-en-bogota-27-395-predios-deben-hacer-el-tercer-pago-antes-del-2-de-octubre-503559",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Predial por cuotas en Bogotá: 27.395 predios deben hacer el tercer pago antes del 2 de octubre",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Remesas enviadas por colombianos desde el exterior aumentan a un ritmo más lento",
-        "url": "https://www.portafolio.co/economia/regiones/remesas-que-los-trabajadores-colombianos-envian-desde-el-exterior-crecen-pero-lo-hacen-a-un-menor-ritmo-503546",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Remesas que los trabajadores colombianos envían desde el exterior crecen pero lo hacen a un menor ritmo",
-        "capturado": "2026-09-29T23:08:46-05:00"
-      },
-      {
-        "titulo": "Hacienda avala crédito externo hasta por $1,3 billones para financiar el Metro de Bogotá",
-        "url": "https://www.portafolio.co/economia/infraestructura/metro-de-bogota-tendra-nueva-fuente-de-financiacion-hacienda-autoriza-credito-externo-por-hasta-1-3-billones-503542",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Metro de Bogotá tendrá nueva fuente de financiación: Hacienda autoriza crédito externo por hasta $1,3 billones",
-        "capturado": "2026-09-29T23:08:46-05:00"
-      },
-      {
-        "titulo": "El dólar sube 3,40% y sitúa al peso colombiano como la divisa de peor rendimiento regional",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-pega-un-salto-de-3-40-y-deja-al-peso-colombiano-como-la-moneda-con-el-peor-desempeno-de-la-region-503529",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Dólar pega un salto de 3,40% y deja al peso colombiano como la moneda con el peor desempeño de la región",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Embajada de EE UU en Bogotá lanza empleo con remuneración anual superior a $114 millones",
-        "url": "https://www.portafolio.co/economia/empleo/embajada-de-estados-unidos-abre-vacante-en-bogota-con-salario-anual-de-mas-de-114-millones-503527",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empleo",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Embajada de Estados Unidos abre vacante en Bogotá con salario anual de más de $114 millones",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Más personas vuelan en Colombia: 39,4 millones de viajeros entre enero y agosto de 2026",
-        "url": "https://www.portafolio.co/economia/cada-vez-mas-gente-vuela-por-colombia-39-4-millones-de-pasajeros-viajaron-entre-enero-y-agosto-de-503520",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Cada vez más gente vuela por Colombia: 39,4 millones de pasajeros viajaron entre enero y agosto de 2026",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Tributaria distrital modifica el ICA desde 2027 y otorga rebaja en intereses de sanciones",
-        "url": "https://www.portafolio.co/economia/regiones/reforma-tributaria-de-bogota-cambia-el-ica-desde-2027-y-abre-descuento-en-intereses-de-multas-503521",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Reforma tributaria de Bogotá cambia el ICA desde 2027 y abre descuento en intereses de multas",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "El país sigue cultivando aguacate Hass: pasa de 39.000 hectáreas y apunta a nuevos mercados",
-        "url": "https://www.portafolio.co/economia/agro/colombia-no-para-de-sembrar-hass-ya-supera-las-39-000-hectareas-y-estos-son-los-paises-a-los-que-busca-entrar-503518",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Colombia no para de sembrar ‘Hass’: ya supera las 39.000 hectáreas y estos son los países a los que busca entrar",
-        "capturado": "2026-09-29T18:52:35-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El Concejo de Bogotá condecora a Bruce Mac Master tras su anuncio de dimisión a la presidencia de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-es-condecorado-por-el-concejo-de-bogota-tras-anunciar-su-renuncia-a-la-presidencia-de-la-andi-503702",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Bruce Mac Master es condecorado por el Concejo de Bogotá, tras anunciar su renuncia a la presidencia de la Andi",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Suenan candidatos para suceder a Bruce Mac Master en la presidencia de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/se-prende-el-sonajero-para-reemplazar-a-bruce-mac-master-en-la-andi-los-nombres-que-suenan-para-sucederlo-503699",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Se prende el sonajero para reemplazar a Bruce Mac Master en la Andi: los nombres que suenan para sucederlo",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Mallplaza concreta la millonaria adquisición de ocho centros comerciales Gran Plaza y llega a 13 activos en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/mallplaza-sella-compra-de-ocho-centros-comerciales-gran-plaza-y-alcanza-13-activos-en-colombia-503697",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Mallplaza sella megacompra de ocho centros comerciales Gran Plaza y alcanza 13 activos en Colombia",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Ituran opera en el territorio nacional con tecnología israelí para rastrear y apagar vehículos hurtados",
+        "url": "https://www.portafolio.co/negocios/tecnologia-israeli-que-rastrea-carros-y-los-inmoviliza-en-pleno-robo-asi-opera-ituran-en-las-vias-de-colombia-503696",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Tecnología israelí que rastrea carros y los inmoviliza en pleno robo: así opera Ituran en las vías de Colombia",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Skechers incrementa su porción del mercado de marcas deportivas en el territorio nacional",
+        "url": "https://www.portafolio.co/negocios/industrias/skechers-da-un-salto-en-su-participacion-en-el-mercado-de-las-marcas-deportivas-en-el-pais-503687",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Skechers da un salto en su participación en el mercado de las marcas deportivas en el país",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Convención internacional de seguros 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/convencion-internacional-de-seguros-503686",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Convención internacional de seguros 2026",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
+      {
+        "titulo": "Las pólizas y las opciones del mañana",
+        "url": "https://www.portafolio.co/negocios/empresas/los-seguros-y-las-oportunidades-del-futuro-503688",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Los seguros y las oportunidades del futuro",
+        "capturado": "2026-10-01T18:41:32-05:00"
+      },
       {
         "titulo": "Inversionistas vuelven a mirar a Colombia y gana terreno frente a los demás mercados de la región",
         "url": "https://www.portafolio.co/negocios/inversion/colombia-vuelve-a-captar-la-atencion-de-los-inversionistas-y-gana-espacio-frente-a-otros-mercados-de-la-region-503676",
@@ -1134,76 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-28",
         "titulo_fuente": "'Sold out': J Balvin agota los Jordan 4 ‘Amazonas’ en preventa y prepara su lanzamiento global para octubre",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Olímpica dispone de más de 2.800 cajas para transacciones de Davivienda y DaviPlata",
-        "url": "https://www.portafolio.co/negocios/comercio/olimpica-habilita-mas-de-2-800-cajas-para-operaciones-de-davivienda-y-daviplata-503416",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Olímpica habilita más de 2.800 cajas para operaciones de Davivienda y DaviPlata",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Inversionistas del Grupo Energía Bogotá avalan llegada con ADR's a la Bolsa de Nueva York",
-        "url": "https://www.portafolio.co/negocios/empresas/accionistas-del-grupo-energia-bogota-aprueban-ingreso-con-adr-s-a-la-bolsa-de-nueva-york-503419",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Accionistas del Grupo Energía Bogotá aprueban ingreso con ADR's a la Bolsa de Nueva York",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "El grave fallo del pilotaje automático de Tesla con las velocidades que afectaría al conductor",
-        "url": "https://www.portafolio.co/negocios/vehiculo/el-peligroso-error-de-la-conduccion-autonoma-de-tesla-con-los-limites-de-velocidad-que-podria-costarle-al-conductor-503415",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "El peligroso error de la conducción autónoma de Tesla con los límites de velocidad que podría costarle al conductor",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Claro entra al terreno de Tigo: Móvil Éxito opera desde ahora en ambas redes",
-        "url": "https://www.portafolio.co/negocios/empresas/claro-se-mete-en-la-cancha-de-tigo-movil-exito-ahora-navega-en-las-dos-redes-503409",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Claro se mete en la cancha de Tigo: Móvil Éxito ahora navega en las dos redes",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Wall Street evalúa la estrategia NEXT de McDonald's: demanda ingresos y réditos",
-        "url": "https://www.portafolio.co/negocios/empresas/wall-street-pone-a-prueba-el-plan-next-de-mcdonald-s-exige-ventas-y-retornos-503413",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Wall Street pone a prueba el plan NEXT de McDonald’s: exige ventas y retornos",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Títulos de Nu bajan más de 8% tras rumores de multimillonaria compra del banco digital Monzo",
-        "url": "https://www.portafolio.co/negocios/empresas/acciones-de-nu-caen-mas-de-8-tras-versiones-sobre-millonaria-compra-de-monzo-503410",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Acciones de Nu caen más de 8% tras versiones sobre millonaria compra de Monzo, banco digital británico",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Decathlon acelera su crecimiento en Colombia al comercializar 7 millones de productos cada año",
-        "url": "https://www.portafolio.co/negocios/comercio/decathlon-pisa-el-acelerador-de-la-expansion-en-colombia-vende-7-millones-de-unidades-al-ano-503297",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Decathlon pisa el acelerador de la expansión en Colombia: vende 7 millones de unidades al año",
         "capturado": "2026-09-28T17:24:33-05:00"
       }
     ]
