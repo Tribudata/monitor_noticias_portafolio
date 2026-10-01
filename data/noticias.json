@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-01T01:51:44-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-01T09:12:23-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Gobierno plantea modificaciones a la protesta social y así cambiaría el Decreto 003",
+        "url": "https://www.portafolio.co/economia/gobierno/se-conocen-los-cambios-que-el-gobierno-propone-para-la-protesta-social-asi-se-modificaria-el-decreto-503648",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Se conocen los cambios que el Gobierno propone para la protesta social: así se modificaría el Decreto 003",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Semana de receso: aeropuertos moverán 2,1 millones de viajeros, 3,56 % más que en 2025",
+        "url": "https://www.portafolio.co/economia/viajes-en-la-semana-de-receso-aeropuertos-movilizaran-2-1-millones-de-pasajeros-3-56-mas-que-en-503642",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Viajes en la semana de receso: Aeropuertos movilizarán 2,1 millones de pasajeros, 3,56 % más que en 2025",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Iván Duque sugiere ampliar base gravable y revisar IVA mediante un pacto fiscal nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/ivan-duque-propone-ampliar-la-base-tributaria-y-plantea-un-pacto-fiscal-para-el-pais-503649",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Expresidente Iván Duque propone ampliar la base tributaria y revisar el IVA: plantea un pacto fiscal para el país",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Dian recuerda que hay 5 años para pedir devolución del IVA en autos híbridos y eléctricos",
+        "url": "https://www.portafolio.co/economia/tiene-5-anos-para-solicitar-la-devolucion-del-iva-para-vehiculos-hibridos-y-electricos-dian-503647",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Tiene 5 años para solicitar la devolución del IVA para vehículos híbridos y eléctricos: Dian",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Café de Colombia celebra su día con menor cosecha, tasa de cambio y una creciente amenaza",
+        "url": "https://www.portafolio.co/economia/agro/el-cafe-colombiano-llega-a-su-dia-con-menos-produccion-presion-cambiaria-y-una-amenaza-que-crece-en-el-territorio-503643",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "El café colombiano llega a su día con menos producción, presión cambiaria y una amenaza que crece en el territorio",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Euro comienza octubre a la baja en el país y se cotiza por debajo de los $3.740",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-arranca-octubre-con-fuerte-caida-en-colombia-y-se-ubica-por-debajo-de-los-3-503641",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Euro arranca octubre con fuerte caída en Colombia y se ubica por debajo de los $3.740",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Contraloría investigará convenios, cifras, tiempos y proveedores de pasaportes",
+        "url": "https://www.portafolio.co/economia/gobierno/pasaportes-bajo-la-lupa-fiscal-contraloria-revisara-contratos-montos-plazos-y-contratistas-503640",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Pasaportes bajo la lupa fiscal: Contraloría revisará contratos, montos, plazos y contratistas",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Tasa de interés del Banco de la República impulsa caída del dólar en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-inicia-jornada-a-la-baja-tras-decision-del-banco-de-la-republica-de-subir-la-tasa-de-interes-503639",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Dólar en Colombia sigue bajando tras decisión del Banco de la República de subir la tasa de interés",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
       {
         "titulo": "Ecopetrol designa tres nuevos vicepresidentes: Quiénes son y qué puestos asumirán",
         "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-nombra-a-tres-nuevos-vicepresidentes-quienes-son-y-que-cargos-ocuparan-503624",
@@ -523,89 +603,39 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Gobierno radica proyecto de ley con el adicionaría $2,7 billones al Presupuesto 2026 para atender el terremoto",
         "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Congreso adopta pacto anticorrupción con diez deberes de transparencia obligatorios",
-        "url": "https://www.portafolio.co/economia/gobierno/congreso-firma-acuerdo-anticorrupcion-estos-son-los-10-compromisos-de-transparencia-que-deberan-cumplir-503499",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Congreso firma acuerdo anticorrupción: estos son los 10 compromisos de transparencia que deberán cumplir",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Administración nacional anula decreto que extendía la protección temporal del páramo de Santurbán a 2029",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-deroga-resolucion-que-ampliaba-la-reserva-temporal-del-paramo-de-santurban-hasta-503498",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Gobierno deroga resolución que ampliaba la reserva temporal del páramo de Santurbán hasta 2029",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Valor de la membresía en Kurrant, el flamante club social ubicado en Cedritos",
-        "url": "https://www.portafolio.co/economia/regiones/cuanto-cuesta-ser-socio-de-kurrant-el-nuevo-club-social-de-cedritos-503495",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "¿Cuánto cuesta ser socio de Kurrant, el nuevo club social de Cedritos?",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Semana de la Bicicleta: Bogotá mantiene 88,48 km de ciclorrutas y le restan 53,52 km para la meta",
-        "url": "https://www.portafolio.co/economia/infraestructura/semana-de-la-bicicleta-bogota-ha-conservado-88-48-km-de-ciclorrutas-le-faltan-53-52-km-para-cumplir-su-meta-503474",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Semana de la Bicicleta: Bogotá ha conservado 88,48 km de ciclorrutas, le faltan 53,52 km para cumplir su meta",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Barranquilla atrae a la OEA: 80 dirigentes arriban para evaluar sus capacidades y opciones",
-        "url": "https://www.portafolio.co/economia/regiones/barranquilla-por-primera-vez-en-el-radar-de-la-oea-80-lideres-recorren-la-ciudad-503494",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Barranquilla entra al radar de la OEA: 80 líderes llegan a la ciudad para conocer su potencial y oportunidades",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Prohíben cobro de comisión en datáfonos: Bogotá suprime retención de ICA a negocios pequeños",
-        "url": "https://www.portafolio.co/economia/regiones/ya-no-deberian-cobrarle-comision-al-pagar-con-datafono-bogota-elimina-retencion-de-ica-para-pequenos-comercios-503493",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Ya no deberían cobrarle comisión al pagar con datáfono: Bogotá elimina retención de ICA para pequeños comercios",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "El gasto familiar y el sector mercantil nacional sufrieron en julio por menor trabajo y tipos del 12%",
-        "url": "https://www.portafolio.co/economia/menor-empleo-y-tasas-de-12-frenaron-el-consumo-de-los-hogares-y-golpearon-el-comercio-colombiano-en-julio-503490",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Menor empleo y tasas de 12% frenaron el consumo de los hogares y golpearon el comercio colombiano en julio",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Cuántas pensiones puede recibir una persona al mismo tiempo en Colombia y en qué casos puede hacerlo",
-        "url": "https://www.portafolio.co/economia/cuantas-pensiones-puede-recibir-una-persona-al-mismo-tiempo-en-colombia-y-en-que-casos-puede-hacerlo-503486",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "¿Cuántas pensiones puede recibir una persona al mismo tiempo en Colombia y en qué casos puede hacerlo?",
-        "capturado": "2026-09-29T15:07:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Hoy entran en vigor las nuevas normas de la CRC para terminar planes de telefonía móvil sin obstáculos",
+        "url": "https://www.portafolio.co/negocios/empresas/desde-hoy-se-acaban-las-trabas-para-cancelar-planes-de-telefonia-movil-estas-son-las-nuevas-reglas-de-la-crc-503644",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Desde hoy se acaban las trabas para cancelar planes de telefonía móvil: estas son las nuevas reglas de la CRC",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Un apostador en Bogotá ganó 3400 millones de pesos en Baloto Revancha con un boleto digital",
+        "url": "https://www.portafolio.co/negocios/empresas/baloto-revancha-cayo-en-bogota-un-jugador-gano-3-400-millones-con-un-tiquete-comprado-en-linea-503638",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Baloto Revancha cayó en Bogotá: un jugador ganó $3.400 millones con un tiquete comprado en línea",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
+      {
+        "titulo": "Luis Carlos Sarmiento Angulo fue condecorado por su contribución al progreso del centro internacional de Bogotá",
+        "url": "https://www.portafolio.co/negocios/empresas/luis-carlos-sarmiento-angulo-recibio-reconocimiento-por-su-aporte-al-desarrollo-del-centro-internacional-en-bogota-503637",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Luis Carlos Sarmiento Angulo recibió reconocimiento por su aporte al desarrollo del centro internacional en Bogotá",
+        "capturado": "2026-10-01T09:12:23-05:00"
+      },
       {
         "titulo": "Llega la versión Platinum de la Ford Territory híbrida",
         "url": "https://www.portafolio.co/negocios/empresas/arriba-la-ford-territory-hibrida-version-platinum-503635",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-09-26",
         "titulo_fuente": "Nubank negocia comprar Monzo en una operación que podría duplicar el valor del banco británico en menos de dos años",
         "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Fractura gremial: Fenalco Santander recrimina al Comité Intergremial por usar su logo en carta",
-        "url": "https://www.portafolio.co/negocios/empresas/division-gremial-fenalco-santander-cuestiona-a-comite-intergremial-por-incluir-logo-en-carta-de-apoyo-a-mac-master-503320",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "División gremial: Fenalco Santander cuestiona a Comité Intergremial por incluir logo en carta de apoyo a Mac Master",
-        "capturado": "2026-09-26T10:51:31-05:00"
-      },
-      {
-        "titulo": "Sector de bebidas: Las razones de la salida de Coca-Cola de la Cámara de la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/industria-de-bebidas-por-que-coca-cola-se-salio-de-la-camara-de-bebidas-de-la-andi-503317",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-26",
-        "titulo_fuente": "Industria de bebidas: ¿Por qué Coca-Cola se salió de la Cámara de bebidas de la Andi?",
-        "capturado": "2026-09-26T06:40:49-05:00"
-      },
-      {
-        "titulo": "Wingz y Frisby despliegan Convite por Colombia para impulsar comercios golpeados por el sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/frisby-y-wingz-lanzan-convite-por-colombia-para-reactivar-negocios-afectados-por-el-terremoto-503316",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Frisby y Wingz lanzan ‘Convite por Colombia’ para reactivar negocios afectados por el terremoto",
-        "capturado": "2026-09-26T01:25:29-05:00"
       }
     ]
   }
