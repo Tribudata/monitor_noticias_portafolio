@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-09-30T16:12:52-05:00",
+  "actualizado": "2026-09-30T19:41:06-05:00",
   "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Acolgen apoya iniciativa de $1,2 billones frente al problema de pagos de energía",
+        "url": "https://www.portafolio.co/economia/gobierno/acolgen-respalda-proyecto-de-1-2-billones-para-la-crisis-de-pagos-de-energia-503619",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Acolgen respalda proyecto de $1,2 billones para la crisis de pagos de energía",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "El Gobierno emitirá un nuevo manual para el manejo de riesgos y desastres naturales",
+        "url": "https://www.portafolio.co/economia/regiones/gobierno-expedira-una-nueva-guia-para-gestionar-los-riesgos-y-los-eventos-de-origen-natural-503618",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Gobierno expedirá una nueva guía para gestionar los riesgos y los eventos de origen natural",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Grupo Argos anticipa recursos a sus socios usando El Dorado y Pacífico 2",
+        "url": "https://www.portafolio.co/economia/infraestructura/grupo-argos-adelanta-plata-para-sus-accionistas-asi-lo-hara-con-el-aeropuerto-el-dorado-y-la-via-pacifico-503615",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Grupo Argos adelanta plata para sus accionistas: así lo hará con el aeropuerto El Dorado y la vía Pacífico 2",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Carf presenta al Congreso datos fiscales y alerta un déficit de 9,5% del PIB en 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/deficit-fiscal-de-colombia-llegaria-a-9-5-del-pib-en-2027-y-deuda-marcaria-maximo-historico-advierte-el-carf-503614",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Carf lleva al Congreso nuevas cifras fiscales y advierte déficit de 9,5% del PIB para 2027",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "La gran deuda en eficiencia que opaca dos décadas de avance social: trabajamos más, pero no somos más productivos",
+        "url": "https://www.portafolio.co/economia/crecimiento/la-gran-deuda-en-eficiencia-que-opaca-dos-decadas-de-avance-social-trabajamos-mas-pero-no-somos-mas-productivos-503587",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "La gran deuda en eficiencia que opaca dos décadas de avance social: 'trabajamos más, pero no somos más productivos'",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Sorpresa en tasas y ajuste fiscal en tres etapas según la última junta del Emisor",
+        "url": "https://www.portafolio.co/economia/presupuesto-ley-de-rescate-economico-y-pnd-seran-las-tres-fases-del-ajuste-que-prepara-el-gobierno-nacional-503610",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Alza de tasas no esperada y ajuste fiscal en 3 fases: lo que dejó la más reciente junta del Banco de la República",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Subida de tipos encarece préstamos y mantiene rentabilidades altas en CDT para los colombianos",
+        "url": "https://www.portafolio.co/economia/gobierno/alza-de-tasas-encarece-creditos-pero-sostiene-rendimientos-altos-para-los-cdt-de-los-colombianos-503609",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Alza de tasas encarece créditos pero sostiene rendimientos altos para los CDT de los colombianos",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
       {
         "titulo": "Supresión de peajes generó litigios y entrega de vías según CCI",
         "url": "https://www.portafolio.co/economia/infraestructura/quitar-peajes-lleno-al-pais-de-demandas-y-concesiones-devueltas-la-cci-advierte-que-las-cuentas-no-dan-503584",
@@ -533,79 +603,49 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Liposucción, senos y párpados: las cirugías que marcan el nuevo mapa de la estética en Colombia",
         "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "FMI y Colombia inician nueva fase: delegación de Hacienda irá a Washington por asesoría",
-        "url": "https://www.portafolio.co/economia/gobierno/fmi-abre-nueva-etapa-con-colombia-hacienda-viajara-a-washington-para-discutir-apoyo-tecnico-503476",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "FMI abre nueva etapa con Colombia: Hacienda viajará a Washington para discutir apoyo técnico",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Buscan igualar edad de pensión entre géneros proponiendo un incremento para las mujeres",
-        "url": "https://www.portafolio.co/economia/gobierno/proponen-subir-la-edad-para-que-las-mujeres-se-pensionen-y-equipararla-con-la-de-los-hombres-503475",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "'Nivelar la cancha' en pensiones: proponen subir edad de jubilación de mujeres para equipararla con la de hombres",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Euro sube ante el peso hoy martes: este es el comportamiento y el costo actual de la divisa en Colombia",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-se-dispara-frente-al-peso-este-martes-asi-se-mueve-la-moneda-y-cuanto-esta-costando-en-colombia-503472",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Euro se dispara frente al peso este martes: así se mueve la moneda y cuánto está costando en Colombia",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia: valor de la moneda antes de importante decisión del Emisor",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-inicia-este-29-de-septiembre-en-3-349-63-a-la-espera-de-la-decision-de-tasas-del-banco-de-la-republica-503468",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Precio del dólar en Colombia: así cotiza la divisa previo a clave decisión del Banco de la República",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Galán habla tras aprobación de reforma tributaria: estas son las modificaciones previstas para Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/galan-se-pronuncia-tras-aval-a-reforma-tributaria-estos-son-los-cambios-que-vienen-para-bogota-503467",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Galán se pronuncia tras aval a reforma tributaria: estos son los cambios que vienen para Bogotá",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Colombia y EE. UU. se unen contra arancel de 12,5%: vetan ingreso de productos con trabajo forzoso",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-busca-tumbar-arancel-del-12-5-de-ee-uu-prohibio-importaciones-de-bienes-hechos-con-trabajo-forzoso-503466",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Colombia se alinea con EE.UU. para tumbar arancel de 12,5%: prohíbe importación de bienes a base de trabajo forzoso",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Alerta por 88.000 millones de pesos: Contraloría indaga desembolsos del desaparecido Ministerio de la Igualdad",
-        "url": "https://www.portafolio.co/economia/gobierno/alerta-por-88-000-millones-contraloria-revisa-pagos-del-extinto-ministerio-de-igualdad-del-gobierno-petro-503465",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Alerta por $88.000 millones: Contraloría revisa pagos del extinto Ministerio de Igualdad del Gobierno Petro",
-        "capturado": "2026-09-29T10:22:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Marca de ropa femenina de Pereira dobla ventas y exporta 43.200 piezas anuales a EE. UU. y Guatemala",
+        "url": "https://www.portafolio.co/negocios/empresas/empresa-pereirana-de-moda-femenina-duplica-ventas-y-lleva-43-200-prendas-al-ano-a-ee-uu-y-guatemala-503599",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Empresa pereirana de moda femenina duplica ventas y lleva 43.200 prendas al año a EE. UU. y Guatemala",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "PepsiCo: esta es la fábrica que elabora 2,5 millones de porciones de snacks diariamente",
+        "url": "https://www.portafolio.co/negocios/empresas/pepsico-esta-es-la-planta-que-produce-2-5-millones-de-unidades-de-snacks-al-dia-503611",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "PepsiCo: esta es la planta que produce 2,5 millones de unidades de snacks al día",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Universidad de Los Andes lidera en el país en el listado THE 2027 y figura entre las 1.000 mejores globalmente",
+        "url": "https://www.portafolio.co/negocios/empresas/los-andes-encabeza-a-colombia-en-ranking-the-2027-y-queda-entre-las-1-000-mejores-universidades-del-mundo-503613",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Los Andes encabeza a Colombia en ranking THE 2027 y queda entre las 1.000 mejores universidades del mundo",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
+      {
+        "titulo": "Nu descarta un acuerdo con Monzo tras el desplome del 10% en el precio de su acción bursátil",
+        "url": "https://www.portafolio.co/negocios/empresas/nu-descarta-una-transaccion-con-monzo-luego-de-que-su-accion-en-bolsa-cayera-503612",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-09-30",
+        "titulo_fuente": "Nu descarta una transacción con Monzo luego de que su acción en bolsa cayera 10%",
+        "capturado": "2026-09-30T19:41:06-05:00"
+      },
       {
         "titulo": "BoConcept contempla un edificio de su marca en Colombia dentro de sus planes en América Latina",
         "url": "https://www.portafolio.co/negocios/comercio/colombia-una-de-las-apuestas-de-boconcept-en-america-latina-evalua-un-edificio-de-marca-propia-en-el-pais-503598",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-09-25",
         "titulo_fuente": "CRC plantea aprovechar la regasificación del gas para impulsar los data centers en Colombia",
         "capturado": "2026-09-25T20:12:08-05:00"
-      },
-      {
-        "titulo": "Theatron: el secreto del éxito del establecimiento nocturno más extenso de la capital",
-        "url": "https://www.portafolio.co/negocios/empresas/theatron-la-formula-detras-de-la-discoteca-mas-grande-de-bogota-503299",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Theatron: la fórmula detrás de la discoteca más grande de Bogotá",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Respaldo total a Bruce Mac Master mediante misiva para defender gremios de presiones",
-        "url": "https://www.portafolio.co/negocios/empresas/comite-intergremial-de-santander-respalda-a-bruce-mac-master-tras-su-carta-y-pide-proteger-a-los-gremios-503295",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Ola de respaldo a Bruce Mac Master: publican carta en la que pide proteger a los gremios ante presiones externas",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá impulsa granja solar de 39 MWp en Meta para abastecer 35.000 casas",
-        "url": "https://www.portafolio.co/negocios/banco-de-bogota-financia-proyecto-solar-de-39-mwp-en-el-meta-generara-energia-para-35-000-hogares-503296",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Banco de Bogotá financia proyecto solar de 39 MWp en el Meta: generará energía para 35.000 hogares",
-        "capturado": "2026-09-25T17:40:44-05:00"
-      },
-      {
-        "titulo": "Toyota Yaris Gazoo Racing actualiza su diseño y presenta cambios para el año 2027",
-        "url": "https://www.portafolio.co/negocios/vehiculo/toyota-yaris-gazoo-racing-referente-de-la-ingenieria-que-se-renueva-estas-son-sus-novedades-para-la-version-503265",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Toyota Yaris Gazoo Racing, referente de la ingeniería que se renueva: estas son sus novedades para la versión 2027",
-        "capturado": "2026-09-25T17:40:44-05:00"
       }
     ]
   }
