@@ -1,9 +1,159 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-02T11:29:49-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-10-02T15:55:00-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "FNA presta hasta el 90 por ciento para vivienda usada y estos son los papeles requeridos",
+        "url": "https://www.portafolio.co/economia/fna-financia-hasta-el-90-de-una-vivienda-usada-estos-son-los-documentos-que-debe-presentar-503779",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "FNA financia hasta el 90% de una vivienda usada: estos son los documentos que debe presentar",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "CEO de Gopass bajará comisión de peajes si el Gobierno da descuento a carga",
+        "url": "https://www.portafolio.co/economia/ceo-de-gopass-ofrece-reducir-su-comision-por-peajes-si-el-gobierno-crea-un-descuento-para-transportadores-de-carga-503748",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "CEO de Gopass ofrece reducir su comisión por peajes si el Gobierno crea un descuento para transportadores de carga",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado restringe autorretención especial de renta y define exclusiones",
+        "url": "https://www.portafolio.co/economia/el-consejo-de-estado-limita-la-autorretencion-especial-de-renta-que-pagos-quedan-por-fuera-503774",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "El Consejo de Estado limita la autorretención especial de renta: ¿Qué pagos quedan por fuera?",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Ruta Bogotá - Girardot: sugerencias para la semana de receso",
+        "url": "https://www.portafolio.co/economia/infraestructura/via-bogota-girardot-recomendaciones-para-la-semana-de-receso-503772",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Vía Bogotá - Girardot: recomendaciones para la semana de receso",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Tasa de usura cae en octubre y fija un nuevo tope de interés bancario",
+        "url": "https://www.portafolio.co/economia/finanzas/tasa-de-usura-baja-en-octubre-y-establece-nuevo-limite-para-el-cobro-de-intereses-a-los-bancos-503770",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Tasa de usura baja en octubre y establece nuevo límite para el cobro de intereses a los bancos",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Jaime Gregorio Vives Pinedo es designado por De La Espriella como presidente de Coljuegos",
+        "url": "https://www.portafolio.co/economia/gobierno/este-es-jaime-gregorio-vives-pinedo-nombrado-por-de-la-espriella-como-nuevo-presidente-de-coljuegos-503768",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Este es Jaime Gregorio Vives Pinedo, nombrado por De La Espriella como nuevo presidente de Coljuegos",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Gobierno ataca minería ilegal y afecta cuatro unidades en el último día",
+        "url": "https://www.portafolio.co/economia/gobierno/mineria-ilegal-queda-en-la-mira-del-gobierno-cuatro-unidades-fueron-afectadas-en-las-ultimas-24-horas-503767",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Minería ilegal queda en la mira del Gobierno: cuatro unidades fueron afectadas en las últimas 24 horas",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Viceministro de Hacienda aseguró que acabaron los tiempos de desconfianza privada",
+        "url": "https://www.portafolio.co/economia/regiones/viceministro-de-hacienda-dijo-que-los-tiempos-de-desconfianza-hacia-el-sector-privado-terminaron-503753",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Viceministro de Hacienda dijo que los tiempos de desconfianza hacia el sector privado terminaron",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Subida de tasa de interés al 12,25% impactará su bolsillo al endeudarse o pedir créditos",
+        "url": "https://www.portafolio.co/economia/gobierno/tiene-deudas-o-piensa-pedir-un-nuevo-prestamo-asi-afectara-su-bolsillo-el-aumento-de-la-tasa-de-interes-al-12-503765",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "¿Tiene deudas o piensa pedir un nuevo préstamo? Así afectará su bolsillo el aumento de la tasa de interés al 12,25%",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Borrador de resolución propone préstamo de Adres para pagar deudas de EPS en fármacos y trámites",
+        "url": "https://www.portafolio.co/economia/gobierno/proyecto-de-resolucion-plantea-credito-de-adres-para-cubrir-deudas-de-eps-por-medicamentos-y-procedimientos-503763",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Proyecto de resolución plantea crédito de Adres para cubrir deudas de EPS por medicamentos y procedimientos",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Banco de la República bajará tasas solo al iniciar y consolidarse un ajuste fiscal",
+        "url": "https://www.portafolio.co/economia/regiones/hasta-que-haya-un-ajuste-fiscal-en-curso-y-se-consolide-el-banco-de-la-republica-podra-bajar-las-tasas-503761",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "'Hasta que haya un ajuste fiscal en curso, y se consolide, el Banco de la República podrá bajar las tasas'",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Fomag traslada $859.000 millones de pensiones a salud para paliar faltante de docentes",
+        "url": "https://www.portafolio.co/economia/gobierno/fomag-mueve-859-000-millones-de-pensiones-a-salud-para-cubrir-parte-del-deficit-de-los-maestros-503760",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Fomag mueve $859.000 millones de pensiones a salud para cubrir parte del déficit de los maestros",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Disputas internas en la CUT por nueva mayoría directiva tras el fenómeno de la CUT Milagro",
+        "url": "https://www.portafolio.co/economia/gobierno/nueva-mayoria-en-la-direccion-de-la-cut-hace-crecer-la-crisis-interna-lo-que-hay-detras-de-la-cut-milagro-503759",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "'Nueva mayoría' en la dirección de la CUT hace crecer la crisis interna: lo que hay detrás de la 'CUT Milagro'",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Minminas emprende acciones contra las redes de extracción aurífera ilícita en el país",
+        "url": "https://www.portafolio.co/economia/oro-ilegal-se-extiende-en-colombia-75-de-las-118-410-hectareas-explotadas-no-tiene-autorizacion-503758",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Minminas lanza ofensiva para contrarrestar las mafias de explotación ilegal de oro que crece en Colombia",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Cotizantes al sistema de seguridad social llegan a 19,95 millones, un 19,3% más que en 2025",
+        "url": "https://www.portafolio.co/economia/el-sistema-de-seguridad-social-suma-19-95-millones-de-cotizantes-19-3-mas-frente-al-mismo-periodo-de-503757",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "El sistema de seguridad social suma 19,95 millones de cotizantes, 19,3% más frente al mismo periodo de 2025",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
       {
         "titulo": "Bolsa de Valores de Colombia lanza simulador para aprender a invertir sin riesgo: este es el proceso",
         "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-valores-de-colombia-abre-ruta-para-aprender-a-invertir-sin-arriesgar-dinero-real-conozca-el-proceso-503754",
@@ -453,159 +603,29 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "Ecopetrol nombra a tres nuevos vicepresidentes: ¿Quiénes son y qué cargos ocuparán?",
         "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "Gobierno gira $683.990 millones a Ecopetrol por concepto del Fepc",
-        "url": "https://www.portafolio.co/economia/gobierno/ecopetrol-recibe-683-990-millones-del-fepc-por-pago-del-gobierno-503623",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Ecopetrol recibe $683.990 millones del Fepc por pago del Gobierno",
-        "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "De La Espriella autoriza 10 extradiciones y alcanza 105 en 53 días de gestión",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-firma-10-extradiciones-y-suma-105-en-53-dias-de-gobierno-503622",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "De La Espriella firma 10 extradiciones y suma 105 en 53 días de Gobierno",
-        "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "Tarifa del combustible aumenta $46 por galón en octubre y el ACPM sigue igual",
-        "url": "https://www.portafolio.co/economia/gobierno/precio-de-la-gasolina-sube-46-por-galon-en-octubre-y-el-acpm-se-mantiene-estable-503621",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Precio de la gasolina sube $46 por galón en octubre y el ACPM se mantiene estable",
-        "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "Presidente De La Espriella anuncia combate frontal al contrabando tras junta con el director de la Dian",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-declara-guerra-sin-tregua-al-contrabando-tras-reunirse-con-el-director-de-la-dian-503620",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Presidente De La Espriella declara guerra sin tregua al contrabando tras reunirse con el director de la Dian",
-        "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "Acolgen apoya iniciativa de $1,2 billones frente al problema de pagos de energía",
-        "url": "https://www.portafolio.co/economia/gobierno/acolgen-respalda-proyecto-de-1-2-billones-para-la-crisis-de-pagos-de-energia-503619",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Acolgen respalda proyecto de $1,2 billones para la crisis de pagos de energía",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "El Gobierno emitirá un nuevo manual para el manejo de riesgos y desastres naturales",
-        "url": "https://www.portafolio.co/economia/regiones/gobierno-expedira-una-nueva-guia-para-gestionar-los-riesgos-y-los-eventos-de-origen-natural-503618",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Gobierno expedirá una nueva guía para gestionar los riesgos y los eventos de origen natural",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Grupo Argos anticipa recursos a sus socios usando El Dorado y Pacífico 2",
-        "url": "https://www.portafolio.co/economia/infraestructura/grupo-argos-adelanta-plata-para-sus-accionistas-asi-lo-hara-con-el-aeropuerto-el-dorado-y-la-via-pacifico-503615",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Grupo Argos adelanta plata para sus accionistas: así lo hará con el aeropuerto El Dorado y la vía Pacífico 2",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Carf presenta al Congreso datos fiscales y alerta un déficit de 9,5% del PIB en 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/deficit-fiscal-de-colombia-llegaria-a-9-5-del-pib-en-2027-y-deuda-marcaria-maximo-historico-advierte-el-carf-503614",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Carf lleva al Congreso nuevas cifras fiscales y advierte déficit de 9,5% del PIB para 2027",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "La gran deuda en eficiencia que opaca dos décadas de avance social: trabajamos más, pero no somos más productivos",
-        "url": "https://www.portafolio.co/economia/crecimiento/la-gran-deuda-en-eficiencia-que-opaca-dos-decadas-de-avance-social-trabajamos-mas-pero-no-somos-mas-productivos-503587",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "La gran deuda en eficiencia que opaca dos décadas de avance social: 'trabajamos más, pero no somos más productivos'",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Sorpresa en tasas y ajuste fiscal en tres etapas según la última junta del Emisor",
-        "url": "https://www.portafolio.co/economia/presupuesto-ley-de-rescate-economico-y-pnd-seran-las-tres-fases-del-ajuste-que-prepara-el-gobierno-nacional-503610",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Alza de tasas no esperada y ajuste fiscal en 3 fases: lo que dejó la más reciente junta del Banco de la República",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Subida de tipos encarece préstamos y mantiene rentabilidades altas en CDT para los colombianos",
-        "url": "https://www.portafolio.co/economia/gobierno/alza-de-tasas-encarece-creditos-pero-sostiene-rendimientos-altos-para-los-cdt-de-los-colombianos-503609",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Alza de tasas encarece créditos pero sostiene rendimientos altos para los CDT de los colombianos",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Supresión de peajes generó litigios y entrega de vías según CCI",
-        "url": "https://www.portafolio.co/economia/infraestructura/quitar-peajes-lleno-al-pais-de-demandas-y-concesiones-devueltas-la-cci-advierte-que-las-cuentas-no-dan-503584",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Quitar peajes llenó al país de demandas y concesiones devueltas: la CCI advierte que las cuentas no dan",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Gobierno alista reforma fiscal trisectorial y ley de salvamento",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-prepara-ajuste-fiscal-en-tres-etapas-habra-proyecto-de-ley-de-rescate-de-la-economia-en-los-proximos-dias-503607",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Gobierno prepara ajuste fiscal en tres etapas: habrá proyecto de ley de rescate de la economía en los próximos días",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Estudiante de Economía de la Nacional logra promedio de 4,9",
-        "url": "https://www.portafolio.co/economia/asi-logro-el-mejor-estudiante-del-pais-un-promedio-de-4-9-estudiando-economia-en-la-universidad-nacional-503605",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Así logró el mejor estudiante del país un promedio de 4,9 estudiando Economía en la Universidad Nacional",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Gremios opinan tras ubicarse el desempleo en 9,4% durante agosto",
-        "url": "https://www.portafolio.co/economia/desempleo-en-colombia-llego-a-9-4-en-agosto-asi-reaccionan-los-gremios-503601",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Desempleo en Colombia llegó a 9,4% en agosto: así reaccionan los gremios",
-        "capturado": "2026-09-30T16:12:52-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Café Devoción entregará el 1% de cada bolsa a caficultoras nacionales y jóvenes en Nueva York",
+        "url": "https://www.portafolio.co/negocios/empresas/cafe-devocion-donara-el-1-de-cada-bolsa-de-cafe-para-mujeres-caficultoras-del-pais-y-jovenes-en-nueva-york-503756",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Café Devoción donará el 1% de cada bolsa de café para mujeres caficultoras del país y jóvenes en Nueva York",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
+      {
+        "titulo": "Estados Unidos asigna 500.000 dólares a la firma médica colombiana Samay para detectar EPOC",
+        "url": "https://www.portafolio.co/negocios/empresas/ee-uu-destina-us-500-000-a-la-empresa-de-tecnologia-medica-colombiana-samay-para-avance-en-detectar-la-epoc-503740",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "EE. UU. destina US$500.000 a la empresa de tecnología médica colombiana Samay para avance en detectar la EPOC",
+        "capturado": "2026-10-02T15:55:00-05:00"
+      },
       {
         "titulo": "Intervención de Leonardo Villar, director del Banco de la República, en evento de Fasecolda",
         "url": "https://www.portafolio.co/negocios/empresas/habla-leonardo-villar-gerente-banco-de-la-republica-en-fasecolda-503755",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-29",
         "titulo_fuente": "El nombre Movistar Arena llegó a su fin: inicia el desmonte del letrero en el emblemático coliseo bogotano",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Proyecciones para las pequeñas y medianas empresas en la patria milagro",
-        "url": "https://www.portafolio.co/negocios/empresas/las-perspectivas-de-las-mipymes-en-la-patria-milagro-503492",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Las perspectivas de las MiPymes en la patria milagro",
-        "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "Nvidia supera a Apple con la recompra accionaria récord de 150000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/nvidia-destrona-a-apple-con-la-mayor-recompra-de-acciones-de-la-historia-us-150-000-millones-503491",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Nvidia destrona a Apple con la mayor recompra de acciones de la historia: US$150.000 millones",
         "capturado": "2026-09-29T15:07:27-05:00"
       }
     ]
