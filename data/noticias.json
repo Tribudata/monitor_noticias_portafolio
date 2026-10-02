@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-01T18:41:32-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-01T23:13:47-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Fernando Isaza Gutiérrez toma posesión oficial como presidente del Fondo Nacional de Garantías",
+        "url": "https://www.portafolio.co/economia/gobierno/fernando-isaza-gutierrez-asume-oficialmente-la-presidencia-del-fondo-nacional-de-garantias-503706",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Fernando Isaza Gutiérrez asume oficialmente la presidencia del Fondo Nacional de Garantías",
+        "capturado": "2026-10-01T23:13:47-05:00"
+      },
+      {
+        "titulo": "La Agencia Nacional de Tierras finalizaría el año con más de $200.000 millones sin invertir",
+        "url": "https://www.portafolio.co/economia/gobierno/agencia-nacional-de-tierras-cerraria-el-ano-con-mas-de-200-000-millones-de-inversion-sin-ejecutar-503705",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Agencia Nacional de Tierras cerraría el año con más de $200.000 millones de inversión sin ejecutar",
+        "capturado": "2026-10-01T23:13:47-05:00"
+      },
+      {
+        "titulo": "Voceros de cuatro sectores económicos discuten el porvenir ante el progreso de las aseguradoras",
+        "url": "https://www.portafolio.co/economia/finanzas/representantes-de-cuatro-actividades-economicas-hablan-del-futuro-frente-a-los-avances-del-sector-asegurador-503704",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Representantes de cuatro actividades económicas hablan del futuro frente a los avances del sector asegurador",
+        "capturado": "2026-10-01T23:13:47-05:00"
+      },
       {
         "titulo": "ANI arranca obras de 10 km de carretera alterna hacia Buenaventura para optimizar la entrada al puerto",
         "url": "https://www.portafolio.co/economia/infraestructura/ani-inicia-construccion-de-10-km-de-via-alterna-a-buenaventura-para-mejorar-acceso-al-puerto-503701",
@@ -573,39 +603,19 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "Arroceros enfrentan crisis por bajos precios y clima: Fedearroz pide al Gobierno refinanciar sus deudas",
         "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Que sigue para la infraestructura en medio de la falta de plata",
-        "url": "https://www.portafolio.co/economia/infraestructura/que-sigue-para-la-infraestructura-en-medio-de-la-falta-de-plata-503569",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "¿Qué sigue para la infraestructura en medio de la falta de plata?",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo se reunió con Meta para llevar tecnología a los nini y buscar crecer al 6%",
-        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-sostuvo-encuentro-con-meta-para-llevar-tecnologia-a-los-nini-y-apuntar-al-crecimiento-del-503568",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "José Manuel Restrepo sostuvo encuentro con Meta para llevar tecnología a los 'nini' y apuntar al crecimiento del 6%",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Productores de banano en Colombia golpeados en Europa por peso revaluado, costos y clima",
-        "url": "https://www.portafolio.co/economia/agro/banano-colombiano-llega-a-europa-bajo-presion-clima-costos-y-peso-revaluado-golpean-a-los-productores-503566",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Banano colombiano llega a Europa bajo presión: clima, costos y peso revaluado golpean a los productores",
-        "capturado": "2026-09-30T11:40:01-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Gobierno prepara garantías jurídicas y beneficios fiscales para captar nueva inversión nacional",
+        "url": "https://www.portafolio.co/negocios/inversion/gobierno-alista-incentivos-tributarios-y-estabilidad-juridica-para-atraer-nueva-inversion-al-pais-503707",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Gobierno alista incentivos tributarios y estabilidad jurídica para atraer nueva inversión al país",
+        "capturado": "2026-10-01T23:13:47-05:00"
+      },
       {
         "titulo": "El Concejo de Bogotá condecora a Bruce Mac Master tras su anuncio de dimisión a la presidencia de la Andi",
         "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-es-condecorado-por-el-concejo-de-bogota-tras-anunciar-su-renuncia-a-la-presidencia-de-la-andi-503702",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-28",
         "titulo_fuente": "Más que compras: 650 tiendas Oxxo ya permiten realizar operaciones financieras con Puntored",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "J Balvin agota en preventa los Jordan 4 Amazonas y alista su estreno mundial en octubre",
-        "url": "https://www.portafolio.co/negocios/empresas/sold-out-j-balvin-agota-los-jordan-4-amazonas-en-preventa-y-prepara-su-lanzamiento-global-para-octubre-503423",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "'Sold out': J Balvin agota los Jordan 4 ‘Amazonas’ en preventa y prepara su lanzamiento global para octubre",
         "capturado": "2026-09-28T17:24:33-05:00"
       }
     ]
