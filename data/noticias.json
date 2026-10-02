@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-02T05:39:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-02T11:29:49-05:00",
+  "nuevos_en_esta_corrida": 23,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Bolsa de Valores de Colombia lanza simulador para aprender a invertir sin riesgo: este es el proceso",
+        "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-valores-de-colombia-abre-ruta-para-aprender-a-invertir-sin-arriesgar-dinero-real-conozca-el-proceso-503754",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Bolsa de Valores de Colombia abre ruta para aprender a invertir sin arriesgar dinero real: conozca el proceso",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Fenavi regalará un millón de huevos a Bancos de Alimentos bajo la campaña Colombia se levanta con huevos",
+        "url": "https://www.portafolio.co/economia/agro/colombia-se-levanta-con-huevos-avicultores-de-fenavi-donaran-un-millon-de-huevos-a-bancos-de-alimentos-503751",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "'Colombia se levanta con huevos': avicultores de Fenavi donarán un millón de huevos a Bancos de Alimentos",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "JetSMART operará cinco vuelos semanales y sin escalas entre Medellín y Buenos Aires",
+        "url": "https://www.portafolio.co/economia/sin-escalas-y-cinco-veces-por-semana-asi-sera-la-nueva-ruta-de-jetsmart-entre-medellin-y-buenos-aires-503733",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Sin escalas y cinco veces por semana: así será la nueva ruta de JetSMART entre Medellín y Buenos Aires",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Gobierno advierte déficit de $148.391 millones y peligro operacional por crisis fiscal en RTVC",
+        "url": "https://www.portafolio.co/economia/gobierno/crisis-fiscal-en-rtvc-gobierno-reporta-deficit-de-148-391-millones-y-riesgo-sobre-la-operacion-503736",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Crisis fiscal en RTVC: Gobierno reporta déficit de $148.391 millones y riesgo sobre la operación",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "El dólar cae cerca de 1% tras decisión de Banrepública y la presión global frenaría al peso",
+        "url": "https://www.portafolio.co/economia/finanzas/caida-del-dolar-de-casi-1-tras-nueva-tasa-de-banrepublica-presion-internacional-sobre-el-peso-podria-frenarla-503732",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Caída del dólar de casi 1% tras nueva tasa de Banrepública: presión internacional sobre el peso podría frenarla",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Distrito ofrece descuento del 60% en intereses y multas para que deudores en Bogotá se pongan al día",
+        "url": "https://www.portafolio.co/economia/impuestos/bogota-busca-recuperar-cartera-con-alivio-del-60-en-intereses-y-sanciones-para-deudores-distritales-503731",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Bogotá busca recuperar cartera con alivio del 60% en intereses y sanciones para deudores distritales",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Arroz en crisis: Ejecutivo objeta 15 años de parafiscales y pide reformas",
+        "url": "https://www.portafolio.co/economia/agro/arroz-en-crisis-gobierno-cuestiona-resultados-de-15-anos-de-recursos-parafiscales-y-exige-cambios-503729",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Arroz en crisis: Gobierno cuestiona resultados de 15 años de recursos parafiscales y exige cambios",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "CUT Milagro genera fractura: gran parte del gremio apoya a De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/cut-milagro-desata-division-interna-11-de-sus-21-miembros-del-sindicato-plantean-nueva-correlacion-de-fuerzas-503730",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "'CUT Milagro' desata división interna: amplio sector del sindicato se muestra afín a políticas de De La Espriella",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "CUT dividida, dudas gremiales y nuevo Gobierno frente al salario mínimo de 2027",
+        "url": "https://www.portafolio.co/economia/empleo/como-estan-las-fuerzas-con-las-que-avanza-la-negociacion-del-salario-minimo-del-2027-estas-son-las-posturas-503726",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "CUT dividida, incertidumbre gremial y nuevo Gobierno: así están las fuerzas para la negociación del mínimo de 2027",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Bogotá tendrá Megaferia el 15 de octubre con 18.000 puestos y más de 180 firmas",
+        "url": "https://www.portafolio.co/economia/bogota-abre-una-megaferia-con-18-000-vacantes-y-mas-de-180-empresas-el-proximo-15-de-octubre-503727",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Bogotá abre una Megaferia con 18.000 vacantes y más de 180 empresas el próximo 15 de octubre",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Euro en Colombia cae este 2 de octubre y retorna cerca de los 3.700 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-baja-este-2-de-octubre-y-vuelve-a-acercarse-a-los-3-503725",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Euro hoy en Colombia baja este 2 de octubre y vuelve a acercarse a los $3.700",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Ana Lucía Pineda, primera dama, expone artesanías y proyectos de Colombia en París",
+        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-lleva-a-paris-emprendimientos-y-artesanias-colombianas-503722",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Primera dama, Ana Lucía Pineda, lleva a París emprendimientos y artesanías colombianas",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella ya colocó $8 billones en deuda pública y busca nuevas fuentes de recursos",
+        "url": "https://www.portafolio.co/economia/finanzas/gobierno-de-la-espriella-ya-ha-emitido-8-billones-de-deuda-publica-y-busca-nuevas-fuentes-de-financiacion-503718",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Gobierno De La Espriella ya ha emitido $8 billones de deuda pública y busca nuevas fuentes de financiación",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia sigue bajando y entró en el rango de los $3.200 tras alza de la tasa de interés",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-arranca-octubre-cerca-de-3-300-y-acumula-caida-de-11-38-en-503720",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Dólar en Colombia sugue cayendo y entró en la franja de los $3.200 tras aumento de la tasa de interés",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
       {
         "titulo": "Fernando Isaza Gutiérrez toma posesión oficial como presidente del Fondo Nacional de Garantías",
         "url": "https://www.portafolio.co/economia/gobierno/fernando-isaza-gutierrez-asume-oficialmente-la-presidencia-del-fondo-nacional-de-garantias-503706",
@@ -463,149 +603,99 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "Desempleo en Colombia llegó a 9,4% en agosto: así reaccionan los gremios",
         "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Banco de la República sube tasa de interés a 12,25% con alza de 25 pb",
-        "url": "https://www.portafolio.co/economia/finanzas/el-banco-de-la-republica-aumenta-la-tasa-de-interes-en-25-puntos-basicos-y-queda-en-12-503597",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "El Banco de la República aumenta la tasa de interés en 25 puntos básicos: queda en 12,25%",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Subsidio de arrendamiento en Bogotá hasta por $1,08 millones mensuales",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-abre-subsidio-de-arriendo-de-hasta-1-08-millones-al-mes-para-facilitar-compra-de-vivienda-asi-funciona-503595",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Bogotá abre subsidio de arriendo de hasta $1,08 millones al mes para facilitar compra de vivienda: así funciona",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Reclamaciones por supuestos daños del sismo del 10 de agosto suman $25.000 millones en rechazos",
-        "url": "https://www.portafolio.co/economia/regiones/hasta-ahora-se-han-rechazado-reclamaciones-por-25-000-millones-por-supuestos-danos-del-terremoto-del-10-de-agosto-503592",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Hasta ahora se han rechazado reclamaciones por $25.000 millones por supuestos daños del terremoto del 10 de agosto",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Banco de la República fija tasa de interés en primer encuentro con Gobierno De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-define-la-tasa-de-interes-primera-reunion-con-gobierno-de-la-espriella-503591",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Banco de la República define la tasa de interés: primera reunión con Gobierno De La Espriella",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "CAR evaluará permisos de agua a compañías y podría bajar volúmenes por peligro de escasez",
-        "url": "https://www.portafolio.co/economia/regiones/car-revisara-concesiones-de-agua-a-empresas-y-podra-reducir-caudales-por-riesgo-de-desabastecimiento-503588",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "CAR revisará concesiones de agua a empresas y podrá reducir caudales por riesgo de desabastecimiento",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Plazo fijado para la terminación del nuevo estadio El Campín en Bogotá",
-        "url": "https://www.portafolio.co/economia/infraestructura/nuevo-estadio-el-campin-de-bogota-ya-tiene-fecha-de-entrega-este-es-el-plazo-anunciado-para-su-construccion-503583",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Nuevo estadio El Campín, de Bogotá, ya tiene fecha de entrega: este es el plazo anunciado para su construcción",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Francia: oferta turística de Colombia genera expectativas por US$ 11 millones",
-        "url": "https://www.portafolio.co/economia/colombia-conquista-paris-su-oferta-turistica-desperto-expectativas-por-us-11-millones-en-la-gran-feria-de-francia-503522",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Colombia conquista París: su oferta turística despertó expectativas por US$ 11 millones en la gran feria de Francia",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Gustavo Morales encabeza la instalación de la Convención Internacional de Seguros 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/gustavo-morales-presidente-de-fasecolda-abre-la-convencion-internacional-de-seguros-503582",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Gustavo Morales, presidente de Fasecolda, abre la Convención Internacional de Seguros 2026",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Rueda de prensa en la Convención Internacional de Seguros 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/convencion-internacional-de-seguros-2026-rueda-de-prensa-503581",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Convención Internacional de Seguros 2026 | Rueda de Prensa",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Decreto del Gobierno sobre protestas facultaría a la Policía a intervenir durante el diálogo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-publica-proyecto-de-decreto-para-regular-protestas-policia-podria-actuar-mientras-continua-el-dialogo-503579",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Gobierno publica proyecto de decreto para regular protestas: Policía podría actuar mientras continúa el diálogo",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Estados Unidos desaconseja viajar a un departamento colombiano por riesgo de drones y violencia",
-        "url": "https://www.portafolio.co/economia/regiones/ee-uu-recomienda-no-viajar-a-este-departamento-de-colombia-por-grave-amenaza-de-ataques-con-drones-y-violencia-503578",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "EE. UU. recomienda no viajar a este departamento de Colombia por grave amenaza de ataques con drones y violencia",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Las opciones que el país analizaría con el FMI entre programa económico o Línea de Crédito Flexible",
-        "url": "https://www.portafolio.co/economia/linea-de-credito-flexible-o-programa-economico-las-alternativas-que-colombia-podria-evaluar-con-el-fmi-503576",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Línea de Crédito Flexible o programa económico: las alternativas que Colombia podría evaluar con el FMI",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "En agosto del 2026 la tasa de desocupación nacional llegó al 9,4% y vuelve a subir el desempleo",
-        "url": "https://www.portafolio.co/economia/vuelve-a-subir-el-desempleo-en-colombia-en-agosto-del-2026-la-tasa-de-desocupacion-nacional-llego-al-9-503574",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Vuelve a subir el desempleo en Colombia, en agosto del 2026 la tasa de desocupación nacional llegó al 9,4%",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Fedearroz pide al Gobierno refinanciar sus deudas ante la crisis por clima y bajos precios",
-        "url": "https://www.portafolio.co/economia/agro/arroceros-enfrentan-crisis-por-bajos-precios-y-clima-fedearroz-pide-al-gobierno-refinanciar-sus-deudas-503572",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Arroceros enfrentan crisis por bajos precios y clima: Fedearroz pide al Gobierno refinanciar sus deudas",
-        "capturado": "2026-09-30T11:40:01-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Intervención de Leonardo Villar, director del Banco de la República, en evento de Fasecolda",
+        "url": "https://www.portafolio.co/negocios/empresas/habla-leonardo-villar-gerente-banco-de-la-republica-en-fasecolda-503755",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Habla Leonardo Villar, Gerente Banco de la República en Fasecolda",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Motos de mayor venta en Colombia en septiembre: lidera Suzuki y Honda se le aproxima",
+        "url": "https://www.portafolio.co/negocios/vehiculo/estas-fueron-las-motos-mas-vendidas-en-colombia-durante-septiembre-suzuki-quedo-de-primera-y-honda-se-acerca-503750",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Estas fueron las motos más vendidas en Colombia durante septiembre: Suzuki quedó de primera y Honda se acerca",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Analistas evalúan los actuales retos y desafíos del mercado asegurador colombiano",
+        "url": "https://www.portafolio.co/negocios/empresas/cuales-son-los-retos-del-sector-asegurados-en-colombia-expertos-analizan-los-desafios-actuales-503749",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "¿Cuales son los retos del sector asegurados en Colombia? Expertos analizan los desafíos actuales",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Myka, la marca viral de yogur griego, inicia su expansión en territorio colombiano",
+        "url": "https://www.portafolio.co/negocios/empresas/myka-la-cadena-de-yogur-griego-que-se-volvio-viral-se-empieza-a-expandir-en-colombia-503747",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Myka, la cadena de yogur griego que se volvió viral, se empieza a expandir en Colombia",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Sancionan al Hospital Universitario de Santander con $558 millones por sobrecostos en 37 fármacos",
+        "url": "https://www.portafolio.co/negocios/empresas/hospital-universitario-de-santander-recibe-multa-de-558-millones-por-cobrar-de-mas-en-37-medicamentos-regulados-503738",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Hospital Universitario de Santander recibe multa de $558 millones por cobrar de más en 37 medicamentos regulados",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Diálogo sobre el contexto de Colombia frente a la complejidad de la era moderna",
+        "url": "https://www.portafolio.co/negocios/empresas/conversemos-colombia-en-la-complejidad-de-la-era-contemporanea-503739",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Conversemos: Colombia en la complejidad de la era contemporánea",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Gobierno y Bavaria destinan $12.000 millones para la Ruta Milagro que auxiliará 3.500 negocios pos-sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/12-000-millones-entre-el-gobierno-y-bavaria-para-nueva-ruta-milagro-apoyaran-a-3-500-negocios-tras-el-terremoto-503735",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "$12.000 millones entre el Gobierno y Bavaria para nueva 'Ruta Milagro': apoyarán a 3.500 negocios tras el terremoto",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Mario Hernández recorre las calles impulsando la campaña El primer tinto lo invito yo",
+        "url": "https://www.portafolio.co/negocios/empresas/el-primer-tinto-lo-invito-yo-mario-hernandez-sale-a-las-calles-con-esta-iniciativa-503728",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "'El primer tinto lo invito yo': Mario Hernández sale a las calles con esta iniciativa",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
+      {
+        "titulo": "Fundación Santo Domingo y Tiendas D1 entregan $20.000 millones más para hogares damnificados por el sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/tiendas-d1-y-fundacion-santo-domingo-aportan-20-000-millones-adicionales-para-familias-afectadas-por-el-terremoto-503721",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Tiendas D1 y Fundación Santo Domingo aportan $20.000 millones adicionales para familias afectadas por el terremoto",
+        "capturado": "2026-10-02T11:29:49-05:00"
+      },
       {
         "titulo": "Gobierno prepara garantías jurídicas y beneficios fiscales para captar nueva inversión nacional",
         "url": "https://www.portafolio.co/negocios/inversion/gobierno-alista-incentivos-tributarios-y-estabilidad-juridica-para-atraer-nueva-inversion-al-pais-503707",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Nvidia destrona a Apple con la mayor recompra de acciones de la historia: US$150.000 millones",
         "capturado": "2026-09-29T15:07:27-05:00"
-      },
-      {
-        "titulo": "El sector plástico crea el centro i4Plas para impulsar su actualización digital",
-        "url": "https://www.portafolio.co/negocios/industrias/industria-plastica-lanza-el-centro-i4plas-para-acelerar-su-modernizacion-tecnologica-503437",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Industria plástica lanza el centro i4Plas para acelerar su modernización tecnológica",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Perspectivas rumbo al quincuagésimo primer Congreso Nacional de Colfecar 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/expectativas-para-el-51-congreso-nacional-de-colfecar-503473",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Expectativas para el 51° Congreso Nacional de Colfecar 2026",
-        "capturado": "2026-09-29T10:22:45-05:00"
-      },
-      {
-        "titulo": "Vélez inaugura en Panamá su tienda insignia más grande en América Latina",
-        "url": "https://www.portafolio.co/negocios/empresas/velez-abre-en-panama-su-flagship-mas-grande-de-latinoamerica-503447",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Vélez abre en Panamá su flagship más grande de Latinoamérica",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Gobierno prohíbe productos de trabajo forzoso y habilita revisión de arancel de EE. UU.",
-        "url": "https://www.portafolio.co/negocios/comercio/gobierno-prohibe-bienes-hechos-con-trabajo-forzoso-y-abre-via-para-revisar-arancel-de-ee-uu-503445",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Gobierno prohíbe bienes hechos con trabajo forzoso y abre vía para revisar arancel de EE. UU.",
-        "capturado": "2026-09-28T21:10:24-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito incursiona con doble red para expandir su servicio de telefonía celular en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-ahora-apuesta-a-dos-redes-para-ampliar-su-negocio-de-telefonia-movil-en-el-pais-503434",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Grupo Éxito ahora apuesta a dos redes para ampliar su negocio de telefonía móvil en el país",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Concesionarios solicitan reducir el IVA vehicular y suprimir tributos para actualizar la flota",
-        "url": "https://www.portafolio.co/negocios/vehiculo/concesionarios-piden-bajar-el-iva-de-los-carros-y-eliminar-impuestos-para-renovar-el-parque-automotor-503430",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Concesionarios piden bajar el IVA de los carros y eliminar impuestos para renovar el parque automotor",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Theatron alberga cerca de 6000 asistentes un sábado según el relato sobre el club bogotano",
-        "url": "https://www.portafolio.co/negocios/theatron-un-sabado-perfectamente-puede-tener-6-000-personas-la-historia-detras-de-la-famosa-discoteca-en-bogota-503404",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "'Theatron un sábado perfectamente puede tener 6.000 personas': la historia detrás de la famosa discoteca en Bogotá",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "Coosalud reporta desembolso superior a un billón de pesos a prestadores bajo toma de posesión",
-        "url": "https://www.portafolio.co/negocios/empresas/coosalud-anuncia-inyeccion-de-mas-de-1-billon-a-su-red-de-prestadores-durante-la-intervencion-administrativa-503425",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Coosalud anuncia inyección de más de $1 billón a su red de prestadores durante la intervención administrativa",
-        "capturado": "2026-09-28T17:24:33-05:00"
-      },
-      {
-        "titulo": "650 establecimientos Oxxo integran servicios financieros de Puntored además de sus ventas",
-        "url": "https://www.portafolio.co/negocios/empresas/mas-que-compras-650-tiendas-oxxo-ya-permiten-realizar-operaciones-financieras-con-puntored-503424",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Más que compras: 650 tiendas Oxxo ya permiten realizar operaciones financieras con Puntored",
-        "capturado": "2026-09-28T17:24:33-05:00"
       }
     ]
   }
