@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-03T13:46:30-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-03T16:59:04-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Ejecutivo presentará reparos al Legislativo para modificar el pacto de extradición con Francia",
+        "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-llevara-observaciones-al-congreso-para-actualizar-el-tratado-de-extradicion-con-francia-503832",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "El Gobierno llevará observaciones al Congreso para actualizar el tratado de extradición con Francia",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
+      {
+        "titulo": "Ejecutivo presenta traslado de 1,2 billones de pesos para asegurar la energía en el Caribe",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-radica-traslado-de-1-2-billones-para-blindar-la-energia-en-el-caribe-503830",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Gobierno radica traslado de $1,2 billones para blindar la energía en el Caribe",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
+      {
+        "titulo": "Declaración de renta 2026: si su cédula finaliza en estos números debe declarar en estos días",
+        "url": "https://www.portafolio.co/economia/impuestos/declaracion-de-renta-2026-si-su-cedula-termina-en-estos-digitos-tiene-que-declarar-esta-semana-503828",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Declaración de renta 2026: si su cédula termina en estos dígitos tiene que declarar esta semana",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
+      {
+        "titulo": "Pasajes sin costo de TransMilenio en octubre: conozca los beneficiarios y la activación del subsidio",
+        "url": "https://www.portafolio.co/economia/gobierno/pasajes-gratis-de-transmilenio-en-octubre-estos-son-los-beneficiarios-y-como-activar-el-subsidio-503825",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Pasajes gratis de TransMilenio en octubre: estos son los beneficiarios y cómo activar el subsidio",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
+      {
+        "titulo": "Nuevas rutas internacionales del Gobierno De La Espriella: Mincomercio informa vuelo Barranquilla-Nueva York",
+        "url": "https://www.portafolio.co/economia/gobierno/las-nuevas-rutas-internacionales-del-gobierno-de-la-espriella-mincomercio-anuncia-conexion-barranquilla-nueva-york-503824",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Las nuevas rutas internacionales del Gobierno De La Espriella: Mincomercio anuncia conexión Barranquilla-Nueva York",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
       {
         "titulo": "Supuestas anomalías motivaron la salida del jefe de Bomberos, designado recientemente por De La Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/las-presuntas-irregularidades-que-causaron-la-salida-del-director-de-bomberos-recien-nombrado-por-de-la-espriella-503821",
@@ -553,59 +603,29 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "BTS en Bogotá: TransMilenio activa ocho rutas especiales por conciertos este 2 y 3 de octubre",
         "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Exclusiva: este es el calendario y las directrices del Plan Nacional de Desarrollo de De La Espriella",
-        "url": "https://www.portafolio.co/economia/primicia-estos-son-los-lineamientos-y-el-cronograma-del-plan-nacional-de-desarrollo-de-de-la-espriella-503689",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo, constanza gomez guasca",
-        "subseccion": "",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Primicia: estos son los lineamientos y el cronograma del Plan Nacional de Desarrollo de De La Espriella",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: Ejecutivo, gremios y empleados pactan ruta de trabajo de la comisión tripartita",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-gobierno-empresarios-y-centrales-obreras-acuerdan-hoja-de-ruta-y-fechas-para-la-concertacion-503692",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Salario mínimo 2027: Gobierno, empresarios y trabajadores acuerdan hoja de ruta de la mesa tripartita",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Barranquilla aportará 40000 millones propios para destrabar las obras del terminal aéreo Ernesto Cortissoz",
-        "url": "https://www.portafolio.co/economia/infraestructura/barranquilla-pondra-40-000-millones-de-su-bolsillo-para-destrabar-las-obras-del-aeropuerto-ernesto-cortissoz-503683",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Barranquilla pondrá $40.000 millones de su bolsillo para destrabar las obras del aeropuerto Ernesto Cortissoz",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "BBVA Seguros Colombia proyecta sufragar 320000 millones en compensaciones por estragos del sismo",
-        "url": "https://www.portafolio.co/economia/regiones/bbva-seguros-colombia-estima-pagar-indemnizaciones-por-320-000-millones-por-danos-del-terremoto-503684",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "BBVA Seguros Colombia estima pagar indemnizaciones por $320.000 millones por daños del terremoto",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "UNP alerta déficit de 1,08 billones para funcionar en 2027 y asegurar esquemas de seguridad",
-        "url": "https://www.portafolio.co/economia/gobierno/unp-advierte-faltante-de-1-08-billones-para-operar-en-2027-y-garantizar-esquemas-de-proteccion-503681",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "UNP advierte faltante de $1,08 billones para operar en 2027 y garantizar esquemas de protección",
-        "capturado": "2026-10-01T18:41:32-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Salitre Mágico abrió el undécimo Festival del Terror: conozca las nuevas atracciones y casas espeluznantes",
+        "url": "https://www.portafolio.co/negocios/empresas/salitre-magico-inauguro-el-11-festival-del-terror-estas-son-las-casas-del-terror-y-las-novedades-de-esta-edicion-503831",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Salitre Mágico inauguró el 11° Festival del Terror: estas son las casas del terror y las novedades de esta edición",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
+      {
+        "titulo": "El desafío de los carros eléctricos en el país: un punto de carga público por cada 148 automotores",
+        "url": "https://www.portafolio.co/negocios/vehiculo/el-reto-de-los-vehiculos-electricos-en-colombia-solo-hay-un-cargador-publico-por-cada-148-vehiculos-503829",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "El reto de los vehículos eléctricos en Colombia: Solo hay un cargador público por cada 148 vehículos",
+        "capturado": "2026-10-03T16:59:04-05:00"
+      },
       {
         "titulo": "Este es el paso a paso y el tiempo límite para la devolución del IVA en vehículos híbridos o eléctricos",
         "url": "https://www.portafolio.co/negocios/vehiculo/este-es-el-plazo-y-el-proceso-para-que-le-devuelvan-el-iva-si-compro-un-carro-hibrido-o-electrico-503819",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Estados Unidos financiará un gran centro de datos para la IA y red de fibra óptica en Colombia",
         "capturado": "2026-09-29T23:08:46-05:00"
-      },
-      {
-        "titulo": "Parque acuático del centro colombiano obtuvo una distinción ambiental",
-        "url": "https://www.portafolio.co/negocios/empresas/este-reconocido-parque-acuatico-del-centro-del-pais-recibio-un-reconocimiento-ambiental-503535",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Este reconocido parque acuático del centro del país recibió un reconocimiento ambiental",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Movet destinará $6.000 millones para abrir tres sedes en Antioquia",
-        "url": "https://www.portafolio.co/negocios/empresas/la-veterinaria-movet-acelera-su-expansion-en-colombia-invertira-6-000-millones-en-tres-nuevas-sedes-en-antioquia-503541",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "La veterinaria Movet acelera su expansión en Colombia: invertirá $6.000 millones en tres nuevas sedes en Antioquia",
-        "capturado": "2026-09-29T18:52:35-05:00"
       }
     ]
   }
