@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-02T19:10:12-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-03T00:35:10-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El presupuesto de regalías para 2027-2028 alcanzaría los $27,54 billones, registrando una caída del 11%",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-regalias-2027-2028-seria-de-27-54-billones-11-menos-503793",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Presupuesto de regalías 2027-2028 sería de $27,54 billones, 11% menos",
+        "capturado": "2026-10-03T00:35:10-05:00"
+      },
+      {
+        "titulo": "Fedearroz contesta al jefe de la cartera de Agricultura acerca de Col Rice y los dineros parafiscales",
+        "url": "https://www.portafolio.co/economia/gobierno/fedearroz-responde-al-ministro-de-agricultura-sobre-recursos-parafiscales-y-col-rice-503792",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Fedearroz responde al ministro de Agricultura sobre recursos parafiscales y Col Rice",
+        "capturado": "2026-10-03T00:35:10-05:00"
+      },
+      {
+        "titulo": "Kristal Mall, la megaobra que supera el billón de pesos y se instalará en el Gran Malecón barranquillero",
+        "url": "https://www.portafolio.co/economia/regiones/kristal-mall-el-megaproyecto-de-mas-de-1-billon-que-llegara-al-gran-malecon-de-barranquilla-503791",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Kristal Mall: el megaproyecto de más de $1 billón que llegará al Gran Malecón de Barranquilla",
+        "capturado": "2026-10-03T00:35:10-05:00"
+      },
+      {
+        "titulo": "Tania Gilinski asumió el cargo de embajadora colombiana en Israel y este es su perfil profesional",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-es-tania-gilinski-la-nueva-embajadora-de-colombia-en-israel-503790",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-02",
+        "titulo_fuente": "Tania Gilinski se posesionó como la nueva embajadora de Colombia en Israel: esta es su hoja de vida",
+        "capturado": "2026-10-03T00:35:10-05:00"
+      },
       {
         "titulo": "ANI destraba operación férrea: pacto con Fenoco y 2,6 billones de pesos para La Dorada – Chiriguaná",
         "url": "https://www.portafolio.co/economia/gobierno/ani-destraba-la-operacion-ferrea-acuerdo-con-fenoco-y-2-6-billones-para-la-dorada-chiriguana-503788",
@@ -563,46 +603,6 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "Uno de cada cuatro jóvenes de 18 a 24 años en Colombia es 'nini', no estudia ni trabaja, el doble de la Ocde",
         "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Bogotá baja su desocupación, mas la creación de puestos varía según cada actividad",
-        "url": "https://www.portafolio.co/economia/empleo/bogota-reduce-el-desempleo-pero-el-empleo-muestra-comportamientos-distintos-entre-sectores-economicos-503655",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Bogotá reduce el desempleo, pero el empleo muestra comportamientos distintos entre sectores económicos",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "El Gobierno plantea modificaciones a la protesta social y así cambiaría el Decreto 003",
-        "url": "https://www.portafolio.co/economia/gobierno/se-conocen-los-cambios-que-el-gobierno-propone-para-la-protesta-social-asi-se-modificaria-el-decreto-503648",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Se conocen los cambios que el Gobierno propone para la protesta social: así se modificaría el Decreto 003",
-        "capturado": "2026-10-01T09:12:23-05:00"
-      },
-      {
-        "titulo": "Semana de receso: aeropuertos moverán 2,1 millones de viajeros, 3,56 % más que en 2025",
-        "url": "https://www.portafolio.co/economia/viajes-en-la-semana-de-receso-aeropuertos-movilizaran-2-1-millones-de-pasajeros-3-56-mas-que-en-503642",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Viajes en la semana de receso: Aeropuertos movilizarán 2,1 millones de pasajeros, 3,56 % más que en 2025",
-        "capturado": "2026-10-01T09:12:23-05:00"
-      },
-      {
-        "titulo": "Iván Duque sugiere ampliar base gravable y revisar IVA mediante un pacto fiscal nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/ivan-duque-propone-ampliar-la-base-tributaria-y-plantea-un-pacto-fiscal-para-el-pais-503649",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Expresidente Iván Duque propone ampliar la base tributaria y revisar el IVA: plantea un pacto fiscal para el país",
-        "capturado": "2026-10-01T09:12:23-05:00"
       }
     ],
     "Negocios": [
