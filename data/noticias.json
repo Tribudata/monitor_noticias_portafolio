@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-03T06:09:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-03T10:11:32-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Asocapitales advierte que 31 ciudades enfrentan peligros altos o críticos para sostener su sistema de salud",
+        "url": "https://www.portafolio.co/economia/gobierno/asocapitales-alerta-31-capitales-reportan-riesgos-altos-o-criticos-para-la-continuidad-de-su-sistema-de-salud-503804",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Asocapitales alerta: 31 capitales reportan riesgos altos o críticos para la continuidad de su sistema de salud",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
+      {
+        "titulo": "RTVC registra un faltante de $148.391 millones y se cuestiona si la radio pública está en peligro",
+        "url": "https://www.portafolio.co/economia/gobierno/rtvc-tiene-un-deficit-de-148-391-millones-esta-en-riesgo-la-radio-publica-503808",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "RTVC tiene un déficit de $148.391 millones: ¿está en riesgo la radio pública?",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
+      {
+        "titulo": "Dólar bajó cerca de $80 en la semana y perdió valor ante el peso tras la subida de la tasa de interés",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-perdio-casi-80-durante-la-semana-y-cedio-terreno-frente-al-peso-luego-del-aumento-de-la-tasa-de-interes-503796",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Dólar perdió casi $80 durante la semana y cedió terreno frente al peso luego del aumento de la tasa de interés",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
       {
         "titulo": "El presupuesto de regalías para 2027-2028 alcanzaría los $27,54 billones, registrando una caída del 11%",
         "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-regalias-2027-2028-seria-de-27-54-billones-11-menos-503793",
@@ -573,39 +603,39 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "'Espero que contribuya a recuperar el trabajo entre Gobierno y empresarios': Bruce Mac Master tras salir de la Andi",
         "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master deja la presidencia de la Andi tras una semana de presuntos apremios al gremio",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-bruce-mac-master-renuncia-a-la-presidencia-de-la-andi-503663",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez, julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Bruce Mac Master renuncia a la presidencia de la Andi, tras una semana de supuestas presiones sobre la agremiación",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Fasecolda solicita al Gobierno instaurar un modelo mixto de aseguramiento en el país",
-        "url": "https://www.portafolio.co/economia/regiones/fasecolda-le-pide-al-gobierno-poner-en-marcha-un-esquema-publico-privado-de-aseguramiento-en-colombia-503658",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Fasecolda le pide al gobierno poner en marcha un esquema público-privado de aseguramiento en Colombia",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Un 25 % de colombianos entre 18 y 24 años ni labora ni estudia, el doble que en la Ocde",
-        "url": "https://www.portafolio.co/economia/uno-de-cada-cuatro-jovenes-de-18-a-24-anos-en-colombia-es-nini-no-estudia-ni-trabaja-el-doble-de-la-ocde-503651",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Uno de cada cuatro jóvenes de 18 a 24 años en Colombia es 'nini', no estudia ni trabaja, el doble de la Ocde",
-        "capturado": "2026-10-01T14:41:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nueva herramienta ya conecta pagos con Bre-B entre Colombia y Venezuela: así podrán enviarse dinero",
+        "url": "https://www.portafolio.co/negocios/empresas/nueva-herramienta-ya-conecta-pagos-con-bre-b-entre-colombia-y-venezuela-asi-podran-enviarse-dinero-503803",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Nueva herramienta ya conecta pagos con Bre-B entre Colombia y Venezuela: así podrán enviarse dinero",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
+      {
+        "titulo": "Alza del 217% en carros eléctricos en Colombia eleva demanda de carga y requerirá 20.000 puntos para 2030",
+        "url": "https://www.portafolio.co/negocios/vehiculo/carros-electricos-en-colombia-crecen-217-y-disparan-la-demanda-de-puntos-de-carga-se-necesitaran-20-000-en-503810",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Carros eléctricos en Colombia crecen 217% y disparan la demanda de puntos de carga: se necesitarán 20.000 en 2030",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
+      {
+        "titulo": "Makro ofrece rebajas de hasta el 50% por la semana de receso en productos vigentes hasta el 8 de octubre",
+        "url": "https://www.portafolio.co/negocios/empresas/descuentos-de-hasta-50-en-makro-por-semana-de-receso-estos-son-los-productos-rebajados-hasta-el-8-de-octubre-503807",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Descuentos de hasta 50% en Makro por semana de receso: estos son los productos rebajados hasta el 8 de octubre",
+        "capturado": "2026-10-03T10:11:32-05:00"
+      },
       {
         "titulo": "Koaj señala que es arrendataria y ajena al proceso de extinción de dominio en Bogotá",
         "url": "https://www.portafolio.co/negocios/empresas/koaj-aclara-que-es-arrendataria-y-no-hace-parte-del-proceso-de-extincion-de-dominio-en-bogota-502964",
@@ -1174,36 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-09-29",
         "titulo_fuente": "Más de la mitad de los trabajadores creen que los beneficios laborales no cubren sus necesidades, según estudio",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Acopi señala que microempresas y grandes firmas tienen iguales deberes fiscales",
-        "url": "https://www.portafolio.co/negocios/empresas/una-microempresa-tiene-las-mismas-obligaciones-tributarias-que-una-gran-empresa-y-eso-no-puede-ser-acopi-503515",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "\"Una microempresa tiene las mismas obligaciones tributarias que una gran empresa y eso no puede ser\": Acopi",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Firma australiana construirá uno de los centros auditivos mayores de la región en Bogotá",
-        "url": "https://www.portafolio.co/negocios/inversion/bogota-tendra-uno-de-los-centros-auditivos-mas-grandes-de-america-gracias-a-empresa-australiana-como-sera-503523",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Bogotá tendrá uno de los centros auditivos más grandes de América gracias a empresa australiana: ¿cómo será?",
-        "capturado": "2026-09-29T18:52:35-05:00"
-      },
-      {
-        "titulo": "Directivo de Latam señala incremento en tarifas de vuelos por coste mayor de combustibles",
-        "url": "https://www.portafolio.co/negocios/empresas/ceo-de-latam-advierte-que-los-tiquetes-aereos-estan-subiendo-debido-al-alza-de-los-precios-de-combustibles-503513",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "CEO de Latam advierte que los tiquetes aéreos están subiendo debido al alza de los precios de combustibles",
         "capturado": "2026-09-29T18:52:35-05:00"
       }
     ]
