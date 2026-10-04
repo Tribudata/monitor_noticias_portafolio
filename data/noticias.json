@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-04T07:44:17-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-04T12:18:16-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Marval lanza en Soho 26 los papeles de obra con los que Bogotá recaudó $41.987 millones en puja",
+        "url": "https://www.portafolio.co/economia/infraestructura/marval-estrena-en-soho-26-los-certificados-de-construccion-con-los-que-bogota-recaudo-41-987-millones-en-subasta-503848",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Marval estrena en Soho 26 los certificados de construcción con los que Bogotá recaudó $41.987 millones en subasta",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "Galardón Nacional de Construcción al Ecoparque Mallorquín en Barranquilla, obra que arrancó con Jaime Pumarejo",
+        "url": "https://www.portafolio.co/economia/infraestructura/premio-nacional-de-arquitectura-para-ecoparque-mallorquin-en-barranquilla-proyecto-iniciado-con-jaime-pumarejo-503847",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Premio Nacional de Arquitectura para Ecoparque Mallorquín en Barranquilla, proyecto iniciado con Jaime Pumarejo",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "Turistas en semana de receso: así funcionarán las rutas, los peajes y los operativos en las vías nacionales",
+        "url": "https://www.portafolio.co/economia/gobierno/viajeros-en-semana-de-receso-asi-operaran-las-vias-los-peajes-y-los-controles-en-las-carreteras-del-pais-503846",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Viajeros en semana de receso: así operarán las vías, los peajes y los controles en las carreteras del país",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "$7.000 millones de Fontur en Córdoba: el capital que financia la nueva ruta externa de Satena",
+        "url": "https://www.portafolio.co/economia/7-000-millones-de-fontur-en-cordoba-la-inversion-que-respalda-el-nuevo-vuelo-internacional-de-satena-503844",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "$7.000 millones de Fontur en Córdoba: la inversión que respalda el nuevo vuelo internacional de Satena",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "La connacional Diana Trujillo ya lo alcanzó: la Nasa requiere más jefes de vuelo para sus viajes a la Luna y Marte",
+        "url": "https://www.portafolio.co/economia/la-colombiana-diana-trujillo-ya-lo-logro-la-nasa-busca-mas-directores-de-vuelo-para-sus-misiones-a-la-luna-y-marte-503839",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "La colombiana Diana Trujillo ya lo logró: la Nasa busca más directores de vuelo para sus misiones a la Luna y Marte",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "De La Espriella revela ofensiva contra la corrupción y citó episodios de Unipamplona y el jefe de Bomberos",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncia-ofensiva-anticorrupcion-y-menciono-casos-de-unipamplona-y-el-director-de-bomberos-503838",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "De La Espriella anuncia ofensiva anticorrupción y mencionó casos de Unipamplona y el director de Bomberos",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
+      {
+        "titulo": "El sueldo de Abelardo De La Espriella como presidente fue donado por segunda vez a dos causas en Montería",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-entrego-su-segundo-salario-como-presidente-destino-el-dinero-a-dos-causas-en-monteria-503837",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Abelardo De La Espriella entregó su segundo salario como presidente: destinó el dinero a dos causas en Montería",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
       {
         "titulo": "El Ejecutivo presentará reparos al Legislativo para modificar el pacto de extradición con Francia",
         "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-llevara-observaciones-al-congreso-para-actualizar-el-tratado-de-extradicion-con-francia-503832",
@@ -533,79 +603,19 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "Agencia Nacional de Tierras cerraría el año con más de $200.000 millones de inversión sin ejecutar",
         "capturado": "2026-10-01T23:13:47-05:00"
-      },
-      {
-        "titulo": "Voceros de cuatro sectores económicos discuten el porvenir ante el progreso de las aseguradoras",
-        "url": "https://www.portafolio.co/economia/finanzas/representantes-de-cuatro-actividades-economicas-hablan-del-futuro-frente-a-los-avances-del-sector-asegurador-503704",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Representantes de cuatro actividades económicas hablan del futuro frente a los avances del sector asegurador",
-        "capturado": "2026-10-01T23:13:47-05:00"
-      },
-      {
-        "titulo": "ANI arranca obras de 10 km de carretera alterna hacia Buenaventura para optimizar la entrada al puerto",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-inicia-construccion-de-10-km-de-via-alterna-a-buenaventura-para-mejorar-acceso-al-puerto-503701",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "ANI inicia construcción de 10 km de vía alterna a Buenaventura para mejorar acceso al puerto",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027: Ministerio de Hacienda objeta solicitudes de más fondos sin respaldo financiero",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-minhacienda-cuestiona-pedidos-de-mas-recursos-sin-fuentes-de-financiacion-503700",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Presupuesto 2027: Minhacienda cuestiona pedidos de más recursos sin fuentes de financiación",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Vicepresidencia propondrá al SENA capacitar choferes de carga y otorgarles pase de conducción gratis",
-        "url": "https://www.portafolio.co/economia/vicepresidente-llevara-al-sena-la-propuesta-de-formar-conductores-de-carga-y-entregarles-la-licencia-gratuita-503677",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Vicepresidente llevará al SENA la propuesta de formar conductores de carga y entregarles la licencia gratuita",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Montería tendrá vuelo directo a Panamá con Satena y un trayecto aéreo inferior a una hora",
-        "url": "https://www.portafolio.co/economia/regiones/monteria-estrenara-vuelo-directo-a-panama-con-satena-y-conexion-aerea-de-menos-de-una-hora-503695",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Montería estrenará vuelo directo a Panamá con Satena y conexión aérea de menos de una hora",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Bloqueos suman 12,9 billones de pesos: gremios solicitan al Ejecutivo carreteras libres",
-        "url": "https://www.portafolio.co/economia/bloqueos-ya-cuestan-12-9-billones-colfecar-fenavi-fenalcarbon-y-analdex-piden-al-gobierno-vias-despejadas-503657",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Bloqueos ya cuestan $12,9 billones: Colfecar, Fenavi, Fenalcarbón y Analdex piden al Gobierno vías despejadas",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Conciertos de BTS en Bogotá: TransMilenio habilita ocho trayectos especiales este 2 y 3 de octubre",
-        "url": "https://www.portafolio.co/economia/regiones/bts-en-bogota-transmilenio-activa-ocho-rutas-especiales-por-conciertos-este-2-y-3-de-octubre-503693",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "BTS en Bogotá: TransMilenio activa ocho rutas especiales por conciertos este 2 y 3 de octubre",
-        "capturado": "2026-10-01T18:41:32-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "['Tres firmas de San Victorino participarán en la Semana de la Moda de París']",
+        "url": "https://www.portafolio.co/negocios/empresas/disenadores-del-san-victorino-estaran-en-la-semana-de-la-moda-de-paris-estas-son-las-tres-marcas-503841",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Diseñadores del San Victorino estarán en la Semana de la Moda de París: estas son las tres marcas",
+        "capturado": "2026-10-04T12:18:16-05:00"
+      },
       {
         "titulo": "Variaciones del cooperativismo colombiano: activos por $65,9 billones y cartera superior a $20 billones",
         "url": "https://www.portafolio.co/negocios/empresas/cooperativas-en-colombia-movimientos-de-un-sector-con-65-9-billones-en-activos-y-mas-de-20-billones-en-cartera-503834",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-30",
         "titulo_fuente": "Se mueve el mercado de servicios corporativos: Pluxee busca adquirir cartera de clientes de Big Pass",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Nueva adquisición del Grupo Nutresa de Jaime Gilinski fortalece su posición en el mercado nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-de-jaime-gilinski-compro-otra-empresa-y-refuerza-su-poderio-en-colombia-503554",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Grupo Nutresa, de Jaime Gilinski, compra otra empresa en Colombia y refuerza su poderío en el país",
         "capturado": "2026-09-30T11:40:01-05:00"
       }
     ]
