@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-03T16:59:04-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-03T19:28:47-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Variaciones del cooperativismo colombiano: activos por $65,9 billones y cartera superior a $20 billones",
+        "url": "https://www.portafolio.co/negocios/empresas/cooperativas-en-colombia-movimientos-de-un-sector-con-65-9-billones-en-activos-y-mas-de-20-billones-en-cartera-503834",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Cooperativas en Colombia: movimientos de un sector con $65,9 billones en activos y más de $20 billones en cartera",
+        "capturado": "2026-10-03T19:28:47-05:00"
+      },
+      {
         "titulo": "Salitre Mágico abrió el undécimo Festival del Terror: conozca las nuevas atracciones y casas espeluznantes",
         "url": "https://www.portafolio.co/negocios/empresas/salitre-magico-inauguro-el-11-festival-del-terror-estas-son-las-casas-del-terror-y-las-novedades-de-esta-edicion-503831",
         "resumen": "",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "Grupo Nutresa, de Jaime Gilinski, compra otra empresa en Colombia y refuerza su poderío en el país",
         "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "EEUU aportará recursos para un extenso centro de datos de IA y red de fibra óptica en Colombia",
-        "url": "https://www.portafolio.co/negocios/inversion/estados-unidos-financiara-un-gran-centro-de-datos-para-la-ia-y-red-de-fibra-optica-en-colombia-503550",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Inversion",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Estados Unidos financiará un gran centro de datos para la IA y red de fibra óptica en Colombia",
-        "capturado": "2026-09-29T23:08:46-05:00"
       }
     ]
   }
