@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-04T15:20:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-04T18:28:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De la Espriella apoya a Flávio Bolsonaro en Brasil",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-respalda-a-flavio-bolsonaro-en-brasil-503869",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "De la Espriella respalda a Flávio Bolsonaro en Brasil",
+        "capturado": "2026-10-04T18:28:21-05:00"
+      },
+      {
+        "titulo": "Retos de las aseguradoras: tecnología y atención humana",
+        "url": "https://www.portafolio.co/economia/finanzas/tecnologia-y-atencion-humana-los-retos-del-sector-asegurador-503868",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Tecnología y atención humana, los retos del sector asegurador",
+        "capturado": "2026-10-04T18:28:21-05:00"
+      },
+      {
+        "titulo": "Colombia alcanza 39.000 hectáreas de aguacate Hass y busca mayor productividad para 2027",
+        "url": "https://www.portafolio.co/economia/colombia-supera-las-39-000-hectareas-de-aguacate-hass-y-apunta-a-mayor-productividad-en-503861",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Colombia supera las 39.000 hectáreas de aguacate Hass y apunta a mayor productividad en 2027",
+        "capturado": "2026-10-04T18:28:21-05:00"
+      },
       {
         "titulo": "Las salas VIP en Colombia transforman los aeropuertos en espacios de entretenimiento",
         "url": "https://www.portafolio.co/economia/aeropuertos-un-negocio-que-paso-a-ofrecer-entretenimiento-asi-cambian-las-salas-vip-en-colombia-503858",
@@ -573,39 +603,19 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "Primera dama, Ana Lucía Pineda, lleva a París emprendimientos y artesanías colombianas",
         "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella ya colocó $8 billones en deuda pública y busca nuevas fuentes de recursos",
-        "url": "https://www.portafolio.co/economia/finanzas/gobierno-de-la-espriella-ya-ha-emitido-8-billones-de-deuda-publica-y-busca-nuevas-fuentes-de-financiacion-503718",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Gobierno De La Espriella ya ha emitido $8 billones de deuda pública y busca nuevas fuentes de financiación",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia sigue bajando y entró en el rango de los $3.200 tras alza de la tasa de interés",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-arranca-octubre-cerca-de-3-300-y-acumula-caida-de-11-38-en-503720",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Dólar en Colombia sugue cayendo y entró en la franja de los $3.200 tras aumento de la tasa de interés",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Fernando Isaza Gutiérrez toma posesión oficial como presidente del Fondo Nacional de Garantías",
-        "url": "https://www.portafolio.co/economia/gobierno/fernando-isaza-gutierrez-asume-oficialmente-la-presidencia-del-fondo-nacional-de-garantias-503706",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Fernando Isaza Gutiérrez asume oficialmente la presidencia del Fondo Nacional de Garantías",
-        "capturado": "2026-10-01T23:13:47-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Aterriza en Colombia inédita camioneta híbrida 4x4 de 900 HP: los detalles de la Jetour G700",
+        "url": "https://www.portafolio.co/negocios/vehiculo/llega-a-colombia-nueva-suv-todoterreno-hibrida-de-900-caballos-de-fuerza-las-caracteristicas-de-la-jetour-g700-503855",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Llega a Colombia nueva SUV todoterreno híbrida de 900 caballos de fuerza: las características de la Jetour G700",
+        "capturado": "2026-10-04T18:28:21-05:00"
+      },
       {
         "titulo": "['Tres firmas de San Victorino participarán en la Semana de la Moda de París']",
         "url": "https://www.portafolio.co/negocios/empresas/disenadores-del-san-victorino-estaran-en-la-semana-de-la-moda-de-paris-estas-son-las-tres-marcas-503841",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-30",
         "titulo_fuente": "Ya hay fecha del fin: hasta el 31 de octubre, el Arena de Bogotá llevará el nombre de Movistar",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Pluxee pretende comprar la cartera de clientes de Big Pass en el mercado de servicios corporativos",
-        "url": "https://www.portafolio.co/negocios/empresas/se-mueve-el-mercado-de-servicios-corporativos-pluxee-busca-adquirir-cartera-de-clientes-de-big-pass-503561",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Se mueve el mercado de servicios corporativos: Pluxee busca adquirir cartera de clientes de Big Pass",
         "capturado": "2026-09-30T11:40:01-05:00"
       }
     ]
