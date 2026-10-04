@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-04T12:18:16-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-04T15:20:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Las salas VIP en Colombia transforman los aeropuertos en espacios de entretenimiento",
+        "url": "https://www.portafolio.co/economia/aeropuertos-un-negocio-que-paso-a-ofrecer-entretenimiento-asi-cambian-las-salas-vip-en-colombia-503858",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Aeropuertos, un negocio que pasó a ofrecer entretenimiento: así cambian las salas VIP en Colombia",
+        "capturado": "2026-10-04T15:20:26-05:00"
+      },
       {
         "titulo": "Marval lanza en Soho 26 los papeles de obra con los que Bogotá recaudó $41.987 millones en puja",
         "url": "https://www.portafolio.co/economia/infraestructura/marval-estrena-en-soho-26-los-certificados-de-construccion-con-los-que-bogota-recaudo-41-987-millones-en-subasta-503848",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-01",
         "titulo_fuente": "Fernando Isaza Gutiérrez asume oficialmente la presidencia del Fondo Nacional de Garantías",
-        "capturado": "2026-10-01T23:13:47-05:00"
-      },
-      {
-        "titulo": "La Agencia Nacional de Tierras finalizaría el año con más de $200.000 millones sin invertir",
-        "url": "https://www.portafolio.co/economia/gobierno/agencia-nacional-de-tierras-cerraria-el-ano-con-mas-de-200-000-millones-de-inversion-sin-ejecutar-503705",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Agencia Nacional de Tierras cerraría el año con más de $200.000 millones de inversión sin ejecutar",
         "capturado": "2026-10-01T23:13:47-05:00"
       }
     ],
