@@ -1,9 +1,159 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-05T04:28:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-05T13:46:22-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Turistas brasileños en Colombia aumentaron 18% a 159.187 y gastaron US$ 2.699",
+        "url": "https://www.portafolio.co/economia/brasil-pisa-el-acelerador-hacia-colombia-sus-visitantes-crecieron-18-ya-son-159-187-y-su-gasto-es-de-us-2-503898",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Brasil pisa el acelerador hacia Colombia: sus visitantes crecieron 18%, ya son 159.187 y su gasto es de US$ 2.699",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Cancillería indaga contratos del Gobierno Petro: 227 hechos en un día y 367 iguales",
+        "url": "https://www.portafolio.co/economia/gobierno/cancilleria-revisa-hallazgos-en-contratos-del-gobierno-petro-227-firmados-en-un-dia-y-367-con-objetos-identicos-503903",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Cancillería revisa hallazgos en contratos del Gobierno Petro: 227 firmados en un día y 367 con objetos idénticos",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Antiguo Bronx de Bogotá estará el 14 de noviembre con 98% de avance por $176.000 millones",
+        "url": "https://www.portafolio.co/economia/infraestructura/antiguo-bronx-de-bogota-quedara-listo-el-14-de-noviembre-la-obra-de-176-000-millones-llega-al-98-de-avance-503897",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Antiguo Bronx de Bogotá quedará listo el 14 de noviembre: la obra de $176.000 millones llega al 98% de avance",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Exportaciones colombianas de agosto de 2026 subieron por oro, carbón y petróleo",
+        "url": "https://www.portafolio.co/economia/petroleo-carbon-y-oro-impulsaron-las-exportaciones-de-colombia-durante-agosto-de-2026-y-explicaron-el-repunte-503900",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Petróleo, carbón y oro impulsaron las exportaciones de Colombia durante agosto de 2026 y explicaron el repunte",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Bolsa de Colombia hoy: Éxito encabeza alzas y Ecopetrol transa $17.715 millones",
+        "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-valores-de-colombia-hoy-exito-lidera-las-ganancias-y-ecopetrol-mueve-17-715-millones-503896",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Bolsa de Valores de Colombia hoy: Éxito lidera las ganancias y Ecopetrol mueve $17.715 millones",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "ICBF solicita indagar giro de más de $400 millones por local no usado en el Valle",
+        "url": "https://www.portafolio.co/economia/gobierno/icbf-pide-investigar-pago-de-mas-de-400-millones-por-inmueble-que-nunca-llego-a-utilizar-en-el-valle-del-cauca-503895",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Bienestar Familiar pide investigar pago de más de $400 millones por inmueble que nunca llegó a utilizar en el Valle",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Turkish Airlines ofrecerá trayectos de Latam a ocho urbes colombianas con una sola reserva desde Asia",
+        "url": "https://www.portafolio.co/economia/de-asia-a-leticia-con-una-sola-reserva-turkish-airlines-vendera-vuelos-de-latam-a-ocho-ciudades-de-colombia-503893",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "De Asia a Leticia con una sola reserva: Turkish Airlines venderá vuelos de Latam a ocho ciudades de Colombia",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado acepta tutela de Hernán Penagos a Gustavo Petro por acusaciones de fraude",
+        "url": "https://www.portafolio.co/economia/gobierno/consejo-de-estado-admite-tutela-de-hernan-penagos-contra-gustavo-petro-por-senalamientos-de-fraude-503891",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Consejo de Estado admite tutela de Hernán Penagos contra Gustavo Petro por señalamientos de fraude",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Comisión de la Cámara busca destrabar Pacífico 1, carretera 4G en Antioquia con 97% de avance sin culminar",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-via-4g-en-antioquia-que-esta-al-97-y-sigue-sin-entregarse-camara-crea-comision-para-destrabar-pacifico-503889",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "La vía 4G en Antioquia que está al 97% y sigue sin entregarse: Cámara crea comisión para destrabar Pacífico 1",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Adres suspende 557 solicitudes por más de $20.000 millones tras hallar presuntas anomalías",
+        "url": "https://www.portafolio.co/economia/gobierno/adres-frena-557-reclamaciones-por-mas-de-20-000-millones-tras-detectar-posibles-irregularidades-503888",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Adres frena 557 reclamaciones por más de $20.000 millones tras detectar posibles irregularidades",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Euro baja fuertemente en Colombia al igual que el dólar, cede más de $55 y se ubica en $3.670,30",
+        "url": "https://www.portafolio.co/economia/finanzas/al-igual-que-el-dolar-precio-del-euro-cae-con-fuerza-moneda-pierde-mas-de-55-y-llega-a-3-670-503887",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Al igual que el dólar, precio del euro cae con fuerza en Colombia: moneda pierde más de $55 y llega a $3.670,30",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Financiación del FMI saldría a 3,7% anual para Colombia, comparada con el 6,6% de títulos externos",
+        "url": "https://www.portafolio.co/economia/credito-del-fondo-monetario-internacional-podria-costarle-a-colombia-3-7-anual-frente-al-6-6-de-bonos-externos-503885",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Crédito del Fondo Monetario Internacional podría costarle a Colombia 3,7% anual, frente al 6,6% de bonos externos",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "De La Espriella cuestiona al gobierno Petro por escasa prevención frente al arribo del fenómeno de El Niño",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-critica-a-la-administracion-petro-por-la-falta-de-preparacion-ante-la-llegada-de-el-nino-503884",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Gobierno De La Espriella critica a la administración Petro por la falta de preparación ante la llegada de El Niño",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Frutas exóticas impulsan ventas externas a US$49,1 millones este 2026, con la gulupa a la cabeza",
+        "url": "https://www.portafolio.co/economia/agro/gulupa-lleva-la-bandera-frutas-exoticas-elevan-sus-exportaciones-a-us-49-1-millones-en-lo-que-va-de-503802",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Gulupa lleva la bandera: frutas exóticas elevan sus exportaciones a US$49,1 millones en lo que va de 2026",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "De este modo funcionarán las becas para posgrados internacionales que el gobierno De La Espriella habilitó",
+        "url": "https://www.portafolio.co/economia/gobierno/maestrias-y-doctorados-en-el-exterior-asi-seran-las-becas-que-reactivo-el-gobierno-de-la-espriella-503879",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Maestrías y doctorados en el exterior: así serán las becas que reactivó el Gobierno De La Espriella",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
       {
         "titulo": "El rumbo cambiario y los mercados locales en 2027 dependerán del ajuste fiscal",
         "url": "https://www.portafolio.co/economia/ajuste-fiscal-sera-clave-para-los-mercados-colombianos-en-2027-y-marcara-el-rumbo-de-la-tasa-de-cambio-503764",
@@ -453,159 +603,59 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "Proyecto de resolución plantea crédito de Adres para cubrir deudas de EPS por medicamentos y procedimientos",
         "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Banco de la República bajará tasas solo al iniciar y consolidarse un ajuste fiscal",
-        "url": "https://www.portafolio.co/economia/regiones/hasta-que-haya-un-ajuste-fiscal-en-curso-y-se-consolide-el-banco-de-la-republica-podra-bajar-las-tasas-503761",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'Hasta que haya un ajuste fiscal en curso, y se consolide, el Banco de la República podrá bajar las tasas'",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Fomag traslada $859.000 millones de pensiones a salud para paliar faltante de docentes",
-        "url": "https://www.portafolio.co/economia/gobierno/fomag-mueve-859-000-millones-de-pensiones-a-salud-para-cubrir-parte-del-deficit-de-los-maestros-503760",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Fomag mueve $859.000 millones de pensiones a salud para cubrir parte del déficit de los maestros",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Disputas internas en la CUT por nueva mayoría directiva tras el fenómeno de la CUT Milagro",
-        "url": "https://www.portafolio.co/economia/gobierno/nueva-mayoria-en-la-direccion-de-la-cut-hace-crecer-la-crisis-interna-lo-que-hay-detras-de-la-cut-milagro-503759",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'Nueva mayoría' en la dirección de la CUT hace crecer la crisis interna: lo que hay detrás de la 'CUT Milagro'",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Minminas emprende acciones contra las redes de extracción aurífera ilícita en el país",
-        "url": "https://www.portafolio.co/economia/oro-ilegal-se-extiende-en-colombia-75-de-las-118-410-hectareas-explotadas-no-tiene-autorizacion-503758",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Minminas lanza ofensiva para contrarrestar las mafias de explotación ilegal de oro que crece en Colombia",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Cotizantes al sistema de seguridad social llegan a 19,95 millones, un 19,3% más que en 2025",
-        "url": "https://www.portafolio.co/economia/el-sistema-de-seguridad-social-suma-19-95-millones-de-cotizantes-19-3-mas-frente-al-mismo-periodo-de-503757",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "El sistema de seguridad social suma 19,95 millones de cotizantes, 19,3% más frente al mismo periodo de 2025",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Bolsa de Valores de Colombia lanza simulador para aprender a invertir sin riesgo: este es el proceso",
-        "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-valores-de-colombia-abre-ruta-para-aprender-a-invertir-sin-arriesgar-dinero-real-conozca-el-proceso-503754",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Bolsa de Valores de Colombia abre ruta para aprender a invertir sin arriesgar dinero real: conozca el proceso",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Fenavi regalará un millón de huevos a Bancos de Alimentos bajo la campaña Colombia se levanta con huevos",
-        "url": "https://www.portafolio.co/economia/agro/colombia-se-levanta-con-huevos-avicultores-de-fenavi-donaran-un-millon-de-huevos-a-bancos-de-alimentos-503751",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'Colombia se levanta con huevos': avicultores de Fenavi donarán un millón de huevos a Bancos de Alimentos",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "JetSMART operará cinco vuelos semanales y sin escalas entre Medellín y Buenos Aires",
-        "url": "https://www.portafolio.co/economia/sin-escalas-y-cinco-veces-por-semana-asi-sera-la-nueva-ruta-de-jetsmart-entre-medellin-y-buenos-aires-503733",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Sin escalas y cinco veces por semana: así será la nueva ruta de JetSMART entre Medellín y Buenos Aires",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Gobierno advierte déficit de $148.391 millones y peligro operacional por crisis fiscal en RTVC",
-        "url": "https://www.portafolio.co/economia/gobierno/crisis-fiscal-en-rtvc-gobierno-reporta-deficit-de-148-391-millones-y-riesgo-sobre-la-operacion-503736",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Crisis fiscal en RTVC: Gobierno reporta déficit de $148.391 millones y riesgo sobre la operación",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "El dólar cae cerca de 1% tras decisión de Banrepública y la presión global frenaría al peso",
-        "url": "https://www.portafolio.co/economia/finanzas/caida-del-dolar-de-casi-1-tras-nueva-tasa-de-banrepublica-presion-internacional-sobre-el-peso-podria-frenarla-503732",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Caída del dólar de casi 1% tras nueva tasa de Banrepública: presión internacional sobre el peso podría frenarla",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Distrito ofrece descuento del 60% en intereses y multas para que deudores en Bogotá se pongan al día",
-        "url": "https://www.portafolio.co/economia/impuestos/bogota-busca-recuperar-cartera-con-alivio-del-60-en-intereses-y-sanciones-para-deudores-distritales-503731",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Bogotá busca recuperar cartera con alivio del 60% en intereses y sanciones para deudores distritales",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Arroz en crisis: Ejecutivo objeta 15 años de parafiscales y pide reformas",
-        "url": "https://www.portafolio.co/economia/agro/arroz-en-crisis-gobierno-cuestiona-resultados-de-15-anos-de-recursos-parafiscales-y-exige-cambios-503729",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Arroz en crisis: Gobierno cuestiona resultados de 15 años de recursos parafiscales y exige cambios",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "CUT Milagro genera fractura: gran parte del gremio apoya a De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/cut-milagro-desata-division-interna-11-de-sus-21-miembros-del-sindicato-plantean-nueva-correlacion-de-fuerzas-503730",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'CUT Milagro' desata división interna: amplio sector del sindicato se muestra afín a políticas de De La Espriella",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "CUT dividida, dudas gremiales y nuevo Gobierno frente al salario mínimo de 2027",
-        "url": "https://www.portafolio.co/economia/empleo/como-estan-las-fuerzas-con-las-que-avanza-la-negociacion-del-salario-minimo-del-2027-estas-son-las-posturas-503726",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "CUT dividida, incertidumbre gremial y nuevo Gobierno: así están las fuerzas para la negociación del mínimo de 2027",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Bogotá tendrá Megaferia el 15 de octubre con 18.000 puestos y más de 180 firmas",
-        "url": "https://www.portafolio.co/economia/bogota-abre-una-megaferia-con-18-000-vacantes-y-mas-de-180-empresas-el-proximo-15-de-octubre-503727",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Bogotá abre una Megaferia con 18.000 vacantes y más de 180 empresas el próximo 15 de octubre",
-        "capturado": "2026-10-02T11:29:49-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Analdex advierte sobre la alta dependencia mineroenergética a pesar del aumento en las ventas externas",
+        "url": "https://www.portafolio.co/negocios/comercio/analdex-alerta-por-dependencia-del-sector-minero-energetico-pese-al-crecimiento-de-las-exportaciones-503904",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Analdex alerta por dependencia del sector minero-energético pese al crecimiento de las exportaciones",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Siigo adquiere Bsale y destina US$100 millones para impulsar su crecimiento regional en América Latina",
+        "url": "https://www.portafolio.co/negocios/empresas/siigo-compra-bsale-y-anuncia-inversion-de-us-100-millones-para-acelerar-su-expansion-en-latinoamerica-503902",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Siigo compra Bsale y anuncia inversión de US$100 millones para acelerar su expansión en Latinoamérica",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Bancolombia invierte $500.000 millones en la adquisición de cinco inmuebles logísticos en la Calle 80",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-mueve-500-000-millones-en-millonaria-compra-de-cinco-edificios-logisticos-en-la-calle-503892",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Bancolombia mueve $500.000 millones en millonaria compra de cinco edificios logísticos en la Calle 80",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "Petrobras y Ecopetrol concluyen iniciativa de US$1.000 millones para búsqueda de gas en el Caribe",
+        "url": "https://www.portafolio.co/negocios/empresas/petrobras-y-ecopetrol-terminan-campana-de-us-1-000-millones-para-explorar-gas-en-el-caribe-503883",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Petrobras y Ecopetrol terminan campaña de US$1.000 millones para explorar gas en el Caribe",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
+      {
+        "titulo": "El tratado comercial con Corea inicia otra fase para el país con diversificación, tecnología e inversión",
+        "url": "https://www.portafolio.co/negocios/comercio/el-tlc-con-corea-abre-una-nueva-etapa-para-colombia-mas-diversificacion-tecnologia-y-proyectos-de-inversion-503801",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "El TLC con Corea abre una nueva etapa para Colombia: más diversificación, tecnología y proyectos de inversión",
+        "capturado": "2026-10-05T13:46:22-05:00"
+      },
       {
         "titulo": "Un plan para superar el complejo déficit fiscal y avanzar",
         "url": "https://www.portafolio.co/negocios/empresas/una-hoja-de-ruta-para-salir-del-desafiante-deficit-fiscal-y-crecer-503875",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-09-30",
         "titulo_fuente": "PepsiCo: esta es la planta que produce 2,5 millones de unidades de snacks al día",
         "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Universidad de Los Andes lidera en el país en el listado THE 2027 y figura entre las 1.000 mejores globalmente",
-        "url": "https://www.portafolio.co/negocios/empresas/los-andes-encabeza-a-colombia-en-ranking-the-2027-y-queda-entre-las-1-000-mejores-universidades-del-mundo-503613",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Los Andes encabeza a Colombia en ranking THE 2027 y queda entre las 1.000 mejores universidades del mundo",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "Nu descarta un acuerdo con Monzo tras el desplome del 10% en el precio de su acción bursátil",
-        "url": "https://www.portafolio.co/negocios/empresas/nu-descarta-una-transaccion-con-monzo-luego-de-que-su-accion-en-bolsa-cayera-503612",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Nu descarta una transacción con Monzo luego de que su acción en bolsa cayera 10%",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "BoConcept contempla un edificio de su marca en Colombia dentro de sus planes en América Latina",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-una-de-las-apuestas-de-boconcept-en-america-latina-evalua-un-edificio-de-marca-propia-en-el-pais-503598",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Colombia, una de las apuestas de BoConcept en América Latina: evalúa un edificio de marca propia en el país",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "El CEO de Mapfre en Colombia, Oscar García-Serrano, discute los desafíos de las aseguradoras",
-        "url": "https://www.portafolio.co/negocios/empresas/oscar-garcia-serrano-ceo-de-mapfre-en-colombia-habla-sobre-retos-del-sector-asegurador-en-el-pais-503590",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Oscar García-Serrano, CEO de Mapfre en Colombia, habla sobre retos del sector asegurador en el país",
-        "capturado": "2026-09-30T16:12:52-05:00"
-      },
-      {
-        "titulo": "Gilinski integra otra marca al portafolio de Nutresa con estas recientes adquisiciones",
-        "url": "https://www.portafolio.co/negocios/empresas/estas-son-las-ultimas-compras-de-nutresa-grupo-empresarial-de-gilinski-que-sumo-otra-marca-a-su-portafolio-503577",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Estas son las últimas compras de Nutresa, grupo empresarial de Gilinski, que sumó otra marca a su portafolio",
-        "capturado": "2026-09-30T11:40:01-05:00"
       }
     ]
   }
