@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-04T18:28:21-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-04T21:18:59-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El rumbo cambiario y los mercados locales en 2027 dependerán del ajuste fiscal",
+        "url": "https://www.portafolio.co/economia/ajuste-fiscal-sera-clave-para-los-mercados-colombianos-en-2027-y-marcara-el-rumbo-de-la-tasa-de-cambio-503764",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Ajuste fiscal será clave para los mercados colombianos en 2027 y marcará el rumbo de la tasa de cambio",
+        "capturado": "2026-10-04T21:18:59-05:00"
+      },
+      {
+        "titulo": "Empieza la discusión salarial para 2027 y el incremento se calcula entre 9% y 10%",
+        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Salario mínimo de 2027 se perfila entre 9% y 10% mientras arranca la negociación entre Gobierno y sectores",
+        "capturado": "2026-10-04T21:18:59-05:00"
+      },
       {
         "titulo": "De la Espriella apoya a Flávio Bolsonaro en Brasil",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-respalda-a-flavio-bolsonaro-en-brasil-503869",
@@ -583,29 +603,39 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "Bogotá abre una Megaferia con 18.000 vacantes y más de 180 empresas el próximo 15 de octubre",
         "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Euro en Colombia cae este 2 de octubre y retorna cerca de los 3.700 pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-baja-este-2-de-octubre-y-vuelve-a-acercarse-a-los-3-503725",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Euro hoy en Colombia baja este 2 de octubre y vuelve a acercarse a los $3.700",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Ana Lucía Pineda, primera dama, expone artesanías y proyectos de Colombia en París",
-        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-lleva-a-paris-emprendimientos-y-artesanias-colombianas-503722",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Primera dama, Ana Lucía Pineda, lleva a París emprendimientos y artesanías colombianas",
-        "capturado": "2026-10-02T11:29:49-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Firma nacional Baobab debuta en la Ópera Nacional de París",
+        "url": "https://www.portafolio.co/negocios/empresas/marca-colombiana-baobab-llega-a-la-opera-nacional-de-paris-503873",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Marca colombiana Baobab llega a la Ópera Nacional de París",
+        "capturado": "2026-10-04T21:18:59-05:00"
+      },
+      {
+        "titulo": "Parmalat impulsa su negocio lechero: aumenta capital y trae de nuevo sus famosos peluches",
+        "url": "https://www.portafolio.co/negocios/empresas/parmalat-va-por-mas-en-el-mercado-lacteo-refuerza-inversiones-y-trae-de-vuelta-sus-iconicos-peluches-503698",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Parmalat va por más en el mercado lácteo: refuerza inversiones y trae de vuelta sus icónicos peluches",
+        "capturado": "2026-10-04T21:18:59-05:00"
+      },
+      {
+        "titulo": "Ray-Ban Meta dinamiza el mercado de lentes inteligentes en Colombia y alista nuevos productos",
+        "url": "https://www.portafolio.co/negocios/empresas/ray-ban-meta-acelera-el-negocio-de-las-gafas-inteligentes-en-colombia-y-prepara-nuevos-lanzamientos-503800",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "Ray-Ban Meta acelera el negocio de las gafas inteligentes en Colombia y prepara nuevos lanzamientos",
+        "capturado": "2026-10-04T21:18:59-05:00"
+      },
       {
         "titulo": "Aterriza en Colombia inédita camioneta híbrida 4x4 de 900 HP: los detalles de la Jetour G700",
         "url": "https://www.portafolio.co/negocios/vehiculo/llega-a-colombia-nueva-suv-todoterreno-hibrida-de-900-caballos-de-fuerza-las-caracteristicas-de-la-jetour-g700-503855",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-30",
         "titulo_fuente": "Comercio pierde optimismo mientras la industria ve mejores condiciones para invertir",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Asi opera el negocio de derechos de denominacion al poner Movistar su marca al Arena de Bogota",
-        "url": "https://www.portafolio.co/negocios/empresas/que-compro-movistar-cuando-puso-su-nombre-al-movistar-arena-asi-funciona-este-negocio-para-los-centros-de-eventos-503565",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "¿Qué compró Movistar cuando puso su nombre al Arena de Bogotá? Así funciona el negocio de derechos de denominación",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "Analdex solicita creditos a tasa cero y alivios para agroexportadores afectados por El Nino y el peso revaluado",
-        "url": "https://www.portafolio.co/negocios/comercio/agroexportadores-bajo-presion-analdex-pide-credito-a-tasa-cero-y-alivios-ante-el-nino-y-el-peso-revaluado-503570",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Agroexportadores, bajo presión: Analdex pide crédito a tasa cero y alivios ante El Niño y el peso revaluado",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "El Arena de Bogota llevara el nombre de Movistar hasta el proximo 31 de octubre",
-        "url": "https://www.portafolio.co/negocios/empresas/hasta-el-31-de-octubre-el-arena-de-bogota-llevara-el-nombre-de-movistar-503567",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Ya hay fecha del fin: hasta el 31 de octubre, el Arena de Bogotá llevará el nombre de Movistar",
         "capturado": "2026-09-30T11:40:01-05:00"
       }
     ]
