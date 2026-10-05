@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-04T21:18:59-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-05T04:28:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Un plan para superar el complejo déficit fiscal y avanzar",
+        "url": "https://www.portafolio.co/negocios/empresas/una-hoja-de-ruta-para-salir-del-desafiante-deficit-fiscal-y-crecer-503875",
+        "resumen": "",
+        "autor": "Vanesa castro salamanca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Una hoja de ruta para salir del desafiante déficit fiscal y crecer",
+        "capturado": "2026-10-05T04:28:07-05:00"
+      },
+      {
         "titulo": "Firma nacional Baobab debuta en la Ópera Nacional de París",
         "url": "https://www.portafolio.co/negocios/empresas/marca-colombiana-baobab-llega-a-la-opera-nacional-de-paris-503873",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-09-30",
         "titulo_fuente": "Estas son las últimas compras de Nutresa, grupo empresarial de Gilinski, que sumó otra marca a su portafolio",
-        "capturado": "2026-09-30T11:40:01-05:00"
-      },
-      {
-        "titulo": "La industria halla mejores condiciones para invertir mientras el comercio pierde confianza",
-        "url": "https://www.portafolio.co/negocios/empresas/comercio-pierde-optimismo-mientras-la-industria-ve-mejores-condiciones-para-invertir-503571",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Comercio pierde optimismo mientras la industria ve mejores condiciones para invertir",
         "capturado": "2026-09-30T11:40:01-05:00"
       }
     ]
