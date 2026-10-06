@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-06T02:12:26-05:00",
+  "actualizado": "2026-10-06T09:23:13-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Vivienda en Boquete, Panamá, hasta 30% más barata que en la capital",
+        "url": "https://www.portafolio.co/economia/boquete-la-montana-panamena-donde-la-vivienda-cuesta-hasta-30-menos-que-en-ciudad-de-panama-503952",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Boquete, la montaña panameña donde la vivienda cuesta hasta 30% menos que en Ciudad de Panamá",
+        "capturado": "2026-10-06T09:23:13-05:00"
+      },
+      {
+        "titulo": "Administración revela cambios en consulta previa para destrabar trámites",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-reforma-al-procedimiento-de-consulta-previa-para-destrabar-expedientes-503950",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Gobierno anuncia reforma al procedimiento de consulta previa para destrabar expedientes",
+        "capturado": "2026-10-06T09:23:13-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio este 6 de octubre: dólar comienza en torno a $3.200",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-inicia-cerca-de-los-3-200-este-6-de-octubre-503947",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa inicia cerca de los $3.200 este 6 de octubre",
+        "capturado": "2026-10-06T09:23:13-05:00"
+      },
       {
         "titulo": "Gobernaciones solicitan actualizar la clasificación fiscal antes de 2028",
         "url": "https://www.portafolio.co/economia/regiones/departamentos-piden-actualizar-la-categorizacion-fiscal-antes-de-503941",
@@ -572,36 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-02",
         "titulo_fuente": "Gobierno De La Espriella reactivó alianza con Colfuturo que había terminado durante la administración Petro",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Plan Meteoro, nuevo RNDC, vía a Buenaventura y reforma a las APP: paquete anunciado por el MinTransporte",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-meteoro-nuevo-rndc-via-a-buenaventura-y-reforma-a-las-app-el-paquete-que-promete-el-mintransporte-503776",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Plan Meteoro, nuevo RNDC, vía a Buenaventura y reforma a las APP: el paquete que promete el MinTransporte",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Colombia comienza reperfilamiento de deuda mediante canje de TES por 19,8 billones de pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-inicia-reperfilamiento-de-deuda-con-canje-de-tes-por-19-8-billones-503785",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Colombia inicia reperfilamiento de deuda con canje de TES por $19,8 billones",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Pensar en grande y a 20 años: estrategia trazada por El Dorado y el Puerto de Cartagena para infraestructura",
-        "url": "https://www.portafolio.co/economia/infraestructura/pensar-en-grande-y-a-20-anos-la-ruta-que-el-dorado-y-el-puerto-de-cartagena-trazan-para-la-infraestructura-503775",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'Pensar en grande y a 20 años': la ruta que El Dorado y el Puerto de Cartagena trazan para la infraestructura",
         "capturado": "2026-10-02T19:10:12-05:00"
       }
     ],
