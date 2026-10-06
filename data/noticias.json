@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-06T09:23:13-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-06T14:42:41-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno de De La Espriella lanza el Fondo Milagro con un billón de pesos para labores de reconstrucción",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-el-fondo-milagro-arranca-con-1-billon-para-la-reconstruccion-503977",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Gobierno de De La Espriella activa el Fondo Milagro: arranca con $1 billón para la reconstrucción",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027: la propuesta del Gobierno para destrabar el pacto salarial entre gremios y sindicatos",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-esto-pide-el-gobierno-para-facilitar-la-negociacion-del-aumento-con-empresarios-y-trabajadores-503974",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Salario mínimo 2027: esto pide el Gobierno para facilitar la negociación del aumento con empresarios y trabajadores",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "ICA en Bogotá: el 9 de octubre de 2026 expira el plazo límite para el pago y declaración del cuarto bimestre",
+        "url": "https://www.portafolio.co/economia/ica-en-bogota-este-9-de-octubre-vence-el-plazo-para-declarar-y-pagar-el-cuarto-bimestre-de-503973",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "ICA en Bogotá: este 9 de octubre vence el plazo para declarar y pagar el cuarto bimestre de 2026",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Nuevos topes de interés alteraron el crédito rural: bajaron los créditos menores y subieron los mayores",
+        "url": "https://www.portafolio.co/economia/agro/regulacion-de-tasas-cambio-el-credito-agropecuario-hubo-menos-prestamos-pequenos-y-mas-grandes-503970",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Regulación de tasas cambió el crédito agropecuario: hubo menos préstamos pequeños y más grandes",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Anif reporta alza en acciones, bonos y real brasileño tras giro electoral rumbo a la segunda vuelta",
+        "url": "https://www.portafolio.co/economia/bonos-acciones-y-real-brasileno-suben-tras-primera-vuelta-que-cambio-el-escenario-para-el-balotaje-anif-503969",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Bonos, acciones y real brasileño suben tras primera vuelta que cambió el escenario para el balotaje: Anif",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Euro en Colombia: cotiza cerca de 3600 pesos tras fuerte descenso registrado este 6 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-cae-con-fuerza-este-6-de-octubre-y-se-cotiza-cerca-de-los-3-503965",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Euro hoy en Colombia: cae con fuerza este 6 de octubre y se cotiza cerca de los $3.600",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Director del Banco de la República señala que Bre-B debe aceptar transacciones superiores a $12 millones",
+        "url": "https://www.portafolio.co/economia/finanzas/gerente-del-banrepublica-menciona-necesidad-de-permitir-operaciones-por-encima-de-12-millones-a-traves-de-bre-b-503964",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Gerente del Banrepública menciona necesidad de permitir operaciones por encima de $12 millones a través de Bre-B",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Nuevos recursos de regalías por $5.203 millones se destinan a la remodelación del coliseo en Arauca",
+        "url": "https://www.portafolio.co/economia/regiones/regalias-financian-nuevo-coliseo-de-arauca-inversion-para-renovacion-del-escenario-asciende-a-5-203-millones-503954",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Regalías financian nuevo coliseo de Arauca: inversión para renovación del escenario asciende a $5.203 millones",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
       {
         "titulo": "Vivienda en Boquete, Panamá, hasta 30% más barata que en la capital",
         "url": "https://www.portafolio.co/economia/boquete-la-montana-panamena-donde-la-vivienda-cuesta-hasta-30-menos-que-en-ciudad-de-panama-503952",
@@ -523,89 +603,99 @@
         "publicacion": "2026-10-03",
         "titulo_fuente": "Asocapitales alerta: 31 capitales reportan riesgos altos o críticos para la continuidad de su sistema de salud",
         "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "RTVC registra un faltante de $148.391 millones y se cuestiona si la radio pública está en peligro",
-        "url": "https://www.portafolio.co/economia/gobierno/rtvc-tiene-un-deficit-de-148-391-millones-esta-en-riesgo-la-radio-publica-503808",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "RTVC tiene un déficit de $148.391 millones: ¿está en riesgo la radio pública?",
-        "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "Dólar bajó cerca de $80 en la semana y perdió valor ante el peso tras la subida de la tasa de interés",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-perdio-casi-80-durante-la-semana-y-cedio-terreno-frente-al-peso-luego-del-aumento-de-la-tasa-de-interes-503796",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Dólar perdió casi $80 durante la semana y cedió terreno frente al peso luego del aumento de la tasa de interés",
-        "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "El presupuesto de regalías para 2027-2028 alcanzaría los $27,54 billones, registrando una caída del 11%",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-regalias-2027-2028-seria-de-27-54-billones-11-menos-503793",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Presupuesto de regalías 2027-2028 sería de $27,54 billones, 11% menos",
-        "capturado": "2026-10-03T00:35:10-05:00"
-      },
-      {
-        "titulo": "Fedearroz contesta al jefe de la cartera de Agricultura acerca de Col Rice y los dineros parafiscales",
-        "url": "https://www.portafolio.co/economia/gobierno/fedearroz-responde-al-ministro-de-agricultura-sobre-recursos-parafiscales-y-col-rice-503792",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Fedearroz responde al ministro de Agricultura sobre recursos parafiscales y Col Rice",
-        "capturado": "2026-10-03T00:35:10-05:00"
-      },
-      {
-        "titulo": "Kristal Mall, la megaobra que supera el billón de pesos y se instalará en el Gran Malecón barranquillero",
-        "url": "https://www.portafolio.co/economia/regiones/kristal-mall-el-megaproyecto-de-mas-de-1-billon-que-llegara-al-gran-malecon-de-barranquilla-503791",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Kristal Mall: el megaproyecto de más de $1 billón que llegará al Gran Malecón de Barranquilla",
-        "capturado": "2026-10-03T00:35:10-05:00"
-      },
-      {
-        "titulo": "Tania Gilinski asumió el cargo de embajadora colombiana en Israel y este es su perfil profesional",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-tania-gilinski-la-nueva-embajadora-de-colombia-en-israel-503790",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Tania Gilinski se posesionó como la nueva embajadora de Colombia en Israel: esta es su hoja de vida",
-        "capturado": "2026-10-03T00:35:10-05:00"
-      },
-      {
-        "titulo": "ANI destraba operación férrea: pacto con Fenoco y 2,6 billones de pesos para La Dorada – Chiriguaná",
-        "url": "https://www.portafolio.co/economia/gobierno/ani-destraba-la-operacion-ferrea-acuerdo-con-fenoco-y-2-6-billones-para-la-dorada-chiriguana-503788",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "ANI destraba la operación férrea: acuerdo con Fenoco y $2,6 billones para La Dorada – Chiriguaná",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella retomó alianza con Colfuturo finalizada en el mandato Petro",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-reactivo-alianza-con-colfuturo-que-habia-terminado-durante-la-administracion-petro-503786",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Gobierno De La Espriella reactivó alianza con Colfuturo que había terminado durante la administración Petro",
-        "capturado": "2026-10-02T19:10:12-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los herederos del trono",
+        "url": "https://www.portafolio.co/negocios/empresas/los-sucesores-del-trono-503971",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Los sucesores del trono",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "La respuesta de Coopidrogas al terremoto: movilizó $25.990 millones y atendió más de 13.000 pedidos",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-respondio-coopidrogas-al-terremoto-movilizo-25-990-millones-y-atendio-mas-de-13-000-pedidos-503972",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Así respondió Coopidrogas al terremoto: movilizó $25.990 millones y atendió más de 13.000 pedidos",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Heredera de Centrovalle busca sumar 20 vehículos y destaca que el primer cliente de su abuelo sigue con ellos",
+        "url": "https://www.portafolio.co/negocios/empresas/el-primer-cliente-que-tuvo-mi-abuelo-todavia-es-nuestro-cliente-heredera-de-centrovalle-busca-sumar-20-vehiculos-503968",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "'El primer cliente que tuvo mi abuelo todavía es nuestro cliente': heredera de Centrovalle busca sumar 20 vehículos",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Siniestros por el terremoto sumarían $6,3 billones para aseguradoras tras casi dos meses de reclamaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/terremoto-ya-le-costaria-6-3-billones-a-las-aseguradoras-asivan-las-reclamaciones-tras-casi-dos-meses-503967",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Terremoto ya le costaría $6,3 billones a las aseguradoras: asívan las reclamaciones tras casi dos meses",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "El colombiano Alan Bursztyn ingresa al BoF 500 al tiempo que Malva extiende su presencia a Europa",
+        "url": "https://www.portafolio.co/negocios/empresas/el-colombiano-alan-bursztyn-llega-al-bof-500-mientras-malva-se-expande-a-europa-503966",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "El colombiano Alan Bursztyn llega al BoF 500 mientras Malva se expande a Europa",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Inter Rapidísimo usará app para que viajeros transporten paquetes bajo la premisa de mensajería abierta",
+        "url": "https://www.portafolio.co/negocios/empresas/cualquier-persona-puede-ser-mensajero-la-app-con-la-que-inter-rapidisimo-pondra-a-los-viajeros-a-llevar-paquetes-503962",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "'Cualquier persona puede ser mensajero': la app con la que Inter Rapidísimo pondrá a los viajeros a llevar paquetes",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "El heredero de Envía afirma que la empresa triplicará su tamaño actual para el año 2030",
+        "url": "https://www.portafolio.co/negocios/empresas/en-2030-la-compania-va-a-ser-tres-veces-lo-que-es-hoy-el-plan-del-heredero-de-envia-503960",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "'En 2030 la compañía va a ser tres veces lo que es hoy': el plan del heredero de Envía",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "La líder heredera de los 10000 puntos de Efecty señala que el trueque sigue vigente en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/en-colombia-todavia-existe-el-trueque-la-heredera-que-dirige-los-10-000-puntos-de-efecty-503953",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "'En Colombia todavía existe el trueque': la heredera que dirige los 10.000 puntos de Efecty",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
+      {
+        "titulo": "Sodimac Homecenter adquiere el control mayoritario de Sumatec y absorbe una empresa septuagenaria",
+        "url": "https://www.portafolio.co/negocios/empresas/homecenter-sodimac-compra-la-mayoria-de-sumatec-y-se-queda-con-una-firma-de-mas-de-70-anos-de-historia-503956",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Homecenter Sodimac compra la mayoría de Sumatec y se queda con una firma de más de 70 años de historia",
+        "capturado": "2026-10-06T14:42:41-05:00"
+      },
       {
         "titulo": "Tras anunciar su relevo en Movistar Arena, designan a Luis Guillermo Quintero como gerente de Juan Valdez",
         "url": "https://www.portafolio.co/negocios/empresas/luis-guillermo-quintero-nuevo-gerente-general-de-juan-valdez-503937",
@@ -1114,96 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-10-01",
         "titulo_fuente": "'Colombia vuelve a captar la atención de los inversionistas y gana espacio frente a otros mercados de la región'",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Marco Arenas, presidente de BBVA Seguros Colombia, conversa acerca del balance de la entidad",
-        "url": "https://www.portafolio.co/negocios/empresas/marco-arenas-presidente-de-bbva-seguros-colombia-habla-sobre-los-resultados-de-la-compania-503674",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Marco Arenas, presidente de BBVA Seguros Colombia, habla sobre los resultados de la compañía",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Por qué importa la cobertura de viaje en semana de receso y qué consideraciones tener presentes",
-        "url": "https://www.portafolio.co/negocios/empresas/la-importancia-de-la-cobertura-de-viaje-en-la-semana-de-receso-que-se-debe-tener-en-cuenta-503673",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "La importancia de la cobertura de viaje en la semana de receso, ¿qué se debe tener en cuenta?",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Marcela Meléndez, directora de Fedesarrollo, se refiere al incremento de las tasas de interés",
-        "url": "https://www.portafolio.co/negocios/empresas/marcela-melendez-directora-de-fedesarrollo-habla-sobre-el-alza-de-las-tasas-de-interes-503672",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Marcela Meléndez, directora de Fedesarrollo, habla sobre el alza de las tasas de interés",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "José Manuel Athie, de SwissRe, detalla los peligros y la exposición frente a desastres naturales",
-        "url": "https://www.portafolio.co/negocios/empresas/a-que-nos-exponemos-ante-catastrofes-naturales-jose-manuel-athie-de-swissre-explica-los-riesgos-503671",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "¿A qué nos exponemos ante catástrofes naturales? José Manuel Athie, de SwissRe, explica los riesgos",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Juan Gabriel Vásquez analiza a Colombia dentro de la complejidad del tiempo contemporáneo",
-        "url": "https://www.portafolio.co/negocios/empresas/juan-gabriel-vasquez-habla-de-colombia-en-la-complejidad-de-la-era-contemporanea-503670",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Juan Gabriel Vásquez habla de Colombia en la complejidad de la era contemporánea",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Diálogo sobre la asistencia y los nuevos métodos de amparo en la anciedad",
-        "url": "https://www.portafolio.co/negocios/empresas/conversemos-el-cuidado-y-las-nuevas-formas-de-proteccion-en-la-vejez-503669",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Conversemos: el cuidado y las nuevas formas de protección en la vejez",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Arranca la Convención Internacional de Seguros Fasecolda 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/se-instala-la-convencion-internacional-de-seguros-fasecolda-503667",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Se instala la Convención Internacional de Seguros Fasecolda 2026",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "El retorno de Miguel McAllister: un software contable con IA hecho sin capitalistas de riesgo",
-        "url": "https://www.portafolio.co/negocios/empresas/miguel-mcallister-regresa-a-la-escena-emprendedora-con-una-plataforma-de-contabilidad-con-ia-construida-sin-inversionistas-503660",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "El regreso de Miguel McAllister: una plataforma de contabilidad con IA construida sin inversionistas",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella convocará a industriales de Venezuela, Colombia y EE. UU. para estrechar lazo mercantil",
-        "url": "https://www.portafolio.co/negocios/comercio/gobierno-de-la-espriella-reunira-a-empresarios-de-venezuela-colombia-y-ee-uu-para-fortalecer-vinculo-comercial-503662",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Gobierno De La Espriella reunirá a empresarios de Venezuela, Colombia y EE. UU. para fortalecer vínculo comercial",
         "capturado": "2026-10-01T14:41:11-05:00"
       }
     ]
