@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-06T14:42:41-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-10-06T18:34:57-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ingreso Mínimo Garantizado: Bogotá estudia emplear Bre-B como nueva vía para girar dineros a titulares",
+        "url": "https://www.portafolio.co/economia/ingreso-minimo-garantizado-bogota-analiza-usar-bre-b-como-nuevo-canal-para-transferir-recursos-a-beneficiarios-503986",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Ingreso Mínimo Garantizado: Bogotá analiza usar Bre-B como nuevo canal para transferir recursos a beneficiarios",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Supertransporte publica inaugural guía para suprimir obstáculos a adultos mayores en transporte público",
+        "url": "https://www.portafolio.co/economia/infraestructura/supertransporte-lanza-primera-guia-para-eliminar-barreras-a-adultos-mayores-en-transporte-publico-503985",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Supertransporte lanza primera guía para eliminar barreras a adultos mayores en transporte público",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Banco Mundial eleva su pronóstico de expansión para Colombia en 2027, aunque alerta sobre estos riesgos",
+        "url": "https://www.portafolio.co/economia/crecimiento/banco-mundial-mejora-su-proyeccion-de-crecimiento-para-colombia-en-2027-pero-advierte-por-estos-riesgos-503983",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Banco Mundial mejora su proyección de crecimiento para Colombia en 2027, pero advierte por estos riesgos",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Inflación de septiembre lograría acelerarse al 6,34% y alcanzar su techo desde julio de 2024 en Colombia",
+        "url": "https://www.portafolio.co/economia/inflacion-de-septiembre-podria-acelerarse-a-6-34-y-tocar-su-nivel-mas-alto-desde-julio-de-2024-en-colombia-503984",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Inflación de septiembre podría acelerarse a 6,34% y tocar su nivel más alto desde julio de 2024 en Colombia",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "IPP trepa 2,20% en septiembre y minería dispara sus tarifas un 12,21%, muy por encima de la media nacional",
+        "url": "https://www.portafolio.co/economia/ipp-sube-2-20-en-septiembre-y-mineria-dispara-sus-precios-12-21-muy-por-encima-del-promedio-nacional-503979",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "IPP sube 2,20% en septiembre y minería dispara sus precios 12,21%, muy por encima del promedio nacional",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
       {
         "titulo": "Gobierno de De La Espriella lanza el Fondo Milagro con un billón de pesos para labores de reconstrucción",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-el-fondo-milagro-arranca-con-1-billon-para-la-reconstruccion-503977",
@@ -553,59 +603,49 @@
         "publicacion": "2026-10-03",
         "titulo_fuente": "Las nuevas rutas internacionales del Gobierno De La Espriella: Mincomercio anuncia conexión Barranquilla-Nueva York",
         "capturado": "2026-10-03T16:59:04-05:00"
-      },
-      {
-        "titulo": "Supuestas anomalías motivaron la salida del jefe de Bomberos, designado recientemente por De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/las-presuntas-irregularidades-que-causaron-la-salida-del-director-de-bomberos-recien-nombrado-por-de-la-espriella-503821",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Las presuntas irregularidades que causaron la salida del director de Bomberos, recién nombrado por De La Espriella",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "De la Espriella puso en marcha el trayecto Montería-Panamá e informó que la siguiente ruta será Miami",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-inauguro-la-ruta-monteria-panama-anuncio-que-la-proxima-sera-miami-503820",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "De la Espriella inauguró la ruta Montería-Panamá: anunció que la próxima será Miami",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "Bioeconomía nacional: Sin seguridad alimentaria ni ciencia no hay porvenir, afirmó José Manuel Restrepo",
-        "url": "https://www.portafolio.co/economia/gobierno/bioeconomia-en-colombia-no-hay-futuro-sin-seguridad-alimentaria-ni-ciencia-jose-manuel-restrepo-503814",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Bioeconomía en Colombia: ‘No hay futuro sin seguridad alimentaria ni ciencia’, José Manuel Restrepo",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "Doce horas de charlas para apoyar la reconstrucción de casas en Chocó: así será el evento en el Movistar Arena",
-        "url": "https://www.portafolio.co/economia/regiones/12-horas-de-conferencias-para-ayudar-a-reconstruir-viviendas-en-choco-este-es-el-evento-en-el-movistar-arena-503809",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "12 horas de conferencias para ayudar a reconstruir viviendas en Chocó: este es el evento en el Movistar Arena",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "Asocapitales advierte que 31 ciudades enfrentan peligros altos o críticos para sostener su sistema de salud",
-        "url": "https://www.portafolio.co/economia/gobierno/asocapitales-alerta-31-capitales-reportan-riesgos-altos-o-criticos-para-la-continuidad-de-su-sistema-de-salud-503804",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Asocapitales alerta: 31 capitales reportan riesgos altos o críticos para la continuidad de su sistema de salud",
-        "capturado": "2026-10-03T10:11:32-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Colegios que encabezan el nivel superior del Ranking Col-Sapiens en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-colegios-que-lideran-la-categoria-mas-alta-del-ranking-col-sapiens-en-colombia-503995",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Estos son los colegios que lideran la categoría más alta del Ranking Col-Sapiens en Colombia",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Doria busca protagonismo de la pasta en las loncheras del país y apunta a subir 15% en 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/doria-proyecta-crecer-15-en-2027-y-le-hace-homenaje-a-la-popular-coca-para-animar-el-consumo-de-pasta-503976",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Doria quiere que la pasta sea protagonista en la 'coca' de los colombianos y proyecta crecer 15% en 2027",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Analdex solicita plan de contingencia a la Dian por caída masiva en comercio exterior",
+        "url": "https://www.portafolio.co/negocios/comercio/analdex-pide-contingencia-a-la-dian-por-falla-general-que-afecta-operaciones-de-comercio-exterior-503981",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Analdex pide contingencia a la Dian por falla general que afecta operaciones de comercio exterior",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
+      {
+        "titulo": "Los sucesores al trono",
+        "url": "https://www.portafolio.co/negocios/empresas/los-sucesores-al-trono-503971",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-06",
+        "titulo_fuente": "Los sucesores al trono",
+        "capturado": "2026-10-06T18:34:57-05:00"
+      },
       {
         "titulo": "Los herederos del trono",
         "url": "https://www.portafolio.co/negocios/empresas/los-sucesores-del-trono-503971",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "Tecnología israelí que rastrea carros y los inmoviliza en pleno robo: así opera Ituran en las vías de Colombia",
         "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Skechers incrementa su porción del mercado de marcas deportivas en el territorio nacional",
-        "url": "https://www.portafolio.co/negocios/industrias/skechers-da-un-salto-en-su-participacion-en-el-mercado-de-las-marcas-deportivas-en-el-pais-503687",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Skechers da un salto en su participación en el mercado de las marcas deportivas en el país",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Convención internacional de seguros 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/convencion-internacional-de-seguros-503686",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Convención internacional de seguros 2026",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Las pólizas y las opciones del mañana",
-        "url": "https://www.portafolio.co/negocios/empresas/los-seguros-y-las-oportunidades-del-futuro-503688",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Los seguros y las oportunidades del futuro",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Inversionistas vuelven a mirar a Colombia y gana terreno frente a los demás mercados de la región",
-        "url": "https://www.portafolio.co/negocios/inversion/colombia-vuelve-a-captar-la-atencion-de-los-inversionistas-y-gana-espacio-frente-a-otros-mercados-de-la-region-503676",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "'Colombia vuelve a captar la atención de los inversionistas y gana espacio frente a otros mercados de la región'",
-        "capturado": "2026-10-01T14:41:11-05:00"
       }
     ]
   }
