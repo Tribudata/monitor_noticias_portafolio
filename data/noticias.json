@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-05T13:46:22-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-05T19:36:03-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Adjudicado constructor del Puente Tibanica para unir Bosa y Soacha por 60.000 millones de pesos",
+        "url": "https://www.portafolio.co/economia/infraestructura/puente-tibanica-ya-tiene-constructor-el-proyecto-conectara-bosa-con-soacha-y-costara-60-000-millones-503934",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Puente Tibanica ya tiene constructor: el proyecto conectará Bosa con Soacha y costará $60.000 millones",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "El servicio doméstico vale 340,5 billones y así se evalúa al disolver un matrimonio en Colombia",
+        "url": "https://www.portafolio.co/economia/el-trabajo-domestico-aporta-340-5-billones-asi-se-analiza-al-terminar-un-matrimonio-en-colombia-503925",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "El trabajo doméstico aporta $340,5 billones: así se analiza al terminar un matrimonio en Colombia",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Banco de Occidente recibe galardón de Visa por superar el 90% en aprobación de transacciones",
+        "url": "https://www.portafolio.co/economia/visa-premia-al-banco-de-occidente-por-aprobar-mas-del-90-de-las-compras-503924",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Visa premia al Banco de Occidente por aprobar más del 90% de las compras",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Reforma Agraria abarcó 78% del presupuesto de ANT en 2024 mas gastó solo 12% del dinero",
+        "url": "https://www.portafolio.co/economia/reforma-agraria-concentro-el-78-del-presupuesto-de-la-ant-en-2024-pero-ejecuto-solo-12-de-los-recursos-503921",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Reforma Agraria concentró el 78% del presupuesto de la ANT en 2024, pero ejecutó solo 12% de los recursos",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Cálculo del pago a la Dian para el reciente ganador de 61.600 millones del Baloto en Boyacá",
+        "url": "https://www.portafolio.co/economia/impuestos/cuanto-debera-pagar-a-la-dian-el-ultimo-ganador-del-baloto-de-61-600-millones-en-boyaca-este-es-el-calculo-503917",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "¿Cuánto deberá pagar a la Dian el último ganador del Baloto de $61.600 millones en Boyacá? Este es el cálculo",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Colombia Nature Travel Mart finalizó en Villavicencio con proyecciones comerciales de casi 7,8 millones de dólares",
+        "url": "https://www.portafolio.co/economia/colombia-nature-travel-mart-cerro-en-villavicencio-con-expectativas-de-negocios-por-cerca-de-us-7-8-millones-503912",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Colombia Nature Travel Mart cerró en Villavicencio con expectativas de negocios por cerca de US$7,8 millones",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Unesco aportará US$ 60.000 para restaurar el patrimonio cultural dañado por el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/unesco-aprueba-us-60-000-para-el-patrimonio-afectado-por-el-sismo-503913",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Unesco inyectará US$ 60.000 para reconstruir los bienes culturales que fueron afectados por el terremoto",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Salario mínimo aumentaría $148.827 en 2027, según Davivienda: la inflación influirá",
+        "url": "https://www.portafolio.co/economia/empleo/salario-minimo-subiria-148-827-en-2027-segun-expertos-de-davivienda-inflacion-seria-clave-en-el-calculo-503911",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Salario mínimo subiría $148.827 en 2027, según expertos de Davivienda: inflación sería clave en el cálculo",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Avianca advierte fraudes en tiquetes para Semana de Receso con tarifas bajas en redes",
+        "url": "https://www.portafolio.co/economia/precios-muy-bajos-en-redes-y-chats-avianca-alerta-por-estafas-en-la-venta-de-tiquetes-para-la-semana-de-receso-503908",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Precios muy bajos en redes y chats: Avianca alerta por estafas en la venta de tiquetes para la Semana de Receso",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
       {
         "titulo": "Turistas brasileños en Colombia aumentaron 18% a 159.187 y gastaron US$ 2.699",
         "url": "https://www.portafolio.co/economia/brasil-pisa-el-acelerador-hacia-colombia-sus-visitantes-crecieron-18-ya-son-159-187-y-su-gasto-es-de-us-2-503898",
@@ -513,99 +603,89 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "FNA financia hasta el 90% de una vivienda usada: estos son los documentos que debe presentar",
         "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "CEO de Gopass bajará comisión de peajes si el Gobierno da descuento a carga",
-        "url": "https://www.portafolio.co/economia/ceo-de-gopass-ofrece-reducir-su-comision-por-peajes-si-el-gobierno-crea-un-descuento-para-transportadores-de-carga-503748",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "CEO de Gopass ofrece reducir su comisión por peajes si el Gobierno crea un descuento para transportadores de carga",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado restringe autorretención especial de renta y define exclusiones",
-        "url": "https://www.portafolio.co/economia/el-consejo-de-estado-limita-la-autorretencion-especial-de-renta-que-pagos-quedan-por-fuera-503774",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "El Consejo de Estado limita la autorretención especial de renta: ¿Qué pagos quedan por fuera?",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Ruta Bogotá - Girardot: sugerencias para la semana de receso",
-        "url": "https://www.portafolio.co/economia/infraestructura/via-bogota-girardot-recomendaciones-para-la-semana-de-receso-503772",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Vía Bogotá - Girardot: recomendaciones para la semana de receso",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Tasa de usura cae en octubre y fija un nuevo tope de interés bancario",
-        "url": "https://www.portafolio.co/economia/finanzas/tasa-de-usura-baja-en-octubre-y-establece-nuevo-limite-para-el-cobro-de-intereses-a-los-bancos-503770",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Tasa de usura baja en octubre y establece nuevo límite para el cobro de intereses a los bancos",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Jaime Gregorio Vives Pinedo es designado por De La Espriella como presidente de Coljuegos",
-        "url": "https://www.portafolio.co/economia/gobierno/este-es-jaime-gregorio-vives-pinedo-nombrado-por-de-la-espriella-como-nuevo-presidente-de-coljuegos-503768",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Este es Jaime Gregorio Vives Pinedo, nombrado por De La Espriella como nuevo presidente de Coljuegos",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Gobierno ataca minería ilegal y afecta cuatro unidades en el último día",
-        "url": "https://www.portafolio.co/economia/gobierno/mineria-ilegal-queda-en-la-mira-del-gobierno-cuatro-unidades-fueron-afectadas-en-las-ultimas-24-horas-503767",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Minería ilegal queda en la mira del Gobierno: cuatro unidades fueron afectadas en las últimas 24 horas",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Viceministro de Hacienda aseguró que acabaron los tiempos de desconfianza privada",
-        "url": "https://www.portafolio.co/economia/regiones/viceministro-de-hacienda-dijo-que-los-tiempos-de-desconfianza-hacia-el-sector-privado-terminaron-503753",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Viceministro de Hacienda dijo que los tiempos de desconfianza hacia el sector privado terminaron",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Subida de tasa de interés al 12,25% impactará su bolsillo al endeudarse o pedir créditos",
-        "url": "https://www.portafolio.co/economia/gobierno/tiene-deudas-o-piensa-pedir-un-nuevo-prestamo-asi-afectara-su-bolsillo-el-aumento-de-la-tasa-de-interes-al-12-503765",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "¿Tiene deudas o piensa pedir un nuevo préstamo? Así afectará su bolsillo el aumento de la tasa de interés al 12,25%",
-        "capturado": "2026-10-02T15:55:00-05:00"
-      },
-      {
-        "titulo": "Borrador de resolución propone préstamo de Adres para pagar deudas de EPS en fármacos y trámites",
-        "url": "https://www.portafolio.co/economia/gobierno/proyecto-de-resolucion-plantea-credito-de-adres-para-cubrir-deudas-de-eps-por-medicamentos-y-procedimientos-503763",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Proyecto de resolución plantea crédito de Adres para cubrir deudas de EPS por medicamentos y procedimientos",
-        "capturado": "2026-10-02T15:55:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bruce Mac Master deja su cargo en la junta de la Andi y se creará un comité para buscar su reemplazo",
+        "url": "https://www.portafolio.co/negocios/empresas/junta-directiva-de-la-andi-acepta-renuncia-de-bruce-mac-master-instalara-un-comite-para-elegir-a-su-sucesor-503935",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Junta directiva de la Andi acepta renuncia de Bruce Mac Master: instalará un comité para elegir a su sucesor",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Gabriel Sánchez Olea toma las riendas como nuevo gerente general del Movistar Arena",
+        "url": "https://www.portafolio.co/negocios/empresas/cambio-de-mando-en-el-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-503930",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Cambio de mando en el Movistar Arena: Gabriel Sánchez Olea asume la gerencia general",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Schneider Electric adquiere PTC por 22.600 millones de dólares en su operación más grande",
+        "url": "https://www.portafolio.co/negocios/empresas/schneider-electric-compra-ptc-por-22-600-millones-de-dolares-su-mayor-adquisicion-503928",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Schneider Electric compra PTC por 22.600 millones de dólares: su mayor adquisición",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Grobma pasa de US$60.000 a US$10 millones apostando por tecnología para reciclar plástico",
+        "url": "https://www.portafolio.co/negocios/empresas/de-us-60-000-a-us-10-millones-la-apuesta-de-grobma-con-tecnologia-para-transformar-el-plastico-503919",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "De US$60.000 a US$10 millones: la apuesta de Grobma con tecnología para transformar el plástico",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Firma chilena con 21 millones de dólares recaudados planea vender teléfonos usados en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/empresa-chilena-que-recauda-us-21-millones-pone-la-mira-en-colombia-vendera-celulares-reacondicionados-503920",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Empresa chilena que recauda US$21 millones pone la mira en Colombia: venderá celulares reacondicionados",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Mario Hernández obsequia café a los madrugadores en Juan Valdez bajo estas condiciones",
+        "url": "https://www.portafolio.co/negocios/mario-hernandez-invita-un-cafe-a-quienes-madrugan-asi-puede-reclamarlo-en-juan-valdez-503918",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Mario Hernández invita un café a quienes madrugan: así puede reclamarlo en Juan Valdez",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "La consolidación fiscal es fundamental para conseguir mayor expansión",
+        "url": "https://www.portafolio.co/negocios/empresas/el-ajuste-fiscal-clave-para-lograr-mas-crecimiento-503875",
+        "resumen": "",
+        "autor": "Vanesa castro salamanca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "El ajuste fiscal, clave para lograr más crecimiento",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
+      {
+        "titulo": "Perfil de Efraín Cepeda Tarud, nuevo líder de la Cámara de Comercio de Barranquilla",
+        "url": "https://www.portafolio.co/negocios/comercio/nuevo-presidente-de-la-camara-de-comercio-de-barranquilla-este-es-el-perfil-de-efrain-cepeda-tarud-503909",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Nuevo presidente de la Cámara de Comercio de Barranquilla: este es el perfil de Efraín Cepeda Tarud",
+        "capturado": "2026-10-05T19:36:03-05:00"
+      },
       {
         "titulo": "Analdex advierte sobre la alta dependencia mineroenergética a pesar del aumento en las ventas externas",
         "url": "https://www.portafolio.co/negocios/comercio/analdex-alerta-por-dependencia-del-sector-minero-energetico-pese-al-crecimiento-de-las-exportaciones-503904",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-10-01",
         "titulo_fuente": "¿Cómo está la salud mental de los líderes?",
         "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "De este modo, Compensar recortará cerca del 30 % su gasto de energía",
-        "url": "https://www.portafolio.co/negocios/inversion/de-esta-manera-compensar-reducira-cerca-del-30-su-consumo-energetico-503654",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "De esta manera, Compensar reducirá cerca del 30 % su consumo energético",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Kia encabezó las ventas de carros en Colombia en septiembre, mes en el que Tesla ingresó al top cinco",
-        "url": "https://www.portafolio.co/negocios/vehiculo/kia-lidera-mercado-de-carros-nuevos-y-tesla-entra-al-top-cinco-de-marcas-en-septiembre-en-colombia-503653",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Tesla entra al 'top 5' de las marcas de vehículos más vendidas en Colombia que en septiembre fue liderado por Kia",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Hoy entran en vigor las nuevas normas de la CRC para terminar planes de telefonía móvil sin obstáculos",
-        "url": "https://www.portafolio.co/negocios/empresas/desde-hoy-se-acaban-las-trabas-para-cancelar-planes-de-telefonia-movil-estas-son-las-nuevas-reglas-de-la-crc-503644",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Desde hoy se acaban las trabas para cancelar planes de telefonía móvil: estas son las nuevas reglas de la CRC",
-        "capturado": "2026-10-01T09:12:23-05:00"
-      },
-      {
-        "titulo": "Un apostador en Bogotá ganó 3400 millones de pesos en Baloto Revancha con un boleto digital",
-        "url": "https://www.portafolio.co/negocios/empresas/baloto-revancha-cayo-en-bogota-un-jugador-gano-3-400-millones-con-un-tiquete-comprado-en-linea-503638",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Baloto Revancha cayó en Bogotá: un jugador ganó $3.400 millones con un tiquete comprado en línea",
-        "capturado": "2026-10-01T09:12:23-05:00"
-      },
-      {
-        "titulo": "Luis Carlos Sarmiento Angulo fue condecorado por su contribución al progreso del centro internacional de Bogotá",
-        "url": "https://www.portafolio.co/negocios/empresas/luis-carlos-sarmiento-angulo-recibio-reconocimiento-por-su-aporte-al-desarrollo-del-centro-internacional-en-bogota-503637",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Luis Carlos Sarmiento Angulo recibió reconocimiento por su aporte al desarrollo del centro internacional en Bogotá",
-        "capturado": "2026-10-01T09:12:23-05:00"
-      },
-      {
-        "titulo": "Llega la versión Platinum de la Ford Territory híbrida",
-        "url": "https://www.portafolio.co/negocios/empresas/arriba-la-ford-territory-hibrida-version-platinum-503635",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Arriba la Ford Territory híbrida versión Platinum",
-        "capturado": "2026-10-01T01:51:44-05:00"
-      },
-      {
-        "titulo": "Marca de ropa femenina de Pereira dobla ventas y exporta 43.200 piezas anuales a EE. UU. y Guatemala",
-        "url": "https://www.portafolio.co/negocios/empresas/empresa-pereirana-de-moda-femenina-duplica-ventas-y-lleva-43-200-prendas-al-ano-a-ee-uu-y-guatemala-503599",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "Empresa pereirana de moda femenina duplica ventas y lleva 43.200 prendas al año a EE. UU. y Guatemala",
-        "capturado": "2026-09-30T19:41:06-05:00"
-      },
-      {
-        "titulo": "PepsiCo: esta es la fábrica que elabora 2,5 millones de porciones de snacks diariamente",
-        "url": "https://www.portafolio.co/negocios/empresas/pepsico-esta-es-la-planta-que-produce-2-5-millones-de-unidades-de-snacks-al-dia-503611",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-09-30",
-        "titulo_fuente": "PepsiCo: esta es la planta que produce 2,5 millones de unidades de snacks al día",
-        "capturado": "2026-09-30T19:41:06-05:00"
       }
     ]
   }
