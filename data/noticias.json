@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-05T19:36:03-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-10-06T02:12:26-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobernaciones solicitan actualizar la clasificación fiscal antes de 2028",
+        "url": "https://www.portafolio.co/economia/regiones/departamentos-piden-actualizar-la-categorizacion-fiscal-antes-de-503941",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Departamentos piden actualizar la categorización fiscal antes de 2028",
+        "capturado": "2026-10-06T02:12:26-05:00"
+      },
+      {
+        "titulo": "Restricción vehicular en Bogotá: híbridos y eléctricos exentos hasta 2027",
+        "url": "https://www.portafolio.co/economia/regiones/pico-y-placa-en-bogota-hibridos-y-electricos-tendran-exencion-hasta-503940",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Pico y placa en Bogotá: híbridos y eléctricos tendrán exención hasta 2027",
+        "capturado": "2026-10-06T02:12:26-05:00"
+      },
       {
         "titulo": "Adjudicado constructor del Puente Tibanica para unir Bosa y Soacha por 60.000 millones de pesos",
         "url": "https://www.portafolio.co/economia/infraestructura/puente-tibanica-ya-tiene-constructor-el-proyecto-conectara-bosa-con-soacha-y-costara-60-000-millones-503934",
@@ -583,29 +603,19 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "'Pensar en grande y a 20 años': la ruta que El Dorado y el Puerto de Cartagena trazan para la infraestructura",
         "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial apoya suspender el Decreto 234 y propone al Mintrabajo acompañamiento para revisar decretos",
-        "url": "https://www.portafolio.co/economia/gobierno/consejo-gremial-respalda-la-suspension-del-decreto-234-y-ofrece-acompanar-al-mintrabajo-en-la-revision-de-decretos-503783",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Consejo Gremial respalda la suspensión del Decreto 234 y ofrece acompañar al Mintrabajo en la revisión de decretos",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "FNA presta hasta el 90 por ciento para vivienda usada y estos son los papeles requeridos",
-        "url": "https://www.portafolio.co/economia/fna-financia-hasta-el-90-de-una-vivienda-usada-estos-son-los-documentos-que-debe-presentar-503779",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "FNA financia hasta el 90% de una vivienda usada: estos son los documentos que debe presentar",
-        "capturado": "2026-10-02T15:55:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Tras anunciar su relevo en Movistar Arena, designan a Luis Guillermo Quintero como gerente de Juan Valdez",
+        "url": "https://www.portafolio.co/negocios/empresas/luis-guillermo-quintero-nuevo-gerente-general-de-juan-valdez-503937",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Luego de anunciar su sustituto en Movistar Arena, Luis Guillermo Quintero es nombrado como gerente de Juan Valdez",
+        "capturado": "2026-10-06T02:12:26-05:00"
+      },
       {
         "titulo": "Bruce Mac Master deja su cargo en la junta de la Andi y se creará un comité para buscar su reemplazo",
         "url": "https://www.portafolio.co/negocios/empresas/junta-directiva-de-la-andi-acepta-renuncia-de-bruce-mac-master-instalara-un-comite-para-elegir-a-su-sucesor-503935",
@@ -1194,16 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-10-01",
         "titulo_fuente": "Gobierno De La Espriella reunirá a empresarios de Venezuela, Colombia y EE. UU. para fortalecer vínculo comercial",
-        "capturado": "2026-10-01T14:41:11-05:00"
-      },
-      {
-        "titulo": "Cuál es el estado anímico y mental de los directivos",
-        "url": "https://www.portafolio.co/negocios/empresas/como-esta-la-salud-mental-de-los-lideres-503656",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "¿Cómo está la salud mental de los líderes?",
         "capturado": "2026-10-01T14:41:11-05:00"
       }
     ]
