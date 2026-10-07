@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-06T23:29:38-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-07T06:17:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sede diplomática norteamericana lanza ofertas laborales en el país pagando hasta $141,9 millones anuales",
+        "url": "https://www.portafolio.co/economia/empleo/embajada-de-ee-uu-abre-vacantes-en-colombia-con-salarios-de-hasta-141-9-millones-al-ano-504008",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Embajada de EE. UU. abre vacantes en Colombia con salarios de hasta $141,9 millones al año",
+        "capturado": "2026-10-07T06:17:43-05:00"
+      },
+      {
+        "titulo": "Solicitan aumentar los límites de operaciones al cumplirse el primer año de funcionamiento de Bre-B",
+        "url": "https://www.portafolio.co/economia/finanzas/ampliaira-los-topes-bre-b-cumplio-un-ano-y-piden-ampliar-numero-de-transacciones-503997",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "¿Ampliairá los topes? Bre-B cumplió un año y piden ampliar número de transacciones",
+        "capturado": "2026-10-07T06:17:43-05:00"
+      },
       {
         "titulo": "Actualizar la revisoría fiscal eleva la competitividad",
         "url": "https://www.portafolio.co/economia/finanzas/modernizar-al-revisor-fiscal-impulsa-la-competitividad-504007",
@@ -583,26 +603,6 @@
         "publicacion": "2026-10-04",
         "titulo_fuente": "Abelardo De La Espriella entregó su segundo salario como presidente: destinó el dinero a dos causas en Montería",
         "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo presentará reparos al Legislativo para modificar el pacto de extradición con Francia",
-        "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-llevara-observaciones-al-congreso-para-actualizar-el-tratado-de-extradicion-con-francia-503832",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "El Gobierno llevará observaciones al Congreso para actualizar el tratado de extradición con Francia",
-        "capturado": "2026-10-03T16:59:04-05:00"
-      },
-      {
-        "titulo": "Ejecutivo presenta traslado de 1,2 billones de pesos para asegurar la energía en el Caribe",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-radica-traslado-de-1-2-billones-para-blindar-la-energia-en-el-caribe-503830",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Gobierno radica traslado de $1,2 billones para blindar la energía en el Caribe",
-        "capturado": "2026-10-03T16:59:04-05:00"
       }
     ],
     "Negocios": [
