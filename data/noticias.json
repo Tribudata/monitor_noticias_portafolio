@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-07T06:17:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-07T12:55:16-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El agro colombiano bajo presión: El Niño bajaría hasta 3% el PIB sectorial y afectaría al café en 2026",
+        "url": "https://www.portafolio.co/economia/agro/el-agro-colombiano-queda-bajo-presion-el-nino-podria-reducir-hasta-3-del-pib-del-sector-y-golpear-al-cafe-en-504040",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "El agro colombiano queda bajo presión: El Niño podría reducir hasta 3% del PIB del sector y golpear al café en 2026",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "ABC del Plan de Choque en Salud: así operará el modelo para atender fármacos y trámites pendientes",
+        "url": "https://www.portafolio.co/economia/gobierno/abc-del-plan-de-choque-en-salud-asi-funcionara-el-esquema-para-resolver-medicamentos-y-procedimientos-pendientes-504037",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "ABC del Plan de Choque en Salud: así funcionará el esquema para resolver medicamentos y procedimientos pendientes",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Informe de facturación electrónica de la Dian: cinco puntos a verificar en el reporte mensual y por qué",
+        "url": "https://www.portafolio.co/economia/impuestos/reporte-de-facturacion-electronica-de-la-dian-cinco-datos-que-debe-revisar-en-el-balance-mensual-y-por-que-504034",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Reporte de facturación electrónica de la Dian: cinco datos que debe revisar en el balance mensual y por qué",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027 discutirá el impacto fiscal pensional y la alta nómina en periodo de apremio",
+        "url": "https://www.portafolio.co/economia/salario-minimo-2027-pondra-sobre-la-mesa-el-costo-fiscal-de-pensiones-y-nomina-en-un-ano-de-estrechez-anif-504032",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Salario mínimo 2027 pondrá sobre la mesa el costo fiscal de pensiones y la alta nómina en un año de estrechez",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Los contratos recientes de Fiducoldex, la fiduciaria gestora del Fondo Milagro: qué suscribió en 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/los-ultimos-contratos-de-fiducoldex-la-fiduciaria-que-administrara-el-fondo-milagro-que-ha-firmado-en-504024",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Los últimos contratos de Fiducoldex, la fiduciaria que administrará el Fondo Milagro: ¿qué ha firmado en 2026?",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Los adultos mayores llegarán a 1.600 millones en 2050 y transforman la geografía global de retiros",
+        "url": "https://www.portafolio.co/economia/la-poblacion-mayor-crecera-a-1-600-millones-en-2050-y-cambia-el-mapa-mundial-de-destinos-para-jubilarse-504026",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "La población mayor crecerá a 1.600 millones en 2050 y cambia el mapa mundial de destinos para jubilarse",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "El arroz afronta tres desafíos que retan su productividad al cumplirse 38 meses del arancel cero con EE. UU.",
+        "url": "https://www.portafolio.co/economia/agro/a-38-meses-del-arancel-cero-el-arroz-colombiano-enfrenta-tres-frentes-que-ponen-a-prueba-su-competitividad-504023",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "A 38 meses del arancel cero a EE. UU., el arroz enfrenta una tríada de retos que ponen a prueba su competitividad",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "El nuevo rector de la Universidad Antonio Nariño tiene el desafío de garantizar la reconstrucción de sedes",
+        "url": "https://www.portafolio.co/economia/asegurar-que-la-reconstruccion-de-las-sedes-el-reto-del-nuevo-rector-de-la-universidad-antonio-narino-503992",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "'Asegurar que la reconstrucción de las sedes': el reto del nuevo rector de la Universidad Antonio Nariño",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Empresarios como Arturo Calle, Germán Bahamón y la creadora de Frisby integrarán el Fondo Milagro",
+        "url": "https://www.portafolio.co/economia/gobierno/arturo-calle-german-bahamon-y-otros-empresarios-como-la-fundadora-de-frisby-haran-parte-del-fondo-milagro-504022",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Arturo Calle, Germán Bahamón y otros empresarios, como la fundadora de Frisby, harán parte del 'Fondo Milagro'",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Divisa europea sube tras baja prolongada desde el 29 de septiembre y así se cotiza este 7 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-repunta-luego-de-una-caida-sostenida-desde-el-29-de-septiembre-asi-cotiza-la-divisa-este-7-de-octubre-504017",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Euro repunta luego de una caída sostenida desde el 29 de septiembre: así cotiza la divisa este 7 de octubre",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Plan de Choque en Salud reporta progresos en VIH, embarazos, trasplantes y cáncer con entrega de fármacos",
+        "url": "https://www.portafolio.co/economia/gobierno/plan-de-choque-en-salud-muestra-avances-en-vih-gestacion-trasplantes-cancer-adelantan-medicamentos-pendientes-504018",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Plan de Choque en Salud muestra avances en VIH, gestación, trasplantes, cáncer: adelantan medicamentos pendientes",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Contraloría vigilará los recursos de la reconstrucción mediante seguimiento a contratos, ayudas y obras",
+        "url": "https://www.portafolio.co/economia/regiones/vigilaran-cada-peso-de-la-reconstruccion-contraloria-seguira-ruta-de-contratos-ayudas-y-avances-de-las-obras-504015",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Vigilarán cada peso de la reconstrucción: Contraloría seguirá ruta de contratos, ayudas y avances de las obras",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "De La Espriella rechaza metas inviables en el Plan de Desarrollo 2026-2030",
+        "url": "https://www.portafolio.co/economia/gobierno/no-quiero-un-plan-lleno-de-promesas-imposibles-de-la-espriella-sobre-el-plan-de-desarrollo-2026-504016",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "‘No quiero un Plan lleno de promesas imposibles’: De La Espriella sobre el Plan de Desarrollo 2026-2030",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Nuevo protocolo del Gobierno para la llegada de dignatarios extranjeros a Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cambia-protocolo-para-recibir-a-autoridades-extranjeras-asi-funcionaran-las-visitas-a-colombia-504013",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Gobierno cambia protocolo para recibir a autoridades extranjeras: así funcionarán las visitas a Colombia",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Gobierno saca decreto que quita el tope de 30% a inversiones externas de fondos de pensiones",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-expide-decreto-que-elimina-el-limite-del-30-a-las-inversiones-de-los-fondos-de-pensiones-en-el-exterior-504012",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Gobierno expide decreto que elimina el límite del 30% a las inversiones de los fondos de pensiones en el exterior",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "La divisa estadounidense en Colombia sube y pasa de $3.250 este 7 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-amanece-al-alza-este-miercoles-7-de-octubre-pero-se-mantiene-cerca-de-los-3-504011",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "El dólar en Colombia pega un salto y supera los $3.250: así cotiza la divisa este 7 de octubre",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
       {
         "titulo": "Sede diplomática norteamericana lanza ofertas laborales en el país pagando hasta $141,9 millones anuales",
         "url": "https://www.portafolio.co/economia/empleo/embajada-de-ee-uu-abre-vacantes-en-colombia-con-salarios-de-hasta-141-9-millones-al-ano-504008",
@@ -443,169 +603,69 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "Crédito del Fondo Monetario Internacional podría costarle a Colombia 3,7% anual, frente al 6,6% de bonos externos",
         "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "De La Espriella cuestiona al gobierno Petro por escasa prevención frente al arribo del fenómeno de El Niño",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-critica-a-la-administracion-petro-por-la-falta-de-preparacion-ante-la-llegada-de-el-nino-503884",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Gobierno De La Espriella critica a la administración Petro por la falta de preparación ante la llegada de El Niño",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "Frutas exóticas impulsan ventas externas a US$49,1 millones este 2026, con la gulupa a la cabeza",
-        "url": "https://www.portafolio.co/economia/agro/gulupa-lleva-la-bandera-frutas-exoticas-elevan-sus-exportaciones-a-us-49-1-millones-en-lo-que-va-de-503802",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Gulupa lleva la bandera: frutas exóticas elevan sus exportaciones a US$49,1 millones en lo que va de 2026",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "De este modo funcionarán las becas para posgrados internacionales que el gobierno De La Espriella habilitó",
-        "url": "https://www.portafolio.co/economia/gobierno/maestrias-y-doctorados-en-el-exterior-asi-seran-las-becas-que-reactivo-el-gobierno-de-la-espriella-503879",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Maestrías y doctorados en el exterior: así serán las becas que reactivó el Gobierno De La Espriella",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "El rumbo cambiario y los mercados locales en 2027 dependerán del ajuste fiscal",
-        "url": "https://www.portafolio.co/economia/ajuste-fiscal-sera-clave-para-los-mercados-colombianos-en-2027-y-marcara-el-rumbo-de-la-tasa-de-cambio-503764",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Ajuste fiscal será clave para los mercados colombianos en 2027 y marcará el rumbo de la tasa de cambio",
-        "capturado": "2026-10-04T21:18:59-05:00"
-      },
-      {
-        "titulo": "Empieza la discusión salarial para 2027 y el incremento se calcula entre 9% y 10%",
-        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Salario mínimo de 2027 se perfila entre 9% y 10% mientras arranca la negociación entre Gobierno y sectores",
-        "capturado": "2026-10-04T21:18:59-05:00"
-      },
-      {
-        "titulo": "De la Espriella apoya a Flávio Bolsonaro en Brasil",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-respalda-a-flavio-bolsonaro-en-brasil-503869",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "De la Espriella respalda a Flávio Bolsonaro en Brasil",
-        "capturado": "2026-10-04T18:28:21-05:00"
-      },
-      {
-        "titulo": "Retos de las aseguradoras: tecnología y atención humana",
-        "url": "https://www.portafolio.co/economia/finanzas/tecnologia-y-atencion-humana-los-retos-del-sector-asegurador-503868",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Tecnología y atención humana, los retos del sector asegurador",
-        "capturado": "2026-10-04T18:28:21-05:00"
-      },
-      {
-        "titulo": "Colombia alcanza 39.000 hectáreas de aguacate Hass y busca mayor productividad para 2027",
-        "url": "https://www.portafolio.co/economia/colombia-supera-las-39-000-hectareas-de-aguacate-hass-y-apunta-a-mayor-productividad-en-503861",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Colombia supera las 39.000 hectáreas de aguacate Hass y apunta a mayor productividad en 2027",
-        "capturado": "2026-10-04T18:28:21-05:00"
-      },
-      {
-        "titulo": "Las salas VIP en Colombia transforman los aeropuertos en espacios de entretenimiento",
-        "url": "https://www.portafolio.co/economia/aeropuertos-un-negocio-que-paso-a-ofrecer-entretenimiento-asi-cambian-las-salas-vip-en-colombia-503858",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Aeropuertos, un negocio que pasó a ofrecer entretenimiento: así cambian las salas VIP en Colombia",
-        "capturado": "2026-10-04T15:20:26-05:00"
-      },
-      {
-        "titulo": "Marval lanza en Soho 26 los papeles de obra con los que Bogotá recaudó $41.987 millones en puja",
-        "url": "https://www.portafolio.co/economia/infraestructura/marval-estrena-en-soho-26-los-certificados-de-construccion-con-los-que-bogota-recaudo-41-987-millones-en-subasta-503848",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Marval estrena en Soho 26 los certificados de construcción con los que Bogotá recaudó $41.987 millones en subasta",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "Galardón Nacional de Construcción al Ecoparque Mallorquín en Barranquilla, obra que arrancó con Jaime Pumarejo",
-        "url": "https://www.portafolio.co/economia/infraestructura/premio-nacional-de-arquitectura-para-ecoparque-mallorquin-en-barranquilla-proyecto-iniciado-con-jaime-pumarejo-503847",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Premio Nacional de Arquitectura para Ecoparque Mallorquín en Barranquilla, proyecto iniciado con Jaime Pumarejo",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "Turistas en semana de receso: así funcionarán las rutas, los peajes y los operativos en las vías nacionales",
-        "url": "https://www.portafolio.co/economia/gobierno/viajeros-en-semana-de-receso-asi-operaran-las-vias-los-peajes-y-los-controles-en-las-carreteras-del-pais-503846",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Viajeros en semana de receso: así operarán las vías, los peajes y los controles en las carreteras del país",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "$7.000 millones de Fontur en Córdoba: el capital que financia la nueva ruta externa de Satena",
-        "url": "https://www.portafolio.co/economia/7-000-millones-de-fontur-en-cordoba-la-inversion-que-respalda-el-nuevo-vuelo-internacional-de-satena-503844",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "$7.000 millones de Fontur en Córdoba: la inversión que respalda el nuevo vuelo internacional de Satena",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "La connacional Diana Trujillo ya lo alcanzó: la Nasa requiere más jefes de vuelo para sus viajes a la Luna y Marte",
-        "url": "https://www.portafolio.co/economia/la-colombiana-diana-trujillo-ya-lo-logro-la-nasa-busca-mas-directores-de-vuelo-para-sus-misiones-a-la-luna-y-marte-503839",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "La colombiana Diana Trujillo ya lo logró: la Nasa busca más directores de vuelo para sus misiones a la Luna y Marte",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "De La Espriella revela ofensiva contra la corrupción y citó episodios de Unipamplona y el jefe de Bomberos",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncia-ofensiva-anticorrupcion-y-menciono-casos-de-unipamplona-y-el-director-de-bomberos-503838",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "De La Espriella anuncia ofensiva anticorrupción y mencionó casos de Unipamplona y el director de Bomberos",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "El sueldo de Abelardo De La Espriella como presidente fue donado por segunda vez a dos causas en Montería",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-entrego-su-segundo-salario-como-presidente-destino-el-dinero-a-dos-causas-en-monteria-503837",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Abelardo De La Espriella entregó su segundo salario como presidente: destinó el dinero a dos causas en Montería",
-        "capturado": "2026-10-04T12:18:16-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Iniciativa Bravo Zulu de Araújo Ibarra y Black Horse busca impulsar la inversión y el crecimiento corporativo",
+        "url": "https://www.portafolio.co/negocios/empresas/bravo-zulu-la-apuesta-de-araujo-ibarra-y-black-horse-para-atraer-inversion-y-fortalecer-la-expansion-empresarial-504030",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Bravo Zulu: la apuesta de Araújo Ibarra y Black Horse para atraer inversión y fortalecer la expansión empresarial",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Desafío de Bre-B en pagos rápidos para prevenir estafas ante el alza del 40% en e-commerce",
+        "url": "https://www.portafolio.co/negocios/comercio/pagos-instantaneos-el-reto-de-bre-b-para-evitar-fraudes-cuando-el-comercio-electronico-sube-504038",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Pagos instantáneos: el reto de Bre-B para evitar fraudes cuando el comercio electrónico sube 40%",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Vuelo de Satena entre Montería y Panamá informado por De La Espriella alcanzó 300 reservas en dos días",
+        "url": "https://www.portafolio.co/negocios/empresas/ruta-monteria-panama-de-satena-logra-300-reservas-en-48-horas-y-mantiene-tarifa-de-us-504031",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Ruta de Satena entre Montería y Panamá, anunciada por De La Espriella, superó las 300 reservas en 48 horas",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Davivienda obtiene permiso esencial para sumar a Davibank y progresa en la estructura de su holding",
+        "url": "https://www.portafolio.co/negocios/empresas/superfinanciera-autoriza-integracion-de-davibank-con-davivienda-y-avanza-reorganizacion-del-grupo-504027",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Davivienda recibe aval clave para integrar a Davibank y avanza en la reorganización de su grupo financiero",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Novedoso esquema de Bancolombia otorga cuentas salariales gratis y descuentos de hasta 50% en apps",
+        "url": "https://www.portafolio.co/negocios/empresas/nuevo-modelo-de-bancolombia-ofrece-cuentas-nomina-sin-costo-y-rebajas-de-hasta-50-en-suscripciones-504025",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Nuevo modelo de Bancolombia ofrece cuentas de nómina sin costo y rebajas de hasta 50% en suscripciones",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
+      {
+        "titulo": "Auteco Blue solicita al Ejecutivo aclarar si camiones eléctricos pagan cupo ambiental por vacío legal",
+        "url": "https://www.portafolio.co/negocios/empresas/auteco-blue-pide-al-gobierno-definir-si-los-camiones-electricos-pagan-cupo-ambiental-habla-de-una-zona-gris-503989",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Auteco Blue pide al Gobierno definir si los camiones eléctricos pagan cupo ambiental: habla de una zona gris",
+        "capturado": "2026-10-07T12:55:16-05:00"
+      },
       {
         "titulo": "Massy Energy Colombia analiza recursos para gas natural",
         "url": "https://www.portafolio.co/negocios/empresas/massy-energy-colombia-evalua-inversiones-en-gas-natural-504005",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-02",
         "titulo_fuente": "$12.000 millones entre el Gobierno y Bavaria para nueva 'Ruta Milagro': apoyarán a 3.500 negocios tras el terremoto",
         "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Mario Hernández recorre las calles impulsando la campaña El primer tinto lo invito yo",
-        "url": "https://www.portafolio.co/negocios/empresas/el-primer-tinto-lo-invito-yo-mario-hernandez-sale-a-las-calles-con-esta-iniciativa-503728",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "'El primer tinto lo invito yo': Mario Hernández sale a las calles con esta iniciativa",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Fundación Santo Domingo y Tiendas D1 entregan $20.000 millones más para hogares damnificados por el sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/tiendas-d1-y-fundacion-santo-domingo-aportan-20-000-millones-adicionales-para-familias-afectadas-por-el-terremoto-503721",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Tiendas D1 y Fundación Santo Domingo aportan $20.000 millones adicionales para familias afectadas por el terremoto",
-        "capturado": "2026-10-02T11:29:49-05:00"
-      },
-      {
-        "titulo": "Gobierno prepara garantías jurídicas y beneficios fiscales para captar nueva inversión nacional",
-        "url": "https://www.portafolio.co/negocios/inversion/gobierno-alista-incentivos-tributarios-y-estabilidad-juridica-para-atraer-nueva-inversion-al-pais-503707",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Gobierno alista incentivos tributarios y estabilidad jurídica para atraer nueva inversión al país",
-        "capturado": "2026-10-01T23:13:47-05:00"
-      },
-      {
-        "titulo": "El Concejo de Bogotá condecora a Bruce Mac Master tras su anuncio de dimisión a la presidencia de la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-es-condecorado-por-el-concejo-de-bogota-tras-anunciar-su-renuncia-a-la-presidencia-de-la-andi-503702",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Bruce Mac Master es condecorado por el Concejo de Bogotá, tras anunciar su renuncia a la presidencia de la Andi",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Suenan candidatos para suceder a Bruce Mac Master en la presidencia de la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/se-prende-el-sonajero-para-reemplazar-a-bruce-mac-master-en-la-andi-los-nombres-que-suenan-para-sucederlo-503699",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Se prende el sonajero para reemplazar a Bruce Mac Master en la Andi: los nombres que suenan para sucederlo",
-        "capturado": "2026-10-01T18:41:32-05:00"
-      },
-      {
-        "titulo": "Mallplaza concreta la millonaria adquisición de ocho centros comerciales Gran Plaza y llega a 13 activos en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/mallplaza-sella-compra-de-ocho-centros-comerciales-gran-plaza-y-alcanza-13-activos-en-colombia-503697",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Mallplaza sella megacompra de ocho centros comerciales Gran Plaza y alcanza 13 activos en Colombia",
-        "capturado": "2026-10-01T18:41:32-05:00"
       }
     ]
   }
