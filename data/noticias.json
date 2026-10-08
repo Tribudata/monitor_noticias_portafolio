@@ -1,9 +1,159 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-08T05:03:11-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-08T12:29:52-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno De La Espriella evalúa retomar el día sin IVA y discute su impacto fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-analiza-revivir-dia-sin-iva-en-esta-ciudad-de-colombia-y-abre-debate-por-su-costo-fiscal-504113",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Gobierno De La Espriella analiza revivir día sin IVA y abre debate por su costo fiscal",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Qué le espera a la reforma pensional en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/que-viene-para-la-reforma-pensional-en-colombia-504108",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "¿Qué viene para la reforma pensional en Colombia?",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Productores de arroz en Casanare adeudan 470000 millones y el Gobierno prepara auxilios",
+        "url": "https://www.portafolio.co/economia/agro/arroceros-de-casanare-enfrentan-deudas-por-470-000-millones-y-gobierno-prepara-medidas-de-alivio-financiero-504107",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Arroceros de Casanare enfrentan deudas por $470.000 millones y Gobierno prepara medidas de alivio financiero",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Gobierno arranca en el Eje Cafetero la elaboración regional del Plan de Desarrollo 2026-2030",
+        "url": "https://www.portafolio.co/economia/gobierno-inicia-desde-el-eje-cafetero-la-construccion-regional-del-plan-nacional-de-desarrollo-2026-504104",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Gobierno inicia desde el Eje Cafetero la construcción regional del Plan Nacional de Desarrollo 2026-2030",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Hospitales públicos golpeados por el sismo dispondrán de medio año para entregar datos al Estado",
+        "url": "https://www.portafolio.co/economia/gobierno/hospitales-publicos-afectados-por-el-sismo-tendran-seis-meses-de-plazo-para-reportar-informacion-al-estado-504103",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Hospitales públicos afectados por el sismo tendrán seis meses de plazo para reportar información al Estado",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Austeridad en 2027: Gobierno recorta viajes oficiales y disminuye gastos de publicidad",
+        "url": "https://www.portafolio.co/economia/austeridad-en-2027-gobierno-limita-viajes-de-funcionarios-y-ordena-reducir-gastos-de-publicidad-estatal-504102",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Austeridad en 2027: Gobierno limita viajes de funcionarios y ordena reducir gastos de publicidad estatal",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Estatuto Antiterrorista: cómo operaría el registro de bandas criminales sugerido por el Gobierno De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/estatuto-antiterrorista-asi-funcionaria-la-lista-de-grupos-terroristas-que-propone-el-gobierno-de-la-espriella-504098",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Estatuto Antiterrorista: así funcionaría la lista de grupos terroristas que propone el Gobierno De La Espriella",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Carteras de Transporte y Defensa presentan plan para combatir la criminalidad en vías principales",
+        "url": "https://www.portafolio.co/economia/gobierno/ministerios-de-transporte-y-defensa-lanzan-hoja-de-ruta-para-enfrentar-inseguridad-en-corredores-estrategicos-504100",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Ministerios de Transporte y Defensa lanzan hoja de ruta para enfrentar inseguridad en corredores estratégicos",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Con nuevo decreto Ejecutivo extiende a 30 meses el tiempo para fijar normas de portabilidad financiera",
+        "url": "https://www.portafolio.co/economia/con-nuevo-decreto-gobierno-amplia-a-30-meses-el-plazo-para-definir-los-estandares-de-portabilidad-financiera-504096",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Con nuevo decreto Gobierno amplía a 30 meses el plazo para definir los estándares de portabilidad financiera",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Cotización del euro baja en Colombia y el dólar sube: así se mueve la divisa europea este 8 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-en-colombia-cae-mientras-el-dolar-sube-asi-cotiza-la-moneda-europea-este-8-de-octubre-504094",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Precio del euro en Colombia cae, mientras el dólar sube: así cotiza la moneda europea este 8 de octubre",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Un trasplante renal puede salir más barato que aguardar: cinco años de diálisis suman hasta $225 millones por enfermo",
+        "url": "https://www.portafolio.co/economia/finanzas/trasplantar-un-rinon-puede-costar-menos-que-esperar-cinco-anos-de-dialisis-llegan-hasta-225-millones-por-paciente-504092",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Trasplantar un riñón puede costar menos que esperar: cinco años de diálisis llegan hasta $225 millones por paciente",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Medida de austeridad: Mininterior recorta $103.000 millones y anula 557 contratos de la administración Petro",
+        "url": "https://www.portafolio.co/economia/gobierno/plan-de-austeridad-mininterior-libera-103-000-millones-y-cancelo-557-contratos-que-dejo-el-gobierno-petro-504090",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Plan de austeridad: Mininterior libera $103.000 millones y canceló 557 contratos que dejó el Gobierno Petro",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "La tasa de cambio descendió hacia los 3.200 pesos este 8 de octubre en el país",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-inicia-al-alza-tras-el-aumento-de-la-inflacion-y-se-acerco-a-los-3-504089",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Dólar en Colombia bajó y se acerca a los 3.200: así cotiza la divisa este 8 de octubre",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "El nuevo recargo en Buenaventura presiona las exportaciones cafeteras y la FNC pide evaluar sus efectos",
+        "url": "https://www.portafolio.co/economia/agro/el-nuevo-cobro-en-buenaventura-suma-presion-a-las-exportaciones-de-cafe-la-fnc-pide-revisar-sus-impactos-504087",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "El nuevo cobro en Buenaventura suma presión a las exportaciones de café: la FNC pide revisar sus impactos",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "La inflación del 6,29% en septiembre marca la pauta para discutir el salario mínimo de 2027 en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/la-inflacion-del-6-29-en-septiembre-fija-la-pauta-para-la-discusion-del-salario-minimo-de-2027-en-colombia-504088",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "La inflación del 6,29% en septiembre fija la pauta para la discusión del salario mínimo de 2027 en Colombia",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
       {
         "titulo": "MinHacienda da visto bueno a créditos con la banca alemana de desarrollo por 497 millones de euros",
         "url": "https://www.portafolio.co/economia/gobierno/hacienda-emite-concepto-favorable-para-obtener-prestamo-con-el-banco-de-desarrollo-aleman-por-497-millones-de-euros-504086",
@@ -453,159 +603,59 @@
         "publicacion": "2026-10-06",
         "titulo_fuente": "Salario mínimo 2027: esto pide el Gobierno para facilitar la negociación del aumento con empresarios y trabajadores",
         "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "ICA en Bogotá: el 9 de octubre de 2026 expira el plazo límite para el pago y declaración del cuarto bimestre",
-        "url": "https://www.portafolio.co/economia/ica-en-bogota-este-9-de-octubre-vence-el-plazo-para-declarar-y-pagar-el-cuarto-bimestre-de-503973",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "ICA en Bogotá: este 9 de octubre vence el plazo para declarar y pagar el cuarto bimestre de 2026",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Nuevos topes de interés alteraron el crédito rural: bajaron los créditos menores y subieron los mayores",
-        "url": "https://www.portafolio.co/economia/agro/regulacion-de-tasas-cambio-el-credito-agropecuario-hubo-menos-prestamos-pequenos-y-mas-grandes-503970",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Regulación de tasas cambió el crédito agropecuario: hubo menos préstamos pequeños y más grandes",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Anif reporta alza en acciones, bonos y real brasileño tras giro electoral rumbo a la segunda vuelta",
-        "url": "https://www.portafolio.co/economia/bonos-acciones-y-real-brasileno-suben-tras-primera-vuelta-que-cambio-el-escenario-para-el-balotaje-anif-503969",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Bonos, acciones y real brasileño suben tras primera vuelta que cambió el escenario para el balotaje: Anif",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Euro en Colombia: cotiza cerca de 3600 pesos tras fuerte descenso registrado este 6 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-cae-con-fuerza-este-6-de-octubre-y-se-cotiza-cerca-de-los-3-503965",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Euro hoy en Colombia: cae con fuerza este 6 de octubre y se cotiza cerca de los $3.600",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Director del Banco de la República señala que Bre-B debe aceptar transacciones superiores a $12 millones",
-        "url": "https://www.portafolio.co/economia/finanzas/gerente-del-banrepublica-menciona-necesidad-de-permitir-operaciones-por-encima-de-12-millones-a-traves-de-bre-b-503964",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Gerente del Banrepública menciona necesidad de permitir operaciones por encima de $12 millones a través de Bre-B",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Nuevos recursos de regalías por $5.203 millones se destinan a la remodelación del coliseo en Arauca",
-        "url": "https://www.portafolio.co/economia/regiones/regalias-financian-nuevo-coliseo-de-arauca-inversion-para-renovacion-del-escenario-asciende-a-5-203-millones-503954",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Regalías financian nuevo coliseo de Arauca: inversión para renovación del escenario asciende a $5.203 millones",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Vivienda en Boquete, Panamá, hasta 30% más barata que en la capital",
-        "url": "https://www.portafolio.co/economia/boquete-la-montana-panamena-donde-la-vivienda-cuesta-hasta-30-menos-que-en-ciudad-de-panama-503952",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Boquete, la montaña panameña donde la vivienda cuesta hasta 30% menos que en Ciudad de Panamá",
-        "capturado": "2026-10-06T09:23:13-05:00"
-      },
-      {
-        "titulo": "Administración revela cambios en consulta previa para destrabar trámites",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-reforma-al-procedimiento-de-consulta-previa-para-destrabar-expedientes-503950",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Gobierno anuncia reforma al procedimiento de consulta previa para destrabar expedientes",
-        "capturado": "2026-10-06T09:23:13-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio este 6 de octubre: dólar comienza en torno a $3.200",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-divisa-inicia-cerca-de-los-3-200-este-6-de-octubre-503947",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa inicia cerca de los $3.200 este 6 de octubre",
-        "capturado": "2026-10-06T09:23:13-05:00"
-      },
-      {
-        "titulo": "Gobernaciones solicitan actualizar la clasificación fiscal antes de 2028",
-        "url": "https://www.portafolio.co/economia/regiones/departamentos-piden-actualizar-la-categorizacion-fiscal-antes-de-503941",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Departamentos piden actualizar la categorización fiscal antes de 2028",
-        "capturado": "2026-10-06T02:12:26-05:00"
-      },
-      {
-        "titulo": "Restricción vehicular en Bogotá: híbridos y eléctricos exentos hasta 2027",
-        "url": "https://www.portafolio.co/economia/regiones/pico-y-placa-en-bogota-hibridos-y-electricos-tendran-exencion-hasta-503940",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Pico y placa en Bogotá: híbridos y eléctricos tendrán exención hasta 2027",
-        "capturado": "2026-10-06T02:12:26-05:00"
-      },
-      {
-        "titulo": "Adjudicado constructor del Puente Tibanica para unir Bosa y Soacha por 60.000 millones de pesos",
-        "url": "https://www.portafolio.co/economia/infraestructura/puente-tibanica-ya-tiene-constructor-el-proyecto-conectara-bosa-con-soacha-y-costara-60-000-millones-503934",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Puente Tibanica ya tiene constructor: el proyecto conectará Bosa con Soacha y costará $60.000 millones",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "El servicio doméstico vale 340,5 billones y así se evalúa al disolver un matrimonio en Colombia",
-        "url": "https://www.portafolio.co/economia/el-trabajo-domestico-aporta-340-5-billones-asi-se-analiza-al-terminar-un-matrimonio-en-colombia-503925",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "El trabajo doméstico aporta $340,5 billones: así se analiza al terminar un matrimonio en Colombia",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Banco de Occidente recibe galardón de Visa por superar el 90% en aprobación de transacciones",
-        "url": "https://www.portafolio.co/economia/visa-premia-al-banco-de-occidente-por-aprobar-mas-del-90-de-las-compras-503924",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Visa premia al Banco de Occidente por aprobar más del 90% de las compras",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Reforma Agraria abarcó 78% del presupuesto de ANT en 2024 mas gastó solo 12% del dinero",
-        "url": "https://www.portafolio.co/economia/reforma-agraria-concentro-el-78-del-presupuesto-de-la-ant-en-2024-pero-ejecuto-solo-12-de-los-recursos-503921",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Reforma Agraria concentró el 78% del presupuesto de la ANT en 2024, pero ejecutó solo 12% de los recursos",
-        "capturado": "2026-10-05T19:36:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El avance de la inteligencia artificial se financia mediante pasivos",
+        "url": "https://www.portafolio.co/negocios/empresas/la-carrera-de-la-inteligencia-artificial-se-paga-con-deuda-504114",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "La carrera de la inteligencia artificial se paga con deuda",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Empresarios vallecaucanos rechazan tasa por tonelada en Buenaventura y advierten peligros legales y comerciales",
+        "url": "https://www.portafolio.co/negocios/empresas/empresarios-del-valle-rechazan-cobro-por-tonelada-en-buenaventura-alertan-riesgos-juridicos-y-competitivos-504110",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Empresarios del Valle rechazan cobro por tonelada en Buenaventura: alertan riesgos jurídicos y competitivos",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Juan Valdez expandió su alcance global en el Día Internacional del Café al regalar 13.110 tazas en distintos países",
+        "url": "https://www.portafolio.co/negocios/empresas/juan-valdez-amplifico-su-presencia-global-en-el-dia-internacional-del-cafe-entrego-13-110-tazas-en-varios-paises-504106",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Juan Valdez amplificó su presencia global en el Día Internacional del Café: entregó 13.110 tazas en varios países",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Greeicy y Mike Bahía pasan de los escenarios al ámbito empresarial con la creación de su holding de snacks",
+        "url": "https://www.portafolio.co/negocios/empresas/de-los-escenarios-al-negocio-greeicy-y-mike-bahia-crean-su-propio-holding-de-snacks-504099",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "De los escenarios al negocio: Greeicy y Mike Bahía crean su propio holding de snacks",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
+      {
+        "titulo": "Comerciantes piden revocar decreto del salario mínimo de 2026 y critican el concepto de salario vital",
+        "url": "https://www.portafolio.co/negocios/empresas/comerciantes-insisten-en-la-nulidad-del-decreto-que-fijo-el-alza-de-salario-minimo-de-504097",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Comerciantes insisten en anular decreto que fijó el salario mínimo de 2026 y cuestionaron figura del salario vital",
+        "capturado": "2026-10-08T12:29:52-05:00"
+      },
       {
         "titulo": "Detalles del Jaguar Type 01, un vehículo cinematográfico más allá de la estética",
         "url": "https://www.portafolio.co/negocios/vehiculo/mas-que-diseno-las-caracteristicas-del-jaguar-type-01-un-carro-de-pelicula-504085",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-03",
         "titulo_fuente": "Salitre Mágico inauguró el 11° Festival del Terror: estas son las casas del terror y las novedades de esta edición",
         "capturado": "2026-10-03T16:59:04-05:00"
-      },
-      {
-        "titulo": "El desafío de los carros eléctricos en el país: un punto de carga público por cada 148 automotores",
-        "url": "https://www.portafolio.co/negocios/vehiculo/el-reto-de-los-vehiculos-electricos-en-colombia-solo-hay-un-cargador-publico-por-cada-148-vehiculos-503829",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "El reto de los vehículos eléctricos en Colombia: Solo hay un cargador público por cada 148 vehículos",
-        "capturado": "2026-10-03T16:59:04-05:00"
-      },
-      {
-        "titulo": "Este es el paso a paso y el tiempo límite para la devolución del IVA en vehículos híbridos o eléctricos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/este-es-el-plazo-y-el-proceso-para-que-le-devuelvan-el-iva-si-compro-un-carro-hibrido-o-electrico-503819",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Este es el plazo y el proceso para que le devuelvan el IVA si compró un carro híbrido o eléctrico",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "Hyundai dio a conocer el nuevo modelo de su SUV Tucson que arribaría al país al cierre del año entrante",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-coreana-hyundai-presenta-la-nueva-version-del-suv-tucson-en-nueva-york-503813",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Hyundai presentó la nueva versión de su SUV Tucson que llegaría a Colombia a finales del próximo año",
-        "capturado": "2026-10-03T13:46:30-05:00"
-      },
-      {
-        "titulo": "Nueva herramienta ya conecta pagos con Bre-B entre Colombia y Venezuela: así podrán enviarse dinero",
-        "url": "https://www.portafolio.co/negocios/empresas/nueva-herramienta-ya-conecta-pagos-con-bre-b-entre-colombia-y-venezuela-asi-podran-enviarse-dinero-503803",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Nueva herramienta ya conecta pagos con Bre-B entre Colombia y Venezuela: así podrán enviarse dinero",
-        "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "Alza del 217% en carros eléctricos en Colombia eleva demanda de carga y requerirá 20.000 puntos para 2030",
-        "url": "https://www.portafolio.co/negocios/vehiculo/carros-electricos-en-colombia-crecen-217-y-disparan-la-demanda-de-puntos-de-carga-se-necesitaran-20-000-en-503810",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Carros eléctricos en Colombia crecen 217% y disparan la demanda de puntos de carga: se necesitarán 20.000 en 2030",
-        "capturado": "2026-10-03T10:11:32-05:00"
       }
     ]
   }
