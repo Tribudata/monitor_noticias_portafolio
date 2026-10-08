@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-07T17:46:46-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-10-07T21:33:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "MinHacienda da visto bueno a créditos con la banca alemana de desarrollo por 497 millones de euros",
+        "url": "https://www.portafolio.co/economia/gobierno/hacienda-emite-concepto-favorable-para-obtener-prestamo-con-el-banco-de-desarrollo-aleman-por-497-millones-de-euros-504086",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Hacienda emite concepto favorable para obtener préstamos con Banco de Desarrollo alemán por 497 millones de euros",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
+      {
+        "titulo": "El costo de vida en Colombia continúa al alza y llega al 6,29% en septiembre de 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Inflación en Colombia sigue subiendo: se ubicó en 6,29% en septiembre de 2026",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
+      {
+        "titulo": "Cesce llega a zonas con actividad productiva y económica para mitigar el riesgo de cobros",
+        "url": "https://www.portafolio.co/economia/finanzas/donde-se-produzca-y-haya-dinamica-economica-esta-cesce-para-reducir-el-riesgo-de-pagos-504076",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "‘Donde se produzca y haya dinámica económica está Cesce, para reducir el riesgo de pagos’",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
       {
         "titulo": "Minvivienda dialoga con gerente del Fondo Milagro: revelan primer desembolso y costo proyectado de casas",
         "url": "https://www.portafolio.co/economia/gobierno/minvivienda-se-reune-con-gerente-del-fondo-milagro-se-conoce-el-primer-giro-y-el-estimado-del-costo-en-viviendas-504075",
@@ -573,39 +603,39 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "Reforma Agraria concentró el 78% del presupuesto de la ANT en 2024, pero ejecutó solo 12% de los recursos",
         "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Cálculo del pago a la Dian para el reciente ganador de 61.600 millones del Baloto en Boyacá",
-        "url": "https://www.portafolio.co/economia/impuestos/cuanto-debera-pagar-a-la-dian-el-ultimo-ganador-del-baloto-de-61-600-millones-en-boyaca-este-es-el-calculo-503917",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "¿Cuánto deberá pagar a la Dian el último ganador del Baloto de $61.600 millones en Boyacá? Este es el cálculo",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Colombia Nature Travel Mart finalizó en Villavicencio con proyecciones comerciales de casi 7,8 millones de dólares",
-        "url": "https://www.portafolio.co/economia/colombia-nature-travel-mart-cerro-en-villavicencio-con-expectativas-de-negocios-por-cerca-de-us-7-8-millones-503912",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Colombia Nature Travel Mart cerró en Villavicencio con expectativas de negocios por cerca de US$7,8 millones",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Unesco aportará US$ 60.000 para restaurar el patrimonio cultural dañado por el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/unesco-aprueba-us-60-000-para-el-patrimonio-afectado-por-el-sismo-503913",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Unesco inyectará US$ 60.000 para reconstruir los bienes culturales que fueron afectados por el terremoto",
-        "capturado": "2026-10-05T19:36:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Detalles del Jaguar Type 01, un vehículo cinematográfico más allá de la estética",
+        "url": "https://www.portafolio.co/negocios/vehiculo/mas-que-diseno-las-caracteristicas-del-jaguar-type-01-un-carro-de-pelicula-504085",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Más que diseño: las características del Jaguar Type 01, 'un carro de película'",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
+      {
+        "titulo": "Cine Colombia habilita de nuevo el Multiplex Fundadores en Manizales tras el sismo del 10 de agosto",
+        "url": "https://www.portafolio.co/negocios/empresas/cine-colombia-reabre-multiplex-fundadores-en-manizales-tras-danos-del-terremoto-del-10-de-agosto-504084",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Cine Colombia reabre Multiplex Fundadores en Manizales tras daños del terremoto del 10 de agosto",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
+      {
+        "titulo": "Conozca la BMW F 450 GS, la motocicleta bicilindro prémium para todo terreno",
+        "url": "https://www.portafolio.co/negocios/vehiculo/asi-es-la-bmw-f-450-gs-la-bicilindro-premium-que-se-come-el-camino-504083",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Así es la BMW F 450 GS, la bicilindro premium que se 'come el camino'",
+        "capturado": "2026-10-07T21:33:20-05:00"
+      },
       {
         "titulo": "Use bien los datos para comprender su empresa con estas pautas",
         "url": "https://www.portafolio.co/negocios/empresas/aproveche-al-maximo-la-informacion-para-entender-mejor-su-negocio-estas-son-las-claves-504069",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-03",
         "titulo_fuente": "Carros eléctricos en Colombia crecen 217% y disparan la demanda de puntos de carga: se necesitarán 20.000 en 2030",
         "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "Makro ofrece rebajas de hasta el 50% por la semana de receso en productos vigentes hasta el 8 de octubre",
-        "url": "https://www.portafolio.co/negocios/empresas/descuentos-de-hasta-50-en-makro-por-semana-de-receso-estos-son-los-productos-rebajados-hasta-el-8-de-octubre-503807",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Descuentos de hasta 50% en Makro por semana de receso: estos son los productos rebajados hasta el 8 de octubre",
-        "capturado": "2026-10-03T10:11:32-05:00"
-      },
-      {
-        "titulo": "Koaj señala que es arrendataria y ajena al proceso de extinción de dominio en Bogotá",
-        "url": "https://www.portafolio.co/negocios/empresas/koaj-aclara-que-es-arrendataria-y-no-hace-parte-del-proceso-de-extincion-de-dominio-en-bogota-502964",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Koaj aclara que es arrendataria y no hace parte del proceso de extinción de dominio en Bogotá",
-        "capturado": "2026-10-02T19:10:12-05:00"
-      },
-      {
-        "titulo": "Coca-Cola invertirá USD 3 millones para recuperar 1.000 tenderos tras el sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/coca-cola-destinara-usd-3-millones-para-reactivar-a-1-000-tenderos-tras-el-terremoto-503781",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-02",
-        "titulo_fuente": "Coca-Cola destinará USD 3 millones para reactivar a 1.000 tenderos tras el terremoto",
-        "capturado": "2026-10-02T19:10:12-05:00"
       }
     ]
   }
