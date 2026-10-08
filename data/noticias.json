@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-08T12:29:52-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-08T17:22:29-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alza drástica del salario mínimo en 2027 subiría la presión en inflación, empleo y pensiones",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-aumento-agresivo-elevaria-presion-sobre-inflacion-empleo-y-pensiones-504142",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Salario mínimo 2027: aumento agresivo elevaría presión sobre inflación, empleo y pensiones",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "La UPB rectifica que Paola Holguín, ministra de las Culturas, carece de título de maestría",
+        "url": "https://www.portafolio.co/economia/gobierno/paola-holguin-ministra-de-las-culturas-no-obtuvo-titulo-de-maestria-segun-rectificacion-de-la-upb-504136",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Paola Holguín, ministra de las Culturas, no obtuvo título de maestría, según rectificación de la UPB",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Cuatro instituciones de educación superior de Colombia ingresan al top 20 de América Latina",
+        "url": "https://www.portafolio.co/economia/crecimiento/colombia-incluye-cuatro-universidades-en-el-top-20-de-america-latina-504132",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Colombia incluye cuatro universidades en el 'top' 20 de América Latina",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "La Cámara dispone de 20 días para corregir objeciones de la Corte Constitucional a la reforma pensional",
+        "url": "https://www.portafolio.co/economia/a-la-camara-le-quedan-20-dias-para-subsanar-los-reparos-de-la-corte-constitucional-a-la-reforma-pensional-504135",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "A la Cámara le quedan 20 días para subsanar los reparos de la Corte Constitucional a la reforma pensional",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Conflicto millonario con la interventoría por presión del Distrito al consorcio del Metro de Bogotá",
+        "url": "https://www.portafolio.co/economia/gobierno/metro-de-bogota-presion-del-distrito-al-consorcio-constructor-desata-millonario-conflicto-con-la-interventoria-504130",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Metro de Bogotá: presión del Distrito al consorcio constructor desata millonario conflicto con la interventoría",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Bogotá endurece inspecciones en San Victorino luego de hallar móviles hurtados en locales",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-intensifica-controles-en-san-victorino-tras-detectar-celulares-robados-en-comercios-504129",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Bogotá intensifica controles en San Victorino tras detectar celulares robados en comercios",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "El costo de vida continuaría alto a fines de 2026 por sueldos, indexación, precios públicos y El Niño",
+        "url": "https://www.portafolio.co/economia/inflacion-seguiria-elevada-al-cierre-de-2026-por-salarios-indexacion-tarifas-reguladas-y-fenomeno-de-el-nino-504126",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Inflación seguiría elevada al cierre de 2026 por salarios, indexación, tarifas reguladas y fenómeno de El Niño",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Entradas de capital subieron 17,1%, mas el periodo cerró con déficit de 4 billones de pesos",
+        "url": "https://www.portafolio.co/economia/regiones/ingresos-de-capitales-crecieron-17-1-pero-el-semestre-dejo-saldo-negativo-de-4-billones-504123",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Ingresos de capitales crecieron 17,1%, pero el semestre dejó saldo negativo de $4 billones",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Renta Joven pagará hasta 600.000 pesos en octubre: conozca los plazos y requisitos del desembolso",
+        "url": "https://www.portafolio.co/economia/renta-joven-entregara-hasta-600-000-en-octubre-estas-son-las-fechas-y-condiciones-para-recibir-el-giro-504119",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Renta Joven entregará hasta $600.000 en octubre: estas son las fechas y condiciones para recibir el giro",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella evalúa retomar el día sin IVA y discute su impacto fiscal",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-analiza-revivir-dia-sin-iva-en-esta-ciudad-de-colombia-y-abre-debate-por-su-costo-fiscal-504113",
@@ -513,99 +603,109 @@
         "publicacion": "2026-10-06",
         "titulo_fuente": "Modernizar al revisor fiscal impulsa la competitividad",
         "capturado": "2026-10-06T23:29:38-05:00"
-      },
-      {
-        "titulo": "Opera el Fondo Milagro con pagos directos, proyectos y fiscalización estatal",
-        "url": "https://www.portafolio.co/economia/gobierno/asi-funcionara-el-fondo-milagro-proyectos-pagos-directos-y-control-sobre-los-recursos-publicos-504006",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Así funcionará el Fondo Milagro: proyectos, pagos directos y control sobre los recursos públicos",
-        "capturado": "2026-10-06T23:29:38-05:00"
-      },
-      {
-        "titulo": "Beatriz Eugenia Vélez asume la presidencia de Colpensiones juramentada por Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-posesiona-a-beatriz-eugenia-velez-como-nueva-presidenta-de-colpensiones-503998",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Abelardo De La Espriella posesiona a Beatriz Eugenia Vélez como nueva presidenta de Colpensiones",
-        "capturado": "2026-10-06T23:29:38-05:00"
-      },
-      {
-        "titulo": "Ingreso Mínimo Garantizado: Bogotá estudia emplear Bre-B como nueva vía para girar dineros a titulares",
-        "url": "https://www.portafolio.co/economia/ingreso-minimo-garantizado-bogota-analiza-usar-bre-b-como-nuevo-canal-para-transferir-recursos-a-beneficiarios-503986",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Ingreso Mínimo Garantizado: Bogotá analiza usar Bre-B como nuevo canal para transferir recursos a beneficiarios",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Supertransporte publica inaugural guía para suprimir obstáculos a adultos mayores en transporte público",
-        "url": "https://www.portafolio.co/economia/infraestructura/supertransporte-lanza-primera-guia-para-eliminar-barreras-a-adultos-mayores-en-transporte-publico-503985",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Supertransporte lanza primera guía para eliminar barreras a adultos mayores en transporte público",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Banco Mundial eleva su pronóstico de expansión para Colombia en 2027, aunque alerta sobre estos riesgos",
-        "url": "https://www.portafolio.co/economia/crecimiento/banco-mundial-mejora-su-proyeccion-de-crecimiento-para-colombia-en-2027-pero-advierte-por-estos-riesgos-503983",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Banco Mundial mejora su proyección de crecimiento para Colombia en 2027, pero advierte por estos riesgos",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Inflación de septiembre lograría acelerarse al 6,34% y alcanzar su techo desde julio de 2024 en Colombia",
-        "url": "https://www.portafolio.co/economia/inflacion-de-septiembre-podria-acelerarse-a-6-34-y-tocar-su-nivel-mas-alto-desde-julio-de-2024-en-colombia-503984",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Inflación de septiembre podría acelerarse a 6,34% y tocar su nivel más alto desde julio de 2024 en Colombia",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "IPP trepa 2,20% en septiembre y minería dispara sus tarifas un 12,21%, muy por encima de la media nacional",
-        "url": "https://www.portafolio.co/economia/ipp-sube-2-20-en-septiembre-y-mineria-dispara-sus-precios-12-21-muy-por-encima-del-promedio-nacional-503979",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "IPP sube 2,20% en septiembre y minería dispara sus precios 12,21%, muy por encima del promedio nacional",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Gobierno de De La Espriella lanza el Fondo Milagro con un billón de pesos para labores de reconstrucción",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-el-fondo-milagro-arranca-con-1-billon-para-la-reconstruccion-503977",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Gobierno de De La Espriella activa el Fondo Milagro: arranca con $1 billón para la reconstrucción",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: la propuesta del Gobierno para destrabar el pacto salarial entre gremios y sindicatos",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-esto-pide-el-gobierno-para-facilitar-la-negociacion-del-aumento-con-empresarios-y-trabajadores-503974",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Salario mínimo 2027: esto pide el Gobierno para facilitar la negociación del aumento con empresarios y trabajadores",
-        "capturado": "2026-10-06T14:42:41-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ternium conmemora dos décadas en Wall Street: millonaria inversión en México y expansión en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/ternium-celebra-20-anos-en-wall-street-su-millonaria-inversion-en-mexico-y-el-crecimiento-en-colombia-504139",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Ternium celebra 20 años en Wall Street: su millonaria inversión en México y el crecimiento en Colombia",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Bancolombia sella acuerdo colectivo que cobijará a unos 11.000 trabajadores durante cuatro años",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-firma-convencion-colectiva-que-beneficiara-a-cerca-de-11-000-empleados-por-cuatro-anos-504137",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Bancolombia firma convención colectiva que beneficiará a cerca de 11.000 empleados por cuatro años",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Nueva tarifa en Buenaventura presiona el comercio exterior por cerca de US$27.000 millones",
+        "url": "https://www.portafolio.co/negocios/comercio/nueva-tarifa-en-buenaventura-pone-presion-sobre-comercio-exterior-por-cerca-de-us-27-000-millones-504133",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Nueva tarifa en Buenaventura pone presión sobre comercio exterior por cerca de US$27.000 millones",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Los viajes de Cabify Mascotas aumentan en Bogotá: los trayectos subieron 2,5 veces el último año",
+        "url": "https://www.portafolio.co/negocios/empresas/los-viajes-de-cabify-mascotas-se-disparan-en-bogota-los-trayectos-crecieron-2-5-veces-en-el-ultimo-ano-ano-504128",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Los viajes de Cabify Mascotas se disparan en Bogotá: los trayectos crecieron 2,5 veces en el último año año",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Tras alianza con Georgina Rodríguez, esposa de Cristiano Ronaldo, Milagros prevé crecer 33% en ventas",
+        "url": "https://www.portafolio.co/negocios/empresas/tras-alianza-con-georgina-rodriguez-esposa-de-cristiano-ronaldo-milagros-proyecta-crecer-33-en-ventas-este-ano-504131",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Tras alianza con Georgina Rodríguez, esposa de Cristiano Ronaldo, Milagros proyecta crecer 33% en ventas este año",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "¿Otro caso Frisby? Humo Barriles acusa disputa de marca en EE. UU. y calcula negocio frenado por US$3 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/otro-caso-frisby-humo-barriles-denuncia-disputa-de-marca-en-ee-uu-y-calcula-negocio-frenado-por-us-3-millones-504127",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "¿Otro caso Frisby? Humo Barriles denuncia disputa de marca en EE. UU. y calcula negocio frenado por US$3 millones",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Samsung anticipa un incremento superior al 780% en su ganancia operativa por la demanda de chips de IA",
+        "url": "https://www.portafolio.co/negocios/empresas/samsung-preve-un-salto-de-mas-del-780-en-su-utilidad-operativa-gracias-al-auge-de-los-chips-de-ia-504124",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Samsung prevé un salto de más del 780% en su utilidad operativa gracias al auge de los chips de IA",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Hermanos colombianos en YC crean cuentas en dólares en Estados Unidos para firmas de América Latina",
+        "url": "https://www.portafolio.co/negocios/empresas/estos-hermanos-colombianos-admitidos-en-yc-les-abren-cuentas-en-dolares-en-ee-uu-a-empresas-latinas-504122",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Estos hermanos colombianos, admitidos en YC, les abren cuentas en dólares en EE.UU. a empresas latinas",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Tesla lidera los vehículos eléctricos en Colombia con el 41,3% de las matrículas de septiembre",
+        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-domina-los-electricos-mas-vendidos-en-colombia-concentro-41-3-de-las-matriculas-durante-septiembre-504120",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Tesla domina los eléctricos más vendidos en Colombia: concentró 41,3 % de las matrículas durante septiembre",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
+      {
+        "titulo": "Corona incursiona en la industria de la cristalería dirigida a hoteles y restaurantes",
+        "url": "https://www.portafolio.co/negocios/empresas/corona-entra-al-mercado-de-la-cristaleria-para-restaurantes-y-hoteles-504115",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Corona entra al mercado de la cristalería para restaurantes y hoteles",
+        "capturado": "2026-10-08T17:22:29-05:00"
+      },
       {
         "titulo": "El avance de la inteligencia artificial se financia mediante pasivos",
         "url": "https://www.portafolio.co/negocios/empresas/la-carrera-de-la-inteligencia-artificial-se-paga-con-deuda-504114",
@@ -1105,106 +1205,6 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "Bancolombia mueve $500.000 millones en millonaria compra de cinco edificios logísticos en la Calle 80",
         "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "Petrobras y Ecopetrol concluyen iniciativa de US$1.000 millones para búsqueda de gas en el Caribe",
-        "url": "https://www.portafolio.co/negocios/empresas/petrobras-y-ecopetrol-terminan-campana-de-us-1-000-millones-para-explorar-gas-en-el-caribe-503883",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Petrobras y Ecopetrol terminan campaña de US$1.000 millones para explorar gas en el Caribe",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "El tratado comercial con Corea inicia otra fase para el país con diversificación, tecnología e inversión",
-        "url": "https://www.portafolio.co/negocios/comercio/el-tlc-con-corea-abre-una-nueva-etapa-para-colombia-mas-diversificacion-tecnologia-y-proyectos-de-inversion-503801",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "El TLC con Corea abre una nueva etapa para Colombia: más diversificación, tecnología y proyectos de inversión",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "Un plan para superar el complejo déficit fiscal y avanzar",
-        "url": "https://www.portafolio.co/negocios/empresas/una-hoja-de-ruta-para-salir-del-desafiante-deficit-fiscal-y-crecer-503875",
-        "resumen": "",
-        "autor": "Vanesa castro salamanca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Una hoja de ruta para salir del desafiante déficit fiscal y crecer",
-        "capturado": "2026-10-05T04:28:07-05:00"
-      },
-      {
-        "titulo": "Firma nacional Baobab debuta en la Ópera Nacional de París",
-        "url": "https://www.portafolio.co/negocios/empresas/marca-colombiana-baobab-llega-a-la-opera-nacional-de-paris-503873",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Marca colombiana Baobab llega a la Ópera Nacional de París",
-        "capturado": "2026-10-04T21:18:59-05:00"
-      },
-      {
-        "titulo": "Parmalat impulsa su negocio lechero: aumenta capital y trae de nuevo sus famosos peluches",
-        "url": "https://www.portafolio.co/negocios/empresas/parmalat-va-por-mas-en-el-mercado-lacteo-refuerza-inversiones-y-trae-de-vuelta-sus-iconicos-peluches-503698",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Parmalat va por más en el mercado lácteo: refuerza inversiones y trae de vuelta sus icónicos peluches",
-        "capturado": "2026-10-04T21:18:59-05:00"
-      },
-      {
-        "titulo": "Ray-Ban Meta dinamiza el mercado de lentes inteligentes en Colombia y alista nuevos productos",
-        "url": "https://www.portafolio.co/negocios/empresas/ray-ban-meta-acelera-el-negocio-de-las-gafas-inteligentes-en-colombia-y-prepara-nuevos-lanzamientos-503800",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Ray-Ban Meta acelera el negocio de las gafas inteligentes en Colombia y prepara nuevos lanzamientos",
-        "capturado": "2026-10-04T21:18:59-05:00"
-      },
-      {
-        "titulo": "Aterriza en Colombia inédita camioneta híbrida 4x4 de 900 HP: los detalles de la Jetour G700",
-        "url": "https://www.portafolio.co/negocios/vehiculo/llega-a-colombia-nueva-suv-todoterreno-hibrida-de-900-caballos-de-fuerza-las-caracteristicas-de-la-jetour-g700-503855",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Llega a Colombia nueva SUV todoterreno híbrida de 900 caballos de fuerza: las características de la Jetour G700",
-        "capturado": "2026-10-04T18:28:21-05:00"
-      },
-      {
-        "titulo": "['Tres firmas de San Victorino participarán en la Semana de la Moda de París']",
-        "url": "https://www.portafolio.co/negocios/empresas/disenadores-del-san-victorino-estaran-en-la-semana-de-la-moda-de-paris-estas-son-las-tres-marcas-503841",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "Diseñadores del San Victorino estarán en la Semana de la Moda de París: estas son las tres marcas",
-        "capturado": "2026-10-04T12:18:16-05:00"
-      },
-      {
-        "titulo": "Variaciones del cooperativismo colombiano: activos por $65,9 billones y cartera superior a $20 billones",
-        "url": "https://www.portafolio.co/negocios/empresas/cooperativas-en-colombia-movimientos-de-un-sector-con-65-9-billones-en-activos-y-mas-de-20-billones-en-cartera-503834",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Cooperativas en Colombia: movimientos de un sector con $65,9 billones en activos y más de $20 billones en cartera",
-        "capturado": "2026-10-03T19:28:47-05:00"
-      },
-      {
-        "titulo": "Salitre Mágico abrió el undécimo Festival del Terror: conozca las nuevas atracciones y casas espeluznantes",
-        "url": "https://www.portafolio.co/negocios/empresas/salitre-magico-inauguro-el-11-festival-del-terror-estas-son-las-casas-del-terror-y-las-novedades-de-esta-edicion-503831",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Salitre Mágico inauguró el 11° Festival del Terror: estas son las casas del terror y las novedades de esta edición",
-        "capturado": "2026-10-03T16:59:04-05:00"
       }
     ]
   }
