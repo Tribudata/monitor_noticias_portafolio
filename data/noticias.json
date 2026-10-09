@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-09T04:26:54-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-09T11:27:59-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Inmuebles de la SAE vendidos por más de $16.000 millones apoyan el fortalecimiento del fondo FRISCO",
+        "url": "https://www.portafolio.co/economia/venta-de-inmuebles-de-la-sae-supero-los-16-000-millones-y-contribuye-al-fortalecimiento-del-fondo-frisco-504175",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Venta de inmuebles de la SAE superó los $16.000 millones y contribuye al fortalecimiento del fondo FRISCO",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Declaran El Niño en Colombia: empresas hídricas y energéticas activarán planes de contingencia",
+        "url": "https://www.portafolio.co/economia/gobierno/el-nino-fue-declarado-en-colombia-empresas-de-agua-y-energia-deberan-activar-planes-de-contingencia-504174",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "El Niño fue declarado en Colombia: empresas de agua y energía deberán activar planes de contingencia",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Día sin IVA frente a menos ICA: distancia entre ahorrar $159.664 y $1.800 por cada millón de pesos",
+        "url": "https://www.portafolio.co/economia/gobierno/dia-sin-iva-o-menos-ica-la-diferencia-entre-ahorrar-159-664-y-1-800-por-cada-millon-de-pesos-504172",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Día sin IVA o menos ICA: la diferencia entre ahorrar $159.664 y $1.800 por cada millón de pesos",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Anegan la carrera Séptima: estado del tubo del acueducto y retorno del agua según las autoridades",
+        "url": "https://www.portafolio.co/economia/infraestructura/inundacion-en-la-carrera-septima-que-paso-con-la-tuberia-del-acueducto-y-cuando-volvera-el-agua-segun-autoridades-504165",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Inundación en la carrera Séptima: qué pasó con la tubería del acueducto y cuándo volverá el agua, según autoridades",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Cosecha de café colombiana bajó 15% en la temporada cafetera y terminó en 12,65 millones de sacos",
+        "url": "https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Producción de café en Colombia cayó 15% en el año cafetero y cerró en 12,65 millones de sacos",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "ANI vigila concesiones portuarias por fallas y obligaciones pendientes en diferentes zonas del país",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-pone-bajo-lupa-concesiones-portuarias-por-incumplimientos-y-deudas-en-varias-regiones-del-pais-504161",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "ANI pone bajo lupa concesiones portuarias por incumplimientos y deudas en varias regiones del país",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Precio del dólar en Colombia hoy 9 de octubre inicia en descenso en semana de mayor inflación",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-se-desploma-mas-de-20-asi-inicia-la-cotizacion-oficial-este-9-de-octubre-504160",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Dólar hoy en Colombia: divisa abre a la baja este 9 de octubre en una semana marcada por el aumento de la inflación",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
       {
         "titulo": "El senador Enrique Gómez solicita indagar sobre las ventas de polietileno de Ecopetrol a Química Comercial Andina",
         "url": "https://www.portafolio.co/economia/gobierno/senador-enrique-gomez-pide-investigar-ventas-de-polietileno-de-ecopetrol-a-quimica-comercial-andina-504159",
@@ -533,79 +603,69 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "A 38 meses del arancel cero a EE. UU., el arroz enfrenta una tríada de retos que ponen a prueba su competitividad",
         "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "El nuevo rector de la Universidad Antonio Nariño tiene el desafío de garantizar la reconstrucción de sedes",
-        "url": "https://www.portafolio.co/economia/asegurar-que-la-reconstruccion-de-las-sedes-el-reto-del-nuevo-rector-de-la-universidad-antonio-narino-503992",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "'Asegurar que la reconstrucción de las sedes': el reto del nuevo rector de la Universidad Antonio Nariño",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Empresarios como Arturo Calle, Germán Bahamón y la creadora de Frisby integrarán el Fondo Milagro",
-        "url": "https://www.portafolio.co/economia/gobierno/arturo-calle-german-bahamon-y-otros-empresarios-como-la-fundadora-de-frisby-haran-parte-del-fondo-milagro-504022",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Arturo Calle, Germán Bahamón y otros empresarios, como la fundadora de Frisby, harán parte del 'Fondo Milagro'",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Divisa europea sube tras baja prolongada desde el 29 de septiembre y así se cotiza este 7 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-repunta-luego-de-una-caida-sostenida-desde-el-29-de-septiembre-asi-cotiza-la-divisa-este-7-de-octubre-504017",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Euro repunta luego de una caída sostenida desde el 29 de septiembre: así cotiza la divisa este 7 de octubre",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Plan de Choque en Salud reporta progresos en VIH, embarazos, trasplantes y cáncer con entrega de fármacos",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-de-choque-en-salud-muestra-avances-en-vih-gestacion-trasplantes-cancer-adelantan-medicamentos-pendientes-504018",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Plan de Choque en Salud muestra avances en VIH, gestación, trasplantes, cáncer: adelantan medicamentos pendientes",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Contraloría vigilará los recursos de la reconstrucción mediante seguimiento a contratos, ayudas y obras",
-        "url": "https://www.portafolio.co/economia/regiones/vigilaran-cada-peso-de-la-reconstruccion-contraloria-seguira-ruta-de-contratos-ayudas-y-avances-de-las-obras-504015",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Vigilarán cada peso de la reconstrucción: Contraloría seguirá ruta de contratos, ayudas y avances de las obras",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "De La Espriella rechaza metas inviables en el Plan de Desarrollo 2026-2030",
-        "url": "https://www.portafolio.co/economia/gobierno/no-quiero-un-plan-lleno-de-promesas-imposibles-de-la-espriella-sobre-el-plan-de-desarrollo-2026-504016",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "‘No quiero un Plan lleno de promesas imposibles’: De La Espriella sobre el Plan de Desarrollo 2026-2030",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Nuevo protocolo del Gobierno para la llegada de dignatarios extranjeros a Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cambia-protocolo-para-recibir-a-autoridades-extranjeras-asi-funcionaran-las-visitas-a-colombia-504013",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Gobierno cambia protocolo para recibir a autoridades extranjeras: así funcionarán las visitas a Colombia",
-        "capturado": "2026-10-07T12:55:16-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Juliana Medina asume la gerencia del W Bogotá tras 17 años en la hotelería de alto nivel",
+        "url": "https://www.portafolio.co/negocios/empresas/w-bogota-cambia-de-gerente-juliana-medina-llega-con-17-anos-de-experiencia-en-hoteles-de-lujo-504179",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "W Bogotá cambia de gerente: Juliana Medina llega con 17 años de experiencia en hoteles de lujo",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Starbucks evalúa adquirir a Chipotle por US$39.000 millones para la mayor fusión del sector",
+        "url": "https://www.portafolio.co/negocios/empresas/starbucks-estudia-comprar-chipotle-por-us-39-000-millones-seria-la-mayor-fusion-en-la-historia-de-los-restaurantes-504173",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Starbucks estudia comprar Chipotle por US$39.000 millones: sería la mayor fusión en la historia de los restaurantes",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo busca el retorno de Mazda y recuerda el cierre de su planta colombiana hace 12 años",
+        "url": "https://www.portafolio.co/negocios/empresas/el-gobierno-quiere-traer-de-vuelta-a-mazda-la-historia-de-su-salida-y-por-que-cerro-la-ensambladora-hace-12-anos-504171",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno quiere traer de vuelta a Mazda: la historia de por qué cerró su ensambladora en Colombia hace 12 años",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Muebles y diseño: el segmento prémium y el comercio electrónico avanzan en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/muebles-y-diseno-el-lujo-y-las-compras-digitales-ganan-terreno-en-colombia-504167",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Muebles y diseño: el lujo y las compras digitales ganan terreno en Colombia",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Vuelo de Avianca entre Medellín y Nueva York turbulento deja nueve afectados y aterriza en Miami",
+        "url": "https://www.portafolio.co/negocios/empresas/vuelo-de-avianca-de-medellin-a-nueva-york-sufrio-turbulencia-y-dejo-nueve-personas-afectadas-aterrizo-en-miami-504168",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Vuelo de Avianca de Medellín a Nueva York sufrió turbulencia y dejó nueve personas afectadas: aterrizó en Miami",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
+      {
+        "titulo": "Del Metro de Bogotá a sismos: la cartografía tecnológica que se expande en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/del-metro-de-bogota-a-las-emergencias-por-el-terremoto-la-tecnologia-de-mapas-que-gana-terreno-en-colombia-504156",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Del Metro de Bogotá a las emergencias por el terremoto: la tecnología de mapas que gana terreno en Colombia",
+        "capturado": "2026-10-09T11:27:59-05:00"
+      },
       {
         "titulo": "Outlet Factory lanza vivencia de miedo basada en Thriller: días, horas y entrada",
         "url": "https://www.portafolio.co/negocios/empresas/outlet-factory-abre-experiencia-de-terror-inspirada-en-thriller-fechas-horarios-y-como-ingresar-504158",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-06",
         "titulo_fuente": "Homecenter Sodimac compra la mayoría de Sumatec y se queda con una firma de más de 70 años de historia",
         "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Tras anunciar su relevo en Movistar Arena, designan a Luis Guillermo Quintero como gerente de Juan Valdez",
-        "url": "https://www.portafolio.co/negocios/empresas/luis-guillermo-quintero-nuevo-gerente-general-de-juan-valdez-503937",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Luego de anunciar su sustituto en Movistar Arena, Luis Guillermo Quintero es nombrado como gerente de Juan Valdez",
-        "capturado": "2026-10-06T02:12:26-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master deja su cargo en la junta de la Andi y se creará un comité para buscar su reemplazo",
-        "url": "https://www.portafolio.co/negocios/empresas/junta-directiva-de-la-andi-acepta-renuncia-de-bruce-mac-master-instalara-un-comite-para-elegir-a-su-sucesor-503935",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Junta directiva de la Andi acepta renuncia de Bruce Mac Master: instalará un comité para elegir a su sucesor",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Gabriel Sánchez Olea toma las riendas como nuevo gerente general del Movistar Arena",
-        "url": "https://www.portafolio.co/negocios/empresas/cambio-de-mando-en-el-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-503930",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Cambio de mando en el Movistar Arena: Gabriel Sánchez Olea asume la gerencia general",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Schneider Electric adquiere PTC por 22.600 millones de dólares en su operación más grande",
-        "url": "https://www.portafolio.co/negocios/empresas/schneider-electric-compra-ptc-por-22-600-millones-de-dolares-su-mayor-adquisicion-503928",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Schneider Electric compra PTC por 22.600 millones de dólares: su mayor adquisición",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Grobma pasa de US$60.000 a US$10 millones apostando por tecnología para reciclar plástico",
-        "url": "https://www.portafolio.co/negocios/empresas/de-us-60-000-a-us-10-millones-la-apuesta-de-grobma-con-tecnologia-para-transformar-el-plastico-503919",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "De US$60.000 a US$10 millones: la apuesta de Grobma con tecnología para transformar el plástico",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Firma chilena con 21 millones de dólares recaudados planea vender teléfonos usados en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/empresa-chilena-que-recauda-us-21-millones-pone-la-mira-en-colombia-vendera-celulares-reacondicionados-503920",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Empresa chilena que recauda US$21 millones pone la mira en Colombia: venderá celulares reacondicionados",
-        "capturado": "2026-10-05T19:36:03-05:00"
       }
     ]
   }
