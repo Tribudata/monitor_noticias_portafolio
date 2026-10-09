@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-09T11:27:59-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-09T16:09:15-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Éxodo en Bogotá: cómo funcionarán reversibles y pico y placa regional en el puente festivo",
+        "url": "https://www.portafolio.co/economia/regiones/plan-exodo-en-bogota-asi-operaran-reversibles-y-pico-y-placa-regional-durante-el-puente-festivo-504205",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Plan éxodo en Bogotá: así operarán reversibles y pico y placa regional durante el puente festivo",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Gobierno solicita trámite urgente al Congreso para cambiar el presupuesto 2026 por sismo y crisis energética",
+        "url": "https://www.portafolio.co/economia/gobierno-pide-tramite-urgente-al-congreso-para-modificar-el-presupuesto-de-2026-por-terremoto-y-riesgo-energetico-504202",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno pide trámite urgente al Congreso para modificar el presupuesto de 2026 por terremoto y riesgo energético",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Adres baja de 12 a cinco los requisitos para indemnizar a víctimas del sismo en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/adres-reduce-de-12-a-cinco-requisitos-para-indemnizaciones-por-victimas-del-terremoto-en-colombia-504199",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Adres reduce de 12 a cinco requisitos para indemnizaciones por víctimas del terremoto en Colombia",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Primer empleo en el país: el 53,5% de los jóvenes no halla trabajo por carecer de experiencia",
+        "url": "https://www.portafolio.co/economia/empleo/primer-empleo-en-colombia-el-53-5-de-los-jovenes-no-consigue-trabajo-por-falta-de-experiencia-504193",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Primer empleo en Colombia: el 53,5% de los jóvenes no consigue trabajo por falta de experiencia",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Gobierno prepara decreto portuario: lo que expresó la ministra Elsa Noguera sobre la nueva normativa",
+        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-alista-decreto-para-modernizar-los-puertos-esto-dijo-la-ministra-elsa-noguera-sobre-las-nuevas-reglas-504188",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno alista decreto para modernizar los puertos: esto dijo la ministra Elsa Noguera sobre las nuevas reglas",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Economía nacional perdería fuerza: analistas calculan un avance de 2,1% en el tercer trimestre",
+        "url": "https://www.portafolio.co/economia/gobierno/economia-colombiana-perderia-impulso-expertos-estiman-crecimiento-de-2-1-en-tercer-trimestre-504187",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Economía colombiana perdería impulso: expertos estiman crecimiento de 2,1% en tercer trimestre",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Asi concluyo la megaobra del Metro de Bogota envuelta en un litigio que pasa de 25000 millones",
+        "url": "https://www.portafolio.co/economia/regiones/asi-termino-el-megaproyecto-del-metro-de-bogota-enredado-en-un-pleito-que-supera-los-25-000-millones-504186",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Así terminó el megaproyecto del Metro de Bogotá enredado en un pleito que supera los $25.000 millones",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "El endeudamiento externo colombiano a julio descendio al 50,1 por ciento del producto interno bruto",
+        "url": "https://www.portafolio.co/economia/gobierno/la-deuda-externa-de-colombia-a-julio-bajo-hasta-el-50-1-del-producto-interno-bruto-504185",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "La deuda externa de Colombia a julio bajó hasta el 50,1% del producto interno bruto",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
       {
         "titulo": "Inmuebles de la SAE vendidos por más de $16.000 millones apoyan el fortalecimiento del fondo FRISCO",
         "url": "https://www.portafolio.co/economia/venta-de-inmuebles-de-la-sae-supero-los-16-000-millones-y-contribuye-al-fortalecimiento-del-fondo-frisco-504175",
@@ -523,89 +603,89 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "El Niño y los incendios elevan el riesgo respiratorio y presionan la atención en salud en Colombia",
         "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Avanza Pacífico 1 al 97%: entregan túnel falso de El Líbano tras catorce meses de trabajo",
-        "url": "https://www.portafolio.co/economia/infraestructura/nuevo-avance-en-pacifico-1-la-via-4g-que-esta-en-el-97-entregan-tunel-falso-de-el-libano-tras-14-meses-de-obra-504041",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Nuevo avance en Pacífico 1, la vía 4G que está en el 97%: entregan túnel falso de El Líbano tras 14 meses de obra",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "El agro colombiano bajo presión: El Niño bajaría hasta 3% el PIB sectorial y afectaría al café en 2026",
-        "url": "https://www.portafolio.co/economia/agro/el-agro-colombiano-queda-bajo-presion-el-nino-podria-reducir-hasta-3-del-pib-del-sector-y-golpear-al-cafe-en-504040",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "El agro colombiano queda bajo presión: El Niño podría reducir hasta 3% del PIB del sector y golpear al café en 2026",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "ABC del Plan de Choque en Salud: así operará el modelo para atender fármacos y trámites pendientes",
-        "url": "https://www.portafolio.co/economia/gobierno/abc-del-plan-de-choque-en-salud-asi-funcionara-el-esquema-para-resolver-medicamentos-y-procedimientos-pendientes-504037",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "ABC del Plan de Choque en Salud: así funcionará el esquema para resolver medicamentos y procedimientos pendientes",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Informe de facturación electrónica de la Dian: cinco puntos a verificar en el reporte mensual y por qué",
-        "url": "https://www.portafolio.co/economia/impuestos/reporte-de-facturacion-electronica-de-la-dian-cinco-datos-que-debe-revisar-en-el-balance-mensual-y-por-que-504034",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Reporte de facturación electrónica de la Dian: cinco datos que debe revisar en el balance mensual y por qué",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027 discutirá el impacto fiscal pensional y la alta nómina en periodo de apremio",
-        "url": "https://www.portafolio.co/economia/salario-minimo-2027-pondra-sobre-la-mesa-el-costo-fiscal-de-pensiones-y-nomina-en-un-ano-de-estrechez-anif-504032",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Salario mínimo 2027 pondrá sobre la mesa el costo fiscal de pensiones y la alta nómina en un año de estrechez",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Los contratos recientes de Fiducoldex, la fiduciaria gestora del Fondo Milagro: qué suscribió en 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/los-ultimos-contratos-de-fiducoldex-la-fiduciaria-que-administrara-el-fondo-milagro-que-ha-firmado-en-504024",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Los últimos contratos de Fiducoldex, la fiduciaria que administrará el Fondo Milagro: ¿qué ha firmado en 2026?",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Los adultos mayores llegarán a 1.600 millones en 2050 y transforman la geografía global de retiros",
-        "url": "https://www.portafolio.co/economia/la-poblacion-mayor-crecera-a-1-600-millones-en-2050-y-cambia-el-mapa-mundial-de-destinos-para-jubilarse-504026",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "La población mayor crecerá a 1.600 millones en 2050 y cambia el mapa mundial de destinos para jubilarse",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "El arroz afronta tres desafíos que retan su productividad al cumplirse 38 meses del arancel cero con EE. UU.",
-        "url": "https://www.portafolio.co/economia/agro/a-38-meses-del-arancel-cero-el-arroz-colombiano-enfrenta-tres-frentes-que-ponen-a-prueba-su-competitividad-504023",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "A 38 meses del arancel cero a EE. UU., el arroz enfrenta una tríada de retos que ponen a prueba su competitividad",
-        "capturado": "2026-10-07T12:55:16-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Gobierno prepara decreto sobre puertos para impulsar la inversión nacional",
+        "url": "https://www.portafolio.co/negocios/inversion/gobierno-alista-decreto-para-concesiones-portuarias-y-abre-puerta-a-mas-inversion-en-colombia-504203",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno alista decreto para concesiones portuarias y abre puerta a más inversión en Colombia",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Cancha de golf La Florida mejora sus instalaciones por alianza con Inter Rapidísimo",
+        "url": "https://www.portafolio.co/negocios/empresas/el-campo-de-golf-publico-la-florida-renueva-su-infraestructura-tras-alianza-con-inter-rapidisimo-504200",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "El campo de golf público La Florida renueva su infraestructura tras alianza con Inter Rapidísimo",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Banco AV Villas presenta su iniciativa de formación en finanzas",
+        "url": "https://www.portafolio.co/negocios/empresas/banco-av-villas-lanza-su-programa-de-educacion-financiera-504195",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Banco AV Villas lanza su programa de Educación Financiera",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Carlos Mario Giraldo expone los factores clave de su liderazgo empresarial",
+        "url": "https://www.portafolio.co/negocios/empresas/carlos-mario-giraldo-revela-las-claves-que-lo-llevaron-a-ser-un-gran-lider-empresarial-504192",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Carlos Mario Giraldo revela las claves que lo llevaron a ser un gran líder empresarial",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Jungle Labs presenta suplementos basados en ciencia e inteligencia artificial",
+        "url": "https://www.portafolio.co/negocios/empresas/jungle-labs-lanza-una-linea-de-suplementos-que-combina-investigacion-cientifica-e-inteligencia-artificial-504191",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Jungle Labs lanza una línea de suplementos que combina investigación científica e inteligencia artificial",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "OP Gold Capital suscribe dos contratos de exploración de cobre tras fallo de la ANM",
+        "url": "https://www.portafolio.co/negocios/empresas/op-gold-capital-firma-dos-contratos-para-explorar-cobre-en-colombia-tras-adjudicacion-de-la-anm-504190",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "OP Gold Capital firma dos contratos para explorar cobre en Colombia tras adjudicación de la ANM",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Llega a Colombia la RAM Dakota para rivalizar en el mercado con la Hilux y la Ranger",
+        "url": "https://www.portafolio.co/negocios/vehiculo/ram-dakota-se-estrena-en-colombia-la-nueva-pick-up-que-busca-competir-en-el-segmento-de-la-hilux-y-la-ranger-504182",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "RAM Dakota se estrena en Colombia: la nueva pick-up que busca competir en el segmento de la Hilux y la Ranger",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
+      {
+        "titulo": "Chubb Seguros Colombia designa a Juan Pablo Saldarriaga como su nuevo presidente",
+        "url": "https://www.portafolio.co/negocios/empresas/juan-pablo-saldarriaga-asume-la-presidencia-de-chubb-seguros-colombia-504181",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Juan Pablo Saldarriaga asume la presidencia de Chubb Seguros Colombia",
+        "capturado": "2026-10-09T16:09:15-05:00"
+      },
       {
         "titulo": "Juliana Medina asume la gerencia del W Bogotá tras 17 años en la hotelería de alto nivel",
         "url": "https://www.portafolio.co/negocios/empresas/w-bogota-cambia-de-gerente-juliana-medina-llega-con-17-anos-de-experiencia-en-hoteles-de-lujo-504179",
@@ -1124,86 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-06",
         "titulo_fuente": "Los sucesores del trono",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "La respuesta de Coopidrogas al terremoto: movilizó $25.990 millones y atendió más de 13.000 pedidos",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-respondio-coopidrogas-al-terremoto-movilizo-25-990-millones-y-atendio-mas-de-13-000-pedidos-503972",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Así respondió Coopidrogas al terremoto: movilizó $25.990 millones y atendió más de 13.000 pedidos",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Heredera de Centrovalle busca sumar 20 vehículos y destaca que el primer cliente de su abuelo sigue con ellos",
-        "url": "https://www.portafolio.co/negocios/empresas/el-primer-cliente-que-tuvo-mi-abuelo-todavia-es-nuestro-cliente-heredera-de-centrovalle-busca-sumar-20-vehiculos-503968",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "'El primer cliente que tuvo mi abuelo todavía es nuestro cliente': heredera de Centrovalle busca sumar 20 vehículos",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Siniestros por el terremoto sumarían $6,3 billones para aseguradoras tras casi dos meses de reclamaciones",
-        "url": "https://www.portafolio.co/negocios/empresas/terremoto-ya-le-costaria-6-3-billones-a-las-aseguradoras-asivan-las-reclamaciones-tras-casi-dos-meses-503967",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Terremoto ya le costaría $6,3 billones a las aseguradoras: asívan las reclamaciones tras casi dos meses",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "El colombiano Alan Bursztyn ingresa al BoF 500 al tiempo que Malva extiende su presencia a Europa",
-        "url": "https://www.portafolio.co/negocios/empresas/el-colombiano-alan-bursztyn-llega-al-bof-500-mientras-malva-se-expande-a-europa-503966",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "El colombiano Alan Bursztyn llega al BoF 500 mientras Malva se expande a Europa",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Inter Rapidísimo usará app para que viajeros transporten paquetes bajo la premisa de mensajería abierta",
-        "url": "https://www.portafolio.co/negocios/empresas/cualquier-persona-puede-ser-mensajero-la-app-con-la-que-inter-rapidisimo-pondra-a-los-viajeros-a-llevar-paquetes-503962",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "'Cualquier persona puede ser mensajero': la app con la que Inter Rapidísimo pondrá a los viajeros a llevar paquetes",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "El heredero de Envía afirma que la empresa triplicará su tamaño actual para el año 2030",
-        "url": "https://www.portafolio.co/negocios/empresas/en-2030-la-compania-va-a-ser-tres-veces-lo-que-es-hoy-el-plan-del-heredero-de-envia-503960",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "'En 2030 la compañía va a ser tres veces lo que es hoy': el plan del heredero de Envía",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "La líder heredera de los 10000 puntos de Efecty señala que el trueque sigue vigente en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/en-colombia-todavia-existe-el-trueque-la-heredera-que-dirige-los-10-000-puntos-de-efecty-503953",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "'En Colombia todavía existe el trueque': la heredera que dirige los 10.000 puntos de Efecty",
-        "capturado": "2026-10-06T14:42:41-05:00"
-      },
-      {
-        "titulo": "Sodimac Homecenter adquiere el control mayoritario de Sumatec y absorbe una empresa septuagenaria",
-        "url": "https://www.portafolio.co/negocios/empresas/homecenter-sodimac-compra-la-mayoria-de-sumatec-y-se-queda-con-una-firma-de-mas-de-70-anos-de-historia-503956",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Homecenter Sodimac compra la mayoría de Sumatec y se queda con una firma de más de 70 años de historia",
         "capturado": "2026-10-06T14:42:41-05:00"
       }
     ]
