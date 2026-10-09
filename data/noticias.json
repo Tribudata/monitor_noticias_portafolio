@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-08T17:22:29-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-10-08T21:24:31-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Efectos del día sin IVA en el recaudo según su última jornada y análisis del Gobierno sobre su regreso",
+        "url": "https://www.portafolio.co/economia/impuestos/como-impacta-el-dia-sin-iva-al-recaudo-esto-revelo-su-ultima-aplicacion-mientras-el-gobierno-evalua-retomarlo-504155",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "¿Cómo impacta el día sin IVA al recaudo? Esto reveló su última aplicación, mientras el Gobierno evalúa retomarlo",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "El Ideam oficializa la llegada del fenómeno de El Niño al país con fuerza alta o muy alta",
+        "url": "https://www.portafolio.co/economia/gobierno/ideam-confirma-oficialmente-presencia-del-fenomeno-de-el-nino-en-colombia-con-intensidad-entre-fuerte-y-muy-fuerte-504147",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Ideam confirma oficialmente presencia del fenómeno de El Niño en Colombia, con intensidad entre fuerte y muy fuerte",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "Cundinamarca alista plan para 3,8 millones de automotores con reversibles y vigilancia",
+        "url": "https://www.portafolio.co/economia/regiones/cundinamarca-prepara-operativo-por-3-8-millones-de-vehiculos-asi-seran-reversibles-y-controles-504145",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Cundinamarca prepara operativo por 3,8 millones de vehículos: así serán reversibles y controles",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "Café huilense marca hito en puja al comercializarse una libra de Geisha en 90 dólares",
+        "url": "https://www.portafolio.co/economia/agro/cafe-del-huila-rompe-records-en-subasta-una-libra-de-la-variedad-geisha-se-vendio-por-us-504143",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Café del Huila rompe récords en subasta: una libra de la variedad Geisha se vendió por US$90",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
       {
         "titulo": "Alza drástica del salario mínimo en 2027 subiría la presión en inflación, empleo y pensiones",
         "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-aumento-agresivo-elevaria-presion-sobre-inflacion-empleo-y-pensiones-504142",
@@ -563,49 +603,69 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "Gobierno expide decreto que elimina el límite del 30% a las inversiones de los fondos de pensiones en el exterior",
         "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense en Colombia sube y pasa de $3.250 este 7 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-amanece-al-alza-este-miercoles-7-de-octubre-pero-se-mantiene-cerca-de-los-3-504011",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "El dólar en Colombia pega un salto y supera los $3.250: así cotiza la divisa este 7 de octubre",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Sede diplomática norteamericana lanza ofertas laborales en el país pagando hasta $141,9 millones anuales",
-        "url": "https://www.portafolio.co/economia/empleo/embajada-de-ee-uu-abre-vacantes-en-colombia-con-salarios-de-hasta-141-9-millones-al-ano-504008",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Embajada de EE. UU. abre vacantes en Colombia con salarios de hasta $141,9 millones al año",
-        "capturado": "2026-10-07T06:17:43-05:00"
-      },
-      {
-        "titulo": "Solicitan aumentar los límites de operaciones al cumplirse el primer año de funcionamiento de Bre-B",
-        "url": "https://www.portafolio.co/economia/finanzas/ampliaira-los-topes-bre-b-cumplio-un-ano-y-piden-ampliar-numero-de-transacciones-503997",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "¿Ampliairá los topes? Bre-B cumplió un año y piden ampliar número de transacciones",
-        "capturado": "2026-10-07T06:17:43-05:00"
-      },
-      {
-        "titulo": "Actualizar la revisoría fiscal eleva la competitividad",
-        "url": "https://www.portafolio.co/economia/finanzas/modernizar-al-revisor-fiscal-impulsa-la-competitividad-504007",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Modernizar al revisor fiscal impulsa la competitividad",
-        "capturado": "2026-10-06T23:29:38-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Outlet Factory lanza vivencia de miedo basada en Thriller: días, horas y entrada",
+        "url": "https://www.portafolio.co/negocios/empresas/outlet-factory-abre-experiencia-de-terror-inspirada-en-thriller-fechas-horarios-y-como-ingresar-504158",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Outlet Factory abre experiencia de terror inspirada en Thriller: fechas, horarios y cómo ingresar",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "Spotify lanza audiolibros en Colombia: Premium dará 12 horas mensuales y 350000 obras",
+        "url": "https://www.portafolio.co/negocios/empresas/spotify-estrena-audiolibros-en-colombia-premium-incluira-12-horas-de-escucha-al-mes-y-mas-de-350-000-titulos-504157",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Spotify estrena audiolibros en Colombia: Premium incluirá 12 horas de escucha al mes y más de 350.000 títulos",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "El Gobierno ya gestiona el retorno de Mazda: ministro Gómez Amín dialogó con directivos",
+        "url": "https://www.portafolio.co/negocios/comercio/el-gobierno-ya-mueve-fichas-para-el-regreso-de-mazda-ministro-gomez-amin-se-reunio-con-representantes-de-la-marca-504149",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "El Gobierno ya mueve fichas para el regreso de Mazda: ministro Gómez Amín se reunió con representantes de la marca",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "Inchcape Colombia afianza una oferta completa para carga y pasajeros",
+        "url": "https://www.portafolio.co/negocios/empresas/inchcape-colombia-consolida-una-solucion-integral-para-el-transporte-de-carga-y-pasajeros-504144",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Inchcape Colombia consolida una solución integral para el transporte de carga y pasajeros",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "NutreCan y NutreCat se unen para educar a jóvenes sobre nutrición de mascotas",
+        "url": "https://www.portafolio.co/negocios/empresas/nutrecan-y-nutrecat-se-alian-para-sensibilizar-a-las-nuevas-generaciones-sobre-la-alimentacion-animal-504141",
+        "resumen": "",
+        "autor": "Valentina delgadillo abello",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "NutreCan y NutreCat se alían para sensibilizar a las nuevas generaciones sobre la alimentación animal",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
+      {
+        "titulo": "Su empresa cambiará: así reduciría costos innecesarios en talento humano",
+        "url": "https://www.portafolio.co/negocios/empresas/viene-una-transformacion-en-su-empresa-asi-podria-evitar-gastos-innecesarios-en-materia-de-talento-humano-504140",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "¿Viene una transformación en su empresa?: así podría evitar gastos innecesarios en materia de talento humano",
+        "capturado": "2026-10-08T21:24:31-05:00"
+      },
       {
         "titulo": "Ternium conmemora dos décadas en Wall Street: millonaria inversión en México y expansión en Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/ternium-celebra-20-anos-en-wall-street-su-millonaria-inversion-en-mexico-y-el-crecimiento-en-colombia-504139",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "Empresa chilena que recauda US$21 millones pone la mira en Colombia: venderá celulares reacondicionados",
         "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Mario Hernández obsequia café a los madrugadores en Juan Valdez bajo estas condiciones",
-        "url": "https://www.portafolio.co/negocios/mario-hernandez-invita-un-cafe-a-quienes-madrugan-asi-puede-reclamarlo-en-juan-valdez-503918",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Mario Hernández invita un café a quienes madrugan: así puede reclamarlo en Juan Valdez",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "La consolidación fiscal es fundamental para conseguir mayor expansión",
-        "url": "https://www.portafolio.co/negocios/empresas/el-ajuste-fiscal-clave-para-lograr-mas-crecimiento-503875",
-        "resumen": "",
-        "autor": "Vanesa castro salamanca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "El ajuste fiscal, clave para lograr más crecimiento",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Perfil de Efraín Cepeda Tarud, nuevo líder de la Cámara de Comercio de Barranquilla",
-        "url": "https://www.portafolio.co/negocios/comercio/nuevo-presidente-de-la-camara-de-comercio-de-barranquilla-este-es-el-perfil-de-efrain-cepeda-tarud-503909",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Nuevo presidente de la Cámara de Comercio de Barranquilla: este es el perfil de Efraín Cepeda Tarud",
-        "capturado": "2026-10-05T19:36:03-05:00"
-      },
-      {
-        "titulo": "Analdex advierte sobre la alta dependencia mineroenergética a pesar del aumento en las ventas externas",
-        "url": "https://www.portafolio.co/negocios/comercio/analdex-alerta-por-dependencia-del-sector-minero-energetico-pese-al-crecimiento-de-las-exportaciones-503904",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Analdex alerta por dependencia del sector minero-energético pese al crecimiento de las exportaciones",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "Siigo adquiere Bsale y destina US$100 millones para impulsar su crecimiento regional en América Latina",
-        "url": "https://www.portafolio.co/negocios/empresas/siigo-compra-bsale-y-anuncia-inversion-de-us-100-millones-para-acelerar-su-expansion-en-latinoamerica-503902",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Siigo compra Bsale y anuncia inversión de US$100 millones para acelerar su expansión en Latinoamérica",
-        "capturado": "2026-10-05T13:46:22-05:00"
-      },
-      {
-        "titulo": "Bancolombia invierte $500.000 millones en la adquisición de cinco inmuebles logísticos en la Calle 80",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-mueve-500-000-millones-en-millonaria-compra-de-cinco-edificios-logisticos-en-la-calle-503892",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Bancolombia mueve $500.000 millones en millonaria compra de cinco edificios logísticos en la Calle 80",
-        "capturado": "2026-10-05T13:46:22-05:00"
       }
     ]
   }
