@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-08T21:24:31-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-09T04:26:54-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El senador Enrique Gómez solicita indagar sobre las ventas de polietileno de Ecopetrol a Química Comercial Andina",
+        "url": "https://www.portafolio.co/economia/gobierno/senador-enrique-gomez-pide-investigar-ventas-de-polietileno-de-ecopetrol-a-quimica-comercial-andina-504159",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Senador Enrique Gómez pide investigar ventas de polietileno de Ecopetrol a Química Comercial Andina",
+        "capturado": "2026-10-09T04:26:54-05:00"
+      },
       {
         "titulo": "Efectos del día sin IVA en el recaudo según su última jornada y análisis del Gobierno sobre su regreso",
         "url": "https://www.portafolio.co/economia/impuestos/como-impacta-el-dia-sin-iva-al-recaudo-esto-revelo-su-ultima-aplicacion-mientras-el-gobierno-evalua-retomarlo-504155",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-07",
         "titulo_fuente": "Gobierno cambia protocolo para recibir a autoridades extranjeras: así funcionarán las visitas a Colombia",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Gobierno saca decreto que quita el tope de 30% a inversiones externas de fondos de pensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-expide-decreto-que-elimina-el-limite-del-30-a-las-inversiones-de-los-fondos-de-pensiones-en-el-exterior-504012",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Gobierno expide decreto que elimina el límite del 30% a las inversiones de los fondos de pensiones en el exterior",
         "capturado": "2026-10-07T12:55:16-05:00"
       }
     ],
