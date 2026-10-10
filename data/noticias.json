@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-09T16:09:15-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-10-09T20:06:03-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno reveló en Cartagena el decreto de actualización portuaria con los puntos clave del texto",
+        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-presento-en-cartagena-el-decreto-para-modernizar-los-puertos-estos-son-los-detalles-del-documento-504212",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno presentó en Cartagena el decreto para modernizar los puertos: estos son los detalles del documento",
+        "capturado": "2026-10-09T20:06:03-05:00"
+      },
+      {
+        "titulo": "Gobierno pone en marcha Obras por Impuestos para agilizar la recuperación de áreas golpeadas por sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-activa-obras-por-impuestos-para-acelerar-la-reconstruccion-de-zonas-afectadas-por-el-terremoto-504211",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno activa Obras por Impuestos para acelerar la reconstrucción de zonas afectadas por el terremoto",
+        "capturado": "2026-10-09T20:06:03-05:00"
+      },
+      {
+        "titulo": "La confianza económica de los colombianos llega a su pico de 2026, de acuerdo con medición de Davivienda",
+        "url": "https://www.portafolio.co/economia/la-confianza-de-los-colombianos-en-la-economia-alcanza-su-nivel-mas-alto-de-2026-segun-indicador-de-davivienda-504209",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "La confianza de los colombianos en la economía alcanza su nivel más alto de 2026, según indicador de Davivienda",
+        "capturado": "2026-10-09T20:06:03-05:00"
+      },
+      {
+        "titulo": "De La Espriella brinda asistencia de Colombia a Panamá tras sismo de magnitud 7,7 este viernes",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ofrece-ayuda-de-colombia-a-panama-tras-terremoto-de-magnitud-7-7-este-viernes-504208",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "De La Espriella ofrece ayuda de Colombia a Panamá tras terremoto de magnitud 7,7 este viernes",
+        "capturado": "2026-10-09T20:06:03-05:00"
+      },
       {
         "titulo": "Éxodo en Bogotá: cómo funcionarán reversibles y pico y placa regional en el puente festivo",
         "url": "https://www.portafolio.co/economia/regiones/plan-exodo-en-bogota-asi-operaran-reversibles-y-pico-y-placa-regional-durante-el-puente-festivo-504205",
@@ -563,49 +603,19 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "Dólar gana terreno frente al euro antes de conocerse las minutas de la Reserva Federal",
         "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Modifican modelo de multifondos al quitar tope a colocaciones de AFP en mercados extranjeros",
-        "url": "https://www.portafolio.co/economia/asi-cambia-la-estrategia-de-los-multifondos-tras-eliminarse-el-limite-a-inversiones-de-afp-en-el-exterior-504051",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Así cambia la estrategia de los multifondos tras eliminarse el límite a inversiones de AFP en el exterior",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Traspaso de conocimiento israelí resulta fundamental para optimizar la productividad del campo nacional",
-        "url": "https://www.portafolio.co/economia/agro/transferencia-de-tecnologia-israeli-clave-para-mejorar-la-eficiencia-agropecuaria-en-colombia-504042",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Transferencia de tecnología israelí, clave para mejorar la eficiencia agropecuaria en Colombia",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "De La Espriella dispone anular contrato por 60 millones a exmagistrado del CNE en Mininterior",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ordena-cancelar-contrato-de-60-millones-a-exmagistrado-del-cne-en-el-ministerio-del-interior-504048",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "De La Espriella ordena cancelar contrato de $60 millones a exmagistrado del CNE en el Ministerio del Interior",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "El Fenómeno del Niño y los incendios aumentan el peligro respiratorio y saturan la salud en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/el-nino-y-los-incendios-elevan-el-riesgo-respiratorio-y-presionan-la-atencion-en-salud-en-colombia-504045",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "El Niño y los incendios elevan el riesgo respiratorio y presionan la atención en salud en Colombia",
-        "capturado": "2026-10-07T17:46:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Probabilidad de que Mazda y Toyota reanuden producción en Colombia y su situación actual",
+        "url": "https://www.portafolio.co/negocios/vehiculo/que-tan-probable-es-que-mazda-y-toyota-vuelvan-a-producir-en-colombia-y-cual-es-su-posicion-actual-en-el-pais-504206",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas, cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Qué tan probable es que Mazda y Toyota vuelvan a producir en Colombia y cuál es su posición actual en el país",
+        "capturado": "2026-10-09T20:06:03-05:00"
+      },
       {
         "titulo": "Gobierno prepara decreto sobre puertos para impulsar la inversión nacional",
         "url": "https://www.portafolio.co/negocios/inversion/gobierno-alista-decreto-para-concesiones-portuarias-y-abre-puerta-a-mas-inversion-en-colombia-504203",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-10-06",
         "titulo_fuente": "Los sucesores al trono",
         "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Los herederos del trono",
-        "url": "https://www.portafolio.co/negocios/empresas/los-sucesores-del-trono-503971",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Los sucesores del trono",
-        "capturado": "2026-10-06T14:42:41-05:00"
       }
     ]
   }
