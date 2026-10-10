@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-10T02:32:21-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-10T09:15:03-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "La divisa estadounidense en el país bajó cerca de 80 pesos semanalmente y cotiza abajo de 3200 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-perdio-casi-80-durante-la-semana-y-se-ubica-por-debajo-de-los-3-504225",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "El dólar en Colombia perdió casi $80 durante la semana y se ubica por debajo de los $3.200",
+        "capturado": "2026-10-10T09:15:03-05:00"
+      },
+      {
+        "titulo": "Aumento del salario mínimo para 2027: cinco factores determinarán el incremento en el territorio nacional",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-de-2027-estas-son-las-cinco-variables-que-definiran-el-aumento-en-colombia-504224",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Salario mínimo de 2027: estas son las cinco variables que definirán el aumento en Colombia",
+        "capturado": "2026-10-10T09:15:03-05:00"
+      },
+      {
+        "titulo": "Precipitaciones intensas y temperaturas elevadas: el Ideam anuncia el pronóstico climático del fin de semana",
+        "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-y-altas-temperaturas-ideam-pronostica-como-estara-el-clima-durante-el-puente-festivo-504223",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Fuertes lluvias y altas temperaturas: Ideam pronostica cómo estará el clima durante el puente festivo",
+        "capturado": "2026-10-10T09:15:03-05:00"
+      },
       {
         "titulo": "Ejecutivo expide proyecto de decreto para tramitar simultáneamente licencias ambientales y consultas previas",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-publica-borrador-de-decreto-para-que-consultas-previas-y-licencias-ambientales-avancen-al-tiempo-504221",
@@ -572,36 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-07",
         "titulo_fuente": "Minvivienda se reúne con gerente del Fondo Milagro: se conoce el primer giro y el estimado del costo en viviendas",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo expone plan fiscal para bajar tasas de interés entre 250 y 300 puntos básicos",
-        "url": "https://www.portafolio.co/economia/plan-fiscal-de-fedesarrollo-busca-recuperar-credibilidad-y-reducir-tasas-de-interes-entre-250-y-300-puntos-504072",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Fedesarrollo presenta propuesta de plan fiscal con el que plantea reducir tasas de interés entre 250 y 300 puntos",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Vacaciones escolares movilizarán más de 805.000 viajeros en Colombia hacia los sitios más cotizados",
-        "url": "https://www.portafolio.co/economia/regiones/receso-escolar-movera-mas-de-805-000-viajeros-en-colombia-estos-seran-los-destinos-mas-buscados-504071",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Receso escolar moverá más de 805.000 viajeros en Colombia: estos serán los destinos más buscados",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Estrategia de la ANI destraba 269 trámites y reactiva 360 en menos de un mes de trabajo",
-        "url": "https://www.portafolio.co/economia/infraestructura/plan-de-choque-de-la-ani-destraba-269-expedientes-y-reactiva-otros-360-en-menos-de-un-mes-de-gestion-504068",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Plan de Choque de la ANI destraba 269 expedientes y reactiva otros 360 en menos de un mes de gestión",
         "capturado": "2026-10-07T17:46:46-05:00"
       }
     ],
