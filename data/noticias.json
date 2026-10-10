@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-09T20:06:03-05:00",
+  "actualizado": "2026-10-10T02:32:21-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo expide proyecto de decreto para tramitar simultáneamente licencias ambientales y consultas previas",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-publica-borrador-de-decreto-para-que-consultas-previas-y-licencias-ambientales-avancen-al-tiempo-504221",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Gobierno publica borrador de decreto para que consultas previas y licencias ambientales avancen al tiempo",
+        "capturado": "2026-10-10T02:32:21-05:00"
+      },
+      {
+        "titulo": "Tasa de los TES en pesos volvió al 13% y generó opciones de compra a extranjeros y entidades bancarias",
+        "url": "https://www.portafolio.co/economia/los-tes-en-pesos-regresaron-a-tasas-cercanas-al-13-y-abrieron-oportunidades-de-compra-para-bancos-y-extranjeros-504170",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Los TES en pesos regresaron a tasas cercanas al 13% y abrieron oportunidades de compra para bancos y extranjeros",
+        "capturado": "2026-10-10T02:32:21-05:00"
+      },
+      {
+        "titulo": "Consulte y baje la versión digital de Portafolio fin de semana",
+        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-504220",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
+        "capturado": "2026-10-10T02:32:21-05:00"
+      },
+      {
+        "titulo": "Remuneración básica de 2026 continúa en $1'750.905 y administración rechaza reintegrar fondos a empleados",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-y-gobierno-descarta-devolucion-de-dinero-a-trabajadores-504218",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Salario mínimo de 2026 sigue en $1'750.905 y Gobierno descarta devolución de dinero a trabajadores",
+        "capturado": "2026-10-10T02:32:21-05:00"
+      },
+      {
+        "titulo": "JP Morgan calcula que Colombia requerirá entre US$50.000 y US$72.000 millones de recursos en 2027",
+        "url": "https://www.portafolio.co/economia/crecimiento/colombia-necesitaria-entre-us-50-000-y-us-72-000-millones-de-financiamiento-en-2027-jp-morgan-504217",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Colombia necesitaría entre US$50.000 y US$72.000 millones de financiamiento en 2027: JP Morgan",
+        "capturado": "2026-10-10T02:32:21-05:00"
+      },
       {
         "titulo": "Gobierno reveló en Cartagena el decreto de actualización portuaria con los puntos clave del texto",
         "url": "https://www.portafolio.co/economia/infraestructura/gobierno-presento-en-cartagena-el-decreto-para-modernizar-los-puertos-estos-son-los-detalles-del-documento-504212",
@@ -552,56 +602,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "2026-10-07",
         "titulo_fuente": "Plan de Choque de la ANI destraba 269 expedientes y reactiva otros 360 en menos de un mes de gestión",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Banco de la República: claves del sorpresivo incremento de 25 puntos en la tasa durante septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-los-detalles-del-inesperado-aumento-de-25-puntos-en-la-tasa-en-la-junta-de-septiembre-504063",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Banco de la República: los detalles del inesperado aumento de 25 puntos en la tasa en la junta de septiembre",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Embarazo continúa entre las causas principales de deserción escolar en adolescentes colombianas",
-        "url": "https://www.portafolio.co/economia/gobierno/embarazo-sigue-entre-las-principales-causas-para-dejar-de-estudiar-entre-adolescentes-en-colombia-504064",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Embarazo sigue entre las principales causas para dejar de estudiar entre adolescentes en Colombia",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Colombia se ubica en la posición 16 entre 19 en estabilidad monetaria por retrasos regionales y trabas",
-        "url": "https://www.portafolio.co/economia/colombia-ocupa-el-puesto-16-de-19-en-estabilidad-monetaria-por-rezagos-frente-a-la-region-y-restricciones-504061",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Colombia ocupa el puesto 16 de 19 en estabilidad monetaria por rezagos frente a la región y restricciones",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Carpeta del PGN indica que carteras de Minas y Deportes verían recortado su presupuesto casi a la mitad",
-        "url": "https://www.portafolio.co/economia/gobierno/ministerio-de-minas-y-de-deportes-perderian-casi-la-mitad-de-su-presupuesto-para-2027-con-el-proyecto-de-pgn-504050",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Ministerio de Minas y de Deportes perderían casi la mitad de su presupuesto para 2027 con el proyecto de PGN",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Divisa estadounidense sube ante el euro previo a la divulgación de actas de la Reserva Federal",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-gana-terreno-frente-al-euro-antes-de-conocerse-las-minutas-de-la-reserva-federal-504057",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Dólar gana terreno frente al euro antes de conocerse las minutas de la Reserva Federal",
         "capturado": "2026-10-07T17:46:46-05:00"
       }
     ],
