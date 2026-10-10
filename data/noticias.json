@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-10T13:46:12-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-10T17:13:50-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Estudio avisa que el IPC llegaría al 7,3% en la primera mitad de 2027 antes de descender",
+        "url": "https://www.portafolio.co/economia/gobierno/inflacion-tocaria-un-techo-de-7-3-en-el-primer-semestre-de-2027-antes-de-comenzar-a-bajar-advierte-estudio-504253",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Inflación tocaría un techo de 7,3% en el primer semestre de 2027 antes de comenzar a bajar, advierte estudio",
+        "capturado": "2026-10-10T17:13:50-05:00"
+      },
+      {
+        "titulo": "TransMilenio alarga su servicio por Rock al Parque y show de Iron Maiden con estas rutas",
+        "url": "https://www.portafolio.co/economia/regiones/transmilenio-extiende-operacion-por-rock-al-parque-y-concierto-de-iron-maiden-estas-son-las-rutas-habilitadas-504252",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "TransMilenio extiende operación por Rock al Parque y concierto de Iron Maiden: estas son las rutas habilitadas",
+        "capturado": "2026-10-10T17:13:50-05:00"
+      },
+      {
+        "titulo": "Defensoría del Pueblo solicita habilitar de nuevo el registro de afectados por sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/defensoria-del-pueblo-pide-reabrir-el-registro-de-damnificados-por-el-terremoto-en-colombia-504246",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Defensoría del Pueblo pide reabrir el registro de damnificados por el terremoto en Colombia",
+        "capturado": "2026-10-10T17:13:50-05:00"
+      },
+      {
+        "titulo": "Eva Ferrer acusa a Verónica Alcocer de un supuesto envío de US$2,5 millones desde Venezuela",
+        "url": "https://www.portafolio.co/economia/gobierno/eva-ferrer-senala-a-veronica-alcocer-por-presunto-traslado-de-us-2-5-millones-desde-venezuela-504245",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Eva Ferrer señala a Verónica Alcocer por presunto traslado de US$2,5 millones desde Venezuela",
+        "capturado": "2026-10-10T17:13:50-05:00"
+      },
       {
         "titulo": "Nueva transferencia de Renta Joven entregará hasta $600.000 a estos estudiantes",
         "url": "https://www.portafolio.co/economia/regiones/renta-joven-anuncia-nueva-transferencia-estos-estudiantes-recibiran-hasta-600-504241",
@@ -563,49 +603,19 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "Ministerios de Transporte y Defensa lanzan hoja de ruta para enfrentar inseguridad en corredores estratégicos",
         "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Con nuevo decreto Ejecutivo extiende a 30 meses el tiempo para fijar normas de portabilidad financiera",
-        "url": "https://www.portafolio.co/economia/con-nuevo-decreto-gobierno-amplia-a-30-meses-el-plazo-para-definir-los-estandares-de-portabilidad-financiera-504096",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Con nuevo decreto Gobierno amplía a 30 meses el plazo para definir los estándares de portabilidad financiera",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Cotización del euro baja en Colombia y el dólar sube: así se mueve la divisa europea este 8 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-en-colombia-cae-mientras-el-dolar-sube-asi-cotiza-la-moneda-europea-este-8-de-octubre-504094",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Precio del euro en Colombia cae, mientras el dólar sube: así cotiza la moneda europea este 8 de octubre",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Un trasplante renal puede salir más barato que aguardar: cinco años de diálisis suman hasta $225 millones por enfermo",
-        "url": "https://www.portafolio.co/economia/finanzas/trasplantar-un-rinon-puede-costar-menos-que-esperar-cinco-anos-de-dialisis-llegan-hasta-225-millones-por-paciente-504092",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Trasplantar un riñón puede costar menos que esperar: cinco años de diálisis llegan hasta $225 millones por paciente",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Medida de austeridad: Mininterior recorta $103.000 millones y anula 557 contratos de la administración Petro",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-de-austeridad-mininterior-libera-103-000-millones-y-cancelo-557-contratos-que-dejo-el-gobierno-petro-504090",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Plan de austeridad: Mininterior libera $103.000 millones y canceló 557 contratos que dejó el Gobierno Petro",
-        "capturado": "2026-10-08T12:29:52-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Las transacciones de los Gilinski en Venezuela: mayores ventas de Nutresa y una gran inversión petrolera",
+        "url": "https://www.portafolio.co/negocios/empresas/los-negocios-de-los-gilinski-en-venezuela-mas-ventas-de-nutresa-y-una-millonaria-apuesta-petrolera-504251",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Los negocios de los Gilinski en Venezuela: más ventas de Nutresa y una millonaria apuesta petrolera",
+        "capturado": "2026-10-10T17:13:50-05:00"
+      },
       {
         "titulo": "Exlíder de LinkedIn se va de Microsoft al negarse a trasladarse a Redmond para laborar en la oficina",
         "url": "https://www.portafolio.co/negocios/empresas/exceo-de-linkedin-deja-microsoft-tras-decidir-no-mudarse-a-redmond-para-trabajar-a-diario-en-la-sede-504233",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-06",
         "titulo_fuente": "Doria quiere que la pasta sea protagonista en la 'coca' de los colombianos y proyecta crecer 15% en 2027",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Analdex solicita plan de contingencia a la Dian por caída masiva en comercio exterior",
-        "url": "https://www.portafolio.co/negocios/comercio/analdex-pide-contingencia-a-la-dian-por-falla-general-que-afecta-operaciones-de-comercio-exterior-503981",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Analdex pide contingencia a la Dian por falla general que afecta operaciones de comercio exterior",
         "capturado": "2026-10-06T18:34:57-05:00"
       }
     ]
