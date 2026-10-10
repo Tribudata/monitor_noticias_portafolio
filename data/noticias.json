@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-10T09:15:03-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-10T13:46:12-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Nueva transferencia de Renta Joven entregará hasta $600.000 a estos estudiantes",
+        "url": "https://www.portafolio.co/economia/regiones/renta-joven-anuncia-nueva-transferencia-estos-estudiantes-recibiran-hasta-600-504241",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Renta Joven anuncia nueva transferencia: estos estudiantes recibirán hasta $600.000",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Alza del corrientazo cerca a $20.000 por presión en papa y carne",
+        "url": "https://www.portafolio.co/economia/finanzas/el-corrientazo-bajo-presion-estos-son-los-alimentos-que-mas-se-han-encarecido-504240",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "El corrientazo subió de precio y se acerca a los $20.000: papa y carne, los alimentos que más presionaron",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Minagricultura quiere implementar el seguro agrario español en Colombia tras evaluar su modelo",
+        "url": "https://www.portafolio.co/economia/agro/minagricultura-busca-adaptar-a-colombia-el-seguro-agrario-de-espana-tras-conocer-su-experiencia-504239",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Minagricultura busca adaptar a Colombia el seguro agrario de España tras conocer su experiencia",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Salario mínimo de 2026 se mantiene en $1.750.905 tras fallo del Consejo de Estado",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-millones-tras-aclaracion-sobre-fallos-del-consejo-de-estado-504236",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Salario mínimo de 2026 sigue en $1.750.905 tras aclaración sobre fallos del Consejo de Estado",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Minciencias lanza convocatoria por $700.000 millones para reconstrucción tras sismo en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/minciencias-abre-convocatoria-por-700-000-millones-para-reconstruccion-tras-el-terremoto-en-colombia-504232",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Minciencias abre convocatoria por $700.000 millones para reconstrucción tras el terremoto en Colombia",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Dos amenazas climáticas explican las fuertes lluvias al inicio del fenómeno de El Niño en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/por-que-llueve-tanto-en-pleno-inicio-del-fenomeno-de-el-nino-dos-amenazas-climaticas-que-enfrenta-colombia-504231",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "¿Por qué llueve tanto en pleno inicio del fenómeno de El Niño?: dos amenazas climáticas que enfrenta Colombia",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
+      {
+        "titulo": "Colombia e Israel firman tres pactos para actualizar el campo con sistemas de riego y tecnología",
+        "url": "https://www.portafolio.co/economia/agro/colombia-e-israel-sellan-tres-acuerdos-para-modernizar-el-agro-con-riego-y-nuevas-tecnologias-504228",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Colombia e Israel sellan tres acuerdos para modernizar el agro con riego y nuevas tecnologías",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
       {
         "titulo": "La divisa estadounidense en el país bajó cerca de 80 pesos semanalmente y cotiza abajo de 3200 pesos",
         "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-perdio-casi-80-durante-la-semana-y-se-ubica-por-debajo-de-los-3-504225",
@@ -533,79 +603,19 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "Plan de austeridad: Mininterior libera $103.000 millones y canceló 557 contratos que dejó el Gobierno Petro",
         "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "La tasa de cambio descendió hacia los 3.200 pesos este 8 de octubre en el país",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-inicia-al-alza-tras-el-aumento-de-la-inflacion-y-se-acerco-a-los-3-504089",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Dólar en Colombia bajó y se acerca a los 3.200: así cotiza la divisa este 8 de octubre",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "El nuevo recargo en Buenaventura presiona las exportaciones cafeteras y la FNC pide evaluar sus efectos",
-        "url": "https://www.portafolio.co/economia/agro/el-nuevo-cobro-en-buenaventura-suma-presion-a-las-exportaciones-de-cafe-la-fnc-pide-revisar-sus-impactos-504087",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "El nuevo cobro en Buenaventura suma presión a las exportaciones de café: la FNC pide revisar sus impactos",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "La inflación del 6,29% en septiembre marca la pauta para discutir el salario mínimo de 2027 en Colombia",
-        "url": "https://www.portafolio.co/economia/finanzas/la-inflacion-del-6-29-en-septiembre-fija-la-pauta-para-la-discusion-del-salario-minimo-de-2027-en-colombia-504088",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "La inflación del 6,29% en septiembre fija la pauta para la discusión del salario mínimo de 2027 en Colombia",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "MinHacienda da visto bueno a créditos con la banca alemana de desarrollo por 497 millones de euros",
-        "url": "https://www.portafolio.co/economia/gobierno/hacienda-emite-concepto-favorable-para-obtener-prestamo-con-el-banco-de-desarrollo-aleman-por-497-millones-de-euros-504086",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Hacienda emite concepto favorable para obtener préstamos con Banco de Desarrollo alemán por 497 millones de euros",
-        "capturado": "2026-10-07T21:33:20-05:00"
-      },
-      {
-        "titulo": "El costo de vida en Colombia continúa al alza y llega al 6,29% en septiembre de 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Inflación en Colombia sigue subiendo: se ubicó en 6,29% en septiembre de 2026",
-        "capturado": "2026-10-07T21:33:20-05:00"
-      },
-      {
-        "titulo": "Cesce llega a zonas con actividad productiva y económica para mitigar el riesgo de cobros",
-        "url": "https://www.portafolio.co/economia/finanzas/donde-se-produzca-y-haya-dinamica-economica-esta-cesce-para-reducir-el-riesgo-de-pagos-504076",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "‘Donde se produzca y haya dinámica económica está Cesce, para reducir el riesgo de pagos’",
-        "capturado": "2026-10-07T21:33:20-05:00"
-      },
-      {
-        "titulo": "Minvivienda dialoga con gerente del Fondo Milagro: revelan primer desembolso y costo proyectado de casas",
-        "url": "https://www.portafolio.co/economia/gobierno/minvivienda-se-reune-con-gerente-del-fondo-milagro-se-conoce-el-primer-giro-y-el-estimado-del-costo-en-viviendas-504075",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Minvivienda se reúne con gerente del Fondo Milagro: se conoce el primer giro y el estimado del costo en viviendas",
-        "capturado": "2026-10-07T17:46:46-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Exlíder de LinkedIn se va de Microsoft al negarse a trasladarse a Redmond para laborar en la oficina",
+        "url": "https://www.portafolio.co/negocios/empresas/exceo-de-linkedin-deja-microsoft-tras-decidir-no-mudarse-a-redmond-para-trabajar-a-diario-en-la-sede-504233",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "ExCEO de LinkedIn deja Microsoft tras decidir no mudarse a Redmond para trabajar a diario en la sede",
+        "capturado": "2026-10-10T13:46:12-05:00"
+      },
       {
         "titulo": "Probabilidad de que Mazda y Toyota reanuden producción en Colombia y su situación actual",
         "url": "https://www.portafolio.co/negocios/vehiculo/que-tan-probable-es-que-mazda-y-toyota-vuelvan-a-producir-en-colombia-y-cual-es-su-posicion-actual-en-el-pais-504206",
@@ -1194,16 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-10-06",
         "titulo_fuente": "Analdex pide contingencia a la Dian por falla general que afecta operaciones de comercio exterior",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Los sucesores al trono",
-        "url": "https://www.portafolio.co/negocios/empresas/los-sucesores-al-trono-503971",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Los sucesores al trono",
         "capturado": "2026-10-06T18:34:57-05:00"
       }
     ]
