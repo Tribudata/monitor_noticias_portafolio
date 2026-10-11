@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-11T02:37:06-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T09:40:13-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ministra de Trabajo rechaza sanción judicial y cuestiona tres días de arresto por un ajeno desacato",
+        "url": "https://www.portafolio.co/economia/gobierno/tres-dias-de-arresto-por-un-desacato-que-no-originamos-ministra-de-trabajo-cuestiona-sancion-judicial-504262",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "'¡Tres días de arresto por un desacato que no originamos!': ministra de Trabajo cuestiona sanción judicial",
+        "capturado": "2026-10-11T09:40:13-05:00"
+      },
+      {
+        "titulo": "Abogado De La Espriella pide indagar en la Fuerza Aérea las acusaciones de Eva Ferrer sobre Verónica Alcocer",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ordena-investigar-en-la-fuerza-aerea-denuncias-de-eva-ferrer-sobre-veronica-alcocer-504259",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "De La Espriella ordena investigar en la Fuerza Aérea denuncias de Eva Ferrer sobre Verónica Alcocer",
+        "capturado": "2026-10-11T09:40:13-05:00"
+      },
+      {
+        "titulo": "Aerocivil restablece el tráfico aéreo tras la emergencia por temblor en Panamá y desviación de aviones",
+        "url": "https://www.portafolio.co/economia/regiones/aerocivil-normaliza-operacion-aerea-tras-contingencia-por-sismo-en-panama-y-desvio-de-vuelos-504257",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Aerocivil normaliza operación aérea tras contingencia por sismo en Panamá y desvío de vuelos",
+        "capturado": "2026-10-11T09:40:13-05:00"
+      },
+      {
+        "titulo": "De La Espriella reitera apoyo a la Fuerza Pública en evento de homenaje a veteranos en Cartagena",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ratifica-respaldo-a-la-fuerza-publica-durante-homenaje-a-veteranos-en-cartagena-504256",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "De La Espriella ratifica respaldo a la Fuerza Pública durante homenaje a veteranos en Cartagena",
+        "capturado": "2026-10-11T09:40:13-05:00"
+      },
       {
         "titulo": "Colombia pretende fomentar el agroturismo en predios cafeteros, floricultores y cacaoteros para variar entradas",
         "url": "https://www.portafolio.co/economia/agro/colombia-busca-impulsar-el-agroturismo-en-fincas-de-cafe-flores-y-cacao-para-diversificar-ingresos-504255",
@@ -562,46 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-08",
         "titulo_fuente": "¿Qué viene para la reforma pensional en Colombia?",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Productores de arroz en Casanare adeudan 470000 millones y el Gobierno prepara auxilios",
-        "url": "https://www.portafolio.co/economia/agro/arroceros-de-casanare-enfrentan-deudas-por-470-000-millones-y-gobierno-prepara-medidas-de-alivio-financiero-504107",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Arroceros de Casanare enfrentan deudas por $470.000 millones y Gobierno prepara medidas de alivio financiero",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Gobierno arranca en el Eje Cafetero la elaboración regional del Plan de Desarrollo 2026-2030",
-        "url": "https://www.portafolio.co/economia/gobierno-inicia-desde-el-eje-cafetero-la-construccion-regional-del-plan-nacional-de-desarrollo-2026-504104",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Gobierno inicia desde el Eje Cafetero la construcción regional del Plan Nacional de Desarrollo 2026-2030",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Hospitales públicos golpeados por el sismo dispondrán de medio año para entregar datos al Estado",
-        "url": "https://www.portafolio.co/economia/gobierno/hospitales-publicos-afectados-por-el-sismo-tendran-seis-meses-de-plazo-para-reportar-informacion-al-estado-504103",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Hospitales públicos afectados por el sismo tendrán seis meses de plazo para reportar información al Estado",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Austeridad en 2027: Gobierno recorta viajes oficiales y disminuye gastos de publicidad",
-        "url": "https://www.portafolio.co/economia/austeridad-en-2027-gobierno-limita-viajes-de-funcionarios-y-ordena-reducir-gastos-de-publicidad-estatal-504102",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Austeridad en 2027: Gobierno limita viajes de funcionarios y ordena reducir gastos de publicidad estatal",
         "capturado": "2026-10-08T12:29:52-05:00"
       }
     ],
