@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-11T14:21:03-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-11T18:03:13-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "En qué consiste la Milagro Week, la iniciativa del vicepresidente para impulsar la economía al 6%",
+        "url": "https://www.portafolio.co/economia/gobierno/que-es-la-milagro-week-la-primera-apuesta-con-la-que-el-vicepresidente-busca-llevar-el-crecimiento-al-504288",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "¿Qué es la Milagro Week? La primera apuesta con la que el vicepresidente busca llevar el crecimiento al 6%",
+        "capturado": "2026-10-11T18:03:13-05:00"
+      },
+      {
+        "titulo": "Modifican normas de acceso a Bogotá para este lunes festivo con reversibles, horarios y restricciones",
+        "url": "https://www.portafolio.co/economia/regiones/cambian-las-reglas-para-entrar-a-bogota-este-lunes-festivo-reversibles-horarios-y-restricciones-en-plan-retorno-504287",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Cambian las reglas para entrar a Bogotá este lunes festivo: reversibles, horarios y restricciones en plan retorno",
+        "capturado": "2026-10-11T18:03:13-05:00"
+      },
+      {
+        "titulo": "Remuneración básica de 2027 llegaría a $1.925.996 sin subsidio de transporte según análisis",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-quedaria-en-1-925-996-sin-auxilio-de-transporte-los-tres-escenarios-que-plantea-estudio-504285",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Salario mínimo de 2027 quedaría hasta en $1.925.996 sin auxilio de transporte: los escenarios que plantea estudio",
+        "capturado": "2026-10-11T18:03:13-05:00"
+      },
       {
         "titulo": "El Banco de la República vio su meta inflacionaria cumplida en apenas seis de los pasados dieciséis años",
         "url": "https://www.portafolio.co/economia/finanzas/colombia-cumplio-el-rango-de-inflacion-del-banco-de-la-republica-en-solo-seis-de-los-ultimos-16-anos-504277",
@@ -573,39 +603,29 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "Cundinamarca prepara operativo por 3,8 millones de vehículos: así serán reversibles y controles",
         "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Café huilense marca hito en puja al comercializarse una libra de Geisha en 90 dólares",
-        "url": "https://www.portafolio.co/economia/agro/cafe-del-huila-rompe-records-en-subasta-una-libra-de-la-variedad-geisha-se-vendio-por-us-504143",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Café del Huila rompe récords en subasta: una libra de la variedad Geisha se vendió por US$90",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Alza drástica del salario mínimo en 2027 subiría la presión en inflación, empleo y pensiones",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-aumento-agresivo-elevaria-presion-sobre-inflacion-empleo-y-pensiones-504142",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Salario mínimo 2027: aumento agresivo elevaría presión sobre inflación, empleo y pensiones",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "La UPB rectifica que Paola Holguín, ministra de las Culturas, carece de título de maestría",
-        "url": "https://www.portafolio.co/economia/gobierno/paola-holguin-ministra-de-las-culturas-no-obtuvo-titulo-de-maestria-segun-rectificacion-de-la-upb-504136",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Paola Holguín, ministra de las Culturas, no obtuvo título de maestría, según rectificación de la UPB",
-        "capturado": "2026-10-08T17:22:29-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ocho proyectos comunitarios en La Guajira reciben 3.468 millones de pesos de la Agencia Nacional de Tierras",
+        "url": "https://www.portafolio.co/negocios/empresas/ant-destina-3-468-millones-a-ocho-iniciativas-comunitarias-en-la-guajira-504286",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Agencia Nacional de Tierras destina $3.468 millones a ocho iniciativas comunitarias en La Guajira",
+        "capturado": "2026-10-11T18:03:13-05:00"
+      },
+      {
+        "titulo": "Director de la empresa de fertilizantes Precisagro afirma que hay preparación ante el fenómeno de El Niño",
+        "url": "https://www.portafolio.co/negocios/empresas/estamos-preparados-para-enfrentar-el-fenomeno-de-el-nino-director-de-precisagro-empresa-de-fertilizantes-504283",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "'Estamos preparados para enfrentar el fenómeno de El Niño': director de Precisagro, empresa de fertilizantes",
+        "capturado": "2026-10-11T18:03:13-05:00"
+      },
       {
         "titulo": "Bavaria alcanza más del 90 por ciento de la industria de cervezas en Colombia y Central Cervecera compite",
         "url": "https://www.portafolio.co/negocios/empresas/bavaria-supera-el-90-del-mercado-cervecero-colombiano-y-central-cervecera-busca-ganar-espacio-504278",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-07",
         "titulo_fuente": "Davivienda recibe aval clave para integrar a Davibank y avanza en la reorganización de su grupo financiero",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Novedoso esquema de Bancolombia otorga cuentas salariales gratis y descuentos de hasta 50% en apps",
-        "url": "https://www.portafolio.co/negocios/empresas/nuevo-modelo-de-bancolombia-ofrece-cuentas-nomina-sin-costo-y-rebajas-de-hasta-50-en-suscripciones-504025",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Nuevo modelo de Bancolombia ofrece cuentas de nómina sin costo y rebajas de hasta 50% en suscripciones",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Auteco Blue solicita al Ejecutivo aclarar si camiones eléctricos pagan cupo ambiental por vacío legal",
-        "url": "https://www.portafolio.co/negocios/empresas/auteco-blue-pide-al-gobierno-definir-si-los-camiones-electricos-pagan-cupo-ambiental-habla-de-una-zona-gris-503989",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Auteco Blue pide al Gobierno definir si los camiones eléctricos pagan cupo ambiental: habla de una zona gris",
         "capturado": "2026-10-07T12:55:16-05:00"
       }
     ]
