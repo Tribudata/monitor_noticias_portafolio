@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-11T09:40:13-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-11T14:21:03-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Banco de la República vio su meta inflacionaria cumplida en apenas seis de los pasados dieciséis años",
+        "url": "https://www.portafolio.co/economia/finanzas/colombia-cumplio-el-rango-de-inflacion-del-banco-de-la-republica-en-solo-seis-de-los-ultimos-16-anos-504277",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Colombia cumplió el rango de inflación del Banco de la República en solo seis de los últimos 16 años",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Más de 48.000 auxiliados por la iniciativa de la primera dama, Ana Lucía Pineda, tras sismo en el país",
+        "url": "https://www.portafolio.co/economia/gobierno/campana-de-la-primera-dama-ana-lucia-pineda-reporta-mas-de-48-000-beneficiados-tras-terremoto-en-colombia-504275",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Campaña de la primera dama, Ana Lucía Pineda, reporta más de 48.000 beneficiados tras terremoto en Colombia",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Abierta postulación al ICBF mediante el Banco de Talentos por la administración de La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-abre-convocatoria-a-traves-del-banco-de-talentos-para-el-icbf-asi-puede-postular-504274",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Gobierno de La Espriella abre convocatoria a través del Banco de Talentos para el ICBF: Así puede postular",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Ochenta por ciento de los clientes caribeños redujeron o conservaron su gasto eléctrico",
+        "url": "https://www.portafolio.co/economia/regiones/ocho-de-cada-diez-usuarios-del-caribe-mantuvieron-o-bajaron-su-consumo-de-energia-504273",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Ocho de cada diez usuarios del Caribe mantuvieron o bajaron su consumo de energía",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Alza entre el 8 % y 10 % para el salario mínimo de 2027 tras registrarse inflación mayor al 6 % en septiembre",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-proponen-aumento-de-entre-8-y-10-tras-inflacion-superior-al-6-de-septiembre-504272",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Salario mínimo de 2027: proponen aumento de entre 8 % y 10 % tras inflación superior al 6% de septiembre",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en el país fluctuaría entre $3.150 y $3.260 del 13 al 16 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-caer-hasta-los-3-150-o-subir-a-3-260-asi-se-moveria-en-semana-del-13-al-16-de-octubre-504268",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Dólar en Colombia podría caer hasta los $3.150 o subir a $3.260: así se movería en semana del 13 al 16 de octubre",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Presidencia alerta demoras en estaciones del Metro de Bogotá y exige mayor personal en los trabajos",
+        "url": "https://www.portafolio.co/economia/infraestructura/presidencia-advierte-retrasos-en-las-estaciones-del-metro-de-bogota-y-pide-mas-personal-en-la-obra-504265",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Presidencia advierte retrasos en las estaciones del Metro de Bogotá y pide más personal en la obra",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Salario mínimo en Colombia: en qué fecha ocurrió la última ocasión que el incremento logró concertarse",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-en-colombia-cuando-fue-la-ultima-vez-que-el-aumento-del-monto-se-pudo-concertar-504264",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Salario mínimo en Colombia: ¿cuándo fue la última vez que el aumento del monto se pudo concertar?",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Humberto de la Calle sugiere establecer áreas de desarrollo agrario especial para fomentar el agro",
+        "url": "https://www.portafolio.co/economia/gobierno/humberto-de-la-calle-propone-crear-zonas-de-desarrollo-agrario-especial-para-impulsar-el-campo-504263",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Humberto de la Calle propone crear zonas de desarrollo agrario especial para impulsar el campo",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
       {
         "titulo": "Ministra de Trabajo rechaza sanción judicial y cuestiona tres días de arresto por un ajeno desacato",
         "url": "https://www.portafolio.co/economia/gobierno/tres-dias-de-arresto-por-un-desacato-que-no-originamos-ministra-de-trabajo-cuestiona-sancion-judicial-504262",
@@ -513,99 +603,39 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "Paola Holguín, ministra de las Culturas, no obtuvo título de maestría, según rectificación de la UPB",
         "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Cuatro instituciones de educación superior de Colombia ingresan al top 20 de América Latina",
-        "url": "https://www.portafolio.co/economia/crecimiento/colombia-incluye-cuatro-universidades-en-el-top-20-de-america-latina-504132",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Colombia incluye cuatro universidades en el 'top' 20 de América Latina",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "La Cámara dispone de 20 días para corregir objeciones de la Corte Constitucional a la reforma pensional",
-        "url": "https://www.portafolio.co/economia/a-la-camara-le-quedan-20-dias-para-subsanar-los-reparos-de-la-corte-constitucional-a-la-reforma-pensional-504135",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "A la Cámara le quedan 20 días para subsanar los reparos de la Corte Constitucional a la reforma pensional",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Conflicto millonario con la interventoría por presión del Distrito al consorcio del Metro de Bogotá",
-        "url": "https://www.portafolio.co/economia/gobierno/metro-de-bogota-presion-del-distrito-al-consorcio-constructor-desata-millonario-conflicto-con-la-interventoria-504130",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Metro de Bogotá: presión del Distrito al consorcio constructor desata millonario conflicto con la interventoría",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Bogotá endurece inspecciones en San Victorino luego de hallar móviles hurtados en locales",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-intensifica-controles-en-san-victorino-tras-detectar-celulares-robados-en-comercios-504129",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Bogotá intensifica controles en San Victorino tras detectar celulares robados en comercios",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "El costo de vida continuaría alto a fines de 2026 por sueldos, indexación, precios públicos y El Niño",
-        "url": "https://www.portafolio.co/economia/inflacion-seguiria-elevada-al-cierre-de-2026-por-salarios-indexacion-tarifas-reguladas-y-fenomeno-de-el-nino-504126",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Inflación seguiría elevada al cierre de 2026 por salarios, indexación, tarifas reguladas y fenómeno de El Niño",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Entradas de capital subieron 17,1%, mas el periodo cerró con déficit de 4 billones de pesos",
-        "url": "https://www.portafolio.co/economia/regiones/ingresos-de-capitales-crecieron-17-1-pero-el-semestre-dejo-saldo-negativo-de-4-billones-504123",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Ingresos de capitales crecieron 17,1%, pero el semestre dejó saldo negativo de $4 billones",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Renta Joven pagará hasta 600.000 pesos en octubre: conozca los plazos y requisitos del desembolso",
-        "url": "https://www.portafolio.co/economia/renta-joven-entregara-hasta-600-000-en-octubre-estas-son-las-fechas-y-condiciones-para-recibir-el-giro-504119",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Renta Joven entregará hasta $600.000 en octubre: estas son las fechas y condiciones para recibir el giro",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella evalúa retomar el día sin IVA y discute su impacto fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-analiza-revivir-dia-sin-iva-en-esta-ciudad-de-colombia-y-abre-debate-por-su-costo-fiscal-504113",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Gobierno De La Espriella analiza revivir día sin IVA y abre debate por su costo fiscal",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Qué le espera a la reforma pensional en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/que-viene-para-la-reforma-pensional-en-colombia-504108",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "¿Qué viene para la reforma pensional en Colombia?",
-        "capturado": "2026-10-08T12:29:52-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bavaria alcanza más del 90 por ciento de la industria de cervezas en Colombia y Central Cervecera compite",
+        "url": "https://www.portafolio.co/negocios/empresas/bavaria-supera-el-90-del-mercado-cervecero-colombiano-y-central-cervecera-busca-ganar-espacio-504278",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Bavaria supera el 90% del mercado cervecero colombiano y Central Cervecera busca ganar espacio",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "Tulio Recomienda visitará 10 urbes para fomentar nuevas maneras de comer carne porcina",
+        "url": "https://www.portafolio.co/negocios/comercio/tulio-recomienda-recorrera-10-ciudades-para-impulsar-nuevas-formas-de-consumir-carne-de-cerdo-504270",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
+      {
+        "titulo": "EMonkey le apunta a la época de navidad con dieciséis mil millones de pesos en créditos",
+        "url": "https://www.portafolio.co/negocios/comercio/emonkey-apuesta-por-la-temporada-navidena-con-16-000-millones-en-financiacion-504266",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-11",
+        "titulo_fuente": "EMonkey apuesta por la temporada navideña con $16.000 millones en financiación",
+        "capturado": "2026-10-11T14:21:03-05:00"
+      },
       {
         "titulo": "Las transacciones de los Gilinski en Venezuela: mayores ventas de Nutresa y una gran inversión petrolera",
         "url": "https://www.portafolio.co/negocios/empresas/los-negocios-de-los-gilinski-en-venezuela-mas-ventas-de-nutresa-y-una-millonaria-apuesta-petrolera-504251",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "Auteco Blue pide al Gobierno definir si los camiones eléctricos pagan cupo ambiental: habla de una zona gris",
         "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Massy Energy Colombia analiza recursos para gas natural",
-        "url": "https://www.portafolio.co/negocios/empresas/massy-energy-colombia-evalua-inversiones-en-gas-natural-504005",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Massy Energy Colombia evalúa inversiones en gas natural",
-        "capturado": "2026-10-06T23:29:38-05:00"
-      },
-      {
-        "titulo": "Colegios que encabezan el nivel superior del Ranking Col-Sapiens en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-colegios-que-lideran-la-categoria-mas-alta-del-ranking-col-sapiens-en-colombia-503995",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Estos son los colegios que lideran la categoría más alta del Ranking Col-Sapiens en Colombia",
-        "capturado": "2026-10-06T18:34:57-05:00"
-      },
-      {
-        "titulo": "Doria busca protagonismo de la pasta en las loncheras del país y apunta a subir 15% en 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/doria-proyecta-crecer-15-en-2027-y-le-hace-homenaje-a-la-popular-coca-para-animar-el-consumo-de-pasta-503976",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-06",
-        "titulo_fuente": "Doria quiere que la pasta sea protagonista en la 'coca' de los colombianos y proyecta crecer 15% en 2027",
-        "capturado": "2026-10-06T18:34:57-05:00"
       }
     ]
   }
