@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-10T17:13:50-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-10T20:08:02-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia pretende fomentar el agroturismo en predios cafeteros, floricultores y cacaoteros para variar entradas",
+        "url": "https://www.portafolio.co/economia/agro/colombia-busca-impulsar-el-agroturismo-en-fincas-de-cafe-flores-y-cacao-para-diversificar-ingresos-504255",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Colombia busca impulsar el agroturismo en fincas de café, flores y cacao para diversificar ingresos",
+        "capturado": "2026-10-10T20:08:02-05:00"
+      },
+      {
+        "titulo": "Casa de Nariño se suma al debate sobre el Metro bogotano y demanda rapidez al concesionario en las obras",
+        "url": "https://www.portafolio.co/economia/gobierno/presidencia-entra-en-la-discusion-del-metro-de-bogota-y-exige-al-consorcio-celeridad-en-la-construccion-504254",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-10",
+        "titulo_fuente": "Presidencia entra en la discusión del Metro de Bogotá y exige al consorcio celeridad en la construcción",
+        "capturado": "2026-10-10T20:08:02-05:00"
+      },
       {
         "titulo": "Estudio avisa que el IPC llegaría al 7,3% en la primera mitad de 2027 antes de descender",
         "url": "https://www.portafolio.co/economia/gobierno/inflacion-tocaria-un-techo-de-7-3-en-el-primer-semestre-de-2027-antes-de-comenzar-a-bajar-advierte-estudio-504253",
@@ -582,26 +602,6 @@
         "subseccion": "",
         "publicacion": "2026-10-08",
         "titulo_fuente": "Austeridad en 2027: Gobierno limita viajes de funcionarios y ordena reducir gastos de publicidad estatal",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Estatuto Antiterrorista: cómo operaría el registro de bandas criminales sugerido por el Gobierno De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/estatuto-antiterrorista-asi-funcionaria-la-lista-de-grupos-terroristas-que-propone-el-gobierno-de-la-espriella-504098",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Estatuto Antiterrorista: así funcionaría la lista de grupos terroristas que propone el Gobierno De La Espriella",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Carteras de Transporte y Defensa presentan plan para combatir la criminalidad en vías principales",
-        "url": "https://www.portafolio.co/economia/gobierno/ministerios-de-transporte-y-defensa-lanzan-hoja-de-ruta-para-enfrentar-inseguridad-en-corredores-estrategicos-504100",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Ministerios de Transporte y Defensa lanzan hoja de ruta para enfrentar inseguridad en corredores estratégicos",
         "capturado": "2026-10-08T12:29:52-05:00"
       }
     ],
