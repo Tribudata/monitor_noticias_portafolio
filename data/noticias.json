@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-12T05:16:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-12T14:56:17-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia solicita excluir reforma rural de la ONU y conservar supervisión a exFarc",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-pide-sacar-la-reforma-rural-del-mandato-de-la-onu-y-mantener-verificacion-a-ex-farc-504329",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Colombia pide sacar la reforma rural del mandato de la ONU y mantener verificación a ex-Farc",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Pobreza extrema global sube por primera vez desde 2010 con 1.200 millones afectados",
+        "url": "https://www.portafolio.co/economia/regiones/la-pobreza-aguda-mundial-aumento-por-primera-vez-desde-2010-1-200-millones-de-personas-afectadas-504327",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "La pobreza aguda mundial aumentó por primera vez desde 2010: 1.200 millones de personas afectadas",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Faltan más de 162.000 carros por entrar a Bogotá y estiman trancones de 5 a 8 p m",
+        "url": "https://www.portafolio.co/economia/regiones/mas-de-162-000-vehiculos-faltan-por-ingresar-a-bogota-preven-congestion-entre-las-5-y-las-8-p-m-504326",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Más de 162.000 vehículos faltan por ingresar a Bogotá: prevén congestión entre las 5 y las 8 p. m.",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "El Monedero: por qué el Banco de la República no logra regular el valor de la comida",
+        "url": "https://www.portafolio.co/economia/finanzas/el-monedero-por-que-el-banco-de-la-republica-no-puede-controlar-el-precio-de-los-alimentos-504325",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "El Monedero: ¿por qué el Banco de la República no puede controlar el precio de los alimentos?",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Meta encabezó los aportes hechos por el fondo fiduciario de Trump en agosto",
+        "url": "https://www.portafolio.co/economia/finanzas/meta-lidero-las-inversiones-realizadas-por-el-fideicomiso-de-trump-en-agosto-504316",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Meta lideró las inversiones realizadas por el fideicomiso de Trump en agosto",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Crece rechazo por comentarios de Matador contra Ana Lucía Pineda y se unen gremios",
+        "url": "https://www.portafolio.co/economia/gobierno/ola-de-rechazo-e-indignacion-crece-por-mensajes-de-matador-contra-ana-lucia-pineda-se-suman-gremios-y-mandatarios-504315",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Ola de rechazo e indignación crece por mensajes de Matador contra Ana Lucía Pineda: se suman gremios y mandatarios",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Feria de empleo ofrece vacantes para personas mayores de 50 años",
+        "url": "https://www.portafolio.co/economia/empleo/atencion-megaferia-de-empleo-les-abre-oportunidades-laborales-a-mayores-de-50-anos-504312",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Atención: Megaferia de empleo les abre oportunidades laborales a mayores de 50 años",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Bogotá legaliza cinco barrios ubicados en Suba, Kennedy y tres localidades más",
+        "url": "https://www.portafolio.co/economia/gobierno/bogota-formaliza-cinco-barrios-en-suba-kennedy-y-otras-tres-localidades-504310",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Bogotá formaliza cinco barrios en Suba, Kennedy y otras tres localidades",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Gobierno confirma fondo de 1 billón de pesos para recuperar zonas del sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-fondo-de-1-billon-para-reconstruir-zonas-afectadas-por-el-terremoto-504308",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Gobierno anuncia fondo de $1 billón para reconstruir zonas afectadas por el terremoto",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Fraudes financieros usan cédulas falsas y huellas de silicona para validación",
+        "url": "https://www.portafolio.co/economia/finanzas/cedulas-falsas-y-huellas-de-silicona-desafian-validacion-de-identidad-504307",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Cédulas falsas, huellas digitales de silicona y otras formas de validación fraudulentas en el sistema financiero",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Denuncian estafa tras cierre de concesionario Ferrari en Bogotá y autos estarían en Panamá",
+        "url": "https://www.portafolio.co/economia/regiones/cierre-de-concesionario-ferrari-en-bogota-termino-en-denuncias-por-estafa-vehiculos-estarian-en-panama-504305",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Cierre de concesionario Ferrari en Bogotá terminó en denuncias por estafa: vehículos estarían en Panamá",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Gobierno suprimió Áreas de Protección para la Producción de Alimentos en municipios de Cundinamarca",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-elimino-las-areas-de-proteccion-para-la-produccion-de-alimentos-creadas-en-municipios-de-cundinamarca-504302",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Gobierno eliminó las Áreas de Protección para la Producción de Alimentos creadas en municipios de Cundinamarca",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Horarios, números y las nueve vías de acceso para el pico y placa regional en Bogotá en este puente festivo",
+        "url": "https://www.portafolio.co/economia/regiones/pico-y-placa-regional-en-bogota-este-festivo-horarios-placas-y-los-nueve-corredores-de-ingreso-504301",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Pico y placa regional en Bogotá este festivo: horarios, placas y los nueve corredores de ingreso",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "El país gestiona respaldo de la FAO en territorio italiano para promover cuatro iniciativas agrícolas esenciales",
+        "url": "https://www.portafolio.co/economia/agro/colombia-busca-apoyo-de-la-fao-en-italia-para-impulsar-cuatro-proyectos-clave-del-agro-nacional-504300",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Colombia busca apoyo de la FAO en Italia para impulsar cuatro proyectos clave del agro nacional",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo adelantará anuncio de Talento ColombIA, la estrategia dirigida a jóvenes sin estudio ni empleo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anticipa-anuncio-sobre-talento-colombia-el-plan-para-los-jovenes-que-no-estudian-ni-trabajan-504298",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Gobierno anticipa anuncio sobre Talento ColombIA: el plan para los jóvenes que no estudian ni trabajan",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo desaprueba los comentarios de Matador hacia la primera dama, Ana Lucia Pineda, tildándolos de misóginos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-rechaza-expresiones-de-matador-contra-la-primera-dama-ana-lucia-pineda-y-las-califica-de-misogina-504297",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Gobierno rechaza expresiones de 'Matador' contra la primera dama, Ana Lucia Pineda, y las califica de misógina",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
       {
         "titulo": "En qué consiste la Milagro Week, la iniciativa del vicepresidente para impulsar la economía al 6%",
         "url": "https://www.portafolio.co/economia/gobierno/que-es-la-milagro-week-la-primera-apuesta-con-la-que-el-vicepresidente-busca-llevar-el-crecimiento-al-504288",
@@ -443,169 +603,59 @@
         "publicacion": "2026-10-09",
         "titulo_fuente": "Adres reduce de 12 a cinco requisitos para indemnizaciones por víctimas del terremoto en Colombia",
         "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Primer empleo en el país: el 53,5% de los jóvenes no halla trabajo por carecer de experiencia",
-        "url": "https://www.portafolio.co/economia/empleo/primer-empleo-en-colombia-el-53-5-de-los-jovenes-no-consigue-trabajo-por-falta-de-experiencia-504193",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Primer empleo en Colombia: el 53,5% de los jóvenes no consigue trabajo por falta de experiencia",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Gobierno prepara decreto portuario: lo que expresó la ministra Elsa Noguera sobre la nueva normativa",
-        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-alista-decreto-para-modernizar-los-puertos-esto-dijo-la-ministra-elsa-noguera-sobre-las-nuevas-reglas-504188",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Gobierno alista decreto para modernizar los puertos: esto dijo la ministra Elsa Noguera sobre las nuevas reglas",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Economía nacional perdería fuerza: analistas calculan un avance de 2,1% en el tercer trimestre",
-        "url": "https://www.portafolio.co/economia/gobierno/economia-colombiana-perderia-impulso-expertos-estiman-crecimiento-de-2-1-en-tercer-trimestre-504187",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Economía colombiana perdería impulso: expertos estiman crecimiento de 2,1% en tercer trimestre",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Asi concluyo la megaobra del Metro de Bogota envuelta en un litigio que pasa de 25000 millones",
-        "url": "https://www.portafolio.co/economia/regiones/asi-termino-el-megaproyecto-del-metro-de-bogota-enredado-en-un-pleito-que-supera-los-25-000-millones-504186",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Así terminó el megaproyecto del Metro de Bogotá enredado en un pleito que supera los $25.000 millones",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "El endeudamiento externo colombiano a julio descendio al 50,1 por ciento del producto interno bruto",
-        "url": "https://www.portafolio.co/economia/gobierno/la-deuda-externa-de-colombia-a-julio-bajo-hasta-el-50-1-del-producto-interno-bruto-504185",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "La deuda externa de Colombia a julio bajó hasta el 50,1% del producto interno bruto",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Inmuebles de la SAE vendidos por más de $16.000 millones apoyan el fortalecimiento del fondo FRISCO",
-        "url": "https://www.portafolio.co/economia/venta-de-inmuebles-de-la-sae-supero-los-16-000-millones-y-contribuye-al-fortalecimiento-del-fondo-frisco-504175",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Venta de inmuebles de la SAE superó los $16.000 millones y contribuye al fortalecimiento del fondo FRISCO",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Declaran El Niño en Colombia: empresas hídricas y energéticas activarán planes de contingencia",
-        "url": "https://www.portafolio.co/economia/gobierno/el-nino-fue-declarado-en-colombia-empresas-de-agua-y-energia-deberan-activar-planes-de-contingencia-504174",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "El Niño fue declarado en Colombia: empresas de agua y energía deberán activar planes de contingencia",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Día sin IVA frente a menos ICA: distancia entre ahorrar $159.664 y $1.800 por cada millón de pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/dia-sin-iva-o-menos-ica-la-diferencia-entre-ahorrar-159-664-y-1-800-por-cada-millon-de-pesos-504172",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Día sin IVA o menos ICA: la diferencia entre ahorrar $159.664 y $1.800 por cada millón de pesos",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Anegan la carrera Séptima: estado del tubo del acueducto y retorno del agua según las autoridades",
-        "url": "https://www.portafolio.co/economia/infraestructura/inundacion-en-la-carrera-septima-que-paso-con-la-tuberia-del-acueducto-y-cuando-volvera-el-agua-segun-autoridades-504165",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Inundación en la carrera Séptima: qué pasó con la tubería del acueducto y cuándo volverá el agua, según autoridades",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Cosecha de café colombiana bajó 15% en la temporada cafetera y terminó en 12,65 millones de sacos",
-        "url": "https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Producción de café en Colombia cayó 15% en el año cafetero y cerró en 12,65 millones de sacos",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "ANI vigila concesiones portuarias por fallas y obligaciones pendientes en diferentes zonas del país",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-pone-bajo-lupa-concesiones-portuarias-por-incumplimientos-y-deudas-en-varias-regiones-del-pais-504161",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "ANI pone bajo lupa concesiones portuarias por incumplimientos y deudas en varias regiones del país",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia hoy 9 de octubre inicia en descenso en semana de mayor inflación",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-se-desploma-mas-de-20-asi-inicia-la-cotizacion-oficial-este-9-de-octubre-504160",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Dólar hoy en Colombia: divisa abre a la baja este 9 de octubre en una semana marcada por el aumento de la inflación",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "El senador Enrique Gómez solicita indagar sobre las ventas de polietileno de Ecopetrol a Química Comercial Andina",
-        "url": "https://www.portafolio.co/economia/gobierno/senador-enrique-gomez-pide-investigar-ventas-de-polietileno-de-ecopetrol-a-quimica-comercial-andina-504159",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Senador Enrique Gómez pide investigar ventas de polietileno de Ecopetrol a Química Comercial Andina",
-        "capturado": "2026-10-09T04:26:54-05:00"
-      },
-      {
-        "titulo": "Efectos del día sin IVA en el recaudo según su última jornada y análisis del Gobierno sobre su regreso",
-        "url": "https://www.portafolio.co/economia/impuestos/como-impacta-el-dia-sin-iva-al-recaudo-esto-revelo-su-ultima-aplicacion-mientras-el-gobierno-evalua-retomarlo-504155",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "¿Cómo impacta el día sin IVA al recaudo? Esto reveló su última aplicación, mientras el Gobierno evalúa retomarlo",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "El Ideam oficializa la llegada del fenómeno de El Niño al país con fuerza alta o muy alta",
-        "url": "https://www.portafolio.co/economia/gobierno/ideam-confirma-oficialmente-presencia-del-fenomeno-de-el-nino-en-colombia-con-intensidad-entre-fuerte-y-muy-fuerte-504147",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Ideam confirma oficialmente presencia del fenómeno de El Niño en Colombia, con intensidad entre fuerte y muy fuerte",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Cundinamarca alista plan para 3,8 millones de automotores con reversibles y vigilancia",
-        "url": "https://www.portafolio.co/economia/regiones/cundinamarca-prepara-operativo-por-3-8-millones-de-vehiculos-asi-seran-reversibles-y-controles-504145",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Cundinamarca prepara operativo por 3,8 millones de vehículos: así serán reversibles y controles",
-        "capturado": "2026-10-08T21:24:31-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Cuba da mayor cabida al capital petrolero para afrontar su crisis de energía",
+        "url": "https://www.portafolio.co/negocios/inversion/cuba-abre-mas-espacio-a-la-inversion-petrolera-para-enfrentar-su-crisis-energetica-504319",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Cuba abre más espacio a la inversión petrolera para enfrentar su crisis energética",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "El peso oculto tras cerca de 39 millones de historias clínicas en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/la-carga-invisible-detras-de-casi-39-millones-de-registros-medicos-en-colombia-504314",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "La carga invisible detrás de casi 39 millones de registros médicos en Colombia",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Más de 183.000 viajeros volarían este lunes festivo en territorio nacional",
+        "url": "https://www.portafolio.co/negocios/empresas/mas-de-183-000-pasajeros-se-movilizarian-por-via-aerea-este-lunes-festivo-en-colombia-504303",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Más de 183.000 pasajeros se movilizarían por vía aérea este lunes festivo en Colombia",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "Capitales ven con interés a Venezuela a pesar de restricciones Ofac en busca de negocios",
+        "url": "https://www.portafolio.co/negocios/empresas/inversion-en-venezuela-despierta-interes-empresarial-pese-a-sanciones-ofac-se-buscan-oportunidades-de-negocio-504222",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Inversión en Venezuela despierta interés empresarial pese a sanciones Ofac: se buscan oportunidades de negocio",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
+      {
+        "titulo": "D1 entrega nueva ayuda a afectados por sismo mediante plan de asistencia constante",
+        "url": "https://www.portafolio.co/negocios/empresas/d1-hace-un-aporte-adicional-para-victimas-del-terremoto-dentro-de-una-estrategia-de-apoyo-permanente-504293",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "D1 hace un aporte adicional para víctimas del terremoto, dentro de una estrategia de apoyo permanente",
+        "capturado": "2026-10-12T14:56:17-05:00"
+      },
       {
         "titulo": "Ocho proyectos comunitarios en La Guajira reciben 3.468 millones de pesos de la Agencia Nacional de Tierras",
         "url": "https://www.portafolio.co/negocios/empresas/ant-destina-3-468-millones-a-ocho-iniciativas-comunitarias-en-la-guajira-504286",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-07",
         "titulo_fuente": "Gremios piden frenar cobro de $4.235 por tonelada en Buenaventura por su impacto logístico",
         "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Ubicación de los nuevos establecimientos D1 Premium en distintas ciudades nacionales",
-        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-puntos-en-donde-estan-ubicados-los-nuevos-d1-premium-en-varias-ciudades-del-pais-504044",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Estos son los puntos en donde están ubicados los nuevos 'D1 Premium' en varias ciudades del país",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Iniciativa Bravo Zulu de Araújo Ibarra y Black Horse busca impulsar la inversión y el crecimiento corporativo",
-        "url": "https://www.portafolio.co/negocios/empresas/bravo-zulu-la-apuesta-de-araujo-ibarra-y-black-horse-para-atraer-inversion-y-fortalecer-la-expansion-empresarial-504030",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Bravo Zulu: la apuesta de Araújo Ibarra y Black Horse para atraer inversión y fortalecer la expansión empresarial",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Desafío de Bre-B en pagos rápidos para prevenir estafas ante el alza del 40% en e-commerce",
-        "url": "https://www.portafolio.co/negocios/comercio/pagos-instantaneos-el-reto-de-bre-b-para-evitar-fraudes-cuando-el-comercio-electronico-sube-504038",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Pagos instantáneos: el reto de Bre-B para evitar fraudes cuando el comercio electrónico sube 40%",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Vuelo de Satena entre Montería y Panamá informado por De La Espriella alcanzó 300 reservas en dos días",
-        "url": "https://www.portafolio.co/negocios/empresas/ruta-monteria-panama-de-satena-logra-300-reservas-en-48-horas-y-mantiene-tarifa-de-us-504031",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Ruta de Satena entre Montería y Panamá, anunciada por De La Espriella, superó las 300 reservas en 48 horas",
-        "capturado": "2026-10-07T12:55:16-05:00"
-      },
-      {
-        "titulo": "Davivienda obtiene permiso esencial para sumar a Davibank y progresa en la estructura de su holding",
-        "url": "https://www.portafolio.co/negocios/empresas/superfinanciera-autoriza-integracion-de-davibank-con-davivienda-y-avanza-reorganizacion-del-grupo-504027",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Davivienda recibe aval clave para integrar a Davibank y avanza en la reorganización de su grupo financiero",
-        "capturado": "2026-10-07T12:55:16-05:00"
       }
     ]
   }
