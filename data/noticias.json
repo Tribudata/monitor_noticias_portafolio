@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-13T03:58:44-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-13T11:52:42-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,46 @@
     ],
     "Negocios": [
       {
+        "titulo": "Netflix adquiere los derechos del Mundial 2030 en España y llega al fútbol",
+        "url": "https://www.portafolio.co/negocios/empresas/netflix-entra-al-negocio-del-futbol-y-se-queda-con-los-derechos-del-mundial-2030-en-espana-504368",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Netflix entra al negocio del fútbol y se queda con los derechos del Mundial 2030 en España",
+        "capturado": "2026-10-13T11:52:42-05:00"
+      },
+      {
+        "titulo": "Smart Fit alcanza medio millón de usuarios en 63 urbes al cumplir una década en el país",
+        "url": "https://www.portafolio.co/negocios/comercio/smart-fit-cumple-10-anos-en-colombia-y-supera-el-medio-millon-de-afiliados-en-63-ciudades-504366",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Smart Fit cumple 10 años en Colombia y supera el medio millón de afiliados en 63 ciudades",
+        "capturado": "2026-10-13T11:52:42-05:00"
+      },
+      {
+        "titulo": "Madecentro alcanza 250 almacenes nacionales y prevé ventas por encima del billón de pesos este año",
+        "url": "https://www.portafolio.co/negocios/comercio/madecentro-llega-a-250-tiendas-en-colombia-y-espera-superar-este-ano-el-billon-de-pesos-en-ventas-504357",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Madecentro llega a 250 tiendas en Colombia y espera superar este año el billón de pesos en ventas",
+        "capturado": "2026-10-13T11:52:42-05:00"
+      },
+      {
+        "titulo": "La Dian confirma que la entidad de la primera dama Ana Lucía Pineda sí figura en el Régimen Tributario Especial",
+        "url": "https://www.portafolio.co/negocios/empresas/fundacion-de-la-primera-dama-ana-lucia-pineda-si-esta-registrada-en-el-regimen-tributario-especial-dice-la-dian-504361",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Fundación de la primera dama, Ana Lucía Pineda, sí está registrada en el Régimen Tributario Especial, dice la Dian",
+        "capturado": "2026-10-13T11:52:42-05:00"
+      },
+      {
         "titulo": "Alerta: Trump insinúa que eliminaría gravámenes a bienes de Colombia",
         "url": "https://www.portafolio.co/negocios/comercio/atencion-trump-sugiere-que-podria-desmontar-aranceles-a-productos-colombianos-504341",
         "resumen": "",
@@ -1164,46 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-07",
         "titulo_fuente": "Aproveche al máximo la información para entender mejor su negocio: estas son las claves",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "A cuatro años del acuerdo Latam-Delta, sube 31% su oferta y hay 9 rutas más entre Sudamérica y Norteamérica",
-        "url": "https://www.portafolio.co/negocios/empresas/a-cuatro-anos-de-la-alianza-latam-delta-crece-31-su-capacidad-y-suman-9-rutas-mas-entre-sudamerica-y-norteamerica-504067",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "A cuatro años de la alianza Latam-Delta, crece 31% su capacidad y suman 9 rutas más entre Sudamérica y Norteamérica",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "La firma Everlast expone su plan para captar cuota en el mercado colombiano",
-        "url": "https://www.portafolio.co/negocios/empresas/la-marca-everlast-revela-su-estrategia-para-ganar-terreno-en-el-mercado-colombiano-504066",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "La marca Everlast revela su estrategia para ganar terreno en el mercado colombiano",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "Sectores de energía y consumo lideran las compras y fusiones corporativas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/energia-y-consumo-impulsan-el-mercado-de-fusiones-y-adquisiciones-en-colombia-504060",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Energía y consumo impulsan el mercado de fusiones y adquisiciones en Colombia",
-        "capturado": "2026-10-07T17:46:46-05:00"
-      },
-      {
-        "titulo": "SpaceX pretende US$40.000 millones para adquirir chips de Nvidia y crecer su infraestructura de IA",
-        "url": "https://www.portafolio.co/negocios/empresas/spacex-busca-us-40-000-millones-para-comprar-chips-de-nvidia-y-ampliar-su-infraestructura-de-ia-504062",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "SpaceX busca US$40.000 millones para comprar chips de Nvidia y ampliar su infraestructura de IA",
         "capturado": "2026-10-07T17:46:46-05:00"
       }
     ]
