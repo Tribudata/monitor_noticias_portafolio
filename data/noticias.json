@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-12T20:52:28-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-13T03:58:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Mandatario De La Espriella solicita traslado de presupuesto contra El Niño y menor riesgo de racionamiento",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-pide-traslado-presupuestal-para-enfrentar-el-nino-y-reducir-riesgo-de-racionamiento-504346",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Presidente De La Espriella pide traslado presupuestal para enfrentar El Niño y reducir riesgo de racionamiento",
+        "capturado": "2026-10-13T03:58:44-05:00"
+      },
       {
         "titulo": "Firma De La Espriella Lawyers entablará demanda contra caricaturista Matador por opiniones sobre Ana Lucía Pineda",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-lawyers-anuncia-acciones-legales-contra-matador-por-comentarios-sobre-ana-lucia-pineda-504345",
@@ -593,16 +603,6 @@
         "publicacion": "2026-10-09",
         "titulo_fuente": "Colombia necesitaría entre US$50.000 y US$72.000 millones de financiamiento en 2027: JP Morgan",
         "capturado": "2026-10-10T02:32:21-05:00"
-      },
-      {
-        "titulo": "Gobierno reveló en Cartagena el decreto de actualización portuaria con los puntos clave del texto",
-        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-presento-en-cartagena-el-decreto-para-modernizar-los-puertos-estos-son-los-detalles-del-documento-504212",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Gobierno presentó en Cartagena el decreto para modernizar los puertos: estos son los detalles del documento",
-        "capturado": "2026-10-09T20:06:03-05:00"
       }
     ],
     "Negocios": [
