@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-14T06:15:59-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-14T10:54:07-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Verónica Alcocer pide a la Fiscalía información sobre presunta nueva investigación por declaraciones de Eva Ferrer",
+        "url": "https://www.portafolio.co/economia/gobierno/veronica-alcocer-solicita-a-la-fiscalia-detalles-de-posible-nueva-indagacion-por-dichos-de-eva-ferrer-504443",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Verónica Alcocer solicita a la Fiscalía detalles de posible nueva indagación por dichos de Eva Ferrer",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Departamento del Tesoro de Estados Unidos se manifiesta tras recientes acusaciones de Eva Ferrer contra Verónica Alcocer",
+        "url": "https://www.portafolio.co/economia/gobierno/departamento-del-tesoro-de-ee-uu-se-pronuncia-tras-nuevas-denuncias-de-eva-ferrer-a-veronica-alcocer-504441",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Departamento del Tesoro de EE. UU. se pronuncia tras nuevas denuncias de Eva Ferrer a Verónica Alcocer",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Desempleo en Colombia alcanzaría el 10 % en 2027, a pesar de ligera recuperación económica, de acuerdo con FMI",
+        "url": "https://www.portafolio.co/economia/gobierno/desempleo-en-colombia-llegaria-al-10-en-2027-pese-a-leve-recuperacion-economica-segun-fmi-504440",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Desempleo en Colombia llegaría al 10 % en 2027, pese a leve recuperación económica, según FMI",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Con múltiples modificaciones arribó el proyecto de Presupuesto para 2027 al segundo debate en el Congreso",
+        "url": "https://www.portafolio.co/economia/crecimiento/con-varios-cambios-llego-el-proyecto-de-presupuesto-para-2027-al-segundo-debate-en-el-legislativo-504431",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Con varios cambios llegó el proyecto de Presupuesto para 2027 al segundo debate en el Legislativo",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Educación acumula $13,1 billones en vigencias futuras sin respaldo fiscal, muestra informe de transición",
+        "url": "https://www.portafolio.co/economia/gobierno/educacion-arrastra-13-1-billones-en-vigencias-futuras-sin-respaldo-fiscal-revela-el-diagnostico-de-empalme-504425",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Educación arrastra $13,1 billones en vigencias futuras sin respaldo fiscal, revela el diagnóstico de empalme",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Valor del euro hoy en Colombia: así se negocia la moneda europea este miércoles 14 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-europea-este-miercoles-14-de-octubre-504429",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Precio del euro hoy en Colombia: así cotiza la divisa europea este miércoles 14 de octubre",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Transportadores de carga evitan tarifa de circulación en Buenaventura tras encuentro con Mintransporte",
+        "url": "https://www.portafolio.co/economia/gobierno/transportadores-de-carga-se-libran-del-cobro-por-circulacion-en-buenaventura-tras-reunion-con-mintransporte-504423",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Transportadores de carga se libran del cobro por circulación en Buenaventura tras reunión con Mintransporte",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Colombia inaugura Embajada en Jerusalén y pretende afianzar lazos diplomáticos con Israel",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-abre-su-embajada-en-jerusalen-y-busca-fortalecer-relaciones-diplomaticas-con-israel-504424",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Colombia abre su Embajada en Jerusalén y busca fortalecer relaciones diplomáticas con Israel",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar hoy en Colombia: moneda abrió al alza este 14 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-miercoles-14-de-octubre-504422",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: divisa inició al alza este 14 de octubre",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Precaución: Así marcha el tráfico en Bogotá hoy por protestas y marchas; estos son los sitios críticos",
+        "url": "https://www.portafolio.co/economia/regiones/tenga-cuidado-asi-esta-la-movilidad-en-bogota-hoy-por-marchas-y-manifestaciones-estos-son-los-puntos-clave-504420",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "¡Tenga cuidado! Así está la movilidad en Bogotá hoy por marchas y manifestaciones: estos son los puntos clave",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
       {
         "titulo": "Protestas el 14 de octubre en Bogotá: sitios de encuentro, horas y alistamiento de la Nación y el Distrito",
         "url": "https://www.portafolio.co/economia/gobierno/marchas-este-14-de-octubre-en-bogota-puntos-de-reunion-horarios-y-preparativos-del-gobierno-nacional-y-distrital-504419",
@@ -503,109 +603,99 @@
         "publicacion": "2026-10-11",
         "titulo_fuente": "Colombia cumplió el rango de inflación del Banco de la República en solo seis de los últimos 16 años",
         "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Más de 48.000 auxiliados por la iniciativa de la primera dama, Ana Lucía Pineda, tras sismo en el país",
-        "url": "https://www.portafolio.co/economia/gobierno/campana-de-la-primera-dama-ana-lucia-pineda-reporta-mas-de-48-000-beneficiados-tras-terremoto-en-colombia-504275",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Campaña de la primera dama, Ana Lucía Pineda, reporta más de 48.000 beneficiados tras terremoto en Colombia",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Abierta postulación al ICBF mediante el Banco de Talentos por la administración de La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-abre-convocatoria-a-traves-del-banco-de-talentos-para-el-icbf-asi-puede-postular-504274",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Gobierno de La Espriella abre convocatoria a través del Banco de Talentos para el ICBF: Así puede postular",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Ochenta por ciento de los clientes caribeños redujeron o conservaron su gasto eléctrico",
-        "url": "https://www.portafolio.co/economia/regiones/ocho-de-cada-diez-usuarios-del-caribe-mantuvieron-o-bajaron-su-consumo-de-energia-504273",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Ocho de cada diez usuarios del Caribe mantuvieron o bajaron su consumo de energía",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Alza entre el 8 % y 10 % para el salario mínimo de 2027 tras registrarse inflación mayor al 6 % en septiembre",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-proponen-aumento-de-entre-8-y-10-tras-inflacion-superior-al-6-de-septiembre-504272",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Salario mínimo de 2027: proponen aumento de entre 8 % y 10 % tras inflación superior al 6% de septiembre",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en el país fluctuaría entre $3.150 y $3.260 del 13 al 16 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-caer-hasta-los-3-150-o-subir-a-3-260-asi-se-moveria-en-semana-del-13-al-16-de-octubre-504268",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Dólar en Colombia podría caer hasta los $3.150 o subir a $3.260: así se movería en semana del 13 al 16 de octubre",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Presidencia alerta demoras en estaciones del Metro de Bogotá y exige mayor personal en los trabajos",
-        "url": "https://www.portafolio.co/economia/infraestructura/presidencia-advierte-retrasos-en-las-estaciones-del-metro-de-bogota-y-pide-mas-personal-en-la-obra-504265",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Presidencia advierte retrasos en las estaciones del Metro de Bogotá y pide más personal en la obra",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Salario mínimo en Colombia: en qué fecha ocurrió la última ocasión que el incremento logró concertarse",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-en-colombia-cuando-fue-la-ultima-vez-que-el-aumento-del-monto-se-pudo-concertar-504264",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Salario mínimo en Colombia: ¿cuándo fue la última vez que el aumento del monto se pudo concertar?",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Humberto de la Calle sugiere establecer áreas de desarrollo agrario especial para fomentar el agro",
-        "url": "https://www.portafolio.co/economia/gobierno/humberto-de-la-calle-propone-crear-zonas-de-desarrollo-agrario-especial-para-impulsar-el-campo-504263",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Humberto de la Calle propone crear zonas de desarrollo agrario especial para impulsar el campo",
-        "capturado": "2026-10-11T14:21:03-05:00"
-      },
-      {
-        "titulo": "Ministra de Trabajo rechaza sanción judicial y cuestiona tres días de arresto por un ajeno desacato",
-        "url": "https://www.portafolio.co/economia/gobierno/tres-dias-de-arresto-por-un-desacato-que-no-originamos-ministra-de-trabajo-cuestiona-sancion-judicial-504262",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "'¡Tres días de arresto por un desacato que no originamos!': ministra de Trabajo cuestiona sanción judicial",
-        "capturado": "2026-10-11T09:40:13-05:00"
-      },
-      {
-        "titulo": "Abogado De La Espriella pide indagar en la Fuerza Aérea las acusaciones de Eva Ferrer sobre Verónica Alcocer",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ordena-investigar-en-la-fuerza-aerea-denuncias-de-eva-ferrer-sobre-veronica-alcocer-504259",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "De La Espriella ordena investigar en la Fuerza Aérea denuncias de Eva Ferrer sobre Verónica Alcocer",
-        "capturado": "2026-10-11T09:40:13-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Bancolombia conserva primera posición en imagen empresarial; Ramo y Ecopetrol bajan",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-ramo-y-ecopetrol-registran-retrocesos-504444",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Bancolombia mantiene liderazgo en reputación corporativa; Ramo y Ecopetrol registran retrocesos",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Parque Arauco destinó $120.000 millones, 50% fondos propios y 50% pasivos, para edificio en Antioquia",
+        "url": "https://www.portafolio.co/negocios/parque-arauco-invirtio-120-000-millones-mitad-capital-y-mitad-deuda-en-su-primer-multifamily-de-antioquia-504437",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Parque Arauco invirtió $120.000 millones, mitad capital y mitad deuda, en su primer multifamily de Antioquia",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Superintendencia de Industria y Comercio evalúa transacción entre McCormick y Unilever por Fruco y Hellmann's",
+        "url": "https://www.portafolio.co/negocios/empresas/sic-revisa-negocio-entre-mccormick-y-unilever-que-involucra-marcas-como-fruco-y-hellmann-s-504438",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "SIC revisa negocio entre McCormick y Unilever que involucra marcas como Fruco y Hellmann's",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Sube optimismo para adquirir casa y aparatos a la vez que crece seguridad familiar, señala Fedesarrollo",
+        "url": "https://www.portafolio.co/negocios/comercio/mejora-animo-para-comprar-vivienda-y-electrodomesticos-mientras-repunta-confianza-de-hogares-dice-fedesarrollo-504434",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Mejora ánimo para comprar vivienda y electrodomésticos mientras repunta confianza de hogares, dice Fedesarrollo",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Cumbre Protección 2026: Inteligencia artificial, rendimiento, capital y elecciones venideras",
+        "url": "https://www.portafolio.co/negocios/empresas/summit-proteccion-2026-ia-productividad-riqueza-y-decisiones-de-futuro-504436",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Summit Protección 2026: IA, productividad, riqueza y decisiones de futuro |",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Matriz de Bancolombia planea adquirir Comercial Card, tecnológica financiera con 28.844 negocios aliados",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-cibest-busca-comprar-comercial-card-fintech-con-una-red-de-28-844-comercios-en-colombia-504435",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Casa matriz de Bancolombia busca comprar Comercial Card, fintech con una red de 28.844 comercios en Colombia",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Apostador en Cali se lleva 200 millones de pesos con los cinco números ganadores de MiLoto",
+        "url": "https://www.portafolio.co/negocios/empresas/cayo-miloto-en-cali-apostador-gano-200-millones-y-estos-fueron-los-cinco-numeros-ganadores-504432",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Cayó MiLoto en Cali: apostador ganó $200 millones y estos fueron los cinco números ganadores",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Señales de acoso laboral en empresas y causas de la falta de denuncias en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/acoso-laboral-en-las-empresas-cuales-son-las-senales-y-por-que-no-se-denuncia-en-colombia-504428",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Acoso laboral en las empresas: cuáles son las señales y por qué no se denuncia en Colombia",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
+      {
+        "titulo": "Nuevo presidente en Holcim Colombia en medio de la compra de activos de Cemex por 485 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/holcim-estrena-presidente-en-colombia-mientras-avanza-su-acuerdo-de-us-485-millones-para-comprar-activos-de-cemex-504426",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Holcim estrena presidente en Colombia mientras avanza su acuerdo de US$ 485 millones para comprar activos de Cemex",
+        "capturado": "2026-10-14T10:54:07-05:00"
+      },
       {
         "titulo": "El aviso de Davivienda para reservar espacio en el escenario bogotano genera dudas sobre un cambio de marca",
         "url": "https://www.portafolio.co/negocios/empresas/el-mensaje-que-sorprendio-a-clientes-de-davivienda-para-asegurar-un-cupo-en-el-arena-de-bogota-hay-nuevo-nombre-504408",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "¿Viene una transformación en su empresa?: así podría evitar gastos innecesarios en materia de talento humano",
         "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Ternium conmemora dos décadas en Wall Street: millonaria inversión en México y expansión en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/ternium-celebra-20-anos-en-wall-street-su-millonaria-inversion-en-mexico-y-el-crecimiento-en-colombia-504139",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Ternium celebra 20 años en Wall Street: su millonaria inversión en México y el crecimiento en Colombia",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Bancolombia sella acuerdo colectivo que cobijará a unos 11.000 trabajadores durante cuatro años",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-firma-convencion-colectiva-que-beneficiara-a-cerca-de-11-000-empleados-por-cuatro-anos-504137",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Bancolombia firma convención colectiva que beneficiará a cerca de 11.000 empleados por cuatro años",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Nueva tarifa en Buenaventura presiona el comercio exterior por cerca de US$27.000 millones",
-        "url": "https://www.portafolio.co/negocios/comercio/nueva-tarifa-en-buenaventura-pone-presion-sobre-comercio-exterior-por-cerca-de-us-27-000-millones-504133",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Nueva tarifa en Buenaventura pone presión sobre comercio exterior por cerca de US$27.000 millones",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Los viajes de Cabify Mascotas aumentan en Bogotá: los trayectos subieron 2,5 veces el último año",
-        "url": "https://www.portafolio.co/negocios/empresas/los-viajes-de-cabify-mascotas-se-disparan-en-bogota-los-trayectos-crecieron-2-5-veces-en-el-ultimo-ano-ano-504128",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Los viajes de Cabify Mascotas se disparan en Bogotá: los trayectos crecieron 2,5 veces en el último año año",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Tras alianza con Georgina Rodríguez, esposa de Cristiano Ronaldo, Milagros prevé crecer 33% en ventas",
-        "url": "https://www.portafolio.co/negocios/empresas/tras-alianza-con-georgina-rodriguez-esposa-de-cristiano-ronaldo-milagros-proyecta-crecer-33-en-ventas-este-ano-504131",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Tras alianza con Georgina Rodríguez, esposa de Cristiano Ronaldo, Milagros proyecta crecer 33% en ventas este año",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "¿Otro caso Frisby? Humo Barriles acusa disputa de marca en EE. UU. y calcula negocio frenado por US$3 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/otro-caso-frisby-humo-barriles-denuncia-disputa-de-marca-en-ee-uu-y-calcula-negocio-frenado-por-us-3-millones-504127",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "¿Otro caso Frisby? Humo Barriles denuncia disputa de marca en EE. UU. y calcula negocio frenado por US$3 millones",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Samsung anticipa un incremento superior al 780% en su ganancia operativa por la demanda de chips de IA",
-        "url": "https://www.portafolio.co/negocios/empresas/samsung-preve-un-salto-de-mas-del-780-en-su-utilidad-operativa-gracias-al-auge-de-los-chips-de-ia-504124",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Samsung prevé un salto de más del 780% en su utilidad operativa gracias al auge de los chips de IA",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Hermanos colombianos en YC crean cuentas en dólares en Estados Unidos para firmas de América Latina",
-        "url": "https://www.portafolio.co/negocios/empresas/estos-hermanos-colombianos-admitidos-en-yc-les-abren-cuentas-en-dolares-en-ee-uu-a-empresas-latinas-504122",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Estos hermanos colombianos, admitidos en YC, les abren cuentas en dólares en EE.UU. a empresas latinas",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Tesla lidera los vehículos eléctricos en Colombia con el 41,3% de las matrículas de septiembre",
-        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-domina-los-electricos-mas-vendidos-en-colombia-concentro-41-3-de-las-matriculas-durante-septiembre-504120",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Tesla domina los eléctricos más vendidos en Colombia: concentró 41,3 % de las matrículas durante septiembre",
-        "capturado": "2026-10-08T17:22:29-05:00"
       }
     ]
   }
