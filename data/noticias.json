@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-13T19:53:05-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-14T00:50:42-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Protestas el 14 de octubre en Bogotá: sitios de encuentro, horas y alistamiento de la Nación y el Distrito",
+        "url": "https://www.portafolio.co/economia/gobierno/marchas-este-14-de-octubre-en-bogota-puntos-de-reunion-horarios-y-preparativos-del-gobierno-nacional-y-distrital-504419",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Marchas este 14 de octubre en Bogotá: puntos de reunión, horarios y preparativos del Gobierno nacional y distrital",
+        "capturado": "2026-10-14T00:50:42-05:00"
+      },
+      {
+        "titulo": "Minvivienda intensifica la vigilancia a obras hídricas en La Guajira: cómo vigilará los proyectos",
+        "url": "https://www.portafolio.co/economia/regiones/minvivienda-refuerza-el-control-a-los-proyectos-de-agua-en-la-guajira-asi-hara-seguimiento-a-las-obras-504412",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Minvivienda refuerza el control a los proyectos de agua en La Guajira: así hará seguimiento a las obras",
+        "capturado": "2026-10-14T00:50:42-05:00"
+      },
       {
         "titulo": "Medidas del nuevo decreto de De La Espriella para las protestas del 14 de octubre",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-estrenara-lineamientos-para-las-marchas-de-este-14-de-octubre-las-medidas-del-nuevo-decreto-504411",
@@ -582,26 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-11",
         "titulo_fuente": "De La Espriella ordena investigar en la Fuerza Aérea denuncias de Eva Ferrer sobre Verónica Alcocer",
-        "capturado": "2026-10-11T09:40:13-05:00"
-      },
-      {
-        "titulo": "Aerocivil restablece el tráfico aéreo tras la emergencia por temblor en Panamá y desviación de aviones",
-        "url": "https://www.portafolio.co/economia/regiones/aerocivil-normaliza-operacion-aerea-tras-contingencia-por-sismo-en-panama-y-desvio-de-vuelos-504257",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Aerocivil normaliza operación aérea tras contingencia por sismo en Panamá y desvío de vuelos",
-        "capturado": "2026-10-11T09:40:13-05:00"
-      },
-      {
-        "titulo": "De La Espriella reitera apoyo a la Fuerza Pública en evento de homenaje a veteranos en Cartagena",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ratifica-respaldo-a-la-fuerza-publica-durante-homenaje-a-veteranos-en-cartagena-504256",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "De La Espriella ratifica respaldo a la Fuerza Pública durante homenaje a veteranos en Cartagena",
         "capturado": "2026-10-11T09:40:13-05:00"
       }
     ],
