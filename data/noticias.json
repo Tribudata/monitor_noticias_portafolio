@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-14T10:54:07-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-10-14T14:59:07-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Dólar colombiano expuesto a peligros ante déficit fiscal estimado en 7,2 % del PIB para 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-enfrenta-riesgos-por-deficit-fiscal-proyectado-de-7-2-del-pib-para-504452",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Dólar en Colombia enfrenta riesgos por déficit fiscal proyectado de 7,2 % del PIB para 2026",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Equipos agrícolas por $5.493 millones guardados desde su adquisición en 2025: ANT interviene",
+        "url": "https://www.portafolio.co/economia/gobierno/maquinaria-agricola-de-5-493-millones-seguia-en-bodegas-desde-su-compra-en-2025-ant-actua-504450",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Maquinaria agrícola de $5.493 millones seguía en bodegas desde su compra en 2025: ANT actúa",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Caen bienes pero trepan alimentos y servicios: incidencia en el debate del salario mínimo",
+        "url": "https://www.portafolio.co/economia/finanzas/inflacion-a-dos-velocidades-en-colombia-alimentos-y-servicios-suben-mientras-los-bienes-bajan-504448",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Bienes bajan, pero alimentos y servicios suben: ¿qué peso tendrá en negociación del salario mínimo?",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Acuario de San Andrés sin puente y con locales derruidos: la realidad que sustenta hogares",
+        "url": "https://www.portafolio.co/economia/el-acuario-de-san-andres-sin-puente-y-con-casetas-demolidas-la-otra-cara-del-paraiso-del-que-dependen-familias-504445",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "El Acuario de San Andrés, sin puente y con casetas demolidas: la otra cara del paraíso del que dependen familias",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Sencia habló sobre el mal estado de la cancha de El Campín: los partidos son una prioridad",
+        "url": "https://www.portafolio.co/economia/regiones/sencia-se-pronuncio-tras-mal-estado-de-la-gramilla-de-el-campin-los-partidos-de-futbol-son-una-prioridad-504421",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Sencia se pronunció tras mal estado de la gramilla de El Campín: 'los partidos de fútbol son una prioridad'",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Nueva misión del FMI en Colombia seguirá charlas macroeconómicas y posibles ayudas",
+        "url": "https://www.portafolio.co/economia/nueva-mision-del-fmi-a-colombia-continuara-el-dialogo-sobre-la-macroeconomia-y-posibles-mecanismos-de-apoyo-504447",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Nueva misión del FMI a Colombia continuará el diálogo sobre la macroeconomía y posibles mecanismos de apoyo",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Compañías de seguros han desembolsado $786.543 millones por movimiento telúrico y agilizan pagos en el país",
+        "url": "https://www.portafolio.co/economia/finanzas/aseguradoras-ya-pagaron-786-543-millones-por-terremoto-y-aceleran-indemnizaciones-en-colombia-504446",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Aseguradoras ya pagaron $786.543 millones por terremoto y aceleran indemnizaciones en Colombia",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
       {
         "titulo": "Verónica Alcocer pide a la Fiscalía información sobre presunta nueva investigación por declaraciones de Eva Ferrer",
         "url": "https://www.portafolio.co/economia/gobierno/veronica-alcocer-solicita-a-la-fiscalia-detalles-de-posible-nueva-indagacion-por-dichos-de-eva-ferrer-504443",
@@ -533,79 +603,59 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "Pico y placa regional en Bogotá este festivo: horarios, placas y los nueve corredores de ingreso",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "El país gestiona respaldo de la FAO en territorio italiano para promover cuatro iniciativas agrícolas esenciales",
-        "url": "https://www.portafolio.co/economia/agro/colombia-busca-apoyo-de-la-fao-en-italia-para-impulsar-cuatro-proyectos-clave-del-agro-nacional-504300",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Colombia busca apoyo de la FAO en Italia para impulsar cuatro proyectos clave del agro nacional",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo adelantará anuncio de Talento ColombIA, la estrategia dirigida a jóvenes sin estudio ni empleo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anticipa-anuncio-sobre-talento-colombia-el-plan-para-los-jovenes-que-no-estudian-ni-trabajan-504298",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Gobierno anticipa anuncio sobre Talento ColombIA: el plan para los jóvenes que no estudian ni trabajan",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo desaprueba los comentarios de Matador hacia la primera dama, Ana Lucia Pineda, tildándolos de misóginos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-rechaza-expresiones-de-matador-contra-la-primera-dama-ana-lucia-pineda-y-las-califica-de-misogina-504297",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Gobierno rechaza expresiones de 'Matador' contra la primera dama, Ana Lucia Pineda, y las califica de misógina",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "En qué consiste la Milagro Week, la iniciativa del vicepresidente para impulsar la economía al 6%",
-        "url": "https://www.portafolio.co/economia/gobierno/que-es-la-milagro-week-la-primera-apuesta-con-la-que-el-vicepresidente-busca-llevar-el-crecimiento-al-504288",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "¿Qué es la Milagro Week? La primera apuesta con la que el vicepresidente busca llevar el crecimiento al 6%",
-        "capturado": "2026-10-11T18:03:13-05:00"
-      },
-      {
-        "titulo": "Modifican normas de acceso a Bogotá para este lunes festivo con reversibles, horarios y restricciones",
-        "url": "https://www.portafolio.co/economia/regiones/cambian-las-reglas-para-entrar-a-bogota-este-lunes-festivo-reversibles-horarios-y-restricciones-en-plan-retorno-504287",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Cambian las reglas para entrar a Bogotá este lunes festivo: reversibles, horarios y restricciones en plan retorno",
-        "capturado": "2026-10-11T18:03:13-05:00"
-      },
-      {
-        "titulo": "Remuneración básica de 2027 llegaría a $1.925.996 sin subsidio de transporte según análisis",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-quedaria-en-1-925-996-sin-auxilio-de-transporte-los-tres-escenarios-que-plantea-estudio-504285",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Salario mínimo de 2027 quedaría hasta en $1.925.996 sin auxilio de transporte: los escenarios que plantea estudio",
-        "capturado": "2026-10-11T18:03:13-05:00"
-      },
-      {
-        "titulo": "El Banco de la República vio su meta inflacionaria cumplida en apenas seis de los pasados dieciséis años",
-        "url": "https://www.portafolio.co/economia/finanzas/colombia-cumplio-el-rango-de-inflacion-del-banco-de-la-republica-en-solo-seis-de-los-ultimos-16-anos-504277",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Colombia cumplió el rango de inflación del Banco de la República en solo seis de los últimos 16 años",
-        "capturado": "2026-10-11T14:21:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El salario mínimo no puede convertirse en un componente de negociación social",
+        "url": "https://www.portafolio.co/negocios/empresas/el-salario-minimo-no-puede-convertirse-en-un-componente-de-negociacion-social-504454",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "\"El salario mínimo no puede convertirse en un componente de negociación social”",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Inicia el retiro de avisos de Movistar en Colombia para ser reemplazados por Tigo",
+        "url": "https://www.portafolio.co/negocios/empresas/empiezan-a-bajar-letreros-de-movistar-en-colombia-para-cambiarlos-por-tigo-504458",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Empiezan a bajar letreros de Movistar en Colombia para cambiarlos por Tigo",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Inter Rapidísimo busca volver mensajeros a viajeros mediante una app en creación",
+        "url": "https://www.portafolio.co/negocios/empresas/inter-rapidisimo-quiere-convertir-a-viajeros-en-mensajeros-con-una-nueva-aplicacion-en-desarrollo-504457",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Inter Rapidísimo quiere convertir a viajeros en mensajeros con una nueva aplicación en desarrollo",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Spider-Man encabeza las ventas de Disfraces Cachivaches, que espera subir 20% en Halloween",
+        "url": "https://www.portafolio.co/negocios/comercio/spider-man-lidera-las-ventas-de-disfraces-cachivaches-que-proyecta-crecer-20-en-halloween-504453",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Spider-Man lidera las ventas de Disfraces Cachivaches, que proyecta crecer 20% en Halloween",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
+      {
+        "titulo": "Firmas con mayor reputación en listado Merco: encabeza Bancolombia, tras ella Alpina y Bavaria",
+        "url": "https://www.portafolio.co/negocios/empresas/empresas-con-mejor-reputacion-corporativa-en-ranking-merco-bancolombia-lidera-seguida-por-alpina-y-bavaria-504444",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Empresas con mejor reputación corporativa en ranking Merco: Bancolombia lidera, seguida por Alpina y Bavaria",
+        "capturado": "2026-10-14T14:59:07-05:00"
+      },
       {
         "titulo": "Bancolombia conserva primera posición en imagen empresarial; Ramo y Ecopetrol bajan",
         "url": "https://www.portafolio.co/negocios/empresas/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-ramo-y-ecopetrol-registran-retrocesos-504444",
@@ -1154,56 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-08",
         "titulo_fuente": "Outlet Factory abre experiencia de terror inspirada en Thriller: fechas, horarios y cómo ingresar",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Spotify lanza audiolibros en Colombia: Premium dará 12 horas mensuales y 350000 obras",
-        "url": "https://www.portafolio.co/negocios/empresas/spotify-estrena-audiolibros-en-colombia-premium-incluira-12-horas-de-escucha-al-mes-y-mas-de-350-000-titulos-504157",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Spotify estrena audiolibros en Colombia: Premium incluirá 12 horas de escucha al mes y más de 350.000 títulos",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "El Gobierno ya gestiona el retorno de Mazda: ministro Gómez Amín dialogó con directivos",
-        "url": "https://www.portafolio.co/negocios/comercio/el-gobierno-ya-mueve-fichas-para-el-regreso-de-mazda-ministro-gomez-amin-se-reunio-con-representantes-de-la-marca-504149",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "El Gobierno ya mueve fichas para el regreso de Mazda: ministro Gómez Amín se reunió con representantes de la marca",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Inchcape Colombia afianza una oferta completa para carga y pasajeros",
-        "url": "https://www.portafolio.co/negocios/empresas/inchcape-colombia-consolida-una-solucion-integral-para-el-transporte-de-carga-y-pasajeros-504144",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Inchcape Colombia consolida una solución integral para el transporte de carga y pasajeros",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "NutreCan y NutreCat se unen para educar a jóvenes sobre nutrición de mascotas",
-        "url": "https://www.portafolio.co/negocios/empresas/nutrecan-y-nutrecat-se-alian-para-sensibilizar-a-las-nuevas-generaciones-sobre-la-alimentacion-animal-504141",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "NutreCan y NutreCat se alían para sensibilizar a las nuevas generaciones sobre la alimentación animal",
-        "capturado": "2026-10-08T21:24:31-05:00"
-      },
-      {
-        "titulo": "Su empresa cambiará: así reduciría costos innecesarios en talento humano",
-        "url": "https://www.portafolio.co/negocios/empresas/viene-una-transformacion-en-su-empresa-asi-podria-evitar-gastos-innecesarios-en-materia-de-talento-humano-504140",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "¿Viene una transformación en su empresa?: así podría evitar gastos innecesarios en materia de talento humano",
         "capturado": "2026-10-08T21:24:31-05:00"
       }
     ]
