@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-13T16:44:02-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-10-13T19:53:05-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Medidas del nuevo decreto de De La Espriella para las protestas del 14 de octubre",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-estrenara-lineamientos-para-las-marchas-de-este-14-de-octubre-las-medidas-del-nuevo-decreto-504411",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "De La Espriella 'estrenará' lineamientos para las marchas de este 14 de octubre: las medidas del nuevo decreto",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "Gobierno levanta veto a venta de carbón a Israel tras caída de más de US$140 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-contraccion-de-mas-de-us-140-millones-el-gobierno-tumba-la-prohibicion-de-exportacion-de-carbon-a-israel-504410",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Tras contracción de más de US$140 millones, el Gobierno tumba la prohibición de exportación de carbón a Israel",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "Asobancaria apoya eventual límite en efectivo para autos o bienes del Estatuto Antiterrorista",
+        "url": "https://www.portafolio.co/economia/gobierno/asobancaria-respalda-posible-restriccion-a-la-compra-con-efectivo-de-carros-o-inmuebles-del-estatuto-antiterrorista-504409",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Asobancaria respalda posible restricción a la compra con efectivo de carros o inmuebles del Estatuto Antiterrorista",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "Ganadería regenerativa en Colombia cumple dos décadas: desafíos actuales del sistema",
+        "url": "https://www.portafolio.co/economia/agro/colombia-lleva-20-anos-apostando-a-la-ganaderia-regenerativa-por-que-el-modelo-aun-tiene-retos-504406",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Colombia lleva 20 años apostando a la ganadería regenerativa: ¿por qué el modelo aún tiene retos?",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "IA y datos en la construcción: hoja de ruta de Shawn Kanungo para firmas colombianas",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-construccion-es-un-negocio-de-datos-shawn-kanungo-traza-la-ruta-de-la-ia-para-las-constructoras-colombianas-504382",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "La construcción es un negocio de datos: Shawn Kanungo traza la ruta de la IA para las constructoras colombianas",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
       {
         "titulo": "Manuel Fernández Ariza asume formalmente la dirección de Bancóldex con enfoque en crédito empresarial",
         "url": "https://www.portafolio.co/economia/gobierno/manuel-fernandez-ariza-llega-oficialmente-a-la-presidencia-de-bancoldex-con-agenda-de-financiacion-empresarial-504401",
@@ -553,59 +603,49 @@
         "publicacion": "2026-10-11",
         "titulo_fuente": "De La Espriella ratifica respaldo a la Fuerza Pública durante homenaje a veteranos en Cartagena",
         "capturado": "2026-10-11T09:40:13-05:00"
-      },
-      {
-        "titulo": "Colombia pretende fomentar el agroturismo en predios cafeteros, floricultores y cacaoteros para variar entradas",
-        "url": "https://www.portafolio.co/economia/agro/colombia-busca-impulsar-el-agroturismo-en-fincas-de-cafe-flores-y-cacao-para-diversificar-ingresos-504255",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-10",
-        "titulo_fuente": "Colombia busca impulsar el agroturismo en fincas de café, flores y cacao para diversificar ingresos",
-        "capturado": "2026-10-10T20:08:02-05:00"
-      },
-      {
-        "titulo": "Casa de Nariño se suma al debate sobre el Metro bogotano y demanda rapidez al concesionario en las obras",
-        "url": "https://www.portafolio.co/economia/gobierno/presidencia-entra-en-la-discusion-del-metro-de-bogota-y-exige-al-consorcio-celeridad-en-la-construccion-504254",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-10",
-        "titulo_fuente": "Presidencia entra en la discusión del Metro de Bogotá y exige al consorcio celeridad en la construcción",
-        "capturado": "2026-10-10T20:08:02-05:00"
-      },
-      {
-        "titulo": "Estudio avisa que el IPC llegaría al 7,3% en la primera mitad de 2027 antes de descender",
-        "url": "https://www.portafolio.co/economia/gobierno/inflacion-tocaria-un-techo-de-7-3-en-el-primer-semestre-de-2027-antes-de-comenzar-a-bajar-advierte-estudio-504253",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-10",
-        "titulo_fuente": "Inflación tocaría un techo de 7,3% en el primer semestre de 2027 antes de comenzar a bajar, advierte estudio",
-        "capturado": "2026-10-10T17:13:50-05:00"
-      },
-      {
-        "titulo": "TransMilenio alarga su servicio por Rock al Parque y show de Iron Maiden con estas rutas",
-        "url": "https://www.portafolio.co/economia/regiones/transmilenio-extiende-operacion-por-rock-al-parque-y-concierto-de-iron-maiden-estas-son-las-rutas-habilitadas-504252",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-10",
-        "titulo_fuente": "TransMilenio extiende operación por Rock al Parque y concierto de Iron Maiden: estas son las rutas habilitadas",
-        "capturado": "2026-10-10T17:13:50-05:00"
-      },
-      {
-        "titulo": "Defensoría del Pueblo solicita habilitar de nuevo el registro de afectados por sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/defensoria-del-pueblo-pide-reabrir-el-registro-de-damnificados-por-el-terremoto-en-colombia-504246",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-10",
-        "titulo_fuente": "Defensoría del Pueblo pide reabrir el registro de damnificados por el terremoto en Colombia",
-        "capturado": "2026-10-10T17:13:50-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El aviso de Davivienda para reservar espacio en el escenario bogotano genera dudas sobre un cambio de marca",
+        "url": "https://www.portafolio.co/negocios/empresas/el-mensaje-que-sorprendio-a-clientes-de-davivienda-para-asegurar-un-cupo-en-el-arena-de-bogota-hay-nuevo-nombre-504408",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "El mensaje que sorprendió a clientes de Davivienda para asegurar un cupo en el arena de Bogotá: ¿hay nuevo nombre?",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "WPP Media usa inteligencia artificial para renovar el sector de la publicidad",
+        "url": "https://www.portafolio.co/negocios/empresas/wpp-media-apuesta-por-la-ia-para-transformar-el-negocio-publicitario-504405",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "WPP Media apuesta por la inteligencia artificial para transformar el negocio publicitario",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "El nuevo líder de Analdex confía en que EE. UU. quite el arancel a Colombia pronto",
+        "url": "https://www.portafolio.co/negocios/comercio/el-nuevo-presidente-de-analdex-espera-que-estados-unidos-levante-el-arancel-a-colombia-en-los-proximos-dias-504403",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "El nuevo presidente de Analdex espera que Estados Unidos levante el arancel a Colombia en los próximos días",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
+      {
+        "titulo": "Desde noviembre Davivienda sumará a DAVIbank, antes Scotiabank Colpatria, con activos mayores a $38,3 billones",
+        "url": "https://www.portafolio.co/negocios/empresas/davivienda-integrara-a-davibank-antes-scotiabank-colpatria-desde-noviembre-activos-superan-38-3-billones-504404",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "Davivienda integrará a DAVIbank, antes Scotiabank Colpatria, desde noviembre: activos superan $38,3 billones",
+        "capturado": "2026-10-13T19:53:05-05:00"
+      },
       {
         "titulo": "Summit Protección 2026: inteligencia artificial, riqueza, productividad y decisiones futuras",
         "url": "https://www.portafolio.co/negocios/empresas/summit-proteccion-2026-ia-productividad-riqueza-y-decisiones-de-futuro-504400",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-08",
         "titulo_fuente": "Tesla domina los eléctricos más vendidos en Colombia: concentró 41,3 % de las matrículas durante septiembre",
         "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "Corona incursiona en la industria de la cristalería dirigida a hoteles y restaurantes",
-        "url": "https://www.portafolio.co/negocios/empresas/corona-entra-al-mercado-de-la-cristaleria-para-restaurantes-y-hoteles-504115",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Corona entra al mercado de la cristalería para restaurantes y hoteles",
-        "capturado": "2026-10-08T17:22:29-05:00"
-      },
-      {
-        "titulo": "El avance de la inteligencia artificial se financia mediante pasivos",
-        "url": "https://www.portafolio.co/negocios/empresas/la-carrera-de-la-inteligencia-artificial-se-paga-con-deuda-504114",
-        "resumen": "",
-        "autor": "Valentina delgadillo abello",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "La carrera de la inteligencia artificial se paga con deuda",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Empresarios vallecaucanos rechazan tasa por tonelada en Buenaventura y advierten peligros legales y comerciales",
-        "url": "https://www.portafolio.co/negocios/empresas/empresarios-del-valle-rechazan-cobro-por-tonelada-en-buenaventura-alertan-riesgos-juridicos-y-competitivos-504110",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Empresarios del Valle rechazan cobro por tonelada en Buenaventura: alertan riesgos jurídicos y competitivos",
-        "capturado": "2026-10-08T12:29:52-05:00"
-      },
-      {
-        "titulo": "Juan Valdez expandió su alcance global en el Día Internacional del Café al regalar 13.110 tazas en distintos países",
-        "url": "https://www.portafolio.co/negocios/empresas/juan-valdez-amplifico-su-presencia-global-en-el-dia-internacional-del-cafe-entrego-13-110-tazas-en-varios-paises-504106",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Juan Valdez amplificó su presencia global en el Día Internacional del Café: entregó 13.110 tazas en varios países",
-        "capturado": "2026-10-08T12:29:52-05:00"
       }
     ]
   }
