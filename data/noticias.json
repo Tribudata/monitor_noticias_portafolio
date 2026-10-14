@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-14T14:59:07-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-14T18:07:21-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "FMI pronostica tasa de desocupación de dos dígitos en el país y el Sena ofrece más de 24.000 puestos",
+        "url": "https://www.portafolio.co/economia/empleo/fmi-preve-desempleo-de-dos-digitos-en-colombia-el-sena-apuesta-por-mas-de-24-000-vacantes-de-hasta-6-millones-504474",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "FMI prevé desempleo de dos dígitos en Colombia: el Sena apuesta por más de 24.000 vacantes de hasta $6 millones",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Dólar bajó 16,2% y Anif percibe indicios de mejora en artículos afectados por la tasa de cambio",
+        "url": "https://www.portafolio.co/economia/crecimiento/peso-colombiano-se-aprecio-16-2-y-anif-ve-primeras-senales-de-alivio-en-bienes-sensibles-al-dolar-504473",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Peso colombiano se apreció 16,2% y Anif ve primeras señales de alivio en bienes sensibles al dólar",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Casa de Nariño nombrará esta semana a su representante para Aerocafé y Autopistas del Café continuará",
+        "url": "https://www.portafolio.co/economia/gobierno/presidencia-designara-esta-semana-a-su-delegada-en-aerocafe-y-autopistas-del-cafe-seguira-hasta-septiembre-de-504469",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Presidencia designará esta semana a su delegada en Aerocafé y Autopistas del Café seguirá hasta septiembre de 2027",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
       {
         "titulo": "Dólar colombiano expuesto a peligros ante déficit fiscal estimado en 7,2 % del PIB para 2026",
         "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-enfrenta-riesgos-por-deficit-fiscal-proyectado-de-7-2-del-pib-para-504452",
@@ -573,39 +603,59 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "Cédulas falsas, huellas digitales de silicona y otras formas de validación fraudulentas en el sistema financiero",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Denuncian estafa tras cierre de concesionario Ferrari en Bogotá y autos estarían en Panamá",
-        "url": "https://www.portafolio.co/economia/regiones/cierre-de-concesionario-ferrari-en-bogota-termino-en-denuncias-por-estafa-vehiculos-estarian-en-panama-504305",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Cierre de concesionario Ferrari en Bogotá terminó en denuncias por estafa: vehículos estarían en Panamá",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Gobierno suprimió Áreas de Protección para la Producción de Alimentos en municipios de Cundinamarca",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-elimino-las-areas-de-proteccion-para-la-produccion-de-alimentos-creadas-en-municipios-de-cundinamarca-504302",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Gobierno eliminó las Áreas de Protección para la Producción de Alimentos creadas en municipios de Cundinamarca",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Horarios, números y las nueve vías de acceso para el pico y placa regional en Bogotá en este puente festivo",
-        "url": "https://www.portafolio.co/economia/regiones/pico-y-placa-regional-en-bogota-este-festivo-horarios-placas-y-los-nueve-corredores-de-ingreso-504301",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Pico y placa regional en Bogotá este festivo: horarios, placas y los nueve corredores de ingreso",
-        "capturado": "2026-10-12T14:56:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Movistar pasa a ser Tigo y destinará 8,5 billones de pesos en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/movistar-se-convierte-en-tigo-que-ahora-invertira-8-5-billones-en-colombia-504475",
+        "resumen": "",
+        "autor": "Jose caparroso, johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Movistar se convierte en Tigo, que ahora invertirá $8,5 billones en Colombia",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Alzas de 76,7% en compras externas de leche llevan a Analac a exigir claridad sobre su procedencia",
+        "url": "https://www.portafolio.co/negocios/comercio/importaciones-de-leche-en-polvo-se-disparan-76-7-analac-pide-claridad-sobre-el-origen-de-los-lacteos-504472",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Importaciones de leche en polvo se disparan 76,7%: Analac pide claridad sobre el origen de los lácteos",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Ventas de la canasta básica subieron 22% por donaciones tras el sismo, señala NielsenIQ",
+        "url": "https://www.portafolio.co/negocios/empresas/tras-el-sismo-las-donaciones-movieron-la-economia-ventas-de-la-canasta-basica-crecieron-22-dice-nielseniq-504467",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Tras el sismo, las donaciones movieron la economía: ventas de la canasta básica crecieron 22%, dice NielsenIQ",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Merco ubica a Bancolombia y Ecopetrol como las compañías con mayor atracción laboral en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-ecopetrol-son-las-empresas-mas-atractivas-para-trabajar-en-colombia-segun-merco-504470",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Bancolombia y Ecopetrol son las empresas más atractivas para trabajar en Colombia, según Merco",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
+      {
+        "titulo": "Firma colombiana Ohra Water prevé expansión del 35% tras estar en Paris Fashion Week con diseño",
+        "url": "https://www.portafolio.co/negocios/empresas/empresa-colombiana-ohra-water-proyecta-crecer-35-tras-su-paso-por-paris-fashion-week-con-su-apuesta-de-diseno-504464",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Empresa colombiana Ohra Water proyecta crecer 35% tras su paso por Paris Fashion Week con su apuesta de diseño",
+        "capturado": "2026-10-14T18:07:21-05:00"
+      },
       {
         "titulo": "El salario mínimo no puede convertirse en un componente de negociación social",
         "url": "https://www.portafolio.co/negocios/empresas/el-salario-minimo-no-puede-convertirse-en-un-componente-de-negociacion-social-504454",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-09",
         "titulo_fuente": "Starbucks estudia comprar Chipotle por US$39.000 millones: sería la mayor fusión en la historia de los restaurantes",
         "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo busca el retorno de Mazda y recuerda el cierre de su planta colombiana hace 12 años",
-        "url": "https://www.portafolio.co/negocios/empresas/el-gobierno-quiere-traer-de-vuelta-a-mazda-la-historia-de-su-salida-y-por-que-cerro-la-ensambladora-hace-12-anos-504171",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Gobierno quiere traer de vuelta a Mazda: la historia de por qué cerró su ensambladora en Colombia hace 12 años",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Muebles y diseño: el segmento prémium y el comercio electrónico avanzan en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/muebles-y-diseno-el-lujo-y-las-compras-digitales-ganan-terreno-en-colombia-504167",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Muebles y diseño: el lujo y las compras digitales ganan terreno en Colombia",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Vuelo de Avianca entre Medellín y Nueva York turbulento deja nueve afectados y aterriza en Miami",
-        "url": "https://www.portafolio.co/negocios/empresas/vuelo-de-avianca-de-medellin-a-nueva-york-sufrio-turbulencia-y-dejo-nueve-personas-afectadas-aterrizo-en-miami-504168",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Vuelo de Avianca de Medellín a Nueva York sufrió turbulencia y dejó nueve personas afectadas: aterrizó en Miami",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Del Metro de Bogotá a sismos: la cartografía tecnológica que se expande en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/del-metro-de-bogota-a-las-emergencias-por-el-terremoto-la-tecnologia-de-mapas-que-gana-terreno-en-colombia-504156",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Del Metro de Bogotá a las emergencias por el terremoto: la tecnología de mapas que gana terreno en Colombia",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Outlet Factory lanza vivencia de miedo basada en Thriller: días, horas y entrada",
-        "url": "https://www.portafolio.co/negocios/empresas/outlet-factory-abre-experiencia-de-terror-inspirada-en-thriller-fechas-horarios-y-como-ingresar-504158",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Outlet Factory abre experiencia de terror inspirada en Thriller: fechas, horarios y cómo ingresar",
-        "capturado": "2026-10-08T21:24:31-05:00"
       }
     ]
   }
