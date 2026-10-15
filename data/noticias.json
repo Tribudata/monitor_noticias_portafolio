@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-14T20:39:53-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-15T01:59:42-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De La Espriella resalta diálogo con EE. UU. para captar capital y expandir mercados de firmas del país",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-destaca-conversaciones-con-ee-uu-para-atraer-inversion-y-abrir-mercados-a-empresas-colombianas-504491",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "De La Espriella destaca conversaciones con EE. UU. para atraer inversión y abrir mercados a empresas colombianas",
+        "capturado": "2026-10-15T01:59:42-05:00"
+      },
+      {
+        "titulo": "Gobierno prepara en Bucaramanga anuncios del Icetex sobre nuevos horizontes y programas hacia 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/icetex-alista-nuevas-oportunidades-para-2027-el-anuncio-que-hara-el-gobierno-en-bucaramanga-504490",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Icetex alista nuevas oportunidades para 2027: el anuncio que hará el Gobierno en Bucaramanga",
+        "capturado": "2026-10-15T01:59:42-05:00"
+      },
       {
         "titulo": "El presupuesto de 2027 sigue en $634,95 billones, pero la ponencia baja el pago de deuda y alza inversión",
         "url": "https://www.portafolio.co/economia/presupuesto-de-2027-mantiene-634-95-billones-pero-ponencia-reduce-amortizaciones-de-deuda-y-sube-inversion-504477",
@@ -583,29 +603,19 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "Atención: Megaferia de empleo les abre oportunidades laborales a mayores de 50 años",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Bogotá legaliza cinco barrios ubicados en Suba, Kennedy y tres localidades más",
-        "url": "https://www.portafolio.co/economia/gobierno/bogota-formaliza-cinco-barrios-en-suba-kennedy-y-otras-tres-localidades-504310",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Bogotá formaliza cinco barrios en Suba, Kennedy y otras tres localidades",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Gobierno confirma fondo de 1 billón de pesos para recuperar zonas del sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-anuncia-fondo-de-1-billon-para-reconstruir-zonas-afectadas-por-el-terremoto-504308",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Gobierno anuncia fondo de $1 billón para reconstruir zonas afectadas por el terremoto",
-        "capturado": "2026-10-12T14:56:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Gilinski afianza el dominio de Nutresa mediante pacto de firmas que agrupan el 76,71% de los títulos",
+        "url": "https://www.portafolio.co/negocios/empresas/gilinski-consolida-el-control-de-nutresa-con-acuerdo-entre-sociedades-que-reunen-el-76-71-de-las-acciones-504492",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Gilinski consolida el control de Nutresa con acuerdo entre sociedades que reúnen el 76,71% de las acciones",
+        "capturado": "2026-10-15T01:59:42-05:00"
+      },
       {
         "titulo": "BYD liderará el mercado de Colombia en el plazo de tres años",
         "url": "https://www.portafolio.co/negocios/vehiculo/en-tres-anos-byd-sera-numero-uno-del-mercado-colombiano-504481",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-09",
         "titulo_fuente": "OP Gold Capital firma dos contratos para explorar cobre en Colombia tras adjudicación de la ANM",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Llega a Colombia la RAM Dakota para rivalizar en el mercado con la Hilux y la Ranger",
-        "url": "https://www.portafolio.co/negocios/vehiculo/ram-dakota-se-estrena-en-colombia-la-nueva-pick-up-que-busca-competir-en-el-segmento-de-la-hilux-y-la-ranger-504182",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "RAM Dakota se estrena en Colombia: la nueva pick-up que busca competir en el segmento de la Hilux y la Ranger",
         "capturado": "2026-10-09T16:09:15-05:00"
       }
     ]
