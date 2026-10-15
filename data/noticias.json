@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-15T07:35:59-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-15T12:37:09-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "LarrainVial ofrecerá títulos de Pei a inversionistas regionales para atraer capital externo",
+        "url": "https://www.portafolio.co/economia/pei-abre-la-puerta-al-capital-extranjero-larrainvial-llevara-sus-titulos-a-comunidades-de-inversion-regionales-504508",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Pei abre la puerta al capital extranjero: LarrainVial llevará sus títulos a comunidades de inversión regionales",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Armando Cuello deja el viceministerio de Energía y su puesto lo ASUME Alex Fabián Cañas",
+        "url": "https://www.portafolio.co/economia/gobierno/alex-fabian-canas-es-nombrado-nuevo-viceministro-de-energia-en-reemplazo-de-armando-cuello-504521",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Alex Fabián Cañas es nombrado nuevo viceministro de Energía, en reemplazo de Armando Cuello",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Banrepública advierte que un mayor riesgo fiscal puede alterar la tasa y enredar la inflación",
+        "url": "https://www.portafolio.co/economia/banrepublica-mayor-riesgo-fiscal-puede-cambiar-el-efecto-de-las-tasas-sobre-los-precios-y-complicar-la-inflacion-504518",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Banrepública: mayor riesgo fiscal puede cambiar el efecto de las tasas sobre los precios y complicar la inflación",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Ricardo Morris Sarmiento sale de la presidencia de Finagro y entra Édgar Chalhoub Succar",
+        "url": "https://www.portafolio.co/economia/gobierno/finagro-estrena-presidente-edgar-chalhoub-succar-llega-al-cargo-y-releva-a-ricardo-morris-sarmiento-504514",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Finagro estrena presidente: Édgar Chalhoub Succar llega al cargo y releva a Ricardo Morris Sarmiento",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Alza global de la urea enciende alertas por el impacto en los costos agrícolas nacionales",
+        "url": "https://www.portafolio.co/economia/agro/los-fertilizantes-vuelven-a-encender-alarmas-la-urea-sube-en-el-mundo-y-amenaza-los-costos-del-agro-colombiano-504510",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Los fertilizantes vuelven a encender alarmas: la urea sube en el mundo y amenaza los costos del agro colombiano",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "De La Espriella reporta 62000 marchantes, seis detenciones y seis acciones del Esmad",
+        "url": "https://www.portafolio.co/economia/regiones/balance-de-marchas-62-000-manifestantes-seis-capturas-y-seis-intervenciones-del-esmad-segun-de-la-espriella-504509",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Balance de marchas: 62.000 manifestantes, seis capturas y seis intervenciones del Esmad, según De La Espriella",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Alza superior al 50 por ciento en papas, tomate y tubérculos afecta el presupuesto familiar por costo de alimentos",
+        "url": "https://www.portafolio.co/economia/agro/precios-de-alimentos-golpean-el-bolsillo-de-los-hogares-papas-tomate-y-tuberculos-registran-alzas-de-mas-del-504507",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Precios de alimentos golpean el bolsillo de los hogares: papas, tomate y tubérculos registran alzas de más del 50%",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Ana Lucía Pineda, primera dama, descarta anomalías en donaciones por sismo y presentará reporte financiero",
+        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-niega-irregularidades-con-donaciones-por-terremoto-y-anuncia-informe-de-cuentas-504506",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Primera dama, Ana Lucía Pineda, niega irregularidades con donaciones por terremoto y anuncia informe de cuentas",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Aumento del salario mínimo y reforma laboral elevarán gastos de contratación empresarial en Colombia para 2027",
+        "url": "https://www.portafolio.co/economia/salario-minimo-y-reforma-laboral-presionaran-los-costos-de-contratacion-de-las-empresas-colombianas-en-504505",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Salario mínimo y reforma laboral presionarán los costos de contratación de las empresas colombianas en 2027",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Grupo Argos y Nicky Jam entregan primera vivienda de 40 previstas tras sismo, pasando del reguetón a la obra",
+        "url": "https://www.portafolio.co/economia/del-regueton-a-la-reconstruccion-grupo-argos-y-nicky-jam-entregan-la-primera-de-las-40-casas-tras-el-terremoto-504502",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Del reguetón a la reconstrucción: Grupo Argos y Nicky Jam entregan la primera de las 40 casas tras el terremoto",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Obligaciones con Bogotá tendrán rebaja del 60 por ciento en multas e intereses con plazo límite estipulado",
+        "url": "https://www.portafolio.co/economia/deudas-con-bogota-tendran-descuento-del-60-en-intereses-y-sanciones-este-es-el-plazo-para-acceder-al-beneficio-504503",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Deudas con Bogotá tendrán descuento del 60% en intereses y sanciones: este es el plazo para acceder al beneficio",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Turismo interno sube 70 por ciento y supera al internacional impulsado por la demanda de viajes locales",
+        "url": "https://www.portafolio.co/economia/viajes-nacionales-crecen-70-y-avanzan-mas-rapido-que-los-internacionales-escapadas-jalonan-demanda-en-turismo-504497",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Viajes nacionales crecen 70% y avanzan más rápido que los internacionales: escapadas jalonan demanda en turismo",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
       {
         "titulo": "El Eje Cafetero apunta al aguacate hass con 45.000 hectáreas aptas para su siembra",
         "url": "https://www.portafolio.co/economia/agro/el-eje-cafetero-pone-la-mira-en-el-aguacate-hass-hay-hasta-45-000-hectareas-con-potencial-para-el-cultivo-504499",
@@ -483,129 +603,49 @@
         "publicacion": "2026-10-13",
         "titulo_fuente": "El IDU descarta sobrecostos en el desmonte del puente de la Séptima con calle 100 pese a las lluvias del festivo",
         "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo bajó 73% el gasto de personal en la vicepresidencia y ahorrará $1.000 millones mensuales",
-        "url": "https://www.portafolio.co/economia/gobierno/jose-manuel-restrepo-redujo-en-73-el-gasto-de-personal-en-la-vicepresidencia-ahorrara-1-000-millones-al-mes-504359",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "José Manuel Restrepo redujo en 73% el gasto de personal en la vicepresidencia: ahorrará $1.000 millones al mes",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "El efecto fiscal de la transformación demográfica en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/el-impacto-fiscal-del-cambio-demografico-en-colombia-504355",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "El Impacto fiscal del cambio demográfico en Colombia",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Detienen a falsos empleados del Metro de Bogotá robando rieles tasados en $50 millones",
-        "url": "https://www.portafolio.co/economia/regiones/falsos-trabajadores-del-metro-de-bogota-fueron-capturados-cuando-intentaban-robar-rieles-por-50-millones-504353",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Falsos trabajadores del Metro de Bogotá fueron capturados cuando intentaban robar rieles por $50 millones",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella solicita traslado de presupuesto contra El Niño y menor riesgo de racionamiento",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-pide-traslado-presupuestal-para-enfrentar-el-nino-y-reducir-riesgo-de-racionamiento-504346",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Presidente De La Espriella pide traslado presupuestal para enfrentar El Niño y reducir riesgo de racionamiento",
-        "capturado": "2026-10-13T03:58:44-05:00"
-      },
-      {
-        "titulo": "Firma De La Espriella Lawyers entablará demanda contra caricaturista Matador por opiniones sobre Ana Lucía Pineda",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-lawyers-anuncia-acciones-legales-contra-matador-por-comentarios-sobre-ana-lucia-pineda-504345",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "De La Espriella Lawyers anuncia acciones legales contra Matador por comentarios sobre Ana Lucía Pineda",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Mensaje presidencial de Abelardo De La Espriella para este doce de octubre",
-        "url": "https://www.portafolio.co/economia/gobierno/alocucion-presidencial-de-abelardo-de-la-espriella-de-este-12-de-octubre-504344",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Alocución presidencial de Abelardo De La Espriella de este 12 de octubre",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Descartan alerta de tsunami en el litoral pacífico colombiano luego de temblor de magnitud 6,1 cerca de Panamá",
-        "url": "https://www.portafolio.co/economia/regiones/no-hay-alerta-de-tsunami-en-el-pacifico-colombiano-tras-sismo-de-magnitud-6-1-cerca-de-panama-504343",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "No hay alerta de tsunami en el Pacífico colombiano tras sismo de magnitud 6,1 cerca de Panamá",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Rock al Parque 2026 habilitará horario extendido en TransMilenio hasta la medianoche para el retorno",
-        "url": "https://www.portafolio.co/economia/regiones/rock-al-parque-2026-tendra-transmilenio-extendido-hasta-medianoche-para-facilitar-el-regreso-504340",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Rock al Parque 2026 tendrá TransMilenio extendido hasta medianoche para facilitar el regreso",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Gremios de los Santanderes solicitan integrar ocho obras prioritarias en el Plan Nacional de Desarrollo 2026-2030",
-        "url": "https://www.portafolio.co/economia/regiones/empresarios-de-los-santanderes-piden-incluir-ocho-proyectos-clave-en-el-plan-nacional-de-desarrollo-2026-504336",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Empresarios de los Santanderes piden incluir ocho proyectos clave en el Plan Nacional de Desarrollo 2026-2030",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella y Marco Rubio dialogaron otra vez: seguridad y cooperación centraron su llamada",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-y-marco-rubio-hablaron-nuevamente-seguridad-y-cooperacion-los-principales-ejes-de-su-llamada-504330",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "De La Espriella y Marco Rubio hablaron nuevamente: seguridad y cooperación, los principales ejes de su llamada",
-        "capturado": "2026-10-12T20:52:28-05:00"
-      },
-      {
-        "titulo": "Colombia solicita excluir reforma rural de la ONU y conservar supervisión a exFarc",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-pide-sacar-la-reforma-rural-del-mandato-de-la-onu-y-mantener-verificacion-a-ex-farc-504329",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Colombia pide sacar la reforma rural del mandato de la ONU y mantener verificación a ex-Farc",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Pobreza extrema global sube por primera vez desde 2010 con 1.200 millones afectados",
-        "url": "https://www.portafolio.co/economia/regiones/la-pobreza-aguda-mundial-aumento-por-primera-vez-desde-2010-1-200-millones-de-personas-afectadas-504327",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "La pobreza aguda mundial aumentó por primera vez desde 2010: 1.200 millones de personas afectadas",
-        "capturado": "2026-10-12T14:56:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Simulacro Nacional de Emergencias: su hogar cuenta con una estrategia de reencuentro en una crisis",
+        "url": "https://www.portafolio.co/negocios/empresas/simulacro-nacional-de-emergencias-su-familia-tiene-un-plan-para-reencontrarse-en-una-crisis-504500",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Simulacro Nacional de Emergencias: ¿su familia tiene un plan para reencontrarse en una crisis?",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Carlos Casado asume como CEO de Holcim Colombia y establece sus metas",
+        "url": "https://www.portafolio.co/negocios/empresas/carlos-casado-nuevo-ceo-de-holcim-colombia-fija-sus-prioridades-504516",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Carlos Casado, nuevo CEO de Holcim Colombia, fija sus prioridades",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Tarjetas de crédito Itaú cesarán operaciones el 21 de octubre: Banco de Bogotá da plazo",
+        "url": "https://www.portafolio.co/negocios/empresas/tarjetas-de-credito-itau-dejaran-de-funcionar-el-21-de-octubre-banco-de-bogota-fija-fecha-limite-504515",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Tarjetas de crédito Itaú dejarán de funcionar el 21 de octubre: Banco de Bogotá fija fecha límite",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
+      {
+        "titulo": "Ecopetrol modifica su cúpula directiva: sale Rodolfo Mario García e ingresa José Eduardo Barreneche",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-cambia-su-alta-gerencia-sale-rodolfo-mario-garcia-y-llega-jose-eduardo-barreneche-504501",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Ecopetrol cambia su alta gerencia: sale Rodolfo Mario García y llega José Eduardo Barreneche",
+        "capturado": "2026-10-15T12:37:09-05:00"
+      },
       {
         "titulo": "Ingresos de equipos del balompié nacional subieron 16,6 % en 2025: activos sumaron $925.000 millones",
         "url": "https://www.portafolio.co/negocios/empresas/clubes-del-futbol-colombiano-aumentaron-sus-ingresos-16-6-en-2025-activos-llegaron-a-925-000-millones-504498",
@@ -1164,46 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-10-09",
         "titulo_fuente": "Gobierno alista decreto para concesiones portuarias y abre puerta a más inversión en Colombia",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Cancha de golf La Florida mejora sus instalaciones por alianza con Inter Rapidísimo",
-        "url": "https://www.portafolio.co/negocios/empresas/el-campo-de-golf-publico-la-florida-renueva-su-infraestructura-tras-alianza-con-inter-rapidisimo-504200",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "El campo de golf público La Florida renueva su infraestructura tras alianza con Inter Rapidísimo",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Banco AV Villas presenta su iniciativa de formación en finanzas",
-        "url": "https://www.portafolio.co/negocios/empresas/banco-av-villas-lanza-su-programa-de-educacion-financiera-504195",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Banco AV Villas lanza su programa de Educación Financiera",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Carlos Mario Giraldo expone los factores clave de su liderazgo empresarial",
-        "url": "https://www.portafolio.co/negocios/empresas/carlos-mario-giraldo-revela-las-claves-que-lo-llevaron-a-ser-un-gran-lider-empresarial-504192",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Carlos Mario Giraldo revela las claves que lo llevaron a ser un gran líder empresarial",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Jungle Labs presenta suplementos basados en ciencia e inteligencia artificial",
-        "url": "https://www.portafolio.co/negocios/empresas/jungle-labs-lanza-una-linea-de-suplementos-que-combina-investigacion-cientifica-e-inteligencia-artificial-504191",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Jungle Labs lanza una línea de suplementos que combina investigación científica e inteligencia artificial",
         "capturado": "2026-10-09T16:09:15-05:00"
       }
     ]
