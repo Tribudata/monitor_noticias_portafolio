@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-15T15:57:42-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-15T18:37:04-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "RTVC advierte posibles sobrecostos en unidad móvil de $11.924 millones del Gobierno Petro que sigue sin uso",
+        "url": "https://www.portafolio.co/economia/gobierno/rtvc-alerta-por-presuntos-sobrecostos-en-unidad-movil-de-11-924-millones-del-gobierno-petro-que-no-se-puede-usar-504553",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "RTVC alerta por presuntos sobrecostos en unidad móvil de $11.924 millones del Gobierno Petro que no se puede usar",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Arrancó la expansión de la Autopista Norte: la obra vial cuenta con recursos por $1,8 billones",
+        "url": "https://www.portafolio.co/economia/regiones/comenzo-la-ampliacion-de-la-autopista-norte-el-megaproyecto-vial-suma-inversion-de-1-8-billones-504546",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Comenzó la ampliación de la Autopista Norte: el megaproyecto vial suma inversión de $1,8 billones",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Colombia informa su salida del Grupo de La Haya y finaliza su permanencia en el bloque internacional",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-anuncia-su-retiro-del-grupo-de-la-haya-y-deja-de-ser-miembro-del-bloque-internacional-504545",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Colombia anuncia su retiro del Grupo de La Haya y deja de ser miembro del bloque internacional",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "El porvenir del Presupuesto General de la Nación se decidirá la próxima semana, fijando el 20 de octubre como plazo límite",
+        "url": "https://www.portafolio.co/economia/el-futuro-del-presupuesto-general-de-la-nacion-sera-definido-la-proxima-semana-el-20-de-octubre-es-la-fecha-maxima-504543",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "El futuro del Presupuesto General de la Nación será definido la próxima semana, el 20 de octubre es la fecha máxima",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Colombia Fintech apoya la iniciativa del Gobierno de De La Espriella para reglamentar el manejo de efectivo",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-fintech-respalda-al-gobierno-de-de-la-espriella-en-su-plan-para-regular-el-uso-de-efectivo-504541",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Colombia Fintech respalda al Gobierno de De La Espriella en su plan para regular el uso de efectivo",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Pacto Histórico, Centro Democrático y Creemos se unen para regular aplicaciones de transporte",
+        "url": "https://www.portafolio.co/economia/por-alla-si-voy-pacto-historico-centro-democratico-y-creemos-se-alian-para-legalizar-aplicaciones-de-transporte-504535",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "‘Por allá sí voy’: Pacto Histórico, Centro Democrático y Creemos se alían para legalizar aplicaciones de transporte",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
       {
         "titulo": "Las dos modificaciones de la ley pensional que modificarán el ahorro y los fondos para el retiro",
         "url": "https://www.portafolio.co/economia/los-dos-cambios-de-la-reforma-pensional-que-transformaran-el-ahorro-y-la-inversion-para-la-jubilacion-504539",
@@ -543,69 +603,49 @@
         "publicacion": "2026-10-13",
         "titulo_fuente": "Manuel Fernández Ariza llega oficialmente a la presidencia de Bancóldex con agenda de financiación empresarial",
         "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Fiscalía indagará al caricaturista Matador por mensajes sobre la primera dama Ana Lucía Pineda",
-        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-abre-indagacion-contra-matador-por-publicaciones-contra-la-primera-dama-ana-lucia-pineda-504397",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Fiscalía investigará a ‘Matador’ por publicaciones contra la primera dama, Ana Lucía Pineda",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Ejecutivo convoca a gremios y centrales obreras para negociar el salario mínimo de 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-reune-a-empresarios-y-sindicatos-para-avanzar-en-la-discusion-del-salario-minimo-504395",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Gobierno reúne a empresarios y sindicatos para avanzar en la discusión del salario mínimo 2027",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Grupo Urbina entrega 20.000 millones de pesos al Fondo Milagro para ayudar a afectados por sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/grupo-urbina-dona-20-000-millones-al-fondo-milagro-para-apoyar-a-damnificados-por-el-terremoto-504391",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Grupo Urbina dona $20.000 millones al Fondo Milagro para apoyar a damnificados por el terremoto",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Baja natalidad y mayor expectativa de vida presionan el sistema pensional en el país",
-        "url": "https://www.portafolio.co/economia/menos-nacimientos-y-mayor-longevidad-los-cambios-demograficos-que-ponen-presion-sobre-las-pensiones-en-colombia-504389",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Menos nacimientos y mayor longevidad: los cambios demográficos que ponen presión sobre las pensiones en Colombia",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Colombia gestiona recursos de Suecia para tres iniciativas agrícolas previstas para 2027",
-        "url": "https://www.portafolio.co/economia/agro/colombia-busca-apoyo-de-suecia-para-financiar-tres-proyectos-del-agro-y-ponerlos-en-marcha-en-504387",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Colombia busca apoyo de Suecia para financiar tres proyectos del agro y ponerlos en marcha en 2027",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Protestas del 14 de octubre en Bogotá: Petro confirma su presencia y Fecode convoca en Parque Nacional",
-        "url": "https://www.portafolio.co/economia/regiones/marchas-del-14-de-octubre-en-bogota-petro-anuncia-su-asistencia-y-fecode-cita-en-parque-nacional-504386",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Marchas del 14 de octubre en Bogotá: Petro anuncia su asistencia y Fecode cita en Parque Nacional",
-        "capturado": "2026-10-13T16:44:02-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Colombiana figura en el top 100 de directivos sobresalientes de los Best CEO Awards 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-colombiana-fue-incluida-entre-los-100-ejecutivos-mas-destacados-en-los-best-ceo-awards-504549",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Esta colombiana fue incluida entre los 100 ejecutivos más destacados en los Best CEO Awards 2026",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Programa de Mastercard digitaliza más de 110000 microempresas locales hasta el momento",
+        "url": "https://www.portafolio.co/negocios/empresas/la-iniciativa-de-mastercard-que-ya-ayudo-en-la-digitalizacion-de-mas-de-110-000-pequenas-empresas-en-el-pais-504547",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "La iniciativa de Mastercard que ya ayudó en la digitalización de más de 110.000 pequeñas empresas en el país",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Toque de campana señala el retorno del Grupo Energía Bogotá a la bolsa nacional",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-energia-bogota-coloca-400-000-millones-en-papeles-comerciales-y-activa-programa-de-deuda-504550",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Toque de campana marca el regreso del Grupo Energía Bogotá al mercado de capitales colombiano",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
+      {
+        "titulo": "Inversión extranjera directa nueva a junio: Bogotá-Región abarcó casi el 50 por ciento de los proyectos",
+        "url": "https://www.portafolio.co/negocios/inversion/inversion-extranjera-directa-nueva-a-junio-bogota-region-concentro-casi-la-mitad-de-los-proyectos-504542",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Inversión extranjera directa nueva a junio: Bogotá-Región concentró casi la mitad de los proyectos",
+        "capturado": "2026-10-15T18:37:04-05:00"
+      },
       {
         "titulo": "Firma nacional de mobiliario aumentó 33% en la primera mitad del año superando el promedio del sector",
         "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-marca-colombiana-de-muebles-que-crecio-33-en-el-primer-semestre-por-encima-del-mercado-504536",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "Inversión en Venezuela despierta interés empresarial pese a sanciones Ofac: se buscan oportunidades de negocio",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "D1 entrega nueva ayuda a afectados por sismo mediante plan de asistencia constante",
-        "url": "https://www.portafolio.co/negocios/empresas/d1-hace-un-aporte-adicional-para-victimas-del-terremoto-dentro-de-una-estrategia-de-apoyo-permanente-504293",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "D1 hace un aporte adicional para víctimas del terremoto, dentro de una estrategia de apoyo permanente",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Ocho proyectos comunitarios en La Guajira reciben 3.468 millones de pesos de la Agencia Nacional de Tierras",
-        "url": "https://www.portafolio.co/negocios/empresas/ant-destina-3-468-millones-a-ocho-iniciativas-comunitarias-en-la-guajira-504286",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Agencia Nacional de Tierras destina $3.468 millones a ocho iniciativas comunitarias en La Guajira",
-        "capturado": "2026-10-11T18:03:13-05:00"
-      },
-      {
-        "titulo": "Director de la empresa de fertilizantes Precisagro afirma que hay preparación ante el fenómeno de El Niño",
-        "url": "https://www.portafolio.co/negocios/empresas/estamos-preparados-para-enfrentar-el-fenomeno-de-el-nino-director-de-precisagro-empresa-de-fertilizantes-504283",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "'Estamos preparados para enfrentar el fenómeno de El Niño': director de Precisagro, empresa de fertilizantes",
-        "capturado": "2026-10-11T18:03:13-05:00"
-      },
-      {
-        "titulo": "Bavaria alcanza más del 90 por ciento de la industria de cervezas en Colombia y Central Cervecera compite",
-        "url": "https://www.portafolio.co/negocios/empresas/bavaria-supera-el-90-del-mercado-cervecero-colombiano-y-central-cervecera-busca-ganar-espacio-504278",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-11",
-        "titulo_fuente": "Bavaria supera el 90% del mercado cervecero colombiano y Central Cervecera busca ganar espacio",
-        "capturado": "2026-10-11T14:21:03-05:00"
       }
     ]
   }
