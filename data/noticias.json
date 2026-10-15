@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-14T18:07:21-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-14T20:39:53-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El presupuesto de 2027 sigue en $634,95 billones, pero la ponencia baja el pago de deuda y alza inversión",
+        "url": "https://www.portafolio.co/economia/presupuesto-de-2027-mantiene-634-95-billones-pero-ponencia-reduce-amortizaciones-de-deuda-y-sube-inversion-504477",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Presupuesto de 2027 mantiene $634,95 billones, pero ponencia reduce amortizaciones de deuda y sube inversión",
+        "capturado": "2026-10-14T20:39:53-05:00"
+      },
       {
         "titulo": "FMI pronostica tasa de desocupación de dos dígitos en el país y el Sena ofrece más de 24.000 puestos",
         "url": "https://www.portafolio.co/economia/empleo/fmi-preve-desempleo-de-dos-digitos-en-colombia-el-sena-apuesta-por-mas-de-24-000-vacantes-de-hasta-6-millones-504474",
@@ -593,19 +603,39 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "Gobierno anuncia fondo de $1 billón para reconstruir zonas afectadas por el terremoto",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Fraudes financieros usan cédulas falsas y huellas de silicona para validación",
-        "url": "https://www.portafolio.co/economia/finanzas/cedulas-falsas-y-huellas-de-silicona-desafian-validacion-de-identidad-504307",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Cédulas falsas, huellas digitales de silicona y otras formas de validación fraudulentas en el sistema financiero",
-        "capturado": "2026-10-12T14:56:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "BYD liderará el mercado de Colombia en el plazo de tres años",
+        "url": "https://www.portafolio.co/negocios/vehiculo/en-tres-anos-byd-sera-numero-uno-del-mercado-colombiano-504481",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "En tres años BYD será número uno del mercado colombiano",
+        "capturado": "2026-10-14T20:39:53-05:00"
+      },
+      {
+        "titulo": "GEB lanza emisión para todo inversor y subastará hasta $400.000 millones en papeles",
+        "url": "https://www.portafolio.co/negocios/empresas/geb-emite-deuda-abierta-a-todo-tipo-de-inversionistas-subastara-hasta-400-000-millones-en-papeles-comerciales-504480",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "GEB emite deuda abierta a todo tipo de inversionistas: subastará hasta $400.000 millones en papeles comerciales",
+        "capturado": "2026-10-14T20:39:53-05:00"
+      },
+      {
+        "titulo": "Salida de Movistar de Colombia: este fue el recorrido del operador ibérico",
+        "url": "https://www.portafolio.co/negocios/empresas/movistar-se-apaga-en-colombia-asi-fue-la-historia-del-gigante-espanol-en-el-pais-504478",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Movistar se apaga en Colombia: así fue la historia del gigante español en el país",
+        "capturado": "2026-10-14T20:39:53-05:00"
+      },
       {
         "titulo": "Movistar pasa a ser Tigo y destinará 8,5 billones de pesos en el país",
         "url": "https://www.portafolio.co/negocios/empresas/movistar-se-convierte-en-tigo-que-ahora-invertira-8-5-billones-en-colombia-504475",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-09",
         "titulo_fuente": "RAM Dakota se estrena en Colombia: la nueva pick-up que busca competir en el segmento de la Hilux y la Ranger",
         "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Chubb Seguros Colombia designa a Juan Pablo Saldarriaga como su nuevo presidente",
-        "url": "https://www.portafolio.co/negocios/empresas/juan-pablo-saldarriaga-asume-la-presidencia-de-chubb-seguros-colombia-504181",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Juan Pablo Saldarriaga asume la presidencia de Chubb Seguros Colombia",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "Juliana Medina asume la gerencia del W Bogotá tras 17 años en la hotelería de alto nivel",
-        "url": "https://www.portafolio.co/negocios/empresas/w-bogota-cambia-de-gerente-juliana-medina-llega-con-17-anos-de-experiencia-en-hoteles-de-lujo-504179",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "W Bogotá cambia de gerente: Juliana Medina llega con 17 años de experiencia en hoteles de lujo",
-        "capturado": "2026-10-09T11:27:59-05:00"
-      },
-      {
-        "titulo": "Starbucks evalúa adquirir a Chipotle por US$39.000 millones para la mayor fusión del sector",
-        "url": "https://www.portafolio.co/negocios/empresas/starbucks-estudia-comprar-chipotle-por-us-39-000-millones-seria-la-mayor-fusion-en-la-historia-de-los-restaurantes-504173",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Starbucks estudia comprar Chipotle por US$39.000 millones: sería la mayor fusión en la historia de los restaurantes",
-        "capturado": "2026-10-09T11:27:59-05:00"
       }
     ]
   }
