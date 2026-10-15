@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-15T01:59:42-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-15T07:35:59-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Eje Cafetero apunta al aguacate hass con 45.000 hectáreas aptas para su siembra",
+        "url": "https://www.portafolio.co/economia/agro/el-eje-cafetero-pone-la-mira-en-el-aguacate-hass-hay-hasta-45-000-hectareas-con-potencial-para-el-cultivo-504499",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "El Eje Cafetero pone la mira en el aguacate hass: hay hasta 45.000 hectáreas con potencial para el cultivo",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
+      {
+        "titulo": "Ideam prevé más lluvias hoy en Colombia y un municipio sufre emergencia por inundaciones",
+        "url": "https://www.portafolio.co/economia/regiones/ideam-pronostica-un-aumento-de-lluvias-en-el-pais-para-hoy-en-este-municipio-hay-emergencia-por-inundacion-504496",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Ideam pronostica un aumento de lluvias en el país para hoy: en este municipio hay emergencia por inundación",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
+      {
+        "titulo": "Ajuste fiscal en Invías: asignan 5,8 billones de pesos a vías dañadas para el año 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/saneamiento-fiscal-en-el-invias-ajustan-presupuesto-y-destinan-5-8-billones-a-carreteras-en-mal-estado-para-504495",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Saneamiento fiscal en el Invías: ajustan presupuesto y destinan $5,8 billones a carreteras en mal estado para 2027",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia: así opera la moneda tras una ligera subida",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-tras-un-leve-aumento-504494",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa tras un leve aumento",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
+      {
+        "titulo": "Minhacienda dispone de 30 días para justificar el efecto fiscal de la reforma pensional en la Corte",
+        "url": "https://www.portafolio.co/economia/gobierno/hacienda-tiene-30-dias-para-sustentar-el-impacto-fiscal-de-la-reforma-pensional-ante-la-corte-constitucional-504493",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Hacienda tiene 30 días para sustentar el impacto fiscal de la reforma pensional ante la Corte Constitucional",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
       {
         "titulo": "De La Espriella resalta diálogo con EE. UU. para captar capital y expandir mercados de firmas del país",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-destaca-conversaciones-con-ee-uu-para-atraer-inversion-y-abrir-mercados-a-empresas-colombianas-504491",
@@ -553,59 +603,19 @@
         "publicacion": "2026-10-12",
         "titulo_fuente": "La pobreza aguda mundial aumentó por primera vez desde 2010: 1.200 millones de personas afectadas",
         "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Faltan más de 162.000 carros por entrar a Bogotá y estiman trancones de 5 a 8 p m",
-        "url": "https://www.portafolio.co/economia/regiones/mas-de-162-000-vehiculos-faltan-por-ingresar-a-bogota-preven-congestion-entre-las-5-y-las-8-p-m-504326",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Más de 162.000 vehículos faltan por ingresar a Bogotá: prevén congestión entre las 5 y las 8 p. m.",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "El Monedero: por qué el Banco de la República no logra regular el valor de la comida",
-        "url": "https://www.portafolio.co/economia/finanzas/el-monedero-por-que-el-banco-de-la-republica-no-puede-controlar-el-precio-de-los-alimentos-504325",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "El Monedero: ¿por qué el Banco de la República no puede controlar el precio de los alimentos?",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Meta encabezó los aportes hechos por el fondo fiduciario de Trump en agosto",
-        "url": "https://www.portafolio.co/economia/finanzas/meta-lidero-las-inversiones-realizadas-por-el-fideicomiso-de-trump-en-agosto-504316",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Meta lideró las inversiones realizadas por el fideicomiso de Trump en agosto",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Crece rechazo por comentarios de Matador contra Ana Lucía Pineda y se unen gremios",
-        "url": "https://www.portafolio.co/economia/gobierno/ola-de-rechazo-e-indignacion-crece-por-mensajes-de-matador-contra-ana-lucia-pineda-se-suman-gremios-y-mandatarios-504315",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Ola de rechazo e indignación crece por mensajes de Matador contra Ana Lucía Pineda: se suman gremios y mandatarios",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Feria de empleo ofrece vacantes para personas mayores de 50 años",
-        "url": "https://www.portafolio.co/economia/empleo/atencion-megaferia-de-empleo-les-abre-oportunidades-laborales-a-mayores-de-50-anos-504312",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Atención: Megaferia de empleo les abre oportunidades laborales a mayores de 50 años",
-        "capturado": "2026-10-12T14:56:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ingresos de equipos del balompié nacional subieron 16,6 % en 2025: activos sumaron $925.000 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/clubes-del-futbol-colombiano-aumentaron-sus-ingresos-16-6-en-2025-activos-llegaron-a-925-000-millones-504498",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Clubes del fútbol colombiano aumentaron sus ingresos 16,6 % en 2025: activos llegaron a $925.000 millones",
+        "capturado": "2026-10-15T07:35:59-05:00"
+      },
       {
         "titulo": "Gilinski afianza el dominio de Nutresa mediante pacto de firmas que agrupan el 76,71% de los títulos",
         "url": "https://www.portafolio.co/negocios/empresas/gilinski-consolida-el-control-de-nutresa-con-acuerdo-entre-sociedades-que-reunen-el-76-71-de-las-acciones-504492",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-09",
         "titulo_fuente": "Jungle Labs lanza una línea de suplementos que combina investigación científica e inteligencia artificial",
-        "capturado": "2026-10-09T16:09:15-05:00"
-      },
-      {
-        "titulo": "OP Gold Capital suscribe dos contratos de exploración de cobre tras fallo de la ANM",
-        "url": "https://www.portafolio.co/negocios/empresas/op-gold-capital-firma-dos-contratos-para-explorar-cobre-en-colombia-tras-adjudicacion-de-la-anm-504190",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "OP Gold Capital firma dos contratos para explorar cobre en Colombia tras adjudicación de la ANM",
         "capturado": "2026-10-09T16:09:15-05:00"
       }
     ]
