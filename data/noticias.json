@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-16T15:32:41-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-16T18:15:36-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "A agosto, el sector financiero de Colombia avanza 3,9% y conserva firmes índices de solvencia y liquidez",
+        "url": "https://www.portafolio.co/economia/finanzas/el-sistema-financiero-colombiano-crece-3-9-a-agosto-y-mantiene-solidos-niveles-de-liquidez-y-solvencia-504615",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "El sistema financiero colombiano crece 3,9% a agosto y mantiene sólidos niveles de liquidez y solvencia",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "Cae 11,8% el ingreso real hotelero en agosto en medio de una crisis que reduce personal y alza salarios",
+        "url": "https://www.portafolio.co/economia/la-crisis-hotelera-se-acelera-ingresos-reales-bajan-11-8-en-agosto-mientras-recortan-personal-y-suben-salarios-504612",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "La crisis hotelera se acelera: ingresos reales bajan 11,8% en agosto, mientras recortan personal y suben salarios",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "Ana Lucía Pineda, primera dama, entregó reporte financiero de su fundación por más de $50 mil millones",
+        "url": "https://www.portafolio.co/economia/regiones/primera-dama-ana-lucia-pineda-presento-informe-con-las-cuentas-de-su-fundacion-recibio-mas-de-50-mil-millones-504610",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Primera dama Ana Lucía Pineda presentó informe con las cuentas de su fundación: recibió más de $50 mil millones",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "Detalles de operación, costos y usuarios del nuevo campo de golf Inter Rapidísimo La Florida",
+        "url": "https://www.portafolio.co/economia/asi-funcionara-el-nuevo-campo-de-golf-inter-rapidisimo-la-florida-quien-lo-administra-quien-lo-paga-y-quien-juega-504609",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Así funcionará el nuevo campo de golf Inter Rapidísimo La Florida: quién lo administra, quién lo paga y quién juega",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "Policía da fin a la Undmo, funda la Unidad Nacional Antidisturbios y prevé 90 días de transformación",
+        "url": "https://www.portafolio.co/economia/gobierno/adios-a-la-undmo-policia-crea-unidad-nacional-antidisturbios-y-anuncia-90-dias-de-cambios-504607",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Adiós a la Undmo: Policía crea Unidad Nacional Antidisturbios y anuncia 90 días de cambios",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
       {
         "titulo": "Ideam advierte que persistirán precipitaciones este fin de semana en Colombia e indica las regiones",
         "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-seguiran-en-colombia-este-fin-de-semana-ideam-senala-las-zonas-donde-mas-llovera-504603",
@@ -553,59 +603,39 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "El Acuario de San Andrés, sin puente y con casetas demolidas: la otra cara del paraíso del que dependen familias",
         "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Sencia habló sobre el mal estado de la cancha de El Campín: los partidos son una prioridad",
-        "url": "https://www.portafolio.co/economia/regiones/sencia-se-pronuncio-tras-mal-estado-de-la-gramilla-de-el-campin-los-partidos-de-futbol-son-una-prioridad-504421",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Sencia se pronunció tras mal estado de la gramilla de El Campín: 'los partidos de fútbol son una prioridad'",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Nueva misión del FMI en Colombia seguirá charlas macroeconómicas y posibles ayudas",
-        "url": "https://www.portafolio.co/economia/nueva-mision-del-fmi-a-colombia-continuara-el-dialogo-sobre-la-macroeconomia-y-posibles-mecanismos-de-apoyo-504447",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Nueva misión del FMI a Colombia continuará el diálogo sobre la macroeconomía y posibles mecanismos de apoyo",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Compañías de seguros han desembolsado $786.543 millones por movimiento telúrico y agilizan pagos en el país",
-        "url": "https://www.portafolio.co/economia/finanzas/aseguradoras-ya-pagaron-786-543-millones-por-terremoto-y-aceleran-indemnizaciones-en-colombia-504446",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Aseguradoras ya pagaron $786.543 millones por terremoto y aceleran indemnizaciones en Colombia",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Verónica Alcocer pide a la Fiscalía información sobre presunta nueva investigación por declaraciones de Eva Ferrer",
-        "url": "https://www.portafolio.co/economia/gobierno/veronica-alcocer-solicita-a-la-fiscalia-detalles-de-posible-nueva-indagacion-por-dichos-de-eva-ferrer-504443",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Verónica Alcocer solicita a la Fiscalía detalles de posible nueva indagación por dichos de Eva Ferrer",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Departamento del Tesoro de Estados Unidos se manifiesta tras recientes acusaciones de Eva Ferrer contra Verónica Alcocer",
-        "url": "https://www.portafolio.co/economia/gobierno/departamento-del-tesoro-de-ee-uu-se-pronuncia-tras-nuevas-denuncias-de-eva-ferrer-a-veronica-alcocer-504441",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Departamento del Tesoro de EE. UU. se pronuncia tras nuevas denuncias de Eva Ferrer a Verónica Alcocer",
-        "capturado": "2026-10-14T10:54:07-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Estrategias gubernamentales para impulsar la inversión y el empleo mediante el intercambio comercial colombo-venezolano",
+        "url": "https://www.portafolio.co/negocios/comercio/comercio-entre-colombia-y-venezuela-los-planes-del-gobierno-para-atraer-inversiones-y-generar-empleo-504616",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Comercio entre Colombia y Venezuela: los planes del Gobierno para atraer inversiones y generar empleo",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "El proceso de liquidación de Presto en Bogotá y su intento por impedir el cierre de los restaurantes",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-historia-de-presto-la-cadena-bogotana-que-entro-en-liquidacion-y-busca-evitar-el-cierre-de-sus-locales-504614",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Esta es la historia de Presto, la cadena bogotana que entró en liquidación y busca evitar el cierre de sus locales",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
+      {
+        "titulo": "Adquisición de 45 camiones Mercedes-Benz en Bogotá para la recolección de residuos y sus innovaciones tecnológicas",
+        "url": "https://www.portafolio.co/negocios/vehiculo/bogota-suma-45-nuevos-camiones-mercedes-benz-para-el-servicio-de-recoleccion-de-basuras-que-tecnologia-traen-504606",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Bogotá suma 45 nuevos camiones Mercedes-Benz para el servicio de recolección de basuras: ¿qué tecnología traen?",
+        "capturado": "2026-10-16T18:15:36-05:00"
+      },
       {
         "titulo": "Ordenan liquidación judicial de Presto, tradicional marca de comida rápida que se va de Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/otra-de-las-cadenas-iconicas-de-comida-se-despide-del-pais-ordenan-liquidacion-judicial-de-presto-504596",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-13",
         "titulo_fuente": "Fruco, Knorr, Maizena y otras marcas de Unilever pasarán al negocio de McCormick con su integración",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Calzado, flores y ropa: bienes colombianos que se librarían del arancel del 12,5% de Donald Trump",
-        "url": "https://www.portafolio.co/negocios/comercio/flores-ropa-y-calzado-productos-de-colombia-que-podrian-quedar-sin-el-arancel-de-donald-trump-del-12-504393",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Flores, ropa y calzado: productos de Colombia que podrían quedar sin el arancel de Donald Trump del 12,5%",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Mineros incrementó un 14 % su producción aurífera en el tercer trimestre y modificó metas de 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/mineros-elevo-su-produccion-de-oro-un-14-en-el-tercer-trimestre-y-ajusto-sus-metas-para-504384",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Mineros elevó su producción de oro un 14 % en el tercer trimestre y ajustó sus metas para 2026",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "La estrategia de ocio de Tintal Plaza busca finalizar 2026 alcanzando 12,5 millones de visitantes",
-        "url": "https://www.portafolio.co/negocios/comercio/esta-es-la-apuesta-de-tintal-plaza-por-el-entretenimiento-le-apunta-a-cerrar-2026-con-12-5-millones-de-visitantes-504375",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Esta es la apuesta de Tintal Plaza por el entretenimiento; le apunta a cerrar 2026 con 12,5 millones de visitantes",
         "capturado": "2026-10-13T16:44:02-05:00"
       }
     ]
