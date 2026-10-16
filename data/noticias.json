@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-16T03:24:21-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T08:25:37-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Federación de Cafeteros alista su incursión hotelera para 2027 pasando del café al sector turismo",
+        "url": "https://www.portafolio.co/economia/agro/del-cafe-al-turismo-federacion-de-cafeteros-prepara-su-entrada-al-negocio-hotelero-con-apertura-prevista-para-504570",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Del café al turismo: Federación de Cafeteros prepara su entrada al negocio hotelero con apertura prevista para 2027",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia: así se negocia la moneda este 16 de octubre tras ceder casi $20",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-16-de-octubre-tras-perder-casi-504569",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa este 16 de octubre tras perder casi $20",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
+      {
+        "titulo": "El caucho pretende ganar terreno en calzado y reactivar puestos de trabajo en la industria local",
+        "url": "https://www.portafolio.co/economia/agro/del-campo-a-las-fabricas-el-caucho-busca-abrirse-paso-en-las-suelas-y-recuperar-empleos-en-la-industria-nacional-504568",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Del campo a las fábricas: el caucho busca abrirse paso en las suelas y recuperar empleos en la industria nacional",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
+      {
+        "titulo": "De La Espriella encabeza la imagen positiva de políticos colombianos, seguido por Restrepo y Petro",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-es-el-politico-colombiano-con-mejor-imagen-positiva-le-siguen-jose-manuel-restrepo-y-gustavo-petro-504566",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "De La Espriella es el político colombiano con mejor imagen positiva: le siguen José Manuel Restrepo y Gustavo Petro",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
+      {
+        "titulo": "FMI enciende alertas sobre pasivos y déficit fiscal del país calificándolos de insostenibles e inviables",
+        "url": "https://www.portafolio.co/economia/gobierno/no-es-sostenible-ni-viable-fmi-prende-las-alarmas-por-la-deuda-y-el-deficit-fiscal-de-colombia-504564",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "'No es sostenible ni viable': FMI prende las alarmas por la deuda y el déficit fiscal de Colombia",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
       {
         "titulo": "De La Espriella ordena recortar contratos de prestación de servicios y frena ingreso de personal",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-ordena-reducir-contratos-por-prestacion-de-servicios-y-limita-vinculacion-de-nuevos-funcionarios-504556",
@@ -553,59 +603,29 @@
         "publicacion": "2026-10-13",
         "titulo_fuente": "Marchas este 14 de octubre en Bogotá: puntos de reunión, horarios y preparativos del Gobierno nacional y distrital",
         "capturado": "2026-10-14T00:50:42-05:00"
-      },
-      {
-        "titulo": "Minvivienda intensifica la vigilancia a obras hídricas en La Guajira: cómo vigilará los proyectos",
-        "url": "https://www.portafolio.co/economia/regiones/minvivienda-refuerza-el-control-a-los-proyectos-de-agua-en-la-guajira-asi-hara-seguimiento-a-las-obras-504412",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Minvivienda refuerza el control a los proyectos de agua en La Guajira: así hará seguimiento a las obras",
-        "capturado": "2026-10-14T00:50:42-05:00"
-      },
-      {
-        "titulo": "Medidas del nuevo decreto de De La Espriella para las protestas del 14 de octubre",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-estrenara-lineamientos-para-las-marchas-de-este-14-de-octubre-las-medidas-del-nuevo-decreto-504411",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "De La Espriella 'estrenará' lineamientos para las marchas de este 14 de octubre: las medidas del nuevo decreto",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "Gobierno levanta veto a venta de carbón a Israel tras caída de más de US$140 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/tras-contraccion-de-mas-de-us-140-millones-el-gobierno-tumba-la-prohibicion-de-exportacion-de-carbon-a-israel-504410",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Tras contracción de más de US$140 millones, el Gobierno tumba la prohibición de exportación de carbón a Israel",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "Asobancaria apoya eventual límite en efectivo para autos o bienes del Estatuto Antiterrorista",
-        "url": "https://www.portafolio.co/economia/gobierno/asobancaria-respalda-posible-restriccion-a-la-compra-con-efectivo-de-carros-o-inmuebles-del-estatuto-antiterrorista-504409",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Asobancaria respalda posible restricción a la compra con efectivo de carros o inmuebles del Estatuto Antiterrorista",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "Ganadería regenerativa en Colombia cumple dos décadas: desafíos actuales del sistema",
-        "url": "https://www.portafolio.co/economia/agro/colombia-lleva-20-anos-apostando-a-la-ganaderia-regenerativa-por-que-el-modelo-aun-tiene-retos-504406",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Colombia lleva 20 años apostando a la ganadería regenerativa: ¿por qué el modelo aún tiene retos?",
-        "capturado": "2026-10-13T19:53:05-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Sencia dialoga sobre reubicar o postergar el evento musical de Fonseca programado en El Campín",
+        "url": "https://www.portafolio.co/negocios/empresas/sencia-negocia-traslado-o-aplazamiento-del-concierto-de-fonseca-previsto-en-el-estadio-el-campin-de-bogota-504573",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Sencia negocia traslado o aplazamiento del concierto de Fonseca previsto en el estadio El Campín de Bogotá",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
+      {
+        "titulo": "Connacional implementa inteligencia artificial en tractocamiones para bajar accidentes hasta el 70 por ciento",
+        "url": "https://www.portafolio.co/negocios/empresas/colombiano-lleva-inteligencia-artificial-a-la-cabina-de-camiones-para-reducir-la-siniestralidad-vial-hasta-504567",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Colombiano lleva inteligencia artificial a la cabina de camiones para reducir la siniestralidad vial hasta 70%",
+        "capturado": "2026-10-16T08:25:37-05:00"
+      },
       {
         "titulo": "GeoPark sube su producción un 2,6% y progresa en su llegada a Venezuela estos son sus planes",
         "url": "https://www.portafolio.co/negocios/empresas/geopark-aumenta-su-produccion-2-6-y-avanza-en-su-entrada-a-venezuela-estos-son-sus-planes-504558",
@@ -1184,26 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-10-12",
         "titulo_fuente": "Cuba abre más espacio a la inversión petrolera para enfrentar su crisis energética",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "El peso oculto tras cerca de 39 millones de historias clínicas en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/la-carga-invisible-detras-de-casi-39-millones-de-registros-medicos-en-colombia-504314",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "La carga invisible detrás de casi 39 millones de registros médicos en Colombia",
-        "capturado": "2026-10-12T14:56:17-05:00"
-      },
-      {
-        "titulo": "Más de 183.000 viajeros volarían este lunes festivo en territorio nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/mas-de-183-000-pasajeros-se-movilizarian-por-via-aerea-este-lunes-festivo-en-colombia-504303",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Más de 183.000 pasajeros se movilizarían por vía aérea este lunes festivo en Colombia",
         "capturado": "2026-10-12T14:56:17-05:00"
       }
     ]
