@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-16T12:36:55-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-16T15:32:41-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ideam advierte que persistirán precipitaciones este fin de semana en Colombia e indica las regiones",
+        "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-seguiran-en-colombia-este-fin-de-semana-ideam-senala-las-zonas-donde-mas-llovera-504603",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Fuertes lluvias seguirán en Colombia este fin de semana: Ideam señala las zonas donde más lloverá",
+        "capturado": "2026-10-16T15:32:41-05:00"
+      },
+      {
+        "titulo": "Operación cambió tras retiro de pagos en efectivo de la Tasa de Uso en la Terminal de Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/terminal-de-bogota-elimino-el-efectivo-para-pagar-la-tasa-de-uso-asi-cambio-toda-la-operacion-504601",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Terminal de Bogotá eliminó el efectivo para pagar la Tasa de Uso: así cambió toda la operación",
+        "capturado": "2026-10-16T15:32:41-05:00"
+      },
+      {
+        "titulo": "Fiscalía imputa al exgobernador de San Andrés por posible peculado de 4.330 millones en Haynes Cay",
+        "url": "https://www.portafolio.co/economia/regiones/fiscalia-acusa-al-exgobernador-de-san-andres-por-presunto-peculado-de-4-330-millones-en-obra-de-haynes-cay-504582",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Fiscalía acusa al exgobernador de San Andrés por presunto peculado de $4.330 millones en obra de Haynes Cay",
+        "capturado": "2026-10-16T15:32:41-05:00"
+      },
       {
         "titulo": "Cotización del euro en Colombia hoy: la divisa europea baja de nuevo",
         "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-se-cotiza-la-moneda-europea-tras-registrar-una-nueva-caida-504588",
@@ -573,39 +603,19 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Departamento del Tesoro de EE. UU. se pronuncia tras nuevas denuncias de Eva Ferrer a Verónica Alcocer",
         "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Desempleo en Colombia alcanzaría el 10 % en 2027, a pesar de ligera recuperación económica, de acuerdo con FMI",
-        "url": "https://www.portafolio.co/economia/gobierno/desempleo-en-colombia-llegaria-al-10-en-2027-pese-a-leve-recuperacion-economica-segun-fmi-504440",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Desempleo en Colombia llegaría al 10 % en 2027, pese a leve recuperación económica, según FMI",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Con múltiples modificaciones arribó el proyecto de Presupuesto para 2027 al segundo debate en el Congreso",
-        "url": "https://www.portafolio.co/economia/crecimiento/con-varios-cambios-llego-el-proyecto-de-presupuesto-para-2027-al-segundo-debate-en-el-legislativo-504431",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Con varios cambios llegó el proyecto de Presupuesto para 2027 al segundo debate en el Legislativo",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Educación acumula $13,1 billones en vigencias futuras sin respaldo fiscal, muestra informe de transición",
-        "url": "https://www.portafolio.co/economia/gobierno/educacion-arrastra-13-1-billones-en-vigencias-futuras-sin-respaldo-fiscal-revela-el-diagnostico-de-empalme-504425",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Educación arrastra $13,1 billones en vigencias futuras sin respaldo fiscal, revela el diagnóstico de empalme",
-        "capturado": "2026-10-14T10:54:07-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ordenan liquidación judicial de Presto, tradicional marca de comida rápida que se va de Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/otra-de-las-cadenas-iconicas-de-comida-se-despide-del-pais-ordenan-liquidacion-judicial-de-presto-504596",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Presto, otra de las cadenas icónicas de comida rápida se despide del país: ordenan liquidación judicial",
+        "capturado": "2026-10-16T15:32:41-05:00"
+      },
       {
         "titulo": "Ordenan la liquidación judicial de Presto y otra tradicional cadena de comidas saldría de Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/otra-de-las-cadenas-iconicas-de-comida-se-despediria-del-pais-ordenan-liquidacion-judicial-de-presto-504596",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-10-13",
         "titulo_fuente": "Esta es la apuesta de Tintal Plaza por el entretenimiento; le apunta a cerrar 2026 con 12,5 millones de visitantes",
         "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Netflix adquiere los derechos del Mundial 2030 en España y llega al fútbol",
-        "url": "https://www.portafolio.co/negocios/empresas/netflix-entra-al-negocio-del-futbol-y-se-queda-con-los-derechos-del-mundial-2030-en-espana-504368",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Netflix entra al negocio del fútbol y se queda con los derechos del Mundial 2030 en España",
-        "capturado": "2026-10-13T11:52:42-05:00"
       }
     ]
   }
