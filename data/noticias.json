@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-17T08:51:14-05:00",
+  "actualizado": "2026-10-17T11:50:58-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alerta por fraude en Colombia: identifican 1.500 intentos mensuales de firma con cédulas de difuntos",
+        "url": "https://www.portafolio.co/economia/gobierno/cedulas-de-fallecidos-aparecen-en-1-500-intentos-de-firma-al-mes-alerta-por-fraude-en-colombia-504635",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Cédulas de fallecidos aparecen en 1.500 intentos de firma al mes: alerta por fraude en Colombia",
+        "capturado": "2026-10-17T11:50:58-05:00"
+      },
       {
         "titulo": "Precio del dólar en Colombia cayó esta semana tras perder más de $40",
         "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-se-desplomo-esta-semana-asi-quedo-su-precio-tras-perder-mas-de-504626",
@@ -593,19 +603,29 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "FMI prevé desempleo de dos dígitos en Colombia: el Sena apuesta por más de 24.000 vacantes de hasta $6 millones",
         "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Dólar bajó 16,2% y Anif percibe indicios de mejora en artículos afectados por la tasa de cambio",
-        "url": "https://www.portafolio.co/economia/crecimiento/peso-colombiano-se-aprecio-16-2-y-anif-ve-primeras-senales-de-alivio-en-bienes-sensibles-al-dolar-504473",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Peso colombiano se apreció 16,2% y Anif ve primeras señales de alivio en bienes sensibles al dólar",
-        "capturado": "2026-10-14T18:07:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Allianz Colombia entregará el 10% de lo recaudado en su carrera 15K a los afectados por el sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/allianz-colombia-donara-el-10-de-los-ingresos-de-su-carrera-15k-para-apoyar-a-damnificados-del-terremoto-504634",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Allianz Colombia donará el 10% de los ingresos de su carrera 15K para apoyar a damnificados del terremoto",
+        "capturado": "2026-10-17T11:50:58-05:00"
+      },
+      {
+        "titulo": "Empresarios alertan sobre crisis industrial en el país: fabricación y ventas ligan dos meses a la baja",
+        "url": "https://www.portafolio.co/negocios/empresas/empresarios-advierten-por-la-crisis-industrial-en-colombia-produccion-y-ventas-completan-dos-meses-de-caidas-504630",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Empresarios advierten por la crisis industrial en Colombia: producción y ventas completan dos meses de caídas",
+        "capturado": "2026-10-17T11:50:58-05:00"
+      },
       {
         "titulo": "El pasado del Tesla Roadster 2008: precursor del nuevo carro volador que incumplió sus promesas",
         "url": "https://www.portafolio.co/negocios/vehiculo/la-historia-del-tesla-roadster-del-2008-el-antecesor-del-nuevo-carro-volador-que-no-pudo-cumplir-lo-que-prometio-504623",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-13",
         "titulo_fuente": "El nuevo presidente de Analdex espera que Estados Unidos levante el arancel a Colombia en los próximos días",
         "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "Desde noviembre Davivienda sumará a DAVIbank, antes Scotiabank Colpatria, con activos mayores a $38,3 billones",
-        "url": "https://www.portafolio.co/negocios/empresas/davivienda-integrara-a-davibank-antes-scotiabank-colpatria-desde-noviembre-activos-superan-38-3-billones-504404",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Davivienda integrará a DAVIbank, antes Scotiabank Colpatria, desde noviembre: activos superan $38,3 billones",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "Summit Protección 2026: inteligencia artificial, riqueza, productividad y decisiones futuras",
-        "url": "https://www.portafolio.co/negocios/empresas/summit-proteccion-2026-ia-productividad-riqueza-y-decisiones-de-futuro-504400",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Summit Protección 2026: IA, productividad, riqueza y decisiones de futuro",
-        "capturado": "2026-10-13T16:44:02-05:00"
       }
     ]
   }
