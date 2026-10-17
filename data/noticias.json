@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-17T16:35:55-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-17T18:45:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El pago salarial y el cálculo de recargos empresariales se ponen a prueba con la jornada laboral de 42 horas",
+        "url": "https://www.portafolio.co/economia/empleo/jornada-laboral-de-42-horas-pone-a-prueba-la-liquidacion-de-nomina-y-el-calculo-de-recargos-en-las-empresas-504649",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Jornada laboral de 42 horas pone a prueba la liquidación de nómina y el cálculo de recargos en las empresas",
+        "capturado": "2026-10-17T18:45:19-05:00"
+      },
       {
         "titulo": "Alertas y datos preocupantes que el FMI entregó a Colombia en estos días",
         "url": "https://www.portafolio.co/economia/gobierno/estas-fueron-las-alertas-economicas-que-el-fmi-dejo-a-colombia-esta-semana-y-las-cifras-que-preocupan-504646",
@@ -592,16 +602,6 @@
         "subseccion": "Regiones",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Ideam pronostica un aumento de lluvias en el país para hoy: en este municipio hay emergencia por inundación",
-        "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "Ajuste fiscal en Invías: asignan 5,8 billones de pesos a vías dañadas para el año 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/saneamiento-fiscal-en-el-invias-ajustan-presupuesto-y-destinan-5-8-billones-a-carreteras-en-mal-estado-para-504495",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Saneamiento fiscal en el Invías: ajustan presupuesto y destinan $5,8 billones a carreteras en mal estado para 2027",
         "capturado": "2026-10-15T07:35:59-05:00"
       }
     ],
