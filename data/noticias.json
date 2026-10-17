@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-17T11:50:58-05:00",
+  "actualizado": "2026-10-17T14:01:52-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Nuevos retos para la seguridad laboral en Colombia por causa del estrés térmico y la salud mental",
+        "url": "https://www.portafolio.co/economia/empleo/estres-termico-y-salud-mental-plantean-nuevos-desafios-para-la-seguridad-de-los-trabajadores-en-colombia-504638",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Estrés térmico y salud mental plantean nuevos desafíos para la seguridad de los trabajadores en Colombia",
+        "capturado": "2026-10-17T14:01:52-05:00"
+      },
+      {
+        "titulo": "La remuneración básica de 2027 retará a una CUT fraccionada tras escoger a su nuevo líder",
+        "url": "https://www.portafolio.co/economia/gobierno/el-salario-minimo-de-2027-pondra-a-prueba-a-una-cut-dividida-tras-la-eleccion-de-su-nuevo-presidente-504639",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "El salario mínimo de 2027 pondrá a prueba a una CUT dividida tras la elección de su nuevo presidente",
+        "capturado": "2026-10-17T14:01:52-05:00"
+      },
+      {
+        "titulo": "La Nueva Calle 13 pasa del 50 por ciento de ejecución: así operarán los puentes de Puente Aranda en Bogotá",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-nueva-calle-13-supera-el-50-de-avance-asi-estaran-listos-los-puentes-de-puente-aranda-en-bogota-504637",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "La Nueva Calle 13 supera el 50% de avance: así estarán listos los puentes de Puente Aranda en Bogotá",
+        "capturado": "2026-10-17T14:01:52-05:00"
+      },
       {
         "titulo": "Alerta por fraude en Colombia: identifican 1.500 intentos mensuales de firma con cédulas de difuntos",
         "url": "https://www.portafolio.co/economia/gobierno/cedulas-de-fallecidos-aparecen-en-1-500-intentos-de-firma-al-mes-alerta-por-fraude-en-colombia-504635",
@@ -573,36 +603,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "De La Espriella destaca conversaciones con EE. UU. para atraer inversión y abrir mercados a empresas colombianas",
         "capturado": "2026-10-15T01:59:42-05:00"
-      },
-      {
-        "titulo": "Gobierno prepara en Bucaramanga anuncios del Icetex sobre nuevos horizontes y programas hacia 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/icetex-alista-nuevas-oportunidades-para-2027-el-anuncio-que-hara-el-gobierno-en-bucaramanga-504490",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Icetex alista nuevas oportunidades para 2027: el anuncio que hará el Gobierno en Bucaramanga",
-        "capturado": "2026-10-15T01:59:42-05:00"
-      },
-      {
-        "titulo": "El presupuesto de 2027 sigue en $634,95 billones, pero la ponencia baja el pago de deuda y alza inversión",
-        "url": "https://www.portafolio.co/economia/presupuesto-de-2027-mantiene-634-95-billones-pero-ponencia-reduce-amortizaciones-de-deuda-y-sube-inversion-504477",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Presupuesto de 2027 mantiene $634,95 billones, pero ponencia reduce amortizaciones de deuda y sube inversión",
-        "capturado": "2026-10-14T20:39:53-05:00"
-      },
-      {
-        "titulo": "FMI pronostica tasa de desocupación de dos dígitos en el país y el Sena ofrece más de 24.000 puestos",
-        "url": "https://www.portafolio.co/economia/empleo/fmi-preve-desempleo-de-dos-digitos-en-colombia-el-sena-apuesta-por-mas-de-24-000-vacantes-de-hasta-6-millones-504474",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "FMI prevé desempleo de dos dígitos en Colombia: el Sena apuesta por más de 24.000 vacantes de hasta $6 millones",
-        "capturado": "2026-10-14T18:07:21-05:00"
       }
     ],
     "Negocios": [
