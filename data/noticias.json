@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-17T14:01:52-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-17T16:35:55-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alertas y datos preocupantes que el FMI entregó a Colombia en estos días",
+        "url": "https://www.portafolio.co/economia/gobierno/estas-fueron-las-alertas-economicas-que-el-fmi-dejo-a-colombia-esta-semana-y-las-cifras-que-preocupan-504646",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Estas fueron las alertas económicas que el FMI dejó a Colombia esta semana y las cifras que preocupan",
+        "capturado": "2026-10-17T16:35:55-05:00"
+      },
+      {
+        "titulo": "El déficit fiscal en Colombia encarece créditos y eleva el costo de vida",
+        "url": "https://www.portafolio.co/economia/finanzas/deficit-fiscal-en-colombia-le-toca-el-bolsillo-asi-se-encarecen-los-creditos-y-sube-el-costo-de-vida-504643",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Déficit fiscal en Colombia le toca el bolsillo: así se encarecen los créditos y sube el costo de vida",
+        "capturado": "2026-10-17T16:35:55-05:00"
+      },
+      {
+        "titulo": "Vicepresidente detalla las condiciones para acceder a quince mil becas de Google y el Gobierno",
+        "url": "https://www.portafolio.co/economia/gobierno/paso-a-paso-para-postular-a-las-15-000-becas-que-el-gobierno-de-de-la-espriella-habilito-junto-a-google-504644",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Vicepresidente repasa los requisitos para postularse a las 15.000 becas que Google y el Gobierno habilitaron",
+        "capturado": "2026-10-17T16:35:55-05:00"
+      },
       {
         "titulo": "Nuevos retos para la seguridad laboral en Colombia por causa del estrés térmico y la salud mental",
         "url": "https://www.portafolio.co/economia/empleo/estres-termico-y-salud-mental-plantean-nuevos-desafios-para-la-seguridad-de-los-trabajadores-en-colombia-504638",
@@ -573,39 +603,19 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Saneamiento fiscal en el Invías: ajustan presupuesto y destinan $5,8 billones a carreteras en mal estado para 2027",
         "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia: así opera la moneda tras una ligera subida",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-tras-un-leve-aumento-504494",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa tras un leve aumento",
-        "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "Minhacienda dispone de 30 días para justificar el efecto fiscal de la reforma pensional en la Corte",
-        "url": "https://www.portafolio.co/economia/gobierno/hacienda-tiene-30-dias-para-sustentar-el-impacto-fiscal-de-la-reforma-pensional-ante-la-corte-constitucional-504493",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Hacienda tiene 30 días para sustentar el impacto fiscal de la reforma pensional ante la Corte Constitucional",
-        "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "De La Espriella resalta diálogo con EE. UU. para captar capital y expandir mercados de firmas del país",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-destaca-conversaciones-con-ee-uu-para-atraer-inversion-y-abrir-mercados-a-empresas-colombianas-504491",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "De La Espriella destaca conversaciones con EE. UU. para atraer inversión y abrir mercados a empresas colombianas",
-        "capturado": "2026-10-15T01:59:42-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El 28% de las compras externas de Colombia provienen de China y Arturo Calle debatió sobre Shein y Temu en el Congreso",
+        "url": "https://www.portafolio.co/negocios/comercio/china-ya-concentra-el-28-de-las-importaciones-de-colombia-el-debate-por-shein-y-temu-llega-al-congreso-504641",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "China ya concentra el 28% de importaciones de Colombia: Arturo Calle llevó debate por Shein y Temu al Congreso",
+        "capturado": "2026-10-17T16:35:55-05:00"
+      },
       {
         "titulo": "Allianz Colombia entregará el 10% de lo recaudado en su carrera 15K a los afectados por el sismo",
         "url": "https://www.portafolio.co/negocios/empresas/allianz-colombia-donara-el-10-de-los-ingresos-de-su-carrera-15k-para-apoyar-a-damnificados-del-terremoto-504634",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-13",
         "titulo_fuente": "WPP Media apuesta por la inteligencia artificial para transformar el negocio publicitario",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "El nuevo líder de Analdex confía en que EE. UU. quite el arancel a Colombia pronto",
-        "url": "https://www.portafolio.co/negocios/comercio/el-nuevo-presidente-de-analdex-espera-que-estados-unidos-levante-el-arancel-a-colombia-en-los-proximos-dias-504403",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "El nuevo presidente de Analdex espera que Estados Unidos levante el arancel a Colombia en los próximos días",
         "capturado": "2026-10-13T19:53:05-05:00"
       }
     ]
