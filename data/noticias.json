@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-16T18:15:36-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-16T20:24:47-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ocho decretos laborales van a revisión: Gobierno busca corregir sanciones y reglas cuestionadas ante la justicia",
+        "url": "https://www.portafolio.co/economia/empleo/ocho-decretos-laborales-van-a-revision-gobierno-busca-corregir-sanciones-y-reglas-cuestionadas-ante-la-justicia-504619",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Ocho decretos laborales van a revisión: Gobierno busca corregir sanciones y reglas cuestionadas ante la justicia",
+        "capturado": "2026-10-16T20:24:47-05:00"
+      },
+      {
+        "titulo": "En el primer mes completo de Gobierno ya llegó más inversión extranjera directa total y a petróleo y minería",
+        "url": "https://www.portafolio.co/economia/gobierno/en-el-primer-mes-completo-de-gobierno-ya-llego-mas-inversion-extranjera-directa-total-y-a-petroleo-y-mineria-504620",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "En el primer mes completo de Gobierno ya llegó más inversión extranjera directa total y a petróleo y minería",
+        "capturado": "2026-10-16T20:24:47-05:00"
+      },
+      {
+        "titulo": "La CUT eligió nuevo presidente y ratificó su oposición al gobierno de Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/la-cut-eligio-nuevo-presidente-y-ratifico-su-oposicion-al-gobierno-de-abelardo-de-la-espriella-504618",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "La CUT eligió nuevo presidente y ratificó su oposición al gobierno de Abelardo De La Espriella",
+        "capturado": "2026-10-16T20:24:47-05:00"
+      },
+      {
+        "titulo": "Se oficializa nombramiento de Cristina Lombana como secretaria de Transparencia del Dapre: su perfil y sus retos",
+        "url": "https://www.portafolio.co/economia/gobierno/se-oficializa-nombramiento-de-cristina-lombana-como-secretaria-de-transparencia-del-dapre-su-perfil-y-sus-retos-504617",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-16",
+        "titulo_fuente": "Se oficializa nombramiento de Cristina Lombana como secretaria de Transparencia del Dapre: su perfil y sus retos",
+        "capturado": "2026-10-16T20:24:47-05:00"
+      },
       {
         "titulo": "A agosto, el sector financiero de Colombia avanza 3,9% y conserva firmes índices de solvencia y liquidez",
         "url": "https://www.portafolio.co/economia/finanzas/el-sistema-financiero-colombiano-crece-3-9-a-agosto-y-mantiene-solidos-niveles-de-liquidez-y-solvencia-504615",
@@ -563,46 +603,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Presidencia designará esta semana a su delegada en Aerocafé y Autopistas del Café seguirá hasta septiembre de 2027",
         "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Dólar colombiano expuesto a peligros ante déficit fiscal estimado en 7,2 % del PIB para 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-enfrenta-riesgos-por-deficit-fiscal-proyectado-de-7-2-del-pib-para-504452",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Dólar en Colombia enfrenta riesgos por déficit fiscal proyectado de 7,2 % del PIB para 2026",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Equipos agrícolas por $5.493 millones guardados desde su adquisición en 2025: ANT interviene",
-        "url": "https://www.portafolio.co/economia/gobierno/maquinaria-agricola-de-5-493-millones-seguia-en-bodegas-desde-su-compra-en-2025-ant-actua-504450",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Maquinaria agrícola de $5.493 millones seguía en bodegas desde su compra en 2025: ANT actúa",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Caen bienes pero trepan alimentos y servicios: incidencia en el debate del salario mínimo",
-        "url": "https://www.portafolio.co/economia/finanzas/inflacion-a-dos-velocidades-en-colombia-alimentos-y-servicios-suben-mientras-los-bienes-bajan-504448",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Bienes bajan, pero alimentos y servicios suben: ¿qué peso tendrá en negociación del salario mínimo?",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Acuario de San Andrés sin puente y con locales derruidos: la realidad que sustenta hogares",
-        "url": "https://www.portafolio.co/economia/el-acuario-de-san-andres-sin-puente-y-con-casetas-demolidas-la-otra-cara-del-paraiso-del-que-dependen-familias-504445",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "El Acuario de San Andrés, sin puente y con casetas demolidas: la otra cara del paraíso del que dependen familias",
-        "capturado": "2026-10-14T14:59:07-05:00"
       }
     ],
     "Negocios": [
