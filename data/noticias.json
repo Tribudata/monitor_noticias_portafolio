@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-17T05:11:36-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-17T08:51:14-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del dólar en Colombia cayó esta semana tras perder más de $40",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-se-desplomo-esta-semana-asi-quedo-su-precio-tras-perder-mas-de-504626",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Dólar en Colombia se desplomó esta semana: así quedó su precio tras perder más de $40",
+        "capturado": "2026-10-17T08:51:14-05:00"
+      },
       {
         "titulo": "Ocho decretos laborales van a revisión: Gobierno busca corregir sanciones y reglas cuestionadas ante la justicia",
         "url": "https://www.portafolio.co/economia/empleo/ocho-decretos-laborales-van-a-revision-gobierno-busca-corregir-sanciones-y-reglas-cuestionadas-ante-la-justicia-504619",
@@ -593,19 +603,29 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Peso colombiano se apreció 16,2% y Anif ve primeras señales de alivio en bienes sensibles al dólar",
         "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Casa de Nariño nombrará esta semana a su representante para Aerocafé y Autopistas del Café continuará",
-        "url": "https://www.portafolio.co/economia/gobierno/presidencia-designara-esta-semana-a-su-delegada-en-aerocafe-y-autopistas-del-cafe-seguira-hasta-septiembre-de-504469",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Presidencia designará esta semana a su delegada en Aerocafé y Autopistas del Café seguirá hasta septiembre de 2027",
-        "capturado": "2026-10-14T18:07:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El pasado del Tesla Roadster 2008: precursor del nuevo carro volador que incumplió sus promesas",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-historia-del-tesla-roadster-del-2008-el-antecesor-del-nuevo-carro-volador-que-no-pudo-cumplir-lo-que-prometio-504623",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "La historia del Tesla Roadster del 2008: el antecesor del nuevo carro volador que no pudo cumplir lo que prometió",
+        "capturado": "2026-10-17T08:51:14-05:00"
+      },
+      {
+        "titulo": "Arturo Calle alerta sobre la pérdida de más de 2000 empleos debido a Shein y Temu",
+        "url": "https://www.portafolio.co/negocios/empresas/arturo-calle-advierte-que-ha-perdido-mas-de-2-000-empleos-por-compras-en-shein-y-temu-esto-es-muy-preocupante-504622",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-17",
+        "titulo_fuente": "Arturo Calle advierte que ha perdido más de 2.000 empleos por compras en Shein y Temu: 'Esto es muy preocupante'",
+        "capturado": "2026-10-17T08:51:14-05:00"
+      },
       {
         "titulo": "Estrategias gubernamentales para impulsar la inversión y el empleo mediante el intercambio comercial colombo-venezolano",
         "url": "https://www.portafolio.co/negocios/comercio/comercio-entre-colombia-y-venezuela-los-planes-del-gobierno-para-atraer-inversiones-y-generar-empleo-504616",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-13",
         "titulo_fuente": "Summit Protección 2026: IA, productividad, riqueza y decisiones de futuro",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "De esta manera la inteligencia artificial multiplica por diez las labores cotidianas empresariales",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-es-como-la-inteligencia-artificial-acelera-diez-veces-las-tareas-rutinarias-en-las-empresas-504392",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Así es como la inteligencia artificial acelera hasta diez veces las tareas rutinarias en las empresas",
-        "capturado": "2026-10-13T16:44:02-05:00"
-      },
-      {
-        "titulo": "Marcas de Unilever como Fruco, Knorr y Maizena migrarán a McCormick tras su unificación",
-        "url": "https://www.portafolio.co/negocios/empresas/fruco-knorr-maizena-y-otras-marcas-de-unilever-pasaran-al-negocio-de-mccormick-con-su-integracion-504394",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "Fruco, Knorr, Maizena y otras marcas de Unilever pasarán al negocio de McCormick con su integración",
         "capturado": "2026-10-13T16:44:02-05:00"
       }
     ]
