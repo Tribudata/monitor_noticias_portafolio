@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-18T11:21:49-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-18T13:46:54-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Exmandatario Uribe conversó con Florentino Pérez, líder del Real Madrid, para apoyar a afectados por sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/expresidente-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-para-ayudar-a-victimas-del-terremoto-504668",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Expresidente Uribe se reunió con Florentino Pérez, presidente del Real Madrid, para ayudar a víctimas del terremoto",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
+      {
+        "titulo": "San Andrés obtendrá $1.500 millones para impulsar hasta 150 negocios comunitarios",
+        "url": "https://www.portafolio.co/economia/regiones/san-andres-recibira-1-500-millones-para-fortalecer-hasta-150-emprendimientos-de-comunidades-504667",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "San Andrés recibirá $1.500 millones para fortalecer hasta 150 emprendimientos de comunidades",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027: parlamentarios preparan nuevas mociones previo al debate final del 19 de octubre",
+        "url": "https://www.portafolio.co/economia/crecimiento/presupuesto-2027-congresistas-alistan-nuevas-proposiciones-antes-de-la-votacion-definitiva-de-este-19-de-octubre-504666",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Presupuesto 2027: congresistas alistan nuevas proposiciones antes de la votación definitiva de este 19 de octubre",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
+      {
+        "titulo": "Conozco los negocios de su esposo: De La Espriella increpa a mandataria de San Andrés",
+        "url": "https://www.portafolio.co/economia/gobierno/estoy-enterado-de-los-negocios-de-su-marido-de-la-espriella-confronta-a-gobernadora-de-san-andres-504665",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "'Estoy enterado de los negocios de su marido': De La Espriella confronta a gobernadora de San Andrés",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
+      {
+        "titulo": "IPC, tasas y CDTs: las razones por las cuales el escenario actual trae beneficios a los ahorradores",
+        "url": "https://www.portafolio.co/economia/finanzas/inflacion-tasas-de-interes-y-cdts-por-que-el-panorama-actual-abre-oportunidades-para-los-ahorradores-504662",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Inflación, tasas de interés y CDTs: por qué el panorama actual abre oportunidades para los ahorradores",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
       {
         "titulo": "Procuraduría indaga a tres exdirectivos de Aerocivil por anomalías en contrato de 18 terminales",
         "url": "https://www.portafolio.co/economia/infraestructura/procuraduria-investiga-a-tres-exdirectivos-de-aerocivil-por-fallas-en-contrato-para-18-aeropuertos-504664",
@@ -553,59 +603,29 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Finagro estrena presidente: Édgar Chalhoub Succar llega al cargo y releva a Ricardo Morris Sarmiento",
         "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Alza global de la urea enciende alertas por el impacto en los costos agrícolas nacionales",
-        "url": "https://www.portafolio.co/economia/agro/los-fertilizantes-vuelven-a-encender-alarmas-la-urea-sube-en-el-mundo-y-amenaza-los-costos-del-agro-colombiano-504510",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Los fertilizantes vuelven a encender alarmas: la urea sube en el mundo y amenaza los costos del agro colombiano",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "De La Espriella reporta 62000 marchantes, seis detenciones y seis acciones del Esmad",
-        "url": "https://www.portafolio.co/economia/regiones/balance-de-marchas-62-000-manifestantes-seis-capturas-y-seis-intervenciones-del-esmad-segun-de-la-espriella-504509",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Balance de marchas: 62.000 manifestantes, seis capturas y seis intervenciones del Esmad, según De La Espriella",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Alza superior al 50 por ciento en papas, tomate y tubérculos afecta el presupuesto familiar por costo de alimentos",
-        "url": "https://www.portafolio.co/economia/agro/precios-de-alimentos-golpean-el-bolsillo-de-los-hogares-papas-tomate-y-tuberculos-registran-alzas-de-mas-del-504507",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Precios de alimentos golpean el bolsillo de los hogares: papas, tomate y tubérculos registran alzas de más del 50%",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Ana Lucía Pineda, primera dama, descarta anomalías en donaciones por sismo y presentará reporte financiero",
-        "url": "https://www.portafolio.co/economia/gobierno/primera-dama-ana-lucia-pineda-niega-irregularidades-con-donaciones-por-terremoto-y-anuncia-informe-de-cuentas-504506",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Primera dama, Ana Lucía Pineda, niega irregularidades con donaciones por terremoto y anuncia informe de cuentas",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Aumento del salario mínimo y reforma laboral elevarán gastos de contratación empresarial en Colombia para 2027",
-        "url": "https://www.portafolio.co/economia/salario-minimo-y-reforma-laboral-presionaran-los-costos-de-contratacion-de-las-empresas-colombianas-en-504505",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Salario mínimo y reforma laboral presionarán los costos de contratación de las empresas colombianas en 2027",
-        "capturado": "2026-10-15T12:37:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Yango prepara su llegada al q-commerce y la micromovilidad tras operar más de 700 dark stores globales",
+        "url": "https://www.portafolio.co/negocios/empresas/en-el-mundo-operamos-mas-de-700-dark-stores-yango-alista-su-entrada-al-comercio-rapido-y-micromovilidad-504599",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "'En el mundo operamos más de 700 dark stores': Yango alista su entrada al comercio rápido y micromovilidad",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
+      {
+        "titulo": "Bélgica pretende incluir nuevas normas en el tratado comercial con Colombia abarcando el e-commerce",
+        "url": "https://www.portafolio.co/negocios/comercio/belgica-busca-sumar-nuevas-reglas-al-acuerdo-comercial-con-colombia-el-e-commerce-entraria-en-la-negociacion-504621",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Bélgica busca sumar nuevas reglas al acuerdo comercial con Colombia: el e-commerce entraría en la negociación",
+        "capturado": "2026-10-18T13:46:54-05:00"
+      },
       {
         "titulo": "María Corina Machado propone que Venezuela exporte gas a Colombia y detalla los requisitos",
         "url": "https://www.portafolio.co/negocios/comercio/maria-corina-machado-plantea-que-venezuela-suministre-gas-a-colombia-esto-es-lo-que-se-necesita-504655",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Acoso laboral en las empresas: cuáles son las señales y por qué no se denuncia en Colombia",
         "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Nuevo presidente en Holcim Colombia en medio de la compra de activos de Cemex por 485 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/holcim-estrena-presidente-en-colombia-mientras-avanza-su-acuerdo-de-us-485-millones-para-comprar-activos-de-cemex-504426",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Holcim estrena presidente en Colombia mientras avanza su acuerdo de US$ 485 millones para comprar activos de Cemex",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "El aviso de Davivienda para reservar espacio en el escenario bogotano genera dudas sobre un cambio de marca",
-        "url": "https://www.portafolio.co/negocios/empresas/el-mensaje-que-sorprendio-a-clientes-de-davivienda-para-asegurar-un-cupo-en-el-arena-de-bogota-hay-nuevo-nombre-504408",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "El mensaje que sorprendió a clientes de Davivienda para asegurar un cupo en el arena de Bogotá: ¿hay nuevo nombre?",
-        "capturado": "2026-10-13T19:53:05-05:00"
       }
     ]
   }
