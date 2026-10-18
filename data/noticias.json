@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-18T07:42:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T11:21:49-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Procuraduría indaga a tres exdirectivos de Aerocivil por anomalías en contrato de 18 terminales",
+        "url": "https://www.portafolio.co/economia/infraestructura/procuraduria-investiga-a-tres-exdirectivos-de-aerocivil-por-fallas-en-contrato-para-18-aeropuertos-504664",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Procuraduría investiga a tres exdirectivos de Aerocivil por fallas en contrato para 18 aeropuertos",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
+      {
+        "titulo": "Mintransporte lanza convocatoria para modificar el Código de Tránsito en multas, fotomultas y pases",
+        "url": "https://www.portafolio.co/economia/multas-fotodetecciones-y-licencias-mintransporte-abre-convocatoria-para-reformar-el-codigo-de-transito-504658",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Multas, fotodetecciones y licencias: Mintransporte abre convocatoria para reformar el Código de Tránsito",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
+      {
+        "titulo": "Gobierno y Grupo Éxito pactan alianza millonaria para promover nuevos mercados al campo nacional",
+        "url": "https://www.portafolio.co/economia/agro/grupo-exito-y-gobierno-anuncian-alianza-con-oportunidades-comerciales-por-mas-de-1-2-billones-504657",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Agro colombiano busca nuevos mercados: Grupo Éxito y Gobierno anuncian millonario acuerdo para impulsarlo",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
+      {
+        "titulo": "Salario mínimo de 2027 llegaría a $2.424.003 con el incremento del 38,5% que proyecta sugerir la CUT",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-de-2027-quedaria-en-2-424-003-si-se-aplica-el-aumento-del-38-5-que-planea-proponer-la-cut-504654",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Salario mínimo de 2027 quedaría en $2.424.003 si se aplica el aumento del 38,5% que planea proponer la CUT",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
+      {
+        "titulo": "CUT evalúa sugerir un incremento salarial mínimo del 38,5% para el año 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/cut-contempla-proponer-un-aumento-del-salario-minimo-de-38-504653",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "CUT contempla proponer un aumento del salario mínimo de 38,5% para 2027",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
       {
         "titulo": "El pago salarial y el cálculo de recargos empresariales se ponen a prueba con la jornada laboral de 42 horas",
         "url": "https://www.portafolio.co/economia/empleo/jornada-laboral-de-42-horas-pone-a-prueba-la-liquidacion-de-nomina-y-el-calculo-de-recargos-en-las-empresas-504649",
@@ -553,59 +603,19 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Salario mínimo y reforma laboral presionarán los costos de contratación de las empresas colombianas en 2027",
         "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Grupo Argos y Nicky Jam entregan primera vivienda de 40 previstas tras sismo, pasando del reguetón a la obra",
-        "url": "https://www.portafolio.co/economia/del-regueton-a-la-reconstruccion-grupo-argos-y-nicky-jam-entregan-la-primera-de-las-40-casas-tras-el-terremoto-504502",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Del reguetón a la reconstrucción: Grupo Argos y Nicky Jam entregan la primera de las 40 casas tras el terremoto",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Obligaciones con Bogotá tendrán rebaja del 60 por ciento en multas e intereses con plazo límite estipulado",
-        "url": "https://www.portafolio.co/economia/deudas-con-bogota-tendran-descuento-del-60-en-intereses-y-sanciones-este-es-el-plazo-para-acceder-al-beneficio-504503",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Deudas con Bogotá tendrán descuento del 60% en intereses y sanciones: este es el plazo para acceder al beneficio",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Turismo interno sube 70 por ciento y supera al internacional impulsado por la demanda de viajes locales",
-        "url": "https://www.portafolio.co/economia/viajes-nacionales-crecen-70-y-avanzan-mas-rapido-que-los-internacionales-escapadas-jalonan-demanda-en-turismo-504497",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Viajes nacionales crecen 70% y avanzan más rápido que los internacionales: escapadas jalonan demanda en turismo",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "El Eje Cafetero apunta al aguacate hass con 45.000 hectáreas aptas para su siembra",
-        "url": "https://www.portafolio.co/economia/agro/el-eje-cafetero-pone-la-mira-en-el-aguacate-hass-hay-hasta-45-000-hectareas-con-potencial-para-el-cultivo-504499",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "El Eje Cafetero pone la mira en el aguacate hass: hay hasta 45.000 hectáreas con potencial para el cultivo",
-        "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "Ideam prevé más lluvias hoy en Colombia y un municipio sufre emergencia por inundaciones",
-        "url": "https://www.portafolio.co/economia/regiones/ideam-pronostica-un-aumento-de-lluvias-en-el-pais-para-hoy-en-este-municipio-hay-emergencia-por-inundacion-504496",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Ideam pronostica un aumento de lluvias en el país para hoy: en este municipio hay emergencia por inundación",
-        "capturado": "2026-10-15T07:35:59-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "María Corina Machado propone que Venezuela exporte gas a Colombia y detalla los requisitos",
+        "url": "https://www.portafolio.co/negocios/comercio/maria-corina-machado-plantea-que-venezuela-suministre-gas-a-colombia-esto-es-lo-que-se-necesita-504655",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "María Corina Machado plantea que Venezuela suministre gas a Colombia: esto es lo que se necesita",
+        "capturado": "2026-10-18T11:21:49-05:00"
+      },
       {
         "titulo": "El 28% de las compras externas de Colombia provienen de China y Arturo Calle debatió sobre Shein y Temu en el Congreso",
         "url": "https://www.portafolio.co/negocios/comercio/china-ya-concentra-el-28-de-las-importaciones-de-colombia-el-debate-por-shein-y-temu-llega-al-congreso-504641",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-13",
         "titulo_fuente": "El mensaje que sorprendió a clientes de Davivienda para asegurar un cupo en el arena de Bogotá: ¿hay nuevo nombre?",
-        "capturado": "2026-10-13T19:53:05-05:00"
-      },
-      {
-        "titulo": "WPP Media usa inteligencia artificial para renovar el sector de la publicidad",
-        "url": "https://www.portafolio.co/negocios/empresas/wpp-media-apuesta-por-la-ia-para-transformar-el-negocio-publicitario-504405",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "WPP Media apuesta por la inteligencia artificial para transformar el negocio publicitario",
         "capturado": "2026-10-13T19:53:05-05:00"
       }
     ]
