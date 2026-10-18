@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-18T13:46:54-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-18T16:16:13-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "JPMorgan prepara su infraestructura de pagos en moneda local en Colombia y prevé un año histórico en M&A",
+        "url": "https://www.portafolio.co/economia/crecimiento/jpmorgan-alista-su-red-de-pagos-en-pesos-en-colombia-y-anticipa-un-ano-record-en-fusiones-504674",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "JPMorgan alista su red de pagos en pesos en Colombia y anticipa un año récord en fusiones",
+        "capturado": "2026-10-18T16:16:13-05:00"
+      },
       {
         "titulo": "Exmandatario Uribe conversó con Florentino Pérez, líder del Real Madrid, para apoyar a afectados por sismo",
         "url": "https://www.portafolio.co/economia/gobierno/expresidente-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-para-ayudar-a-victimas-del-terremoto-504668",
@@ -593,19 +603,29 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Banrepública: mayor riesgo fiscal puede cambiar el efecto de las tasas sobre los precios y complicar la inflación",
         "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Ricardo Morris Sarmiento sale de la presidencia de Finagro y entra Édgar Chalhoub Succar",
-        "url": "https://www.portafolio.co/economia/gobierno/finagro-estrena-presidente-edgar-chalhoub-succar-llega-al-cargo-y-releva-a-ricardo-morris-sarmiento-504514",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Finagro estrena presidente: Édgar Chalhoub Succar llega al cargo y releva a Ricardo Morris Sarmiento",
-        "capturado": "2026-10-15T12:37:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Tigo rechaza auspiciar el escenario bogotano tras comprar a Movistar en el país y explica los motivos",
+        "url": "https://www.portafolio.co/negocios/empresas/tras-adquirir-operacion-de-movistar-en-colombia-tigo-descarta-patrocinar-la-arena-de-bogota-504678",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Tras adquirir operación de Movistar en Colombia, Tigo descarta patrocinar la Arena de Bogotá: ¿por qué?",
+        "capturado": "2026-10-18T16:16:13-05:00"
+      },
+      {
+        "titulo": "Arranca el proceso para designar al nuevo presidente de la Andi en reemplazo de Bruce Mac Master",
+        "url": "https://www.portafolio.co/negocios/empresas/empieza-la-busqueda-activan-plan-para-elegir-al-sucesor-de-bruce-mac-master-como-cabeza-de-la-andi-504677",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Empieza la búsqueda: activan plan para elegir al sucesor de Bruce Mac Master como cabeza de la Andi",
+        "capturado": "2026-10-18T16:16:13-05:00"
+      },
       {
         "titulo": "Yango prepara su llegada al q-commerce y la micromovilidad tras operar más de 700 dark stores globales",
         "url": "https://www.portafolio.co/negocios/empresas/en-el-mundo-operamos-mas-de-700-dark-stores-yango-alista-su-entrada-al-comercio-rapido-y-micromovilidad-504599",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-14",
         "titulo_fuente": "Casa matriz de Bancolombia busca comprar Comercial Card, fintech con una red de 28.844 comercios en Colombia",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Apostador en Cali se lleva 200 millones de pesos con los cinco números ganadores de MiLoto",
-        "url": "https://www.portafolio.co/negocios/empresas/cayo-miloto-en-cali-apostador-gano-200-millones-y-estos-fueron-los-cinco-numeros-ganadores-504432",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Cayó MiLoto en Cali: apostador ganó $200 millones y estos fueron los cinco números ganadores",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Señales de acoso laboral en empresas y causas de la falta de denuncias en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/acoso-laboral-en-las-empresas-cuales-son-las-senales-y-por-que-no-se-denuncia-en-colombia-504428",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Acoso laboral en las empresas: cuáles son las señales y por qué no se denuncia en Colombia",
         "capturado": "2026-10-14T10:54:07-05:00"
       }
     ]
