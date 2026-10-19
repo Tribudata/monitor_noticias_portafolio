@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-18T18:29:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T20:34:45-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alocución del mandatario Abelardo de la Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/alocucion-del-presidente-abelardo-de-la-espriella-504687",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Alocución del presidente Abelardo de la Espriella",
+        "capturado": "2026-10-18T20:34:45-05:00"
+      },
       {
         "titulo": "JPMorgan prepara su infraestructura de pagos en moneda local en Colombia y prevé un año histórico en M&A",
         "url": "https://www.portafolio.co/economia/crecimiento/jpmorgan-alista-su-red-de-pagos-en-pesos-en-colombia-y-anticipa-un-ano-record-en-fusiones-504674",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Alex Fabián Cañas es nombrado nuevo viceministro de Energía, en reemplazo de Armando Cuello",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Banrepública advierte que un mayor riesgo fiscal puede alterar la tasa y enredar la inflación",
-        "url": "https://www.portafolio.co/economia/banrepublica-mayor-riesgo-fiscal-puede-cambiar-el-efecto-de-las-tasas-sobre-los-precios-y-complicar-la-inflacion-504518",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Banrepública: mayor riesgo fiscal puede cambiar el efecto de las tasas sobre los precios y complicar la inflación",
         "capturado": "2026-10-15T12:37:09-05:00"
       }
     ],
