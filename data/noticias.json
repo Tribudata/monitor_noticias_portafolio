@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-18T20:34:45-05:00",
+  "actualizado": "2026-10-19T02:21:07-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "De La Espriella indicó que expedirá decreto para definir líneas de base en San Andrés, Providencia y Santa Catalina",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncio-que-firmara-decreto-para-trazar-lineas-de-base-de-san-andres-providencia-y-santa-catalina-504688",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "De La Espriella anunció que firmará decreto para trazar líneas de base de San Andrés, Providencia y Santa Catalina",
+        "capturado": "2026-10-19T02:21:07-05:00"
+      },
       {
         "titulo": "Alocución del mandatario Abelardo de la Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/alocucion-del-presidente-abelardo-de-la-espriella-504687",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Pei abre la puerta al capital extranjero: LarrainVial llevará sus títulos a comunidades de inversión regionales",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Armando Cuello deja el viceministerio de Energía y su puesto lo ASUME Alex Fabián Cañas",
-        "url": "https://www.portafolio.co/economia/gobierno/alex-fabian-canas-es-nombrado-nuevo-viceministro-de-energia-en-reemplazo-de-armando-cuello-504521",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Alex Fabián Cañas es nombrado nuevo viceministro de Energía, en reemplazo de Armando Cuello",
         "capturado": "2026-10-15T12:37:09-05:00"
       }
     ],
