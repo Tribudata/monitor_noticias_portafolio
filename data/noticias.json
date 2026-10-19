@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-19T15:22:38-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-19T18:51:37-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Centrales obreras y jubilados alistan proyecto unificado sobre el salario mínimo del año 2027",
+        "url": "https://www.portafolio.co/economia/finanzas/centrales-sindicales-y-pensionados-preparan-propuesta-conjunta-para-el-salario-minimo-de-504745",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Sindicatos y pensionados preparan propuesta conjunta para el salario mínimo de 2027",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Fedecafé quiere extender por una década el pacto del Fondo Nacional del Café con la administración entrante",
+        "url": "https://www.portafolio.co/economia/agro/federacion-de-cafeteros-busca-renovar-por-10-anos-el-contrato-del-fondo-nacional-del-cafe-con-el-nuevo-gobierno-504697",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Federación de Cafeteros busca renovar por 10 años el contrato del Fondo Nacional del Café con el nuevo Gobierno",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Andi demanda garantías para capitales tras el retroceso de 0,04% en la economía de agosto",
+        "url": "https://www.portafolio.co/economia/crecimiento/andi-pide-condiciones-para-invertir-tras-caida-de-0-04-en-la-actividad-economica-de-agosto-504743",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Andi pide condiciones para invertir tras caída de 0,04% en la actividad económica de agosto",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Bogotá emite bonos de deuda por hasta un billón de pesos y contempla ampliar la colocación",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-sale-al-mercado-de-deuda-con-bonos-por-hasta-1-billon-y-opcion-de-ampliar-la-colocacion-504739",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Bogotá sale al mercado de deuda con bonos por hasta $1 billón y opción de ampliar la colocación",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Inteligencia artificial prevé inflación más tenaz en Colombia al integrar datos y entorno financiero",
+        "url": "https://www.portafolio.co/economia/gobierno/ia-apunta-a-una-inflacion-mas-persistente-en-colombia-al-sumar-noticias-y-contexto-economico-504737",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "IA apunta a una inflación más persistente en Colombia al sumar noticias y contexto económico",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Comercio cucuteño sufre por divisa baja: solicitan eximir de IVA a la urbe pero alertan restricciones",
+        "url": "https://www.portafolio.co/economia/regiones/comercio-de-cucuta-en-crisis-por-dolar-barato-piden-exonerar-la-ciudad-del-iva-pero-advierten-limitantes-504736",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Comercio de Cúcuta en crisis por dólar barato: piden exonerar la ciudad del IVA, pero advierten limitantes",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
       {
         "titulo": "Administración de De La Espriella pretende anular normas de Petro sobre tercerización y trabajo doméstico",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-busca-derogar-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico-504731",
@@ -543,69 +603,59 @@
         "publicacion": "2026-10-16",
         "titulo_fuente": "Adiós a la Undmo: Policía crea Unidad Nacional Antidisturbios y anuncia 90 días de cambios",
         "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "Ideam advierte que persistirán precipitaciones este fin de semana en Colombia e indica las regiones",
-        "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-seguiran-en-colombia-este-fin-de-semana-ideam-senala-las-zonas-donde-mas-llovera-504603",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Fuertes lluvias seguirán en Colombia este fin de semana: Ideam señala las zonas donde más lloverá",
-        "capturado": "2026-10-16T15:32:41-05:00"
-      },
-      {
-        "titulo": "Operación cambió tras retiro de pagos en efectivo de la Tasa de Uso en la Terminal de Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/terminal-de-bogota-elimino-el-efectivo-para-pagar-la-tasa-de-uso-asi-cambio-toda-la-operacion-504601",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Terminal de Bogotá eliminó el efectivo para pagar la Tasa de Uso: así cambió toda la operación",
-        "capturado": "2026-10-16T15:32:41-05:00"
-      },
-      {
-        "titulo": "Fiscalía imputa al exgobernador de San Andrés por posible peculado de 4.330 millones en Haynes Cay",
-        "url": "https://www.portafolio.co/economia/regiones/fiscalia-acusa-al-exgobernador-de-san-andres-por-presunto-peculado-de-4-330-millones-en-obra-de-haynes-cay-504582",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Fiscalía acusa al exgobernador de San Andrés por presunto peculado de $4.330 millones en obra de Haynes Cay",
-        "capturado": "2026-10-16T15:32:41-05:00"
-      },
-      {
-        "titulo": "Cotización del euro en Colombia hoy: la divisa europea baja de nuevo",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-se-cotiza-la-moneda-europea-tras-registrar-una-nueva-caida-504588",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Precio del euro hoy en Colombia: así se cotiza la moneda europea tras registrar una nueva caída",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Condiciones de IATA para apoyar la ampliación de El Dorado sin encarecer pasajes",
-        "url": "https://www.portafolio.co/economia/infraestructura/mas-capacidad-sin-tiquetes-mas-caros-la-condicion-de-iata-para-respaldar-la-expansion-del-aeropuerto-el-dorado-504577",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Más capacidad sin tiquetes más caros: la condición de IATA para respaldar la expansión del aeropuerto El Dorado",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Once hoteles en Colombia logran llaves Michelin en 2026: Four Seasons suma tres",
-        "url": "https://www.portafolio.co/economia/colombia-tiene-11-hoteles-con-llaves-michelin-en-2026-four-seasons-se-queda-con-tres-de-las-cuatro-nuevas-llaves-504576",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Colombia tiene 11 hoteles con llaves Michelin en 2026: Four Seasons se queda con tres de las cuatro nuevas llaves",
-        "capturado": "2026-10-16T12:36:55-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Kapital Colombia recibió aval como sociedad de financiación pero aún carece de autorización de funciones",
+        "url": "https://www.portafolio.co/negocios/empresas/superfinanciera-autoriza-crear-kapital-colombia-pero-todavia-falta-el-permiso-para-operar-504746",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Kapital Colombia obtuvo luz verde para ser compañía de financiamiento pero todavía falta permiso para operar",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Problemas en la vía alterna para llevar petróleo internacional complican el comercio y alzan precios",
+        "url": "https://www.portafolio.co/negocios/comercio/todo-se-pondra-mas-caro-alta-tension-en-oriente-medio-complicara-la-inflacion-y-los-fletes-504742",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Líos en la ruta alterna para el transporte de crudo global enredan al comercio: ¿todo se pondrá más caro?",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Este es el listado de las 10 compañías con mejor apreciación por parte de los ciudadanos en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/este-es-el-escalafon-de-las-10-empresas-mejor-valoradas-por-la-poblacion-general-en-colombia-504741",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Este es el escalafón de las 10 empresas mejor valoradas por la población general en Colombia",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "KFC destina recursos a energía fotovoltaica para mermar 20 por ciento su gasto eléctrico en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/kfc-invierte-en-energia-solar-para-reducir-20-su-consumo-energetico-en-colombia-504738",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "KFC invierte en energía solar para reducir 20% su consumo energético en Colombia",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
+      {
+        "titulo": "Claro Colombia logra dos galardones por la eficacia de su red celular en el ámbito nacional",
+        "url": "https://www.portafolio.co/negocios/empresas/claro-colombia-obtiene-dos-reconocimientos-por-el-desempeno-de-su-red-movil-en-el-territorio-nacional-504734",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Claro Colombia obtiene dos reconocimientos por el desempeño de su red móvil en el territorio nacional",
+        "capturado": "2026-10-19T18:51:37-05:00"
+      },
       {
         "titulo": "Firma alemana amplía su presencia en Cartagena para ganar terreno en la región latinoamericana",
         "url": "https://www.portafolio.co/negocios/empresas/multinacional-alemana-expande-su-operacion-en-cartagena-para-crecer-mas-en-america-latina-504725",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Empiezan a bajar letreros de Movistar en Colombia para cambiarlos por Tigo",
         "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Inter Rapidísimo busca volver mensajeros a viajeros mediante una app en creación",
-        "url": "https://www.portafolio.co/negocios/empresas/inter-rapidisimo-quiere-convertir-a-viajeros-en-mensajeros-con-una-nueva-aplicacion-en-desarrollo-504457",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Inter Rapidísimo quiere convertir a viajeros en mensajeros con una nueva aplicación en desarrollo",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Spider-Man encabeza las ventas de Disfraces Cachivaches, que espera subir 20% en Halloween",
-        "url": "https://www.portafolio.co/negocios/comercio/spider-man-lidera-las-ventas-de-disfraces-cachivaches-que-proyecta-crecer-20-en-halloween-504453",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Spider-Man lidera las ventas de Disfraces Cachivaches, que proyecta crecer 20% en Halloween",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Firmas con mayor reputación en listado Merco: encabeza Bancolombia, tras ella Alpina y Bavaria",
-        "url": "https://www.portafolio.co/negocios/empresas/empresas-con-mejor-reputacion-corporativa-en-ranking-merco-bancolombia-lidera-seguida-por-alpina-y-bavaria-504444",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Empresas con mejor reputación corporativa en ranking Merco: Bancolombia lidera, seguida por Alpina y Bavaria",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Bancolombia conserva primera posición en imagen empresarial; Ramo y Ecopetrol bajan",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-ramo-y-ecopetrol-registran-retrocesos-504444",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Bancolombia mantiene liderazgo en reputación corporativa; Ramo y Ecopetrol registran retrocesos",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Parque Arauco destinó $120.000 millones, 50% fondos propios y 50% pasivos, para edificio en Antioquia",
-        "url": "https://www.portafolio.co/negocios/parque-arauco-invirtio-120-000-millones-mitad-capital-y-mitad-deuda-en-su-primer-multifamily-de-antioquia-504437",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Parque Arauco invirtió $120.000 millones, mitad capital y mitad deuda, en su primer multifamily de Antioquia",
-        "capturado": "2026-10-14T10:54:07-05:00"
       }
     ]
   }
