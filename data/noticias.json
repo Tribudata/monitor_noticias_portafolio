@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-19T02:21:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-19T09:51:57-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Presión a exportadores de café por revaluación del peso y mayores costos que reducen sus márgenes",
+        "url": "https://www.portafolio.co/economia/agro/el-efecto-tijeta-que-enfrentan-los-exportadores-de-cafe-revaluacion-del-peso-y-costos-presionan-sus-margenes-504703",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "El efecto tijeta que enfrentan los exportadores de café: revaluación del peso y costos presionan sus márgenes",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Especialista advierte que la apreciación del peso colombiano reduciría los ingresos del turismo",
+        "url": "https://www.portafolio.co/economia/gobierno/fortaleza-del-peso-colombiano-podria-estar-afectando-los-ingresos-del-sector-turistico-advierte-experto-504704",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Fortaleza del peso colombiano podría estar afectando los ingresos del sector turístico, advierte experto",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Modificación fiscal para cafeteros en la gestión de recursos de la cosecha cafetera de 2026",
+        "url": "https://www.portafolio.co/economia/agro/cafeteros-el-cambio-tributario-que-deben-tener-en-cuenta-para-administrar-los-ingresos-de-la-cosecha-de-504702",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Cafeteros: el cambio tributario que deben tener en cuenta para administrar los ingresos de la cosecha de 2026",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Crecimiento de los dólares digitales en Colombia genera mayor rivalidad para bancos y cambistas",
+        "url": "https://www.portafolio.co/economia/finanzas/dolares-digitales-ganan-espacio-en-colombia-y-elevan-competencia-para-bancos-y-casas-de-cambio-504698",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Dólares digitales ganan espacio en Colombia y elevan competencia para bancos y casas de cambio",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Avanzan las obras en el estadio de Barranquilla con la instalación de la fachada metálica",
+        "url": "https://www.portafolio.co/economia/regiones/nuevo-avance-en-la-renovacion-del-estadio-de-barranquilla-se-enciende-la-piel-del-supermetro-504696",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Nuevo avance en la renovación del estadio de Barranquilla: '¡Se enciende la piel del Supermetro!'",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Operación de torniquetes inteligentes contra evasión en 49 estaciones de TransMilenio en Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/asi-funcionan-las-puertas-inteligentes-anticolados-que-operan-en-49-estaciones-de-transmilenio-en-bogota-504693",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Así funcionan las puertas inteligentes ‘anticolados’ que operan en 49 estaciones de TransMilenio en Bogotá",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Precio del euro en Colombia este lunes 19 de octubre: valor de la divisa europea al comenzar la semana",
+        "url": "https://www.portafolio.co/economia/gobierno/euro-hoy-lunes-19-de-octubre-asi-se-cotiza-la-moneda-europea-en-colombia-al-inicio-de-la-semana-504694",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Euro hoy lunes 19 de octubre: así se cotiza la moneda europea en Colombia al inicio de la semana",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Fuerte caída del dólar en la apertura de este lunes 19 de octubre: la moneda roza los 3.150 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Precio del dólar se desploma al inicio de la jornada de este lunes 19 de octubre: divisa se acerca a los $3.150",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "Gobierno colombiano dialogará tras nuevo foco de tensión con Nicaragua por la soberanía de San Andrés",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-abre-nuevo-capitulo-de-tension-con-el-regimen-de-nicaragua-por-soberania-de-san-andres-y-anuncia-dialogo-504691",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Colombia abre nuevo capítulo de tensión con el régimen de Nicaragua por soberanía de San Andrés y anuncia diálogo",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo pretende atraer grandes empresas cafeteras para fomentar la industria nacional del grano",
+        "url": "https://www.portafolio.co/economia/agro/el-gobierno-busca-atraer-a-gigantes-del-cafe-para-impulsar-la-transformacion-industrial-del-grano-colombiano-504690",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "El Gobierno busca atraer a gigantes del café para impulsar la transformación industrial del grano colombiano",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
       {
         "titulo": "De La Espriella indicó que expedirá decreto para definir líneas de base en San Andrés, Providencia y Santa Catalina",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncio-que-firmara-decreto-para-trazar-lineas-de-base-de-san-andres-providencia-y-santa-catalina-504688",
@@ -503,109 +603,29 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Colombia anuncia su retiro del Grupo de La Haya y deja de ser miembro del bloque internacional",
         "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "El porvenir del Presupuesto General de la Nación se decidirá la próxima semana, fijando el 20 de octubre como plazo límite",
-        "url": "https://www.portafolio.co/economia/el-futuro-del-presupuesto-general-de-la-nacion-sera-definido-la-proxima-semana-el-20-de-octubre-es-la-fecha-maxima-504543",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "El futuro del Presupuesto General de la Nación será definido la próxima semana, el 20 de octubre es la fecha máxima",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Colombia Fintech apoya la iniciativa del Gobierno de De La Espriella para reglamentar el manejo de efectivo",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-fintech-respalda-al-gobierno-de-de-la-espriella-en-su-plan-para-regular-el-uso-de-efectivo-504541",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Colombia Fintech respalda al Gobierno de De La Espriella en su plan para regular el uso de efectivo",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Pacto Histórico, Centro Democrático y Creemos se unen para regular aplicaciones de transporte",
-        "url": "https://www.portafolio.co/economia/por-alla-si-voy-pacto-historico-centro-democratico-y-creemos-se-alian-para-legalizar-aplicaciones-de-transporte-504535",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "‘Por allá sí voy’: Pacto Histórico, Centro Democrático y Creemos se alían para legalizar aplicaciones de transporte",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Las dos modificaciones de la ley pensional que modificarán el ahorro y los fondos para el retiro",
-        "url": "https://www.portafolio.co/economia/los-dos-cambios-de-la-reforma-pensional-que-transformaran-el-ahorro-y-la-inversion-para-la-jubilacion-504539",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Los dos cambios de la reforma pensional que transformarán el ahorro y la inversión para la jubilación",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Plan de contingencia en salud: 273.000 usuarios obtuvieron fármacos, pero resta dar el 60,8% de lo adeudado",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-de-choque-en-salud-273-000-pacientes-recibieron-medicamentos-pero-falta-entregar-el-60-8-de-los-pendientes-504534",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Plan de choque en salud: 273.000 pacientes recibieron medicamentos, pero falta entregar el 60,8% de los pendientes",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Nos estamos jugando prácticamente un punto del PIB nacional: Holcim urge reactivar vivienda y obras",
-        "url": "https://www.portafolio.co/economia/infraestructura/nos-estamos-jugando-practicamente-un-punto-del-pib-nacional-holcim-pide-reactivar-vivienda-e-infraestructura-504522",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "“Nos estamos jugando prácticamente un punto del PIB nacional”: Holcim pide reactivar vivienda e infraestructura",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro arrancará con $624.000 millones de financiación multilateral para la reconstrucción",
-        "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-comenzara-con-624-000-millones-de-credito-multilateral-para-reconstruir-el-pais-504532",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Fondo Milagro comenzará con $624.000 millones de crédito multilateral para reconstruir el país",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Euro en Colombia hoy, 15 de octubre: precio aumenta y se sitúa en $3.569,90",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-en-colombia-hoy-15-de-octubre-cotizacion-sube-y-se-ubica-en-3-569-504526",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Euro en Colombia hoy, 15 de octubre: cotización sube y se ubica en $3.569,90",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Gobierno aprueba en 15 días iniciativa del río Guatapurí que acumulaba 30 meses detenida",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-da-viabilidad-en-15-dias-a-proyecto-del-rio-guatapuri-que-llevaba-30-meses-estancado-504523",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Gobierno da viabilidad en 15 días a proyecto del río Guatapurí que llevaba 30 meses estancado",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "LarrainVial ofrecerá títulos de Pei a inversionistas regionales para atraer capital externo",
-        "url": "https://www.portafolio.co/economia/pei-abre-la-puerta-al-capital-extranjero-larrainvial-llevara-sus-titulos-a-comunidades-de-inversion-regionales-504508",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Pei abre la puerta al capital extranjero: LarrainVial llevará sus títulos a comunidades de inversión regionales",
-        "capturado": "2026-10-15T12:37:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Más de 130 consejeros del Legislativo aprenden sobre proceso de leyes, vigilancia política y IA",
+        "url": "https://www.portafolio.co/negocios/empresas/mas-de-130-asesores-del-congreso-se-capacitan-en-tramite-legislativo-control-politico-e-inteligencia-artificial-504701",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Más de 130 asesores del Congreso se capacitan en trámite legislativo, control político e inteligencia artificial",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
+      {
+        "titulo": "PazdelRío solicita conservar gravamen al acero ruso y chino para salvaguardar el sector local",
+        "url": "https://www.portafolio.co/negocios/industrias/pazdelrio-pide-mantener-arancel-al-acero-de-rusia-y-china-para-proteger-la-industria-nacional-504700",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "PazdelRío pide mantener arancel al acero de Rusia y China para proteger la industria nacional",
+        "capturado": "2026-10-19T09:51:57-05:00"
+      },
       {
         "titulo": "Tigo rechaza auspiciar el escenario bogotano tras comprar a Movistar en el país y explica los motivos",
         "url": "https://www.portafolio.co/negocios/empresas/tras-adquirir-operacion-de-movistar-en-colombia-tigo-descarta-patrocinar-la-arena-de-bogota-504678",
@@ -1184,26 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-10-14",
         "titulo_fuente": "Mejora ánimo para comprar vivienda y electrodomésticos mientras repunta confianza de hogares, dice Fedesarrollo",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Cumbre Protección 2026: Inteligencia artificial, rendimiento, capital y elecciones venideras",
-        "url": "https://www.portafolio.co/negocios/empresas/summit-proteccion-2026-ia-productividad-riqueza-y-decisiones-de-futuro-504436",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Summit Protección 2026: IA, productividad, riqueza y decisiones de futuro |",
-        "capturado": "2026-10-14T10:54:07-05:00"
-      },
-      {
-        "titulo": "Matriz de Bancolombia planea adquirir Comercial Card, tecnológica financiera con 28.844 negocios aliados",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-cibest-busca-comprar-comercial-card-fintech-con-una-red-de-28-844-comercios-en-colombia-504435",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Casa matriz de Bancolombia busca comprar Comercial Card, fintech con una red de 28.844 comercios en Colombia",
         "capturado": "2026-10-14T10:54:07-05:00"
       }
     ]
