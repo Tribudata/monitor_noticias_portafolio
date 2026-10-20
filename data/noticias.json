@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-20T04:09:07-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-20T09:25:40-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Encuesta revela que el elevado costo del dinero frena los créditos de los consumidores en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/creditos-en-colombia-el-alto-costo-del-dinero-lleva-a-consumidores-a-desistir-de-prestamos-segun-encuesta-504769",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Créditos en Colombia: el alto costo del dinero lleva a consumidores a desistir de préstamos, según encuesta",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del euro en Colombia este 20 de octubre: baja a $3.540",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-20-de-octubre-en-colombia-la-moneda-europea-cae-y-se-cotiza-en-3-504766",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Precio del euro hoy 20 de octubre en Colombia: la moneda europea cae y se cotiza en $3.540",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Ventas de cemento gris subieron 10,4% anual y sumaron cerca de 0,77 millones de toneladas más",
+        "url": "https://www.portafolio.co/economia/la-comercializacion-de-cemento-gris-crecio-10-4-en-un-ano-y-sumo-cerca-de-0-77-millones-de-toneladas-adicionales-504763",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "La comercialización de cemento gris creció 10,4% en un año y sumó cerca de 0,77 millones de toneladas adicionales",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Siniestros por sismo pagados por aseguradoras llegan a $913.609 millones y los giros continúan",
+        "url": "https://www.portafolio.co/economia/gobierno/aseguradoras-ya-han-pagado-913-609-millones-por-el-terremoto-y-los-desembolsos-siguen-creciendo-504765",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Aseguradoras ya han pagado $913.609 millones por el terremoto y los desembolsos siguen creciendo",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia arranca a la baja este 20 de octubre cerca de los $3.150",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-inicia-a-la-baja-este-20-de-octubre-y-rozando-los-3-504762",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "El dólar en Colombia inicia a la baja este 20 de octubre y rozando los $3.150",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Revolut, con aterrizaje previsto en Colombia para 2027, sufre caída global y falla digital",
+        "url": "https://www.portafolio.co/economia/finanzas/banco-britanico-revolut-reporta-caida-mundial-e-interrupcion-de-sus-servicios-digitales-504759",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Revolut, que llegará a Colombia en 2027, reporta caída mundial e interrupción de sus servicios digitales",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Luego de avalarse el Presupuesto 2027, la administración De La Espriella contará con 90 días para la Ley Fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-aprobacion-del-presupuesto-2027-gobierno-de-la-espriella-tendra-90-dias-para-presentar-ley-de-ajuste-fiscal-504758",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Tras aprobación del Presupuesto 2027, gobierno De La Espriella tendrá 90 días para presentar Ley de Ajuste Fiscal",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Mandatario Abelardo De La Espriella festejó el visto bueno al Presupuesto General de la Nación de $634,95 billones",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-abelardo-de-la-espriella-celebro-la-aprobacion-del-presupuesto-general-de-la-nacion-por-634-95-billones-504757",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Presidente Abelardo De La Espriella celebró la aprobación del Presupuesto General de la Nación por $634,95 billones",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
       {
         "titulo": "El Presupuesto General de la Nación para 2027 quedó listo para sanción presidencial tras extensa sesión",
         "url": "https://www.portafolio.co/economia/luego-de-una-larga-jornada-a-sancion-presidencial-paso-el-presupuesto-general-de-la-nacion-para-504756",
@@ -523,89 +603,49 @@
         "publicacion": "2026-10-17",
         "titulo_fuente": "Cédulas de fallecidos aparecen en 1.500 intentos de firma al mes: alerta por fraude en Colombia",
         "capturado": "2026-10-17T11:50:58-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia cayó esta semana tras perder más de $40",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-se-desplomo-esta-semana-asi-quedo-su-precio-tras-perder-mas-de-504626",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Dólar en Colombia se desplomó esta semana: así quedó su precio tras perder más de $40",
-        "capturado": "2026-10-17T08:51:14-05:00"
-      },
-      {
-        "titulo": "Ocho decretos laborales van a revisión: Gobierno busca corregir sanciones y reglas cuestionadas ante la justicia",
-        "url": "https://www.portafolio.co/economia/empleo/ocho-decretos-laborales-van-a-revision-gobierno-busca-corregir-sanciones-y-reglas-cuestionadas-ante-la-justicia-504619",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Ocho decretos laborales van a revisión: Gobierno busca corregir sanciones y reglas cuestionadas ante la justicia",
-        "capturado": "2026-10-16T20:24:47-05:00"
-      },
-      {
-        "titulo": "En el primer mes completo de Gobierno ya llegó más inversión extranjera directa total y a petróleo y minería",
-        "url": "https://www.portafolio.co/economia/gobierno/en-el-primer-mes-completo-de-gobierno-ya-llego-mas-inversion-extranjera-directa-total-y-a-petroleo-y-mineria-504620",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "En el primer mes completo de Gobierno ya llegó más inversión extranjera directa total y a petróleo y minería",
-        "capturado": "2026-10-16T20:24:47-05:00"
-      },
-      {
-        "titulo": "La CUT eligió nuevo presidente y ratificó su oposición al gobierno de Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/la-cut-eligio-nuevo-presidente-y-ratifico-su-oposicion-al-gobierno-de-abelardo-de-la-espriella-504618",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "La CUT eligió nuevo presidente y ratificó su oposición al gobierno de Abelardo De La Espriella",
-        "capturado": "2026-10-16T20:24:47-05:00"
-      },
-      {
-        "titulo": "Se oficializa nombramiento de Cristina Lombana como secretaria de Transparencia del Dapre: su perfil y sus retos",
-        "url": "https://www.portafolio.co/economia/gobierno/se-oficializa-nombramiento-de-cristina-lombana-como-secretaria-de-transparencia-del-dapre-su-perfil-y-sus-retos-504617",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Se oficializa nombramiento de Cristina Lombana como secretaria de Transparencia del Dapre: su perfil y sus retos",
-        "capturado": "2026-10-16T20:24:47-05:00"
-      },
-      {
-        "titulo": "A agosto, el sector financiero de Colombia avanza 3,9% y conserva firmes índices de solvencia y liquidez",
-        "url": "https://www.portafolio.co/economia/finanzas/el-sistema-financiero-colombiano-crece-3-9-a-agosto-y-mantiene-solidos-niveles-de-liquidez-y-solvencia-504615",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "El sistema financiero colombiano crece 3,9% a agosto y mantiene sólidos niveles de liquidez y solvencia",
-        "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "Cae 11,8% el ingreso real hotelero en agosto en medio de una crisis que reduce personal y alza salarios",
-        "url": "https://www.portafolio.co/economia/la-crisis-hotelera-se-acelera-ingresos-reales-bajan-11-8-en-agosto-mientras-recortan-personal-y-suben-salarios-504612",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "La crisis hotelera se acelera: ingresos reales bajan 11,8% en agosto, mientras recortan personal y suben salarios",
-        "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "Ana Lucía Pineda, primera dama, entregó reporte financiero de su fundación por más de $50 mil millones",
-        "url": "https://www.portafolio.co/economia/regiones/primera-dama-ana-lucia-pineda-presento-informe-con-las-cuentas-de-su-fundacion-recibio-mas-de-50-mil-millones-504610",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Primera dama Ana Lucía Pineda presentó informe con las cuentas de su fundación: recibió más de $50 mil millones",
-        "capturado": "2026-10-16T18:15:36-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Postobón entrega sistemas de agua potable que favorecen a cinco acueductos en Yumbo",
+        "url": "https://www.portafolio.co/negocios/empresas/postobon-dona-soluciones-de-agua-potable-beneficia-a-cinco-acueductos-de-yumbo-504770",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Postobón dona soluciones de agua potable: beneficia a cinco acueductos de Yumbo",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "MiLoto cayó por primera vez en Chipaque y un jugador se llevó el premio mayor de 200 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/miloto-cayo-por-primera-vez-en-chipaque-un-apostador-gano-el-premio-mayor-de-200-millones-504771",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "MiLoto cayó por primera vez en Chipaque: un apostador ganó el premio mayor de $200 millones",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Marcas aumentan gasto en IA, mas solo el 23 por ciento de los compradores cree en sus consejos",
+        "url": "https://www.portafolio.co/negocios/inversion/marcas-aceleran-inversion-en-ia-pero-solo-el-23-de-los-consumidores-confia-en-sus-recomendaciones-504764",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Marcas aceleran inversión en IA, pero solo el 23% de los consumidores confía en sus recomendaciones",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
+      {
+        "titulo": "Reportan llegada de llantas chinas baratas a Colombia y solicitan defensas para el sector local",
+        "url": "https://www.portafolio.co/negocios/empresas/estarian-llegando-a-colombia-llantas-chinas-a-bajos-precios-piden-medidas-para-proteger-la-industria-nacional-504760",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Estarían llegando a Colombia llantas chinas a bajos precios: piden medidas para proteger la industria nacional",
+        "capturado": "2026-10-20T09:25:40-05:00"
+      },
       {
         "titulo": "David Ellison asume el mando de la nueva potencia de Hollywood: dirige Paramount y Warner",
         "url": "https://www.portafolio.co/negocios/empresas/david-ellison-toma-el-control-del-nuevo-gigante-de-hollywood-el-empresario-que-ahora-dirige-paramount-y-warner-504750",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Importaciones de leche en polvo se disparan 76,7%: Analac pide claridad sobre el origen de los lácteos",
         "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Ventas de la canasta básica subieron 22% por donaciones tras el sismo, señala NielsenIQ",
-        "url": "https://www.portafolio.co/negocios/empresas/tras-el-sismo-las-donaciones-movieron-la-economia-ventas-de-la-canasta-basica-crecieron-22-dice-nielseniq-504467",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Tras el sismo, las donaciones movieron la economía: ventas de la canasta básica crecieron 22%, dice NielsenIQ",
-        "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Merco ubica a Bancolombia y Ecopetrol como las compañías con mayor atracción laboral en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-ecopetrol-son-las-empresas-mas-atractivas-para-trabajar-en-colombia-segun-merco-504470",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Bancolombia y Ecopetrol son las empresas más atractivas para trabajar en Colombia, según Merco",
-        "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Firma colombiana Ohra Water prevé expansión del 35% tras estar en Paris Fashion Week con diseño",
-        "url": "https://www.portafolio.co/negocios/empresas/empresa-colombiana-ohra-water-proyecta-crecer-35-tras-su-paso-por-paris-fashion-week-con-su-apuesta-de-diseno-504464",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Empresa colombiana Ohra Water proyecta crecer 35% tras su paso por Paris Fashion Week con su apuesta de diseño",
-        "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "El salario mínimo no puede convertirse en un componente de negociación social",
-        "url": "https://www.portafolio.co/negocios/empresas/el-salario-minimo-no-puede-convertirse-en-un-componente-de-negociacion-social-504454",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "\"El salario mínimo no puede convertirse en un componente de negociación social”",
-        "capturado": "2026-10-14T14:59:07-05:00"
       }
     ]
   }
