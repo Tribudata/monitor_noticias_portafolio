@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-20T13:36:34-05:00",
+  "actualizado": "2026-10-20T17:07:37-05:00",
   "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Presupuesto General 2027: contar con $635 billones financiados no borra las presiones fiscales, según estudio",
+        "url": "https://www.portafolio.co/economia/finanzas/presupuesto-general-2027-tener-financiados-635-billones-no-elimina-las-presiones-fiscales-segun-analisis-504812",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Presupuesto General 2027: tener financiados $635 billones no elimina las presiones fiscales, según análisis",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia descendería hasta $3.120 en el transcurso de la semana",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-bajar-hasta-3-120-esta-semana-504805",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Dólar en Colombia podría bajar hasta $3.120 esta semana",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Halloween impulsa el turismo: Salem, Transilvania, Nueva Orleans y México atraen con planes de terror",
+        "url": "https://www.portafolio.co/economia/halloween-mueve-el-turismo-salem-transilvania-nueva-orleans-y-mexico-atraen-con-sus-planes-de-terror-504792",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Halloween mueve el turismo: Salem, Transilvania, Nueva Orleans y México atraen con sus planes de terror",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Rutas escolares en Colombia: nuevas obligaciones para planteles educativos, conductores y acudientes",
+        "url": "https://www.portafolio.co/economia/gobierno/rutas-escolares-en-colombia-nuevas-exigencias-para-colegios-conductores-y-padres-de-familia-504802",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Rutas escolares en Colombia: nuevas exigencias para colegios, conductores y padres de familia",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Una crónica del desastre: faltante de $3,198 billones en el fondo docente, Mineducación exige prioridad",
+        "url": "https://www.portafolio.co/economia/gobierno/una-cronica-del-desastre-hueco-de-3-198-billones-en-el-fondo-de-los-maestros-mineducacion-pide-prioridad-504801",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "'Una crónica del desastre': hueco de $3,198 billones en el fondo de los maestros, Mineducación pide prioridad",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Contratos de aprendices del Sena se modifican: compañías podrán valorar su rendimiento desde el inicio",
+        "url": "https://www.portafolio.co/economia/gobierno/contratos-de-aprendices-del-sena-cambian-empresas-podran-evaluar-su-desempeno-desde-el-inicio-504800",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Contratos de aprendices del Sena cambian: empresas podrán evaluar su desempeño desde el inicio",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Contraloría indaga posible daño de $3.000 millones en convenio de restauración coralina en San Andrés",
+        "url": "https://www.portafolio.co/economia/regiones/contraloria-investiga-presunto-detrimento-de-3-000-millones-en-contrato-para-recuperar-arrecifes-de-san-andres-504798",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Contraloría investiga presunto detrimento de $3.000 millones en contrato para recuperar arrecifes de San Andrés",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Reacciones al Presupuesto 2027: Pacto Histórico convoca protestas y demandas por recortes",
+        "url": "https://www.portafolio.co/economia/gobierno/las-reacciones-a-la-aprobacion-del-presupuesto-2027-el-pacto-anuncia-marchas-y-acciones-legales-por-recortes-504793",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Reacciones a la aprobación del Presupuesto 2027: Pacto Histórico anuncia marchas y acciones legales por recortes",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Financiación para el campo sube 33 % en Colombia y llega a $6,4 billones en septiembre",
+        "url": "https://www.portafolio.co/economia/agro/credito-agropecuario-se-dispara-33-en-colombia-y-alcanza-los-6-4-billones-durante-septiembre-504790",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Crédito agropecuario se dispara 33 % en Colombia y alcanza los $6,4 billones durante septiembre",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
       {
         "titulo": "Crédito de 200 millones de euros suscrito con banco alemán por Colombia para financiar el Presupuesto 2026",
         "url": "https://www.portafolio.co/economia/finanzas/colombia-firma-credito-por-200-millones-de-euros-con-banco-aleman-para-financiar-el-presupuesto-de-504788",
@@ -513,99 +603,49 @@
         "publicacion": "2026-10-18",
         "titulo_fuente": "Alocución del presidente Abelardo de la Espriella",
         "capturado": "2026-10-18T20:34:45-05:00"
-      },
-      {
-        "titulo": "JPMorgan prepara su infraestructura de pagos en moneda local en Colombia y prevé un año histórico en M&A",
-        "url": "https://www.portafolio.co/economia/crecimiento/jpmorgan-alista-su-red-de-pagos-en-pesos-en-colombia-y-anticipa-un-ano-record-en-fusiones-504674",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "JPMorgan alista su red de pagos en pesos en Colombia y anticipa un año récord en fusiones",
-        "capturado": "2026-10-18T16:16:13-05:00"
-      },
-      {
-        "titulo": "Exmandatario Uribe conversó con Florentino Pérez, líder del Real Madrid, para apoyar a afectados por sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/expresidente-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-para-ayudar-a-victimas-del-terremoto-504668",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Expresidente Uribe se reunió con Florentino Pérez, presidente del Real Madrid, para ayudar a víctimas del terremoto",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "San Andrés obtendrá $1.500 millones para impulsar hasta 150 negocios comunitarios",
-        "url": "https://www.portafolio.co/economia/regiones/san-andres-recibira-1-500-millones-para-fortalecer-hasta-150-emprendimientos-de-comunidades-504667",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "San Andrés recibirá $1.500 millones para fortalecer hasta 150 emprendimientos de comunidades",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027: parlamentarios preparan nuevas mociones previo al debate final del 19 de octubre",
-        "url": "https://www.portafolio.co/economia/crecimiento/presupuesto-2027-congresistas-alistan-nuevas-proposiciones-antes-de-la-votacion-definitiva-de-este-19-de-octubre-504666",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Presupuesto 2027: congresistas alistan nuevas proposiciones antes de la votación definitiva de este 19 de octubre",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "Conozco los negocios de su esposo: De La Espriella increpa a mandataria de San Andrés",
-        "url": "https://www.portafolio.co/economia/gobierno/estoy-enterado-de-los-negocios-de-su-marido-de-la-espriella-confronta-a-gobernadora-de-san-andres-504665",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "'Estoy enterado de los negocios de su marido': De La Espriella confronta a gobernadora de San Andrés",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "IPC, tasas y CDTs: las razones por las cuales el escenario actual trae beneficios a los ahorradores",
-        "url": "https://www.portafolio.co/economia/finanzas/inflacion-tasas-de-interes-y-cdts-por-que-el-panorama-actual-abre-oportunidades-para-los-ahorradores-504662",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Inflación, tasas de interés y CDTs: por qué el panorama actual abre oportunidades para los ahorradores",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "Procuraduría indaga a tres exdirectivos de Aerocivil por anomalías en contrato de 18 terminales",
-        "url": "https://www.portafolio.co/economia/infraestructura/procuraduria-investiga-a-tres-exdirectivos-de-aerocivil-por-fallas-en-contrato-para-18-aeropuertos-504664",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Procuraduría investiga a tres exdirectivos de Aerocivil por fallas en contrato para 18 aeropuertos",
-        "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "Mintransporte lanza convocatoria para modificar el Código de Tránsito en multas, fotomultas y pases",
-        "url": "https://www.portafolio.co/economia/multas-fotodetecciones-y-licencias-mintransporte-abre-convocatoria-para-reformar-el-codigo-de-transito-504658",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Multas, fotodetecciones y licencias: Mintransporte abre convocatoria para reformar el Código de Tránsito",
-        "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "Gobierno y Grupo Éxito pactan alianza millonaria para promover nuevos mercados al campo nacional",
-        "url": "https://www.portafolio.co/economia/agro/grupo-exito-y-gobierno-anuncian-alianza-con-oportunidades-comerciales-por-mas-de-1-2-billones-504657",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Agro colombiano busca nuevos mercados: Grupo Éxito y Gobierno anuncian millonario acuerdo para impulsarlo",
-        "capturado": "2026-10-18T11:21:49-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Emprendimiento asociado a Alquería promueve esquema de crédito para el agro",
+        "url": "https://www.portafolio.co/negocios/empresas/startup-vinculada-a-alqueria-impulsa-modelo-de-financiacion-agropecuaria-504811",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Startup vinculada a Alquería impulsa modelo de financiación agropecuaria",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Precio de la camioneta Tesla Cybertruck estrellada contra un poste en el oriente antioqueño",
+        "url": "https://www.portafolio.co/negocios/vehiculo/cuanto-cuesta-la-camioneta-cybertruck-de-tesla-que-choco-contra-un-poste-de-luz-en-el-oriente-de-antioquia-504804",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Cuánto cuesta la camioneta Cybertruck de Tesla que chocó contra un poste de luz en el oriente de Antioquia",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "Comfama multiplicó por tres sus entradas en diez años y hoy atiende al 70 por ciento de antioqueños",
+        "url": "https://www.portafolio.co/negocios/empresas/comfama-triplico-sus-ingresos-en-una-decada-y-hoy-llega-a-siete-de-cada-diez-antioquenos-504799",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Comfama triplicó sus ingresos en una década y hoy llega a siete de cada diez antioqueños",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
+      {
+        "titulo": "El almuerzo corriente crece en el país: Rappi registra un alza del 160 por ciento en órdenes para 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/el-corrientazo-gana-terreno-en-colombia-rappi-reporta-un-aumento-del-160-en-pedidos-en-504789",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "El corrientazo gana terreno en Colombia: Rappi reporta un aumento del 160 % en pedidos en 2026",
+        "capturado": "2026-10-20T17:07:37-05:00"
+      },
       {
         "titulo": "Este es el centro comercial bogotano que prevé un millón de visitantes al mes en un plazo de dos años",
         "url": "https://www.portafolio.co/negocios/comercio/este-es-el-centro-comercial-de-bogota-que-proyecta-un-millon-de-visitantes-mensuales-en-dos-anos-504787",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Ecopetrol cambia su alta gerencia: sale Rodolfo Mario García y llega José Eduardo Barreneche",
         "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Ingresos de equipos del balompié nacional subieron 16,6 % en 2025: activos sumaron $925.000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/clubes-del-futbol-colombiano-aumentaron-sus-ingresos-16-6-en-2025-activos-llegaron-a-925-000-millones-504498",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Clubes del fútbol colombiano aumentaron sus ingresos 16,6 % en 2025: activos llegaron a $925.000 millones",
-        "capturado": "2026-10-15T07:35:59-05:00"
-      },
-      {
-        "titulo": "Gilinski afianza el dominio de Nutresa mediante pacto de firmas que agrupan el 76,71% de los títulos",
-        "url": "https://www.portafolio.co/negocios/empresas/gilinski-consolida-el-control-de-nutresa-con-acuerdo-entre-sociedades-que-reunen-el-76-71-de-las-acciones-504492",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Gilinski consolida el control de Nutresa con acuerdo entre sociedades que reúnen el 76,71% de las acciones",
-        "capturado": "2026-10-15T01:59:42-05:00"
-      },
-      {
-        "titulo": "BYD liderará el mercado de Colombia en el plazo de tres años",
-        "url": "https://www.portafolio.co/negocios/vehiculo/en-tres-anos-byd-sera-numero-uno-del-mercado-colombiano-504481",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "En tres años BYD será número uno del mercado colombiano",
-        "capturado": "2026-10-14T20:39:53-05:00"
-      },
-      {
-        "titulo": "GEB lanza emisión para todo inversor y subastará hasta $400.000 millones en papeles",
-        "url": "https://www.portafolio.co/negocios/empresas/geb-emite-deuda-abierta-a-todo-tipo-de-inversionistas-subastara-hasta-400-000-millones-en-papeles-comerciales-504480",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "GEB emite deuda abierta a todo tipo de inversionistas: subastará hasta $400.000 millones en papeles comerciales",
-        "capturado": "2026-10-14T20:39:53-05:00"
       }
     ]
   }
