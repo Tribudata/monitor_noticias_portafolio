@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-19T18:51:37-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-19T22:33:25-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "David Ellison asume el mando de la nueva potencia de Hollywood: dirige Paramount y Warner",
+        "url": "https://www.portafolio.co/negocios/empresas/david-ellison-toma-el-control-del-nuevo-gigante-de-hollywood-el-empresario-que-ahora-dirige-paramount-y-warner-504750",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "David Ellison toma el control del nuevo gigante de Hollywood: el empresario que ahora dirige Paramount y Warner",
+        "capturado": "2026-10-19T22:33:25-05:00"
+      },
+      {
         "titulo": "Kapital Colombia recibió aval como sociedad de financiación pero aún carece de autorización de funciones",
         "url": "https://www.portafolio.co/negocios/empresas/superfinanciera-autoriza-crear-kapital-colombia-pero-todavia-falta-el-permiso-para-operar-504746",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-14",
         "titulo_fuente": "\"El salario mínimo no puede convertirse en un componente de negociación social”",
-        "capturado": "2026-10-14T14:59:07-05:00"
-      },
-      {
-        "titulo": "Inicia el retiro de avisos de Movistar en Colombia para ser reemplazados por Tigo",
-        "url": "https://www.portafolio.co/negocios/empresas/empiezan-a-bajar-letreros-de-movistar-en-colombia-para-cambiarlos-por-tigo-504458",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Empiezan a bajar letreros de Movistar en Colombia para cambiarlos por Tigo",
         "capturado": "2026-10-14T14:59:07-05:00"
       }
     ]
