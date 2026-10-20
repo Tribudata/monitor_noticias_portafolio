@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-20T09:25:40-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-20T13:36:34-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Crédito de 200 millones de euros suscrito con banco alemán por Colombia para financiar el Presupuesto 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/colombia-firma-credito-por-200-millones-de-euros-con-banco-aleman-para-financiar-el-presupuesto-de-504788",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Colombia firma crédito por 200 millones de euros con banco alemán para financiar el Presupuesto de 2026",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Sectores que Colombia presentará en la Milagro Week de Nueva York para captar inversión",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-sectores-que-colombia-llevara-a-la-milagro-week-de-nueva-york-para-atraer-inversion-504786",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Estos son los sectores que Colombia llevará a la Milagro Week de Nueva York para atraer inversión",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Adquisición estatal de 600 motos, 124 camionetas blindadas y 20 tanquetas ante crisis en vía Panamericana",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-comprara-600-motos-124-camionetas-blindadas-y-20-tanquetas-por-crisis-de-seguridad-en-la-via-panamericana-504784",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Gobierno comprará 600 motos, 124 camionetas blindadas y 20 tanquetas por crisis de seguridad en la vía Panamericana",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Citi señala que la inflación constante en Colombia sostiene elevadas las tasas de interés",
+        "url": "https://www.portafolio.co/economia/crecimiento/citi-advierte-que-la-inflacion-persistente-en-colombia-mantiene-altas-las-tasas-de-interes-504779",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Citi advierte que la inflación persistente en Colombia mantiene altas las tasas de interés",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Ajuste salarial 2027: propuestas técnica y sindical presentan una diferencia de 533.026 pesos",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-533-026-distancian-las-propuestas-tecnica-y-sindical-para-el-ajuste-de-504782",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Salario mínimo: $533.026 distancian las propuestas técnica y sindical para el ajuste de 2027",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Transporte de carga en Colombia entre 2022 y 2025: viajes suben 28,8 % y peso avanza 11,6 %",
+        "url": "https://www.portafolio.co/economia/colombia-mueve-mas-camiones-con-menos-carga-los-viajes-crecieron-28-8-y-el-peso-apenas-11-6-entre-2022-y-504777",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Colombia mueve más camiones con menos carga: los viajes crecieron 28,8 % y el peso apenas 11,6 % entre 2022 y 2025",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Bogotá asigna más de 45000 millones de pesos al Ingreso Mínimo Garantizado en octubre y así se pagan",
+        "url": "https://www.portafolio.co/economia/gobierno/bogota-destina-mas-de-45-000-millones-al-ingreso-minimo-garantizado-en-octubre-asi-se-entregan-los-pagos-504778",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Bogotá destina más de $45.000 millones al Ingreso Mínimo Garantizado en octubre: así se entregan los pagos",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "El gasto de inversión del sector transporte para 2026 solo llegó al 14,2 por ciento en julio",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-ejecucion-presupuestal-de-la-inversion-del-sector-transporte-para-2026-apenas-alcanzo-14-2-en-julio-504773",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "La ejecución presupuestal de la inversión del sector transporte para 2026 apenas alcanzó 14,2% en julio",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Modificaciones en el Presupuesto General 2027: distribución de los recursos por sector en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/ganadores-y-perdedores-del-presupuesto-general-2027-asi-cambia-la-plata-para-cada-sector-en-colombia-504775",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Ganadores y perdedores del Presupuesto General 2027: así cambia la plata para cada sector en Colombia",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Facturación de agencias de viaje baja 7,8 por ciento en agosto y anula el alza previa del 8,2 por ciento",
+        "url": "https://www.portafolio.co/economia/ingresos-de-las-agencias-de-viaje-caen-7-8-en-agosto-y-borran-el-crecimiento-del-8-2-que-tenian-hace-un-ano-504767",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Ingresos de las agencias de viaje caen 7,8% en agosto y borran el crecimiento del 8,2% que tenían hace un año",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
       {
         "titulo": "Encuesta revela que el elevado costo del dinero frena los créditos de los consumidores en Colombia",
         "url": "https://www.portafolio.co/economia/finanzas/creditos-en-colombia-el-alto-costo-del-dinero-lleva-a-consumidores-a-desistir-de-prestamos-segun-encuesta-504769",
@@ -503,109 +603,39 @@
         "publicacion": "2026-10-18",
         "titulo_fuente": "Agro colombiano busca nuevos mercados: Grupo Éxito y Gobierno anuncian millonario acuerdo para impulsarlo",
         "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "Salario mínimo de 2027 llegaría a $2.424.003 con el incremento del 38,5% que proyecta sugerir la CUT",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-de-2027-quedaria-en-2-424-003-si-se-aplica-el-aumento-del-38-5-que-planea-proponer-la-cut-504654",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Salario mínimo de 2027 quedaría en $2.424.003 si se aplica el aumento del 38,5% que planea proponer la CUT",
-        "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "CUT evalúa sugerir un incremento salarial mínimo del 38,5% para el año 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/cut-contempla-proponer-un-aumento-del-salario-minimo-de-38-504653",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "CUT contempla proponer un aumento del salario mínimo de 38,5% para 2027",
-        "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "El pago salarial y el cálculo de recargos empresariales se ponen a prueba con la jornada laboral de 42 horas",
-        "url": "https://www.portafolio.co/economia/empleo/jornada-laboral-de-42-horas-pone-a-prueba-la-liquidacion-de-nomina-y-el-calculo-de-recargos-en-las-empresas-504649",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Jornada laboral de 42 horas pone a prueba la liquidación de nómina y el cálculo de recargos en las empresas",
-        "capturado": "2026-10-17T18:45:19-05:00"
-      },
-      {
-        "titulo": "Alertas y datos preocupantes que el FMI entregó a Colombia en estos días",
-        "url": "https://www.portafolio.co/economia/gobierno/estas-fueron-las-alertas-economicas-que-el-fmi-dejo-a-colombia-esta-semana-y-las-cifras-que-preocupan-504646",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Estas fueron las alertas económicas que el FMI dejó a Colombia esta semana y las cifras que preocupan",
-        "capturado": "2026-10-17T16:35:55-05:00"
-      },
-      {
-        "titulo": "El déficit fiscal en Colombia encarece créditos y eleva el costo de vida",
-        "url": "https://www.portafolio.co/economia/finanzas/deficit-fiscal-en-colombia-le-toca-el-bolsillo-asi-se-encarecen-los-creditos-y-sube-el-costo-de-vida-504643",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Déficit fiscal en Colombia le toca el bolsillo: así se encarecen los créditos y sube el costo de vida",
-        "capturado": "2026-10-17T16:35:55-05:00"
-      },
-      {
-        "titulo": "Vicepresidente detalla las condiciones para acceder a quince mil becas de Google y el Gobierno",
-        "url": "https://www.portafolio.co/economia/gobierno/paso-a-paso-para-postular-a-las-15-000-becas-que-el-gobierno-de-de-la-espriella-habilito-junto-a-google-504644",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Vicepresidente repasa los requisitos para postularse a las 15.000 becas que Google y el Gobierno habilitaron",
-        "capturado": "2026-10-17T16:35:55-05:00"
-      },
-      {
-        "titulo": "Nuevos retos para la seguridad laboral en Colombia por causa del estrés térmico y la salud mental",
-        "url": "https://www.portafolio.co/economia/empleo/estres-termico-y-salud-mental-plantean-nuevos-desafios-para-la-seguridad-de-los-trabajadores-en-colombia-504638",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Estrés térmico y salud mental plantean nuevos desafíos para la seguridad de los trabajadores en Colombia",
-        "capturado": "2026-10-17T14:01:52-05:00"
-      },
-      {
-        "titulo": "La remuneración básica de 2027 retará a una CUT fraccionada tras escoger a su nuevo líder",
-        "url": "https://www.portafolio.co/economia/gobierno/el-salario-minimo-de-2027-pondra-a-prueba-a-una-cut-dividida-tras-la-eleccion-de-su-nuevo-presidente-504639",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "El salario mínimo de 2027 pondrá a prueba a una CUT dividida tras la elección de su nuevo presidente",
-        "capturado": "2026-10-17T14:01:52-05:00"
-      },
-      {
-        "titulo": "La Nueva Calle 13 pasa del 50 por ciento de ejecución: así operarán los puentes de Puente Aranda en Bogotá",
-        "url": "https://www.portafolio.co/economia/infraestructura/la-nueva-calle-13-supera-el-50-de-avance-asi-estaran-listos-los-puentes-de-puente-aranda-en-bogota-504637",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "La Nueva Calle 13 supera el 50% de avance: así estarán listos los puentes de Puente Aranda en Bogotá",
-        "capturado": "2026-10-17T14:01:52-05:00"
-      },
-      {
-        "titulo": "Alerta por fraude en Colombia: identifican 1.500 intentos mensuales de firma con cédulas de difuntos",
-        "url": "https://www.portafolio.co/economia/gobierno/cedulas-de-fallecidos-aparecen-en-1-500-intentos-de-firma-al-mes-alerta-por-fraude-en-colombia-504635",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Cédulas de fallecidos aparecen en 1.500 intentos de firma al mes: alerta por fraude en Colombia",
-        "capturado": "2026-10-17T11:50:58-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Este es el centro comercial bogotano que prevé un millón de visitantes al mes en un plazo de dos años",
+        "url": "https://www.portafolio.co/negocios/comercio/este-es-el-centro-comercial-de-bogota-que-proyecta-un-millon-de-visitantes-mensuales-en-dos-anos-504787",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Este es el centro comercial de Bogotá que proyecta un millón de visitantes mensuales en dos años",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "Presto buscará comprador en liquidación y la Supersociedades autorizó operar sus restaurantes",
+        "url": "https://www.portafolio.co/negocios/empresas/presto-buscara-comprador-en-plena-liquidacion-judicial-y-mantendra-sus-restaurantes-funcionando-504776",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Presto buscará comprador en plena liquidación: Supersociedades aprobó que sus restaurantes sigan funcionando",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
+      {
+        "titulo": "María Eugenia Tous liderará Petromil, firma que logró ingresos cercanos a 3,5 billones de pesos en 2025",
+        "url": "https://www.portafolio.co/negocios/empresas/maria-eugenia-tous-con-mas-de-20-anos-de-experiencia-asume-la-presidencia-de-petromil-504774",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "María Eugenia Tous asume presidencia de Petromil, empresa que en 2025 obtuvo ingresos cercanos a los $3,5 billones",
+        "capturado": "2026-10-20T13:36:34-05:00"
+      },
       {
         "titulo": "Postobón entrega sistemas de agua potable que favorecen a cinco acueductos en Yumbo",
         "url": "https://www.portafolio.co/negocios/empresas/postobon-dona-soluciones-de-agua-potable-beneficia-a-cinco-acueductos-de-yumbo-504770",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "GEB emite deuda abierta a todo tipo de inversionistas: subastará hasta $400.000 millones en papeles comerciales",
         "capturado": "2026-10-14T20:39:53-05:00"
-      },
-      {
-        "titulo": "Salida de Movistar de Colombia: este fue el recorrido del operador ibérico",
-        "url": "https://www.portafolio.co/negocios/empresas/movistar-se-apaga-en-colombia-asi-fue-la-historia-del-gigante-espanol-en-el-pais-504478",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Movistar se apaga en Colombia: así fue la historia del gigante español en el país",
-        "capturado": "2026-10-14T20:39:53-05:00"
-      },
-      {
-        "titulo": "Movistar pasa a ser Tigo y destinará 8,5 billones de pesos en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/movistar-se-convierte-en-tigo-que-ahora-invertira-8-5-billones-en-colombia-504475",
-        "resumen": "",
-        "autor": "Jose caparroso, johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Movistar se convierte en Tigo, que ahora invertirá $8,5 billones en Colombia",
-        "capturado": "2026-10-14T18:07:21-05:00"
-      },
-      {
-        "titulo": "Alzas de 76,7% en compras externas de leche llevan a Analac a exigir claridad sobre su procedencia",
-        "url": "https://www.portafolio.co/negocios/comercio/importaciones-de-leche-en-polvo-se-disparan-76-7-analac-pide-claridad-sobre-el-origen-de-los-lacteos-504472",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Importaciones de leche en polvo se disparan 76,7%: Analac pide claridad sobre el origen de los lácteos",
-        "capturado": "2026-10-14T18:07:21-05:00"
       }
     ]
   }
