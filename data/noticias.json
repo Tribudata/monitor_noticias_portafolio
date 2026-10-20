@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-19T22:33:25-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-20T04:09:07-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Presupuesto General de la Nación para 2027 quedó listo para sanción presidencial tras extensa sesión",
+        "url": "https://www.portafolio.co/economia/luego-de-una-larga-jornada-a-sancion-presidencial-paso-el-presupuesto-general-de-la-nacion-para-504756",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Luego de una larga jornada, a sanción presidencial pasó el Presupuesto General de la Nación para 2027",
+        "capturado": "2026-10-20T04:09:07-05:00"
+      },
+      {
+        "titulo": "El Presupuesto 2027 fue aprobado en el Senado pero su debate se complicó en la Cámara",
+        "url": "https://www.portafolio.co/economia/senado-de-la-republica-le-dio-luz-verde-al-presupuesto-del-2027-mientras-que-en-la-camara-se-enredo-la-discusion-504748",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-19",
+        "titulo_fuente": "Senado de la República le dio luz verde al Presupuesto del 2027, mientras que en la Cámara se enredó la discusión",
+        "capturado": "2026-10-20T04:09:07-05:00"
+      },
       {
         "titulo": "Centrales obreras y jubilados alistan proyecto unificado sobre el salario mínimo del año 2027",
         "url": "https://www.portafolio.co/economia/finanzas/centrales-sindicales-y-pensionados-preparan-propuesta-conjunta-para-el-salario-minimo-de-504745",
@@ -582,26 +602,6 @@
         "subseccion": "Regiones",
         "publicacion": "2026-10-16",
         "titulo_fuente": "Primera dama Ana Lucía Pineda presentó informe con las cuentas de su fundación: recibió más de $50 mil millones",
-        "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "Detalles de operación, costos y usuarios del nuevo campo de golf Inter Rapidísimo La Florida",
-        "url": "https://www.portafolio.co/economia/asi-funcionara-el-nuevo-campo-de-golf-inter-rapidisimo-la-florida-quien-lo-administra-quien-lo-paga-y-quien-juega-504609",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Así funcionará el nuevo campo de golf Inter Rapidísimo La Florida: quién lo administra, quién lo paga y quién juega",
-        "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "Policía da fin a la Undmo, funda la Unidad Nacional Antidisturbios y prevé 90 días de transformación",
-        "url": "https://www.portafolio.co/economia/gobierno/adios-a-la-undmo-policia-crea-unidad-nacional-antidisturbios-y-anuncia-90-dias-de-cambios-504607",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Adiós a la Undmo: Policía crea Unidad Nacional Antidisturbios y anuncia 90 días de cambios",
         "capturado": "2026-10-16T18:15:36-05:00"
       }
     ],
