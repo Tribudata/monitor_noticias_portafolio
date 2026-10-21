@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-21T15:18:03-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-21T18:31:31-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,46 @@
     ],
     "Negocios": [
       {
+        "titulo": "Venta de Presto busca salvarla de la liquidación",
+        "url": "https://www.portafolio.co/negocios/empresas/presto-pasara-a-nuevas-manos-y-evitara-la-liquidacion-504879",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "¿Presto pasará a nuevas manos para evitará su liquidación?",
+        "capturado": "2026-10-21T18:31:31-05:00"
+      },
+      {
+        "titulo": "GeoPark triplica área en Vaca Muerta al ganar un bloque en Argentina",
+        "url": "https://www.portafolio.co/negocios/empresas/geopark-triplica-su-superficie-en-vaca-muerta-tras-adjudicarse-un-nuevo-bloque-en-argentina-504878",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "GeoPark triplica su superficie en Vaca Muerta tras adjudicarse un nuevo bloque en Argentina",
+        "capturado": "2026-10-21T18:31:31-05:00"
+      },
+      {
+        "titulo": "Aerolíneas latinoamericanas advierten subida de costos y el combustible pesa el 38 por ciento",
+        "url": "https://www.portafolio.co/negocios/empresas/aerolineas-en-america-latina-alertan-por-alza-de-costos-el-combustible-ya-representa-el-38-de-sus-gastos-504871",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Aerolíneas en América Latina alertan por alza de costos: el combustible ya representa el 38% de sus gastos",
+        "capturado": "2026-10-21T18:31:31-05:00"
+      },
+      {
+        "titulo": "Directivos de medios americanos debaten en Bogotá la transformación de sus empresas por cambios sectoriales",
+        "url": "https://www.portafolio.co/negocios/empresas/lideres-de-medios-de-comunicacion-de-america-se-reunen-en-bogota-para-analizar-los-grandes-retos-de-la-industria-504870",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Líderes de medios de América analizan en Bogotá cómo transformar sus negocios ante los cambios de la industria",
+        "capturado": "2026-10-21T18:31:31-05:00"
+      },
+      {
         "titulo": "Citi y JP Morgan participan en Milagro Week para unir iniciativas colombianas con capitalistas",
         "url": "https://www.portafolio.co/negocios/inversion/jp-morgan-y-citi-se-suman-a-milagro-week-para-conectar-proyectos-de-colombia-con-inversionistas-504868",
         "resumen": "",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-16",
         "titulo_fuente": "Colombiano lleva inteligencia artificial a la cabina de camiones para reducir la siniestralidad vial hasta 70%",
         "capturado": "2026-10-16T08:25:37-05:00"
-      },
-      {
-        "titulo": "GeoPark sube su producción un 2,6% y progresa en su llegada a Venezuela estos son sus planes",
-        "url": "https://www.portafolio.co/negocios/empresas/geopark-aumenta-su-produccion-2-6-y-avanza-en-su-entrada-a-venezuela-estos-son-sus-planes-504558",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "GeoPark aumenta su producción 2,6% y avanza en su entrada a Venezuela: estos son sus planes",
-        "capturado": "2026-10-15T22:17:03-05:00"
-      },
-      {
-        "titulo": "Colombiana figura en el top 100 de directivos sobresalientes de los Best CEO Awards 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-colombiana-fue-incluida-entre-los-100-ejecutivos-mas-destacados-en-los-best-ceo-awards-504549",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Esta colombiana fue incluida entre los 100 ejecutivos más destacados en los Best CEO Awards 2026",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Programa de Mastercard digitaliza más de 110000 microempresas locales hasta el momento",
-        "url": "https://www.portafolio.co/negocios/empresas/la-iniciativa-de-mastercard-que-ya-ayudo-en-la-digitalizacion-de-mas-de-110-000-pequenas-empresas-en-el-pais-504547",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "La iniciativa de Mastercard que ya ayudó en la digitalización de más de 110.000 pequeñas empresas en el país",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Toque de campana señala el retorno del Grupo Energía Bogotá a la bolsa nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-energia-bogota-coloca-400-000-millones-en-papeles-comerciales-y-activa-programa-de-deuda-504550",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Toque de campana marca el regreso del Grupo Energía Bogotá al mercado de capitales colombiano",
-        "capturado": "2026-10-15T18:37:04-05:00"
       }
     ]
   }
