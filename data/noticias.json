@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-21T11:02:46-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-21T15:18:03-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Un estudio señala que inflación de 6,87% llevaría las tasas del Emisor a 12,50% al terminar 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/una-inflacion-de-6-87-elevaria-las-tasas-del-banco-de-la-republica-a-12-50-al-cierre-de-2026-advierte-estudio-504862",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Una inflación de 6,87% elevaría las tasas del Banco de la República a 12,50% al cierre de 2026, advierte estudio",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "El menor ritmo de la economía nacional en agosto causó contracción y prendió alarmas",
+        "url": "https://www.portafolio.co/economia/gobierno/la-economia-colombiana-se-contrajo-en-agosto-y-encendio-alertas-por-su-menor-dinamismo-504858",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "La economía colombiana se contrajo en agosto y encendió alertas por su menor dinamismo",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Por fallo de trámite, el Ejecutivo expedirá por decreto el Presupuesto 2027 validado inicialmente en el Congreso",
+        "url": "https://www.portafolio.co/economia/el-dia-de-hoy-procedera-a-decretar-dicho-presupuesto-general-de-la-nacion-gobierno-nacional-504852",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Ante vicio de trámite, Gobierno decretará el Presupuesto para 2027 con lo aprobado en primer debate en el Congreso",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Las compras externas del país crecieron 31,7% en agosto y llegaron a US$7.702 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/importaciones-de-colombia-se-dispararon-31-7-en-agosto-y-alcanzaron-los-us-7-702-millones-504851",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Importaciones de Colombia se dispararon 31,7 % en agosto y alcanzaron los US$7.702 millones",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Perú Mucho Gusto comercializó 471.561 platos y movilizó US$3,8 millones en 2025 y regresará a Lima gratis",
+        "url": "https://www.portafolio.co/economia/peru-mucho-gusto-vendio-471-561-platos-y-movio-us-3-8-millones-en-2025-la-feria-vuelve-a-lima-con-entrada-libre-504849",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Perú Mucho Gusto vendió 471.561 platos y movió US$ 3,8 millones en 2025; la feria vuelve a Lima con entrada libre",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Aval Fiduciaria lanza herramienta de IA en WhatsApp para consultar el estado de inversiones y ahorros",
+        "url": "https://www.portafolio.co/economia/finanzas/aval-fiduciaria-lleva-la-inteligencia-artificial-a-whatsapp-para-facilitar-el-paso-del-ahorro-a-la-inversion-504848",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Desde WhatsApp podrá ver cómo van sus inversiones y ahorros con nueva herramienta de Aval Fiduciaria, basada en IA",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Aeronaves no tripuladas repartirán carga de hasta 20 kilos en Medellín: así operará la nueva prueba piloto",
+        "url": "https://www.portafolio.co/economia/regiones/drones-entregaran-paquetes-de-hasta-20-kilos-en-medellin-asi-funcionara-el-nuevo-plan-piloto-504845",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Drones entregarán paquetes de hasta 20 kilos en Medellín: así funcionará el nuevo plan piloto",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Corficolombiana: servicio de la deuda estatal consumirá el 31,6 % de las rentas nacionales en 2027",
+        "url": "https://www.portafolio.co/economia/corficolombiana-pago-de-intereses-de-la-deuda-publica-absorberia-el-31-6-de-los-ingresos-del-gobierno-en-504841",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Corficolombiana: pago de intereses de la deuda pública absorbería el 31,6 % de los ingresos del Gobierno en 2027",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Expertos dan prioridad al sendero fiscal frente a los tipos de interés para decidir inversiones locales",
+        "url": "https://www.portafolio.co/economia/gobierno/analistas-priorizan-el-rumbo-fiscal-sobre-las-tasas-a-la-hora-de-tomar-decisiones-de-inversion-en-el-pais-encuesta-504839",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Analistas priorizan rumbo fiscal sobre las tasas de interés a la hora de tomar decisiones de inversión en el país",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Cotización del euro este 21 de octubre: la divisa tuvo un incremento tras varios días de descensos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-21-de-octubre-la-moneda-registro-un-repunte-despues-de-varias-jornadas-de-caidas-504837",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Precio del euro hoy 21 de octubre: la moneda registró un repunte después de varias jornadas de caídas",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Empresas constructoras nacionales buscan negocios en Chile: delegación de la CCI asiste a Edifica",
+        "url": "https://www.portafolio.co/economia/infraestructura/constructoras-colombianas-salen-a-buscar-contratos-a-chile-mision-de-la-cci-llega-a-ruedas-de-negocios-en-edifica-504835",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Constructoras colombianas salen a buscar contratos a Chile: misión de la CCI llega a ruedas de negocios en Edifica",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Presupuesto de 2027: Senado precisa que no avaló mociones para el artículo 65 en la discusión plenaria",
+        "url": "https://www.portafolio.co/economia/presupuesto-de-2027-senado-aclara-que-no-aprobo-proposiciones-para-el-articulo-65-durante-el-debate-en-plenaria-504836",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Presupuesto de 2027: Senado aclara que no aprobó proposiciones para el artículo 65 durante el debate en plenaria",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "IDU anuncia que Avenida Ciudad de Cali, Las Américas, la 68 y la 26 se conectarán en un viaje este año",
+        "url": "https://www.portafolio.co/economia/infraestructura/avenida-ciudad-de-cali-las-americas-la-68-y-la-calle-26-quedaran-conectadas-este-ano-en-un-solo-viaje-dice-idu-504833",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Avenida Ciudad de Cali, Las Américas, la 68 y la calle 26 quedarán conectadas este año en un solo viaje, dice IDU",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia hoy: la moneda empieza cerca de $3.160 este 21 de octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-la-divisa-inicia-cerca-de-3-160-este-21-de-octubre-504832",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: la divisa inicia cerca de $3.160 este 21 de octubre",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Ideam lanza alerta por lluvias en Colombia y advierte peligro de inundaciones en 209 subzonas",
+        "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-ponen-en-alerta-a-colombia-ideam-advierte-riesgo-de-inundaciones-en-209-subzonas-504831",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Fuertes lluvias ponen en alerta a Colombia: Ideam advierte riesgo de inundaciones en 209 subzonas",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Falla en trámite del Presupuesto 2027 forzaría a De La Espriella a sacarlo mediante decreto",
+        "url": "https://www.portafolio.co/economia/gobierno/este-es-el-error-en-la-aprobacion-del-presupuesto-2027-que-obligaria-a-de-la-espriella-a-expedirlo-via-decreto-504830",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Este es el error en la aprobación del Presupuesto 2027 que obligaría a De La Espriella a expedirlo vía decreto",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
       {
         "titulo": "Presupuesto del 2027 recién aprobado, en riesgo por posible hundimiento debido a vicio de trámite en el Congreso",
         "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-recien-aprobado-en-vilo-por-inminente-hundimiento-por-vicio-de-tramite-en-el-congreso-504829",
@@ -443,169 +603,49 @@
         "publicacion": "2026-10-19",
         "titulo_fuente": "Minvivienda Jaime Beltrán alerta por obras de agua sin avances: $3.600 millones desembolsados y costos en dólares",
         "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Chocó obtiene nueve ambulancias y avisan centros médicos para 11 pueblos: esto expresó la mandataria y De La Espriella",
-        "url": "https://www.portafolio.co/economia/regiones/choco-recibe-nueve-ambulancias-y-anuncian-hospitales-para-11-municipios-esto-dijo-la-gobernadora-y-de-la-espriella-504717",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Chocó recibe nueve ambulancias y anuncian hospitales para 11 municipios: esto dijo la gobernadora y De La Espriella",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Empleados estatales deberán reintegrar viáticos de desplazamientos no ejecutados: Ejecutivo lanza decreto de ahorro",
-        "url": "https://www.portafolio.co/economia/gobierno/funcionarios-publicos-tendran-que-devolver-viaticos-de-viajes-que-no-utilicen-gobierno-expide-plan-de-austeridad-504718",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Funcionarios públicos tendrán que devolver viáticos de viajes que no utilicen: Gobierno expide plan de austeridad",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Mintransporte habilita espacio para recibir propuestas y construir el nuevo código de tránsito",
-        "url": "https://www.portafolio.co/economia/gobierno/mintransporte-busca-cambiar-el-codigo-de-transito-estas-son-las-propuestas-sobre-multas-gruas-y-fotomultas-504714",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Usted puede ayudar a crear el nuevo código de tránsito: Mintransporte abre espacio para recibir propuestas",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "BBVA informa que el cupo de la tarjeta de crédito servirá para pagos en el sistema Bre-B",
-        "url": "https://www.portafolio.co/economia/finanzas/bbva-anuncia-que-el-cupo-de-la-tarjeta-de-credito-tambien-podra-usarse-para-pagar-por-el-sistema-bre-b-504716",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "BBVA anuncia que el cupo de la tarjeta de crédito también podrá usarse para pagar por el sistema Bre-B",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Vicepresidente expone 133 proyectos por US$120.324 millones para inversión y alza del 6% del PIB",
-        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-presenta-133-proyectos-por-us-120-324-millones-para-atraer-inversiones-a-colombia-504715",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Vicepresidente presenta 133 proyectos por US$120.324 millones para atraer inversiones y hacer crecer 6% la economía",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Cafés de Colombia Expo 2026: 180 marcas y agenda sobre el desarrollo del grano nacional",
-        "url": "https://www.portafolio.co/economia/agro/cafes-de-colombia-expo-2026-180-expositores-y-una-agenda-que-mostro-la-evolucion-del-cafe-colombiano-504699",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Cafés de Colombia Expo 2026: 180 expositores y una agenda que mostró la evolución del café colombiano",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Estado de la economía de Colombia y proyecciones para el cierre del año 2026",
-        "url": "https://www.portafolio.co/economia/crecimiento/como-va-la-economia-colombiana-y-como-cerraria-el-504705",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Cómo va la economía colombiana y cómo cerraría el 2026",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Gobierno evaluará acuerdos del Hospital de San Andrés ante presuntas fallas de gestión",
-        "url": "https://www.portafolio.co/economia/regiones/gobierno-revisara-contratos-del-hospital-de-san-andres-por-posibles-irregularidades-administrativas-504708",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Gobierno revisará contratos del Hospital de San Andrés por posibles irregularidades administrativas",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "El desempeño económico de Colombia bajó un 0,04% durante agosto de 2026",
-        "url": "https://www.portafolio.co/economia/actividad-economica-de-colombia-decrecio-0-04-en-agosto-de-504706",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Actividad económica de Colombia decreció 0,04% en agosto de 2026",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Presión a exportadores de café por revaluación del peso y mayores costos que reducen sus márgenes",
-        "url": "https://www.portafolio.co/economia/agro/el-efecto-tijeta-que-enfrentan-los-exportadores-de-cafe-revaluacion-del-peso-y-costos-presionan-sus-margenes-504703",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "El efecto tijeta que enfrentan los exportadores de café: revaluación del peso y costos presionan sus márgenes",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Especialista advierte que la apreciación del peso colombiano reduciría los ingresos del turismo",
-        "url": "https://www.portafolio.co/economia/gobierno/fortaleza-del-peso-colombiano-podria-estar-afectando-los-ingresos-del-sector-turistico-advierte-experto-504704",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Fortaleza del peso colombiano podría estar afectando los ingresos del sector turístico, advierte experto",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Modificación fiscal para cafeteros en la gestión de recursos de la cosecha cafetera de 2026",
-        "url": "https://www.portafolio.co/economia/agro/cafeteros-el-cambio-tributario-que-deben-tener-en-cuenta-para-administrar-los-ingresos-de-la-cosecha-de-504702",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Cafeteros: el cambio tributario que deben tener en cuenta para administrar los ingresos de la cosecha de 2026",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Crecimiento de los dólares digitales en Colombia genera mayor rivalidad para bancos y cambistas",
-        "url": "https://www.portafolio.co/economia/finanzas/dolares-digitales-ganan-espacio-en-colombia-y-elevan-competencia-para-bancos-y-casas-de-cambio-504698",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Dólares digitales ganan espacio en Colombia y elevan competencia para bancos y casas de cambio",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Avanzan las obras en el estadio de Barranquilla con la instalación de la fachada metálica",
-        "url": "https://www.portafolio.co/economia/regiones/nuevo-avance-en-la-renovacion-del-estadio-de-barranquilla-se-enciende-la-piel-del-supermetro-504696",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Nuevo avance en la renovación del estadio de Barranquilla: '¡Se enciende la piel del Supermetro!'",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Operación de torniquetes inteligentes contra evasión en 49 estaciones de TransMilenio en Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/asi-funcionan-las-puertas-inteligentes-anticolados-que-operan-en-49-estaciones-de-transmilenio-en-bogota-504693",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Así funcionan las puertas inteligentes ‘anticolados’ que operan en 49 estaciones de TransMilenio en Bogotá",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia este lunes 19 de octubre: valor de la divisa europea al comenzar la semana",
-        "url": "https://www.portafolio.co/economia/gobierno/euro-hoy-lunes-19-de-octubre-asi-se-cotiza-la-moneda-europea-en-colombia-al-inicio-de-la-semana-504694",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Euro hoy lunes 19 de octubre: así se cotiza la moneda europea en Colombia al inicio de la semana",
-        "capturado": "2026-10-19T09:51:57-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Citi y JP Morgan participan en Milagro Week para unir iniciativas colombianas con capitalistas",
+        "url": "https://www.portafolio.co/negocios/inversion/jp-morgan-y-citi-se-suman-a-milagro-week-para-conectar-proyectos-de-colombia-con-inversionistas-504868",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "JP Morgan y Citi se suman a Milagro Week para conectar proyectos de Colombia con inversionistas",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Por qué el Gobierno quiere volver a Colombia hub automotor: capacidad perdida y repunte",
+        "url": "https://www.portafolio.co/negocios/vehiculo/por-que-el-gobierno-busca-convertir-a-colombia-en-hub-automotor-la-capacidad-perdida-pese-al-repunte-del-mercado-504864",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "¿Por qué el Gobierno busca convertir a Colombia en hub automotor? La capacidad perdida pese al repunte del mercado",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Netflix reporta ingresos al alza del 12% y margen operativo del 34,6% en medio de despidos",
+        "url": "https://www.portafolio.co/negocios/empresas/netflix-presenta-resultados-en-medio-de-despidos-ingresos-crecen-un-12-y-el-margen-operativo-se-dispara-al-34-504855",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Netflix presenta resultados en medio de despidos: ingresos crecen un 12% y el margen operativo se dispara al 34,6%",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
+      {
+        "titulo": "Renault en Colombia: desde el clásico Renault 4 hasta el próximo vehículo eléctrico de Envigado",
+        "url": "https://www.portafolio.co/negocios/vehiculo/renault-en-colombia-de-los-primeros-renault-4-al-nuevo-modelo-electrificado-que-se-alista-en-envigado-504847",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Renault en Colombia: de los primeros Renault 4 al nuevo modelo electrificado que se alista en Envigado",
+        "capturado": "2026-10-21T15:18:03-05:00"
+      },
       {
         "titulo": "Arturo Calle, David Vélez de Nu y Juan Carlos Mora de Bancolombia encabezan lista de líderes según Merco",
         "url": "https://www.portafolio.co/negocios/empresas/juan-carlos-mora-de-bancolombia-david-velez-de-nu-y-arturo-calle-lideran-podio-de-mejores-lideres-segun-merco-504843",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "Toque de campana marca el regreso del Grupo Energía Bogotá al mercado de capitales colombiano",
         "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Inversión extranjera directa nueva a junio: Bogotá-Región abarcó casi el 50 por ciento de los proyectos",
-        "url": "https://www.portafolio.co/negocios/inversion/inversion-extranjera-directa-nueva-a-junio-bogota-region-concentro-casi-la-mitad-de-los-proyectos-504542",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Inversión extranjera directa nueva a junio: Bogotá-Región concentró casi la mitad de los proyectos",
-        "capturado": "2026-10-15T18:37:04-05:00"
-      },
-      {
-        "titulo": "Firma nacional de mobiliario aumentó 33% en la primera mitad del año superando el promedio del sector",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-marca-colombiana-de-muebles-que-crecio-33-en-el-primer-semestre-por-encima-del-mercado-504536",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Esta es la marca colombiana de muebles que creció 33% en el primer semestre, por encima del mercado",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Sector colombiano de empaques consiguió ventas superiores a US$3 millones en evento global",
-        "url": "https://www.portafolio.co/negocios/comercio/industria-colombiana-de-envases-y-empaques-logro-negocios-por-mas-de-us-3-millones-en-feria-internacional-504538",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Industria colombiana de envases y empaques logró negocios por más de US$3 millones en feria internacional",
-        "capturado": "2026-10-15T15:57:42-05:00"
-      },
-      {
-        "titulo": "Atlético Nacional encabezó entradas del FPC: su cuantiosa caja en 2025 y por qué faltó mayor ganancia",
-        "url": "https://www.portafolio.co/negocios/empresas/atletico-nacional-lidero-ingresos-del-fpc-su-millonaria-facturacion-en-2025-y-por-que-no-tuvo-la-mayor-utilidad-504529",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Atlético Nacional lideró ingresos del FPC: su millonaria facturación en 2025 y por qué no tuvo la mayor utilidad",
-        "capturado": "2026-10-15T15:57:42-05:00"
       }
     ]
   }
