@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-20T17:07:37-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-20T19:45:45-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia procurará préstamos más económicos del BID para bajar el costo de su deuda a largo plazo",
+        "url": "https://www.portafolio.co/economia/finanzas/colombia-buscara-creditos-mas-baratos-del-bid-para-reducir-el-costo-de-su-deuda-a-largo-plazo-504819",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Colombia buscará créditos más baratos del BID para reducir el costo de su deuda a largo plazo",
+        "capturado": "2026-10-20T19:45:45-05:00"
+      },
+      {
+        "titulo": "Bogotá, Medellín y Cali figuran en el listado de 1.000 urbes con mejor rendimiento económico global",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-medellin-y-cali-aparecen-en-el-ranking-de-1-000-ciudades-con-mejor-desempeno-economico-del-mundo-504816",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Bogotá, Medellín y Cali aparecen en el ranking de 1.000 ciudades con mejor desempeño económico del mundo",
+        "capturado": "2026-10-20T19:45:45-05:00"
+      },
       {
         "titulo": "Presupuesto General 2027: contar con $635 billones financiados no borra las presiones fiscales, según estudio",
         "url": "https://www.portafolio.co/economia/finanzas/presupuesto-general-2027-tener-financiados-635-billones-no-elimina-las-presiones-fiscales-segun-analisis-504812",
@@ -583,29 +603,19 @@
         "publicacion": "2026-10-19",
         "titulo_fuente": "El Gobierno busca atraer a gigantes del café para impulsar la transformación industrial del grano colombiano",
         "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "De La Espriella indicó que expedirá decreto para definir líneas de base en San Andrés, Providencia y Santa Catalina",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncio-que-firmara-decreto-para-trazar-lineas-de-base-de-san-andres-providencia-y-santa-catalina-504688",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "De La Espriella anunció que firmará decreto para trazar líneas de base de San Andrés, Providencia y Santa Catalina",
-        "capturado": "2026-10-19T02:21:07-05:00"
-      },
-      {
-        "titulo": "Alocución del mandatario Abelardo de la Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/alocucion-del-presidente-abelardo-de-la-espriella-504687",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Alocución del presidente Abelardo de la Espriella",
-        "capturado": "2026-10-18T20:34:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Planta nacional armaría nuevo vehículo de Renault y recursos para su fabricación sumarían 150 millones de dólares",
+        "url": "https://www.portafolio.co/negocios/industrias/nuevo-carro-de-renault-se-fabricaria-en-colombia-inversion-para-producirlo-llegaria-a-150-millones-de-dolares-504815",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Nuevo carro de Renault se fabricaría en Colombia: inversión para producirlo llegaría a 150 millones de dólares",
+        "capturado": "2026-10-20T19:45:45-05:00"
+      },
       {
         "titulo": "Emprendimiento asociado a Alquería promueve esquema de crédito para el agro",
         "url": "https://www.portafolio.co/negocios/empresas/startup-vinculada-a-alqueria-impulsa-modelo-de-financiacion-agropecuaria-504811",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Tarjetas de crédito Itaú dejarán de funcionar el 21 de octubre: Banco de Bogotá fija fecha límite",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Ecopetrol modifica su cúpula directiva: sale Rodolfo Mario García e ingresa José Eduardo Barreneche",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-cambia-su-alta-gerencia-sale-rodolfo-mario-garcia-y-llega-jose-eduardo-barreneche-504501",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Ecopetrol cambia su alta gerencia: sale Rodolfo Mario García y llega José Eduardo Barreneche",
         "capturado": "2026-10-15T12:37:09-05:00"
       }
     ]
