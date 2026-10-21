@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-20T19:45:45-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-21T00:44:27-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Presupuesto del 2027 recién aprobado, en riesgo por posible hundimiento debido a vicio de trámite en el Congreso",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-recien-aprobado-en-vilo-por-inminente-hundimiento-por-vicio-de-tramite-en-el-congreso-504829",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Presupuesto de 2027 recién aprobado, en vilo por inminente hundimiento a causa de vicio de trámite en el Congreso",
+        "capturado": "2026-10-21T00:44:27-05:00"
+      },
+      {
+        "titulo": "Gobierno solicita $1,2 billones al Congreso para subsidios de energía ante peligro de apagón en el país",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pide-1-2-billones-al-congreso-para-subsidios-electricos-ante-riesgo-de-apagon-en-colombia-504828",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Gobierno pide $1,2 billones al Congreso para subsidios eléctricos ante riesgo de apagón en Colombia",
+        "capturado": "2026-10-21T00:44:27-05:00"
+      },
+      {
+        "titulo": "Guía básica sobre la encrucijada migratoria en Colombia",
+        "url": "https://www.portafolio.co/economia/finanzas/abece-de-la-encrucijada-migratoria-en-colombia-504825",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Abecé de la encrucijada migratoria en Colombia",
+        "capturado": "2026-10-21T00:44:27-05:00"
+      },
       {
         "titulo": "Colombia procurará préstamos más económicos del BID para bajar el costo de su deuda a largo plazo",
         "url": "https://www.portafolio.co/economia/finanzas/colombia-buscara-creditos-mas-baratos-del-bid-para-reducir-el-costo-de-su-deuda-a-largo-plazo-504819",
@@ -573,39 +603,19 @@
         "publicacion": "2026-10-19",
         "titulo_fuente": "Euro hoy lunes 19 de octubre: así se cotiza la moneda europea en Colombia al inicio de la semana",
         "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Fuerte caída del dólar en la apertura de este lunes 19 de octubre: la moneda roza los 3.150 pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Precio del dólar se desploma al inicio de la jornada de este lunes 19 de octubre: divisa se acerca a los $3.150",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Gobierno colombiano dialogará tras nuevo foco de tensión con Nicaragua por la soberanía de San Andrés",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-abre-nuevo-capitulo-de-tension-con-el-regimen-de-nicaragua-por-soberania-de-san-andres-y-anuncia-dialogo-504691",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Colombia abre nuevo capítulo de tensión con el régimen de Nicaragua por soberanía de San Andrés y anuncia diálogo",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo pretende atraer grandes empresas cafeteras para fomentar la industria nacional del grano",
-        "url": "https://www.portafolio.co/economia/agro/el-gobierno-busca-atraer-a-gigantes-del-cafe-para-impulsar-la-transformacion-industrial-del-grano-colombiano-504690",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "El Gobierno busca atraer a gigantes del café para impulsar la transformación industrial del grano colombiano",
-        "capturado": "2026-10-19T09:51:57-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ecopetrol conserva la calificación BB de Fitch y su perspectiva crediticia externa sigue estable",
+        "url": "https://www.portafolio.co/negocios/empresas/fitch-ratifica-nota-bb-de-ecopetrol-y-mantiene-perspectiva-estable-para-su-credito-internacional-504827",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Fitch ratifica nota BB de Ecopetrol y mantiene perspectiva estable para su crédito internacional",
+        "capturado": "2026-10-21T00:44:27-05:00"
+      },
       {
         "titulo": "Planta nacional armaría nuevo vehículo de Renault y recursos para su fabricación sumarían 150 millones de dólares",
         "url": "https://www.portafolio.co/negocios/industrias/nuevo-carro-de-renault-se-fabricaria-en-colombia-inversion-para-producirlo-llegaria-a-150-millones-de-dolares-504815",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Carlos Casado, nuevo CEO de Holcim Colombia, fija sus prioridades",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Tarjetas de crédito Itaú cesarán operaciones el 21 de octubre: Banco de Bogotá da plazo",
-        "url": "https://www.portafolio.co/negocios/empresas/tarjetas-de-credito-itau-dejaran-de-funcionar-el-21-de-octubre-banco-de-bogota-fija-fecha-limite-504515",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Tarjetas de crédito Itaú dejarán de funcionar el 21 de octubre: Banco de Bogotá fija fecha límite",
         "capturado": "2026-10-15T12:37:09-05:00"
       }
     ]
