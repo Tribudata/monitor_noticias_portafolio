@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-21T00:44:27-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-21T06:13:52-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "Renault alista el armado de automotores electrificados en territorio colombiano",
+        "url": "https://www.portafolio.co/negocios/vehiculo/renault-se-prepara-para-ensamblar-vehiculos-electrificados-en-colombia-504818",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Renault se prepara para ensamblar vehículos electrificados en Colombia",
+        "capturado": "2026-10-21T06:13:52-05:00"
+      },
+      {
         "titulo": "Ecopetrol conserva la calificación BB de Fitch y su perspectiva crediticia externa sigue estable",
         "url": "https://www.portafolio.co/negocios/empresas/fitch-ratifica-nota-bb-de-ecopetrol-y-mantiene-perspectiva-estable-para-su-credito-internacional-504827",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-15",
         "titulo_fuente": "Simulacro Nacional de Emergencias: ¿su familia tiene un plan para reencontrarse en una crisis?",
-        "capturado": "2026-10-15T12:37:09-05:00"
-      },
-      {
-        "titulo": "Carlos Casado asume como CEO de Holcim Colombia y establece sus metas",
-        "url": "https://www.portafolio.co/negocios/empresas/carlos-casado-nuevo-ceo-de-holcim-colombia-fija-sus-prioridades-504516",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Carlos Casado, nuevo CEO de Holcim Colombia, fija sus prioridades",
         "capturado": "2026-10-15T12:37:09-05:00"
       }
     ]
