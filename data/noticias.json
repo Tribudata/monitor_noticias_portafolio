@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-22T13:42:43-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-22T17:07:09-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno pretende que once cajas de compensación intervenidas salgan de esta condición antes de acabar periodo",
+        "url": "https://www.portafolio.co/economia/gobierno-busca-que-11-cajas-de-compensacion-familiar-intervenidas-superen-esta-medida-antes-de-terminar-su-mandato-504953",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Gobierno busca que 11 cajas de compensación familiar intervenidas superen esta medida antes de terminar su mandato",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Déficit fiscal encarece vivienda y revalúa el peso: advertencia de Leonardo Villar en evento de Camacol",
+        "url": "https://www.portafolio.co/economia/el-deficit-fiscal-fortalece-el-peso-y-encarece-la-vivienda-el-doble-efecto-que-advirtio-leonardo-villar-en-camacol-504951",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "El déficit fiscal fortalece el peso y encarece la vivienda: el doble efecto que advirtió Leonardo Villar en Camacol",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Minsalud y Ana María Vesga señalan que deben rescatar tres billones de pesos para el próximo año",
+        "url": "https://www.portafolio.co/economia/tenemos-que-recuperar-esos-3-billones-para-el-ano-entrante-minsalud-ana-maria-vesga-sobre-el-presupuesto-504949",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "\"Tenemos que recuperar esos $3 billones para el año entrante\": Minsalud, Ana María Vesga sobre el Presupuesto",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Dian reporta que cerca de doscientos mil morosos adeudan 22,9 billones y lanza medidas de alivio",
+        "url": "https://www.portafolio.co/economia/gobierno/casi-200-000-contribuyentes-le-deben-22-9-billones-a-la-dian-anuncian-alivios-para-ponerse-al-dia-504945",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Casi 200.000 contribuyentes le deben $22,9 billones a la Dian: anuncian alivios para ponerse al día",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Portafolio y EL TIEMPO obtienen dos galardones Camacol 2026 por cubrimiento del sismo en el país",
+        "url": "https://www.portafolio.co/economia/regiones/portafolio-y-el-tiempo-ganan-dos-premios-camacol-2026-por-su-cobertura-del-terremoto-en-colombia-504943",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Portafolio y EL TIEMPO ganan dos premios Camacol 2026 por su cobertura del terremoto en Colombia",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Camacol propone destinar recursos del ahorro pensional para adquirir vivienda en territorio nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/camacol-plantea-usar-el-ahorro-de-pensiones-para-financiar-la-compra-de-vivienda-en-colombia-504941",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Camacol plantea usar el ahorro de pensiones para financiar la compra de vivienda en Colombia",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Leonardo Villar del Banco de la República justificó la no reducción de tasas de interés y su efecto en vivienda",
+        "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-leonardo-villar-explico-por-que-no-bajan-las-tasas-de-interes-pese-al-impacto-en-vivienda-504937",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Banco de la República: Leonardo Villar explicó por qué no bajan las tasas de interés pese al impacto en vivienda",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "El director del DNP, Julián Buitrago, informó que la Ley de Rescate fiscal será presentada la próxima semana",
+        "url": "https://www.portafolio.co/economia/gobierno/julian-buitrago-director-del-dnp-anuncia-que-el-gobierno-presentara-la-ley-de-rescate-fiscal-la-proxima-semana-504936",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Julián Buitrago, director del DNP, anuncia que el Gobierno presentará la Ley de Rescate fiscal la próxima semana",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
       {
         "titulo": "Alerta: EE. UU. canceló la visa de Ricardo Roa, exlíder de Ecopetrol, y de seis colombianos más",
         "url": "https://www.portafolio.co/economia/gobierno/atencion-estados-unidos-le-quito-la-visa-a-ricardo-roa-expresidente-de-ecopetrol-y-otros-seis-colombianos-504935",
@@ -523,89 +603,49 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Reacciones a la aprobación del Presupuesto 2027: Pacto Histórico anuncia marchas y acciones legales por recortes",
         "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Financiación para el campo sube 33 % en Colombia y llega a $6,4 billones en septiembre",
-        "url": "https://www.portafolio.co/economia/agro/credito-agropecuario-se-dispara-33-en-colombia-y-alcanza-los-6-4-billones-durante-septiembre-504790",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Crédito agropecuario se dispara 33 % en Colombia y alcanza los $6,4 billones durante septiembre",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Crédito de 200 millones de euros suscrito con banco alemán por Colombia para financiar el Presupuesto 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/colombia-firma-credito-por-200-millones-de-euros-con-banco-aleman-para-financiar-el-presupuesto-de-504788",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Colombia firma crédito por 200 millones de euros con banco alemán para financiar el Presupuesto de 2026",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Sectores que Colombia presentará en la Milagro Week de Nueva York para captar inversión",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-sectores-que-colombia-llevara-a-la-milagro-week-de-nueva-york-para-atraer-inversion-504786",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Estos son los sectores que Colombia llevará a la Milagro Week de Nueva York para atraer inversión",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Adquisición estatal de 600 motos, 124 camionetas blindadas y 20 tanquetas ante crisis en vía Panamericana",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-comprara-600-motos-124-camionetas-blindadas-y-20-tanquetas-por-crisis-de-seguridad-en-la-via-panamericana-504784",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Gobierno comprará 600 motos, 124 camionetas blindadas y 20 tanquetas por crisis de seguridad en la vía Panamericana",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Citi señala que la inflación constante en Colombia sostiene elevadas las tasas de interés",
-        "url": "https://www.portafolio.co/economia/crecimiento/citi-advierte-que-la-inflacion-persistente-en-colombia-mantiene-altas-las-tasas-de-interes-504779",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Citi advierte que la inflación persistente en Colombia mantiene altas las tasas de interés",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Ajuste salarial 2027: propuestas técnica y sindical presentan una diferencia de 533.026 pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-533-026-distancian-las-propuestas-tecnica-y-sindical-para-el-ajuste-de-504782",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Salario mínimo: $533.026 distancian las propuestas técnica y sindical para el ajuste de 2027",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Transporte de carga en Colombia entre 2022 y 2025: viajes suben 28,8 % y peso avanza 11,6 %",
-        "url": "https://www.portafolio.co/economia/colombia-mueve-mas-camiones-con-menos-carga-los-viajes-crecieron-28-8-y-el-peso-apenas-11-6-entre-2022-y-504777",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Colombia mueve más camiones con menos carga: los viajes crecieron 28,8 % y el peso apenas 11,6 % entre 2022 y 2025",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Bogotá asigna más de 45000 millones de pesos al Ingreso Mínimo Garantizado en octubre y así se pagan",
-        "url": "https://www.portafolio.co/economia/gobierno/bogota-destina-mas-de-45-000-millones-al-ingreso-minimo-garantizado-en-octubre-asi-se-entregan-los-pagos-504778",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Bogotá destina más de $45.000 millones al Ingreso Mínimo Garantizado en octubre: así se entregan los pagos",
-        "capturado": "2026-10-20T13:36:34-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Cadenas como Burger King, Kokoriko y Popsy respaldan a Presto en un gesto de solidaridad",
+        "url": "https://www.portafolio.co/negocios/empresas/ola-de-apoyo-a-presto-burger-king-kokoriko-popsy-y-otras-cadenas-se-solidarizan-con-la-marca-504952",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Ola de apoyo a Presto: Burger King, Kokoriko, Popsy y otras cadenas se solidarizan con la marca",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Para 2028, General Motors proyecta vehículos aptos para manejo sin manos ni vista",
+        "url": "https://www.portafolio.co/negocios/vehiculo/general-motors-preve-para-2028-autos-que-permitan-conducir-sin-manos-ni-mirar-la-carretera-504950",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "General Motors prevé para 2028 autos que permitan conducir sin manos ni mirar la carretera",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Diálogo con Carlos Vásquez, cabeza de Compensar, en el marco del Congreso Asocajas",
+        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-carlos-vasquez-director-general-de-compensar-desde-el-congreso-asocajas-504948",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Entrevista con Carlos Vásquez, director general de Compensar desde el Congreso Asocajas",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
+      {
+        "titulo": "Conversación con César Augusto Guevara, al frente de Cajasan, en el Congreso Asocajas",
+        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-cesar-augusto-guevara-director-general-de-cajasan-desde-el-congreso-asocajas-504947",
+        "resumen": "",
+        "autor": "Omar g. ahumada rojas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Entrevista con César Augusto Guevara, director general de Cajasan desde el Congreso Asocajas",
+        "capturado": "2026-10-22T17:07:09-05:00"
+      },
       {
         "titulo": "El tráfico ilegal de aceite usado pone en peligro a los locales de comida colombianos",
         "url": "https://www.portafolio.co/negocios/empresas/el-mercado-negro-del-aceite-usado-una-amenaza-oculta-para-restaurantes-y-cafeterias-en-colombia-504934",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-17",
         "titulo_fuente": "Empresarios advierten por la crisis industrial en Colombia: producción y ventas completan dos meses de caídas",
         "capturado": "2026-10-17T11:50:58-05:00"
-      },
-      {
-        "titulo": "El pasado del Tesla Roadster 2008: precursor del nuevo carro volador que incumplió sus promesas",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-historia-del-tesla-roadster-del-2008-el-antecesor-del-nuevo-carro-volador-que-no-pudo-cumplir-lo-que-prometio-504623",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "La historia del Tesla Roadster del 2008: el antecesor del nuevo carro volador que no pudo cumplir lo que prometió",
-        "capturado": "2026-10-17T08:51:14-05:00"
-      },
-      {
-        "titulo": "Arturo Calle alerta sobre la pérdida de más de 2000 empleos debido a Shein y Temu",
-        "url": "https://www.portafolio.co/negocios/empresas/arturo-calle-advierte-que-ha-perdido-mas-de-2-000-empleos-por-compras-en-shein-y-temu-esto-es-muy-preocupante-504622",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Arturo Calle advierte que ha perdido más de 2.000 empleos por compras en Shein y Temu: 'Esto es muy preocupante'",
-        "capturado": "2026-10-17T08:51:14-05:00"
-      },
-      {
-        "titulo": "Estrategias gubernamentales para impulsar la inversión y el empleo mediante el intercambio comercial colombo-venezolano",
-        "url": "https://www.portafolio.co/negocios/comercio/comercio-entre-colombia-y-venezuela-los-planes-del-gobierno-para-atraer-inversiones-y-generar-empleo-504616",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Comercio entre Colombia y Venezuela: los planes del Gobierno para atraer inversiones y generar empleo",
-        "capturado": "2026-10-16T18:15:36-05:00"
-      },
-      {
-        "titulo": "El proceso de liquidación de Presto en Bogotá y su intento por impedir el cierre de los restaurantes",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-historia-de-presto-la-cadena-bogotana-que-entro-en-liquidacion-y-busca-evitar-el-cierre-de-sus-locales-504614",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Esta es la historia de Presto, la cadena bogotana que entró en liquidación y busca evitar el cierre de sus locales",
-        "capturado": "2026-10-16T18:15:36-05:00"
       }
     ]
   }
