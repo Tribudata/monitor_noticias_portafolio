@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-21T22:26:08-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-22T03:50:57-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ministerio de Hacienda pide a la Corte Constitucional incidente de impacto fiscal por déficit pensional",
+        "url": "https://www.portafolio.co/economia/hacienda-solicita-a-la-corte-constitucional-abrir-un-incidente-de-impacto-fiscal-por-faltante-en-reforma-pensional-504876",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Hacienda solicita a la Corte Constitucional abrir un incidente de impacto fiscal por faltante en reforma pensional",
+        "capturado": "2026-10-22T03:50:57-05:00"
+      },
       {
         "titulo": "Minciencias divulgará el 29 de octubre los financiables y elegibles para maestrías y doctorados",
         "url": "https://www.portafolio.co/economia/gobierno/minciencias-publicara-el-29-de-octubre-los-elegibles-y-financiables-para-maestrias-y-doctorados-504888",
@@ -592,16 +602,6 @@
         "subseccion": "Regiones",
         "publicacion": "2026-10-19",
         "titulo_fuente": "Bogotá sale al mercado de deuda con bonos por hasta $1 billón y opción de ampliar la colocación",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Inteligencia artificial prevé inflación más tenaz en Colombia al integrar datos y entorno financiero",
-        "url": "https://www.portafolio.co/economia/gobierno/ia-apunta-a-una-inflacion-mas-persistente-en-colombia-al-sumar-noticias-y-contexto-economico-504737",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "IA apunta a una inflación más persistente en Colombia al sumar noticias y contexto económico",
         "capturado": "2026-10-19T18:51:37-05:00"
       }
     ],
