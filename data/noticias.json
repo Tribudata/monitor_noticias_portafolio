@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-22T03:50:57-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-22T09:21:35-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alza en la cotización del dólar en Colombia rumbo a los $3.200 hoy",
+        "url": "https://www.portafolio.co/economia/gobierno/precio-de-dolar-hoy-en-colombia-subio-y-se-acerco-a-los-3-200-asi-cotiza-la-moneda-504902",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Precio de dólar hoy en Colombia subió y se acercó a los $3.200: así cotiza la moneda",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "MinEducación reconoce que el país carece de datos sobre menores educados en casa",
+        "url": "https://www.portafolio.co/economia/sin-cifras-ni-estudios-colombia-no-sabe-cuantos-ninos-estudian-en-casa-admite-el-ministerio-de-educacion-504899",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Sin cifras ni estudios: Colombia no sabe cuántos niños estudian en casa, admite el Ministerio de Educación",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "Destinan $887.000 millones vía APP para construir 13 instituciones en Soacha y Cali",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-y-mineducacion-ponen-887-000-millones-sobre-la-mesa-para-13-colegios-en-soacha-y-cali-bajo-el-modelo-app-504897",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "ANI y MinEducación ponen $887.000 millones sobre la mesa para 13 colegios en Soacha y Cali bajo el modelo APP",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "Reacciones del sector político por la renuncia del ministro del Interior Rodrigo Lara",
+        "url": "https://www.portafolio.co/economia/gobierno/asi-reacciono-el-pais-politico-tras-salida-del-ministro-del-interior-rodrigo-lara-504898",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Así reaccionó el país político tras salida del ministro del Interior, Rodrigo Lara",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "Salida de Rodrigo Lara y designación de Alejandro Ordóñez en la cartera del Interior",
+        "url": "https://www.portafolio.co/economia/gobierno/salida-de-rodrigo-lara-y-nombramiento-de-alejandro-ordonez-en-el-ministerio-del-interior-504896",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Salida de Rodrigo Lara y nombramiento de Alejandro Ordóñez en el Ministerio del Interior",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
       {
         "titulo": "Ministerio de Hacienda pide a la Corte Constitucional incidente de impacto fiscal por déficit pensional",
         "url": "https://www.portafolio.co/economia/hacienda-solicita-a-la-corte-constitucional-abrir-un-incidente-de-impacto-fiscal-por-faltante-en-reforma-pensional-504876",
@@ -553,59 +603,49 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Luego de una larga jornada, a sanción presidencial pasó el Presupuesto General de la Nación para 2027",
         "capturado": "2026-10-20T04:09:07-05:00"
-      },
-      {
-        "titulo": "El Presupuesto 2027 fue aprobado en el Senado pero su debate se complicó en la Cámara",
-        "url": "https://www.portafolio.co/economia/senado-de-la-republica-le-dio-luz-verde-al-presupuesto-del-2027-mientras-que-en-la-camara-se-enredo-la-discusion-504748",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Senado de la República le dio luz verde al Presupuesto del 2027, mientras que en la Cámara se enredó la discusión",
-        "capturado": "2026-10-20T04:09:07-05:00"
-      },
-      {
-        "titulo": "Centrales obreras y jubilados alistan proyecto unificado sobre el salario mínimo del año 2027",
-        "url": "https://www.portafolio.co/economia/finanzas/centrales-sindicales-y-pensionados-preparan-propuesta-conjunta-para-el-salario-minimo-de-504745",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Sindicatos y pensionados preparan propuesta conjunta para el salario mínimo de 2027",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Fedecafé quiere extender por una década el pacto del Fondo Nacional del Café con la administración entrante",
-        "url": "https://www.portafolio.co/economia/agro/federacion-de-cafeteros-busca-renovar-por-10-anos-el-contrato-del-fondo-nacional-del-cafe-con-el-nuevo-gobierno-504697",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Federación de Cafeteros busca renovar por 10 años el contrato del Fondo Nacional del Café con el nuevo Gobierno",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Andi demanda garantías para capitales tras el retroceso de 0,04% en la economía de agosto",
-        "url": "https://www.portafolio.co/economia/crecimiento/andi-pide-condiciones-para-invertir-tras-caida-de-0-04-en-la-actividad-economica-de-agosto-504743",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Andi pide condiciones para invertir tras caída de 0,04% en la actividad económica de agosto",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Bogotá emite bonos de deuda por hasta un billón de pesos y contempla ampliar la colocación",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-sale-al-mercado-de-deuda-con-bonos-por-hasta-1-billon-y-opcion-de-ampliar-la-colocacion-504739",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Bogotá sale al mercado de deuda con bonos por hasta $1 billón y opción de ampliar la colocación",
-        "capturado": "2026-10-19T18:51:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "CREG plantea procesos rápidos para integrar puntos de recarga de autos eléctricos",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-creg-propone-tramites-expres-para-conectar-estaciones-de-carga-de-vehiculos-electricos-504905",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "La CREG propone trámites exprés para conectar estaciones de carga de vehículos eléctricos",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "Instalación del trigésimo sexto Congreso Nacional de las Cajas de Compensación Familiar",
+        "url": "https://www.portafolio.co/negocios/empresas/apertura-del-36-congreso-nacional-de-las-cajas-de-compensacion-familiar-504903",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Apertura del 36° Congreso Nacional de las Cajas de Compensación Familiar",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "Inversión de $1.533 millones de Rappi modificó sector inseguro bajo un puente en Bogotá",
+        "url": "https://www.portafolio.co/negocios/empresas/rappi-invierte-1-533-millones-para-recuperar-un-punto-critico-de-inseguridad-en-bogota-504901",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "La inversión de $1.533 millones con la que Rappi transformó zona crítica de inseguridad en Bogotá bajo un puente",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
+      {
+        "titulo": "EPM pacta ceder su parte en compañía eléctrica que provee a 361.000 usuarios costeños",
+        "url": "https://www.portafolio.co/negocios/empresas/epm-acuerda-vender-su-participacion-en-empresa-de-energia-que-atiende-a-361-000-clientes-del-caribe-504900",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "EPM acuerda vender su participación en empresa de energía que atiende a 361.000 clientes del Caribe",
+        "capturado": "2026-10-22T09:21:35-05:00"
+      },
       {
         "titulo": "Ecopetrol designa formalmente a Armando Cuello como vicepresidente de Energías para la Transición",
         "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-nombra-oficialmente-a-armando-cuello-como-vicepresidente-de-energias-para-la-transicion-504887",
@@ -1164,46 +1204,6 @@
         "subseccion": "Industrias",
         "publicacion": "2026-10-16",
         "titulo_fuente": "Industria manufacturera en Colombia cayó 3,7% en agosto y sus ventas retrocedieron 3,5%, reporta el Dane",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Supersociedades informa que las utilidades de los conglomerados económicos sumaron $28,8 billones en 2025",
-        "url": "https://www.portafolio.co/negocios/empresas/ganancias-de-los-grupos-economicos-llegaron-a-28-8-billones-en-el-2025-supersociedades-revela-sus-balances-504585",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Ganancias de los grupos económicos llegaron a $28,8 billones en el 2025: Supersociedades revela sus balances",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Por $189,9 millones arriba a Colombia la camioneta 212 T01 de origen chino para el mercado todoterreno",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-camioneta-china-212-t01-llega-a-colombia-por-189-9-millones-y-apuesta-por-el-segmento-todoterreno-504583",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "La camioneta china 212 T01 llega a Colombia por $189,9 millones y apuesta por el segmento todoterreno",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Celsia y Emcali pactan trueque accionario del 18,06% por la central hidroeléctrica Salvajina",
-        "url": "https://www.portafolio.co/negocios/empresas/celsia-y-emcali-acuerdan-intercambio-de-acciones-del-18-06-por-la-hidroelectrica-salvajina-504579",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Celsia y Emcali acuerdan intercambio de acciones del 18,06% por la hidroeléctrica Salvajina",
-        "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Video: Tesla asombra con su flamante Roadster, dotado de propulsores para saltar y girar",
-        "url": "https://www.portafolio.co/negocios/vehiculo/video-tesla-sorprende-con-su-nueva-roadster-que-es-capaz-de-saltar-y-girar-gracias-a-sus-propulsores-504578",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Video: Tesla sorprende con su nueva Roadster, que es capaz de saltar y girar gracias a sus propulsores",
         "capturado": "2026-10-16T12:36:55-05:00"
       }
     ]
