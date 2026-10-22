@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-21T18:31:31-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-21T22:26:08-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Minciencias divulgará el 29 de octubre los financiables y elegibles para maestrías y doctorados",
+        "url": "https://www.portafolio.co/economia/gobierno/minciencias-publicara-el-29-de-octubre-los-elegibles-y-financiables-para-maestrias-y-doctorados-504888",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Minciencias publicará el 29 de octubre los elegibles y financiables para maestrías y doctorados",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
+      {
+        "titulo": "Quién es Alejandro Ordóñez, el nuevo Mininterior designado por De La Espriella en reemplazo de Rodrigo Lara",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-es-alejandro-ordonez-el-nuevo-mininterior-designado-por-de-la-espriella-en-reemplazo-de-rodrigo-lara-504886",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Quién es Alejandro Ordóñez, el nuevo Mininterior designado por De La Espriella en reemplazo de Rodrigo Lara",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
+      {
+        "titulo": "Rodrigo Lara Restrepo deja de ser ministro del Interior: el presidente Abelardo De La Espriella comunicó su salida",
+        "url": "https://www.portafolio.co/economia/gobierno/rodrigo-lara-restrepo-ya-no-es-mas-el-ministro-del-interior-anuncio-el-presidente-abelardo-de-la-espriella-504885",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Rodrigo Lara Restrepo ya no es más el ministro del Interior: presidente Abelardo De La Espriella anunció su salida",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
+      {
+        "titulo": "Guillermo Herrera, presidente de Camacol, discute los desafíos e iniciativas de la construcción",
+        "url": "https://www.portafolio.co/economia/infraestructura/presidente-de-camacol-guillermo-herrera-habla-de-retos-y-proyectos-del-sector-de-la-construccion-504883",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Presidente de Camacol, Guillermo Herrera, habla de retos y proyectos del sector de la construcción",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
+      {
+        "titulo": "Minvivienda asiste a 11 municipios y organismos en la reconstrucción de Chocó tras el sismo",
+        "url": "https://www.portafolio.co/economia/regiones/reconstruccion-en-choco-minvivienda-brinda-apoyo-a-11-municipios-y-entidades-tras-el-sismo-504881",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Reconstrucción en Chocó: Minvivienda brinda apoyo a 11 municipios y entidades tras el sismo",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
       {
         "titulo": "Un estudio señala que inflación de 6,87% llevaría las tasas del Emisor a 12,50% al terminar 2026",
         "url": "https://www.portafolio.co/economia/gobierno/una-inflacion-de-6-87-elevaria-las-tasas-del-banco-de-la-republica-a-12-50-al-cierre-de-2026-advierte-estudio-504862",
@@ -553,59 +603,29 @@
         "publicacion": "2026-10-19",
         "titulo_fuente": "IA apunta a una inflación más persistente en Colombia al sumar noticias y contexto económico",
         "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Comercio cucuteño sufre por divisa baja: solicitan eximir de IVA a la urbe pero alertan restricciones",
-        "url": "https://www.portafolio.co/economia/regiones/comercio-de-cucuta-en-crisis-por-dolar-barato-piden-exonerar-la-ciudad-del-iva-pero-advierten-limitantes-504736",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Comercio de Cúcuta en crisis por dólar barato: piden exonerar la ciudad del IVA, pero advierten limitantes",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Administración de De La Espriella pretende anular normas de Petro sobre tercerización y trabajo doméstico",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-busca-derogar-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico-504731",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Gobierno de De La Espriella busca derogar decretos de Petro sobre tercerización laboral y trabajo doméstico",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Remuneración básica de 2027: incremento del 38,5% subiría el hueco fiscal en $11 billones, según estudio",
-        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-alza-de-38-5-elevaria-el-deficit-fiscal-en-11-billones-segun-estimacion-academica-504727",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Salario mínimo de 2027: alza de 38,5% elevaría el déficit fiscal en $11 billones, según estimación académica",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Colombia reestructurará los cultivos de arroz a partir de 2027 para nivelar la producción y el consumo",
-        "url": "https://www.portafolio.co/economia/agro/colombia-reorganizara-las-siembras-de-arroz-desde-2027-para-equilibrar-la-oferta-y-la-demanda-504726",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Colombia reorganizará las siembras de arroz desde 2027 para equilibrar la oferta y la demanda",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Minvivienda Jaime Beltrán advierte sobre proyectos hídricos sin progresos: $3.600 millones dados y precios en dólares",
-        "url": "https://www.portafolio.co/economia/infraestructura/minvivienda-jaime-beltran-alerta-por-obras-de-agua-sin-avances-3-600-millones-desembolsados-y-costos-en-dolares-504721",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Minvivienda Jaime Beltrán alerta por obras de agua sin avances: $3.600 millones desembolsados y costos en dólares",
-        "capturado": "2026-10-19T15:22:38-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ecopetrol designa formalmente a Armando Cuello como vicepresidente de Energías para la Transición",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-nombra-oficialmente-a-armando-cuello-como-vicepresidente-de-energias-para-la-transicion-504887",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Ecopetrol nombra oficialmente a Armando Cuello como vicepresidente de Energías para la Transición",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
+      {
+        "titulo": "Catalina Rengifo toma las riendas de Actho tras su salida de la Federación de Gestión Humana",
+        "url": "https://www.portafolio.co/negocios/empresas/catalina-rengifo-asume-la-direccion-de-actho-tras-la-salida-de-la-federacion-de-gestion-humana-504884",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Catalina Rengifo asume la dirección de Actho tras la salida de la Federación de Gestión Humana",
+        "capturado": "2026-10-21T22:26:08-05:00"
+      },
       {
         "titulo": "Venta de Presto busca salvarla de la liquidación",
         "url": "https://www.portafolio.co/negocios/empresas/presto-pasara-a-nuevas-manos-y-evitara-la-liquidacion-504879",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-16",
         "titulo_fuente": "Video: Tesla sorprende con su nueva Roadster, que es capaz de saltar y girar gracias a sus propulsores",
         "capturado": "2026-10-16T12:36:55-05:00"
-      },
-      {
-        "titulo": "Sencia dialoga sobre reubicar o postergar el evento musical de Fonseca programado en El Campín",
-        "url": "https://www.portafolio.co/negocios/empresas/sencia-negocia-traslado-o-aplazamiento-del-concierto-de-fonseca-previsto-en-el-estadio-el-campin-de-bogota-504573",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Sencia negocia traslado o aplazamiento del concierto de Fonseca previsto en el estadio El Campín de Bogotá",
-        "capturado": "2026-10-16T08:25:37-05:00"
-      },
-      {
-        "titulo": "Connacional implementa inteligencia artificial en tractocamiones para bajar accidentes hasta el 70 por ciento",
-        "url": "https://www.portafolio.co/negocios/empresas/colombiano-lleva-inteligencia-artificial-a-la-cabina-de-camiones-para-reducir-la-siniestralidad-vial-hasta-504567",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-16",
-        "titulo_fuente": "Colombiano lleva inteligencia artificial a la cabina de camiones para reducir la siniestralidad vial hasta 70%",
-        "capturado": "2026-10-16T08:25:37-05:00"
       }
     ]
   }
