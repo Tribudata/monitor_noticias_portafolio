@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-22T19:49:11-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-23T00:45:02-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Abogado De La Espriella reacciona a la compra de Presto por Grupo Nutresa que salva 700 empleos",
+        "url": "https://www.portafolio.co/economia/gobierno/se-salvan-700-empleos-de-la-espriella-reacciona-a-la-decision-de-grupo-nutresa-de-comprar-presto-504964",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "¡Se salvan 700 empleos!: De La Espriella reacciona a la decisión de Grupo Nutresa de comprar Presto",
+        "capturado": "2026-10-23T00:45:02-05:00"
+      },
+      {
+        "titulo": "Vicepresidente Restrepo visita Puerto Antioquia y ubica a Urabá en el radar de la inversión nacional",
+        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-restrepo-visita-puerto-antioquia-y-pone-a-uraba-en-el-radar-de-inversion-nacional-504961",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Vicepresidente Restrepo visita Puerto Antioquia y pone a Urabá en el radar de inversión nacional",
+        "capturado": "2026-10-23T00:45:02-05:00"
+      },
+      {
+        "titulo": "Gobierno decreta el Presupuesto de 2027 por 634,9 billones tras desacuerdos entre Senado y Cámara",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-expide-por-decreto-el-presupuesto-de-2027-por-634-9-billones-tras-diferencias-entre-senado-y-camara-504960",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Gobierno expide por decreto el Presupuesto de 2027 por $634,9 billones tras diferencias entre Senado y Cámara",
+        "capturado": "2026-10-23T00:45:02-05:00"
+      },
       {
         "titulo": "El narcotráfico en Colombia deja ingresos anuales por cerca de US$16.500 millones a bandas criminales",
         "url": "https://www.portafolio.co/economia/finanzas/grupos-criminales-reciben-cerca-de-us-16-500-millones-al-ano-por-el-narcotrafico-en-colombia-504958",
@@ -573,39 +603,29 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Halloween mueve el turismo: Salem, Transilvania, Nueva Orleans y México atraen con sus planes de terror",
         "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Rutas escolares en Colombia: nuevas obligaciones para planteles educativos, conductores y acudientes",
-        "url": "https://www.portafolio.co/economia/gobierno/rutas-escolares-en-colombia-nuevas-exigencias-para-colegios-conductores-y-padres-de-familia-504802",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Rutas escolares en Colombia: nuevas exigencias para colegios, conductores y padres de familia",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Una crónica del desastre: faltante de $3,198 billones en el fondo docente, Mineducación exige prioridad",
-        "url": "https://www.portafolio.co/economia/gobierno/una-cronica-del-desastre-hueco-de-3-198-billones-en-el-fondo-de-los-maestros-mineducacion-pide-prioridad-504801",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "'Una crónica del desastre': hueco de $3,198 billones en el fondo de los maestros, Mineducación pide prioridad",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Contratos de aprendices del Sena se modifican: compañías podrán valorar su rendimiento desde el inicio",
-        "url": "https://www.portafolio.co/economia/gobierno/contratos-de-aprendices-del-sena-cambian-empresas-podran-evaluar-su-desempeno-desde-el-inicio-504800",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Contratos de aprendices del Sena cambian: empresas podrán evaluar su desempeño desde el inicio",
-        "capturado": "2026-10-20T17:07:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Grupo Nutresa sella pacto para adquirir Presto y adueñarse de su marca y su planta fabril",
+        "url": "https://www.portafolio.co/negocios/empresas/atencion-grupo-nutresa-firma-acuerdo-para-comprar-presto-y-quedarse-con-la-cadena-y-planta-de-produccion-504963",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Atención: Grupo Nutresa firma acuerdo para comprar Presto y quedarse con la cadena y planta de producción",
+        "capturado": "2026-10-23T00:45:02-05:00"
+      },
+      {
+        "titulo": "La fintech colombiana Cobre obtiene galardón mundial en Las Vegas al integrar Bre-B a empresas",
+        "url": "https://www.portafolio.co/negocios/empresas/fintech-colombiana-cobre-gana-premio-global-en-las-vegas-por-llevar-bre-b-a-las-empresas-del-pais-504962",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Fintech colombiana Cobre gana premio global en Las Vegas por llevar Bre-B a las empresas del país",
+        "capturado": "2026-10-23T00:45:02-05:00"
+      },
       {
         "titulo": "Los retos sobre confianza y propiedad intelectual que la IA plantea para los medios de la región",
         "url": "https://www.portafolio.co/negocios/empresas/propiedad-intelectual-y-confianza-los-desafios-que-la-ia-abre-para-los-medios-de-america-504957",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-18",
         "titulo_fuente": "María Corina Machado plantea que Venezuela suministre gas a Colombia: esto es lo que se necesita",
         "capturado": "2026-10-18T11:21:49-05:00"
-      },
-      {
-        "titulo": "El 28% de las compras externas de Colombia provienen de China y Arturo Calle debatió sobre Shein y Temu en el Congreso",
-        "url": "https://www.portafolio.co/negocios/comercio/china-ya-concentra-el-28-de-las-importaciones-de-colombia-el-debate-por-shein-y-temu-llega-al-congreso-504641",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "China ya concentra el 28% de importaciones de Colombia: Arturo Calle llevó debate por Shein y Temu al Congreso",
-        "capturado": "2026-10-17T16:35:55-05:00"
-      },
-      {
-        "titulo": "Allianz Colombia entregará el 10% de lo recaudado en su carrera 15K a los afectados por el sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/allianz-colombia-donara-el-10-de-los-ingresos-de-su-carrera-15k-para-apoyar-a-damnificados-del-terremoto-504634",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Allianz Colombia donará el 10% de los ingresos de su carrera 15K para apoyar a damnificados del terremoto",
-        "capturado": "2026-10-17T11:50:58-05:00"
       }
     ]
   }
