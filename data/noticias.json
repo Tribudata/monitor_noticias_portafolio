@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-23T14:47:41-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-23T17:54:29-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Camacol condecora de manera póstuma a Germán Vargas Lleras en Cartagena con su máxima condecoración",
+        "url": "https://www.portafolio.co/economia/infraestructura/camacol-rinde-homenaje-postumo-a-german-vargas-lleras-y-le-entrega-su-maxima-distincion-en-cartagena-505023",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Camacol rinde homenaje póstumo a Germán Vargas Lleras y le entrega su máxima distinción en Cartagena",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
+      {
+        "titulo": "Reacciones al recorte presupuestal de 2026 por 13,8 billones pidiendo al Gobierno mantener la austeridad",
+        "url": "https://www.portafolio.co/economia/finanzas/recorte-de-13-8-billones-al-presupuesto-2026-recibe-respaldo-y-abre-debate-sobre-la-austeridad-fiscal-505016",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "'El Gobierno debe seguir priorizando la austeridad': reacciones al recorte de $13,8 billones de Presupuesto de 2026",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
+      {
+        "titulo": "De La Espriella califica de motor patrio el aporte empresarial superior a 1 billón para la reconstrucción",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-destaca-aportes-empresariales-de-mas-de-1-billon-para-reconstruccion-505013",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "De La Espriella destaca aporte de empresarios por más de $1 billón para reconstrucción: 'Son el motor de la patria'",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
+      {
+        "titulo": "Cerca del 30 por ciento de las solicitudes de trabajo temporal en Colombia se concentran entre noviembre y enero",
+        "url": "https://www.portafolio.co/economia/empleo/empleo-temporal-en-colombia-cerca-del-30-de-las-solicitudes-llega-entre-noviembre-y-enero-505009",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Empleo temporal en Colombia: cerca del 30% de las solicitudes llega entre noviembre y enero",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
       {
         "titulo": "Carlos Suárez, asesor de De la Espriella, aclara si incidió en la renuncia de Rodrigo Lara al Mininterior",
         "url": "https://www.portafolio.co/economia/gobierno/carlos-suarez-estratega-de-de-la-espriella-responde-si-influyo-en-salida-de-rodrigo-lara-y-llegada-de-ordonez-505005",
@@ -563,49 +603,39 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Desde WhatsApp podrá ver cómo van sus inversiones y ahorros con nueva herramienta de Aval Fiduciaria, basada en IA",
         "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Aeronaves no tripuladas repartirán carga de hasta 20 kilos en Medellín: así operará la nueva prueba piloto",
-        "url": "https://www.portafolio.co/economia/regiones/drones-entregaran-paquetes-de-hasta-20-kilos-en-medellin-asi-funcionara-el-nuevo-plan-piloto-504845",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Drones entregarán paquetes de hasta 20 kilos en Medellín: así funcionará el nuevo plan piloto",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Corficolombiana: servicio de la deuda estatal consumirá el 31,6 % de las rentas nacionales en 2027",
-        "url": "https://www.portafolio.co/economia/corficolombiana-pago-de-intereses-de-la-deuda-publica-absorberia-el-31-6-de-los-ingresos-del-gobierno-en-504841",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Corficolombiana: pago de intereses de la deuda pública absorbería el 31,6 % de los ingresos del Gobierno en 2027",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Expertos dan prioridad al sendero fiscal frente a los tipos de interés para decidir inversiones locales",
-        "url": "https://www.portafolio.co/economia/gobierno/analistas-priorizan-el-rumbo-fiscal-sobre-las-tasas-a-la-hora-de-tomar-decisiones-de-inversion-en-el-pais-encuesta-504839",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Analistas priorizan rumbo fiscal sobre las tasas de interés a la hora de tomar decisiones de inversión en el país",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Cotización del euro este 21 de octubre: la divisa tuvo un incremento tras varios días de descensos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-21-de-octubre-la-moneda-registro-un-repunte-despues-de-varias-jornadas-de-caidas-504837",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Precio del euro hoy 21 de octubre: la moneda registró un repunte después de varias jornadas de caídas",
-        "capturado": "2026-10-21T15:18:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "BYD lanza en Colombia la Ti7: híbrida enchufable con 349 caballos y autonomía superior a 1.000 km",
+        "url": "https://www.portafolio.co/negocios/vehiculo/byd-trae-a-colombia-la-ti7-la-nueva-hibrida-enchufable-con-349-caballos-de-fuerza-y-mas-de-1-000-km-de-autonomia-505014",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "BYD trae a Colombia la Ti7: la nueva híbrida enchufable con 349 caballos de fuerza y más de 1.000 km de autonomía",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
+      {
+        "titulo": "The New York Times: la fórmula para pasar de lectores a suscriptores",
+        "url": "https://www.portafolio.co/negocios/industrias/the-new-york-times-la-receta-para-convertir-lectores-en-suscriptores-505007",
+        "resumen": "",
+        "autor": "Johana lorduy, constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "The New York Times: la receta para convertir lectores en suscriptores",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
+      {
+        "titulo": "Firma colombiana apunta a ventas por más de $300.000 millones en moda y fútbol al 2030",
+        "url": "https://www.portafolio.co/negocios/empresas/la-empresa-colombiana-que-busca-vender-mas-de-300-000-millones-con-moda-y-futbol-para-505011",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "La empresa colombiana que busca vender más de $300.000 millones con moda y fútbol para 2030",
+        "capturado": "2026-10-23T17:54:29-05:00"
+      },
       {
         "titulo": "Preventa total del iPhone Duo en Colombia: el valor inicial del plegable de Apple se acerca a $15 millones",
         "url": "https://www.portafolio.co/negocios/empresas/iphone-duo-agoto-el-100-de-su-preventa-en-colombia-el-precio-del-primer-plegable-de-apple-roza-los-15-millones-505004",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-20",
         "titulo_fuente": "Postobón dona soluciones de agua potable: beneficia a cinco acueductos de Yumbo",
-        "capturado": "2026-10-20T09:25:40-05:00"
-      },
-      {
-        "titulo": "MiLoto cayó por primera vez en Chipaque y un jugador se llevó el premio mayor de 200 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/miloto-cayo-por-primera-vez-en-chipaque-un-apostador-gano-el-premio-mayor-de-200-millones-504771",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "MiLoto cayó por primera vez en Chipaque: un apostador ganó el premio mayor de $200 millones",
-        "capturado": "2026-10-20T09:25:40-05:00"
-      },
-      {
-        "titulo": "Marcas aumentan gasto en IA, mas solo el 23 por ciento de los compradores cree en sus consejos",
-        "url": "https://www.portafolio.co/negocios/inversion/marcas-aceleran-inversion-en-ia-pero-solo-el-23-de-los-consumidores-confia-en-sus-recomendaciones-504764",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Marcas aceleran inversión en IA, pero solo el 23% de los consumidores confía en sus recomendaciones",
-        "capturado": "2026-10-20T09:25:40-05:00"
-      },
-      {
-        "titulo": "Reportan llegada de llantas chinas baratas a Colombia y solicitan defensas para el sector local",
-        "url": "https://www.portafolio.co/negocios/empresas/estarian-llegando-a-colombia-llantas-chinas-a-bajos-precios-piden-medidas-para-proteger-la-industria-nacional-504760",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Estarían llegando a Colombia llantas chinas a bajos precios: piden medidas para proteger la industria nacional",
         "capturado": "2026-10-20T09:25:40-05:00"
       }
     ]
