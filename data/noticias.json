@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-23T10:49:30-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-23T14:47:41-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Carlos Suárez, asesor de De la Espriella, aclara si incidió en la renuncia de Rodrigo Lara al Mininterior",
+        "url": "https://www.portafolio.co/economia/gobierno/carlos-suarez-estratega-de-de-la-espriella-responde-si-influyo-en-salida-de-rodrigo-lara-y-llegada-de-ordonez-505005",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Carlos Suárez, estratega de De la Espriella, responde si influyó en la salida de Rodrigo Lara del Mininterior",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Caída de la inversión privada: importantes grupos económicos exigen que retome el mando de la economía",
+        "url": "https://www.portafolio.co/economia/desplome-de-la-inversion-privada-los-grandes-grupos-financieros-piden-que-recupere-el-liderazgo-de-la-economia-505002",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Desplome de la inversión privada: los grandes grupos financieros piden que recupere el liderazgo de la economía",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Plan Nacional de Desarrollo de Petro logró el menor nivel de los últimos tres gobiernos con 72,5%",
+        "url": "https://www.portafolio.co/economia/gobierno/plan-nacional-de-desarrollo-de-petro-fue-el-mas-bajo-de-los-ultimos-tres-gobiernos-alcanzo-cumplimiento-de-72-504995",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Plan Nacional de Desarrollo de Petro fue el más bajo de los últimos tres gobiernos: alcanzó cumplimiento de 72,5%",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Urbanizaciones registran más de $1.836 millones colocados en los CDAT de la entidad Fincomercio",
+        "url": "https://www.portafolio.co/economia/finanzas/conjuntos-residenciales-tienen-mas-de-1-836-millones-invertidos-en-los-cdat-de-fincomercio-504994",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Conjuntos residenciales tienen más de $1.836 millones invertidos en los CDAT de Fincomercio",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
       {
         "titulo": "Precio del euro en Colombia este 23 de octubre: bajó de nuevo tras subir dos días seguidos",
         "url": "https://www.portafolio.co/economia/finanzas/euro-en-colombia-hoy-23-de-octubre-la-moneda-volvio-a-caer-despues-de-dos-jornadas-de-repunte-504989",
@@ -563,49 +603,109 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Precio del euro hoy 21 de octubre: la moneda registró un repunte después de varias jornadas de caídas",
         "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Empresas constructoras nacionales buscan negocios en Chile: delegación de la CCI asiste a Edifica",
-        "url": "https://www.portafolio.co/economia/infraestructura/constructoras-colombianas-salen-a-buscar-contratos-a-chile-mision-de-la-cci-llega-a-ruedas-de-negocios-en-edifica-504835",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Constructoras colombianas salen a buscar contratos a Chile: misión de la CCI llega a ruedas de negocios en Edifica",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Presupuesto de 2027: Senado precisa que no avaló mociones para el artículo 65 en la discusión plenaria",
-        "url": "https://www.portafolio.co/economia/presupuesto-de-2027-senado-aclara-que-no-aprobo-proposiciones-para-el-articulo-65-durante-el-debate-en-plenaria-504836",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Presupuesto de 2027: Senado aclara que no aprobó proposiciones para el artículo 65 durante el debate en plenaria",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "IDU anuncia que Avenida Ciudad de Cali, Las Américas, la 68 y la 26 se conectarán en un viaje este año",
-        "url": "https://www.portafolio.co/economia/infraestructura/avenida-ciudad-de-cali-las-americas-la-68-y-la-calle-26-quedaran-conectadas-este-ano-en-un-solo-viaje-dice-idu-504833",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Avenida Ciudad de Cali, Las Américas, la 68 y la calle 26 quedarán conectadas este año en un solo viaje, dice IDU",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia hoy: la moneda empieza cerca de $3.160 este 21 de octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-la-divisa-inicia-cerca-de-3-160-este-21-de-octubre-504832",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: la divisa inicia cerca de $3.160 este 21 de octubre",
-        "capturado": "2026-10-21T15:18:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Preventa total del iPhone Duo en Colombia: el valor inicial del plegable de Apple se acerca a $15 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/iphone-duo-agoto-el-100-de-su-preventa-en-colombia-el-precio-del-primer-plegable-de-apple-roza-los-15-millones-505004",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "iPhone Duo agotó el 100% de su preventa en Colombia: el precio del primer plegable de Apple roza los $15 millones",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Crecimiento de pagos a una cuota con tarjeta de crédito: así cambian las costumbres de compra de la gente",
+        "url": "https://www.portafolio.co/negocios/comercio/auge-de-pagos-a-una-cuota-con-tarjeta-de-credito-asi-esta-modificando-la-gente-sus-habitos-de-pago-al-comprar-504997",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Auge de pagos a una cuota con tarjeta de crédito: así está modificando la gente sus hábitos de pago al comprar",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Conversación con Illumia Group en el Congreso Asocajas",
+        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-illumia-group-desde-el-congreso-asocajas-505001",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Entrevista con Illumia Group desde el Congreso Asocajas",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Lo que nos mueve: Congreso Nacional de Cajas de Compensación Familiar 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/lo-que-nos-mueve-congreso-nacional-de-cajas-de-compensacion-familiar-505000",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Lo que nos mueve: Congreso Nacional de Cajas de Compensación Familiar 2026",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Charla con Camilo López, jefe de estrategia de Comfama en el Congreso Asocajas",
+        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-camilo-lopez-responsable-de-estrategia-de-comfama-desde-el-congreso-asocajas-504999",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Entrevista con Camilo López, responsable de estrategia de Comfama desde el Congreso Asocajas",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Diálogo con Juan Eduardo Zuluaga, director general de Confa desde el Congreso Asocajas",
+        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-juan-eduardo-zuluaga-director-general-de-confa-desde-el-congreso-asocajas-504998",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Entrevista con Juan Eduardo Zuluaga, director general de Confa desde el Congreso Asocajas",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Estrategias recientes de Grupo Nutresa en Ecuador y Venezuela para ampliar su huella internacional",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-y-su-presencia-mas-alla-de-colombia-las-recientes-apuestas-en-ecuador-y-venezuela-504993",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Grupo Nutresa y su presencia más allá de Colombia: las recientes apuestas en Ecuador y Venezuela",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Volkswagen Camiones y Buses completa más de dos décadas dinamizando la movilidad en Colombia",
+        "url": "https://www.portafolio.co/negocios/vehiculo/volkswagen-camiones-y-buses-mas-de-20-anos-impulsando-el-transporte-en-colombia-504207",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Volkswagen Camiones y Buses: más de 20 años impulsando el transporte en Colombia",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "Expansión del portafolio de Nutresa por parte de Gilinski mediante compras como Presto, Mimo y Yupi",
+        "url": "https://www.portafolio.co/negocios/empresas/presto-mimo-s-yupi-y-mas-las-ultimas-compras-con-las-que-gilinski-ha-expandido-su-portafolio-a-traves-de-nutresa-504991",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Presto, Mimo’s, Yupi y más: las últimas compras con las que Gilinski ha expandido su portafolio a través de Nutresa",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
+      {
+        "titulo": "El sector industrial resintió con mayor fuerza el sismo y carece de indicios claros de repunte",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-sintio-el-mayor-impacto-economico-del-terremoto-y-no-muestra-senales-claras-de-recuperacion-504990",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Industria sintió el mayor impacto económico del terremoto y no muestra señales claras de recuperación",
+        "capturado": "2026-10-23T14:47:41-05:00"
+      },
       {
         "titulo": "Inversión del exterior para la pódcast colombiana La No Ficción con el fin de llegar a España",
         "url": "https://www.portafolio.co/negocios/empresas/productora-de-podcast-colombiana-la-no-ficcion-recibe-inversion-internacional-para-expandir-su-negocio-a-espana-504983",
@@ -1105,106 +1205,6 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Estarían llegando a Colombia llantas chinas a bajos precios: piden medidas para proteger la industria nacional",
         "capturado": "2026-10-20T09:25:40-05:00"
-      },
-      {
-        "titulo": "David Ellison asume el mando de la nueva potencia de Hollywood: dirige Paramount y Warner",
-        "url": "https://www.portafolio.co/negocios/empresas/david-ellison-toma-el-control-del-nuevo-gigante-de-hollywood-el-empresario-que-ahora-dirige-paramount-y-warner-504750",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "David Ellison toma el control del nuevo gigante de Hollywood: el empresario que ahora dirige Paramount y Warner",
-        "capturado": "2026-10-19T22:33:25-05:00"
-      },
-      {
-        "titulo": "Kapital Colombia recibió aval como sociedad de financiación pero aún carece de autorización de funciones",
-        "url": "https://www.portafolio.co/negocios/empresas/superfinanciera-autoriza-crear-kapital-colombia-pero-todavia-falta-el-permiso-para-operar-504746",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Kapital Colombia obtuvo luz verde para ser compañía de financiamiento pero todavía falta permiso para operar",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Problemas en la vía alterna para llevar petróleo internacional complican el comercio y alzan precios",
-        "url": "https://www.portafolio.co/negocios/comercio/todo-se-pondra-mas-caro-alta-tension-en-oriente-medio-complicara-la-inflacion-y-los-fletes-504742",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Líos en la ruta alterna para el transporte de crudo global enredan al comercio: ¿todo se pondrá más caro?",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Este es el listado de las 10 compañías con mejor apreciación por parte de los ciudadanos en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/este-es-el-escalafon-de-las-10-empresas-mejor-valoradas-por-la-poblacion-general-en-colombia-504741",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Este es el escalafón de las 10 empresas mejor valoradas por la población general en Colombia",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "KFC destina recursos a energía fotovoltaica para mermar 20 por ciento su gasto eléctrico en el país",
-        "url": "https://www.portafolio.co/negocios/empresas/kfc-invierte-en-energia-solar-para-reducir-20-su-consumo-energetico-en-colombia-504738",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "KFC invierte en energía solar para reducir 20% su consumo energético en Colombia",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Claro Colombia logra dos galardones por la eficacia de su red celular en el ámbito nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/claro-colombia-obtiene-dos-reconocimientos-por-el-desempeno-de-su-red-movil-en-el-territorio-nacional-504734",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Claro Colombia obtiene dos reconocimientos por el desempeño de su red móvil en el territorio nacional",
-        "capturado": "2026-10-19T18:51:37-05:00"
-      },
-      {
-        "titulo": "Firma alemana amplía su presencia en Cartagena para ganar terreno en la región latinoamericana",
-        "url": "https://www.portafolio.co/negocios/empresas/multinacional-alemana-expande-su-operacion-en-cartagena-para-crecer-mas-en-america-latina-504725",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Multinacional alemana expande su operación en Cartagena para crecer más en América Latina",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Piden cautela ante el incremento del salario mínimo el cual no superaría el 9 por ciento según Acrip",
-        "url": "https://www.portafolio.co/negocios/empresas/llamado-a-la-prudencia-para-el-alza-del-minimo-no-debe-pasar-de-9-dice-acrip-504712",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Llamado a la prudencia para el alza del mínimo: no debe pasar de 9%, dice Acrip",
-        "capturado": "2026-10-19T15:22:38-05:00"
-      },
-      {
-        "titulo": "Más de 130 consejeros del Legislativo aprenden sobre proceso de leyes, vigilancia política y IA",
-        "url": "https://www.portafolio.co/negocios/empresas/mas-de-130-asesores-del-congreso-se-capacitan-en-tramite-legislativo-control-politico-e-inteligencia-artificial-504701",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "Más de 130 asesores del Congreso se capacitan en trámite legislativo, control político e inteligencia artificial",
-        "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "PazdelRío solicita conservar gravamen al acero ruso y chino para salvaguardar el sector local",
-        "url": "https://www.portafolio.co/negocios/industrias/pazdelrio-pide-mantener-arancel-al-acero-de-rusia-y-china-para-proteger-la-industria-nacional-504700",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-19",
-        "titulo_fuente": "PazdelRío pide mantener arancel al acero de Rusia y China para proteger la industria nacional",
-        "capturado": "2026-10-19T09:51:57-05:00"
       }
     ]
   }
