@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-22T17:07:09-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-22T19:49:11-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El narcotráfico en Colombia deja ingresos anuales por cerca de US$16.500 millones a bandas criminales",
+        "url": "https://www.portafolio.co/economia/finanzas/grupos-criminales-reciben-cerca-de-us-16-500-millones-al-ano-por-el-narcotrafico-en-colombia-504958",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Grupos criminales reciben cerca de US$16.500 millones al año por el narcotráfico en Colombia",
+        "capturado": "2026-10-22T19:49:11-05:00"
+      },
+      {
+        "titulo": "Gasto de los hogares colombianos pierde dinamismo con un incremento real de 2,69% en septiembre de 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/el-consumo-de-los-hogares-en-colombia-se-desacelera-crecio-2-69-real-en-septiembre-de-504956",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "El consumo de los hogares en Colombia se desacelera: creció 2,69% real en septiembre de 2026",
+        "capturado": "2026-10-22T19:49:11-05:00"
+      },
       {
         "titulo": "Gobierno pretende que once cajas de compensación intervenidas salgan de esta condición antes de acabar periodo",
         "url": "https://www.portafolio.co/economia/gobierno-busca-que-11-cajas-de-compensacion-familiar-intervenidas-superen-esta-medida-antes-de-terminar-su-mandato-504953",
@@ -583,29 +603,19 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Contratos de aprendices del Sena cambian: empresas podrán evaluar su desempeño desde el inicio",
         "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Contraloría indaga posible daño de $3.000 millones en convenio de restauración coralina en San Andrés",
-        "url": "https://www.portafolio.co/economia/regiones/contraloria-investiga-presunto-detrimento-de-3-000-millones-en-contrato-para-recuperar-arrecifes-de-san-andres-504798",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Contraloría investiga presunto detrimento de $3.000 millones en contrato para recuperar arrecifes de San Andrés",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Reacciones al Presupuesto 2027: Pacto Histórico convoca protestas y demandas por recortes",
-        "url": "https://www.portafolio.co/economia/gobierno/las-reacciones-a-la-aprobacion-del-presupuesto-2027-el-pacto-anuncia-marchas-y-acciones-legales-por-recortes-504793",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Reacciones a la aprobación del Presupuesto 2027: Pacto Histórico anuncia marchas y acciones legales por recortes",
-        "capturado": "2026-10-20T17:07:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los retos sobre confianza y propiedad intelectual que la IA plantea para los medios de la región",
+        "url": "https://www.portafolio.co/negocios/empresas/propiedad-intelectual-y-confianza-los-desafios-que-la-ia-abre-para-los-medios-de-america-504957",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-22",
+        "titulo_fuente": "Propiedad intelectual y confianza, los desafíos que la IA abre para los medios de América",
+        "capturado": "2026-10-22T19:49:11-05:00"
+      },
       {
         "titulo": "Cadenas como Burger King, Kokoriko y Popsy respaldan a Presto en un gesto de solidaridad",
         "url": "https://www.portafolio.co/negocios/empresas/ola-de-apoyo-a-presto-burger-king-kokoriko-popsy-y-otras-cadenas-se-solidarizan-con-la-marca-504952",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-17",
         "titulo_fuente": "Allianz Colombia donará el 10% de los ingresos de su carrera 15K para apoyar a damnificados del terremoto",
-        "capturado": "2026-10-17T11:50:58-05:00"
-      },
-      {
-        "titulo": "Empresarios alertan sobre crisis industrial en el país: fabricación y ventas ligan dos meses a la baja",
-        "url": "https://www.portafolio.co/negocios/empresas/empresarios-advierten-por-la-crisis-industrial-en-colombia-produccion-y-ventas-completan-dos-meses-de-caidas-504630",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-17",
-        "titulo_fuente": "Empresarios advierten por la crisis industrial en Colombia: producción y ventas completan dos meses de caídas",
         "capturado": "2026-10-17T11:50:58-05:00"
       }
     ]
