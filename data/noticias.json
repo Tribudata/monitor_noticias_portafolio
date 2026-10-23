@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-23T06:04:11-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T10:49:30-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del euro en Colombia este 23 de octubre: bajó de nuevo tras subir dos días seguidos",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-en-colombia-hoy-23-de-octubre-la-moneda-volvio-a-caer-despues-de-dos-jornadas-de-repunte-504989",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Euro en Colombia hoy 23 de octubre: la moneda volvió a caer después de dos jornadas de repunte",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Cancillería recorta consulados: salen funcionarios en Italia y Chipre, uno investigado",
+        "url": "https://www.portafolio.co/economia/gobierno/cancilleria-avanza-en-la-reduccion-de-consulados-salen-consules-en-italia-y-chipre-uno-con-proceso-disciplinario-504988",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Cancillería avanza en la reducción de consulados: salen cónsules en Italia y Chipre, uno con proceso disciplinario",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "ANT adopta austeridad de De La Espriella: prescinde de 1.040 contratistas y ahorra $22.224 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/la-ant-se-suma-a-la-austeridad-de-de-la-espriella-ha-salido-de-1-040-contratistas-y-ahorra-22-224-millones-504984",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "La ANT se suma a la austeridad de De La Espriella: ha salido de 1.040 contratistas y ahorra $22.224 millones",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Michel Janna, exdirector de Crédito Público, asumirá como delegado de Colombia en el FMI",
+        "url": "https://www.portafolio.co/economia/crecimiento/exdirector-de-credito-publico-michel-janna-sera-el-nuevo-representante-de-colombia-ante-el-fmi-en-washington-504985",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Exdirector de Crédito Público Michel Janna será el nuevo representante de Colombia ante el FMI en Washington",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Viviane Morales, exministra de Educación, vuelve a la administración De La Espriella como comisionada de Paz",
+        "url": "https://www.portafolio.co/economia/gobierno/viviane-morales-exministra-de-educacion-regresa-al-gobierno-de-la-espriella-como-consejera-comisionada-de-paz-504980",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Viviane Morales, exministra de Educación, regresa al Gobierno De La Espriella como Consejera Comisionada de Paz",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Gobierno destina $826.000 millones al Fondo Milagro para vivienda urbana y rural por el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-suma-826-000-millones-al-fondo-milagro-los-recursos-iran-a-vivienda-urbana-y-rural-tras-el-terremoto-504982",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Gobierno suma $826.000 millones al Fondo Milagro: los recursos irán a vivienda urbana y rural tras el terremoto",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Sectores afectados por el recorte de 13,8 billones de pesos del Gobierno al Presupuesto General de 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-sectores-donde-el-gobierno-recortara-13-8-billones-del-presupuesto-general-de-504978",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Estos son los sectores donde el Gobierno recortará $13,8 billones del Presupuesto General de 2026",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar hoy en Colombia al finalizar la semana",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-al-cierre-de-la-semana-504976",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa al cierre de la semana",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá llega al 83,7 por ciento de progreso total luego de que arribara el tren 22 a Cartagena",
+        "url": "https://www.portafolio.co/economia/regiones/el-metro-de-bogota-alcanza-83-7-de-avance-general-tras-la-llegada-del-tren-22-a-cartagena-504974",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "El Metro de Bogotá alcanza 83,7% de avance general tras la llegada del tren 22 a Cartagena",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella informa ajuste de 13,8 billones de pesos en el gasto fiscal y detalla su reparto",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-recorte-de-13-8-billones-en-el-gasto-publico-asi-se-distribuira-el-ajuste-fiscal-504973",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Abelardo De La Espriella anuncia recorte de $13,8 billones en el gasto público: así se distribuirá el ajuste fiscal",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
       {
         "titulo": "Abogado De La Espriella reacciona a la compra de Presto por Grupo Nutresa que salva 700 empleos",
         "url": "https://www.portafolio.co/economia/gobierno/se-salvan-700-empleos-de-la-espriella-reacciona-a-la-decision-de-grupo-nutresa-de-comprar-presto-504964",
@@ -503,109 +603,59 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Precio del dólar hoy en Colombia: la divisa inicia cerca de $3.160 este 21 de octubre",
         "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Ideam lanza alerta por lluvias en Colombia y advierte peligro de inundaciones en 209 subzonas",
-        "url": "https://www.portafolio.co/economia/regiones/fuertes-lluvias-ponen-en-alerta-a-colombia-ideam-advierte-riesgo-de-inundaciones-en-209-subzonas-504831",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Fuertes lluvias ponen en alerta a Colombia: Ideam advierte riesgo de inundaciones en 209 subzonas",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Falla en trámite del Presupuesto 2027 forzaría a De La Espriella a sacarlo mediante decreto",
-        "url": "https://www.portafolio.co/economia/gobierno/este-es-el-error-en-la-aprobacion-del-presupuesto-2027-que-obligaria-a-de-la-espriella-a-expedirlo-via-decreto-504830",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Este es el error en la aprobación del Presupuesto 2027 que obligaría a De La Espriella a expedirlo vía decreto",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Presupuesto del 2027 recién aprobado, en riesgo por posible hundimiento debido a vicio de trámite en el Congreso",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-recien-aprobado-en-vilo-por-inminente-hundimiento-por-vicio-de-tramite-en-el-congreso-504829",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Presupuesto de 2027 recién aprobado, en vilo por inminente hundimiento a causa de vicio de trámite en el Congreso",
-        "capturado": "2026-10-21T00:44:27-05:00"
-      },
-      {
-        "titulo": "Gobierno solicita $1,2 billones al Congreso para subsidios de energía ante peligro de apagón en el país",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pide-1-2-billones-al-congreso-para-subsidios-electricos-ante-riesgo-de-apagon-en-colombia-504828",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Gobierno pide $1,2 billones al Congreso para subsidios eléctricos ante riesgo de apagón en Colombia",
-        "capturado": "2026-10-21T00:44:27-05:00"
-      },
-      {
-        "titulo": "Guía básica sobre la encrucijada migratoria en Colombia",
-        "url": "https://www.portafolio.co/economia/finanzas/abece-de-la-encrucijada-migratoria-en-colombia-504825",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Abecé de la encrucijada migratoria en Colombia",
-        "capturado": "2026-10-21T00:44:27-05:00"
-      },
-      {
-        "titulo": "Colombia procurará préstamos más económicos del BID para bajar el costo de su deuda a largo plazo",
-        "url": "https://www.portafolio.co/economia/finanzas/colombia-buscara-creditos-mas-baratos-del-bid-para-reducir-el-costo-de-su-deuda-a-largo-plazo-504819",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Colombia buscará créditos más baratos del BID para reducir el costo de su deuda a largo plazo",
-        "capturado": "2026-10-20T19:45:45-05:00"
-      },
-      {
-        "titulo": "Bogotá, Medellín y Cali figuran en el listado de 1.000 urbes con mejor rendimiento económico global",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-medellin-y-cali-aparecen-en-el-ranking-de-1-000-ciudades-con-mejor-desempeno-economico-del-mundo-504816",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Bogotá, Medellín y Cali aparecen en el ranking de 1.000 ciudades con mejor desempeño económico del mundo",
-        "capturado": "2026-10-20T19:45:45-05:00"
-      },
-      {
-        "titulo": "Presupuesto General 2027: contar con $635 billones financiados no borra las presiones fiscales, según estudio",
-        "url": "https://www.portafolio.co/economia/finanzas/presupuesto-general-2027-tener-financiados-635-billones-no-elimina-las-presiones-fiscales-segun-analisis-504812",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Presupuesto General 2027: tener financiados $635 billones no elimina las presiones fiscales, según análisis",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia descendería hasta $3.120 en el transcurso de la semana",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-bajar-hasta-3-120-esta-semana-504805",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Dólar en Colombia podría bajar hasta $3.120 esta semana",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Halloween impulsa el turismo: Salem, Transilvania, Nueva Orleans y México atraen con planes de terror",
-        "url": "https://www.portafolio.co/economia/halloween-mueve-el-turismo-salem-transilvania-nueva-orleans-y-mexico-atraen-con-sus-planes-de-terror-504792",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Halloween mueve el turismo: Salem, Transilvania, Nueva Orleans y México atraen con sus planes de terror",
-        "capturado": "2026-10-20T17:07:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Inversión del exterior para la pódcast colombiana La No Ficción con el fin de llegar a España",
+        "url": "https://www.portafolio.co/negocios/empresas/productora-de-podcast-colombiana-la-no-ficcion-recibe-inversion-internacional-para-expandir-su-negocio-a-espana-504983",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Productora de pódcast colombiana La No Ficción recibe inversión internacional para expandir su negocio a España",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Modificaciones en la Junta de ISA: tres integrantes continuarían y seis aspiran a una silla",
+        "url": "https://www.portafolio.co/negocios/empresas/isa-alista-cambios-en-su-junta-tres-miembros-seguirian-y-seis-candidatos-buscan-un-puesto-504975",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "ISA alista cambios en su Junta: tres miembros seguirían y seis candidatos buscan un puesto",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "Nutresa, de Gilinski, une a las rivales Presto y El Corral como marcas del mismo grupo",
+        "url": "https://www.portafolio.co/negocios/empresas/presto-y-el-corral-de-competidoras-a-cadenas-hermanas-gracias-a-la-jugada-de-la-nutresa-de-los-gilinski-504972",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Presto y El Corral: de competidoras a cadenas hermanas gracias a la jugada de Nutresa, de Gilinski",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "El oro baja 3,5% semanal y alcanza mínimos de tres meses al tiempo que el petróleo presiona tasas",
+        "url": "https://www.portafolio.co/negocios/industrias/el-oro-cae-3-5-en-la-semana-y-toca-minimos-de-tres-meses-mientras-el-petroleo-presiona-las-tasas-de-interes-504971",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "El oro cae 3,5% en la semana y toca mínimos de tres meses mientras el petróleo presiona las tasas de interés",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
+      {
+        "titulo": "El conglomerado de Jaime Gilinski en Nutresa crece: impacto en el mercado por la compra de Presto",
+        "url": "https://www.portafolio.co/negocios/empresas/la-nutresa-de-jaime-gilinski-continua-expandiendo-su-emporio-asi-quedaria-en-el-mercado-con-la-compra-de-presto-504970",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Nutresa, de Jaime Gilinski, continúa expandiendo su emporio: ¿cómo quedaría en el mercado con la compra de Presto?",
+        "capturado": "2026-10-23T10:49:30-05:00"
+      },
       {
         "titulo": "Grupo Nutresa sella pacto para adquirir Presto y adueñarse de su marca y su planta fabril",
         "url": "https://www.portafolio.co/negocios/empresas/atencion-grupo-nutresa-firma-acuerdo-para-comprar-presto-y-quedarse-con-la-cadena-y-planta-de-produccion-504963",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-19",
         "titulo_fuente": "PazdelRío pide mantener arancel al acero de Rusia y China para proteger la industria nacional",
         "capturado": "2026-10-19T09:51:57-05:00"
-      },
-      {
-        "titulo": "Tigo rechaza auspiciar el escenario bogotano tras comprar a Movistar en el país y explica los motivos",
-        "url": "https://www.portafolio.co/negocios/empresas/tras-adquirir-operacion-de-movistar-en-colombia-tigo-descarta-patrocinar-la-arena-de-bogota-504678",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Tras adquirir operación de Movistar en Colombia, Tigo descarta patrocinar la Arena de Bogotá: ¿por qué?",
-        "capturado": "2026-10-18T16:16:13-05:00"
-      },
-      {
-        "titulo": "Arranca el proceso para designar al nuevo presidente de la Andi en reemplazo de Bruce Mac Master",
-        "url": "https://www.portafolio.co/negocios/empresas/empieza-la-busqueda-activan-plan-para-elegir-al-sucesor-de-bruce-mac-master-como-cabeza-de-la-andi-504677",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Empieza la búsqueda: activan plan para elegir al sucesor de Bruce Mac Master como cabeza de la Andi",
-        "capturado": "2026-10-18T16:16:13-05:00"
-      },
-      {
-        "titulo": "Yango prepara su llegada al q-commerce y la micromovilidad tras operar más de 700 dark stores globales",
-        "url": "https://www.portafolio.co/negocios/empresas/en-el-mundo-operamos-mas-de-700-dark-stores-yango-alista-su-entrada-al-comercio-rapido-y-micromovilidad-504599",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "'En el mundo operamos más de 700 dark stores': Yango alista su entrada al comercio rápido y micromovilidad",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "Bélgica pretende incluir nuevas normas en el tratado comercial con Colombia abarcando el e-commerce",
-        "url": "https://www.portafolio.co/negocios/comercio/belgica-busca-sumar-nuevas-reglas-al-acuerdo-comercial-con-colombia-el-e-commerce-entraria-en-la-negociacion-504621",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Bélgica busca sumar nuevas reglas al acuerdo comercial con Colombia: el e-commerce entraría en la negociación",
-        "capturado": "2026-10-18T13:46:54-05:00"
-      },
-      {
-        "titulo": "María Corina Machado propone que Venezuela exporte gas a Colombia y detalla los requisitos",
-        "url": "https://www.portafolio.co/negocios/comercio/maria-corina-machado-plantea-que-venezuela-suministre-gas-a-colombia-esto-es-lo-que-se-necesita-504655",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "María Corina Machado plantea que Venezuela suministre gas a Colombia: esto es lo que se necesita",
-        "capturado": "2026-10-18T11:21:49-05:00"
       }
     ]
   }
