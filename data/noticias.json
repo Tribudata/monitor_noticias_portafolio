@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-24T15:16:42-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-24T17:38:35-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Pacientes Colombia avisa que faltaron tres billones de pesos presupuestados para la salud",
+        "url": "https://www.portafolio.co/economia/gobierno/pacientes-colombia-advierte-que-3-billones-no-quedaron-en-el-presupuesto-para-salud-505066",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Pacientes Colombia advierte que $3 billones no quedaron en el Presupuesto para salud",
+        "capturado": "2026-10-24T17:38:35-05:00"
+      },
+      {
+        "titulo": "Contraloría cifra la reforma agraria como el mayor incumplimiento del Plan de Desarrollo de Petro",
+        "url": "https://www.portafolio.co/economia/agro/la-reforma-agraria-el-mayor-incumplimiento-del-plan-de-desarrollo-de-petro-las-cifras-de-la-contraloria-505064",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "La reforma agraria, el 'mayor incumplimiento' del Plan de Desarrollo de Petro: las cifras de la Contraloría",
+        "capturado": "2026-10-24T17:38:35-05:00"
+      },
+      {
+        "titulo": "Iniciativa legal culinaria sugiere IVA del cinco por ciento en locales y busca unificar tributos",
+        "url": "https://www.portafolio.co/economia/proyecto-de-ley-gastronomico-propone-iva-del-5-para-restaurantes-y-franquicias-y-busca-unificar-reglas-tributarias-505065",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Proyecto de ley gastronómico propone IVA del 5% para restaurantes y franquicias y busca unificar reglas tributarias",
+        "capturado": "2026-10-24T17:38:35-05:00"
+      },
+      {
+        "titulo": "Ministerio de Agricultura revocó las APPA en diecinueve municipios del Suroeste antioqueño",
+        "url": "https://www.portafolio.co/economia/gobierno/dangond-derogo-las-appa-en-19-municipios-del-suroeste-antioqueno-505063",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Minagricultura derogó las APPA en 19 municipios del Suroeste Antioqueño",
+        "capturado": "2026-10-24T17:38:35-05:00"
+      },
       {
         "titulo": "Avianca reactiva de forma definitiva su ruta directa entre Cali y Miami",
         "url": "https://www.portafolio.co/economia/regiones/avianca-retoma-su-vuelo-directo-de-cali-a-miami-de-manera-permanente-505057",
@@ -562,46 +602,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "2026-10-22",
         "titulo_fuente": "Gerente de Camacol Antioquia revela cifras del sector y proyectos para el departamento",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Luisa Fernanda Farfán Espitia toma el mando de 4-72, la empresa postal estatal de Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/luisa-fernanda-farfan-espitia-asume-la-presidencia-de-4-72-el-operador-postal-oficial-de-colombia-504915",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Luisa Fernanda Farfán Espitia asume la presidencia de 4-72, el operador postal oficial de Colombia",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027 enreda el plazo para arreglar la pensional y Cámara solicita un mes extra",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-de-2027-complica-el-calendario-para-corregir-tramite-de-la-reforma-pensional-camara-pide-30-dias-mas-504913",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Presupuesto de 2027 complica el calendario para corregir trámite de la reforma pensional: Cámara pide 30 días más",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Colombia prevé pactar con Estados Unidos la eliminación de aranceles en el transcurso del año",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-espera-lograr-un-acuerdo-con-los-estados-unidos-para-suspender-los-aranceles-este-mismo-ano-504910",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Colombia espera lograr un acuerdo con los Estados Unidos para suspender los aranceles este mismo año",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Director del Banco de la República conversa con constructores acerca del desafío fiscal",
-        "url": "https://www.portafolio.co/economia/infraestructura/gerente-del-banco-de-la-republica-habla-ante-el-sector-de-construccion-del-pais-y-el-reto-fiscal-504909",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Gerente del Banco de la Republica habla ante el sector de construcción del país y el reto fiscal",
         "capturado": "2026-10-22T13:42:43-05:00"
       }
     ],
