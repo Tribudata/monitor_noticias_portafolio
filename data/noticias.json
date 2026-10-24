@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-24T09:45:00-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-24T12:51:12-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Giros al exterior en Colombia se triplicaron en doce meses y ya superan los 225 millones de dólares",
+        "url": "https://www.portafolio.co/economia/finanzas/colombia-triplico-las-transferencias-internacionales-en-un-ano-ya-mueve-mas-de-us-225-millones-505049",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Colombia triplicó las transferencias internacionales en un año: ya mueve más de US$225 millones",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "Cartagena abre los dos primeros kilómetros del Gran Malecón del Mar",
+        "url": "https://www.portafolio.co/economia/regiones/cartagena-inaugura-los-primeros-2-km-del-gran-malecon-del-mar-505047",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Cartagena inaugura los primeros 2 kilómetros del Gran Malecón del Mar",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "Trece de diecinueve actores consultados por Anif prevén que la tasa suba al 12,50% en octubre",
+        "url": "https://www.portafolio.co/economia/finanzas/tasas-de-interes-seguirian-al-alza-13-de-19-entidades-consultadas-por-anif-esperan-subida-al-12-50-en-octubre-505044",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Tasas de interés seguirían al alza: 13 de 19 entidades consultadas por Anif esperan subida al 12,50% en octubre",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "Gobierno respondió sobre su intervención en la adquisición de Presto por parte de Nutresa",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-celebra-la-compra-de-presto-por-nutresa-cerca-de-700-trabajadores-conservaran-sus-empleos-505045",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Qué papel tuvo el Gobierno en la compra de Presto por parte de Nutresa: ‘Actuamos de inmediato’",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "Credicorp revela la cotización prevista del dólar para finalizar 2026 y un posible repunte a $3.600 en 2027",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-el-alza-esperada-para-el-cierre-de-2026-y-por-que-podria-subir-a-3-600-en-2027-segun-credicorp-505043",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Dólar en Colombia: el alza esperada para el cierre de 2026 y por qué podría subir a $3.600 en 2027, según Credicorp",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
       {
         "titulo": "Ideam pronostica un fin de semana con intensas precipitaciones y tormentas en tres zonas del país",
         "url": "https://www.portafolio.co/economia/regiones/ideam-anticipa-un-fin-de-semana-de-fuertes-lluvias-y-tormentas-en-tres-regiones-de-colombia-505035",
@@ -553,59 +603,39 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Salida de Rodrigo Lara y nombramiento de Alejandro Ordóñez en el Ministerio del Interior",
         "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda pide a la Corte Constitucional incidente de impacto fiscal por déficit pensional",
-        "url": "https://www.portafolio.co/economia/hacienda-solicita-a-la-corte-constitucional-abrir-un-incidente-de-impacto-fiscal-por-faltante-en-reforma-pensional-504876",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Hacienda solicita a la Corte Constitucional abrir un incidente de impacto fiscal por faltante en reforma pensional",
-        "capturado": "2026-10-22T03:50:57-05:00"
-      },
-      {
-        "titulo": "Minciencias divulgará el 29 de octubre los financiables y elegibles para maestrías y doctorados",
-        "url": "https://www.portafolio.co/economia/gobierno/minciencias-publicara-el-29-de-octubre-los-elegibles-y-financiables-para-maestrias-y-doctorados-504888",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Minciencias publicará el 29 de octubre los elegibles y financiables para maestrías y doctorados",
-        "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Quién es Alejandro Ordóñez, el nuevo Mininterior designado por De La Espriella en reemplazo de Rodrigo Lara",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-alejandro-ordonez-el-nuevo-mininterior-designado-por-de-la-espriella-en-reemplazo-de-rodrigo-lara-504886",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Quién es Alejandro Ordóñez, el nuevo Mininterior designado por De La Espriella en reemplazo de Rodrigo Lara",
-        "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Rodrigo Lara Restrepo deja de ser ministro del Interior: el presidente Abelardo De La Espriella comunicó su salida",
-        "url": "https://www.portafolio.co/economia/gobierno/rodrigo-lara-restrepo-ya-no-es-mas-el-ministro-del-interior-anuncio-el-presidente-abelardo-de-la-espriella-504885",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Rodrigo Lara Restrepo ya no es más el ministro del Interior: presidente Abelardo De La Espriella anunció su salida",
-        "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Guillermo Herrera, presidente de Camacol, discute los desafíos e iniciativas de la construcción",
-        "url": "https://www.portafolio.co/economia/infraestructura/presidente-de-camacol-guillermo-herrera-habla-de-retos-y-proyectos-del-sector-de-la-construccion-504883",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Presidente de Camacol, Guillermo Herrera, habla de retos y proyectos del sector de la construcción",
-        "capturado": "2026-10-21T22:26:08-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Impacto Tesla en Colombia: cuatro vehículos eléctricos redujeron sus precios hasta en 40 millones",
+        "url": "https://www.portafolio.co/negocios/efecto-tesla-en-colombia-4-carros-electricos-bajaron-hasta-40-millones-505050",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Efecto Tesla en Colombia: 4 carros eléctricos bajaron hasta $40 millones",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "La natalidad disminuye en Bogotá: la reducción de 42000 nacidos reta la atención pediátrica",
+        "url": "https://www.portafolio.co/negocios/industrias/cada-vez-nacen-menos-ninos-en-bogota-la-caida-de-42-000-nacimientos-que-reta-a-la-atencion-pediatrica-505048",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Cada vez nacen menos niños en Bogotá: la caída de 42.000 nacimientos que reta a la atención pediátrica",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
+      {
+        "titulo": "Cepal proyecta un aumento del 15% en las ventas externas de Colombia para el año 2026",
+        "url": "https://www.portafolio.co/negocios/comercio/exportaciones-de-colombia-crecerian-15-en-2026-la-cifra-que-proyecta-la-cepal-para-el-comercio-exterior-505046",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Exportaciones de Colombia crecerían 15% en 2026: la cifra que proyecta la Cepal para el comercio exterior",
+        "capturado": "2026-10-24T12:51:12-05:00"
+      },
       {
         "titulo": "Nucita celebra cinco décadas logrando 435 millones de unidades anuales y llegada a más de 15 naciones",
         "url": "https://www.portafolio.co/negocios/empresas/nucita-cumple-50-anos-con-435-millones-de-unidades-al-ano-y-presencia-en-mas-de-15-paises-505041",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Nuevo carro de Renault se fabricaría en Colombia: inversión para producirlo llegaría a 150 millones de dólares",
         "capturado": "2026-10-20T19:45:45-05:00"
-      },
-      {
-        "titulo": "Emprendimiento asociado a Alquería promueve esquema de crédito para el agro",
-        "url": "https://www.portafolio.co/negocios/empresas/startup-vinculada-a-alqueria-impulsa-modelo-de-financiacion-agropecuaria-504811",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Startup vinculada a Alquería impulsa modelo de financiación agropecuaria",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Precio de la camioneta Tesla Cybertruck estrellada contra un poste en el oriente antioqueño",
-        "url": "https://www.portafolio.co/negocios/vehiculo/cuanto-cuesta-la-camioneta-cybertruck-de-tesla-que-choco-contra-un-poste-de-luz-en-el-oriente-de-antioquia-504804",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Cuánto cuesta la camioneta Cybertruck de Tesla que chocó contra un poste de luz en el oriente de Antioquia",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Comfama multiplicó por tres sus entradas en diez años y hoy atiende al 70 por ciento de antioqueños",
-        "url": "https://www.portafolio.co/negocios/empresas/comfama-triplico-sus-ingresos-en-una-decada-y-hoy-llega-a-siete-de-cada-diez-antioquenos-504799",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Comfama triplicó sus ingresos en una década y hoy llega a siete de cada diez antioqueños",
-        "capturado": "2026-10-20T17:07:37-05:00"
       }
     ]
   }
