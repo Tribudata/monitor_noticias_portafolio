@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-24T12:51:12-05:00",
+  "actualizado": "2026-10-24T15:16:42-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Avianca reactiva de forma definitiva su ruta directa entre Cali y Miami",
+        "url": "https://www.portafolio.co/economia/regiones/avianca-retoma-su-vuelo-directo-de-cali-a-miami-de-manera-permanente-505057",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Avianca retoma su vuelo directo de Cali a Miami de manera permanente",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Camacol - La agenda económica el país: retos y oportunidades",
+        "url": "https://www.portafolio.co/economia/infraestructura/camacol-la-agenda-economica-el-pais-retos-y-oportunidades-505056",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Camacol - La agenda económica el país: retos y oportunidades",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Gobierno enfrenta una carrera legislativa por el rescate fiscal, el traslado para Air-e y las reformas pendientes",
+        "url": "https://www.portafolio.co/economia/gobierno-enfrenta-una-carrera-legislativa-por-el-rescate-fiscal-el-traslado-para-air-e-y-las-reformas-pendientes-505055",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Gobierno enfrenta una carrera legislativa por el rescate fiscal, el traslado para Air-e y las reformas pendientes",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Congresistas reaccionan a salida de Rodrigo Lara y analizan situación de la vivienda en el país",
+        "url": "https://www.portafolio.co/economia/infraestructura/congresistas-reaccionan-a-salida-de-rodrigo-lara-y-analizan-situacion-de-la-vivienda-en-el-pais-505054",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Congresistas reaccionan a salida de Rodrigo Lara y analizan situación de la vivienda en el país",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027 tendrá un ajuste de casi $70 billones, anuncia el vicepresidente Restrepo",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-tendra-un-ajuste-de-casi-70-billones-anuncia-el-vicepresidente-restrepo-505053",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Presupuesto 2027 tendrá un ajuste de casi $70 billones, anuncia el vicepresidente Restrepo",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
       {
         "titulo": "Giros al exterior en Colombia se triplicaron en doce meses y ya superan los 225 millones de dólares",
         "url": "https://www.portafolio.co/economia/finanzas/colombia-triplico-las-transferencias-internacionales-en-un-ano-ya-mueve-mas-de-us-225-millones-505049",
@@ -553,59 +603,39 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Gerente del Banco de la Republica habla ante el sector de construcción del país y el reto fiscal",
         "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Alza en la cotización del dólar en Colombia rumbo a los $3.200 hoy",
-        "url": "https://www.portafolio.co/economia/gobierno/precio-de-dolar-hoy-en-colombia-subio-y-se-acerco-a-los-3-200-asi-cotiza-la-moneda-504902",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Precio de dólar hoy en Colombia subió y se acercó a los $3.200: así cotiza la moneda",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "MinEducación reconoce que el país carece de datos sobre menores educados en casa",
-        "url": "https://www.portafolio.co/economia/sin-cifras-ni-estudios-colombia-no-sabe-cuantos-ninos-estudian-en-casa-admite-el-ministerio-de-educacion-504899",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Sin cifras ni estudios: Colombia no sabe cuántos niños estudian en casa, admite el Ministerio de Educación",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Destinan $887.000 millones vía APP para construir 13 instituciones en Soacha y Cali",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-y-mineducacion-ponen-887-000-millones-sobre-la-mesa-para-13-colegios-en-soacha-y-cali-bajo-el-modelo-app-504897",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "ANI y MinEducación ponen $887.000 millones sobre la mesa para 13 colegios en Soacha y Cali bajo el modelo APP",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Reacciones del sector político por la renuncia del ministro del Interior Rodrigo Lara",
-        "url": "https://www.portafolio.co/economia/gobierno/asi-reacciono-el-pais-politico-tras-salida-del-ministro-del-interior-rodrigo-lara-504898",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Así reaccionó el país político tras salida del ministro del Interior, Rodrigo Lara",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Salida de Rodrigo Lara y designación de Alejandro Ordóñez en la cartera del Interior",
-        "url": "https://www.portafolio.co/economia/gobierno/salida-de-rodrigo-lara-y-nombramiento-de-alejandro-ordonez-en-el-ministerio-del-interior-504896",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Salida de Rodrigo Lara y nombramiento de Alejandro Ordóñez en el Ministerio del Interior",
-        "capturado": "2026-10-22T09:21:35-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Lorena Piñeiro Cortés asume como nueva rectora de la Universidad Ean",
+        "url": "https://www.portafolio.co/negocios/empresas/lorena-pineiro-cortes-sera-la-nueva-rectora-de-la-universidad-ean-505061",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Lorena Piñeiro Cortés será la nueva rectora de la Universidad Ean",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Aerolíneas en América Latina buscan superar los 0,69 viajes en avión por habitante: el reto para 2036",
+        "url": "https://www.portafolio.co/negocios/empresas/aerolineas-en-america-latina-buscan-superar-los-0-69-viajes-en-avion-por-habitante-el-reto-para-505059",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Aerolíneas en América Latina buscan superar los 0,69 viajes en avión por habitante: el reto para 2036",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
+      {
+        "titulo": "Gobierno suprime 15 distritos mineros: qué cambia para 5,3 millones de hectáreas que abarcan el 5% del territorio",
+        "url": "https://www.portafolio.co/negocios/industrias/gobierno-elimina-15-distritos-mineros-que-cambia-para-5-3-millones-de-hectareas-que-abarcan-el-5-del-territorio-505051",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Gobierno elimina 15 distritos mineros: qué cambia para 5,3 millones de hectáreas que abarcan el 5% del territorio",
+        "capturado": "2026-10-24T15:16:42-05:00"
+      },
       {
         "titulo": "Impacto Tesla en Colombia: cuatro vehículos eléctricos redujeron sus precios hasta en 40 millones",
         "url": "https://www.portafolio.co/negocios/efecto-tesla-en-colombia-4-carros-electricos-bajaron-hasta-40-millones-505050",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Servinformación acelera su expansión en Centroamérica y proyecta crecer más de 50% en 2027",
         "capturado": "2026-10-21T11:02:46-05:00"
-      },
-      {
-        "titulo": "Renault alista el armado de automotores electrificados en territorio colombiano",
-        "url": "https://www.portafolio.co/negocios/vehiculo/renault-se-prepara-para-ensamblar-vehiculos-electrificados-en-colombia-504818",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Renault se prepara para ensamblar vehículos electrificados en Colombia",
-        "capturado": "2026-10-21T06:13:52-05:00"
-      },
-      {
-        "titulo": "Ecopetrol conserva la calificación BB de Fitch y su perspectiva crediticia externa sigue estable",
-        "url": "https://www.portafolio.co/negocios/empresas/fitch-ratifica-nota-bb-de-ecopetrol-y-mantiene-perspectiva-estable-para-su-credito-internacional-504827",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Fitch ratifica nota BB de Ecopetrol y mantiene perspectiva estable para su crédito internacional",
-        "capturado": "2026-10-21T00:44:27-05:00"
-      },
-      {
-        "titulo": "Planta nacional armaría nuevo vehículo de Renault y recursos para su fabricación sumarían 150 millones de dólares",
-        "url": "https://www.portafolio.co/negocios/industrias/nuevo-carro-de-renault-se-fabricaria-en-colombia-inversion-para-producirlo-llegaria-a-150-millones-de-dolares-504815",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Nuevo carro de Renault se fabricaría en Colombia: inversión para producirlo llegaría a 150 millones de dólares",
-        "capturado": "2026-10-20T19:45:45-05:00"
       }
     ]
   }
