@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-23T20:22:26-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-24T01:13:27-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Consulte y baje la versión virtual de Portafolio fin de semana",
+        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-505034",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
+        "capturado": "2026-10-24T01:13:27-05:00"
+      },
       {
         "titulo": "Ajuste de $13,8 billones al presupuesto 2026 no significa una baja igual del déficit fiscal: analistas",
         "url": "https://www.portafolio.co/economia/recorte-de-13-8-billones-al-presupuesto-2026-no-implica-una-reduccion-equivalente-del-deficit-fiscal-economistas-505031",
@@ -593,16 +603,6 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Reconstrucción en Chocó: Minvivienda brinda apoyo a 11 municipios y entidades tras el sismo",
         "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Un estudio señala que inflación de 6,87% llevaría las tasas del Emisor a 12,50% al terminar 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/una-inflacion-de-6-87-elevaria-las-tasas-del-banco-de-la-republica-a-12-50-al-cierre-de-2026-advierte-estudio-504862",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Una inflación de 6,87% elevaría las tasas del Banco de la República a 12,50% al cierre de 2026, advierte estudio",
-        "capturado": "2026-10-21T15:18:03-05:00"
       }
     ],
     "Negocios": [
