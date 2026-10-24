@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-24T06:24:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-24T09:45:00-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ideam pronostica un fin de semana con intensas precipitaciones y tormentas en tres zonas del país",
+        "url": "https://www.portafolio.co/economia/regiones/ideam-anticipa-un-fin-de-semana-de-fuertes-lluvias-y-tormentas-en-tres-regiones-de-colombia-505035",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Ideam anticipa un fin de semana de fuertes lluvias y tormentas en tres regiones de Colombia",
+        "capturado": "2026-10-24T09:45:00-05:00"
+      },
       {
         "titulo": "Consulte y baje la versión virtual de Portafolio fin de semana",
         "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-505034",
@@ -593,19 +603,39 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Presidente de Camacol, Guillermo Herrera, habla de retos y proyectos del sector de la construcción",
         "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Minvivienda asiste a 11 municipios y organismos en la reconstrucción de Chocó tras el sismo",
-        "url": "https://www.portafolio.co/economia/regiones/reconstruccion-en-choco-minvivienda-brinda-apoyo-a-11-municipios-y-entidades-tras-el-sismo-504881",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Reconstrucción en Chocó: Minvivienda brinda apoyo a 11 municipios y entidades tras el sismo",
-        "capturado": "2026-10-21T22:26:08-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nucita celebra cinco décadas logrando 435 millones de unidades anuales y llegada a más de 15 naciones",
+        "url": "https://www.portafolio.co/negocios/empresas/nucita-cumple-50-anos-con-435-millones-de-unidades-al-ano-y-presencia-en-mas-de-15-paises-505041",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Nucita cumple 50 años con 435 millones de unidades al año y presencia en más de 15 países",
+        "capturado": "2026-10-24T09:45:00-05:00"
+      },
+      {
+        "titulo": "Hitachi Energy destinará US$80 millones de inversión en Colombia",
+        "url": "https://www.portafolio.co/negocios/hitachi-energy-invertira-us-80-millones-en-colombia-505039",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Hitachi Energy invertirá US$80 millones en Colombia",
+        "capturado": "2026-10-24T09:45:00-05:00"
+      },
+      {
+        "titulo": "El setenta por ciento de los colombianos sufrió intentos de estafa virtual en los últimos doce meses",
+        "url": "https://www.portafolio.co/negocios/empresas/siete-de-cada-diez-colombianos-recibieron-intentos-de-fraude-digital-durante-el-ultimo-ano-505037",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "Siete de cada diez colombianos recibieron intentos de fraude digital durante el último año",
+        "capturado": "2026-10-24T09:45:00-05:00"
+      },
       {
         "titulo": "Analdex señala que Brasil lograría adquirir anualmente US$1.600 millones adicionales en bienes nacionales",
         "url": "https://www.portafolio.co/negocios/comercio/brasil-podria-comprar-us-1-600-millones-mas-al-ano-en-productos-colombianos-segun-analdex-505032",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Comfama triplicó sus ingresos en una década y hoy llega a siete de cada diez antioqueños",
         "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "El almuerzo corriente crece en el país: Rappi registra un alza del 160 por ciento en órdenes para 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/el-corrientazo-gana-terreno-en-colombia-rappi-reporta-un-aumento-del-160-en-pedidos-en-504789",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "El corrientazo gana terreno en Colombia: Rappi reporta un aumento del 160 % en pedidos en 2026",
-        "capturado": "2026-10-20T17:07:37-05:00"
-      },
-      {
-        "titulo": "Este es el centro comercial bogotano que prevé un millón de visitantes al mes en un plazo de dos años",
-        "url": "https://www.portafolio.co/negocios/comercio/este-es-el-centro-comercial-de-bogota-que-proyecta-un-millon-de-visitantes-mensuales-en-dos-anos-504787",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Este es el centro comercial de Bogotá que proyecta un millón de visitantes mensuales en dos años",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Presto buscará comprador en liquidación y la Supersociedades autorizó operar sus restaurantes",
-        "url": "https://www.portafolio.co/negocios/empresas/presto-buscara-comprador-en-plena-liquidacion-judicial-y-mantendra-sus-restaurantes-funcionando-504776",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Presto buscará comprador en plena liquidación: Supersociedades aprobó que sus restaurantes sigan funcionando",
-        "capturado": "2026-10-20T13:36:34-05:00"
       }
     ]
   }
