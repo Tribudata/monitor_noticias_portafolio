@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-23T17:54:29-05:00",
+  "actualizado": "2026-10-23T20:22:26-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ajuste de $13,8 billones al presupuesto 2026 no significa una baja igual del déficit fiscal: analistas",
+        "url": "https://www.portafolio.co/economia/recorte-de-13-8-billones-al-presupuesto-2026-no-implica-una-reduccion-equivalente-del-deficit-fiscal-economistas-505031",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Recorte de $13,8 billones al presupuesto 2026 no implica una reducción equivalente del déficit fiscal: economistas",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
+      {
+        "titulo": "Vicepresidente Restrepo alerta una bomba de tiempo en 2027 por deuda y déficit fiscal de Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-restrepo-advierte-una-bomba-de-tiempo-para-2027-por-la-deuda-y-el-deficit-fiscal-de-colombia-505030",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Vicepresidente Restrepo advierte una 'bomba de tiempo' para 2027 por la deuda y el déficit fiscal de Colombia",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
+      {
+        "titulo": "Joaquín Gutiérrez, presidente de Ecopetrol, dialogó con la Embajada de EE. UU. en Colombia: los temas",
+        "url": "https://www.portafolio.co/economia/gobierno/joaquin-gutierrez-presidente-de-ecopetrol-se-reunio-con-la-embajada-de-ee-uu-en-colombia-de-que-hablaron-505028",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Joaquín Gutiérrez, presidente de Ecopetrol, se reunió con la Embajada de EE. UU. en Colombia: de qué hablaron",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
+      {
+        "titulo": "MinHacienda traslada $8,8 billones en pagos de deuda de 2027 mediante operación de canje de TES",
+        "url": "https://www.portafolio.co/economia/gobierno/hacienda-mueve-8-8-billones-de-vencimientos-de-deuda-de-2027-con-nuevo-canje-de-tes-en-colombia-505025",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Hacienda mueve $8,8 billones de vencimientos de deuda de 2027 con nuevo canje de TES en Colombia",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
+      {
+        "titulo": "Congreso Colombiano de Construcción 2026",
+        "url": "https://www.portafolio.co/economia/infraestructura/congreso-colombiano-de-construccion-505024",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Congreso Colombiano de Construcción 2026",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
       {
         "titulo": "Camacol condecora de manera póstuma a Germán Vargas Lleras en Cartagena con su máxima condecoración",
         "url": "https://www.portafolio.co/economia/infraestructura/camacol-rinde-homenaje-postumo-a-german-vargas-lleras-y-le-entrega-su-maxima-distincion-en-cartagena-505023",
@@ -553,59 +603,29 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Una inflación de 6,87% elevaría las tasas del Banco de la República a 12,50% al cierre de 2026, advierte estudio",
         "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "El menor ritmo de la economía nacional en agosto causó contracción y prendió alarmas",
-        "url": "https://www.portafolio.co/economia/gobierno/la-economia-colombiana-se-contrajo-en-agosto-y-encendio-alertas-por-su-menor-dinamismo-504858",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "La economía colombiana se contrajo en agosto y encendió alertas por su menor dinamismo",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Por fallo de trámite, el Ejecutivo expedirá por decreto el Presupuesto 2027 validado inicialmente en el Congreso",
-        "url": "https://www.portafolio.co/economia/el-dia-de-hoy-procedera-a-decretar-dicho-presupuesto-general-de-la-nacion-gobierno-nacional-504852",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Ante vicio de trámite, Gobierno decretará el Presupuesto para 2027 con lo aprobado en primer debate en el Congreso",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Las compras externas del país crecieron 31,7% en agosto y llegaron a US$7.702 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/importaciones-de-colombia-se-dispararon-31-7-en-agosto-y-alcanzaron-los-us-7-702-millones-504851",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Importaciones de Colombia se dispararon 31,7 % en agosto y alcanzaron los US$7.702 millones",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Perú Mucho Gusto comercializó 471.561 platos y movilizó US$3,8 millones en 2025 y regresará a Lima gratis",
-        "url": "https://www.portafolio.co/economia/peru-mucho-gusto-vendio-471-561-platos-y-movio-us-3-8-millones-en-2025-la-feria-vuelve-a-lima-con-entrada-libre-504849",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Perú Mucho Gusto vendió 471.561 platos y movió US$ 3,8 millones en 2025; la feria vuelve a Lima con entrada libre",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Aval Fiduciaria lanza herramienta de IA en WhatsApp para consultar el estado de inversiones y ahorros",
-        "url": "https://www.portafolio.co/economia/finanzas/aval-fiduciaria-lleva-la-inteligencia-artificial-a-whatsapp-para-facilitar-el-paso-del-ahorro-a-la-inversion-504848",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Desde WhatsApp podrá ver cómo van sus inversiones y ahorros con nueva herramienta de Aval Fiduciaria, basada en IA",
-        "capturado": "2026-10-21T15:18:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Analdex señala que Brasil lograría adquirir anualmente US$1.600 millones adicionales en bienes nacionales",
+        "url": "https://www.portafolio.co/negocios/comercio/brasil-podria-comprar-us-1-600-millones-mas-al-ano-en-productos-colombianos-segun-analdex-505032",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Brasil podría comprar US$1.600 millones más al año en productos colombianos, según Analdex",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
+      {
+        "titulo": "La SIP reconoce a la Fundación Gabo por su contribución al desarrollo periodístico iberoamericano",
+        "url": "https://www.portafolio.co/negocios/industrias/la-sip-reconoce-a-la-fundacion-gabo-por-su-aporte-al-fortalecimiento-del-periodismo-en-iberoamerica-505026",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "La SIP exalta a la Fundación Gabo por su aporte al fortalecimiento del periodismo en Iberoamérica",
+        "capturado": "2026-10-23T20:22:26-05:00"
+      },
       {
         "titulo": "BYD lanza en Colombia la Ti7: híbrida enchufable con 349 caballos y autonomía superior a 1.000 km",
         "url": "https://www.portafolio.co/negocios/vehiculo/byd-trae-a-colombia-la-ti7-la-nueva-hibrida-enchufable-con-349-caballos-de-fuerza-y-mas-de-1-000-km-de-autonomia-505014",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Presto buscará comprador en plena liquidación: Supersociedades aprobó que sus restaurantes sigan funcionando",
         "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "María Eugenia Tous liderará Petromil, firma que logró ingresos cercanos a 3,5 billones de pesos en 2025",
-        "url": "https://www.portafolio.co/negocios/empresas/maria-eugenia-tous-con-mas-de-20-anos-de-experiencia-asume-la-presidencia-de-petromil-504774",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "María Eugenia Tous asume presidencia de Petromil, empresa que en 2025 obtuvo ingresos cercanos a los $3,5 billones",
-        "capturado": "2026-10-20T13:36:34-05:00"
-      },
-      {
-        "titulo": "Postobón entrega sistemas de agua potable que favorecen a cinco acueductos en Yumbo",
-        "url": "https://www.portafolio.co/negocios/empresas/postobon-dona-soluciones-de-agua-potable-beneficia-a-cinco-acueductos-de-yumbo-504770",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Postobón dona soluciones de agua potable: beneficia a cinco acueductos de Yumbo",
-        "capturado": "2026-10-20T09:25:40-05:00"
       }
     ]
   }
