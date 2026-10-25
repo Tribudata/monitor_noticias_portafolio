@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-24T17:38:35-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-24T19:50:56-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Un 67 por ciento de los empleados con sueldos altos afronta riesgos de automatización por inteligencia artificial",
+        "url": "https://www.portafolio.co/economia/el-67-de-los-trabajadores-con-mayores-ingresos-esta-expuesto-a-la-automatizacion-por-inteligencia-artificial-505069",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "El 67% de los trabajadores con mayores ingresos está expuesto a la automatización por inteligencia artificial",
+        "capturado": "2026-10-24T19:50:56-05:00"
+      },
       {
         "titulo": "Pacientes Colombia avisa que faltaron tres billones de pesos presupuestados para la salud",
         "url": "https://www.portafolio.co/economia/gobierno/pacientes-colombia-advierte-que-3-billones-no-quedaron-en-el-presupuesto-para-salud-505066",
@@ -592,16 +602,6 @@
         "subseccion": "Finanzas",
         "publicacion": "2026-10-22",
         "titulo_fuente": "Euro hoy en Colombia: así inició su cotización este 22 de octubre y cuánto subió frente al peso",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Líder de Camacol Antioquia expone datos de la construcción y obras para el territorio",
-        "url": "https://www.portafolio.co/economia/infraestructura/gerente-de-camacol-antioquia-revela-cifras-del-sector-y-proyectos-para-el-departamento-504919",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Gerente de Camacol Antioquia revela cifras del sector y proyectos para el departamento",
         "capturado": "2026-10-22T13:42:43-05:00"
       }
     ],
