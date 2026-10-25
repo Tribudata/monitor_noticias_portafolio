@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-25T13:09:20-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-25T16:04:53-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "A la inclusión financiera colombiana le falta bastante progreso todavía",
+        "url": "https://www.portafolio.co/economia/finanzas/en-materia-de-inclusion-financiera-aun-falta-mucho-avance-en-colombia-505022",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "En materia de inclusión financiera aún falta mucho avance en Colombia",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "Argos Latam apoya la vigencia de Conexión Centro tras respaldo de la ministra Elsa Noguera",
+        "url": "https://www.portafolio.co/economia/infraestructura/conexion-centro-aun-tiene-vida-argos-latam-respalda-la-continuidad-tras-el-guino-de-la-ministra-elsa-noguera-505019",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Conexión Centro aún tiene vida: Argos Latam respalda la continuidad tras el guiño de la ministra Elsa Noguera",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "Primicia: Amarilo replicará en Pereira su megaproyecto Quora de $2,4 billones de Bogotá tras el temblor",
+        "url": "https://www.portafolio.co/economia/primicia-amarilo-llevara-a-pereira-el-modelo-de-quora-su-megaproyecto-de-2-4-billones-en-bogota-tras-el-sismo-505006",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Primicia: Amarilo llevará a Pereira el modelo de Quora, su megaproyecto de $2,4 billones en Bogotá, tras el sismo",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "El saldo insoluto medio de los morosos en Colombia alcanza los $35,6 millones",
+        "url": "https://www.portafolio.co/economia/finanzas/deuda-promedio-de-los-colombianos-en-mora-llega-a-35-6-millones-505090",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Deuda promedio de los colombianos en mora llega a $35,6 millones",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "La FAO indica que el 80% de la comida para 2050 provendrá de sembrados actuales",
+        "url": "https://www.portafolio.co/economia/el-80-de-los-alimentos-de-2050-debera-salir-de-cultivos-existentes-segun-la-fao-505088",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "El 80% de los alimentos de 2050 deberá salir de cultivos existentes, según la FAO",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "De La Espriella señala supuestas anomalías en contratación del Sena cordobés por $1.698 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-denuncia-presuntas-irregularidades-en-contratos-del-sena-en-cordoba-por-1-698-millones-505085",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "De La Espriella denuncia presuntas irregularidades en contratos del Sena en Córdoba por $1.698 millones",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
       {
         "titulo": "Inversionistas colombianos hallan nuevos montos para pedir residencia por inversión en Panamá",
         "url": "https://www.portafolio.co/economia/finanzas/inversionistas-colombianos-estos-son-los-nuevos-montos-para-solicitar-residencia-por-inversion-en-panama-505080",
@@ -543,69 +603,29 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Portafolio y EL TIEMPO ganan dos premios Camacol 2026 por su cobertura del terremoto en Colombia",
         "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Camacol propone destinar recursos del ahorro pensional para adquirir vivienda en territorio nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/camacol-plantea-usar-el-ahorro-de-pensiones-para-financiar-la-compra-de-vivienda-en-colombia-504941",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Camacol plantea usar el ahorro de pensiones para financiar la compra de vivienda en Colombia",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Leonardo Villar del Banco de la República justificó la no reducción de tasas de interés y su efecto en vivienda",
-        "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-leonardo-villar-explico-por-que-no-bajan-las-tasas-de-interes-pese-al-impacto-en-vivienda-504937",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Banco de la República: Leonardo Villar explicó por qué no bajan las tasas de interés pese al impacto en vivienda",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "El director del DNP, Julián Buitrago, informó que la Ley de Rescate fiscal será presentada la próxima semana",
-        "url": "https://www.portafolio.co/economia/gobierno/julian-buitrago-director-del-dnp-anuncia-que-el-gobierno-presentara-la-ley-de-rescate-fiscal-la-proxima-semana-504936",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Julián Buitrago, director del DNP, anuncia que el Gobierno presentará la Ley de Rescate fiscal la próxima semana",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Alerta: EE. UU. canceló la visa de Ricardo Roa, exlíder de Ecopetrol, y de seis colombianos más",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-estados-unidos-le-quito-la-visa-a-ricardo-roa-expresidente-de-ecopetrol-y-otros-seis-colombianos-504935",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Atención: Estados Unidos le quitó la visa a Ricardo Roa, expresidente de Ecopetrol, y otros seis colombianos",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Inflación y remuneraciones: cuál es su impacto en los tipos de interés",
-        "url": "https://www.portafolio.co/economia/crecimiento/costo-de-vida-y-salarios-que-efecto-tiene-esto-sobre-las-tasas-de-interes-504929",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Costo de vida y salarios: ¿qué efecto tiene esto sobre las tasas de interés?",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Diaco estudia los desafíos del sector constructor",
-        "url": "https://www.portafolio.co/economia/infraestructura/diaco-analiza-los-retos-para-la-construccion-504928",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Diaco analiza los retos para la construcción",
-        "capturado": "2026-10-22T13:42:43-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ramo alcanza la utilidad más alta de su trayectoria con esta estrategia",
+        "url": "https://www.portafolio.co/negocios/empresas/ramo-logra-la-mejor-rentabilidad-en-su-historia-como-lo-consiguio-505038",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Ramo logra la mejor rentabilidad en su historia ¿Cómo lo consiguió?",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
+      {
+        "titulo": "Los gustos agrios toman fuerza en las golosinas más adquiridas en el país",
+        "url": "https://www.portafolio.co/negocios/los-sabores-acidos-ganan-protagonismo-entre-los-dulces-mas-comprados-por-los-colombianos-505087",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Los sabores ácidos ganan protagonismo entre los dulces más comprados por los colombianos",
+        "capturado": "2026-10-25T16:04:53-05:00"
+      },
       {
         "titulo": "Divemotor impulsa su crecimiento en el país: posee más de US$20 millones en partes y abrirá nuevas oficinas",
         "url": "https://www.portafolio.co/negocios/empresas/divemotor-acelera-su-expansion-en-colombia-tiene-mas-de-us-20-millones-en-repuestos-y-abrira-nuevas-sedes-505079",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Renault en Colombia: de los primeros Renault 4 al nuevo modelo electrificado que se alista en Envigado",
         "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Arturo Calle, David Vélez de Nu y Juan Carlos Mora de Bancolombia encabezan lista de líderes según Merco",
-        "url": "https://www.portafolio.co/negocios/empresas/juan-carlos-mora-de-bancolombia-david-velez-de-nu-y-arturo-calle-lideran-podio-de-mejores-lideres-segun-merco-504843",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Juan Carlos Mora, de Bancolombia; David Vélez, de Nu, y Arturo Calle lideran podio de mejores líderes, según Merco",
-        "capturado": "2026-10-21T11:02:46-05:00"
-      },
-      {
-        "titulo": "Nissan cambia su cúpula antes del Salón del Automóvil y alista dos vehículos nuevos y sus posibles modelos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/nissan-mueve-su-directiva-a-pocas-semanas-del-salon-del-automovil-y-anticipa-dos-nuevos-modelos-los-candidatos-504813",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Nissan mueve su directiva a pocas semanas del Salón del Automóvil y anticipa dos nuevos modelos: los candidatos",
-        "capturado": "2026-10-21T11:02:46-05:00"
       }
     ]
   }
