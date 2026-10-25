@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-25T09:50:05-05:00",
+  "actualizado": "2026-10-25T13:09:20-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Inversionistas colombianos hallan nuevos montos para pedir residencia por inversión en Panamá",
+        "url": "https://www.portafolio.co/economia/finanzas/inversionistas-colombianos-estos-son-los-nuevos-montos-para-solicitar-residencia-por-inversion-en-panama-505080",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Inversionistas colombianos: estos son los nuevos montos para solicitar residencia por inversión en Panamá",
+        "capturado": "2026-10-25T13:09:20-05:00"
+      },
+      {
+        "titulo": "Ricardo Arias Macías, socio de la campaña de De la Espriella, asume la Consejería de Derechos Humanos",
+        "url": "https://www.portafolio.co/economia/gobierno/este-es-ricardo-arias-macias-aliado-de-la-campana-de-de-la-espriella-que-llega-a-la-consejeria-de-derechos-humanos-505074",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Este es Ricardo Arias Macías, aliado de la campaña de De la Espriella que llega a la Consejería de Derechos Humanos",
+        "capturado": "2026-10-25T13:09:20-05:00"
+      },
       {
         "titulo": "Alerta roja en Santa Marta por precipitaciones: Ideam anuncia más lluvias en otras zonas del país",
         "url": "https://www.portafolio.co/economia/gobierno/alerta-roja-en-santa-marta-por-lluvias-ideam-preve-mas-aguaceros-en-otras-regiones-del-pais-505072",
@@ -583,29 +603,19 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Diaco analiza los retos para la construcción",
         "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Fomag tiene déficit de 1,84 billones en salud y ministra de Educación exige revisión del sistema",
-        "url": "https://www.portafolio.co/economia/gobierno/fomag-enfrenta-un-faltante-de-1-84-billones-para-salud-ministra-de-educacion-pide-auditoria-para-el-modelo-504925",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Fomag enfrenta un faltante de $1,84 billones para salud: ministra de Educación pide auditoría para el modelo",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Carlos Fernando Galán: la estrategia de Bogotá para infraestructura y vivienda",
-        "url": "https://www.portafolio.co/economia/infraestructura/carlos-fernando-galan-como-le-apuesta-bogota-a-la-vivienda-y-la-infraestructura-504926",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Carlos Fernando Galán: Cómo le apuesta Bogotá a la vivienda y la infraestructura",
-        "capturado": "2026-10-22T13:42:43-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Divemotor impulsa su crecimiento en el país: posee más de US$20 millones en partes y abrirá nuevas oficinas",
+        "url": "https://www.portafolio.co/negocios/empresas/divemotor-acelera-su-expansion-en-colombia-tiene-mas-de-us-20-millones-en-repuestos-y-abrira-nuevas-sedes-505079",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Divemotor acelera su expansión en Colombia: tiene más de US$20 millones en repuestos y abrirá nuevas sedes",
+        "capturado": "2026-10-25T13:09:20-05:00"
+      },
       {
         "titulo": "Crepes & Waffles, Aval y Frisby figuran entre las directivas corporativas con mayor prestigio nacional",
         "url": "https://www.portafolio.co/negocios/empresas/las-lideres-empresariales-con-mejor-reputacion-en-colombia-crepes-waffles-aval-y-frisby-entre-las-que-puntean-505070",
@@ -1194,16 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-10-21",
         "titulo_fuente": "Nissan mueve su directiva a pocas semanas del Salón del Automóvil y anticipa dos nuevos modelos: los candidatos",
-        "capturado": "2026-10-21T11:02:46-05:00"
-      },
-      {
-        "titulo": "Las cajas de compensación enfrentan un difícil panorama en el mercado de trabajo",
-        "url": "https://www.portafolio.co/negocios/empresas/cajas-de-compensacion-ante-una-compleja-coyuntura-laboral-504840",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Cajas de compensación, ante una compleja coyuntura laboral",
         "capturado": "2026-10-21T11:02:46-05:00"
       }
     ]
