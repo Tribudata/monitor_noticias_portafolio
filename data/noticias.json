@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-26T15:06:05-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-26T18:58:56-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno emitirá US$5.200 millones en bonos externos y estas serán sus tasas",
+        "url": "https://www.portafolio.co/economia/finanzas/el-valor-que-emitira-el-gobierno-en-bonos-de-deuda-externa-es-de-us-5-200-millones-estas-son-las-tasas-que-pagara-505172",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "El valor que emitirá el Gobierno en bonos de deuda externa es de US$5.200 millones: estas son las tasas que pagará",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Emisión estatal de De La Espriella supera $10,7 billones antes de bonos en dólares",
+        "url": "https://www.portafolio.co/economia/finanzas/emision-de-deuda-del-gobierno-de-la-espriella-mas-de-10-7-billones-previos-a-los-bonos-en-dolares-que-se-alistan-505170",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Emisión de deuda del Gobierno De La Espriella: más de $10,7 billones previos a los bonos en dólares que se alistan",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Avianca llega a Emiratos Árabes: volará un año la ruta Barcelona-Abu Dabi para Etihad",
+        "url": "https://www.portafolio.co/economia/avianca-aterriza-por-primera-vez-en-emiratos-arabes-unidos-operara-un-ano-la-ruta-barcelona-abu-dabi-para-etihad-505160",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Avianca aterriza por primera vez en Emiratos Árabes Unidos: operará un año la ruta Barcelona–Abu Dabi para Etihad",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio podría subir en navidad y vacaciones por diversos factores",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-podria-subir-a-fin-de-ano-en-plena-temporada-de-navidad-y-vacaciones-que-factores-influirian-en-su-precio-505164",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Dólar podría subir a fin de año en plena temporada de navidad y vacaciones: qué factores influirían en su precio",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Dane revela las ciudades con mayor alza en el costo de vida durante septiembre de 2026",
+        "url": "https://www.portafolio.co/economia/regiones/estas-son-las-ciudades-donde-mas-ha-subido-el-costo-de-vida-en-colombia-en-septiembre-de-2026-segun-el-dane-505165",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Estas son las ciudades donde más ha subido el costo de vida en Colombia en septiembre de 2026, según el Dane",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Borrador de decreto plantea dos modelos para que el Estado asuma riesgo pensional",
+        "url": "https://www.portafolio.co/economia/proyecto-de-decreto-propone-2-esquemas-para-que-el-estado-cubra-riesgo-de-las-pensiones-ligadas-al-salario-minimo-505162",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Proyecto de decreto propone 2 esquemas para que el Estado cubra riesgo de las pensiones ligadas al salario mínimo",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Medellín destina cerca de $700.000 millones a subsidios de servicios públicos para estratos 1, 2 y 3",
+        "url": "https://www.portafolio.co/economia/regiones/medellin-moviliza-casi-700-000-millones-en-subsidios-de-servicios-publicos-para-estratos-1-2-y-505159",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Medellín moviliza casi $700.000 millones en subsidios de servicios públicos para estratos 1, 2 y 3",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
       {
         "titulo": "Próxima reforma tributaria en Colombia buscaría sumar contribuyentes y reducir la informalidad",
         "url": "https://www.portafolio.co/economia/colombia-buscaria-ampliar-la-base-de-contribuyentes-y-combatir-la-informalidad-con-la-futura-ley-de-ajuste-fiscal-505152",
@@ -533,79 +603,69 @@
         "publicacion": "2026-10-23",
         "titulo_fuente": "Desplome de la inversión privada: los grandes grupos financieros piden que recupere el liderazgo de la economía",
         "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Plan Nacional de Desarrollo de Petro logró el menor nivel de los últimos tres gobiernos con 72,5%",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-nacional-de-desarrollo-de-petro-fue-el-mas-bajo-de-los-ultimos-tres-gobiernos-alcanzo-cumplimiento-de-72-504995",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Plan Nacional de Desarrollo de Petro fue el más bajo de los últimos tres gobiernos: alcanzó cumplimiento de 72,5%",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Urbanizaciones registran más de $1.836 millones colocados en los CDAT de la entidad Fincomercio",
-        "url": "https://www.portafolio.co/economia/finanzas/conjuntos-residenciales-tienen-mas-de-1-836-millones-invertidos-en-los-cdat-de-fincomercio-504994",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Conjuntos residenciales tienen más de $1.836 millones invertidos en los CDAT de Fincomercio",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia este 23 de octubre: bajó de nuevo tras subir dos días seguidos",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-en-colombia-hoy-23-de-octubre-la-moneda-volvio-a-caer-despues-de-dos-jornadas-de-repunte-504989",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Euro en Colombia hoy 23 de octubre: la moneda volvió a caer después de dos jornadas de repunte",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Cancillería recorta consulados: salen funcionarios en Italia y Chipre, uno investigado",
-        "url": "https://www.portafolio.co/economia/gobierno/cancilleria-avanza-en-la-reduccion-de-consulados-salen-consules-en-italia-y-chipre-uno-con-proceso-disciplinario-504988",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Cancillería avanza en la reducción de consulados: salen cónsules en Italia y Chipre, uno con proceso disciplinario",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "ANT adopta austeridad de De La Espriella: prescinde de 1.040 contratistas y ahorra $22.224 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/la-ant-se-suma-a-la-austeridad-de-de-la-espriella-ha-salido-de-1-040-contratistas-y-ahorra-22-224-millones-504984",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "La ANT se suma a la austeridad de De La Espriella: ha salido de 1.040 contratistas y ahorra $22.224 millones",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Michel Janna, exdirector de Crédito Público, asumirá como delegado de Colombia en el FMI",
-        "url": "https://www.portafolio.co/economia/crecimiento/exdirector-de-credito-publico-michel-janna-sera-el-nuevo-representante-de-colombia-ante-el-fmi-en-washington-504985",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Exdirector de Crédito Público Michel Janna será el nuevo representante de Colombia ante el FMI en Washington",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Viviane Morales, exministra de Educación, vuelve a la administración De La Espriella como comisionada de Paz",
-        "url": "https://www.portafolio.co/economia/gobierno/viviane-morales-exministra-de-educacion-regresa-al-gobierno-de-la-espriella-como-consejera-comisionada-de-paz-504980",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Viviane Morales, exministra de Educación, regresa al Gobierno De La Espriella como Consejera Comisionada de Paz",
-        "capturado": "2026-10-23T10:49:30-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El Ejecutivo informa modificaciones para acelerar el reembolso del IVA en vehículos híbridos y eléctricos",
+        "url": "https://www.portafolio.co/negocios/vehiculo/gobierno-anuncia-cambios-para-agilizar-la-devolucion-del-iva-de-carros-electricos-e-hibridos-asi-seran-las-citas-505171",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Gobierno anuncia cambios para agilizar la devolución del IVA de carros eléctricos e híbridos: así serán las citas",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Altoque enfoca su estrategia en aportes de comida, reducción de plástico y respaldo a creadores",
+        "url": "https://www.portafolio.co/negocios/comercio/donacion-de-alimentos-menos-plastico-y-apoyo-a-emprendedores-esta-es-la-apuesta-de-altoque-505168",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Donación de alimentos, menos plástico y apoyo a emprendedores: esta es la apuesta de Altoque",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Firma Rifle expone su plan para rivalizar con Temu y Shein y elevar sus ventas 13% para 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/la-marca-rifle-revela-como-busca-competir-con-las-plataformas-chinas-y-crecer-13-en-505166",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Marca Rifle revela cómo busca competir con plataformas chinas como Temu y Shein y crecer 13% en 2026",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Compañías buscan ampliar su plantilla pero hallan postulantes con pretensiones salariales elevadas",
+        "url": "https://www.portafolio.co/negocios/comercio/empresas-quieren-contratar-mas-personal-pero-chocan-con-candidatos-que-tienen-altas-aspiraciones-salariales-505161",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Empresas quieren contratar más personal, pero chocan con candidatos que tienen altas aspiraciones salariales",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Constructora Bolívar comercializó 6.000 hogares al cierre del semestre y mantiene su meta de 3 billones",
+        "url": "https://www.portafolio.co/negocios/empresas/constructora-bolivar-vendio-6-000-viviendas-en-el-primer-semestre-y-sostiene-su-meta-de-3-billones-para-este-ano-505125",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Constructora Bolívar vendió 6.000 viviendas en el primer semestre y sostiene su meta de $3 billones para este año",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
+      {
+        "titulo": "Panasonic elige a Colombia para relanzar su división de refrigeradores en el territorio latinoamericano",
+        "url": "https://www.portafolio.co/negocios/comercio/panasonic-apuesta-por-colombia-para-relanzar-su-negocio-de-refrigeracion-en-america-latina-505153",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Panasonic apuesta por Colombia para relanzar su negocio de refrigeración en América Latina",
+        "capturado": "2026-10-26T18:58:56-05:00"
+      },
       {
         "titulo": "Meta de Oxxo en Colombia: 2.000 sucursales y apertura de 1.360 nuevos establecimientos con su plan",
         "url": "https://www.portafolio.co/negocios/empresas/oxxo-va-por-2-000-tiendas-en-colombia-el-plan-de-expansion-que-sumaria-1-360-nuevos-locales-505154",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Entrevista con Carlos Vásquez, director general de Compensar desde el Congreso Asocajas",
         "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Conversación con César Augusto Guevara, al frente de Cajasan, en el Congreso Asocajas",
-        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-cesar-augusto-guevara-director-general-de-cajasan-desde-el-congreso-asocajas-504947",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Entrevista con César Augusto Guevara, director general de Cajasan desde el Congreso Asocajas",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "El tráfico ilegal de aceite usado pone en peligro a los locales de comida colombianos",
-        "url": "https://www.portafolio.co/negocios/empresas/el-mercado-negro-del-aceite-usado-una-amenaza-oculta-para-restaurantes-y-cafeterias-en-colombia-504934",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "El mercado negro del aceite usado, una amenaza oculta para restaurantes y cafeterías en Colombia",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Las altas sumas que fundaciones y empresas destinan a iniciativas sociales en el país",
-        "url": "https://www.portafolio.co/negocios/inversion/estas-son-las-millonarias-sumas-que-movilizan-empresas-y-fundaciones-para-impulsar-proyectos-sociales-en-colombia-504924",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Estas son las millonarias sumas que movilizan empresas y fundaciones para impulsar proyectos sociales en Colombia",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Conversación con Jacobo Tovar, gerente general de Comfandi, desde Asocajas",
-        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-jacobo-tovar-director-general-de-comfandi-desde-el-congreso-asocajas-504917",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Entrevista con Jacobo Tovar, director general de Comfandi desde el Congreso Asocajas",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Anuncios en ChatGPT para Colombia: usuarios alcanzados y manejo de la información",
-        "url": "https://www.portafolio.co/negocios/empresas/openai-activa-anuncios-en-chatgpt-en-colombia-quienes-los-veran-y-que-pasara-con-sus-datos-504916",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "OpenAI activa anuncios en ChatGPT en Colombia: quiénes los verán y qué pasará con sus datos",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Nuevo mando en TBWA Colombia: Santiago Cortés como CEO y Juan José Posada de creativo",
-        "url": "https://www.portafolio.co/negocios/empresas/tbwa-colombia-renueva-su-liderazgo-santiago-cortes-sera-ceo-y-juan-jose-posada-director-creativo-504912",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "TBWA Colombia renueva su liderazgo: Santiago Cortés será CEO y Juan José Posada, director creativo",
-        "capturado": "2026-10-22T13:42:43-05:00"
       }
     ]
   }
