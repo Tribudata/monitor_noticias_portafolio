@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-26T02:26:38-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-26T09:29:10-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del euro en Colombia este 26 de octubre: valor de la divisa frente a la moneda nacional",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-26-de-octubre-en-colombia-asi-se-cotiza-la-moneda-europea-frente-al-peso-505124",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Euro hoy 26 de octubre en Colombia: así se cotiza la moneda europea frente al peso",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Invías recibe vías con huecos y fisuras: administración alerta sobre el estado de 256 km",
+        "url": "https://www.portafolio.co/economia/infraestructura/vias-revertidas-al-invias-con-baches-y-grietas-el-gobierno-advierte-por-el-mantenimiento-de-256-kilometros-505121",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Vías revertidas al Invías, con baches y grietas: el Gobierno advierte por el mantenimiento de 256 kilómetros",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Cultivar una hectárea de papa vale $35 millones y el Ejecutivo intenta bajar los gastos",
+        "url": "https://www.portafolio.co/economia/agro/costo-de-producir-una-hectarea-de-papa-llega-a-35-millones-gobierno-busca-reducir-la-carga-505119",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Costo de producir una hectárea de papa llega a $35 millones: Gobierno busca reducir la carga",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Presidente De La Espriella prometió elevar la cifra monetaria de los subsidios de Colombia Mayor",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-aseguro-que-trabajaria-en-aumentar-el-monto-de-los-pagos-del-programa-colombia-mayor-505115",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Presidente De La Espriella aseguró que trabajaría en aumentar el monto de los pagos del programa Colombia Mayor",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia: la moneda arranca la semana cerca a los $3.150",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-la-semana-cerca-de-los-3-505113",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Precio del dólar en Colombia: divisa inicia la semana cerca de los $3.150",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Presidente Abelardo De La Espriella comentó sobre la victoria de Lula da Silva: Brasil y Colombia se requieren",
+        "url": "https://www.portafolio.co/economia/gobierno/brasil-y-colombia-se-necesitan-presidente-abelardo-de-la-espriella-reacciono-al-triunfo-de-lula-da-silva-505112",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "'Brasil y Colombia se necesitan': presidente Abelardo De La Espriella reaccionó al triunfo de Lula da Silva",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
       {
         "titulo": "Temas como el plan de rescate fiscal, Presto y presupuesto tratados por De La Espriella en su alocución",
         "url": "https://www.portafolio.co/economia/gobierno/presupuesto-plan-de-rescate-fiscal-presto-y-otros-temas-de-los-que-hablo-de-la-espriella-en-su-alocucion-505109",
@@ -543,69 +603,59 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Vicepresidente Restrepo visita Puerto Antioquia y pone a Urabá en el radar de inversión nacional",
         "capturado": "2026-10-23T00:45:02-05:00"
-      },
-      {
-        "titulo": "Gobierno decreta el Presupuesto de 2027 por 634,9 billones tras desacuerdos entre Senado y Cámara",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-expide-por-decreto-el-presupuesto-de-2027-por-634-9-billones-tras-diferencias-entre-senado-y-camara-504960",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Gobierno expide por decreto el Presupuesto de 2027 por $634,9 billones tras diferencias entre Senado y Cámara",
-        "capturado": "2026-10-23T00:45:02-05:00"
-      },
-      {
-        "titulo": "El narcotráfico en Colombia deja ingresos anuales por cerca de US$16.500 millones a bandas criminales",
-        "url": "https://www.portafolio.co/economia/finanzas/grupos-criminales-reciben-cerca-de-us-16-500-millones-al-ano-por-el-narcotrafico-en-colombia-504958",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Grupos criminales reciben cerca de US$16.500 millones al año por el narcotráfico en Colombia",
-        "capturado": "2026-10-22T19:49:11-05:00"
-      },
-      {
-        "titulo": "Gasto de los hogares colombianos pierde dinamismo con un incremento real de 2,69% en septiembre de 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/el-consumo-de-los-hogares-en-colombia-se-desacelera-crecio-2-69-real-en-septiembre-de-504956",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "El consumo de los hogares en Colombia se desacelera: creció 2,69% real en septiembre de 2026",
-        "capturado": "2026-10-22T19:49:11-05:00"
-      },
-      {
-        "titulo": "Gobierno pretende que once cajas de compensación intervenidas salgan de esta condición antes de acabar periodo",
-        "url": "https://www.portafolio.co/economia/gobierno-busca-que-11-cajas-de-compensacion-familiar-intervenidas-superen-esta-medida-antes-de-terminar-su-mandato-504953",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Gobierno busca que 11 cajas de compensación familiar intervenidas superen esta medida antes de terminar su mandato",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal encarece vivienda y revalúa el peso: advertencia de Leonardo Villar en evento de Camacol",
-        "url": "https://www.portafolio.co/economia/el-deficit-fiscal-fortalece-el-peso-y-encarece-la-vivienda-el-doble-efecto-que-advirtio-leonardo-villar-en-camacol-504951",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "El déficit fiscal fortalece el peso y encarece la vivienda: el doble efecto que advirtió Leonardo Villar en Camacol",
-        "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Minsalud y Ana María Vesga señalan que deben rescatar tres billones de pesos para el próximo año",
-        "url": "https://www.portafolio.co/economia/tenemos-que-recuperar-esos-3-billones-para-el-ano-entrante-minsalud-ana-maria-vesga-sobre-el-presupuesto-504949",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "\"Tenemos que recuperar esos $3 billones para el año entrante\": Minsalud, Ana María Vesga sobre el Presupuesto",
-        "capturado": "2026-10-22T17:07:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Agua Bendita y Falabella presentan línea de ropa y hogar en tres naciones",
+        "url": "https://www.portafolio.co/negocios/empresas/agua-bendita-y-falabella-lanzan-coleccion-de-moda-y-decoracion-en-tres-paises-505123",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Agua Bendita y Falabella lanzan colección de moda y decoración en tres países",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Investigan a Coosalud por supuestos gastos en casino y prostíbulo bajo la intervención estatal",
+        "url": "https://www.portafolio.co/negocios/empresas/coosalud-bajo-la-lupa-reportan-presuntos-pagos-en-casino-y-prostibulo-durante-intervencion-del-gobierno-petro-505122",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Coosalud bajo la lupa: reportan presuntos pagos en casino y prostíbulo durante intervención del Gobierno Petro",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Tesla otorga crédito con tasa del 0% en Colombia para Model 3 y Model Y: pasos para aplicar",
+        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-ofrece-financiacion-al-0-de-interes-en-colombia-para-model-3-y-model-y-asi-puede-acceder-505120",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Tesla ofrece financiación al 0% de interés en Colombia para Model 3 y Model Y: así puede acceder",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Nacionales lideran las tácticas de ahorro en Latinoamérica al mercar",
+        "url": "https://www.portafolio.co/negocios/comercio/colombianos-los-reyes-en-las-estrategias-de-ahorro-en-america-latina-a-la-hora-de-hacer-mercado-505117",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombianos, los 'reyes' en las estrategias de ahorro en América Latina a la hora de hacer mercado",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
+      {
+        "titulo": "Cinco opcionados suenan para suceder a Bruce Mac Master al frente de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/estos-son-los-cinco-nombres-que-suenan-para-reemplazar-a-bruce-mac-master-en-la-presidencia-de-la-andi-505111",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Estos son los cinco nombres que suenan para reemplazar a Bruce Mac Master en la presidencia de la Andi",
+        "capturado": "2026-10-26T09:29:10-05:00"
+      },
       {
         "titulo": "Retos y perspectivas del campo como motor de expansión",
         "url": "https://www.portafolio.co/negocios/las-oportunidades-y-los-desafios-del-agro-para-ser-pilar-de-crecimiento-505102",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "¿Presto pasará a nuevas manos para evitará su liquidación?",
         "capturado": "2026-10-21T18:31:31-05:00"
-      },
-      {
-        "titulo": "GeoPark triplica área en Vaca Muerta al ganar un bloque en Argentina",
-        "url": "https://www.portafolio.co/negocios/empresas/geopark-triplica-su-superficie-en-vaca-muerta-tras-adjudicarse-un-nuevo-bloque-en-argentina-504878",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "GeoPark triplica su superficie en Vaca Muerta tras adjudicarse un nuevo bloque en Argentina",
-        "capturado": "2026-10-21T18:31:31-05:00"
-      },
-      {
-        "titulo": "Aerolíneas latinoamericanas advierten subida de costos y el combustible pesa el 38 por ciento",
-        "url": "https://www.portafolio.co/negocios/empresas/aerolineas-en-america-latina-alertan-por-alza-de-costos-el-combustible-ya-representa-el-38-de-sus-gastos-504871",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Aerolíneas en América Latina alertan por alza de costos: el combustible ya representa el 38% de sus gastos",
-        "capturado": "2026-10-21T18:31:31-05:00"
-      },
-      {
-        "titulo": "Directivos de medios americanos debaten en Bogotá la transformación de sus empresas por cambios sectoriales",
-        "url": "https://www.portafolio.co/negocios/empresas/lideres-de-medios-de-comunicacion-de-america-se-reunen-en-bogota-para-analizar-los-grandes-retos-de-la-industria-504870",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Líderes de medios de América analizan en Bogotá cómo transformar sus negocios ante los cambios de la industria",
-        "capturado": "2026-10-21T18:31:31-05:00"
-      },
-      {
-        "titulo": "Citi y JP Morgan participan en Milagro Week para unir iniciativas colombianas con capitalistas",
-        "url": "https://www.portafolio.co/negocios/inversion/jp-morgan-y-citi-se-suman-a-milagro-week-para-conectar-proyectos-de-colombia-con-inversionistas-504868",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "JP Morgan y Citi se suman a Milagro Week para conectar proyectos de Colombia con inversionistas",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Por qué el Gobierno quiere volver a Colombia hub automotor: capacidad perdida y repunte",
-        "url": "https://www.portafolio.co/negocios/vehiculo/por-que-el-gobierno-busca-convertir-a-colombia-en-hub-automotor-la-capacidad-perdida-pese-al-repunte-del-mercado-504864",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "¿Por qué el Gobierno busca convertir a Colombia en hub automotor? La capacidad perdida pese al repunte del mercado",
-        "capturado": "2026-10-21T15:18:03-05:00"
       }
     ]
   }
