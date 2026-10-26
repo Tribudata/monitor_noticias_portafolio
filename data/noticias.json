@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-26T09:29:10-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-26T15:06:05-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Próxima reforma tributaria en Colombia buscaría sumar contribuyentes y reducir la informalidad",
+        "url": "https://www.portafolio.co/economia/colombia-buscaria-ampliar-la-base-de-contribuyentes-y-combatir-la-informalidad-con-la-futura-ley-de-ajuste-fiscal-505152",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombia buscaría ampliar la base de contribuyentes y combatir la informalidad con la futura ley de ajuste fiscal",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "SIC establece exigencias a solicitantes tras actualizar el registro de marcas holográficas en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-actualiza-el-registro-de-marcas-holograficas-la-sic-fija-requisitos-para-solicitantes-505148",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombia actualiza el registro de marcas holográficas: la SIC fija requisitos para solicitantes",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Gobierno lanza créditos para EPS con el fin de destrabar pagos atrasados en salud y medicamentos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-abre-creditos-para-las-eps-asi-busca-destrabar-pagos-de-medicamentos-y-procedimientos-de-salud-pendientes-505142",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Gobierno abre créditos para las EPS: así busca destrabar pagos de medicamentos y procedimientos de salud pendientes",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Inversión en Colombia continúa rezagada frente a América Latina y se ubica 6,9% bajo el nivel de 2019",
+        "url": "https://www.portafolio.co/economia/colombia-sigue-rezagada-en-inversion-frente-a-america-latina-esta-6-9-por-debajo-de-los-niveles-de-505135",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombia sigue rezagada en inversión frente a América Latina: está 6,9% por debajo de los niveles de 2019",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Bogotá dispone de más de 7.000 vacantes esta semana: vea las fechas y los sitios de postulación",
+        "url": "https://www.portafolio.co/economia/bogota-ofrece-mas-de-7-000-oportunidades-de-empleo-esta-semana-conozca-las-fechas-y-donde-postularse-505132",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Bogotá ofrece más de 7.000 oportunidades de empleo esta semana: conozca las fechas y dónde postularse",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Colombia desecha 9,76 millones de toneladas de alimentos al año por fallas que afectan al campo y mercado",
+        "url": "https://www.portafolio.co/economia/agro/colombia-pierde-9-76-millones-de-toneladas-de-alimentos-al-ano-las-fallas-que-le-cuestan-al-campo-y-al-mercado-505126",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombia pierde 9,76 millones de toneladas de alimentos al año: las fallas que le cuestan al campo y al mercado",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Colombia alista emisión de papeles en dólares a 2056 para buscar recursos en plazas externas",
+        "url": "https://www.portafolio.co/economia/colombia-prepara-emision-de-bonos-en-dolares-con-vencimiento-en-2056-para-financiarse-en-mercados-internacionales-505127",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Colombia prepara emisión de bonos en dólares con vencimiento en 2056 para financiarse en mercados internacionales",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
       {
         "titulo": "Precio del euro en Colombia este 26 de octubre: valor de la divisa frente a la moneda nacional",
         "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-26-de-octubre-en-colombia-asi-se-cotiza-la-moneda-europea-frente-al-peso-505124",
@@ -533,79 +603,89 @@
         "publicacion": "2026-10-23",
         "titulo_fuente": "Viviane Morales, exministra de Educación, regresa al Gobierno De La Espriella como Consejera Comisionada de Paz",
         "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Gobierno destina $826.000 millones al Fondo Milagro para vivienda urbana y rural por el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-suma-826-000-millones-al-fondo-milagro-los-recursos-iran-a-vivienda-urbana-y-rural-tras-el-terremoto-504982",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Gobierno suma $826.000 millones al Fondo Milagro: los recursos irán a vivienda urbana y rural tras el terremoto",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Sectores afectados por el recorte de 13,8 billones de pesos del Gobierno al Presupuesto General de 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-sectores-donde-el-gobierno-recortara-13-8-billones-del-presupuesto-general-de-504978",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Estos son los sectores donde el Gobierno recortará $13,8 billones del Presupuesto General de 2026",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar hoy en Colombia al finalizar la semana",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-al-cierre-de-la-semana-504976",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Precio del dólar hoy en Colombia: así cotiza la divisa al cierre de la semana",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Metro de Bogotá llega al 83,7 por ciento de progreso total luego de que arribara el tren 22 a Cartagena",
-        "url": "https://www.portafolio.co/economia/regiones/el-metro-de-bogota-alcanza-83-7-de-avance-general-tras-la-llegada-del-tren-22-a-cartagena-504974",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "El Metro de Bogotá alcanza 83,7% de avance general tras la llegada del tren 22 a Cartagena",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella informa ajuste de 13,8 billones de pesos en el gasto fiscal y detalla su reparto",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-recorte-de-13-8-billones-en-el-gasto-publico-asi-se-distribuira-el-ajuste-fiscal-504973",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Abelardo De La Espriella anuncia recorte de $13,8 billones en el gasto público: así se distribuirá el ajuste fiscal",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Abogado De La Espriella reacciona a la compra de Presto por Grupo Nutresa que salva 700 empleos",
-        "url": "https://www.portafolio.co/economia/gobierno/se-salvan-700-empleos-de-la-espriella-reacciona-a-la-decision-de-grupo-nutresa-de-comprar-presto-504964",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "¡Se salvan 700 empleos!: De La Espriella reacciona a la decisión de Grupo Nutresa de comprar Presto",
-        "capturado": "2026-10-23T00:45:02-05:00"
-      },
-      {
-        "titulo": "Vicepresidente Restrepo visita Puerto Antioquia y ubica a Urabá en el radar de la inversión nacional",
-        "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-restrepo-visita-puerto-antioquia-y-pone-a-uraba-en-el-radar-de-inversion-nacional-504961",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Vicepresidente Restrepo visita Puerto Antioquia y pone a Urabá en el radar de inversión nacional",
-        "capturado": "2026-10-23T00:45:02-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Meta de Oxxo en Colombia: 2.000 sucursales y apertura de 1.360 nuevos establecimientos con su plan",
+        "url": "https://www.portafolio.co/negocios/empresas/oxxo-va-por-2-000-tiendas-en-colombia-el-plan-de-expansion-que-sumaria-1-360-nuevos-locales-505154",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Oxxo va por 2.000 tiendas en Colombia: el plan de expansión que sumaría 1.360 nuevos locales",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Triunfo de Lula: ajustes que requiere Colombia para exportar US$1.600 millones más a Brasil",
+        "url": "https://www.portafolio.co/negocios/comercio/victoria-de-lula-los-cambios-que-necesita-colombia-para-vender-us-1-600-millones-mas-al-mercado-brasileno-505146",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Victoria de Lula: los cambios que necesita Colombia para vender US$1.600 millones más al mercado brasileño",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Nuevo gerente para 16 países: estrategia de Servier para fortalecer su sector farmacéutico regional",
+        "url": "https://www.portafolio.co/negocios/empresas/un-nuevo-gerente-para-16-paises-asi-busca-servier-impulsar-su-negocio-farmaceutico-desde-colombia-y-la-region-505141",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Un nuevo gerente para 16 países: así busca Servier impulsar su negocio farmacéutico desde Colombia y la región",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Alimentos, tecnología y capital: focos de Colombia y Uruguay para incrementar su comercio mutuo",
+        "url": "https://www.portafolio.co/negocios/comercio/agroalimentos-tecnologia-e-inversion-las-apuestas-de-colombia-y-uruguay-para-ampliar-sus-negocios-bilaterales-505140",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Agroalimentos, tecnología e inversión: las apuestas de Colombia y Uruguay para ampliar sus negocios bilaterales",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "MNK International destinará US$15 millones para incursionar en el sector asegurador colombiano",
+        "url": "https://www.portafolio.co/negocios/empresas/mnk-international-invertira-us-15-millones-para-entrar-al-mercado-de-seguros-en-colombia-505138",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "MNK International invertirá US$15 millones para entrar al mercado de seguros en Colombia",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Coosalud apunta a restablecer la confianza mediante datos de desembolsos, citas y procedimientos",
+        "url": "https://www.portafolio.co/negocios/empresas/coosalud-busca-recuperar-la-confianza-estas-son-las-cifras-de-pagos-consultas-y-procedimientos-realizados-505137",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Coosalud busca recuperar la confianza: estas son las cifras de pagos, consultas y procedimientos realizados",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Coosalud contesta a acusaciones de gastos en establecimiento nocturno y lupanar en medio de toma oficial",
+        "url": "https://www.portafolio.co/negocios/empresas/coosalud-responde-a-denuncias-sobre-pagos-en-casino-y-prostibulo-durante-intervencion-del-gobierno-505136",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Coosalud responde a denuncias sobre pagos en casino y prostíbulo durante intervención del Gobierno",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
+      {
+        "titulo": "Vanti cambiaría de dueño: Brookfield analizaría enajenar su cuota accionarial",
+        "url": "https://www.portafolio.co/negocios/empresas/vanti-podria-cambiar-de-accionista-brookfield-exploraria-la-venta-de-su-participacion-505131",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Vanti podría cambiar de accionista: Brookfield exploraría la venta de su participación",
+        "capturado": "2026-10-26T15:06:05-05:00"
+      },
       {
         "titulo": "Agua Bendita y Falabella presentan línea de ropa y hogar en tres naciones",
         "url": "https://www.portafolio.co/negocios/empresas/agua-bendita-y-falabella-lanzan-coleccion-de-moda-y-decoracion-en-tres-paises-505123",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "TBWA Colombia renueva su liderazgo: Santiago Cortés será CEO y Juan José Posada, director creativo",
         "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "Dos décadas de la ley de insolvencia y su evolución para rescatar firmas nacionales",
-        "url": "https://www.portafolio.co/negocios/empresas/ley-de-insolvencia-cumple-20-anos-asi-han-cambiado-los-procesos-para-salvar-empresas-en-colombia-504911",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Ley de insolvencia cumple 20 años: así han cambiado los procesos para salvar empresas en Colombia",
-        "capturado": "2026-10-22T13:42:43-05:00"
-      },
-      {
-        "titulo": "CREG plantea procesos rápidos para integrar puntos de recarga de autos eléctricos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-creg-propone-tramites-expres-para-conectar-estaciones-de-carga-de-vehiculos-electricos-504905",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "La CREG propone trámites exprés para conectar estaciones de carga de vehículos eléctricos",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Instalación del trigésimo sexto Congreso Nacional de las Cajas de Compensación Familiar",
-        "url": "https://www.portafolio.co/negocios/empresas/apertura-del-36-congreso-nacional-de-las-cajas-de-compensacion-familiar-504903",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Apertura del 36° Congreso Nacional de las Cajas de Compensación Familiar",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Inversión de $1.533 millones de Rappi modificó sector inseguro bajo un puente en Bogotá",
-        "url": "https://www.portafolio.co/negocios/empresas/rappi-invierte-1-533-millones-para-recuperar-un-punto-critico-de-inseguridad-en-bogota-504901",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "La inversión de $1.533 millones con la que Rappi transformó zona crítica de inseguridad en Bogotá bajo un puente",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "EPM pacta ceder su parte en compañía eléctrica que provee a 361.000 usuarios costeños",
-        "url": "https://www.portafolio.co/negocios/empresas/epm-acuerda-vender-su-participacion-en-empresa-de-energia-que-atiende-a-361-000-clientes-del-caribe-504900",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "EPM acuerda vender su participación en empresa de energía que atiende a 361.000 clientes del Caribe",
-        "capturado": "2026-10-22T09:21:35-05:00"
-      },
-      {
-        "titulo": "Ecopetrol designa formalmente a Armando Cuello como vicepresidente de Energías para la Transición",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-nombra-oficialmente-a-armando-cuello-como-vicepresidente-de-energias-para-la-transicion-504887",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Ecopetrol nombra oficialmente a Armando Cuello como vicepresidente de Energías para la Transición",
-        "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Catalina Rengifo toma las riendas de Actho tras su salida de la Federación de Gestión Humana",
-        "url": "https://www.portafolio.co/negocios/empresas/catalina-rengifo-asume-la-direccion-de-actho-tras-la-salida-de-la-federacion-de-gestion-humana-504884",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Catalina Rengifo asume la dirección de Actho tras la salida de la Federación de Gestión Humana",
-        "capturado": "2026-10-21T22:26:08-05:00"
-      },
-      {
-        "titulo": "Venta de Presto busca salvarla de la liquidación",
-        "url": "https://www.portafolio.co/negocios/empresas/presto-pasara-a-nuevas-manos-y-evitara-la-liquidacion-504879",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "¿Presto pasará a nuevas manos para evitará su liquidación?",
-        "capturado": "2026-10-21T18:31:31-05:00"
       }
     ]
   }
