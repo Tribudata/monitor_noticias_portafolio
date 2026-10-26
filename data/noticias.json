@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-25T20:31:26-05:00",
+  "actualizado": "2026-10-26T02:26:38-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Temas como el plan de rescate fiscal, Presto y presupuesto tratados por De La Espriella en su alocución",
+        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-plan-de-rescate-fiscal-presto-y-otros-temas-de-los-que-hablo-de-la-espriella-en-su-alocucion-505109",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Presupuesto, plan de rescate fiscal, Presto y otros temas de los que habló De La Espriella en su alocución",
+        "capturado": "2026-10-26T02:26:38-05:00"
+      },
       {
         "titulo": "Transmisión en directo: intervención del mandatario colombiano Abelardo De La Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/en-vivo-alocucion-del-presidente-de-colombia-abelardo-de-la-espriella-505108",
@@ -593,19 +603,19 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "\"Tenemos que recuperar esos $3 billones para el año entrante\": Minsalud, Ana María Vesga sobre el Presupuesto",
         "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Dian reporta que cerca de doscientos mil morosos adeudan 22,9 billones y lanza medidas de alivio",
-        "url": "https://www.portafolio.co/economia/gobierno/casi-200-000-contribuyentes-le-deben-22-9-billones-a-la-dian-anuncian-alivios-para-ponerse-al-dia-504945",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Casi 200.000 contribuyentes le deben $22,9 billones a la Dian: anuncian alivios para ponerse al día",
-        "capturado": "2026-10-22T17:07:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Retos y perspectivas del campo como motor de expansión",
+        "url": "https://www.portafolio.co/negocios/las-oportunidades-y-los-desafios-del-agro-para-ser-pilar-de-crecimiento-505102",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Las oportunidades y los desafíos del agro para ser pilar de crecimiento",
+        "capturado": "2026-10-26T02:26:38-05:00"
+      },
       {
         "titulo": "El gasto per cápita en seguros en Colombia es de $1,12 millones mas la cobertura dista del promedio Ocde",
         "url": "https://www.portafolio.co/negocios/empresas/colombia-gasta-1-12-millones-por-persona-en-seguros-pero-la-proteccion-sigue-lejos-del-promedio-de-la-ocde-505103",
@@ -1194,16 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-10-21",
         "titulo_fuente": "¿Por qué el Gobierno busca convertir a Colombia en hub automotor? La capacidad perdida pese al repunte del mercado",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Netflix reporta ingresos al alza del 12% y margen operativo del 34,6% en medio de despidos",
-        "url": "https://www.portafolio.co/negocios/empresas/netflix-presenta-resultados-en-medio-de-despidos-ingresos-crecen-un-12-y-el-margen-operativo-se-dispara-al-34-504855",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Netflix presenta resultados en medio de despidos: ingresos crecen un 12% y el margen operativo se dispara al 34,6%",
         "capturado": "2026-10-21T15:18:03-05:00"
       }
     ]
