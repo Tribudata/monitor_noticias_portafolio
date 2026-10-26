@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-25T18:26:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-25T20:31:26-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Transmisión en directo: intervención del mandatario colombiano Abelardo De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/en-vivo-alocucion-del-presidente-de-colombia-abelardo-de-la-espriella-505108",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "En vivo: alocución del presidente de Colombia Abelardo De La Espriella",
+        "capturado": "2026-10-25T20:31:26-05:00"
+      },
       {
         "titulo": "A la inclusión financiera colombiana le falta bastante progreso todavía",
         "url": "https://www.portafolio.co/economia/finanzas/en-materia-de-inclusion-financiera-aun-falta-mucho-avance-en-colombia-505022",
@@ -593,19 +603,19 @@
         "publicacion": "2026-10-22",
         "titulo_fuente": "Casi 200.000 contribuyentes le deben $22,9 billones a la Dian: anuncian alivios para ponerse al día",
         "capturado": "2026-10-22T17:07:09-05:00"
-      },
-      {
-        "titulo": "Portafolio y EL TIEMPO obtienen dos galardones Camacol 2026 por cubrimiento del sismo en el país",
-        "url": "https://www.portafolio.co/economia/regiones/portafolio-y-el-tiempo-ganan-dos-premios-camacol-2026-por-su-cobertura-del-terremoto-en-colombia-504943",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-22",
-        "titulo_fuente": "Portafolio y EL TIEMPO ganan dos premios Camacol 2026 por su cobertura del terremoto en Colombia",
-        "capturado": "2026-10-22T17:07:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El gasto per cápita en seguros en Colombia es de $1,12 millones mas la cobertura dista del promedio Ocde",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-gasta-1-12-millones-por-persona-en-seguros-pero-la-proteccion-sigue-lejos-del-promedio-de-la-ocde-505103",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-25",
+        "titulo_fuente": "Colombia gasta $1,12 millones por persona en seguros, pero la protección sigue lejos del promedio de la Ocde",
+        "capturado": "2026-10-25T20:31:26-05:00"
+      },
       {
         "titulo": "Ramo alcanza la utilidad más alta de su trayectoria con esta estrategia",
         "url": "https://www.portafolio.co/negocios/empresas/ramo-logra-la-mejor-rentabilidad-en-su-historia-como-lo-consiguio-505038",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-21",
         "titulo_fuente": "Netflix presenta resultados en medio de despidos: ingresos crecen un 12% y el margen operativo se dispara al 34,6%",
-        "capturado": "2026-10-21T15:18:03-05:00"
-      },
-      {
-        "titulo": "Renault en Colombia: desde el clásico Renault 4 hasta el próximo vehículo eléctrico de Envigado",
-        "url": "https://www.portafolio.co/negocios/vehiculo/renault-en-colombia-de-los-primeros-renault-4-al-nuevo-modelo-electrificado-que-se-alista-en-envigado-504847",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Renault en Colombia: de los primeros Renault 4 al nuevo modelo electrificado que se alista en Envigado",
         "capturado": "2026-10-21T15:18:03-05:00"
       }
     ]
