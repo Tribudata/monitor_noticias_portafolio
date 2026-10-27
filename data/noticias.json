@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-26T18:58:56-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-26T23:48:35-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ofrecen 50 millones de pesos por información tras el homicidio de Miguel Castellanos, exsecretario de Cúcuta",
+        "url": "https://www.portafolio.co/economia/regiones/asesinan-a-miguel-castellanos-exsecretario-de-gobierno-de-cucuta-ofrecen-50-millones-de-recompensa-505174",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Asesinan a Miguel Castellanos, exsecretario de Gobierno de Cúcuta: ofrecen $50 millones de recompensa",
+        "capturado": "2026-10-26T23:48:35-05:00"
+      },
+      {
+        "titulo": "El título de Nu en el Mercado Global Colombiano se aproxima a alcanzar el billón de pesos en transacciones",
+        "url": "https://www.portafolio.co/economia/finanzas/accion-de-nu-en-el-mercado-global-colombiano-esta-por-llegar-al-primer-billon-de-pesos-negociado-505173",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-26",
+        "titulo_fuente": "Acción de Nu en el Mercado Global Colombiano está por llegar al primer billón de pesos negociado",
+        "capturado": "2026-10-26T23:48:35-05:00"
+      },
       {
         "titulo": "Gobierno emitirá US$5.200 millones en bonos externos y estas serán sus tasas",
         "url": "https://www.portafolio.co/economia/finanzas/el-valor-que-emitira-el-gobierno-en-bonos-de-deuda-externa-es-de-us-5-200-millones-estas-son-las-tasas-que-pagara-505172",
@@ -583,26 +603,6 @@
         "publicacion": "2026-10-23",
         "titulo_fuente": "Empleo temporal en Colombia: cerca del 30% de las solicitudes llega entre noviembre y enero",
         "capturado": "2026-10-23T17:54:29-05:00"
-      },
-      {
-        "titulo": "Carlos Suárez, asesor de De la Espriella, aclara si incidió en la renuncia de Rodrigo Lara al Mininterior",
-        "url": "https://www.portafolio.co/economia/gobierno/carlos-suarez-estratega-de-de-la-espriella-responde-si-influyo-en-salida-de-rodrigo-lara-y-llegada-de-ordonez-505005",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Carlos Suárez, estratega de De la Espriella, responde si influyó en la salida de Rodrigo Lara del Mininterior",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Caída de la inversión privada: importantes grupos económicos exigen que retome el mando de la economía",
-        "url": "https://www.portafolio.co/economia/desplome-de-la-inversion-privada-los-grandes-grupos-financieros-piden-que-recupere-el-liderazgo-de-la-economia-505002",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Desplome de la inversión privada: los grandes grupos financieros piden que recupere el liderazgo de la economía",
-        "capturado": "2026-10-23T14:47:41-05:00"
       }
     ],
     "Negocios": [
