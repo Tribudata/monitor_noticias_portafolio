@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-27T10:57:27-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-10-27T15:31:53-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno crea panel para revelar progresos y tareas pendientes del Plan de Choque en Salud",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-lanza-tablero-para-mostrar-que-avances-y-pendientes-deja-el-plan-de-choque-en-salud-505229",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Gobierno lanza tablero para mostrar qué avances y pendientes deja el Plan de Choque en Salud",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Contraloría investiga 434.000 millones de pesos por peligros en la red de fibra óptica del país",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-pone-la-lupa-sobre-434-000-millones-por-riesgos-en-red-de-fibra-optica-nacional-505230",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Contraloría pone la lupa sobre $434.000 millones por riesgos en red de fibra óptica nacional",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Aumentan tres veces frente a la inflación los tiquetes aéreos en Colombia y superan en 18,29% a 2025",
+        "url": "https://www.portafolio.co/economia/volar-en-colombia-sube-el-triple-que-la-inflacion-los-tiquetes-aereos-estan-18-29-mas-caros-que-en-505215",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Volar en Colombia sube el triple que la inflación: los tiquetes aéreos están 18,29% más caros que en 2025",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Problemas de seguridad en la frontera golpean a empresarios y gremios reclaman mejor gestión oficial",
+        "url": "https://www.portafolio.co/economia/regiones/crisis-de-orden-publico-en-la-frontera-afecta-al-sector-empresarial-gremios-piden-al-gobierno-mas-articulacion-505224",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Crisis de orden público en la frontera afecta al sector empresarial: gremios piden al Gobierno más articulación",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Gobierno solicita trasladar 750.000 millones de Calle 13 y Metro bogotano a adición de presupuesto 2026",
+        "url": "https://www.portafolio.co/economia/gobierno-pide-reprogramar-750-000-millones-de-la-calle-13-y-del-metro-de-bogota-para-adicion-presupuestal-del-505222",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Gobierno pide reprogramar $750.000 millones de la Calle 13 y del Metro de Bogotá para adición presupuestal del 2026",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Minhacienda festejó la colocación de bonos tras concretar la emisión histórica más alta del país",
+        "url": "https://www.portafolio.co/economia/se-logro-realizar-la-emision-mas-grande-en-la-historia-de-colombia-celebro-el-minhacienda-miguel-gomez-505220",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "'Se logró realizar la emisión más grande en la historia de Colombia': Minhacienda celebró nueva colocación de bonos",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Superfinanciera señala diferencias en la entrada al crédito formal entre urbes y regiones menos desarrolladas",
+        "url": "https://www.portafolio.co/economia/regiones/superfinanciera-advierte-por-brechas-en-el-acceso-al-credito-formal-entre-las-ciudades-y-zonas-con-menor-desarrollo-505218",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Superfinanciera advierte por brechas en el acceso al crédito formal entre las ciudades y zonas con menor desarrollo",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "La discriminación por edad restringe la entrada al crédito de los adultos mayores en el país",
+        "url": "https://www.portafolio.co/economia/finanzas/discriminacion-por-edad-limita-el-acceso-al-credito-de-los-adultos-mayores-en-colombia-505217",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Discriminación por edad limita el acceso al crédito de los adultos mayores en Colombia",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Calle 26, NQS, Autopista Norte y Séptima figuran entre los 19 corredores con límite nocturno de Halloween",
+        "url": "https://www.portafolio.co/economia/autopista-norte-nqs-calle-26-y-septima-entre-los-19-corredores-con-restriccion-nocturna-en-halloween-en-bogota-505203",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Autopista Norte, NQS, calle 26 y Séptima, entre los 19 corredores con restricción nocturna en Halloween en Bogotá",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Dian vigila mercancías por más de $14.782 millones en tres terminales marítimas de Buenaventura",
+        "url": "https://www.portafolio.co/economia/regiones/dian-pone-bajo-control-mercancias-por-mas-de-14-782-millones-en-tres-puertos-de-buenaventura-505210",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Dian pone bajo control mercancías por más de $14.782 millones en tres puertos de Buenaventura",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Qué competencias en inteligencia artificial solicitan las compañías en Colombia y cómo sobresalir",
+        "url": "https://www.portafolio.co/economia/finanzas/cuales-son-las-habilidades-en-inteligencia-artificial-que-buscan-las-empresas-en-colombia-y-como-destacarlas-505206",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "¿Cuáles son las habilidades en inteligencia artificial que buscan las empresas en Colombia y cómo destacarlas?",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
       {
         "titulo": "Bogotá inicia concurso por PTAR Canoas, megaobra ambiental de $600.000 millones al año que buscan empresas",
         "url": "https://www.portafolio.co/economia/infraestructura/bogota-abre-la-licitacion-de-la-megaobra-ambiental-de-600-000-millones-anuales-firmas-se-disputan-la-ptar-canoas-505204",
@@ -493,119 +603,69 @@
         "publicacion": "2026-10-24",
         "titulo_fuente": "Pacientes Colombia advierte que $3 billones no quedaron en el Presupuesto para salud",
         "capturado": "2026-10-24T17:38:35-05:00"
-      },
-      {
-        "titulo": "Contraloría cifra la reforma agraria como el mayor incumplimiento del Plan de Desarrollo de Petro",
-        "url": "https://www.portafolio.co/economia/agro/la-reforma-agraria-el-mayor-incumplimiento-del-plan-de-desarrollo-de-petro-las-cifras-de-la-contraloria-505064",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "La reforma agraria, el 'mayor incumplimiento' del Plan de Desarrollo de Petro: las cifras de la Contraloría",
-        "capturado": "2026-10-24T17:38:35-05:00"
-      },
-      {
-        "titulo": "Iniciativa legal culinaria sugiere IVA del cinco por ciento en locales y busca unificar tributos",
-        "url": "https://www.portafolio.co/economia/proyecto-de-ley-gastronomico-propone-iva-del-5-para-restaurantes-y-franquicias-y-busca-unificar-reglas-tributarias-505065",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Proyecto de ley gastronómico propone IVA del 5% para restaurantes y franquicias y busca unificar reglas tributarias",
-        "capturado": "2026-10-24T17:38:35-05:00"
-      },
-      {
-        "titulo": "Ministerio de Agricultura revocó las APPA en diecinueve municipios del Suroeste antioqueño",
-        "url": "https://www.portafolio.co/economia/gobierno/dangond-derogo-las-appa-en-19-municipios-del-suroeste-antioqueno-505063",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Minagricultura derogó las APPA en 19 municipios del Suroeste Antioqueño",
-        "capturado": "2026-10-24T17:38:35-05:00"
-      },
-      {
-        "titulo": "Avianca reactiva de forma definitiva su ruta directa entre Cali y Miami",
-        "url": "https://www.portafolio.co/economia/regiones/avianca-retoma-su-vuelo-directo-de-cali-a-miami-de-manera-permanente-505057",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Avianca retoma su vuelo directo de Cali a Miami de manera permanente",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Camacol - La agenda económica el país: retos y oportunidades",
-        "url": "https://www.portafolio.co/economia/infraestructura/camacol-la-agenda-economica-el-pais-retos-y-oportunidades-505056",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Camacol - La agenda económica el país: retos y oportunidades",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Gobierno enfrenta una carrera legislativa por el rescate fiscal, el traslado para Air-e y las reformas pendientes",
-        "url": "https://www.portafolio.co/economia/gobierno-enfrenta-una-carrera-legislativa-por-el-rescate-fiscal-el-traslado-para-air-e-y-las-reformas-pendientes-505055",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Gobierno enfrenta una carrera legislativa por el rescate fiscal, el traslado para Air-e y las reformas pendientes",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Congresistas reaccionan a salida de Rodrigo Lara y analizan situación de la vivienda en el país",
-        "url": "https://www.portafolio.co/economia/infraestructura/congresistas-reaccionan-a-salida-de-rodrigo-lara-y-analizan-situacion-de-la-vivienda-en-el-pais-505054",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Congresistas reaccionan a salida de Rodrigo Lara y analizan situación de la vivienda en el país",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027 tendrá un ajuste de casi $70 billones, anuncia el vicepresidente Restrepo",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-2027-tendra-un-ajuste-de-casi-70-billones-anuncia-el-vicepresidente-restrepo-505053",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Presupuesto 2027 tendrá un ajuste de casi $70 billones, anuncia el vicepresidente Restrepo",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Giros al exterior en Colombia se triplicaron en doce meses y ya superan los 225 millones de dólares",
-        "url": "https://www.portafolio.co/economia/finanzas/colombia-triplico-las-transferencias-internacionales-en-un-ano-ya-mueve-mas-de-us-225-millones-505049",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Colombia triplicó las transferencias internacionales en un año: ya mueve más de US$225 millones",
-        "capturado": "2026-10-24T12:51:12-05:00"
-      },
-      {
-        "titulo": "Cartagena abre los dos primeros kilómetros del Gran Malecón del Mar",
-        "url": "https://www.portafolio.co/economia/regiones/cartagena-inaugura-los-primeros-2-km-del-gran-malecon-del-mar-505047",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Cartagena inaugura los primeros 2 kilómetros del Gran Malecón del Mar",
-        "capturado": "2026-10-24T12:51:12-05:00"
-      },
-      {
-        "titulo": "Trece de diecinueve actores consultados por Anif prevén que la tasa suba al 12,50% en octubre",
-        "url": "https://www.portafolio.co/economia/finanzas/tasas-de-interes-seguirian-al-alza-13-de-19-entidades-consultadas-por-anif-esperan-subida-al-12-50-en-octubre-505044",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Tasas de interés seguirían al alza: 13 de 19 entidades consultadas por Anif esperan subida al 12,50% en octubre",
-        "capturado": "2026-10-24T12:51:12-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Empresas con capital desde España ubican a Colombia en un lugar clave de su plan mundial",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-gana-protagonismo-en-la-estrategia-global-de-empresas-que-invierten-desde-espana-505223",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Colombia gana protagonismo en la estrategia global de empresas que invierten desde España",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "El colombiano Andrés Ordóñez asume la presidencia de la red global publicitaria McCann",
+        "url": "https://www.portafolio.co/negocios/empresas/el-colombiano-andres-ordonez-fue-nombrado-presidente-de-la-red-global-de-agencias-de-publicidad-mccann-505211",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "El colombiano Andrés Ordóñez fue nombrado presidente de la red global de agencias de publicidad McCann",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Alquería lanza sistema de pagos para que los tenderos no manejen tanto efectivo",
+        "url": "https://www.portafolio.co/negocios/empresas/alqueria-implementa-plataforma-para-evitar-que-tenderos-se-expongan-con-dinero-en-efectivo-505213",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Alquería implementa plataforma de pago para evitar que tenderos se expongan con dinero en efectivo",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Microsoft se transforma por la inteligencia artificial y ofrece retiro voluntario a 60.000",
+        "url": "https://www.portafolio.co/negocios/empresas/la-inteligencia-artificial-reordena-a-microsoft-60-000-empleados-reciben-propuesta-de-retiro-voluntario-505214",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "La inteligencia artificial reordena a Microsoft: 60.000 empleados reciben propuesta de retiro voluntario",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "Pymes de Colombia con pasarelas de pago elevan un 90% su uso de productos financieros",
+        "url": "https://www.portafolio.co/negocios/empresas/pymes-colombianas-con-soluciones-de-pago-comerciales-utilizan-90-mas-productos-financieros-505212",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Pymes colombianas con soluciones de pago comerciales utilizan 90% más productos financieros",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
+      {
+        "titulo": "El gran desafío actual con la inteligencia artificial: pasar de los pilotos al negocio",
+        "url": "https://www.portafolio.co/negocios/empresas/el-mayor-reto-de-hoy-con-la-ia-ir-mas-alla-de-los-pilotos-y-aprovecharla-al-maximo-en-el-negocio-505205",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "El mayor reto de hoy con la IA: ir más allá de los pilotos y aprovecharla al máximo en el negocio",
+        "capturado": "2026-10-27T15:31:53-05:00"
+      },
       {
         "titulo": "Bogotá limitará motos cinco noches en Halloween: horas sin parrillero y zonas impactadas",
         "url": "https://www.portafolio.co/negocios/vehiculo/bogota-restringira-motos-durante-cinco-noches-por-halloween-horarios-sin-parrillero-y-vias-afectadas-505201",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-23",
         "titulo_fuente": "Presto, Mimo’s, Yupi y más: las últimas compras con las que Gilinski ha expandido su portafolio a través de Nutresa",
         "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "El sector industrial resintió con mayor fuerza el sismo y carece de indicios claros de repunte",
-        "url": "https://www.portafolio.co/negocios/industrias/industria-sintio-el-mayor-impacto-economico-del-terremoto-y-no-muestra-senales-claras-de-recuperacion-504990",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Industria sintió el mayor impacto económico del terremoto y no muestra señales claras de recuperación",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Inversión del exterior para la pódcast colombiana La No Ficción con el fin de llegar a España",
-        "url": "https://www.portafolio.co/negocios/empresas/productora-de-podcast-colombiana-la-no-ficcion-recibe-inversion-internacional-para-expandir-su-negocio-a-espana-504983",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Productora de pódcast colombiana La No Ficción recibe inversión internacional para expandir su negocio a España",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Modificaciones en la Junta de ISA: tres integrantes continuarían y seis aspiran a una silla",
-        "url": "https://www.portafolio.co/negocios/empresas/isa-alista-cambios-en-su-junta-tres-miembros-seguirian-y-seis-candidatos-buscan-un-puesto-504975",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "ISA alista cambios en su Junta: tres miembros seguirían y seis candidatos buscan un puesto",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "Nutresa, de Gilinski, une a las rivales Presto y El Corral como marcas del mismo grupo",
-        "url": "https://www.portafolio.co/negocios/empresas/presto-y-el-corral-de-competidoras-a-cadenas-hermanas-gracias-a-la-jugada-de-la-nutresa-de-los-gilinski-504972",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Presto y El Corral: de competidoras a cadenas hermanas gracias a la jugada de Nutresa, de Gilinski",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "El oro baja 3,5% semanal y alcanza mínimos de tres meses al tiempo que el petróleo presiona tasas",
-        "url": "https://www.portafolio.co/negocios/industrias/el-oro-cae-3-5-en-la-semana-y-toca-minimos-de-tres-meses-mientras-el-petroleo-presiona-las-tasas-de-interes-504971",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "El oro cae 3,5% en la semana y toca mínimos de tres meses mientras el petróleo presiona las tasas de interés",
-        "capturado": "2026-10-23T10:49:30-05:00"
-      },
-      {
-        "titulo": "El conglomerado de Jaime Gilinski en Nutresa crece: impacto en el mercado por la compra de Presto",
-        "url": "https://www.portafolio.co/negocios/empresas/la-nutresa-de-jaime-gilinski-continua-expandiendo-su-emporio-asi-quedaria-en-el-mercado-con-la-compra-de-presto-504970",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Nutresa, de Jaime Gilinski, continúa expandiendo su emporio: ¿cómo quedaría en el mercado con la compra de Presto?",
-        "capturado": "2026-10-23T10:49:30-05:00"
       }
     ]
   }
