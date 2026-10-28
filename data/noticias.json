@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-28T13:58:43-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-28T18:05:04-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Metro de Bogotá alcanza más del 83 % de avance en obras de la Línea 1 y detalla su inicio de operación",
+        "url": "https://www.portafolio.co/economia/infraestructura/metro-de-bogota-supera-el-83-de-avance-asi-van-las-obras-de-la-linea-1-y-cuando-comenzaria-a-operar-505318",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Metro de Bogotá supera el 83 % de avance: así van las obras de la Línea 1 y cuándo comenzaría a operar",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Itaú proyecta déficit fiscal del 7,5% del PIB en 2026 y ve la ley de ajuste vital para la confianza",
+        "url": "https://www.portafolio.co/economia/itau-calcula-deficit-fiscal-de-7-5-del-pib-en-2026-y-senala-la-ley-de-ajuste-como-clave-para-recuperar-confianza-505317",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Itaú calcula déficit fiscal de 7,5% del PIB en 2026 y señala la ley de ajuste como clave para recuperar confianza",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Inseguridad desploma ventas hasta un 73% en Cúcuta y comerciantes demandan respuestas efectivas",
+        "url": "https://www.portafolio.co/economia/regiones/ventas-han-caido-hasta-en-un-73-por-la-crisis-de-inseguridad-comerciantes-de-cucuta-exigen-soluciones-concretas-505311",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Ventas han caído hasta en un 73% por la crisis de inseguridad: comerciantes de Cúcuta exigen soluciones concretas",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Temas que Ecopetrol presentará ante el Congreso en su debate de control político",
+        "url": "https://www.portafolio.co/economia/gobierno/las-cuentas-que-ecopetrol-debera-rendir-en-el-debate-de-control-politico-con-el-congreso-de-la-republica-505310",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Las cuentas que Ecopetrol deberá rendir en el debate de control político con el Congreso de la República",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Cuál es el nivel de endeudamiento actual en Colombia",
+        "url": "https://www.portafolio.co/economia/crecimiento/que-tan-endeudada-esta-colombia-505307",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "¿Qué tan endeudada está Colombia?",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Cámara corrige artículos de la reforma pensional exigidos por la Corte Constitucional",
+        "url": "https://www.portafolio.co/economia/reforma-pensional-camara-de-representantes-subsano-los-articulos-que-la-corte-constitucional-pidio-revisar-505304",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Reforma pensional: Cámara de Representantes subsanó los artículos que la Corte Constitucional pidió revisar",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
       {
         "titulo": "Resultados del megaoperativo de De La Espriella en Bogotá bajo la Operación Kratos",
         "url": "https://www.portafolio.co/economia/regiones/operacion-kratos-en-bogota-asi-le-fue-al-megaoperativo-de-de-la-espriella-en-la-capital-del-pais-505296",
@@ -543,69 +603,69 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "Dólar podría subir a fin de año en plena temporada de navidad y vacaciones: qué factores influirían en su precio",
         "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Dane revela las ciudades con mayor alza en el costo de vida durante septiembre de 2026",
-        "url": "https://www.portafolio.co/economia/regiones/estas-son-las-ciudades-donde-mas-ha-subido-el-costo-de-vida-en-colombia-en-septiembre-de-2026-segun-el-dane-505165",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Estas son las ciudades donde más ha subido el costo de vida en Colombia en septiembre de 2026, según el Dane",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Borrador de decreto plantea dos modelos para que el Estado asuma riesgo pensional",
-        "url": "https://www.portafolio.co/economia/proyecto-de-decreto-propone-2-esquemas-para-que-el-estado-cubra-riesgo-de-las-pensiones-ligadas-al-salario-minimo-505162",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Proyecto de decreto propone 2 esquemas para que el Estado cubra riesgo de las pensiones ligadas al salario mínimo",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Medellín destina cerca de $700.000 millones a subsidios de servicios públicos para estratos 1, 2 y 3",
-        "url": "https://www.portafolio.co/economia/regiones/medellin-moviliza-casi-700-000-millones-en-subsidios-de-servicios-publicos-para-estratos-1-2-y-505159",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Medellín moviliza casi $700.000 millones en subsidios de servicios públicos para estratos 1, 2 y 3",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Próxima reforma tributaria en Colombia buscaría sumar contribuyentes y reducir la informalidad",
-        "url": "https://www.portafolio.co/economia/colombia-buscaria-ampliar-la-base-de-contribuyentes-y-combatir-la-informalidad-con-la-futura-ley-de-ajuste-fiscal-505152",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Colombia buscaría ampliar la base de contribuyentes y combatir la informalidad con la futura ley de ajuste fiscal",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "SIC establece exigencias a solicitantes tras actualizar el registro de marcas holográficas en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-actualiza-el-registro-de-marcas-holograficas-la-sic-fija-requisitos-para-solicitantes-505148",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Colombia actualiza el registro de marcas holográficas: la SIC fija requisitos para solicitantes",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Gobierno lanza créditos para EPS con el fin de destrabar pagos atrasados en salud y medicamentos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-abre-creditos-para-las-eps-asi-busca-destrabar-pagos-de-medicamentos-y-procedimientos-de-salud-pendientes-505142",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Gobierno abre créditos para las EPS: así busca destrabar pagos de medicamentos y procedimientos de salud pendientes",
-        "capturado": "2026-10-26T15:06:05-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Firma nacional de herramientas prevé llegar a 4.500 ferreterías para el año 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/la-marca-colombiana-de-herramientas-que-proyecta-llegar-a-4-500-ferreterias-en-505324",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "La marca colombiana de herramientas que proyecta llegar a 4.500 ferreterías en 2027",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Según el Ejecutivo, británica Río Tinto destinaría $5 billones en Chocó a cuatro años",
+        "url": "https://www.portafolio.co/negocios/inversion/minera-britanica-rio-tinto-invertiria-5-billones-en-el-choco-durante-los-proximos-cuatro-anos-segun-el-gobierno-505314",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Minera británica Río Tinto invertiría $5 billones en el Chocó durante los próximos cuatro años, según el Gobierno",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Marca local de ropa interior de hombre busca atraer mujeres y vender $28.000 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-marca-colombiana-de-ropa-interior-masculina-quiere-conquistar-a-las-mujeres-y-facturar-28-000-millones-505316",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Esta marca colombiana de ropa interior masculina quiere conquistar a las mujeres y facturar $28.000 millones",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Celebración de Halloween dinamizará el consumo familiar incluyendo a las mascotas",
+        "url": "https://www.portafolio.co/negocios/comercio/halloween-movera-el-gasto-de-los-hogares-hasta-la-mascotas-tendran-su-disfraz-505313",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Halloween moverá el gasto de los hogares: hasta la mascotas tendrán su disfraz",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "Detalles de los US$1.000 millones que PepsiCo invertirá en dos plantas en Colombia",
+        "url": "https://www.portafolio.co/negocios/inversion/inversion-de-pepsico-en-colombia-los-detalles-de-los-us-1-000-millones-anunciados-para-dos-plantas-505308",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Inversión de PepsiCo en Colombia: los detalles de los US$1.000 millones anunciados para dos plantas",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
+      {
+        "titulo": "ISA modifica estatutos y designa nueva Junta Directiva con cambios aprobados",
+        "url": "https://www.portafolio.co/negocios/empresas/isa-reforma-sus-estatutos-y-elige-nueva-junta-directiva-estos-son-los-cambios-aprobados-505303",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "ISA reforma sus estatutos y elige nueva Junta Directiva: estos son los cambios aprobados",
+        "capturado": "2026-10-28T18:05:04-05:00"
+      },
       {
         "titulo": "Elección en la presidencia de la Andi: cuatro aspirantes siguen en puja tras la salida de Jaime Bermúdez",
         "url": "https://www.portafolio.co/negocios/empresas/jaime-bermudez-se-retira-de-la-carrera-por-la-presidencia-de-la-andi-quedan-cuatro-nombres-en-la-lista-505300",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-24",
         "titulo_fuente": "Gobierno elimina 15 distritos mineros: qué cambia para 5,3 millones de hectáreas que abarcan el 5% del territorio",
         "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Impacto Tesla en Colombia: cuatro vehículos eléctricos redujeron sus precios hasta en 40 millones",
-        "url": "https://www.portafolio.co/negocios/efecto-tesla-en-colombia-4-carros-electricos-bajaron-hasta-40-millones-505050",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Efecto Tesla en Colombia: 4 carros eléctricos bajaron hasta $40 millones",
-        "capturado": "2026-10-24T12:51:12-05:00"
-      },
-      {
-        "titulo": "La natalidad disminuye en Bogotá: la reducción de 42000 nacidos reta la atención pediátrica",
-        "url": "https://www.portafolio.co/negocios/industrias/cada-vez-nacen-menos-ninos-en-bogota-la-caida-de-42-000-nacimientos-que-reta-a-la-atencion-pediatrica-505048",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Cada vez nacen menos niños en Bogotá: la caída de 42.000 nacimientos que reta a la atención pediátrica",
-        "capturado": "2026-10-24T12:51:12-05:00"
-      },
-      {
-        "titulo": "Cepal proyecta un aumento del 15% en las ventas externas de Colombia para el año 2026",
-        "url": "https://www.portafolio.co/negocios/comercio/exportaciones-de-colombia-crecerian-15-en-2026-la-cifra-que-proyecta-la-cepal-para-el-comercio-exterior-505046",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Exportaciones de Colombia crecerían 15% en 2026: la cifra que proyecta la Cepal para el comercio exterior",
-        "capturado": "2026-10-24T12:51:12-05:00"
-      },
-      {
-        "titulo": "Nucita celebra cinco décadas logrando 435 millones de unidades anuales y llegada a más de 15 naciones",
-        "url": "https://www.portafolio.co/negocios/empresas/nucita-cumple-50-anos-con-435-millones-de-unidades-al-ano-y-presencia-en-mas-de-15-paises-505041",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Nucita cumple 50 años con 435 millones de unidades al año y presencia en más de 15 países",
-        "capturado": "2026-10-24T09:45:00-05:00"
-      },
-      {
-        "titulo": "Hitachi Energy destinará US$80 millones de inversión en Colombia",
-        "url": "https://www.portafolio.co/negocios/hitachi-energy-invertira-us-80-millones-en-colombia-505039",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Hitachi Energy invertirá US$80 millones en Colombia",
-        "capturado": "2026-10-24T09:45:00-05:00"
-      },
-      {
-        "titulo": "El setenta por ciento de los colombianos sufrió intentos de estafa virtual en los últimos doce meses",
-        "url": "https://www.portafolio.co/negocios/empresas/siete-de-cada-diez-colombianos-recibieron-intentos-de-fraude-digital-durante-el-ultimo-ano-505037",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Siete de cada diez colombianos recibieron intentos de fraude digital durante el último año",
-        "capturado": "2026-10-24T09:45:00-05:00"
       }
     ]
   }
