@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-27T15:31:53-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-10-27T19:15:02-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Hacienda Distrital detalla traslado de 750000 millones de pesos del Metro y la calle 13 por parte del Ejecutivo",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-movera-750-000-millones-del-metro-y-la-calle-13-hacienda-distrital-explica-el-ajuste-505250",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Gobierno nacional moverá $750.000 millones del Metro y la calle 13: Hacienda Distrital explica el ajuste",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Presidencia impone estrictos plazos y avales a proyectos en el Congreso, según De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/filtro-de-presidencia-de-la-espriella-fija-plazos-y-avales-estrictos-para-radicar-proyectos-en-el-congreso-505246",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Filtro de Presidencia: De La Espriella fija plazos y avales estrictos para radicar proyectos en el Congreso",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "De La Espriella respalda a la Ministra del Trabajo y dispone plan nacional contra la informalidad",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-le-da-espaldarazo-a-la-ministra-del-trabajo-y-ordena-un-plan-nacional-para-combatir-la-informalidad-505245",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "De La Espriella le da espaldarazo a la Ministra del Trabajo y ordena un plan nacional para combatir la informalidad",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Minsalud solicita indagar 885000 millones entregados en seis días y reporta anomalías en fondos de salud",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-investigar-885-000-millones-asignados-en-seis-dias-denuncian-fallas-en-recursos-para-salud-505240",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Minsalud pide investigar $885.000 millones asignados en seis días: denuncian fallas en recursos para salud",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Ejecutivo pacta urgencia manifiesta con Thomas Greg para asegurar la emisión de pasaportes hasta 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-firmo-urgencia-manifiesta-con-thomas-greg-para-garantizar-expedicion-de-pasaportes-hasta-505241",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Gobierno firmó urgencia manifiesta con Thomas Greg para garantizar expedición de pasaportes hasta 2027",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Corficolombiana proyecta expansión del 2,3% en 2026 y 2% en 2027 y analiza condiciones para alcanzar el 6%",
+        "url": "https://www.portafolio.co/economia/corficolombiana-colombia-creceria-2-3-en-2026-y-2-en-2027-que-tendria-que-cambiar-para-llegar-al-505235",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Colombia crecería 2,3% en 2026 y 2% en 2027: ¿qué tendría que cambiar para llegar al 6%, según Corficolombiana?",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Motociclistas alertan afectación en sus ganancias por medidas de Halloween en Bogotá y critican la decisión",
+        "url": "https://www.portafolio.co/economia/regiones/moteros-advierten-impacto-en-sus-ingresos-por-las-restricciones-de-halloween-en-bogota-cuestionan-medida-505233",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Moteros advierten impacto en sus ingresos por las restricciones de Halloween en Bogotá: cuestionan medida",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
       {
         "titulo": "Gobierno crea panel para revelar progresos y tareas pendientes del Plan de Choque en Salud",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-lanza-tablero-para-mostrar-que-avances-y-pendientes-deja-el-plan-de-choque-en-salud-505229",
@@ -533,79 +603,59 @@
         "publicacion": "2026-10-25",
         "titulo_fuente": "El 80% de los alimentos de 2050 deberá salir de cultivos existentes, según la FAO",
         "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "De La Espriella señala supuestas anomalías en contratación del Sena cordobés por $1.698 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-denuncia-presuntas-irregularidades-en-contratos-del-sena-en-cordoba-por-1-698-millones-505085",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "De La Espriella denuncia presuntas irregularidades en contratos del Sena en Córdoba por $1.698 millones",
-        "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "Inversionistas colombianos hallan nuevos montos para pedir residencia por inversión en Panamá",
-        "url": "https://www.portafolio.co/economia/finanzas/inversionistas-colombianos-estos-son-los-nuevos-montos-para-solicitar-residencia-por-inversion-en-panama-505080",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Inversionistas colombianos: estos son los nuevos montos para solicitar residencia por inversión en Panamá",
-        "capturado": "2026-10-25T13:09:20-05:00"
-      },
-      {
-        "titulo": "Ricardo Arias Macías, socio de la campaña de De la Espriella, asume la Consejería de Derechos Humanos",
-        "url": "https://www.portafolio.co/economia/gobierno/este-es-ricardo-arias-macias-aliado-de-la-campana-de-de-la-espriella-que-llega-a-la-consejeria-de-derechos-humanos-505074",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Este es Ricardo Arias Macías, aliado de la campaña de De la Espriella que llega a la Consejería de Derechos Humanos",
-        "capturado": "2026-10-25T13:09:20-05:00"
-      },
-      {
-        "titulo": "Alerta roja en Santa Marta por precipitaciones: Ideam anuncia más lluvias en otras zonas del país",
-        "url": "https://www.portafolio.co/economia/gobierno/alerta-roja-en-santa-marta-por-lluvias-ideam-preve-mas-aguaceros-en-otras-regiones-del-pais-505072",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Alerta roja en Santa Marta por lluvias: Ideam prevé más aguaceros en otras regiones del país",
-        "capturado": "2026-10-25T09:50:05-05:00"
-      },
-      {
-        "titulo": "Prevención previa a sanciones: de esta manera se modifica la fiscalización laboral de la cartera",
-        "url": "https://www.portafolio.co/economia/gobierno/ministerio-del-trabajo-cambia-la-inspeccion-laboral-primero-advertencia-y-plazo-luego-sancion-505071",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Antes de multar, primero advertir: así cambia la inspección laboral del Ministerio de Trabajo",
-        "capturado": "2026-10-25T09:50:05-05:00"
-      },
-      {
-        "titulo": "Un 67 por ciento de los empleados con sueldos altos afronta riesgos de automatización por inteligencia artificial",
-        "url": "https://www.portafolio.co/economia/el-67-de-los-trabajadores-con-mayores-ingresos-esta-expuesto-a-la-automatizacion-por-inteligencia-artificial-505069",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "El 67% de los trabajadores con mayores ingresos está expuesto a la automatización por inteligencia artificial",
-        "capturado": "2026-10-24T19:50:56-05:00"
-      },
-      {
-        "titulo": "Pacientes Colombia avisa que faltaron tres billones de pesos presupuestados para la salud",
-        "url": "https://www.portafolio.co/economia/gobierno/pacientes-colombia-advierte-que-3-billones-no-quedaron-en-el-presupuesto-para-salud-505066",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Pacientes Colombia advierte que $3 billones no quedaron en el Presupuesto para salud",
-        "capturado": "2026-10-24T17:38:35-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Hot Sale 2026: 95% de las adquisiciones ocurrieron por móviles y estos resultaron los bienes más pedidos",
+        "url": "https://www.portafolio.co/negocios/comercio/hot-sale-2026-el-95-de-las-compras-se-hizo-desde-celulares-y-estos-fueron-los-productos-mas-buscados-505249",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Hot Sale 2026: el 95% de las compras se hizo desde celulares y estos fueron los productos más buscados",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Los propietarios de Refisal y Blancox impulsan capacitación técnica en manufactura química",
+        "url": "https://www.portafolio.co/negocios/empresas/los-duenos-de-refisal-y-blancox-promueven-formacion-tecnica-en-produccion-quimica-505247",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Los dueños de Refisal y Blancox promueven formación técnica en producción química",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Bimbo: las cuatro enseñas gestadas en Colombia que hoy se comercializan en más de 20 naciones",
+        "url": "https://www.portafolio.co/negocios/industrias/bimbo-las-cuatro-marcas-creadas-en-colombia-que-hoy-se-venden-en-mas-de-20-paises-505242",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Bimbo: las cuatro marcas creadas en Colombia que hoy se venden en más de 20 países",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "La sociedad de James Rodríguez con Quest: la firma estima comercializar más de 200.000 prendas",
+        "url": "https://www.portafolio.co/negocios/empresas/el-negocio-de-james-rodriguez-con-quest-la-marca-proyecta-vender-mas-de-200-000-prendas-505234",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "El negocio de James Rodríguez con Quest: la marca proyecta vender más de 200.000 prendas",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
+      {
+        "titulo": "Grouti se expande con recursos propios y prevé ingresos por US$10 millones al ampliar su mercado externo",
+        "url": "https://www.portafolio.co/negocios/empresas/grouti-crece-con-capital-propio-y-proyecta-ventas-por-us-10-millones-mientras-amplia-su-operacion-internacional-505248",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Grouti crece con capital propio y proyecta ventas por US$10 millones mientras amplía su operación internacional",
+        "capturado": "2026-10-27T19:15:02-05:00"
+      },
       {
         "titulo": "Empresas con capital desde España ubican a Colombia en un lugar clave de su plan mundial",
         "url": "https://www.portafolio.co/negocios/empresas/colombia-gana-protagonismo-en-la-estrategia-global-de-empresas-que-invierten-desde-espana-505223",
@@ -1154,56 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-23",
         "titulo_fuente": "Lo que nos mueve: Congreso Nacional de Cajas de Compensación Familiar 2026",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Charla con Camilo López, jefe de estrategia de Comfama en el Congreso Asocajas",
-        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-camilo-lopez-responsable-de-estrategia-de-comfama-desde-el-congreso-asocajas-504999",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Entrevista con Camilo López, responsable de estrategia de Comfama desde el Congreso Asocajas",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Diálogo con Juan Eduardo Zuluaga, director general de Confa desde el Congreso Asocajas",
-        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-juan-eduardo-zuluaga-director-general-de-confa-desde-el-congreso-asocajas-504998",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Entrevista con Juan Eduardo Zuluaga, director general de Confa desde el Congreso Asocajas",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Estrategias recientes de Grupo Nutresa en Ecuador y Venezuela para ampliar su huella internacional",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-y-su-presencia-mas-alla-de-colombia-las-recientes-apuestas-en-ecuador-y-venezuela-504993",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Grupo Nutresa y su presencia más allá de Colombia: las recientes apuestas en Ecuador y Venezuela",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Volkswagen Camiones y Buses completa más de dos décadas dinamizando la movilidad en Colombia",
-        "url": "https://www.portafolio.co/negocios/vehiculo/volkswagen-camiones-y-buses-mas-de-20-anos-impulsando-el-transporte-en-colombia-504207",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Volkswagen Camiones y Buses: más de 20 años impulsando el transporte en Colombia",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Expansión del portafolio de Nutresa por parte de Gilinski mediante compras como Presto, Mimo y Yupi",
-        "url": "https://www.portafolio.co/negocios/empresas/presto-mimo-s-yupi-y-mas-las-ultimas-compras-con-las-que-gilinski-ha-expandido-su-portafolio-a-traves-de-nutresa-504991",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Presto, Mimo’s, Yupi y más: las últimas compras con las que Gilinski ha expandido su portafolio a través de Nutresa",
         "capturado": "2026-10-23T14:47:41-05:00"
       }
     ]
