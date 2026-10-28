@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-27T19:15:02-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-28T01:01:43-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo busca destrabar ocho obras clave para el oriente antioqueño con recursos de la concesión Devimed",
+        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-busca-destrabar-ocho-obras-clave-para-el-oriente-antioqueno-con-recursos-de-la-concesion-devimed-505252",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-27",
+        "titulo_fuente": "Gobierno busca destrabar ocho obras clave para el oriente antioqueño con recursos de la concesión Devimed",
+        "capturado": "2026-10-28T01:01:43-05:00"
+      },
       {
         "titulo": "Hacienda Distrital detalla traslado de 750000 millones de pesos del Metro y la calle 13 por parte del Ejecutivo",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-movera-750-000-millones-del-metro-y-la-calle-13-hacienda-distrital-explica-el-ajuste-505250",
@@ -592,16 +602,6 @@
         "subseccion": "Finanzas",
         "publicacion": "2026-10-25",
         "titulo_fuente": "Deuda promedio de los colombianos en mora llega a $35,6 millones",
-        "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "La FAO indica que el 80% de la comida para 2050 provendrá de sembrados actuales",
-        "url": "https://www.portafolio.co/economia/el-80-de-los-alimentos-de-2050-debera-salir-de-cultivos-existentes-segun-la-fao-505088",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "El 80% de los alimentos de 2050 deberá salir de cultivos existentes, según la FAO",
         "capturado": "2026-10-25T16:04:53-05:00"
       }
     ],
