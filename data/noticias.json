@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-28T01:01:43-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-28T08:21:16-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El 28 % de los giros enviados al exterior desde Colombia corresponde a remesas y sostenimiento de parientes",
+        "url": "https://www.portafolio.co/economia/finanzas/remesas-y-ayuda-familiar-explican-el-28-de-las-transferencias-internacionales-desde-colombia-505266",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Remesas y ayuda familiar explican el 28 % de las transferencias internacionales desde Colombia",
+        "capturado": "2026-10-28T08:21:16-05:00"
+      },
+      {
+        "titulo": "La cotización del dólar en Colombia abre en descenso: la moneda comienza debajo de los 3.150 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-inicia-a-la-baja-divisa-arranca-por-debajo-de-los-3-505264",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Precio del dólar en Colombia inicia a la baja: divisa arranca por debajo de los $3.150",
+        "capturado": "2026-10-28T08:21:16-05:00"
+      },
+      {
+        "titulo": "Arrancan los desembolsos de Colombia Mayor: 2,8 millones de abuelos obtendrán la ayuda desde este 28 de octubre",
+        "url": "https://www.portafolio.co/economia/gobierno/inician-los-pagos-de-colombia-mayor-2-8-millones-de-adultos-mayores-recibiran-el-subsidio-desde-hoy-28-de-octubre-505263",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Inician los pagos de Colombia Mayor: 2,8 millones de adultos mayores recibirán el subsidio desde hoy 28 de octubre",
+        "capturado": "2026-10-28T08:21:16-05:00"
+      },
+      {
+        "titulo": "Persiste el debate tras la decisión del Ejecutivo de ceder otra vez la elaboración de pasaportes a Thomas Greg",
+        "url": "https://www.portafolio.co/economia/gobierno/continua-la-polemica-luego-de-que-el-gobierno-entregara-de-nuevo-la-produccion-de-pasaportes-a-thomas-greg-505262",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Continúa la polémica luego de que el Gobierno entregara de nuevo la producción de pasaportes a Thomas Greg",
+        "capturado": "2026-10-28T08:21:16-05:00"
+      },
       {
         "titulo": "Ejecutivo busca destrabar ocho obras clave para el oriente antioqueño con recursos de la concesión Devimed",
         "url": "https://www.portafolio.co/economia/infraestructura/gobierno-busca-destrabar-ocho-obras-clave-para-el-oriente-antioqueno-con-recursos-de-la-concesion-devimed-505252",
@@ -563,49 +603,19 @@
         "publicacion": "2026-10-25",
         "titulo_fuente": "En vivo: alocución del presidente de Colombia Abelardo De La Espriella",
         "capturado": "2026-10-25T20:31:26-05:00"
-      },
-      {
-        "titulo": "A la inclusión financiera colombiana le falta bastante progreso todavía",
-        "url": "https://www.portafolio.co/economia/finanzas/en-materia-de-inclusion-financiera-aun-falta-mucho-avance-en-colombia-505022",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "En materia de inclusión financiera aún falta mucho avance en Colombia",
-        "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "Argos Latam apoya la vigencia de Conexión Centro tras respaldo de la ministra Elsa Noguera",
-        "url": "https://www.portafolio.co/economia/infraestructura/conexion-centro-aun-tiene-vida-argos-latam-respalda-la-continuidad-tras-el-guino-de-la-ministra-elsa-noguera-505019",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Conexión Centro aún tiene vida: Argos Latam respalda la continuidad tras el guiño de la ministra Elsa Noguera",
-        "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "Primicia: Amarilo replicará en Pereira su megaproyecto Quora de $2,4 billones de Bogotá tras el temblor",
-        "url": "https://www.portafolio.co/economia/primicia-amarilo-llevara-a-pereira-el-modelo-de-quora-su-megaproyecto-de-2-4-billones-en-bogota-tras-el-sismo-505006",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Primicia: Amarilo llevará a Pereira el modelo de Quora, su megaproyecto de $2,4 billones en Bogotá, tras el sismo",
-        "capturado": "2026-10-25T16:04:53-05:00"
-      },
-      {
-        "titulo": "El saldo insoluto medio de los morosos en Colombia alcanza los $35,6 millones",
-        "url": "https://www.portafolio.co/economia/finanzas/deuda-promedio-de-los-colombianos-en-mora-llega-a-35-6-millones-505090",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Deuda promedio de los colombianos en mora llega a $35,6 millones",
-        "capturado": "2026-10-25T16:04:53-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El impacto Tesla acelera la disputa de tasas para créditos de carros en Colombia",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-competencia-por-la-financiacion-de-carros-con-0-de-interes-estas-son-las-marcas-que-lo-ofrecen-y-sus-plazos-505253",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "'Efecto Tesla' acelera 'la guerra de tasas de interés' para la financiación de vehículos en Colombia",
+        "capturado": "2026-10-28T08:21:16-05:00"
+      },
       {
         "titulo": "Hot Sale 2026: 95% de las adquisiciones ocurrieron por móviles y estos resultaron los bienes más pedidos",
         "url": "https://www.portafolio.co/negocios/comercio/hot-sale-2026-el-95-de-las-compras-se-hizo-desde-celulares-y-estos-fueron-los-productos-mas-buscados-505249",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-23",
         "titulo_fuente": "Entrevista con Illumia Group desde el Congreso Asocajas",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Lo que nos mueve: Congreso Nacional de Cajas de Compensación Familiar 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/lo-que-nos-mueve-congreso-nacional-de-cajas-de-compensacion-familiar-505000",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Lo que nos mueve: Congreso Nacional de Cajas de Compensación Familiar 2026",
         "capturado": "2026-10-23T14:47:41-05:00"
       }
     ]
