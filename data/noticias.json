@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-28T08:21:16-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-28T13:58:43-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Resultados del megaoperativo de De La Espriella en Bogotá bajo la Operación Kratos",
+        "url": "https://www.portafolio.co/economia/regiones/operacion-kratos-en-bogota-asi-le-fue-al-megaoperativo-de-de-la-espriella-en-la-capital-del-pais-505296",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Operación Kratos en Bogotá: así le fue al megaoperativo de De La Espriella en la capital del país",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Oxford Economics advierte que Colombia debe ajustar 4,2 puntos del PIB para su deuda",
+        "url": "https://www.portafolio.co/economia/finanzas/colombia-tendria-que-ajustar-4-2-puntos-del-pib-para-estabilizar-su-deuda-publica-advierte-oxford-economics-505293",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Colombia tendría que ajustar 4,2 puntos del PIB para estabilizar su deuda pública, advierte Oxford Economics",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Bogotá registra más hogares unipersonales y el promedio de personas por hogar bajó a 2,7 en 2025",
+        "url": "https://www.portafolio.co/economia/bogota-tiene-cada-vez-mas-hogares-unipersonales-el-promedio-de-personas-por-hogar-cayo-a-2-7-en-505292",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Bogotá tiene cada vez más hogares unipersonales: el promedio de personas por hogar cayó a 2,7 en 2025",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Mercados de 2026 sentirán presión por materias primas más costosas como energía, metales y petróleo",
+        "url": "https://www.portafolio.co/economia/agro/el-mundo-se-prepara-para-materias-primas-mas-caras-energia-metales-y-petroleo-presionaran-los-mercados-en-505289",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "El mundo se prepara para materias primas más caras: energía, metales y petróleo presionarán los mercados en 2026",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Precio del euro en Colombia: la divisa europea sube y se aproxima a los 3500 pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-la-moneda-europea-repunta-y-se-acerca-a-los-3-505291",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Euro hoy en Colombia: la moneda europea repunta y se acerca a los $3.500",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Programa de inglés gratis para mayores de 50 años: conozca cómo postularse",
+        "url": "https://www.portafolio.co/economia/regiones/adultos-mayores-de-50-anos-podran-acceder-a-programa-de-ingles-gratuito-asi-puede-aplicar-505288",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Adultos mayores de 50 años podrán acceder a programa de inglés gratuito: así puede aplicar",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Corte ampara a dos mujeres que disputan igual pensión y manda dividir temporalmente el pago",
+        "url": "https://www.portafolio.co/economia/corte-protege-a-dos-mujeres-que-reclaman-la-misma-pension-y-ordena-repartir-provisionalmente-la-mesada-505283",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Corte protege a dos mujeres que reclaman la misma pensión y ordena repartir provisionalmente la mesada",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Movilidad permite cuatro cortes de vía cerca a El Campín por Halloween; uno hasta el 2 de noviembre",
+        "url": "https://www.portafolio.co/economia/movilidad-autoriza-cuatro-cierres-viales-alrededor-de-el-campin-por-halloween-uno-ira-hasta-el-2-de-noviembre-505272",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Movilidad autoriza cuatro cierres viales alrededor de El Campín por Halloween; uno irá hasta el 2 de noviembre",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella busca que EE. UU. quite aranceles hasta el 0%: este es el plan",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-busca-que-ee-uu-elimine-aranceles-hasta-llegar-a-0-este-es-el-plan-505279",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Abelardo De La Espriella busca que EE. UU. elimine aranceles hasta llegar a 0%: este es el plan",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Bolsa de Colombia cambia: esta es la nueva imagen que lucirá tras casi cien años de existencia",
+        "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-colombia-evoluciona-esta-es-la-nueva-cara-que-tendra-tras-casi-un-siglo-de-historia-505273",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Bolsa de Colombia evoluciona: esta es la nueva 'cara' que tendrá tras casi un siglo de historia",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Ministro de Vivienda y hoteleros hablarán en Bucaramanga sobre el impacto del alojamiento turístico",
+        "url": "https://www.portafolio.co/economia/ministro-de-vivienda-y-hoteleros-discutiran-en-bucaramanga-el-efecto-del-alojamiento-turistico-en-las-ciudades-505267",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Ministro de Vivienda y hoteleros discutirán en Bucaramanga el efecto del alojamiento turístico en las ciudades",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Así será el puente de la 112 con Novena: 226 metros de longitud, 300 toneladas y hasta 7,39 metros de alto",
+        "url": "https://www.portafolio.co/economia/infraestructura/asi-quedara-el-puente-de-la-112-con-novena-226-metros-de-largo-300-toneladas-y-una-altura-de-hasta-7-39-metros-505269",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Así quedará el puente de la 112 con Novena: 226 metros de largo, 300 toneladas y una altura de hasta 7,39 metros",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
       {
         "titulo": "El 28 % de los giros enviados al exterior desde Colombia corresponde a remesas y sostenimiento de parientes",
         "url": "https://www.portafolio.co/economia/finanzas/remesas-y-ayuda-familiar-explican-el-28-de-las-transferencias-internacionales-desde-colombia-505266",
@@ -483,129 +603,89 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "Gobierno abre créditos para las EPS: así busca destrabar pagos de medicamentos y procedimientos de salud pendientes",
         "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Inversión en Colombia continúa rezagada frente a América Latina y se ubica 6,9% bajo el nivel de 2019",
-        "url": "https://www.portafolio.co/economia/colombia-sigue-rezagada-en-inversion-frente-a-america-latina-esta-6-9-por-debajo-de-los-niveles-de-505135",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Colombia sigue rezagada en inversión frente a América Latina: está 6,9% por debajo de los niveles de 2019",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Bogotá dispone de más de 7.000 vacantes esta semana: vea las fechas y los sitios de postulación",
-        "url": "https://www.portafolio.co/economia/bogota-ofrece-mas-de-7-000-oportunidades-de-empleo-esta-semana-conozca-las-fechas-y-donde-postularse-505132",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Bogotá ofrece más de 7.000 oportunidades de empleo esta semana: conozca las fechas y dónde postularse",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Colombia desecha 9,76 millones de toneladas de alimentos al año por fallas que afectan al campo y mercado",
-        "url": "https://www.portafolio.co/economia/agro/colombia-pierde-9-76-millones-de-toneladas-de-alimentos-al-ano-las-fallas-que-le-cuestan-al-campo-y-al-mercado-505126",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Colombia pierde 9,76 millones de toneladas de alimentos al año: las fallas que le cuestan al campo y al mercado",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Colombia alista emisión de papeles en dólares a 2056 para buscar recursos en plazas externas",
-        "url": "https://www.portafolio.co/economia/colombia-prepara-emision-de-bonos-en-dolares-con-vencimiento-en-2056-para-financiarse-en-mercados-internacionales-505127",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Colombia prepara emisión de bonos en dólares con vencimiento en 2056 para financiarse en mercados internacionales",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia este 26 de octubre: valor de la divisa frente a la moneda nacional",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-26-de-octubre-en-colombia-asi-se-cotiza-la-moneda-europea-frente-al-peso-505124",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Euro hoy 26 de octubre en Colombia: así se cotiza la moneda europea frente al peso",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Invías recibe vías con huecos y fisuras: administración alerta sobre el estado de 256 km",
-        "url": "https://www.portafolio.co/economia/infraestructura/vias-revertidas-al-invias-con-baches-y-grietas-el-gobierno-advierte-por-el-mantenimiento-de-256-kilometros-505121",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Vías revertidas al Invías, con baches y grietas: el Gobierno advierte por el mantenimiento de 256 kilómetros",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Cultivar una hectárea de papa vale $35 millones y el Ejecutivo intenta bajar los gastos",
-        "url": "https://www.portafolio.co/economia/agro/costo-de-producir-una-hectarea-de-papa-llega-a-35-millones-gobierno-busca-reducir-la-carga-505119",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Costo de producir una hectárea de papa llega a $35 millones: Gobierno busca reducir la carga",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Presidente De La Espriella prometió elevar la cifra monetaria de los subsidios de Colombia Mayor",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-aseguro-que-trabajaria-en-aumentar-el-monto-de-los-pagos-del-programa-colombia-mayor-505115",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Presidente De La Espriella aseguró que trabajaría en aumentar el monto de los pagos del programa Colombia Mayor",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia: la moneda arranca la semana cerca a los $3.150",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-la-semana-cerca-de-los-3-505113",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Precio del dólar en Colombia: divisa inicia la semana cerca de los $3.150",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Presidente Abelardo De La Espriella comentó sobre la victoria de Lula da Silva: Brasil y Colombia se requieren",
-        "url": "https://www.portafolio.co/economia/gobierno/brasil-y-colombia-se-necesitan-presidente-abelardo-de-la-espriella-reacciono-al-triunfo-de-lula-da-silva-505112",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "'Brasil y Colombia se necesitan': presidente Abelardo De La Espriella reaccionó al triunfo de Lula da Silva",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Temas como el plan de rescate fiscal, Presto y presupuesto tratados por De La Espriella en su alocución",
-        "url": "https://www.portafolio.co/economia/gobierno/presupuesto-plan-de-rescate-fiscal-presto-y-otros-temas-de-los-que-hablo-de-la-espriella-en-su-alocucion-505109",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Presupuesto, plan de rescate fiscal, Presto y otros temas de los que habló De La Espriella en su alocución",
-        "capturado": "2026-10-26T02:26:38-05:00"
-      },
-      {
-        "titulo": "Transmisión en directo: intervención del mandatario colombiano Abelardo De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/en-vivo-alocucion-del-presidente-de-colombia-abelardo-de-la-espriella-505108",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "En vivo: alocución del presidente de Colombia Abelardo De La Espriella",
-        "capturado": "2026-10-25T20:31:26-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Elección en la presidencia de la Andi: cuatro aspirantes siguen en puja tras la salida de Jaime Bermúdez",
+        "url": "https://www.portafolio.co/negocios/empresas/jaime-bermudez-se-retira-de-la-carrera-por-la-presidencia-de-la-andi-quedan-cuatro-nombres-en-la-lista-505300",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Carrera por la presidencia de la Andi: los cuatro nombres que quedan en la lista tras el retiro de Jaime Bermúdez",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "El 97,4 % de los micronegocios con ventas menores a $1 millón mensuales operan en la informalidad",
+        "url": "https://www.portafolio.co/negocios/empresas/la-informalidad-alcanza-al-97-4-de-los-micronegocios-que-venden-menos-de-1-millon-al-mes-505297",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "La informalidad alcanza al 97,4 % de los micronegocios que venden menos de $1 millón al mes",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Adquisiciones de Halloween sobre el tiempo: el 82 % de los disfraces se despacha en una semana en Rappi",
+        "url": "https://www.portafolio.co/negocios/comercio/compras-de-halloween-a-ultima-hora-el-82-de-los-disfraces-se-vende-en-solo-una-semana-en-rappi-505298",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Compras de Halloween a última hora: el 82 % de los disfraces se vende en solo una semana en Rappi",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Arturo Calle moderniza local en Barranquilla con $2.045 millones y suma área para su línea Resort",
+        "url": "https://www.portafolio.co/negocios/empresas/arturo-calle-renueva-su-tienda-en-barranquilla-con-una-inversion-de-2-045-millones-505287",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Arturo Calle renueva tienda en Barranquilla con inversión de $2.045 millones: incorpora espacio para línea Resort",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Crystal, propietaria de Gef y Punto Blanco, fue galardonada con el Mercurio de Oro por Fenalco",
+        "url": "https://www.portafolio.co/negocios/empresas/crystal-duena-de-gef-y-punto-blanco-recibio-el-galardon-mercurio-de-oro-de-fenalco-505285",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Crystal, dueña de Gef y Punto Blanco, recibió el galardón Mercurio de Oro de Fenalco",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Modernización del parque automotor y competitividad: los temas centrales del IV Congreso Andemos",
+        "url": "https://www.portafolio.co/negocios/empresas/renovacion-del-parque-automotor-y-competitividad-la-agenda-del-iv-congreso-andemos-505281",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Renovación del parque automotor y competitividad: la agenda del IV Congreso Andemos",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "El informe de Fedesarrollo indica que el optimismo de industriales y comerciantes subió en septiembre",
+        "url": "https://www.portafolio.co/negocios/empresas/la-confianza-de-comerciantes-e-industriales-mejoro-en-septiembre-segun-el-reporte-de-fedesarrollo-505276",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "La confianza de comerciantes e industriales mejoró en septiembre, según el reporte de Fedesarrollo",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
+      {
+        "titulo": "Desde el 19 de noviembre será obligatoria la trazabilidad minera y las empresas deben alistarse",
+        "url": "https://www.portafolio.co/negocios/empresas/la-trazabilidad-minera-sera-obligatoria-desde-el-19-de-noviembre-estan-listas-las-empresas-505280",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "La trazabilidad minera será obligatoria desde el 19 de noviembre: ¿están listas las empresas?",
+        "capturado": "2026-10-28T13:58:43-05:00"
+      },
       {
         "titulo": "El impacto Tesla acelera la disputa de tasas para créditos de carros en Colombia",
         "url": "https://www.portafolio.co/negocios/vehiculo/la-competencia-por-la-financiacion-de-carros-con-0-de-interes-estas-son-las-marcas-que-lo-ofrecen-y-sus-plazos-505253",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-10-24",
         "titulo_fuente": "Siete de cada diez colombianos recibieron intentos de fraude digital durante el último año",
         "capturado": "2026-10-24T09:45:00-05:00"
-      },
-      {
-        "titulo": "Analdex señala que Brasil lograría adquirir anualmente US$1.600 millones adicionales en bienes nacionales",
-        "url": "https://www.portafolio.co/negocios/comercio/brasil-podria-comprar-us-1-600-millones-mas-al-ano-en-productos-colombianos-segun-analdex-505032",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Brasil podría comprar US$1.600 millones más al año en productos colombianos, según Analdex",
-        "capturado": "2026-10-23T20:22:26-05:00"
-      },
-      {
-        "titulo": "La SIP reconoce a la Fundación Gabo por su contribución al desarrollo periodístico iberoamericano",
-        "url": "https://www.portafolio.co/negocios/industrias/la-sip-reconoce-a-la-fundacion-gabo-por-su-aporte-al-fortalecimiento-del-periodismo-en-iberoamerica-505026",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "La SIP exalta a la Fundación Gabo por su aporte al fortalecimiento del periodismo en Iberoamérica",
-        "capturado": "2026-10-23T20:22:26-05:00"
-      },
-      {
-        "titulo": "BYD lanza en Colombia la Ti7: híbrida enchufable con 349 caballos y autonomía superior a 1.000 km",
-        "url": "https://www.portafolio.co/negocios/vehiculo/byd-trae-a-colombia-la-ti7-la-nueva-hibrida-enchufable-con-349-caballos-de-fuerza-y-mas-de-1-000-km-de-autonomia-505014",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "BYD trae a Colombia la Ti7: la nueva híbrida enchufable con 349 caballos de fuerza y más de 1.000 km de autonomía",
-        "capturado": "2026-10-23T17:54:29-05:00"
-      },
-      {
-        "titulo": "The New York Times: la fórmula para pasar de lectores a suscriptores",
-        "url": "https://www.portafolio.co/negocios/industrias/the-new-york-times-la-receta-para-convertir-lectores-en-suscriptores-505007",
-        "resumen": "",
-        "autor": "Johana lorduy, constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "The New York Times: la receta para convertir lectores en suscriptores",
-        "capturado": "2026-10-23T17:54:29-05:00"
-      },
-      {
-        "titulo": "Firma colombiana apunta a ventas por más de $300.000 millones en moda y fútbol al 2030",
-        "url": "https://www.portafolio.co/negocios/empresas/la-empresa-colombiana-que-busca-vender-mas-de-300-000-millones-con-moda-y-futbol-para-505011",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "La empresa colombiana que busca vender más de $300.000 millones con moda y fútbol para 2030",
-        "capturado": "2026-10-23T17:54:29-05:00"
-      },
-      {
-        "titulo": "Preventa total del iPhone Duo en Colombia: el valor inicial del plegable de Apple se acerca a $15 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/iphone-duo-agoto-el-100-de-su-preventa-en-colombia-el-precio-del-primer-plegable-de-apple-roza-los-15-millones-505004",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "iPhone Duo agotó el 100% de su preventa en Colombia: el precio del primer plegable de Apple roza los $15 millones",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Crecimiento de pagos a una cuota con tarjeta de crédito: así cambian las costumbres de compra de la gente",
-        "url": "https://www.portafolio.co/negocios/comercio/auge-de-pagos-a-una-cuota-con-tarjeta-de-credito-asi-esta-modificando-la-gente-sus-habitos-de-pago-al-comprar-504997",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Auge de pagos a una cuota con tarjeta de crédito: así está modificando la gente sus hábitos de pago al comprar",
-        "capturado": "2026-10-23T14:47:41-05:00"
-      },
-      {
-        "titulo": "Conversación con Illumia Group en el Congreso Asocajas",
-        "url": "https://www.portafolio.co/negocios/empresas/entrevista-con-illumia-group-desde-el-congreso-asocajas-505001",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Entrevista con Illumia Group desde el Congreso Asocajas",
-        "capturado": "2026-10-23T14:47:41-05:00"
       }
     ]
   }
