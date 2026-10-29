@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-28T18:05:04-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-28T21:38:45-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Puntos de la contrarreforma pensional del Centro Democrático que rescata elegir entre Colpensiones y privados",
+        "url": "https://www.portafolio.co/economia/gobierno/los-detalles-de-la-contrarreforma-pensional-del-centro-democratico-que-retoma-elegir-entre-colpensiones-y-privados-505327",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Los detalles de la contrarreforma pensional del Centro Democrático que retoma elegir entre Colpensiones y privados",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
+      {
+        "titulo": "Venta de vehículos nuevos terminaría 2026 en 335.000 unidades, mas Andemos avisa que la demanda bajaría en 2027",
+        "url": "https://www.portafolio.co/economia/venta-de-carros-nuevos-cerraria-2026-en-335-000-unidades-pero-andemos-advierte-que-la-demanda-caeria-en-505306",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Venta de carros nuevos cerraría 2026 en 335.000 unidades, pero Andemos advierte que la demanda caería en 2027",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
+      {
+        "titulo": "Por primera vez en la historia, empleadas domésticas estarán en la concertación del salario mínimo",
+        "url": "https://www.portafolio.co/economia/empleo/por-primera-vez-en-la-historia-trabajadoras-domesticas-participaran-en-la-concertacion-del-salario-minimo-505326",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Por primera vez en la historia, trabajadoras domésticas participarán en la concertación del salario mínimo",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
       {
         "titulo": "Metro de Bogotá alcanza más del 83 % de avance en obras de la Línea 1 y detalla su inicio de operación",
         "url": "https://www.portafolio.co/economia/infraestructura/metro-de-bogota-supera-el-83-de-avance-asi-van-las-obras-de-la-linea-1-y-cuando-comenzaria-a-operar-505318",
@@ -573,39 +603,39 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "El valor que emitirá el Gobierno en bonos de deuda externa es de US$5.200 millones: estas son las tasas que pagará",
         "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Emisión estatal de De La Espriella supera $10,7 billones antes de bonos en dólares",
-        "url": "https://www.portafolio.co/economia/finanzas/emision-de-deuda-del-gobierno-de-la-espriella-mas-de-10-7-billones-previos-a-los-bonos-en-dolares-que-se-alistan-505170",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Emisión de deuda del Gobierno De La Espriella: más de $10,7 billones previos a los bonos en dólares que se alistan",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Avianca llega a Emiratos Árabes: volará un año la ruta Barcelona-Abu Dabi para Etihad",
-        "url": "https://www.portafolio.co/economia/avianca-aterriza-por-primera-vez-en-emiratos-arabes-unidos-operara-un-ano-la-ruta-barcelona-abu-dabi-para-etihad-505160",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Avianca aterriza por primera vez en Emiratos Árabes Unidos: operará un año la ruta Barcelona–Abu Dabi para Etihad",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio podría subir en navidad y vacaciones por diversos factores",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-podria-subir-a-fin-de-ano-en-plena-temporada-de-navidad-y-vacaciones-que-factores-influirian-en-su-precio-505164",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Dólar podría subir a fin de año en plena temporada de navidad y vacaciones: qué factores influirían en su precio",
-        "capturado": "2026-10-26T18:58:56-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Renault Filante, el crossover prémium de la marca",
+        "url": "https://www.portafolio.co/negocios/vehiculo/renault-filante-el-crossover-premium-de-la-marca-505329",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Renault Filante, el crossover ‘premium’ de la marca",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
+      {
+        "titulo": "Avianca Group prevé reducción de capacidad por jet fuel caro en 2027 y anuncia revisión de rutas",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-group-preve-que-la-capacidad-se-va-a-achicar-con-jet-fuel-caro-en-el-2027-y-anuncia-revision-de-rutas-505328",
+        "resumen": "",
+        "autor": "Jose caparroso, omar g. ahumada rojas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Avianca Group prevé que la capacidad 'se va a achicar' con jet fuel caro en el 2027 y anuncia revisión de rutas",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
+      {
+        "titulo": "Comerciantes solicitan anular arancel del 40% a prendas, quitar tributos a tenderos y modificar normas para Temu y Shein",
+        "url": "https://www.portafolio.co/negocios/comercio/fenalco-pide-tumbar-el-arancel-del-40-a-la-ropa-eliminar-impuestos-a-tenderos-y-cambiar-reglas-para-temu-y-shein-505325",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Comerciantes piden tumbar arancel de 40% a la ropa, eliminar impuestos a tenderos y cambiar reglas a Temu y Shein",
+        "capturado": "2026-10-28T21:38:45-05:00"
+      },
       {
         "titulo": "Firma nacional de herramientas prevé llegar a 4.500 ferreterías para el año 2027",
         "url": "https://www.portafolio.co/negocios/empresas/la-marca-colombiana-de-herramientas-que-proyecta-llegar-a-4-500-ferreterias-en-505324",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-25",
         "titulo_fuente": "Las líderes empresariales con mejor reputación en Colombia: Crepes & Waffles, Aval y Frisby entre las que puntean",
         "capturado": "2026-10-25T09:50:05-05:00"
-      },
-      {
-        "titulo": "Lorena Piñeiro Cortés asume como nueva rectora de la Universidad Ean",
-        "url": "https://www.portafolio.co/negocios/empresas/lorena-pineiro-cortes-sera-la-nueva-rectora-de-la-universidad-ean-505061",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Lorena Piñeiro Cortés será la nueva rectora de la Universidad Ean",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Aerolíneas en América Latina buscan superar los 0,69 viajes en avión por habitante: el reto para 2036",
-        "url": "https://www.portafolio.co/negocios/empresas/aerolineas-en-america-latina-buscan-superar-los-0-69-viajes-en-avion-por-habitante-el-reto-para-505059",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Aerolíneas en América Latina buscan superar los 0,69 viajes en avión por habitante: el reto para 2036",
-        "capturado": "2026-10-24T15:16:42-05:00"
-      },
-      {
-        "titulo": "Gobierno suprime 15 distritos mineros: qué cambia para 5,3 millones de hectáreas que abarcan el 5% del territorio",
-        "url": "https://www.portafolio.co/negocios/industrias/gobierno-elimina-15-distritos-mineros-que-cambia-para-5-3-millones-de-hectareas-que-abarcan-el-5-del-territorio-505051",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "Gobierno elimina 15 distritos mineros: qué cambia para 5,3 millones de hectáreas que abarcan el 5% del territorio",
-        "capturado": "2026-10-24T15:16:42-05:00"
       }
     ]
   }
