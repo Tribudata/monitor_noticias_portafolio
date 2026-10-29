@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-29T11:20:22-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-29T16:18:50-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Uniban aterriza en Córdoba: cultivará 600 hectáreas de banano y planea ampliar la siembra a 4.000",
+        "url": "https://www.portafolio.co/economia/agro/uniban-llega-a-cordoba-sembrara-600-hectareas-de-banano-y-proyecta-expandir-el-cultivo-a-4-505383",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Uniban llega a Córdoba: sembrará 600 hectáreas de banano y proyecta expandir el cultivo a 4.000",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "MinCiencias plantea acuerdo con cámaras de comercio para fomentar la innovación corporativa",
+        "url": "https://www.portafolio.co/economia/regiones/minciencias-propone-alianza-con-camaras-de-comercio-para-impulsar-la-innovacion-empresarial-505382",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "MinCiencias propone alianza con cámaras de comercio para impulsar la innovación empresarial",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Federación Nacional de Cafeteros y Gobierno efectúan su primer Comité Nacional con dos ministros",
+        "url": "https://www.portafolio.co/economia/gobierno/federacion-nacional-de-cafeteros-y-gobierno-realizan-su-primer-comite-nacional-con-la-presencia-de-dos-ministros-505377",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Federación Nacional de Cafeteros y Gobierno realizan su primer Comité Nacional con la presencia de dos ministros",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "No vamos a enterrar el Icetex: vicepresidente José Manuel Restrepo expone nuevos créditos para 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/no-vamos-a-enterrar-el-icetex-vicepresidente-jose-manuel-restrepo-presenta-nueva-oferta-de-creditos-para-505378",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "'No vamos a enterrar el Icetex': vicepresidente José Manuel Restrepo presenta nueva oferta de créditos para 2027",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "La espera concluyó: este jueves presentarán la Ley de Rescate Económico en el Congreso",
+        "url": "https://www.portafolio.co/economia/crecimiento/la-espera-termino-este-jueves-sera-radicada-la-ley-de-rescate-economico-en-el-congreso-de-la-republica-505373",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "La espera terminó: este jueves será radicada la Ley de Rescate Económico en el Congreso de la República",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Tasas de interés: qué rumbo adoptará el Banco de la República tras la medida de la Fed",
+        "url": "https://www.portafolio.co/economia/crecimiento/tasas-de-interes-que-camino-tomara-el-banco-de-la-republica-tras-la-decision-de-la-fed-505369",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Tasas de interés: ¿qué camino tomará el Banco de la República, tras la decisión de la Fed?",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Subsidio de cesantía en Colombia demora la búsqueda laboral y no eleva los sueldos de los contratados",
+        "url": "https://www.portafolio.co/economia/seguro-de-desempleo-en-colombia-alarga-la-busqueda-de-trabajo-pero-no-mejora-salarios-de-quienes-consiguen-empleo-505368",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Seguro de desempleo en Colombia alarga la búsqueda de trabajo, pero no mejora salarios de quienes consiguen empleo",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Ley de saneamiento fiscal en Colombia: Cárdenas solicita agilizar el debate previo a finalizar 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/ley-de-rescate-fiscal-en-colombia-cardenas-pide-acelerar-el-tramite-antes-de-que-finalice-el-ano-505367",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Ley de rescate fiscal en Colombia: Cárdenas pide acelerar el trámite antes de que finalice el año 2026",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
       {
         "titulo": "Prosperidad Social establece un nuevo plazo final para reclamar la ayuda de Renta Joven",
         "url": "https://www.portafolio.co/economia/gobierno/prosperidad-social-fija-nueva-fecha-limite-para-el-cobro-del-subsidio-renta-joven-505364",
@@ -523,89 +603,59 @@
         "publicacion": "2026-10-27",
         "titulo_fuente": "Superfinanciera advierte por brechas en el acceso al crédito formal entre las ciudades y zonas con menor desarrollo",
         "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "La discriminación por edad restringe la entrada al crédito de los adultos mayores en el país",
-        "url": "https://www.portafolio.co/economia/finanzas/discriminacion-por-edad-limita-el-acceso-al-credito-de-los-adultos-mayores-en-colombia-505217",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Discriminación por edad limita el acceso al crédito de los adultos mayores en Colombia",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Calle 26, NQS, Autopista Norte y Séptima figuran entre los 19 corredores con límite nocturno de Halloween",
-        "url": "https://www.portafolio.co/economia/autopista-norte-nqs-calle-26-y-septima-entre-los-19-corredores-con-restriccion-nocturna-en-halloween-en-bogota-505203",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Autopista Norte, NQS, calle 26 y Séptima, entre los 19 corredores con restricción nocturna en Halloween en Bogotá",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Dian vigila mercancías por más de $14.782 millones en tres terminales marítimas de Buenaventura",
-        "url": "https://www.portafolio.co/economia/regiones/dian-pone-bajo-control-mercancias-por-mas-de-14-782-millones-en-tres-puertos-de-buenaventura-505210",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Dian pone bajo control mercancías por más de $14.782 millones en tres puertos de Buenaventura",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Qué competencias en inteligencia artificial solicitan las compañías en Colombia y cómo sobresalir",
-        "url": "https://www.portafolio.co/economia/finanzas/cuales-son-las-habilidades-en-inteligencia-artificial-que-buscan-las-empresas-en-colombia-y-como-destacarlas-505206",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "¿Cuáles son las habilidades en inteligencia artificial que buscan las empresas en Colombia y cómo destacarlas?",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Bogotá inicia concurso por PTAR Canoas, megaobra ambiental de $600.000 millones al año que buscan empresas",
-        "url": "https://www.portafolio.co/economia/infraestructura/bogota-abre-la-licitacion-de-la-megaobra-ambiental-de-600-000-millones-anuales-firmas-se-disputan-la-ptar-canoas-505204",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Bogotá abre la licitación de la megaobra ambiental de $600.000 millones anuales: firmas se disputan la PTAR Canoas",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia este 27 de octubre baja 1,77 % y llega a $3.490,60",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-en-colombia-hoy-27-de-octubre-cotizacion-cae-1-77-y-se-ubica-en-3-490-505202",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Euro en Colombia hoy 27 de octubre: cotización cae 1,77 % y se ubica en $3.490,60",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Estados Unidos reunirá en Barranquilla a 44 emprendedores de varias naciones",
-        "url": "https://www.portafolio.co/economia/regiones/estados-unidos-llevara-a-barranquilla-un-encuentro-con-44-emprendedores-de-distintos-paises-505200",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Estados Unidos llevará a Barranquilla un encuentro con 44 emprendedores de distintos países",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Salida de Brigitte Baptiste en la Universidad Ean da inicio a una nueva etapa",
-        "url": "https://www.portafolio.co/economia/relevo-en-la-universidad-ean-marca-nuevo-ciclo-tras-la-salida-de-brigitte-baptiste-505196",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Relevo en la Universidad Ean marca nuevo ciclo, tras la salida de Brigitte Baptiste",
-        "capturado": "2026-10-27T10:57:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Grupo Nutresa finaliza compra de Tío Rico y asume el manejo de su operación heladera en Venezuela",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-completa-adquisicion-de-tio-rico-y-toma-el-control-de-su-negocio-de-helados-en-venezuela-505381",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Grupo Nutresa completa adquisición de Tío Rico y toma el control de su negocio de helados en Venezuela",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Precio, entregas y calidad: estrategias de marcas locales frente a Shein y Temu",
+        "url": "https://www.portafolio.co/negocios/empresas/calidad-precio-y-entregas-las-cartas-de-las-marcas-colombianas-frente-a-temu-y-shein-505379",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Calidad, precio y entregas: las cartas de las marcas colombianas frente a Temu y Shein",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Coca-Cola Femsa creció 40,5% en ventas en Colombia entre julio y septiembre y 24,7% a septiembre",
+        "url": "https://www.portafolio.co/negocios/industrias/coca-cola-femsa-aumento-40-5-sus-ingresos-en-colombia-en-el-tercer-trimestre-y-24-7-a-septiembre-505372",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Coca-Cola Femsa aumentó 40,5% sus ingresos en Colombia en el tercer trimestre y 24,7% a septiembre",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Firma colombiana de café especial analiza abrir un establecimiento en China",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-marca-colombiana-de-cafe-de-especialidad-que-evalua-llegar-hasta-china-con-una-tienda-505371",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "La marca colombiana de café de especialidad que evalúa llegar a China con una tienda",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
+      {
+        "titulo": "Alerta en Halloween: hurtos de chocolates y dulces en almacenes crecieron 25%",
+        "url": "https://www.portafolio.co/negocios/industrias/ojo-en-halloween-dulces-y-chocolates-el-blanco-de-los-ladrones-en-supermercados-los-robos-subieron-505363",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Ojo en Halloween: Dulces y chocolates, el blanco de los ladrones en supermercados, los robos subieron 25%",
+        "capturado": "2026-10-29T16:18:50-05:00"
+      },
       {
         "titulo": "Alianza entre Cámara de Comercio de Montería e instituto brasileño busca fomentar innovación agrícola",
         "url": "https://www.portafolio.co/negocios/empresas/camara-de-comercio-de-monteria-firma-acuerdo-con-instituto-brasileno-para-impulsar-la-innovacion-del-agro-505347",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "Coosalud busca recuperar la confianza: estas son las cifras de pagos, consultas y procedimientos realizados",
         "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Coosalud contesta a acusaciones de gastos en establecimiento nocturno y lupanar en medio de toma oficial",
-        "url": "https://www.portafolio.co/negocios/empresas/coosalud-responde-a-denuncias-sobre-pagos-en-casino-y-prostibulo-durante-intervencion-del-gobierno-505136",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Coosalud responde a denuncias sobre pagos en casino y prostíbulo durante intervención del Gobierno",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Vanti cambiaría de dueño: Brookfield analizaría enajenar su cuota accionarial",
-        "url": "https://www.portafolio.co/negocios/empresas/vanti-podria-cambiar-de-accionista-brookfield-exploraria-la-venta-de-su-participacion-505131",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Vanti podría cambiar de accionista: Brookfield exploraría la venta de su participación",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Agua Bendita y Falabella presentan línea de ropa y hogar en tres naciones",
-        "url": "https://www.portafolio.co/negocios/empresas/agua-bendita-y-falabella-lanzan-coleccion-de-moda-y-decoracion-en-tres-paises-505123",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Agua Bendita y Falabella lanzan colección de moda y decoración en tres países",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Investigan a Coosalud por supuestos gastos en casino y prostíbulo bajo la intervención estatal",
-        "url": "https://www.portafolio.co/negocios/empresas/coosalud-bajo-la-lupa-reportan-presuntos-pagos-en-casino-y-prostibulo-durante-intervencion-del-gobierno-petro-505122",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Coosalud bajo la lupa: reportan presuntos pagos en casino y prostíbulo durante intervención del Gobierno Petro",
-        "capturado": "2026-10-26T09:29:10-05:00"
-      },
-      {
-        "titulo": "Tesla otorga crédito con tasa del 0% en Colombia para Model 3 y Model Y: pasos para aplicar",
-        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-ofrece-financiacion-al-0-de-interes-en-colombia-para-model-3-y-model-y-asi-puede-acceder-505120",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Tesla ofrece financiación al 0% de interés en Colombia para Model 3 y Model Y: así puede acceder",
-        "capturado": "2026-10-26T09:29:10-05:00"
       }
     ]
   }
