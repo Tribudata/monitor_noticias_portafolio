@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-28T21:38:45-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-29T04:23:52-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Envios de dinero alcanzan cerca de US$10.000 millones en el tercer trimestre",
+        "url": "https://www.portafolio.co/economia/finanzas/en-tercer-trimestre-remesas-bordean-us-10-000-millones-505338",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "En tercer trimestre remesas bordean US$10.000 millones",
+        "capturado": "2026-10-29T04:23:52-05:00"
+      },
       {
         "titulo": "Puntos de la contrarreforma pensional del Centro Democrático que rescata elegir entre Colpensiones y privados",
         "url": "https://www.portafolio.co/economia/gobierno/los-detalles-de-la-contrarreforma-pensional-del-centro-democratico-que-retoma-elegir-entre-colpensiones-y-privados-505327",
@@ -593,19 +603,19 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "Acción de Nu en el Mercado Global Colombiano está por llegar al primer billón de pesos negociado",
         "capturado": "2026-10-26T23:48:35-05:00"
-      },
-      {
-        "titulo": "Gobierno emitirá US$5.200 millones en bonos externos y estas serán sus tasas",
-        "url": "https://www.portafolio.co/economia/finanzas/el-valor-que-emitira-el-gobierno-en-bonos-de-deuda-externa-es-de-us-5-200-millones-estas-son-las-tasas-que-pagara-505172",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "El valor que emitirá el Gobierno en bonos de deuda externa es de US$5.200 millones: estas son las tasas que pagará",
-        "capturado": "2026-10-26T18:58:56-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Disminuiría la cantidad de enseñas automotrices chinas",
+        "url": "https://www.portafolio.co/negocios/vehiculo/habria-menos-marcas-de-autos-chinos-505330",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Habría menos marcas de autos chinos",
+        "capturado": "2026-10-29T04:23:52-05:00"
+      },
       {
         "titulo": "Renault Filante, el crossover prémium de la marca",
         "url": "https://www.portafolio.co/negocios/vehiculo/renault-filante-el-crossover-premium-de-la-marca-505329",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-10-25",
         "titulo_fuente": "Divemotor acelera su expansión en Colombia: tiene más de US$20 millones en repuestos y abrirá nuevas sedes",
         "capturado": "2026-10-25T13:09:20-05:00"
-      },
-      {
-        "titulo": "Crepes & Waffles, Aval y Frisby figuran entre las directivas corporativas con mayor prestigio nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/las-lideres-empresariales-con-mejor-reputacion-en-colombia-crepes-waffles-aval-y-frisby-entre-las-que-puntean-505070",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-25",
-        "titulo_fuente": "Las líderes empresariales con mejor reputación en Colombia: Crepes & Waffles, Aval y Frisby entre las que puntean",
-        "capturado": "2026-10-25T09:50:05-05:00"
       }
     ]
   }
