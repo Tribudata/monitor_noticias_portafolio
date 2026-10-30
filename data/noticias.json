@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-30T09:51:00-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-30T14:50:53-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Emisor adquirirá US$2.000 millones al Ejecutivo: así será la transacción antes de concluir 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-comprara-us-2-000-millones-al-gobierno-asi-se-hara-la-operacion-antes-de-finalizar-505450",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Banco de la República comprará US$2.000 millones al Gobierno: así se hará la operación antes de finalizar 2026",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Emisor respalda la ley de salvavidas fiscal propuesta por el gobierno De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-ve-con-buenos-ojos-la-ley-de-rescate-fiscal-presentada-por-el-gobierno-de-la-espriella-505449",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Banco de la República ve con buenos ojos la ley de rescate fiscal presentada por el gobierno De La Espriella",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Emisor optó por conservar sin cambios el interés en 12,25%",
+        "url": "https://www.portafolio.co/economia/crecimiento/banco-de-la-republica-decidio-mantener-estable-la-tasa-de-interes-en-12-505448",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Banco de la República decidió mantener estable la tasa de interés en 12,25%",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Qué determinación adoptó el Emisor frente a sus tasas de interés",
+        "url": "https://www.portafolio.co/economia/crecimiento/que-decision-tomo-el-banco-de-la-republica-sobre-sus-tasas-de-interes-505445",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "¿Qué decisión tomó el Banco de la República sobre sus tasas de interés?",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Citi señala que la Ley de Rescate estabilizaría el pasivo mas no lo disminuiría",
+        "url": "https://www.portafolio.co/economia/impuestos/banca-internacional-opina-citi-advierte-que-la-ley-de-rescate-podria-estabilizar-la-deuda-pero-no-reducirla-505442",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Banca internacional opina: Citi advierte que la Ley de Rescate podría estabilizar la deuda, pero no reducirla",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Vía terrestre o aérea: sugerencias de Movilidad y Aerocivil para desplazarse en el puente festivo",
+        "url": "https://www.portafolio.co/economia/por-carretera-o-en-avion-las-recomendaciones-de-movilidad-y-aerocivil-para-viajar-en-el-puente-de-halloween-505441",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Por carretera o en avión: las recomendaciones de Movilidad y Aerocivil para viajar en el puente de Halloween",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "A pesar de los gastos, colombianos siguen viajando; van 44,1 millones de viajeros en nueve meses",
+        "url": "https://www.portafolio.co/economia/pese-a-los-costos-los-colombianos-siguen-volando-ya-van-44-1-millones-de-pasajeros-en-nueve-meses-505424",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Pese a los costos, los colombianos siguen volando; ya van 44,1 millones de pasajeros en nueve meses",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Inflación continúa como principal inquietud macroeconómica para la estrategia inversora de aseguradoras",
+        "url": "https://www.portafolio.co/economia/finanzas/inflacion-sigue-siendo-la-principal-preocupacion-macroeconomica-para-la-estrategia-de-inversion-de-las-aseguradoras-505439",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Inflación sigue siendo la principal preocupación macroeconómica para la estrategia de inversión de las aseguradoras",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Coosalud EPS saldría de intervención: Supersalud acatará fallo y retornará su administración",
+        "url": "https://www.portafolio.co/economia/gobierno/coosalud-eps-se-prepara-para-salir-de-intervencion-supersalud-acatara-orden-judicial-y-devolvera-su-administracion-505433",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Coosalud EPS se prepara para salir de intervención: Supersalud acatará orden judicial y devolverá su administración",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Cotización del euro el 30 de octubre: la divisa sube de nuevo y suma tres días al alza",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-30-de-octubre-la-moneda-vuelve-a-subir-y-completa-tres-jornadas-al-alza-505431",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Precio del euro hoy 30 de octubre: la moneda vuelve a subir y completa tres jornadas al alza",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Megaproyectos gozarían de exenciones por 16 años: así operaría el nuevo marco de la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/megaproyectos-tendrian-beneficios-tributarios-por-16-anos-asi-funcionaria-el-nuevo-regimen-de-la-ley-de-rescate-505430",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Megaproyectos tendrían beneficios tributarios por 16 años: así funcionaría el nuevo régimen de la Ley de Rescate",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Compañías abonarían menor impuesto de renta, pero mayores gastos laborales con la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/empresas-pagarian-menos-impuesto-de-renta-pero-mas-costos-de-nomina-con-el-proyecto-de-la-ley-de-rescate-505425",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Empresas pagarían menos impuesto de renta, pero más costos de nómina con el proyecto de la Ley de Rescate",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Ley de rescate: modificaciones en declaración de renta afectarían las finanzas desde 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-cambios-en-declaracion-de-renta-tocaria-el-bolsillo-de-mas-colombianos-a-partir-del-ano-505429",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Ley de rescate: cambios en declaración de renta tocaría el bolsillo de más colombianos a partir del año 2027",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Minuto a minuto: ¿La ley de rescate fiscal elevará el IVA? Ejecutivo precisa los alcances",
+        "url": "https://www.portafolio.co/economia/crecimiento/minuto-a-minuto-asi-reacciona-el-pais-a-proyecto-de-ley-de-rescate-fiscal-radicado-por-el-gobierno-de-la-espriella-505422",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Minuto a minuto: ¿La ley de rescate fiscal aumentará el IVA? Gobierno aclara los alcances del proyecto",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "La revisión a la propuesta de ley de rescate fiscal",
+        "url": "https://www.portafolio.co/economia/crecimiento/el-analisis-al-proyecto-de-ley-de-rescate-fiscal-505427",
+        "resumen": "",
+        "autor": "Omar g. ahumada rojas, leidy julieth ruiz clavijo",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "El análisis al proyecto de ley de rescate fiscal",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Desocupación en Colombia cayó a 8% en septiembre: 322.000 ocupados adicionales ante 2025",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-desempleo-en-colombia-bajo-al-8-en-septiembre-322-000-personas-mas-con-trabajo-frente-a-505426",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Desempleo en Colombia bajó al 8% en septiembre: 322.000 personas más con trabajo frente a 2025",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
       {
         "titulo": "Gobierno plantea eliminar el impuesto al patrimonio en 2031 y reducir el universo de contribuyentes",
         "url": "https://www.portafolio.co/economia/gobierno/el-impuesto-al-patrimonio-desapareceria-en-2031-y-menos-personas-tendrian-que-pagarlo-esto-propuso-el-gobierno-505423",
@@ -443,169 +603,49 @@
         "publicacion": "2026-10-28",
         "titulo_fuente": "Metro de Bogotá supera el 83 % de avance: así van las obras de la Línea 1 y cuándo comenzaría a operar",
         "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Itaú proyecta déficit fiscal del 7,5% del PIB en 2026 y ve la ley de ajuste vital para la confianza",
-        "url": "https://www.portafolio.co/economia/itau-calcula-deficit-fiscal-de-7-5-del-pib-en-2026-y-senala-la-ley-de-ajuste-como-clave-para-recuperar-confianza-505317",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Itaú calcula déficit fiscal de 7,5% del PIB en 2026 y señala la ley de ajuste como clave para recuperar confianza",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Inseguridad desploma ventas hasta un 73% en Cúcuta y comerciantes demandan respuestas efectivas",
-        "url": "https://www.portafolio.co/economia/regiones/ventas-han-caido-hasta-en-un-73-por-la-crisis-de-inseguridad-comerciantes-de-cucuta-exigen-soluciones-concretas-505311",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Ventas han caído hasta en un 73% por la crisis de inseguridad: comerciantes de Cúcuta exigen soluciones concretas",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Temas que Ecopetrol presentará ante el Congreso en su debate de control político",
-        "url": "https://www.portafolio.co/economia/gobierno/las-cuentas-que-ecopetrol-debera-rendir-en-el-debate-de-control-politico-con-el-congreso-de-la-republica-505310",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Las cuentas que Ecopetrol deberá rendir en el debate de control político con el Congreso de la República",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Cuál es el nivel de endeudamiento actual en Colombia",
-        "url": "https://www.portafolio.co/economia/crecimiento/que-tan-endeudada-esta-colombia-505307",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "¿Qué tan endeudada está Colombia?",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Cámara corrige artículos de la reforma pensional exigidos por la Corte Constitucional",
-        "url": "https://www.portafolio.co/economia/reforma-pensional-camara-de-representantes-subsano-los-articulos-que-la-corte-constitucional-pidio-revisar-505304",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Reforma pensional: Cámara de Representantes subsanó los artículos que la Corte Constitucional pidió revisar",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Resultados del megaoperativo de De La Espriella en Bogotá bajo la Operación Kratos",
-        "url": "https://www.portafolio.co/economia/regiones/operacion-kratos-en-bogota-asi-le-fue-al-megaoperativo-de-de-la-espriella-en-la-capital-del-pais-505296",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Operación Kratos en Bogotá: así le fue al megaoperativo de De La Espriella en la capital del país",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Oxford Economics advierte que Colombia debe ajustar 4,2 puntos del PIB para su deuda",
-        "url": "https://www.portafolio.co/economia/finanzas/colombia-tendria-que-ajustar-4-2-puntos-del-pib-para-estabilizar-su-deuda-publica-advierte-oxford-economics-505293",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Colombia tendría que ajustar 4,2 puntos del PIB para estabilizar su deuda pública, advierte Oxford Economics",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Bogotá registra más hogares unipersonales y el promedio de personas por hogar bajó a 2,7 en 2025",
-        "url": "https://www.portafolio.co/economia/bogota-tiene-cada-vez-mas-hogares-unipersonales-el-promedio-de-personas-por-hogar-cayo-a-2-7-en-505292",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Bogotá tiene cada vez más hogares unipersonales: el promedio de personas por hogar cayó a 2,7 en 2025",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Mercados de 2026 sentirán presión por materias primas más costosas como energía, metales y petróleo",
-        "url": "https://www.portafolio.co/economia/agro/el-mundo-se-prepara-para-materias-primas-mas-caras-energia-metales-y-petroleo-presionaran-los-mercados-en-505289",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "El mundo se prepara para materias primas más caras: energía, metales y petróleo presionarán los mercados en 2026",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Precio del euro en Colombia: la divisa europea sube y se aproxima a los 3500 pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-hoy-en-colombia-la-moneda-europea-repunta-y-se-acerca-a-los-3-505291",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Euro hoy en Colombia: la moneda europea repunta y se acerca a los $3.500",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Programa de inglés gratis para mayores de 50 años: conozca cómo postularse",
-        "url": "https://www.portafolio.co/economia/regiones/adultos-mayores-de-50-anos-podran-acceder-a-programa-de-ingles-gratuito-asi-puede-aplicar-505288",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Adultos mayores de 50 años podrán acceder a programa de inglés gratuito: así puede aplicar",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Corte ampara a dos mujeres que disputan igual pensión y manda dividir temporalmente el pago",
-        "url": "https://www.portafolio.co/economia/corte-protege-a-dos-mujeres-que-reclaman-la-misma-pension-y-ordena-repartir-provisionalmente-la-mesada-505283",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Corte protege a dos mujeres que reclaman la misma pensión y ordena repartir provisionalmente la mesada",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Movilidad permite cuatro cortes de vía cerca a El Campín por Halloween; uno hasta el 2 de noviembre",
-        "url": "https://www.portafolio.co/economia/movilidad-autoriza-cuatro-cierres-viales-alrededor-de-el-campin-por-halloween-uno-ira-hasta-el-2-de-noviembre-505272",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Movilidad autoriza cuatro cierres viales alrededor de El Campín por Halloween; uno irá hasta el 2 de noviembre",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella busca que EE. UU. quite aranceles hasta el 0%: este es el plan",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-busca-que-ee-uu-elimine-aranceles-hasta-llegar-a-0-este-es-el-plan-505279",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Abelardo De La Espriella busca que EE. UU. elimine aranceles hasta llegar a 0%: este es el plan",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Bolsa de Colombia cambia: esta es la nueva imagen que lucirá tras casi cien años de existencia",
-        "url": "https://www.portafolio.co/economia/finanzas/bolsa-de-colombia-evoluciona-esta-es-la-nueva-cara-que-tendra-tras-casi-un-siglo-de-historia-505273",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Bolsa de Colombia evoluciona: esta es la nueva 'cara' que tendrá tras casi un siglo de historia",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Ministro de Vivienda y hoteleros hablarán en Bucaramanga sobre el impacto del alojamiento turístico",
-        "url": "https://www.portafolio.co/economia/ministro-de-vivienda-y-hoteleros-discutiran-en-bucaramanga-el-efecto-del-alojamiento-turistico-en-las-ciudades-505267",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Ministro de Vivienda y hoteleros discutirán en Bucaramanga el efecto del alojamiento turístico en las ciudades",
-        "capturado": "2026-10-28T13:58:43-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "A 54% de las firmas se le dificulta hallar destrezas reales de contratados por perfiles optimizados con IA",
+        "url": "https://www.portafolio.co/negocios/empresas/por-perfiles-mejorados-con-ia-a-54-de-las-empresas-les-cuesta-detectar-habilidades-reales-de-quienes-contratan-505447",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Por perfiles mejorados con IA, a 54% de las empresas les cuesta detectar habilidades reales de quienes contratan",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Fraude y ciberataques obstaculizan la expansión digital de las pequeñas y medianas empresas en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/ciberataques-y-fraude-la-amenaza-que-frena-el-crecimiento-digital-de-las-pymes-en-colombia-505440",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Ciberataques y fraude: la amenaza que frena el crecimiento digital de las pymes en Colombia",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Casaideas inaugura su segundo local en Medellín y planea nuevas inversiones en territorio nacional",
+        "url": "https://www.portafolio.co/negocios/comercio/casaideas-abre-su-segunda-tienda-en-medellin-y-proyecta-nuevas-inversiones-en-colombia-505432",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Casaideas abre su segunda tienda en Medellín y proyecta nuevas inversiones en Colombia",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
+      {
+        "titulo": "Crece la ingesta de bebidas hidratantes en el país: Colombina saca paleta de agua con electrolitos",
+        "url": "https://www.portafolio.co/negocios/empresas/avanza-el-consumo-de-bebidas-hidratantes-en-colombia-colombina-lanza-paleta-de-agua-con-electrolitos-505421",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Avanza el consumo de bebidas hidratantes en Colombia: Colombina lanza paleta de agua con electrolitos",
+        "capturado": "2026-10-30T14:50:53-05:00"
+      },
       {
         "titulo": "Los límites establecidos por el comité de la Andi para el reemplazo de Bruce Mac Master",
         "url": "https://www.portafolio.co/negocios/empresas/la-linea-roja-que-trazo-la-junta-de-la-andi-al-sucesor-de-bruce-mac-master-505416",
@@ -1164,46 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-10-26",
         "titulo_fuente": "Gobierno anuncia cambios para agilizar la devolución del IVA de carros eléctricos e híbridos: así serán las citas",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Altoque enfoca su estrategia en aportes de comida, reducción de plástico y respaldo a creadores",
-        "url": "https://www.portafolio.co/negocios/comercio/donacion-de-alimentos-menos-plastico-y-apoyo-a-emprendedores-esta-es-la-apuesta-de-altoque-505168",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Donación de alimentos, menos plástico y apoyo a emprendedores: esta es la apuesta de Altoque",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Firma Rifle expone su plan para rivalizar con Temu y Shein y elevar sus ventas 13% para 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/la-marca-rifle-revela-como-busca-competir-con-las-plataformas-chinas-y-crecer-13-en-505166",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Marca Rifle revela cómo busca competir con plataformas chinas como Temu y Shein y crecer 13% en 2026",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Compañías buscan ampliar su plantilla pero hallan postulantes con pretensiones salariales elevadas",
-        "url": "https://www.portafolio.co/negocios/comercio/empresas-quieren-contratar-mas-personal-pero-chocan-con-candidatos-que-tienen-altas-aspiraciones-salariales-505161",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Empresas quieren contratar más personal, pero chocan con candidatos que tienen altas aspiraciones salariales",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Constructora Bolívar comercializó 6.000 hogares al cierre del semestre y mantiene su meta de 3 billones",
-        "url": "https://www.portafolio.co/negocios/empresas/constructora-bolivar-vendio-6-000-viviendas-en-el-primer-semestre-y-sostiene-su-meta-de-3-billones-para-este-ano-505125",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Constructora Bolívar vendió 6.000 viviendas en el primer semestre y sostiene su meta de $3 billones para este año",
         "capturado": "2026-10-26T18:58:56-05:00"
       }
     ]
