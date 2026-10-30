@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-30T14:50:53-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-30T18:28:10-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Rendón contacta de nuevo a Elon Musk con la misma oferta para SpaceX en Antioquia planteada en mayo",
+        "url": "https://www.portafolio.co/economia/regiones/rendon-vuelve-a-buscar-a-elon-musk-la-propuesta-para-spacex-en-antioquia-que-ya-habia-hecho-en-mayo-505470",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Rendón vuelve a buscar a Elon Musk: la propuesta para SpaceX en Antioquia que ya había hecho en mayo",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Satena analiza trayectos a Miami, San Andrés y Costa Rica, sumando destinos en Brasil y Venezuela",
+        "url": "https://www.portafolio.co/economia/satena-estudia-rutas-monteria-miami-y-san-andres-costa-rica-asi-como-otros-destinos-en-brasil-y-venezuela-505469",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Satena estudia rutas Montería-Miami y San Andrés-Costa Rica; así como otros destinos en Brasil y Venezuela",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Plan 10-20-30: Ejecutivo proyecta diez millones de viajeros y US$ 20.000 millones en divisas al 2030",
+        "url": "https://www.portafolio.co/economia/gobierno/hoja-de-ruta-10-20-30-gobierno-apuesta-por-diez-millones-de-turistas-y-us-20-000-millones-en-divisas-a-505468",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Hoja de ruta 10-20-30: Gobierno apuesta por diez millones de turistas y US$ 20.000 millones en divisas a 2030",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Tasa de usura para créditos de consumo en noviembre será 28,34% efectivo anual según Superfinanciera",
+        "url": "https://www.portafolio.co/economia/finanzas/creditos-de-consumo-tendran-nuevo-tope-de-usura-en-noviembre-superfinanciera-lo-certifico-en-28-34-efectivo-anual-505461",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Créditos de consumo tendrán nuevo tope de usura en noviembre: Superfinanciera lo certificó en 28,34% efectivo anual",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Capturan a jueza que ordenó liberar a ciudadano neerlandés bajo indicios de pacto financiero ilegal",
+        "url": "https://www.portafolio.co/economia/gobierno/jueza-que-ordeno-libertad-de-ciudadano-neerlandes-fue-capturada-investigan-presunto-acuerdo-millonario-505454",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Jueza que ordenó libertad de ciudadano neerlandés fue capturada: investigan presunto acuerdo millonario",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Minvivienda afirma que subsidios VIS persistirán con la Ley de Rescate Fiscal y exige más recursos",
+        "url": "https://www.portafolio.co/economia/exclusivo-minvivienda-beneficios-vis-se-van-a-mantener-con-la-ley-de-rescate-fiscal-pero-pide-mas-inversion-505443",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Exclusivo| Minvivienda: beneficios VIS ‘se van a mantener’ con la Ley de Rescate Fiscal pero pide más inversión",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
       {
         "titulo": "Emisor adquirirá US$2.000 millones al Ejecutivo: así será la transacción antes de concluir 2026",
         "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-comprara-us-2-000-millones-al-gobierno-asi-se-hara-la-operacion-antes-de-finalizar-505450",
@@ -543,69 +603,79 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Minsalud e Invima buscan medidas para encarar la ilegalidad en medicamentos ante más de 10.600 reportes mensuales",
         "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Ministro de Comercio sugiere examinar el IVA a compras en Temu, Shein y Amazon para igualar condiciones",
-        "url": "https://www.portafolio.co/economia/gobierno/ministro-de-comercio-propone-revisar-el-pago-de-iva-a-compras-por-temu-shein-y-amazon-505340",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Ministro de Comercio propone revisar el pago de IVA a compras por Temu, Shein y Amazon: 'Hay que nivelar la cancha'",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Envios de dinero alcanzan cerca de US$10.000 millones en el tercer trimestre",
-        "url": "https://www.portafolio.co/economia/finanzas/en-tercer-trimestre-remesas-bordean-us-10-000-millones-505338",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "En tercer trimestre remesas bordean US$10.000 millones",
-        "capturado": "2026-10-29T04:23:52-05:00"
-      },
-      {
-        "titulo": "Puntos de la contrarreforma pensional del Centro Democrático que rescata elegir entre Colpensiones y privados",
-        "url": "https://www.portafolio.co/economia/gobierno/los-detalles-de-la-contrarreforma-pensional-del-centro-democratico-que-retoma-elegir-entre-colpensiones-y-privados-505327",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Los detalles de la contrarreforma pensional del Centro Democrático que retoma elegir entre Colpensiones y privados",
-        "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Venta de vehículos nuevos terminaría 2026 en 335.000 unidades, mas Andemos avisa que la demanda bajaría en 2027",
-        "url": "https://www.portafolio.co/economia/venta-de-carros-nuevos-cerraria-2026-en-335-000-unidades-pero-andemos-advierte-que-la-demanda-caeria-en-505306",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Venta de carros nuevos cerraría 2026 en 335.000 unidades, pero Andemos advierte que la demanda caería en 2027",
-        "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Por primera vez en la historia, empleadas domésticas estarán en la concertación del salario mínimo",
-        "url": "https://www.portafolio.co/economia/empleo/por-primera-vez-en-la-historia-trabajadoras-domesticas-participaran-en-la-concertacion-del-salario-minimo-505326",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Por primera vez en la historia, trabajadoras domésticas participarán en la concertación del salario mínimo",
-        "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Metro de Bogotá alcanza más del 83 % de avance en obras de la Línea 1 y detalla su inicio de operación",
-        "url": "https://www.portafolio.co/economia/infraestructura/metro-de-bogota-supera-el-83-de-avance-asi-van-las-obras-de-la-linea-1-y-cuando-comenzaria-a-operar-505318",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Metro de Bogotá supera el 83 % de avance: así van las obras de la Línea 1 y cuándo comenzaría a operar",
-        "capturado": "2026-10-28T18:05:04-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "María Fernanda Suárez asume como la primera presidenta en los 156 años de historia del Banco de Bogotá",
+        "url": "https://www.portafolio.co/negocios/empresas/maria-fernanda-suarez-se-convierte-en-la-primera-presidenta-de-banco-de-bogota-en-156-anos-de-historia-505471",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "María Fernanda Suárez se convierte en la primera presidenta de Banco de Bogotá en 156 años de historia",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Gilinski continúa: Nutresa concreta la adquisición de La Universal en Ecuador y expande su dulcería",
+        "url": "https://www.portafolio.co/negocios/empresas/gilinski-no-para-nutresa-cierra-la-compra-de-la-universal-en-ecuador-y-amplia-su-negocio-de-chocolates-505472",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Gilinski no para: Nutresa cierra la compra de La Universal en Ecuador y amplía su negocio de chocolates",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "La SIC aprobó con rapidez la integración de Presto por parte de Nutresa y expuso los motivos",
+        "url": "https://www.portafolio.co/negocios/empresas/la-sic-dio-luz-verde-a-nutresa-para-integrar-a-presto-estas-fueron-las-razones-detras-de-la-decision-505463",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "En tiempo récord, la SIC dio luz verde a Nutresa para integrar a Presto: las razones detrás de la decisión",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "A septiembre de 2026, el Grupo Nutresa registró entradas por 15,4 billones de pesos",
+        "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-de-nutresa-cae-60-9-en-nueve-meses-de-2026-aunque-su-resultado-operativo-crecio-22-505462",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Grupo Nutresa reportó ingresos por $15,4 billones a corte de septiembre de 2026",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Wall Street ve caer a Intel cerca de un 30% a pesar de subir sus ingresos un 21% en el 3T de 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/intel-se-desploma-cerca-de-30-en-wall-street-pese-a-elevar-sus-ingresos-21-en-el-tercer-trimestre-de-505458",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Intel se desploma cerca de 30% en Wall Street pese a elevar sus ingresos 21% en el tercer trimestre de 2026",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Invima alerta sobre comercialización de galletas Oreo falsas en Colombia y da claves para detectarlas",
+        "url": "https://www.portafolio.co/negocios/comercio/invima-advierte-por-venta-de-galletas-oreo-fraudulentas-en-colombia-estas-son-las-senales-para-identificarlas-505453",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Invima advierte por venta de galletas Oreo fraudulentas en Colombia: estas son las señales para identificarlas",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
+      {
+        "titulo": "Frisby logra la certificación como Empresa B tras casi medio siglo de trayectoria empresarial",
+        "url": "https://www.portafolio.co/negocios/empresas/el-nuevo-logro-empresarial-de-frisby-se-certifico-como-empresa-b-tras-casi-50-anos-de-historia-505455",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "El nuevo logro empresarial de Frisby: se certificó como Empresa B tras casi 50 años de historia",
+        "capturado": "2026-10-30T18:28:10-05:00"
+      },
       {
         "titulo": "A 54% de las firmas se le dificulta hallar destrezas reales de contratados por perfiles optimizados con IA",
         "url": "https://www.portafolio.co/negocios/empresas/por-perfiles-mejorados-con-ia-a-54-de-las-empresas-les-cuesta-detectar-habilidades-reales-de-quienes-contratan-505447",
@@ -1135,76 +1205,6 @@
         "publicacion": "2026-10-27",
         "titulo_fuente": "El mayor reto de hoy con la IA: ir más allá de los pilotos y aprovecharla al máximo en el negocio",
         "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Bogotá limitará motos cinco noches en Halloween: horas sin parrillero y zonas impactadas",
-        "url": "https://www.portafolio.co/negocios/vehiculo/bogota-restringira-motos-durante-cinco-noches-por-halloween-horarios-sin-parrillero-y-vias-afectadas-505201",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Bogotá restringirá motos durante cinco noches por Halloween: horarios sin parrillero y vías afectadas",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Ventas de Wyndham alcanzan US$ 410 millones y sube su meta de ganancia por acción para finalizar 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/ingresos-de-wyndham-llegan-a-us-410-millones-y-eleva-su-meta-de-utilidad-por-accion-para-el-cierre-de-505192",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Ingresos de Wyndham llegan a US$ 410 millones y eleva su meta de utilidad por acción para el cierre de 2026",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "WTW pacta la adquisición de la división de corretaje de seguros de ARESS en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/wtw-acuerda-la-compra-del-negocio-de-corretaje-de-seguros-de-aress-en-colombia-505189",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "WTW acuerda la compra del negocio de corretaje de seguros de ARESS en Colombia",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Grupo Aval informa fin del pacto firmado por Corficolombiana con el Departamento de Justicia estadounidense",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-aval-anuncia-terminacion-de-acuerdo-suscrito-por-corficolombiana-con-el-departamento-de-justicia-de-ee-uu-505186",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Grupo Aval anuncia terminación de acuerdo suscrito por Corficolombiana con el Departamento de Justicia de EE. UU.",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "Compañías de seguros en Colombia ya cubrieron $1,08 billones en pagos por el sismo de agosto",
-        "url": "https://www.portafolio.co/negocios/empresas/aseguradoras-en-colombia-ya-pagaron-1-08-billones-por-indemnizaciones-tras-el-terremoto-de-agosto-505188",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Aseguradoras en Colombia ya pagaron $1,08 billones por indemnizaciones tras el terremoto de agosto",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "BYD compite con Tesla: vitrinas dan el Yuan Plus con crédito al 0% de interés a 36 meses",
-        "url": "https://www.portafolio.co/negocios/vehiculo/byd-contraataca-concesionarios-ofrecen-el-yuan-plus-tambien-con-financiacion-al-0-de-interes-a-36-meses-505182",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "BYD le planta cara a Tesla: concesionarios ofrecen el Yuan Plus con financiación al 0% de interés a 36 meses",
-        "capturado": "2026-10-27T10:57:27-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo informa modificaciones para acelerar el reembolso del IVA en vehículos híbridos y eléctricos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/gobierno-anuncia-cambios-para-agilizar-la-devolucion-del-iva-de-carros-electricos-e-hibridos-asi-seran-las-citas-505171",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Gobierno anuncia cambios para agilizar la devolución del IVA de carros eléctricos e híbridos: así serán las citas",
-        "capturado": "2026-10-26T18:58:56-05:00"
       }
     ]
   }
