@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-29T20:14:48-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-30T02:32:50-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Proponen auxilio, de un salario base, en la contrarreforma pensional",
+        "url": "https://www.portafolio.co/economia/gobierno/plantean-subsidio-a-un-minimo-en-la-contrarreforma-pensional-505402",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Plantean subsidio, a un mínimo, en la contrarreforma pensional",
+        "capturado": "2026-10-30T02:32:50-05:00"
+      },
+      {
+        "titulo": "Disminuye el piso de renta, aumentan tasas al consumo y varía el IVA: tributos que modificaría la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/baja-el-umbral-de-renta-suben-tarifas-al-consumo-y-cambia-el-iva-los-impuestos-que-cambiaria-la-ley-de-rescate-505401",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Baja el umbral de renta, suben tarifas al consumo y cambia el IVA: los impuestos que cambiaría la Ley de Rescate",
+        "capturado": "2026-10-30T02:32:50-05:00"
+      },
       {
         "titulo": "Gobierno modificaría cálculo pensional por alza del mínimo buscando ahorro de 4,1 billones de pesos",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-cambiaria-calculo-de-las-pensiones-por-el-aumento-del-salario-minimo-busca-un-beneficio-de-4-1-billones-505399",
@@ -582,26 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-10-27",
         "titulo_fuente": "De La Espriella le da espaldarazo a la Ministra del Trabajo y ordena un plan nacional para combatir la informalidad",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Minsalud solicita indagar 885000 millones entregados en seis días y reporta anomalías en fondos de salud",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-investigar-885-000-millones-asignados-en-seis-dias-denuncian-fallas-en-recursos-para-salud-505240",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Minsalud pide investigar $885.000 millones asignados en seis días: denuncian fallas en recursos para salud",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Ejecutivo pacta urgencia manifiesta con Thomas Greg para asegurar la emisión de pasaportes hasta 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-firmo-urgencia-manifiesta-con-thomas-greg-para-garantizar-expedicion-de-pasaportes-hasta-505241",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Gobierno firmó urgencia manifiesta con Thomas Greg para garantizar expedición de pasaportes hasta 2027",
         "capturado": "2026-10-27T19:15:02-05:00"
       }
     ],
