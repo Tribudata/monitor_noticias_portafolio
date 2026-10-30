@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-30T02:32:50-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-30T09:51:00-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno plantea eliminar el impuesto al patrimonio en 2031 y reducir el universo de contribuyentes",
+        "url": "https://www.portafolio.co/economia/gobierno/el-impuesto-al-patrimonio-desapareceria-en-2031-y-menos-personas-tendrian-que-pagarlo-esto-propuso-el-gobierno-505423",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "El impuesto al patrimonio desaparecería en 2031 y menos personas tendrían que pagarlo: esto propuso el Gobierno",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Café, frutas, azúcar, aceites y fertilizantes subirían al 19 % de IVA por Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/los-productos-que-la-ley-de-rescate-llevaria-al-19-de-iva-cafe-frutas-azucar-aceites-fertilizantes-y-mas-505419",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Los productos que la Ley de Rescate llevaría al 19 % de IVA: café, frutas, azúcar, aceites, fertilizantes y más",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Dólar sube antes de encuentro del Banco de la República que prevé alza en tasas de interés",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-dispara-previo-a-reunion-del-banco-de-la-republica-se-espera-un-aumento-de-la-tasa-de-interes-505420",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "El dólar se dispara previo a reunión del Banco de la República: se espera un aumento de la tasa de interés",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Plataformas como Temu y Shein pagarían 19 % de IVA sin importar monto según Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/ley-de-rescate-afecta-compras-por-temu-y-shein-compras-del-exterior-pagarian-iva-del-19-sin-importar-el-valor-505414",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Ley de Rescate obligaría a plataformas como Temu y Shein a pagar IVA del 19% sin importar el valor",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Cotizaciones en salud cambiarían por ley de rescate económico y así impactarían salarios",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-cambiaria-los-aportes-a-la-salud-asi-se-veria-afectado-el-salario-de-estos-trabajadores-505415",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Ley de rescate económico cambiaría los aportes a la salud: así se vería afectado el salario de estos trabajadores",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Consejo Gremial solicita que la Ley de Rescate Económico proteja el empleo formal y la inversión",
+        "url": "https://www.portafolio.co/economia/empleo/consejo-gremial-pide-que-la-ley-de-rescate-economico-no-afecte-la-inversion-ni-el-empleo-formal-505413",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empleo",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Consejo Gremial pide que la Ley de Rescate Económico no afecte la inversión ni el empleo formal",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Ajuste fiscal: el Ejecutivo evaluaría unificar carteras y bajar un 20% en costos de personal",
+        "url": "https://www.portafolio.co/economia/gobierno/plan-de-austeridad-gobierno-podria-fusionar-o-suprimir-ministerios-y-debera-recortar-en-20-los-gastos-de-nomina-505411",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Plan de austeridad: Gobierno podría fusionar o suprimir ministerios y deberá recortar en 20% los gastos de nómina",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Reforma al reintegro del IVA por ley de salvavidas financiero: surge EfectIva con reintegro total",
+        "url": "https://www.portafolio.co/economia/gobierno/devolucion-del-iva-cambiaria-con-ley-de-rescate-fiscal-nace-efectiva-y-propone-devolver-el-100-a-hogares-pobres-505409",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Devolución del IVA cambiaría con ley de rescate fiscal: nace EfectIva y propone devolver el 100% a hogares pobres",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Mayor tributo a tragos, tabacos y comestibles ultraprocesados según la reciente Ley de Rescate Fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-impuesto-a-licores-cigarrillos-y-bebidas-ultraproceadas-asi-quedaria-con-la-nueva-ley-de-rescate-fiscal-505408",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Más impuesto a licores, cigarrillos y bebidas ultraproceadas: así quedaría con la nueva Ley de Rescate Fiscal",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
       {
         "titulo": "Proponen auxilio, de un salario base, en la contrarreforma pensional",
         "url": "https://www.portafolio.co/economia/gobierno/plantean-subsidio-a-un-minimo-en-la-contrarreforma-pensional-505402",
@@ -513,99 +603,29 @@
         "publicacion": "2026-10-28",
         "titulo_fuente": "Ministro de Vivienda y hoteleros discutirán en Bucaramanga el efecto del alojamiento turístico en las ciudades",
         "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Así será el puente de la 112 con Novena: 226 metros de longitud, 300 toneladas y hasta 7,39 metros de alto",
-        "url": "https://www.portafolio.co/economia/infraestructura/asi-quedara-el-puente-de-la-112-con-novena-226-metros-de-largo-300-toneladas-y-una-altura-de-hasta-7-39-metros-505269",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Así quedará el puente de la 112 con Novena: 226 metros de largo, 300 toneladas y una altura de hasta 7,39 metros",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "El 28 % de los giros enviados al exterior desde Colombia corresponde a remesas y sostenimiento de parientes",
-        "url": "https://www.portafolio.co/economia/finanzas/remesas-y-ayuda-familiar-explican-el-28-de-las-transferencias-internacionales-desde-colombia-505266",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Remesas y ayuda familiar explican el 28 % de las transferencias internacionales desde Colombia",
-        "capturado": "2026-10-28T08:21:16-05:00"
-      },
-      {
-        "titulo": "La cotización del dólar en Colombia abre en descenso: la moneda comienza debajo de los 3.150 pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-inicia-a-la-baja-divisa-arranca-por-debajo-de-los-3-505264",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Precio del dólar en Colombia inicia a la baja: divisa arranca por debajo de los $3.150",
-        "capturado": "2026-10-28T08:21:16-05:00"
-      },
-      {
-        "titulo": "Arrancan los desembolsos de Colombia Mayor: 2,8 millones de abuelos obtendrán la ayuda desde este 28 de octubre",
-        "url": "https://www.portafolio.co/economia/gobierno/inician-los-pagos-de-colombia-mayor-2-8-millones-de-adultos-mayores-recibiran-el-subsidio-desde-hoy-28-de-octubre-505263",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Inician los pagos de Colombia Mayor: 2,8 millones de adultos mayores recibirán el subsidio desde hoy 28 de octubre",
-        "capturado": "2026-10-28T08:21:16-05:00"
-      },
-      {
-        "titulo": "Persiste el debate tras la decisión del Ejecutivo de ceder otra vez la elaboración de pasaportes a Thomas Greg",
-        "url": "https://www.portafolio.co/economia/gobierno/continua-la-polemica-luego-de-que-el-gobierno-entregara-de-nuevo-la-produccion-de-pasaportes-a-thomas-greg-505262",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Continúa la polémica luego de que el Gobierno entregara de nuevo la producción de pasaportes a Thomas Greg",
-        "capturado": "2026-10-28T08:21:16-05:00"
-      },
-      {
-        "titulo": "Ejecutivo busca destrabar ocho obras clave para el oriente antioqueño con recursos de la concesión Devimed",
-        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-busca-destrabar-ocho-obras-clave-para-el-oriente-antioqueno-con-recursos-de-la-concesion-devimed-505252",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Gobierno busca destrabar ocho obras clave para el oriente antioqueño con recursos de la concesión Devimed",
-        "capturado": "2026-10-28T01:01:43-05:00"
-      },
-      {
-        "titulo": "Hacienda Distrital detalla traslado de 750000 millones de pesos del Metro y la calle 13 por parte del Ejecutivo",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-movera-750-000-millones-del-metro-y-la-calle-13-hacienda-distrital-explica-el-ajuste-505250",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Gobierno nacional moverá $750.000 millones del Metro y la calle 13: Hacienda Distrital explica el ajuste",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Presidencia impone estrictos plazos y avales a proyectos en el Congreso, según De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/filtro-de-presidencia-de-la-espriella-fija-plazos-y-avales-estrictos-para-radicar-proyectos-en-el-congreso-505246",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Filtro de Presidencia: De La Espriella fija plazos y avales estrictos para radicar proyectos en el Congreso",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "De La Espriella respalda a la Ministra del Trabajo y dispone plan nacional contra la informalidad",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-le-da-espaldarazo-a-la-ministra-del-trabajo-y-ordena-un-plan-nacional-para-combatir-la-informalidad-505245",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "De La Espriella le da espaldarazo a la Ministra del Trabajo y ordena un plan nacional para combatir la informalidad",
-        "capturado": "2026-10-27T19:15:02-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los límites establecidos por el comité de la Andi para el reemplazo de Bruce Mac Master",
+        "url": "https://www.portafolio.co/negocios/empresas/la-linea-roja-que-trazo-la-junta-de-la-andi-al-sucesor-de-bruce-mac-master-505416",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "La línea roja que trazó la junta de la Andi al sucesor de Bruce Mac Master",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
+      {
+        "titulo": "Andi: Carlos De Hart, Luz Stella Murgas y Juan Camilo Nariño compiten por dirigir el gremio",
+        "url": "https://www.portafolio.co/negocios/empresas/andi-luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-finalistas-para-liderar-la-poderosa-agremiacion-505410",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Andi: Luz Stella Murgas, Juan Camilo Nariño y Carlos De Hart, finalistas para liderar la poderosa agremiación",
+        "capturado": "2026-10-30T09:51:00-05:00"
+      },
       {
         "titulo": "Estimaciones sobre la durabilidad de un automóvil eléctrico cero kilómetros",
         "url": "https://www.portafolio.co/negocios/vehiculo/cuanta-vida-util-tiene-un-carro-electrico-totalmente-nuevo-estas-son-las-estimaciones-505398",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-10-26",
         "titulo_fuente": "Constructora Bolívar vendió 6.000 viviendas en el primer semestre y sostiene su meta de $3 billones para este año",
         "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Panasonic elige a Colombia para relanzar su división de refrigeradores en el territorio latinoamericano",
-        "url": "https://www.portafolio.co/negocios/comercio/panasonic-apuesta-por-colombia-para-relanzar-su-negocio-de-refrigeracion-en-america-latina-505153",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Panasonic apuesta por Colombia para relanzar su negocio de refrigeración en América Latina",
-        "capturado": "2026-10-26T18:58:56-05:00"
-      },
-      {
-        "titulo": "Meta de Oxxo en Colombia: 2.000 sucursales y apertura de 1.360 nuevos establecimientos con su plan",
-        "url": "https://www.portafolio.co/negocios/empresas/oxxo-va-por-2-000-tiendas-en-colombia-el-plan-de-expansion-que-sumaria-1-360-nuevos-locales-505154",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Oxxo va por 2.000 tiendas en Colombia: el plan de expansión que sumaría 1.360 nuevos locales",
-        "capturado": "2026-10-26T15:06:05-05:00"
       }
     ]
   }
