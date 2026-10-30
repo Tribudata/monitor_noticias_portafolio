@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-29T16:18:50-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-29T20:14:48-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno modificaría cálculo pensional por alza del mínimo buscando ahorro de 4,1 billones de pesos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cambiaria-calculo-de-las-pensiones-por-el-aumento-del-salario-minimo-busca-un-beneficio-de-4-1-billones-505399",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Gobierno cambiaría cálculo de las pensiones por el aumento del salario mínimo: busca un beneficio de $4,1 billones",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Propietarios de La Fazenda reestructuran pasivos y apoyan la marca por menor valor del cerdo",
+        "url": "https://www.portafolio.co/economia/agro/duenos-de-la-fazenda-reorganizan-sus-pasivos-y-apuestan-por-la-marca-ante-la-caida-en-el-precio-del-cerdo-505346",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Dueños de La Fazenda reorganizan sus pasivos y apuestan por la marca ante la caída en el precio del cerdo",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Areandina alcanzará estatus de universidad destacando el éxito de sus programas tradicionales",
+        "url": "https://www.portafolio.co/economia/lo-que-mas-se-mueve-en-el-pais-son-los-programas-tradicionales-areandina-obtendra-la-categoria-de-universidad-505397",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "'Lo que más se mueve en el país son los programas tradicionales': Areandina obtendrá la categoría de universidad",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Vicepresidencia revela esquema que bajaría a la mitad el impuesto de renta para nueva inversión turística",
+        "url": "https://www.portafolio.co/economia/vicepresidente-anuncia-regimen-que-reduciria-casi-a-la-mitad-la-tasa-de-renta-para-inversion-nueva-en-turismo-505396",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Vicepresidente anuncia régimen que reduciría casi a la mitad la tasa de renta para inversión nueva en turismo",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Mintransporte urge a la banca mejores créditos para agilizar la chatarrización de vehículos pesados",
+        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-mueve-vigencias-futuras-de-la-calle-13-y-la-linea-2-del-metro-mientras-10-billones-estan-comprometidos-505393",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Mintransporte busca acelerar el reemplazo de los camiones viejos: instó a los bancos a ofrecer mejor financiación",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Declaraciones del vicepresidente José Manuel Restrepo tras la presentación de la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/crecimiento/declaracion-vicepresidente-jose-manuel-restrepo-posterior-a-la-radicacion-de-la-ley-de-rescate-505390",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Declaración Vicepresidente, José Manuel Restrepo, posterior a la Radicación de la Ley de Rescate",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella radicó la ley de rescate fiscal: estos son los puntos clave",
+        "url": "https://www.portafolio.co/economia/gobierno-de-la-espriella-radico-la-ley-de-rescate-fiscal-estos-son-los-puntos-clave-505387",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Gobierno De La Espriella radicó la ley de rescate fiscal: estos son los puntos clave",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Gobierno de Abelardo De La Espriella radica el proyecto de Ley de Rescate Económico",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-abelardo-de-la-espriella-radica-el-proyecto-de-ley-de-rescate-economico-505389",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Gobierno de Abelardo De La Espriella radica el proyecto de Ley de Rescate Económico",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Banco de la República reporta caída financiera del 45% en su resultado a septiembre: así cerraron las cuentas",
+        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-reporta-caida-financiera-del-45-en-su-resultado-a-septiembre-asi-cerraron-las-cuentas-505388",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Banco de la República reporta caída financiera del 45% en su resultado a septiembre: así cerraron las cuentas",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
       {
         "titulo": "Uniban aterriza en Córdoba: cultivará 600 hectáreas de banano y planea ampliar la siembra a 4.000",
         "url": "https://www.portafolio.co/economia/agro/uniban-llega-a-cordoba-sembrara-600-hectareas-de-banano-y-proyecta-expandir-el-cultivo-a-4-505383",
@@ -513,99 +603,59 @@
         "publicacion": "2026-10-27",
         "titulo_fuente": "Gobierno firmó urgencia manifiesta con Thomas Greg para garantizar expedición de pasaportes hasta 2027",
         "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Corficolombiana proyecta expansión del 2,3% en 2026 y 2% en 2027 y analiza condiciones para alcanzar el 6%",
-        "url": "https://www.portafolio.co/economia/corficolombiana-colombia-creceria-2-3-en-2026-y-2-en-2027-que-tendria-que-cambiar-para-llegar-al-505235",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Colombia crecería 2,3% en 2026 y 2% en 2027: ¿qué tendría que cambiar para llegar al 6%, según Corficolombiana?",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Motociclistas alertan afectación en sus ganancias por medidas de Halloween en Bogotá y critican la decisión",
-        "url": "https://www.portafolio.co/economia/regiones/moteros-advierten-impacto-en-sus-ingresos-por-las-restricciones-de-halloween-en-bogota-cuestionan-medida-505233",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Moteros advierten impacto en sus ingresos por las restricciones de Halloween en Bogotá: cuestionan medida",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Gobierno crea panel para revelar progresos y tareas pendientes del Plan de Choque en Salud",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-lanza-tablero-para-mostrar-que-avances-y-pendientes-deja-el-plan-de-choque-en-salud-505229",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Gobierno lanza tablero para mostrar qué avances y pendientes deja el Plan de Choque en Salud",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Contraloría investiga 434.000 millones de pesos por peligros en la red de fibra óptica del país",
-        "url": "https://www.portafolio.co/economia/gobierno/contraloria-pone-la-lupa-sobre-434-000-millones-por-riesgos-en-red-de-fibra-optica-nacional-505230",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Contraloría pone la lupa sobre $434.000 millones por riesgos en red de fibra óptica nacional",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Aumentan tres veces frente a la inflación los tiquetes aéreos en Colombia y superan en 18,29% a 2025",
-        "url": "https://www.portafolio.co/economia/volar-en-colombia-sube-el-triple-que-la-inflacion-los-tiquetes-aereos-estan-18-29-mas-caros-que-en-505215",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Volar en Colombia sube el triple que la inflación: los tiquetes aéreos están 18,29% más caros que en 2025",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Problemas de seguridad en la frontera golpean a empresarios y gremios reclaman mejor gestión oficial",
-        "url": "https://www.portafolio.co/economia/regiones/crisis-de-orden-publico-en-la-frontera-afecta-al-sector-empresarial-gremios-piden-al-gobierno-mas-articulacion-505224",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Crisis de orden público en la frontera afecta al sector empresarial: gremios piden al Gobierno más articulación",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Gobierno solicita trasladar 750.000 millones de Calle 13 y Metro bogotano a adición de presupuesto 2026",
-        "url": "https://www.portafolio.co/economia/gobierno-pide-reprogramar-750-000-millones-de-la-calle-13-y-del-metro-de-bogota-para-adicion-presupuestal-del-505222",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Gobierno pide reprogramar $750.000 millones de la Calle 13 y del Metro de Bogotá para adición presupuestal del 2026",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Minhacienda festejó la colocación de bonos tras concretar la emisión histórica más alta del país",
-        "url": "https://www.portafolio.co/economia/se-logro-realizar-la-emision-mas-grande-en-la-historia-de-colombia-celebro-el-minhacienda-miguel-gomez-505220",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "'Se logró realizar la emisión más grande en la historia de Colombia': Minhacienda celebró nueva colocación de bonos",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Superfinanciera señala diferencias en la entrada al crédito formal entre urbes y regiones menos desarrolladas",
-        "url": "https://www.portafolio.co/economia/regiones/superfinanciera-advierte-por-brechas-en-el-acceso-al-credito-formal-entre-las-ciudades-y-zonas-con-menor-desarrollo-505218",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Superfinanciera advierte por brechas en el acceso al crédito formal entre las ciudades y zonas con menor desarrollo",
-        "capturado": "2026-10-27T15:31:53-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Estimaciones sobre la durabilidad de un automóvil eléctrico cero kilómetros",
+        "url": "https://www.portafolio.co/negocios/vehiculo/cuanta-vida-util-tiene-un-carro-electrico-totalmente-nuevo-estas-son-las-estimaciones-505398",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "¿Cuánta vida útil tiene un carro eléctrico totalmente nuevo? Estas son las estimaciones",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master respalda su gestión en la Andi y exige firmeza en principios",
+        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-defiende-su-legado-en-la-andi-y-pide-al-gremio-ser-firme-en-los-principios-505395",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Bruce Mac Master defiende su legado en la Andi y pide al gremio 'firmeza en los principios'",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Vehículos de mayor comercialización en septiembre de 2026 en Colombia y sus similitudes",
+        "url": "https://www.portafolio.co/negocios/vehiculo/los-carros-mas-vendidos-en-septiembre-de-2026-en-colombia-que-es-lo-que-tienen-en-comun-505394",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Los carros más vendidos en septiembre de 2026 en Colombia: ¿qué es lo que tienen en común?",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Jornada adversa para Google en Wall Street con baja cercana a medio billón de dólares",
+        "url": "https://www.portafolio.co/negocios/inversion/jueves-negro-para-google-en-wall-street-sus-acciones-perdieron-casi-medio-billon-de-dolares-de-capitalizacion-505385",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Inversion",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "Jueves negro para Google en Wall Street: sus acciones perdieron casi medio billón de dólares de capitalización",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
+      {
+        "titulo": "Setenta y cuatro por ciento de colombianos celebrará Halloween y esto impactará el comercio",
+        "url": "https://www.portafolio.co/negocios/comercio/el-74-de-los-colombianos-planea-celebrar-halloween-esto-es-lo-que-dejaria-en-ventas-al-comercio-nacional-505386",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-29",
+        "titulo_fuente": "El 74% de los colombianos planea celebrar Halloween: esto es lo que dejaría en ventas al comercio nacional",
+        "capturado": "2026-10-29T20:14:48-05:00"
+      },
       {
         "titulo": "Grupo Nutresa finaliza compra de Tío Rico y asume el manejo de su operación heladera en Venezuela",
         "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-completa-adquisicion-de-tio-rico-y-toma-el-control-de-su-negocio-de-helados-en-venezuela-505381",
@@ -1154,56 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-26",
         "titulo_fuente": "Oxxo va por 2.000 tiendas en Colombia: el plan de expansión que sumaría 1.360 nuevos locales",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Triunfo de Lula: ajustes que requiere Colombia para exportar US$1.600 millones más a Brasil",
-        "url": "https://www.portafolio.co/negocios/comercio/victoria-de-lula-los-cambios-que-necesita-colombia-para-vender-us-1-600-millones-mas-al-mercado-brasileno-505146",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Victoria de Lula: los cambios que necesita Colombia para vender US$1.600 millones más al mercado brasileño",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Nuevo gerente para 16 países: estrategia de Servier para fortalecer su sector farmacéutico regional",
-        "url": "https://www.portafolio.co/negocios/empresas/un-nuevo-gerente-para-16-paises-asi-busca-servier-impulsar-su-negocio-farmaceutico-desde-colombia-y-la-region-505141",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Un nuevo gerente para 16 países: así busca Servier impulsar su negocio farmacéutico desde Colombia y la región",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Alimentos, tecnología y capital: focos de Colombia y Uruguay para incrementar su comercio mutuo",
-        "url": "https://www.portafolio.co/negocios/comercio/agroalimentos-tecnologia-e-inversion-las-apuestas-de-colombia-y-uruguay-para-ampliar-sus-negocios-bilaterales-505140",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Agroalimentos, tecnología e inversión: las apuestas de Colombia y Uruguay para ampliar sus negocios bilaterales",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "MNK International destinará US$15 millones para incursionar en el sector asegurador colombiano",
-        "url": "https://www.portafolio.co/negocios/empresas/mnk-international-invertira-us-15-millones-para-entrar-al-mercado-de-seguros-en-colombia-505138",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "MNK International invertirá US$15 millones para entrar al mercado de seguros en Colombia",
-        "capturado": "2026-10-26T15:06:05-05:00"
-      },
-      {
-        "titulo": "Coosalud apunta a restablecer la confianza mediante datos de desembolsos, citas y procedimientos",
-        "url": "https://www.portafolio.co/negocios/empresas/coosalud-busca-recuperar-la-confianza-estas-son-las-cifras-de-pagos-consultas-y-procedimientos-realizados-505137",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-26",
-        "titulo_fuente": "Coosalud busca recuperar la confianza: estas son las cifras de pagos, consultas y procedimientos realizados",
         "capturado": "2026-10-26T15:06:05-05:00"
       }
     ]
