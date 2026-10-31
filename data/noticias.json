@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-30T21:39:59-05:00",
+  "actualizado": "2026-10-31T04:18:08-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno termina contrato de 36 años del Fomag con Fiduprevisora y avisa nueva fase para educadores",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pone-fin-a-contrato-de-36-anos-del-fomag-con-fiduprevisora-y-anuncia-nueva-etapa-para-maestros-505480",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Gobierno pone fin a contrato de 36 años del Fomag con Fiduprevisora y anuncia nueva etapa para maestros",
+        "capturado": "2026-10-31T04:18:08-05:00"
+      },
       {
         "titulo": "Claro destinó $19.000 millones para conectar a Puerto Carreño con 410 kilómetros de red en la selva",
         "url": "https://www.portafolio.co/economia/regiones/claro-invirtio-19-000-millones-para-llevar-una-red-de-410-kilometros-por-la-selva-hasta-puerto-carreno-505474",
@@ -593,19 +603,19 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Aprueban en primer debate proyecto que cambiaría reglas de contratación por prestación de servicios en el Estado",
         "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar inicia al alza el 29 de octubre por medida de la Reserva Federal de tasas",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-abre-al-alza-este-29-de-octubre-impulsado-por-la-decision-de-la-reserva-federal-sobre-las-tasas-505341",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Dólar en Colombia abre al alza este 29 de octubre impulsado por la decisión de la Reserva Federal sobre las tasas",
-        "capturado": "2026-10-29T11:20:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Black Friday y Navidad: cinco aplicaciones de la inteligencia artificial para elevar ventas de emprendedores",
+        "url": "https://www.portafolio.co/negocios/comercio/black-friday-y-navidad-cinco-usos-de-la-ia-que-emprendedores-pueden-aplicar-para-vender-mas-a-fin-de-ano-505477",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Black Friday y Navidad: cinco usos de la IA que emprendedores pueden aplicar para vender más a fin de año",
+        "capturado": "2026-10-31T04:18:08-05:00"
+      },
       {
         "titulo": "Coca-Cola Femsa expande su fábrica en Barranquilla y agrupará allí más del 20% de su producción del país",
         "url": "https://www.portafolio.co/negocios/empresas/coca-cola-femsa-amplia-su-planta-en-barranquilla-y-concentrara-alli-mas-del-20-de-su-produccion-nacional-505476",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-27",
         "titulo_fuente": "La inteligencia artificial reordena a Microsoft: 60.000 empleados reciben propuesta de retiro voluntario",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "Pymes de Colombia con pasarelas de pago elevan un 90% su uso de productos financieros",
-        "url": "https://www.portafolio.co/negocios/empresas/pymes-colombianas-con-soluciones-de-pago-comerciales-utilizan-90-mas-productos-financieros-505212",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Pymes colombianas con soluciones de pago comerciales utilizan 90% más productos financieros",
         "capturado": "2026-10-27T15:31:53-05:00"
       }
     ]
