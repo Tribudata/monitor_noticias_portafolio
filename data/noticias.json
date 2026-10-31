@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-10-31T10:27:28-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-31T14:28:53-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El futuro médico de los docentes: aspectos clave del cambio en el Fomag tras la salida de Fiduprevisora",
+        "url": "https://www.portafolio.co/economia/gobierno/que-pasara-con-la-salud-de-los-maestros-claves-de-la-transicion-del-fomag-tras-la-salida-de-fiduprevisora-505505",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "¿Qué pasará con la salud de los maestros? Claves de la transición del Fomag tras la salida de Fiduprevisora",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Tributo de renta aplicaría a quienes devenguen desde $5 millones según la reforma fiscal de De La Espriella",
+        "url": "https://www.portafolio.co/economia/impuestos/personas-que-ganan-desde-5-millones-pagarian-impuesto-de-renta-con-el-ajuste-fiscal-de-de-la-espriella-505503",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Personas que ganan desde $5 millones pagarían impuesto de renta con el ajuste fiscal de De La Espriella",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Radican contrapropuesta de impuestos para juegos de suerte y azar dentro de la Ley de Rescate Económico",
+        "url": "https://www.portafolio.co/economia/impuestos/fecoljuegos-prepara-propuesta-tributaria-para-los-juegos-de-azar-ante-la-ley-de-rescate-economico-505502",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Preparan 'contrapropuesta' tributaria para los juegos de azar ante la Ley de Rescate Económico",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Colombia alista el World of Coffee 2027 para ganar mayor participación en la industria mundial del grano",
+        "url": "https://www.portafolio.co/economia/agro/colombia-se-prepara-para-recibir-el-world-of-coffee-2027-asi-busca-ganar-terreno-en-el-mercado-global-del-cafe-505499",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Colombia se prepara para recibir el World of Coffee 2027: así busca ganar terreno en el mercado global del café",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Producción de aceite de palma en Colombia llega a máximo histórico y ventas externas suben 22 % en 2026",
+        "url": "https://www.portafolio.co/economia/agro/aceite-de-palma-en-colombia-alcanza-record-y-exportaciones-crecen-22-en-505497",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Aceite de palma en Colombia alcanza récord y exportaciones crecen 22 % en 2026",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Banco de la República calcula que la inflación alcanzará la meta del 3 % solo a mediados de 2028",
+        "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-preve-que-la-inflacion-llegue-a-la-meta-del-3-apenas-a-mediados-de-505496",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Banco de la República prevé que la inflación llegue a la meta del 3 % apenas a mediados de 2028",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Pacientes Colombia advierte que el pago anticipado de la UPC pondría en riesgo fondos para la salud en 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/pacientes-colombia-alerta-que-el-anticipo-de-la-upc-podria-comprometer-recursos-para-atender-a-los-usuarios-en-505495",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Pacientes Colombia alerta que el anticipo de la UPC podría comprometer recursos para atender a los usuarios en 2027",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "A contrarreloj, el Congreso tiene seis semanas para debatir la iniciativa de Ley de Rescate Fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/contrarreloj-congreso-dispone-de-seis-semanas-para-tramitar-el-proyecto-de-ley-de-rescate-fiscal-505489",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Contrarreloj: Congreso dispone de seis semanas para tramitar el proyecto de Ley de Rescate Fiscal",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Icetex planea otorgar 25000 créditos de estudio en 2027 e iniciará postulaciones el 3 de noviembre",
+        "url": "https://www.portafolio.co/economia/gobierno/icetex-proyecta-entregar-25-000-creditos-educativos-en-2027-y-abrira-convocatoria-desde-el-3-de-noviembre-505488",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Icetex proyecta entregar 25.000 créditos educativos en 2027 y abrirá convocatoria desde el 3 de noviembre",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
       {
         "titulo": "El dólar repuntó cerca de $25 en siete días influenciado por decisiones del Emisor y la FED",
         "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-subio-casi-25-en-una-semana-marcada-por-las-movidas-del-banco-de-la-republica-y-la-fed-505487",
@@ -513,99 +603,39 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Uniban llega a Córdoba: sembrará 600 hectáreas de banano y proyecta expandir el cultivo a 4.000",
         "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "MinCiencias plantea acuerdo con cámaras de comercio para fomentar la innovación corporativa",
-        "url": "https://www.portafolio.co/economia/regiones/minciencias-propone-alianza-con-camaras-de-comercio-para-impulsar-la-innovacion-empresarial-505382",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "MinCiencias propone alianza con cámaras de comercio para impulsar la innovación empresarial",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Federación Nacional de Cafeteros y Gobierno efectúan su primer Comité Nacional con dos ministros",
-        "url": "https://www.portafolio.co/economia/gobierno/federacion-nacional-de-cafeteros-y-gobierno-realizan-su-primer-comite-nacional-con-la-presencia-de-dos-ministros-505377",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Federación Nacional de Cafeteros y Gobierno realizan su primer Comité Nacional con la presencia de dos ministros",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "No vamos a enterrar el Icetex: vicepresidente José Manuel Restrepo expone nuevos créditos para 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/no-vamos-a-enterrar-el-icetex-vicepresidente-jose-manuel-restrepo-presenta-nueva-oferta-de-creditos-para-505378",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "'No vamos a enterrar el Icetex': vicepresidente José Manuel Restrepo presenta nueva oferta de créditos para 2027",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "La espera concluyó: este jueves presentarán la Ley de Rescate Económico en el Congreso",
-        "url": "https://www.portafolio.co/economia/crecimiento/la-espera-termino-este-jueves-sera-radicada-la-ley-de-rescate-economico-en-el-congreso-de-la-republica-505373",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "La espera terminó: este jueves será radicada la Ley de Rescate Económico en el Congreso de la República",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Tasas de interés: qué rumbo adoptará el Banco de la República tras la medida de la Fed",
-        "url": "https://www.portafolio.co/economia/crecimiento/tasas-de-interes-que-camino-tomara-el-banco-de-la-republica-tras-la-decision-de-la-fed-505369",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Tasas de interés: ¿qué camino tomará el Banco de la República, tras la decisión de la Fed?",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Subsidio de cesantía en Colombia demora la búsqueda laboral y no eleva los sueldos de los contratados",
-        "url": "https://www.portafolio.co/economia/seguro-de-desempleo-en-colombia-alarga-la-busqueda-de-trabajo-pero-no-mejora-salarios-de-quienes-consiguen-empleo-505368",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Seguro de desempleo en Colombia alarga la búsqueda de trabajo, pero no mejora salarios de quienes consiguen empleo",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Ley de saneamiento fiscal en Colombia: Cárdenas solicita agilizar el debate previo a finalizar 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/ley-de-rescate-fiscal-en-colombia-cardenas-pide-acelerar-el-tramite-antes-de-que-finalice-el-ano-505367",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Ley de rescate fiscal en Colombia: Cárdenas pide acelerar el trámite antes de que finalice el año 2026",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Prosperidad Social establece un nuevo plazo final para reclamar la ayuda de Renta Joven",
-        "url": "https://www.portafolio.co/economia/gobierno/prosperidad-social-fija-nueva-fecha-limite-para-el-cobro-del-subsidio-renta-joven-505364",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Prosperidad Social fija nueva fecha límite para el cobro del subsidio Renta Joven",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "RTVC recupera su denominación y el Ejecutivo examina acuerdos por más de $100.000 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/rtvc-vuelve-a-su-nombre-y-gobierno-revisa-contratos-por-mas-de-100-000-millones-505359",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "RTVC vuelve a su nombre y Gobierno revisa contratos por más de $100.000 millones",
-        "capturado": "2026-10-29T11:20:22-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Basf eleva su pronóstico para 2026 tras un alza del 15% en el EBITDA del trimestre",
+        "url": "https://www.portafolio.co/negocios/empresas/basf-mejora-sus-previsiones-para-2026-tras-registrar-un-crecimiento-del-15-en-su-ebitda-trimestral-505500",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Basf mejora sus previsiones para 2026 tras registrar un crecimiento del 15% en su EBITDA trimestral",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "El comercio en Colombia aumentó sus ventas en septiembre gracias a rebajas y ofertas",
+        "url": "https://www.portafolio.co/negocios/comercio/descuentos-y-promociones-dispararon-las-ventas-del-comercio-en-colombia-durante-septiembre-505498",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "Descuentos y promociones dispararon las ventas del comercio en Colombia durante septiembre",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
+      {
+        "titulo": "Atención viajeros: EE. UU. pedirá declaración sanitaria en vuelos desde el 3 de noviembre",
+        "url": "https://www.portafolio.co/negocios/empresas/atencion-viajeros-estados-unidos-exigira-una-declaracion-sanitaria-para-abordar-vuelos-desde-el-3-de-noviembre-505494",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-10-31",
+        "titulo_fuente": "¡Atención viajeros! Estados Unidos exigirá una declaración sanitaria para abordar vuelos desde el 3 de noviembre",
+        "capturado": "2026-10-31T14:28:53-05:00"
+      },
       {
         "titulo": "Comerciantes empiezan la temporada de Halloween con grandes previsiones: el gasto alcanzaría $350.000 por cada uno",
         "url": "https://www.portafolio.co/negocios/comercio/comerciantes-inician-la-jornada-de-halloween-con-altas-expectativas-el-gasto-podria-llegar-a-350-000-por-persona-505486",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-27",
         "titulo_fuente": "El negocio de James Rodríguez con Quest: la marca proyecta vender más de 200.000 prendas",
         "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Grouti se expande con recursos propios y prevé ingresos por US$10 millones al ampliar su mercado externo",
-        "url": "https://www.portafolio.co/negocios/empresas/grouti-crece-con-capital-propio-y-proyecta-ventas-por-us-10-millones-mientras-amplia-su-operacion-internacional-505248",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Grouti crece con capital propio y proyecta ventas por US$10 millones mientras amplía su operación internacional",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Empresas con capital desde España ubican a Colombia en un lugar clave de su plan mundial",
-        "url": "https://www.portafolio.co/negocios/empresas/colombia-gana-protagonismo-en-la-estrategia-global-de-empresas-que-invierten-desde-espana-505223",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Colombia gana protagonismo en la estrategia global de empresas que invierten desde España",
-        "capturado": "2026-10-27T15:31:53-05:00"
-      },
-      {
-        "titulo": "El colombiano Andrés Ordóñez asume la presidencia de la red global publicitaria McCann",
-        "url": "https://www.portafolio.co/negocios/empresas/el-colombiano-andres-ordonez-fue-nombrado-presidente-de-la-red-global-de-agencias-de-publicidad-mccann-505211",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "El colombiano Andrés Ordóñez fue nombrado presidente de la red global de agencias de publicidad McCann",
-        "capturado": "2026-10-27T15:31:53-05:00"
       }
     ]
   }
