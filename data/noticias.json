@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-01T03:44:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-01T10:46:53-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Ejecutivo avisa que el país caería en cesación de pagos en 2027 sin aval del Congreso a reforma tributaria",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-advierte-que-colombia-podria-entrar-en-default-en-2027-si-el-congreso-no-aprueba-la-ley-de-ajuste-fiscal-505522",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Gobierno advierte que Colombia podría entrar en 'default' en 2027 si el Congreso no aprueba la ley de ajuste fiscal",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
+      {
+        "titulo": "Dos connacionales volvieron de territorio africano con paludismo: un fallecido y un internado",
+        "url": "https://www.portafolio.co/economia/gobierno/dos-colombianos-regresaron-de-africa-con-malaria-uno-murio-y-el-otro-permanece-bajo-atencion-medica-505520",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Dos colombianos regresaron de África con malaria: uno murió y el otro permanece bajo atención médica",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
+      {
+        "titulo": "Medida cautelar de la Dian por 16,4 billones dejaría a Ecopetrol con liquidez para apenas 23 días",
+        "url": "https://www.portafolio.co/economia/gobierno/embargo-de-la-dian-por-16-4-billones-dejaria-a-ecopetrol-con-solo-23-dias-de-caja-disponible-505518",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Embargo de la Dian por $16,4 billones dejaría a Ecopetrol con solo 23 días de caja disponible",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
       {
         "titulo": "Desde mañana inicia plan piloto para bajar tarifa en cinco peajes del Eje Cafetero de $17.800 a $700",
         "url": "https://www.portafolio.co/economia/infraestructura/desde-manana-entra-plan-piloto-de-reduccion-de-tarifa-en-cinco-peajes-del-eje-cafetero-pasaran-de-17-800-a-505514",
@@ -573,39 +603,39 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Baja el umbral de renta, suben tarifas al consumo y cambia el IVA: los impuestos que cambiaría la Ley de Rescate",
         "capturado": "2026-10-30T02:32:50-05:00"
-      },
-      {
-        "titulo": "Gobierno modificaría cálculo pensional por alza del mínimo buscando ahorro de 4,1 billones de pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-cambiaria-calculo-de-las-pensiones-por-el-aumento-del-salario-minimo-busca-un-beneficio-de-4-1-billones-505399",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Gobierno cambiaría cálculo de las pensiones por el aumento del salario mínimo: busca un beneficio de $4,1 billones",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Propietarios de La Fazenda reestructuran pasivos y apoyan la marca por menor valor del cerdo",
-        "url": "https://www.portafolio.co/economia/agro/duenos-de-la-fazenda-reorganizan-sus-pasivos-y-apuestan-por-la-marca-ante-la-caida-en-el-precio-del-cerdo-505346",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Dueños de La Fazenda reorganizan sus pasivos y apuestan por la marca ante la caída en el precio del cerdo",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Areandina alcanzará estatus de universidad destacando el éxito de sus programas tradicionales",
-        "url": "https://www.portafolio.co/economia/lo-que-mas-se-mueve-en-el-pais-son-los-programas-tradicionales-areandina-obtendra-la-categoria-de-universidad-505397",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "'Lo que más se mueve en el país son los programas tradicionales': Areandina obtendrá la categoría de universidad",
-        "capturado": "2026-10-29T20:14:48-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Tesla encabeza el mercado que pasa de 44.000 unidades con la rápida compra de vehículos eléctricos en Colombia",
+        "url": "https://www.portafolio.co/negocios/vehiculo/colombia-acelera-la-compra-de-carros-electricos-tesla-lidera-un-mercado-que-ya-supera-las-44-000-unidades-505519",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Colombia acelera la compra de carros eléctricos: Tesla lidera un mercado que ya supera las 44.000 unidades",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
+      {
+        "titulo": "Octubre vio crecer 27,4 % los automotores nuevos y la Ley de Rescate propone alzar el IVA a eléctricos e híbridos",
+        "url": "https://www.portafolio.co/negocios/vehiculo/el-mercado-automotor-repite-la-hazana-de-septiembre-vendio-mas-de-32-000-carros-en-el-mejor-octubre-desde-505516",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Carros nuevos crecieron 27,4 % en octubre, mientras Ley de Rescate plantea subir IVA a eléctricos e híbridos",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
+      {
+        "titulo": "Empresa de Jaime Gilinski, Nutresa, solicitó aval a la SIC para comprar la totalidad de Empicolsa",
+        "url": "https://www.portafolio.co/negocios/empresas/nutresa-de-jaime-gilinski-va-por-otra-empresa-pidio-permiso-a-la-sic-para-adquirir-el-100-de-empicolsa-505517",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Nutresa de Jaime Gilinski va por otra empresa: pidió permiso a la SIC para adquirir el 100% de Empicolsa",
+        "capturado": "2026-11-01T10:46:53-05:00"
+      },
       {
         "titulo": "Las operaciones corporativas de Gilinski siguen creciendo en Suramérica, de Venezuela a Argentina y Ecuador",
         "url": "https://www.portafolio.co/negocios/empresas/gilinski-se-continua-expandiendo-en-la-region-desde-venezuela-hasta-argentina-y-ecuador-sus-movidas-empresariales-505509",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-10-28",
         "titulo_fuente": "La trazabilidad minera será obligatoria desde el 19 de noviembre: ¿están listas las empresas?",
         "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "El impacto Tesla acelera la disputa de tasas para créditos de carros en Colombia",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-competencia-por-la-financiacion-de-carros-con-0-de-interes-estas-son-las-marcas-que-lo-ofrecen-y-sus-plazos-505253",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "'Efecto Tesla' acelera 'la guerra de tasas de interés' para la financiación de vehículos en Colombia",
-        "capturado": "2026-10-28T08:21:16-05:00"
-      },
-      {
-        "titulo": "Hot Sale 2026: 95% de las adquisiciones ocurrieron por móviles y estos resultaron los bienes más pedidos",
-        "url": "https://www.portafolio.co/negocios/comercio/hot-sale-2026-el-95-de-las-compras-se-hizo-desde-celulares-y-estos-fueron-los-productos-mas-buscados-505249",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Hot Sale 2026: el 95% de las compras se hizo desde celulares y estos fueron los productos más buscados",
-        "capturado": "2026-10-27T19:15:02-05:00"
-      },
-      {
-        "titulo": "Los propietarios de Refisal y Blancox impulsan capacitación técnica en manufactura química",
-        "url": "https://www.portafolio.co/negocios/empresas/los-duenos-de-refisal-y-blancox-promueven-formacion-tecnica-en-produccion-quimica-505247",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-27",
-        "titulo_fuente": "Los dueños de Refisal y Blancox promueven formación técnica en producción química",
-        "capturado": "2026-10-27T19:15:02-05:00"
       }
     ]
   }
