@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-01T10:46:53-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-01T15:12:23-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Precio del dólar en Colombia al alza: este valor tocaría la moneda en los próximos días",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-seguiria-subiendo-este-es-el-precio-que-podria-alcanzar-la-divisa-durante-los-proximos-dias-505537",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Dólar en Colombia seguiría subiendo: este es el precio que podría alcanzar la divisa durante los próximos días",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
+      {
+        "titulo": "Ley de saneamiento fiscal: el Ejecutivo afirma que el 70 % del ajuste lo pagará el Estado",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-gobierno-asegura-que-siete-de-cada-diez-pesos-del-ajuste-saldran-del-propio-estado-505535",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Ley de rescate fiscal: Gobierno asegura que siete de cada diez pesos del ajuste saldrán del propio Estado",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
+      {
+        "titulo": "Los motivos de la cancelación del contrato por 36 años con Fiduprevisora en el Fomag",
+        "url": "https://www.portafolio.co/economia/gobierno/las-razones-por-las-que-el-gobierno-decidio-terminar-el-contrato-de-36-anos-con-fiduprevisora-en-el-fomag-505530",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Las razones por las que el Gobierno decidió terminar el contrato de 36 años con Fiduprevisora en el Fomag",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
+      {
+        "titulo": "EE. UU. incrementa importaciones de carne de res, mas Colombia continúa sin entrar allí",
+        "url": "https://www.portafolio.co/economia/agro/estados-unidos-aumenta-sus-compras-de-carne-bovina-pero-colombia-sigue-sin-poder-ingresar-a-ese-mercado-505527",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Estados Unidos aumenta sus compras de carne bovina, pero Colombia sigue sin poder ingresar a ese mercado",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
       {
         "titulo": "El Ejecutivo avisa que el país caería en cesación de pagos en 2027 sin aval del Congreso a reforma tributaria",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-advierte-que-colombia-podria-entrar-en-default-en-2027-si-el-congreso-no-aprueba-la-ley-de-ajuste-fiscal-505522",
@@ -563,49 +603,39 @@
         "publicacion": "2026-10-30",
         "titulo_fuente": "Plan de austeridad: Gobierno podría fusionar o suprimir ministerios y deberá recortar en 20% los gastos de nómina",
         "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Reforma al reintegro del IVA por ley de salvavidas financiero: surge EfectIva con reintegro total",
-        "url": "https://www.portafolio.co/economia/gobierno/devolucion-del-iva-cambiaria-con-ley-de-rescate-fiscal-nace-efectiva-y-propone-devolver-el-100-a-hogares-pobres-505409",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Devolución del IVA cambiaría con ley de rescate fiscal: nace EfectIva y propone devolver el 100% a hogares pobres",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Mayor tributo a tragos, tabacos y comestibles ultraprocesados según la reciente Ley de Rescate Fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/mas-impuesto-a-licores-cigarrillos-y-bebidas-ultraproceadas-asi-quedaria-con-la-nueva-ley-de-rescate-fiscal-505408",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Más impuesto a licores, cigarrillos y bebidas ultraproceadas: así quedaría con la nueva Ley de Rescate Fiscal",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Proponen auxilio, de un salario base, en la contrarreforma pensional",
-        "url": "https://www.portafolio.co/economia/gobierno/plantean-subsidio-a-un-minimo-en-la-contrarreforma-pensional-505402",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Plantean subsidio, a un mínimo, en la contrarreforma pensional",
-        "capturado": "2026-10-30T02:32:50-05:00"
-      },
-      {
-        "titulo": "Disminuye el piso de renta, aumentan tasas al consumo y varía el IVA: tributos que modificaría la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/baja-el-umbral-de-renta-suben-tarifas-al-consumo-y-cambia-el-iva-los-impuestos-que-cambiaria-la-ley-de-rescate-505401",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Baja el umbral de renta, suben tarifas al consumo y cambia el IVA: los impuestos que cambiaría la Ley de Rescate",
-        "capturado": "2026-10-30T02:32:50-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Startups colombianas con ambición de crecer en EE.UU. hallan en Silicon Valley un mercado de US$34,5 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/silicon-valley-abre-oportunidades-por-us-34-5-millones-para-startups-colombianas-que-buscan-crecer-en-ee-uu-505532",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Silicon Valley abre oportunidades por US$34,5 millones para startups colombianas que buscan crecer en EE.UU.",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
+      {
+        "titulo": "El comercio se prepara para su temporada crucial con Black Friday, Cyber Monday, madrugones y trasnochones",
+        "url": "https://www.portafolio.co/negocios/comercio/comercio-se-alista-para-su-epoca-mas-importante-del-ano-black-friday-cyber-monday-madrugones-trasnochones-y-mas-505526",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Comercio se alista para su época más importante del año: Black Friday, Cyber Monday, madrugones, trasnochones y más",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
+      {
+        "titulo": "Centro Chía prevé un alza del 15 % en visitas navideñas para impulsar el comercio en la Sabana Norte",
+        "url": "https://www.portafolio.co/negocios/empresas/centro-chia-espera-recibir-15-mas-visitantes-en-navidad-y-dinamizar-el-comercio-de-la-sabana-norte-505523",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Centro Chía espera recibir 15 % más visitantes en Navidad y dinamizar el comercio de la Sabana Norte",
+        "capturado": "2026-11-01T15:12:23-05:00"
+      },
       {
         "titulo": "Tesla encabeza el mercado que pasa de 44.000 unidades con la rápida compra de vehículos eléctricos en Colombia",
         "url": "https://www.portafolio.co/negocios/vehiculo/colombia-acelera-la-compra-de-carros-electricos-tesla-lidera-un-mercado-que-ya-supera-las-44-000-unidades-505519",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-28",
         "titulo_fuente": "Crystal, dueña de Gef y Punto Blanco, recibió el galardón Mercurio de Oro de Fenalco",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Modernización del parque automotor y competitividad: los temas centrales del IV Congreso Andemos",
-        "url": "https://www.portafolio.co/negocios/empresas/renovacion-del-parque-automotor-y-competitividad-la-agenda-del-iv-congreso-andemos-505281",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Renovación del parque automotor y competitividad: la agenda del IV Congreso Andemos",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "El informe de Fedesarrollo indica que el optimismo de industriales y comerciantes subió en septiembre",
-        "url": "https://www.portafolio.co/negocios/empresas/la-confianza-de-comerciantes-e-industriales-mejoro-en-septiembre-segun-el-reporte-de-fedesarrollo-505276",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "La confianza de comerciantes e industriales mejoró en septiembre, según el reporte de Fedesarrollo",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Desde el 19 de noviembre será obligatoria la trazabilidad minera y las empresas deben alistarse",
-        "url": "https://www.portafolio.co/negocios/empresas/la-trazabilidad-minera-sera-obligatoria-desde-el-19-de-noviembre-estan-listas-las-empresas-505280",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "La trazabilidad minera será obligatoria desde el 19 de noviembre: ¿están listas las empresas?",
         "capturado": "2026-10-28T13:58:43-05:00"
       }
     ]
