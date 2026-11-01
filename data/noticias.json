@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-01T15:12:23-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-01T18:45:21-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Murió este 1 de noviembre a los 78 años el exconstituyente Antonio Navarro Wolff",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-era-antonio-navarro-wolff-el-exconstituyente-que-fallecio-este-1-de-noviembre-a-los-78-anos-505543",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Quién fue Antonio Navarro Wolff, el exconstituyente que falleció este 1 de noviembre a los 78 años",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
+      {
+        "titulo": "Ya causa discusión el salario mínimo de 2027: esto se conoce y las cifras propuestas",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-ya-genera-debate-esto-es-lo-que-se-sabe-hasta-ahora-y-los-montos-que-estan-sobre-la-mesa-505542",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Salario mínimo de 2027 ya genera debate: esto es lo que se sabe hasta ahora y los montos que están sobre la mesa",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
+      {
+        "titulo": "Coosalud alista pago por 481879 millones a 1127 prestadores previo a terminar intervención",
+        "url": "https://www.portafolio.co/economia/gobierno/coosalud-programa-giro-de-481-879-millones-a-1-127-prestadores-antes-de-salir-de-la-intervencion-505525",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Coosalud programa giro de $481.879 millones a 1.127 prestadores antes de salir de la intervención",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
       {
         "titulo": "Precio del dólar en Colombia al alza: este valor tocaría la moneda en los próximos días",
         "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-seguiria-subiendo-este-es-el-precio-que-podria-alcanzar-la-divisa-durante-los-proximos-dias-505537",
@@ -573,39 +603,39 @@
         "publicacion": "2026-10-30",
         "titulo_fuente": "Ley de Rescate obligaría a plataformas como Temu y Shein a pagar IVA del 19% sin importar el valor",
         "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Cotizaciones en salud cambiarían por ley de rescate económico y así impactarían salarios",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-cambiaria-los-aportes-a-la-salud-asi-se-veria-afectado-el-salario-de-estos-trabajadores-505415",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Ley de rescate económico cambiaría los aportes a la salud: así se vería afectado el salario de estos trabajadores",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial solicita que la Ley de Rescate Económico proteja el empleo formal y la inversión",
-        "url": "https://www.portafolio.co/economia/empleo/consejo-gremial-pide-que-la-ley-de-rescate-economico-no-afecte-la-inversion-ni-el-empleo-formal-505413",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empleo",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Consejo Gremial pide que la Ley de Rescate Económico no afecte la inversión ni el empleo formal",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Ajuste fiscal: el Ejecutivo evaluaría unificar carteras y bajar un 20% en costos de personal",
-        "url": "https://www.portafolio.co/economia/gobierno/plan-de-austeridad-gobierno-podria-fusionar-o-suprimir-ministerios-y-debera-recortar-en-20-los-gastos-de-nomina-505411",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Plan de austeridad: Gobierno podría fusionar o suprimir ministerios y deberá recortar en 20% los gastos de nómina",
-        "capturado": "2026-10-30T09:51:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "DAVIbank pasa a llamarse Davivienda tras finalizar su proceso de unificación",
+        "url": "https://www.portafolio.co/negocios/empresas/tras-completar-su-integracion-con-davivienda-davibank-cambia-su-razon-social-a-lambda-bank-que-implica-505540",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Clientes DAVIbank ahora serán Davivienda: este es el nuevo nombre que tendrá tras completar su integración",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
+      {
+        "titulo": "Bajaj supera a Suzuki en matrículas de motos y lidera el listado de octubre",
+        "url": "https://www.portafolio.co/negocios/vehiculo/bajaj-destrono-a-suzuki-en-ventas-de-motos-asi-quedo-el-ranking-de-las-marcas-mas-vendidas-en-octubre-505536",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Bajaj destronó a Suzuki en ventas de motos: así quedó el ranking de las marcas más vendidas en octubre",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
+      {
+        "titulo": "La petrolera Aramco volcará USD 2.600 millones en tecnología de IA",
+        "url": "https://www.portafolio.co/negocios/empresas/la-petrolera-aramco-da-un-giro-tecnologico-invertira-us-2-600-millones-en-una-empresa-de-inteligencia-artificial-505538",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "La petrolera Aramco da un giro tecnológico: invertirá US$2.600 millones en una empresa de inteligencia artificial",
+        "capturado": "2026-11-01T18:45:21-05:00"
+      },
       {
         "titulo": "Startups colombianas con ambición de crecer en EE.UU. hallan en Silicon Valley un mercado de US$34,5 millones",
         "url": "https://www.portafolio.co/negocios/empresas/silicon-valley-abre-oportunidades-por-us-34-5-millones-para-startups-colombianas-que-buscan-crecer-en-ee-uu-505532",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-28",
         "titulo_fuente": "La informalidad alcanza al 97,4 % de los micronegocios que venden menos de $1 millón al mes",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Adquisiciones de Halloween sobre el tiempo: el 82 % de los disfraces se despacha en una semana en Rappi",
-        "url": "https://www.portafolio.co/negocios/comercio/compras-de-halloween-a-ultima-hora-el-82-de-los-disfraces-se-vende-en-solo-una-semana-en-rappi-505298",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Compras de Halloween a última hora: el 82 % de los disfraces se vende en solo una semana en Rappi",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Arturo Calle moderniza local en Barranquilla con $2.045 millones y suma área para su línea Resort",
-        "url": "https://www.portafolio.co/negocios/empresas/arturo-calle-renueva-su-tienda-en-barranquilla-con-una-inversion-de-2-045-millones-505287",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Arturo Calle renueva tienda en Barranquilla con inversión de $2.045 millones: incorpora espacio para línea Resort",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "Crystal, propietaria de Gef y Punto Blanco, fue galardonada con el Mercurio de Oro por Fenalco",
-        "url": "https://www.portafolio.co/negocios/empresas/crystal-duena-de-gef-y-punto-blanco-recibio-el-galardon-mercurio-de-oro-de-fenalco-505285",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Crystal, dueña de Gef y Punto Blanco, recibió el galardón Mercurio de Oro de Fenalco",
         "capturado": "2026-10-28T13:58:43-05:00"
       }
     ]
