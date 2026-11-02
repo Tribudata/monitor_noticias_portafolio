@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-02T08:07:09-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-02T17:24:27-05:00",
+  "nuevos_en_esta_corrida": 25,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El FMI aprueba la norma de salvamento financiero planteada por el mandato de De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/fondo-monetario-internacional-respalda-la-ley-de-rescate-economico-que-propuso-el-gobierno-de-la-espriella-505592",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Fondo Monetario Internacional respalda la ley de rescate económico que propuso el Gobierno De La Espriella",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "El autómata Walter levanta muros con exactitud y suple a varios obreros: arribaría a construcciones en 2027",
+        "url": "https://www.portafolio.co/economia/infraestructura/walter-el-robot-que-coloca-ladrillos-con-precision-y-rinde-por-varios-albaniles-llegaria-a-obras-en-505591",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "'Walter' el robot que coloca ladrillos con precisión y rinde por varios albañiles: llegaría a obras en 2027",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "El salvavidas fiscal a la salud generaría un impacto opuesto: alza de gastos y más motivos para evadir pagos",
+        "url": "https://www.portafolio.co/economia/gobierno/el-rescate-fiscal-de-la-salud-podria-tener-un-efecto-contrario-mas-costos-y-mayores-incentivos-para-evadir-aportes-505588",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "El rescate fiscal de la salud podría tener un efecto contrario: más costos y mayores incentivos para evadir aportes",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "José Antonio Ocampo, exjefe de la cartera de Hacienda de Petro, solicita un recorte superior al de la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/impuestos/jose-antonio-ocampo-exministro-de-hacienda-de-petro-pide-que-recorte-sea-mayor-al-presentado-en-la-ley-de-rescate-505589",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "José Antonio Ocampo, exministro de Hacienda de Petro, pide que recorte sea mayor al presentado en la Ley de Rescate",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Un núcleo familiar de 4 abonará 312.000 pesos por una noche en el Tren de la Navidad: infantes menores de 3 años no pagan",
+        "url": "https://www.portafolio.co/economia/una-familia-de-4-pagara-312-000-por-una-noche-en-el-tren-de-la-navidad-los-menores-de-3-anos-viajan-gratis-505586",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Una familia de 4 pagará $312.000 por una noche en el Tren de la Navidad: los menores de 3 años viajan gratis",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "La ley de salvamento fiscal asimismo incluye un beneficio en impuestos para firmas que apuesten y contraten",
+        "url": "https://www.portafolio.co/economia/impuestos/empuje-tributario-a-empresas-que-inviertan-y-den-empleo-505585",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Ley de rescate fiscal también trae un alivio tributario para las empresas que inviertan y den empleo",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Gobierno aporta $100.000 millones para proyecto en Barranquilla de cerca de $380.000 millones en Tajamar Occidental",
+        "url": "https://www.portafolio.co/economia/infraestructura/tajamar-occidental-suma-100-000-millones-del-gobierno-a-una-obra-de-cerca-de-380-000-millones-en-barranquilla-505581",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Tajamar Occidental suma $100.000 millones del Gobierno a una obra de cerca de $380.000 millones en Barranquilla",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Cierran todos los locales de KFC y Taco Bell en isla caribeña y explican los motivos de la salida",
+        "url": "https://www.portafolio.co/economia/kfc-y-taco-bell-cierran-todos-sus-restaurantes-en-esta-isla-del-caribe-esta-es-la-razon-del-adios-505574",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "KFC y Taco Bell cierran todos sus restaurantes en esta isla del Caribe: esta es la razón del adiós",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Presupuesto de Bogotá para 2027 proyecta $42,7 billones divididos en $33,2 para inversión, $5,7 de funcionamiento y $3,8 a deuda",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-busca-presupuesto-de-42-7-billones-para-2027-33-2-iran-a-inversion-5-7-a-funcionamiento-y-3-8-a-deuda-505572",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Bogotá busca presupuesto de $42,7 billones para 2027: $33,2 irán a inversión, $5,7 a funcionamiento y $3,8 a deuda",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Ley de rescate fiscal propuesta por el Gobierno De La Espriella enfrenta trabas por tiempo y canasta familiar",
+        "url": "https://www.portafolio.co/economia/canasta-familiar-duro-escollo-para-la-ley-de-rescate-fiscal-505570",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Tiempo y canasta familiar, obstáculos de la ley de rescate fiscal que presentó el Gobierno De La Espriella",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Kimi Antonelli gana título de F1 a los 20 años y recibiría 25 millones de euros en sueldo y bonos para 2026",
+        "url": "https://www.portafolio.co/economia/kimi-antonelli-campeon-de-f1-a-los-20-anos-sueldo-y-bonos-sumarian-25-millones-de-euros-en-505567",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Kimi Antonelli, campeón de F1 a los 20 años: sueldo y bonos sumarían 25 millones de euros en 2026",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Exministro Rodrigo Lara pide al Gobierno austeridad real y cero politiquería frente a la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/gobierno/exministro-rodrigo-lara-lanza-mensaje-al-gobierno-por-la-ley-de-rescate-cero-politiqueria-y-austeridad-real-505568",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Exministro Rodrigo Lara lanza mensaje al Gobierno por la Ley de Rescate: 'Cero politiquería y austeridad real'",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Puntaje en la licencia de conducción: cada multa quita puntos y perder todos anularía el pase",
+        "url": "https://www.portafolio.co/economia/licencia-de-conduccion-por-puntos-cada-infraccion-restaria-puntaje-y-agotarlo-podria-costarle-el-derecho-a-manejar-505564",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Licencia de conducción por puntos: cada infracción restaría puntaje y agotarlo podría costarle el derecho a manejar",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Afectaciones, altura y redes de servicios determinan la demolición de edificios tras el sismo",
+        "url": "https://www.portafolio.co/economia/infraestructura/danos-altura-y-redes-de-servicios-definen-como-se-demuele-un-edificio-en-las-zonas-afectadas-por-el-terremoto-505560",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Daños, altura y redes de servicios definen cómo se demuele un edificio en las zonas afectadas por el terremoto",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "La CRC prepara nuevas normas para que operadores de internet compartan infraestructura y bajen gastos",
+        "url": "https://www.portafolio.co/economia/infraestructura/la-crc-alista-nuevas-reglas-para-que-los-operadores-de-internet-compartan-redes-y-reduzcan-costos-505563",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "La CRC alista nuevas reglas para que los operadores de internet compartan redes y reduzcan costos",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Ataque en Tolima causa ochenta por ciento de daños a hospital y mandataria exige militarizar tres zonas",
+        "url": "https://www.portafolio.co/economia/regiones/atentado-en-tolima-dejo-un-hospital-con-80-de-danos-gobernadora-pide-militarizar-tres-municipios-505559",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Atentado en Tolima dejó un hospital con 80% de daños: gobernadora pide militarizar tres municipios",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
       {
         "titulo": "Murió este 1 de noviembre a los 78 años el exconstituyente Antonio Navarro Wolff",
         "url": "https://www.portafolio.co/economia/gobierno/quien-era-antonio-navarro-wolff-el-exconstituyente-que-fallecio-este-1-de-noviembre-a-los-78-anos-505543",
@@ -443,169 +603,99 @@
         "publicacion": "2026-10-30",
         "titulo_fuente": "¿Qué decisión tomó el Banco de la República sobre sus tasas de interés?",
         "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Citi señala que la Ley de Rescate estabilizaría el pasivo mas no lo disminuiría",
-        "url": "https://www.portafolio.co/economia/impuestos/banca-internacional-opina-citi-advierte-que-la-ley-de-rescate-podria-estabilizar-la-deuda-pero-no-reducirla-505442",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Banca internacional opina: Citi advierte que la Ley de Rescate podría estabilizar la deuda, pero no reducirla",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Vía terrestre o aérea: sugerencias de Movilidad y Aerocivil para desplazarse en el puente festivo",
-        "url": "https://www.portafolio.co/economia/por-carretera-o-en-avion-las-recomendaciones-de-movilidad-y-aerocivil-para-viajar-en-el-puente-de-halloween-505441",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Por carretera o en avión: las recomendaciones de Movilidad y Aerocivil para viajar en el puente de Halloween",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "A pesar de los gastos, colombianos siguen viajando; van 44,1 millones de viajeros en nueve meses",
-        "url": "https://www.portafolio.co/economia/pese-a-los-costos-los-colombianos-siguen-volando-ya-van-44-1-millones-de-pasajeros-en-nueve-meses-505424",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Pese a los costos, los colombianos siguen volando; ya van 44,1 millones de pasajeros en nueve meses",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Inflación continúa como principal inquietud macroeconómica para la estrategia inversora de aseguradoras",
-        "url": "https://www.portafolio.co/economia/finanzas/inflacion-sigue-siendo-la-principal-preocupacion-macroeconomica-para-la-estrategia-de-inversion-de-las-aseguradoras-505439",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Inflación sigue siendo la principal preocupación macroeconómica para la estrategia de inversión de las aseguradoras",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Coosalud EPS saldría de intervención: Supersalud acatará fallo y retornará su administración",
-        "url": "https://www.portafolio.co/economia/gobierno/coosalud-eps-se-prepara-para-salir-de-intervencion-supersalud-acatara-orden-judicial-y-devolvera-su-administracion-505433",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Coosalud EPS se prepara para salir de intervención: Supersalud acatará orden judicial y devolverá su administración",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Cotización del euro el 30 de octubre: la divisa sube de nuevo y suma tres días al alza",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-30-de-octubre-la-moneda-vuelve-a-subir-y-completa-tres-jornadas-al-alza-505431",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Precio del euro hoy 30 de octubre: la moneda vuelve a subir y completa tres jornadas al alza",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Megaproyectos gozarían de exenciones por 16 años: así operaría el nuevo marco de la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/megaproyectos-tendrian-beneficios-tributarios-por-16-anos-asi-funcionaria-el-nuevo-regimen-de-la-ley-de-rescate-505430",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Megaproyectos tendrían beneficios tributarios por 16 años: así funcionaría el nuevo régimen de la Ley de Rescate",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Compañías abonarían menor impuesto de renta, pero mayores gastos laborales con la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/empresas-pagarian-menos-impuesto-de-renta-pero-mas-costos-de-nomina-con-el-proyecto-de-la-ley-de-rescate-505425",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Empresas pagarían menos impuesto de renta, pero más costos de nómina con el proyecto de la Ley de Rescate",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Ley de rescate: modificaciones en declaración de renta afectarían las finanzas desde 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-cambios-en-declaracion-de-renta-tocaria-el-bolsillo-de-mas-colombianos-a-partir-del-ano-505429",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Ley de rescate: cambios en declaración de renta tocaría el bolsillo de más colombianos a partir del año 2027",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Minuto a minuto: ¿La ley de rescate fiscal elevará el IVA? Ejecutivo precisa los alcances",
-        "url": "https://www.portafolio.co/economia/crecimiento/minuto-a-minuto-asi-reacciona-el-pais-a-proyecto-de-ley-de-rescate-fiscal-radicado-por-el-gobierno-de-la-espriella-505422",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Minuto a minuto: ¿La ley de rescate fiscal aumentará el IVA? Gobierno aclara los alcances del proyecto",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "La revisión a la propuesta de ley de rescate fiscal",
-        "url": "https://www.portafolio.co/economia/crecimiento/el-analisis-al-proyecto-de-ley-de-rescate-fiscal-505427",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas, leidy julieth ruiz clavijo",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "El análisis al proyecto de ley de rescate fiscal",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Desocupación en Colombia cayó a 8% en septiembre: 322.000 ocupados adicionales ante 2025",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-desempleo-en-colombia-bajo-al-8-en-septiembre-322-000-personas-mas-con-trabajo-frente-a-505426",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Desempleo en Colombia bajó al 8% en septiembre: 322.000 personas más con trabajo frente a 2025",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Gobierno plantea eliminar el impuesto al patrimonio en 2031 y reducir el universo de contribuyentes",
-        "url": "https://www.portafolio.co/economia/gobierno/el-impuesto-al-patrimonio-desapareceria-en-2031-y-menos-personas-tendrian-que-pagarlo-esto-propuso-el-gobierno-505423",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "El impuesto al patrimonio desaparecería en 2031 y menos personas tendrían que pagarlo: esto propuso el Gobierno",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Café, frutas, azúcar, aceites y fertilizantes subirían al 19 % de IVA por Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/los-productos-que-la-ley-de-rescate-llevaria-al-19-de-iva-cafe-frutas-azucar-aceites-fertilizantes-y-mas-505419",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Los productos que la Ley de Rescate llevaría al 19 % de IVA: café, frutas, azúcar, aceites, fertilizantes y más",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Dólar sube antes de encuentro del Banco de la República que prevé alza en tasas de interés",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-dispara-previo-a-reunion-del-banco-de-la-republica-se-espera-un-aumento-de-la-tasa-de-interes-505420",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "El dólar se dispara previo a reunión del Banco de la República: se espera un aumento de la tasa de interés",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Plataformas como Temu y Shein pagarían 19 % de IVA sin importar monto según Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/ley-de-rescate-afecta-compras-por-temu-y-shein-compras-del-exterior-pagarian-iva-del-19-sin-importar-el-valor-505414",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Ley de Rescate obligaría a plataformas como Temu y Shein a pagar IVA del 19% sin importar el valor",
-        "capturado": "2026-10-30T09:51:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "AVATR 07 y 11 aterrizan en Colombia: los vehículos chinos de hasta 570 caballos y uno sin espejos",
+        "url": "https://www.portafolio.co/negocios/vehiculo/avatr-07-y-11-llegan-a-colombia-las-camionetas-chinas-de-hasta-570-caballos-de-potencia-una-de-ellas-sin-espejos-505582",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "AVATR 07 y 11 llegan a Colombia: las camionetas chinas de hasta 570 caballos de potencia, una de ellas sin espejos",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Fiscalía, Contraloría y Procuraduría hallan más de $9.800 millones en fondos de ciencia",
+        "url": "https://www.portafolio.co/negocios/industrias/contraloria-fiscalia-y-procuraduria-reciben-hallazgos-por-mas-de-9-800-millones-en-recursos-de-ciencia-505587",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Contraloría, Fiscalía y Procuraduría reciben hallazgos por más de $9.800 millones en recursos de ciencia",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Se cierra operación mercantil: Alicorp compra Rama y 18 marcas locales por más de US$150 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/se-concreta-jugada-empresarial-alicorp-adquiere-rama-y-18-marcas-regionales-por-mas-de-us-150-millones-505583",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Se concreta jugada empresarial: Alicorp adquiere Rama y 18 marcas regionales por más de US$150 millones",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Grupo Vardí introduce a Colombia a AVATR, la firma china de vehículos de lujo para rivalizar en precio",
+        "url": "https://www.portafolio.co/negocios/vehiculo/grupo-vardi-trae-a-colombia-a-avatr-la-marca-de-carros-chinos-de-hiperlujo-que-busca-competir-con-sus-precios-505575",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Grupo Vardí trae a Colombia a AVATR, la marca de carros chinos de hiperlujo que busca competir con sus precios",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "La cervecera 3 Cordilleras festeja 18 años con el 48% del mercado artesanal",
+        "url": "https://www.portafolio.co/negocios/empresas/ya-es-mayor-de-edad-la-cervecera-3-cordilleras-cumple-18-anos-con-el-48-de-cuota-del-mercado-artesanal-505466",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "¡Ya es mayor de edad! La cervecera 3 Cordilleras cumple 18 años con el 48% de cuota del mercado artesanal",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Obras de Aerocafé iniciarían tras el puente de Reyes con pista de 1.460 metros en su fase uno según KMA",
+        "url": "https://www.portafolio.co/negocios/empresas/aerocafe-arrancaria-obras-despues-del-puente-de-reyes-la-primera-fase-tendra-una-pista-de-1-460-metros-segun-kma-505451",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Aerocafé arrancaría obras después del puente de Reyes: la primera fase tendrá una pista de 1.460 metros, según KMA",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Créditos por 50000 millones de Alta e inDrive financiarán 1000 carros para conductores en Medellín",
+        "url": "https://www.portafolio.co/negocios/vehiculo/alta-e-indrive-buscan-financiar-1-000-vehiculos-para-conductores-en-medellin-con-creditos-por-50-000-millones-505573",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Alta e inDrive buscan financiar 1.000 vehículos para conductores en Medellín con créditos por $50.000 millones",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "Civitatis proyecta un aumento superior al 50% en Colombia impulsada por las agencias de viajes",
+        "url": "https://www.portafolio.co/negocios/empresas/civitatis-preve-crecer-mas-de-50-en-colombia-con-las-agencias-de-viajes-como-motor-de-expansion-505561",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Civitatis prevé crecer más de 50% en Colombia con las agencias de viajes como motor de expansión",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
+      {
+        "titulo": "El ciberataque que dio el control de sistemas de frío en supermercados europeos a los piratas",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-fue-el-ciberataque-que-permitio-a-piratas-informaticos-controlar-los-sistemas-de-frio-de-supermercados-europeos-505545",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "Así fue el ciberataque que permitió a piratas informáticos controlar los sistemas de frío de supermercados europeos",
+        "capturado": "2026-11-02T17:24:27-05:00"
+      },
       {
         "titulo": "DAVIbank pasa a llamarse Davivienda tras finalizar su proceso de unificación",
         "url": "https://www.portafolio.co/negocios/empresas/tras-completar-su-integracion-con-davivienda-davibank-cambia-su-razon-social-a-lambda-bank-que-implica-505540",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-10-28",
         "titulo_fuente": "Avianca Group prevé que la capacidad 'se va a achicar' con jet fuel caro en el 2027 y anuncia revisión de rutas",
         "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Comerciantes solicitan anular arancel del 40% a prendas, quitar tributos a tenderos y modificar normas para Temu y Shein",
-        "url": "https://www.portafolio.co/negocios/comercio/fenalco-pide-tumbar-el-arancel-del-40-a-la-ropa-eliminar-impuestos-a-tenderos-y-cambiar-reglas-para-temu-y-shein-505325",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Comerciantes piden tumbar arancel de 40% a la ropa, eliminar impuestos a tenderos y cambiar reglas a Temu y Shein",
-        "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Firma nacional de herramientas prevé llegar a 4.500 ferreterías para el año 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/la-marca-colombiana-de-herramientas-que-proyecta-llegar-a-4-500-ferreterias-en-505324",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "La marca colombiana de herramientas que proyecta llegar a 4.500 ferreterías en 2027",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Según el Ejecutivo, británica Río Tinto destinaría $5 billones en Chocó a cuatro años",
-        "url": "https://www.portafolio.co/negocios/inversion/minera-britanica-rio-tinto-invertiria-5-billones-en-el-choco-durante-los-proximos-cuatro-anos-segun-el-gobierno-505314",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Minera británica Río Tinto invertiría $5 billones en el Chocó durante los próximos cuatro años, según el Gobierno",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Marca local de ropa interior de hombre busca atraer mujeres y vender $28.000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-marca-colombiana-de-ropa-interior-masculina-quiere-conquistar-a-las-mujeres-y-facturar-28-000-millones-505316",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Esta marca colombiana de ropa interior masculina quiere conquistar a las mujeres y facturar $28.000 millones",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Celebración de Halloween dinamizará el consumo familiar incluyendo a las mascotas",
-        "url": "https://www.portafolio.co/negocios/comercio/halloween-movera-el-gasto-de-los-hogares-hasta-la-mascotas-tendran-su-disfraz-505313",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Halloween moverá el gasto de los hogares: hasta la mascotas tendrán su disfraz",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Detalles de los US$1.000 millones que PepsiCo invertirá en dos plantas en Colombia",
-        "url": "https://www.portafolio.co/negocios/inversion/inversion-de-pepsico-en-colombia-los-detalles-de-los-us-1-000-millones-anunciados-para-dos-plantas-505308",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Inversión de PepsiCo en Colombia: los detalles de los US$1.000 millones anunciados para dos plantas",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "ISA modifica estatutos y designa nueva Junta Directiva con cambios aprobados",
-        "url": "https://www.portafolio.co/negocios/empresas/isa-reforma-sus-estatutos-y-elige-nueva-junta-directiva-estos-son-los-cambios-aprobados-505303",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "ISA reforma sus estatutos y elige nueva Junta Directiva: estos son los cambios aprobados",
-        "capturado": "2026-10-28T18:05:04-05:00"
-      },
-      {
-        "titulo": "Elección en la presidencia de la Andi: cuatro aspirantes siguen en puja tras la salida de Jaime Bermúdez",
-        "url": "https://www.portafolio.co/negocios/empresas/jaime-bermudez-se-retira-de-la-carrera-por-la-presidencia-de-la-andi-quedan-cuatro-nombres-en-la-lista-505300",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Carrera por la presidencia de la Andi: los cuatro nombres que quedan en la lista tras el retiro de Jaime Bermúdez",
-        "capturado": "2026-10-28T13:58:43-05:00"
-      },
-      {
-        "titulo": "El 97,4 % de los micronegocios con ventas menores a $1 millón mensuales operan en la informalidad",
-        "url": "https://www.portafolio.co/negocios/empresas/la-informalidad-alcanza-al-97-4-de-los-micronegocios-que-venden-menos-de-1-millon-al-mes-505297",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "La informalidad alcanza al 97,4 % de los micronegocios que venden menos de $1 millón al mes",
-        "capturado": "2026-10-28T13:58:43-05:00"
       }
     ]
   }
