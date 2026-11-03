@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-02T22:36:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-03T06:38:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sismo de magnitud 5,6 sacudió al país en la madrugada de este martes",
+        "url": "https://www.portafolio.co/economia/regiones/fuerte-temblor-de-magnitud-5-6-sacudio-a-colombia-en-la-madrugada-de-este-martes-505594",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Fuerte temblor de magnitud 5,6 sacudió a Colombia en la madrugada de este martes",
+        "capturado": "2026-11-03T06:38:26-05:00"
+      },
       {
         "titulo": "El FMI aprueba la norma de salvamento financiero planteada por el mandato de De La Espriella",
         "url": "https://www.portafolio.co/economia/gobierno/fondo-monetario-internacional-respalda-la-ley-de-rescate-economico-que-propuso-el-gobierno-de-la-espriella-505592",
@@ -592,16 +602,6 @@
         "subseccion": "Crecimiento",
         "publicacion": "2026-10-30",
         "titulo_fuente": "Banco de la República decidió mantener estable la tasa de interés en 12,25%",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Qué determinación adoptó el Emisor frente a sus tasas de interés",
-        "url": "https://www.portafolio.co/economia/crecimiento/que-decision-tomo-el-banco-de-la-republica-sobre-sus-tasas-de-interes-505445",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "¿Qué decisión tomó el Banco de la República sobre sus tasas de interés?",
         "capturado": "2026-10-30T14:50:53-05:00"
       }
     ],
