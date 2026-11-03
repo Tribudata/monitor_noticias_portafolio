@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-03T06:38:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-03T14:05:59-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Bogotá arranca noviembre con 3.074 puestos de trabajo: sepa los perfiles y el proceso de postulación",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-inicia-noviembre-con-3-074-vacantes-de-empleo-conozca-los-cargos-y-como-postularse-505622",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Bogotá inicia noviembre con 3.074 vacantes de empleo: conozca los cargos y cómo postularse",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Estatuto de salvavidas financiero genera cuestionamientos de concesionarios por alza de IVA a carros eléctricos",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-desata-criticas-de-concesionarios-por-mayor-iva-a-vehiculos-electricos-505615",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Ley de rescate económico desata críticas de concesionarios por mayor IVA a vehículos eléctricos",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Cinco jornadas adicionales en el exterior: traslados externos de colombianos aumentaron 38% en tiempo entre 2024 y 2026",
+        "url": "https://www.portafolio.co/economia/cinco-dias-mas-fuera-del-pais-viajes-internacionales-de-colombianos-crecieron-38-en-duracion-entre-2024-y-505612",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Cinco días más fuera del país: viajes internacionales de colombianos crecieron 38% en duración entre 2024 y 2026",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Ministerio Público abrió cargos a Daniel Quintero por supuesta intervención en política",
+        "url": "https://www.portafolio.co/economia/gobierno/procuraduria-formulo-pliego-de-cargos-a-daniel-quintero-por-presunta-participacion-en-politica-505614",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Procuraduría formuló pliego de cargos a Daniel Quintero por presunta participación en política",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Seis torres Starlink, 38 enrutadores y 3.754 chips: las incautaciones de la diligencia de De La Espriella en La Picota",
+        "url": "https://www.portafolio.co/economia/gobierno/megaoperativo-en-bogota-los-hallazgos-en-la-picota-y-la-ofensiva-de-de-la-espriella-en-las-carceles-del-pais-505611",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Seis antenas Starlink, 38 módems y 3.754 tarjetas SIM: los hallazgos del operativo de De La Espriella en La Picota",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "BlaBlaCar acumula más de 20.000 clientes en Colombia en un semestre y la nación encabeza los mercados iniciados en 2026",
+        "url": "https://www.portafolio.co/economia/blablacar-suma-mas-de-20-000-usuarios-en-colombia-en-cinco-meses-y-el-pais-lidera-los-mercados-que-abrio-en-505608",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "BlaBlaCar suma más de 20.000 usuarios en Colombia en cinco meses y el país lidera los mercados que abrió en 2026",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "El euro arranca perdiendo terreno frente al alza del dólar este martes 3 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/el-euro-inicia-a-la-baja-mientras-el-dolar-sube-asi-cotiza-la-moneda-europea-este-martes-3-de-noviembre-505610",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "El euro inicia a la baja, mientras el dólar sube: así cotiza la moneda europea este martes 3 de noviembre",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Fomag implementa un plan de choque en Antioquia para normalizar la salud de los profesores",
+        "url": "https://www.portafolio.co/economia/gobierno/fomag-activa-en-antioquia-un-plan-de-choque-para-estabilizar-la-atencion-en-salud-de-los-docentes-505607",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Fomag activa en Antioquia un plan de choque para estabilizar la atención en salud de los docentes",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Bogotá asignaría 6,8 billones de pesos a movilidad en 2027 para apoyar el Metro y vías",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-destinaria-6-8-billones-a-la-movilidad-en-2027-para-impulsar-el-metro-y-grandes-corredores-505603",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Bogotá destinaría $6,8 billones a la movilidad en 2027 para impulsar el Metro y grandes corredores",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Más de 12 millones de pacientes poseen historia clínica digital en el avance de Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-de-12-millones-de-pacientes-ya-tienen-historia-clinica-digital-asi-avanza-la-interoperabilidad-en-colombia-505605",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Más de 12 millones de pacientes ya tienen historia clínica digital: así avanza la interoperabilidad en Colombia",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master, líder saliente de la Andi, exige claridad fiscal previa a nuevos tributos",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-saliente-de-la-andi-bruce-mac-master-pide-claridad-sobre-ahorro-estatal-antes-de-subir-los-impuestos-505599",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Presidente saliente de la Andi, Bruce Mac Master, pide claridad sobre ahorro estatal antes de subir los impuestos",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Los rendimientos de los CDT seguirán elevados pronto tras la tasa de interés en 12,25%",
+        "url": "https://www.portafolio.co/economia/gobierno/con-la-tasa-del-emisor-en-12-25-los-cdt-preven-que-los-rendimientos-sigan-altos-en-el-corto-plazo-505598",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Rentabilidades de los CDT continuarían altas en el corto plazo, tras mantenerse la tasa de interés en 12,25%",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "El FMI aprueba ley de rescate económico y el Banco de la República resalta sus impactos previsibles",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-recibe-espaldarazo-del-fmi-y-el-banco-de-la-republica-destaca-sus-posibles-efectos-505597",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Ley de rescate económico recibe espaldarazo del FMI y el Banco de la República destaca sus posibles efectos",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio sube al arrancar noviembre en Colombia: precio de la divisa este martes 3",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-alcanzar-los-3-250-esta-semana-asi-cotiza-la-divisa-este-martes-3-de-noviembre-505595",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Dólar en Colombia inició noviembre al alza: así cotiza la divisa este martes 3",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
       {
         "titulo": "Sismo de magnitud 5,6 sacudió al país en la madrugada de este martes",
         "url": "https://www.portafolio.co/economia/regiones/fuerte-temblor-de-magnitud-5-6-sacudio-a-colombia-en-la-madrugada-de-este-martes-505594",
@@ -463,149 +603,49 @@
         "publicacion": "2026-10-31",
         "titulo_fuente": "Ideam pronostica lluvias y temperaturas de casi 40°C este fin de semana en estas regiones de Colombia",
         "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "CRC alista 18 modificaciones normativas en telecomunicaciones que ya están en análisis",
-        "url": "https://www.portafolio.co/economia/gobierno/crc-prepara-18-cambios-regulatorios-para-telecomunicaciones-estos-son-los-temas-que-estan-bajo-revision-505482",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "CRC prepara 18 cambios regulatorios para telecomunicaciones: estos son los temas que están bajo revisión",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Bogotá tendrá 1,8 millones de automotores en el puente de Halloween con plan éxodo y retorno",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-movilizara-1-8-millones-de-vehiculos-en-el-puente-festivo-de-halloween-conozca-el-plan-exodo-y-reporto-505481",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Bogotá movilizará 1,8 millones de vehículos en el puente festivo de Halloween: conozca el plan éxodo y retorno",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Consulte y baje la versión digital de Portafolio fin de semana",
-        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-505479",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Gobierno termina contrato de 36 años del Fomag con Fiduprevisora y avisa nueva fase para educadores",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-pone-fin-a-contrato-de-36-anos-del-fomag-con-fiduprevisora-y-anuncia-nueva-etapa-para-maestros-505480",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Gobierno pone fin a contrato de 36 años del Fomag con Fiduprevisora y anuncia nueva etapa para maestros",
-        "capturado": "2026-10-31T04:18:08-05:00"
-      },
-      {
-        "titulo": "Claro destinó $19.000 millones para conectar a Puerto Carreño con 410 kilómetros de red en la selva",
-        "url": "https://www.portafolio.co/economia/regiones/claro-invirtio-19-000-millones-para-llevar-una-red-de-410-kilometros-por-la-selva-hasta-puerto-carreno-505474",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Claro invirtió $19.000 millones para llevar una red de 410 kilómetros por la selva hasta Puerto Carreño",
-        "capturado": "2026-10-30T21:39:59-05:00"
-      },
-      {
-        "titulo": "Rendón contacta de nuevo a Elon Musk con la misma oferta para SpaceX en Antioquia planteada en mayo",
-        "url": "https://www.portafolio.co/economia/regiones/rendon-vuelve-a-buscar-a-elon-musk-la-propuesta-para-spacex-en-antioquia-que-ya-habia-hecho-en-mayo-505470",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Rendón vuelve a buscar a Elon Musk: la propuesta para SpaceX en Antioquia que ya había hecho en mayo",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Satena analiza trayectos a Miami, San Andrés y Costa Rica, sumando destinos en Brasil y Venezuela",
-        "url": "https://www.portafolio.co/economia/satena-estudia-rutas-monteria-miami-y-san-andres-costa-rica-asi-como-otros-destinos-en-brasil-y-venezuela-505469",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Satena estudia rutas Montería-Miami y San Andrés-Costa Rica; así como otros destinos en Brasil y Venezuela",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Plan 10-20-30: Ejecutivo proyecta diez millones de viajeros y US$ 20.000 millones en divisas al 2030",
-        "url": "https://www.portafolio.co/economia/gobierno/hoja-de-ruta-10-20-30-gobierno-apuesta-por-diez-millones-de-turistas-y-us-20-000-millones-en-divisas-a-505468",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Hoja de ruta 10-20-30: Gobierno apuesta por diez millones de turistas y US$ 20.000 millones en divisas a 2030",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Tasa de usura para créditos de consumo en noviembre será 28,34% efectivo anual según Superfinanciera",
-        "url": "https://www.portafolio.co/economia/finanzas/creditos-de-consumo-tendran-nuevo-tope-de-usura-en-noviembre-superfinanciera-lo-certifico-en-28-34-efectivo-anual-505461",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Créditos de consumo tendrán nuevo tope de usura en noviembre: Superfinanciera lo certificó en 28,34% efectivo anual",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Capturan a jueza que ordenó liberar a ciudadano neerlandés bajo indicios de pacto financiero ilegal",
-        "url": "https://www.portafolio.co/economia/gobierno/jueza-que-ordeno-libertad-de-ciudadano-neerlandes-fue-capturada-investigan-presunto-acuerdo-millonario-505454",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Jueza que ordenó libertad de ciudadano neerlandés fue capturada: investigan presunto acuerdo millonario",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Minvivienda afirma que subsidios VIS persistirán con la Ley de Rescate Fiscal y exige más recursos",
-        "url": "https://www.portafolio.co/economia/exclusivo-minvivienda-beneficios-vis-se-van-a-mantener-con-la-ley-de-rescate-fiscal-pero-pide-mas-inversion-505443",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Exclusivo| Minvivienda: beneficios VIS ‘se van a mantener’ con la Ley de Rescate Fiscal pero pide más inversión",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Emisor adquirirá US$2.000 millones al Ejecutivo: así será la transacción antes de concluir 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-comprara-us-2-000-millones-al-gobierno-asi-se-hara-la-operacion-antes-de-finalizar-505450",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Banco de la República comprará US$2.000 millones al Gobierno: así se hará la operación antes de finalizar 2026",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Emisor respalda la ley de salvavidas fiscal propuesta por el gobierno De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-ve-con-buenos-ojos-la-ley-de-rescate-fiscal-presentada-por-el-gobierno-de-la-espriella-505449",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Banco de la República ve con buenos ojos la ley de rescate fiscal presentada por el gobierno De La Espriella",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Emisor optó por conservar sin cambios el interés en 12,25%",
-        "url": "https://www.portafolio.co/economia/crecimiento/banco-de-la-republica-decidio-mantener-estable-la-tasa-de-interes-en-12-505448",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Banco de la República decidió mantener estable la tasa de interés en 12,25%",
-        "capturado": "2026-10-30T14:50:53-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "A los empleados les cuesta trabajo apartarse de las labores laborales",
+        "url": "https://www.portafolio.co/negocios/empresas/desconectarse-de-las-tareas-de-la-oficina-una-dificultad-entre-los-trabajadores-505616",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Desconectarse de las tareas de la oficina, una dificultad entre los trabajadores",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "CRC cambia tiempos para marcar llamadas comerciales y dudosas en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/crc-modifica-plazos-para-identificar-llamadas-publicitarias-y-sospechosas-en-colombia-505621",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "CRC modifica plazos para identificar llamadas publicitarias y sospechosas en Colombia",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Lucas Madriñán liderará RappiPay buscando llegar a 1,5 millones de usuarios",
+        "url": "https://www.portafolio.co/negocios/empresas/lucas-madrinan-asume-la-direccion-de-rappipay-con-la-meta-de-alcanzar-1-5-millones-de-clientes-505618",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Lucas Madriñán asume la dirección de RappiPay con la meta de alcanzar 1,5 millones de clientes",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
+      {
+        "titulo": "Matan a empleado petrolero en Barrancabermeja y Campetrol exige más protección",
+        "url": "https://www.portafolio.co/negocios/empresas/asesinan-a-trabajador-petrolero-en-barrancabermeja-y-campetrol-pide-reforzar-la-seguridad-en-la-zona-505609",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Asesinan a trabajador petrolero en Barrancabermeja y Campetrol pide reforzar la seguridad en la zona",
+        "capturado": "2026-11-03T14:05:59-05:00"
+      },
       {
         "titulo": "AVATR 07 y 11 aterrizan en Colombia: los vehículos chinos de hasta 570 caballos y uno sin espejos",
         "url": "https://www.portafolio.co/negocios/vehiculo/avatr-07-y-11-llegan-a-colombia-las-camionetas-chinas-de-hasta-570-caballos-de-potencia-una-de-ellas-sin-espejos-505582",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Halloween: exportaciones de dulces caen 13,2%, pero siete mercados ya superan a Estados Unidos en compras",
         "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Aon proyecta un alza del 9,3 % para los planes médicos corporativos en Colombia durante 2027",
-        "url": "https://www.portafolio.co/negocios/empresas/los-planes-medicos-empresariales-en-colombia-subirian-9-3-en-2027-segun-proyeccion-de-aon-505342",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Los planes médicos empresariales en Colombia subirían 9,3 % en 2027, según proyección de Aon",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Disminuiría la cantidad de enseñas automotrices chinas",
-        "url": "https://www.portafolio.co/negocios/vehiculo/habria-menos-marcas-de-autos-chinos-505330",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Habría menos marcas de autos chinos",
-        "capturado": "2026-10-29T04:23:52-05:00"
-      },
-      {
-        "titulo": "Renault Filante, el crossover prémium de la marca",
-        "url": "https://www.portafolio.co/negocios/vehiculo/renault-filante-el-crossover-premium-de-la-marca-505329",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Renault Filante, el crossover ‘premium’ de la marca",
-        "capturado": "2026-10-28T21:38:45-05:00"
-      },
-      {
-        "titulo": "Avianca Group prevé reducción de capacidad por jet fuel caro en 2027 y anuncia revisión de rutas",
-        "url": "https://www.portafolio.co/negocios/empresas/avianca-group-preve-que-la-capacidad-se-va-a-achicar-con-jet-fuel-caro-en-el-2027-y-anuncia-revision-de-rutas-505328",
-        "resumen": "",
-        "autor": "Jose caparroso, omar g. ahumada rojas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Avianca Group prevé que la capacidad 'se va a achicar' con jet fuel caro en el 2027 y anuncia revisión de rutas",
-        "capturado": "2026-10-28T21:38:45-05:00"
       }
     ]
   }
