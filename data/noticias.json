@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-03T19:04:37-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-04T01:51:29-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Fuerte discusión entre el ministro de Agricultura y el presidente de Fedegán por los recursos",
+        "url": "https://www.portafolio.co/economia/gobierno/donde-esta-la-plata-el-fuerte-choque-entre-ministro-de-agricultura-y-presidente-de-fedegan-505666",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "'¿Dónde está la plata?': el fuerte choque entre ministro de Agricultura y presidente de Fedegán",
+        "capturado": "2026-11-04T01:51:29-05:00"
+      },
+      {
+        "titulo": "Madrid acogerá la Milagro Week en 2027 para captar capital europeo hacia iniciativas colombianas",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-llevara-sus-proyectos-a-europa-madrid-sera-sede-de-milagro-week-para-atraer-inversion-en-505662",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Colombia llevará sus proyectos a Europa: Madrid será sede de Milagro Week para atraer inversión en 2027",
+        "capturado": "2026-11-04T01:51:29-05:00"
+      },
+      {
+        "titulo": "Carlos de Hartt declina su candidatura a la presidencia de la Andi y quedan dos opcionados",
+        "url": "https://www.portafolio.co/economia/carlos-de-hart-renuncio-a-la-aspiracion-de-la-presidencia-de-la-andi-505661",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Carlos de Hartt renunció a la aspiración de la presidencia de la Andi: los dos nombres que siguen en carrera",
+        "capturado": "2026-11-04T01:51:29-05:00"
+      },
       {
         "titulo": "Senado avala ley de sometimiento tras 10 horas y la Cámara decidirá el futuro",
         "url": "https://www.portafolio.co/economia/gobierno/tras-10-horas-de-debate-senado-aprueba-la-ley-de-sometimiento-pero-la-camara-tiene-la-ultima-palabra-505657",
@@ -573,39 +603,29 @@
         "publicacion": "2026-11-01",
         "titulo_fuente": "Embargo de la Dian por $16,4 billones dejaría a Ecopetrol con solo 23 días de caja disponible",
         "capturado": "2026-11-01T10:46:53-05:00"
-      },
-      {
-        "titulo": "Desde mañana inicia plan piloto para bajar tarifa en cinco peajes del Eje Cafetero de $17.800 a $700",
-        "url": "https://www.portafolio.co/economia/infraestructura/desde-manana-entra-plan-piloto-de-reduccion-de-tarifa-en-cinco-peajes-del-eje-cafetero-pasaran-de-17-800-a-505514",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Desde mañana entra plan piloto de reducción de tarifa en cinco peajes del Eje Cafetero: pasarán de $17.800 a $700",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Cultivos de banano colombiano en riesgo por Fusarium: CAN y Alemania fortalecen plan de protección",
-        "url": "https://www.portafolio.co/economia/agro/banano-colombiano-enfrenta-la-amenaza-del-fusarium-can-y-alemania-refuerzan-estrategia-para-proteger-los-cultivos-505512",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Banano colombiano enfrenta la amenaza del Fusarium: CAN y Alemania refuerzan estrategia para proteger los cultivos",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Exportaciones bananeras del Caribe caen 31,9% en 2026 y restan espacio al país en el exterior",
-        "url": "https://www.portafolio.co/economia/agro/banano-colombiano-pierde-terreno-en-los-mercados-internacionales-exportaciones-del-caribe-caen-31-9-en-505511",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Banano colombiano pierde terreno en los mercados internacionales: exportaciones del Caribe caen 31,9% en 2026",
-        "capturado": "2026-10-31T17:45:15-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Air Canada destaca la futura importancia de Bogotá como hub junto a Avianca",
+        "url": "https://www.portafolio.co/negocios/empresas/bogota-se-convertira-eventualmente-en-un-centro-de-conexion-muy-importante-air-canada-y-su-alianza-con-avianca-505635",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "“Bogotá se convertirá eventualmente en un centro de conexión muy importante”: Air Canada y su alianza con Avianca",
+        "capturado": "2026-11-04T01:51:29-05:00"
+      },
+      {
+        "titulo": "Ascun propone planes de estudio conjuntos entre sector educativo y empresarial",
+        "url": "https://www.portafolio.co/negocios/ascun-curriculos-co-creados-para-unir-academia-y-empresa-505664",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Ascun: Currículos co-creados para unir academia y empresa",
+        "capturado": "2026-11-04T01:51:29-05:00"
+      },
       {
         "titulo": "Mallplaza registra ingresos por US$ 179,7 millones gracias a ocho centros comerciales en Colombia y acuerdo con Falabella",
         "url": "https://www.portafolio.co/negocios/mallplaza-con-ocho-centros-mas-en-colombia-y-alianza-con-falabella-reporta-ingresos-por-us-179-7-millones-505660",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-10-29",
         "titulo_fuente": "Grupo Nutresa completa adquisición de Tío Rico y toma el control de su negocio de helados en Venezuela",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Precio, entregas y calidad: estrategias de marcas locales frente a Shein y Temu",
-        "url": "https://www.portafolio.co/negocios/empresas/calidad-precio-y-entregas-las-cartas-de-las-marcas-colombianas-frente-a-temu-y-shein-505379",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Calidad, precio y entregas: las cartas de las marcas colombianas frente a Temu y Shein",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Coca-Cola Femsa creció 40,5% en ventas en Colombia entre julio y septiembre y 24,7% a septiembre",
-        "url": "https://www.portafolio.co/negocios/industrias/coca-cola-femsa-aumento-40-5-sus-ingresos-en-colombia-en-el-tercer-trimestre-y-24-7-a-septiembre-505372",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Coca-Cola Femsa aumentó 40,5% sus ingresos en Colombia en el tercer trimestre y 24,7% a septiembre",
         "capturado": "2026-10-29T16:18:50-05:00"
       }
     ]
