@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-03T14:05:59-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-11-03T19:04:37-05:00",
+  "nuevos_en_esta_corrida": 24,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Senado avala ley de sometimiento tras 10 horas y la Cámara decidirá el futuro",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-10-horas-de-debate-senado-aprueba-la-ley-de-sometimiento-pero-la-camara-tiene-la-ultima-palabra-505657",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Tras 10 horas de debate, Senado aprueba la ley de sometimiento pero la Cámara tiene la última palabra",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Fenalco sugiere un acuerdo de prudencia en el gasto fiscal para todo el Estado",
+        "url": "https://www.portafolio.co/economia/fenalco-propone-pacto-de-austeridad-fiscal-para-todo-el-estado-505650",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Fenalco propone pacto de austeridad fiscal para todo el Estado",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Disputa de marcas entre Davivienda y Plata Colombia: la fintech dispone de un mes para responder",
+        "url": "https://www.portafolio.co/economia/davivienda-se-opone-a-plata-colombia-la-fintech-tiene-30-dias-habiles-para-defender-su-marca-505649",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "El rifirrafe marcario que enfrenta a Davivienda y a Plata Colombia: la fintech tiene un mes para defender su nombre",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Proyecto de Salvamento Económico: las modificaciones tributarias propuestas por el Ejecutivo",
+        "url": "https://www.portafolio.co/economia/impuestos/ley-de-rescate-economico-los-cambios-en-impuestos-que-plantea-el-gobierno-505648",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Ley de Rescate Económico: los cambios en impuestos que plantea el Gobierno",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Impacto energético de la norma de salvamento: IVA al combustible y tributo al carbono",
+        "url": "https://www.portafolio.co/economia/iva-a-la-gasolina-impuesto-al-carbono-y-otros-efectos-de-la-ley-de-rescate-en-la-energia-505647",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "IVA a la gasolina, impuesto al carbono y otros efectos de la ley de rescate en la energía",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella envió mensaje de urgencia al Congreso para acelerar el rescate fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-radico-en-el-congreso-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-fiscal-505646",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Gobierno De La Espriella radicó en el Congreso mensaje de urgencia para acelerar trámite de ley de rescate fiscal",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Licencia por puntos: se quedarían los infractores sin el permiso para conducir",
+        "url": "https://www.portafolio.co/economia/gobierno/licencia-de-conduccion-por-puntos-perderian-los-infractores-el-derecho-a-manejar-505645",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Licencia de conducción por puntos: ¿perderían los infractores el derecho a manejar?",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Alza del salario mínimo para 2027 en Colombia: ofertas de incremento entre 8% y 38,5%",
+        "url": "https://www.portafolio.co/economia/aumento-del-salario-minimo-2027-propuestas-van-del-8-al-38-505643",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Aumento del salario mínimo en Colombia para 2027: las propuestas de ajuste van desde el 8% al 38,5%",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Proyecto pretende reactivar la regla fiscal en 2027 y fijar topes automáticos al gasto",
+        "url": "https://www.portafolio.co/economia/reforma-busca-reactivar-la-regla-fiscal-en-2027-y-establecer-limites-automaticos-al-crecimiento-del-gasto-publico-505640",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Reforma busca reactivar la regla fiscal en 2027 y establecer límites automáticos al crecimiento del gasto público",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Contrarreforma pensional del Centro Democrático plantea cambiar 14 artículos y tumbar 2",
+        "url": "https://www.portafolio.co/economia/gobierno/contrarreforma-pensional-busca-devolver-la-eleccion-entre-colpensiones-y-fondos-privados-andres-forero-505639",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Contrarreforma pensional del Centro Democrático propone modificar 14 artículos y derogar 2 ya aprobados",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "De la caña a la energía: Ingenio Providencia cumple cien años con iniciativas de expansión",
+        "url": "https://www.portafolio.co/economia/agro/de-la-cana-a-la-energia-ingenio-providencia-celebra-un-siglo-de-historia-con-nuevos-proyectos-de-crecimiento-505625",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "De la caña a la energía: Ingenio Providencia celebra un siglo de historia con nuevos proyectos de crecimiento",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate elevaría la inflación de 2027 hasta un 6,49%",
+        "url": "https://www.portafolio.co/economia/ley-de-rescate-podria-llevar-la-inflacion-de-2027-hasta-6-505636",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Ley de Rescate podría llevar la inflación de 2027 hasta 6,49%",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Ahorro navideño: organismos estatales tendrán que disminuir el gasto en fiestas decembrinas",
+        "url": "https://www.portafolio.co/economia/austeridad-en-navidad-entidades-del-gobierno-deberan-racionalizar-el-gasto-en-celebraciones-de-fin-de-ano-505634",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Austeridad en Navidad: entidades del Gobierno deberán racionalizar el gasto en celebraciones de fin de año",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Anif advierte que salud, subsidios y pensiones peligran sin ley de rescate financiero en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/salud-subsidios-y-pensiones-quedarian-en-riesgo-si-colombia-no-aprueba-ley-de-rescate-economico-anif-505629",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Salud, subsidios y pensiones quedarían en riesgo si Colombia no aprueba ley de rescate económico: Anif",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Subastas de carros de la Dian desde 8,1 millones de pesos en noviembre: fechas, modelos y pasos",
+        "url": "https://www.portafolio.co/economia/dian-abre-subastas-de-vehiculos-desde-8-1-millones-fechas-modelos-y-requisitos-para-participar-en-noviembre-505628",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "DIAN abre subastas de vehículos desde $8,1 millones: fechas, modelos y requisitos para participar en noviembre",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Ejecutivo contaría con apoyo base del 70% en comisiones económicas para debate de reforma tributaria",
+        "url": "https://www.portafolio.co/economia/gobierno-tendria-respaldo-inicial-del-70-de-las-comisiones-economicas-para-tramitar-reforma-tributaria-505626",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Gobierno tendría respaldo inicial del 70% de las comisiones económicas para tramitar reforma tributaria",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
       {
         "titulo": "Bogotá arranca noviembre con 3.074 puestos de trabajo: sepa los perfiles y el proceso de postulación",
         "url": "https://www.portafolio.co/economia/regiones/bogota-inicia-noviembre-con-3-074-vacantes-de-empleo-conozca-los-cargos-y-como-postularse-505622",
@@ -443,169 +603,89 @@
         "publicacion": "2026-10-31",
         "titulo_fuente": "Banano colombiano pierde terreno en los mercados internacionales: exportaciones del Caribe caen 31,9% en 2026",
         "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Exministro de Hacienda critica el retraso en radicar la ley de rescate fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/exministro-de-hacienda-cuestiona-demora-en-la-presentacion-de-la-ley-de-rescate-fiscal-505510",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Exministro de Hacienda cuestiona demora en la presentación de la ley de rescate fiscal",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Proyecto de rescate fiscal encarecería varios productos, desde el café hasta el aguardiente",
-        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-alimentos-y-bebidas-que-podrian-encarecerse-con-la-ley-de-rescate-fiscal-que-presento-el-gobierno-505508",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Del aguardiente al café: los productos que podrían subir de precio por la ley de rescate",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Banrepública vigilará inflación, fenómeno de El Niño y cuentas fiscales para mover tasas",
-        "url": "https://www.portafolio.co/economia/gobierno/el-nino-la-inflacion-y-las-cuentas-fiscales-las-variables-que-vigilara-el-banrep-para-ajustar-las-tasas-505507",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "El Niño, la inflación y las cuentas fiscales: las variables que vigilará el Banrepública para ajustar las tasas",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "Las urbes colombianas con más y menos desempleo en septiembre según el escalafón laboral",
-        "url": "https://www.portafolio.co/economia/regiones/el-ranking-del-empleo-en-colombia-las-ciudades-con-mayor-y-menor-desocupacion-en-septiembre-505506",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "El ranking del empleo en Colombia: las ciudades con mayor y menor desocupación en septiembre",
-        "capturado": "2026-10-31T17:45:15-05:00"
-      },
-      {
-        "titulo": "El futuro médico de los docentes: aspectos clave del cambio en el Fomag tras la salida de Fiduprevisora",
-        "url": "https://www.portafolio.co/economia/gobierno/que-pasara-con-la-salud-de-los-maestros-claves-de-la-transicion-del-fomag-tras-la-salida-de-fiduprevisora-505505",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "¿Qué pasará con la salud de los maestros? Claves de la transición del Fomag tras la salida de Fiduprevisora",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Tributo de renta aplicaría a quienes devenguen desde $5 millones según la reforma fiscal de De La Espriella",
-        "url": "https://www.portafolio.co/economia/impuestos/personas-que-ganan-desde-5-millones-pagarian-impuesto-de-renta-con-el-ajuste-fiscal-de-de-la-espriella-505503",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Personas que ganan desde $5 millones pagarían impuesto de renta con el ajuste fiscal de De La Espriella",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Radican contrapropuesta de impuestos para juegos de suerte y azar dentro de la Ley de Rescate Económico",
-        "url": "https://www.portafolio.co/economia/impuestos/fecoljuegos-prepara-propuesta-tributaria-para-los-juegos-de-azar-ante-la-ley-de-rescate-economico-505502",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Preparan 'contrapropuesta' tributaria para los juegos de azar ante la Ley de Rescate Económico",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Colombia alista el World of Coffee 2027 para ganar mayor participación en la industria mundial del grano",
-        "url": "https://www.portafolio.co/economia/agro/colombia-se-prepara-para-recibir-el-world-of-coffee-2027-asi-busca-ganar-terreno-en-el-mercado-global-del-cafe-505499",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Colombia se prepara para recibir el World of Coffee 2027: así busca ganar terreno en el mercado global del café",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Producción de aceite de palma en Colombia llega a máximo histórico y ventas externas suben 22 % en 2026",
-        "url": "https://www.portafolio.co/economia/agro/aceite-de-palma-en-colombia-alcanza-record-y-exportaciones-crecen-22-en-505497",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Aceite de palma en Colombia alcanza récord y exportaciones crecen 22 % en 2026",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Banco de la República calcula que la inflación alcanzará la meta del 3 % solo a mediados de 2028",
-        "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-preve-que-la-inflacion-llegue-a-la-meta-del-3-apenas-a-mediados-de-505496",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Banco de la República prevé que la inflación llegue a la meta del 3 % apenas a mediados de 2028",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Pacientes Colombia advierte que el pago anticipado de la UPC pondría en riesgo fondos para la salud en 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/pacientes-colombia-alerta-que-el-anticipo-de-la-upc-podria-comprometer-recursos-para-atender-a-los-usuarios-en-505495",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Pacientes Colombia alerta que el anticipo de la UPC podría comprometer recursos para atender a los usuarios en 2027",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "A contrarreloj, el Congreso tiene seis semanas para debatir la iniciativa de Ley de Rescate Fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/contrarreloj-congreso-dispone-de-seis-semanas-para-tramitar-el-proyecto-de-ley-de-rescate-fiscal-505489",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Contrarreloj: Congreso dispone de seis semanas para tramitar el proyecto de Ley de Rescate Fiscal",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Icetex planea otorgar 25000 créditos de estudio en 2027 e iniciará postulaciones el 3 de noviembre",
-        "url": "https://www.portafolio.co/economia/gobierno/icetex-proyecta-entregar-25-000-creditos-educativos-en-2027-y-abrira-convocatoria-desde-el-3-de-noviembre-505488",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Icetex proyecta entregar 25.000 créditos educativos en 2027 y abrirá convocatoria desde el 3 de noviembre",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "El dólar repuntó cerca de $25 en siete días influenciado por decisiones del Emisor y la FED",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-subio-casi-25-en-una-semana-marcada-por-las-movidas-del-banco-de-la-republica-y-la-fed-505487",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "El dólar en Colombia subió casi $25 en una semana marcada por las movidas del Banco de la República y la FED",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Razones por las cuales el Emisor optó por conservar la tasa de interés en el 12,25%",
-        "url": "https://www.portafolio.co/economia/gobierno/por-que-el-banco-de-la-republica-decidio-mantener-la-tasa-de-interes-en-12-505485",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "¿Por qué el Banco de la República decidió mantener la tasa de interés en 12,25%?",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Ideam anticipa precipitaciones y calor cercano a 40°C este fin de semana en zonas del país",
-        "url": "https://www.portafolio.co/economia/regiones/ideam-pronostica-lluvias-y-temperaturas-de-casi-40-c-este-fin-de-semana-en-estas-regiones-de-colombia-505483",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Ideam pronostica lluvias y temperaturas de casi 40°C este fin de semana en estas regiones de Colombia",
-        "capturado": "2026-10-31T10:27:28-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Mallplaza registra ingresos por US$ 179,7 millones gracias a ocho centros comerciales en Colombia y acuerdo con Falabella",
+        "url": "https://www.portafolio.co/negocios/mallplaza-con-ocho-centros-mas-en-colombia-y-alianza-con-falabella-reporta-ingresos-por-us-179-7-millones-505660",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Mallplaza, con ocho centros más en Colombia y alianza con Falabella, reporta ingresos por US$ 179,7 millones",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Qbano prevé la venta de más de 10 millones de sándwiches en el país para finalizar el año 2026",
+        "url": "https://www.portafolio.co/negocios/comercio/qbano-proyecta-vender-mas-de-10-millones-de-sandwiches-en-colombia-al-cierre-de-505641",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Qbano proyecta vender más de 10 millones de sándwiches en Colombia al cierre de 2026",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Cerca de 80 naciones gravan paquetes de Temu y Shein y Colombia entraría con la Ley de Rescate",
+        "url": "https://www.portafolio.co/negocios/comercio/cerca-de-80-paises-ya-cobran-impuestos-a-paquetes-de-temu-y-shein-colombia-podria-sumarse-con-la-ley-de-rescate-505637",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Cerca de 80 países ya cobran impuestos a paquetes de Temu y Shein: Colombia podría sumarse con la Ley de Rescate",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "San Victorino impulsa el comercio de la moda mediante 24 marcas sobre la pasarela",
+        "url": "https://www.portafolio.co/negocios/comercio/san-victorino-pone-a-rodar-los-negocios-de-la-moda-con-24-marcas-en-pasarela-505638",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "San Victorino pone a rodar los negocios de la moda con 24 marcas en pasarela",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "De esta manera perciben las compañías la ruta para efectuar transacciones en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/asi-ven-las-empresas-el-camino-para-hacer-negocios-en-colombia-505627",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Así ven las empresas el camino para hacer negocios en Colombia",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Mercado Libre y Bancolombia despliegan estrategia para recuperar 12.000 comercios golpeados por el sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-mercado-libre-lanzan-plan-para-reactivar-12-000-negocios-afectados-por-el-terremoto-505633",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Bancolombia y Mercado Libre lanzan plan para reactivar 12.000 negocios afectados por el terremoto",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Flint proyecta hacer de Bogotá su sede regional destinando más de US$5 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/flint-busca-convertir-a-bogota-en-su-centro-regional-con-inversion-superior-a-us-5-millones-505631",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Flint busca convertir a Bogotá en su centro regional con inversión superior a US$5 millones",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
+      {
+        "titulo": "Bogotá recibe el Gran Salón Ferretero con un sector que supera los $18 billones buscando nuevos mercados",
+        "url": "https://www.portafolio.co/negocios/industrias/gran-salon-ferretero-llega-a-bogota-la-industria-que-mueve-mas-de-18-billones-busca-nuevos-mercados-505623",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "Gran Salón Ferretero llega a Bogotá: la industria que mueve más de $18 billones busca nuevos mercados",
+        "capturado": "2026-11-03T19:04:37-05:00"
+      },
       {
         "titulo": "A los empleados les cuesta trabajo apartarse de las labores laborales",
         "url": "https://www.portafolio.co/negocios/empresas/desconectarse-de-las-tareas-de-la-oficina-una-dificultad-entre-los-trabajadores-505616",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "Coca-Cola Femsa aumentó 40,5% sus ingresos en Colombia en el tercer trimestre y 24,7% a septiembre",
         "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Firma colombiana de café especial analiza abrir un establecimiento en China",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-es-la-marca-colombiana-de-cafe-de-especialidad-que-evalua-llegar-hasta-china-con-una-tienda-505371",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "La marca colombiana de café de especialidad que evalúa llegar a China con una tienda",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Alerta en Halloween: hurtos de chocolates y dulces en almacenes crecieron 25%",
-        "url": "https://www.portafolio.co/negocios/industrias/ojo-en-halloween-dulces-y-chocolates-el-blanco-de-los-ladrones-en-supermercados-los-robos-subieron-505363",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Ojo en Halloween: Dulces y chocolates, el blanco de los ladrones en supermercados, los robos subieron 25%",
-        "capturado": "2026-10-29T16:18:50-05:00"
-      },
-      {
-        "titulo": "Alianza entre Cámara de Comercio de Montería e instituto brasileño busca fomentar innovación agrícola",
-        "url": "https://www.portafolio.co/negocios/empresas/camara-de-comercio-de-monteria-firma-acuerdo-con-instituto-brasileno-para-impulsar-la-innovacion-del-agro-505347",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Cámara de Comercio de Montería firma acuerdo con instituto brasileño para impulsar la innovación del agro",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Disputa entre Andi y Fenalco por arancel textil del 40%: Bruce Mac Master se opone a su eliminación",
-        "url": "https://www.portafolio.co/negocios/comercio/choque-entre-andi-y-fenalco-por-el-arancel-del-40-a-las-confecciones-bruce-mac-master-rechaza-eliminarlo-505358",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Choque entre Andi y Fenalco por el arancel del 40% a las confecciones: Bruce Mac Master rechaza eliminarlo",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Nuevas exigencias aplican para bicicletas y patinetas eléctricas en Colombia a partir de enero de 2027",
-        "url": "https://www.portafolio.co/negocios/vehiculo/desde-enero-de-2027-bicicletas-y-patinetas-electricas-deberan-cumplir-un-nuevo-requisito-en-colombia-505354",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Desde enero de 2027, bicicletas y patinetas eléctricas deberán cumplir un nuevo requisito en Colombia",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Firma Martín Pescador destina $1.000 millones en Panamá y arriba al mercado de Estados Unidos",
-        "url": "https://www.portafolio.co/negocios/empresas/la-marca-martin-pescador-invierte-1-000-millones-en-panama-y-entra-a-estados-unidos-505349",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "La marca Martín Pescador invierte $1.000 millones en Panamá y entra a Estados Unidos",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Odinsa aprueba dividendo extraordinario y Grupo Argos percibirá cerca de $183.000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-argos-recibira-cerca-de-183-000-millones-tras-el-dividendo-extraordinario-aprobado-por-odinsa-505345",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Grupo Argos recibirá cerca de $183.000 millones tras el dividendo extraordinario aprobado por Odinsa",
-        "capturado": "2026-10-29T11:20:22-05:00"
-      },
-      {
-        "titulo": "Halloween: ventas externas de dulces bajan 13,2%, mas siete mercados superan a EE. UU. en demanda",
-        "url": "https://www.portafolio.co/negocios/comercio/halloween-exportaciones-de-dulces-caen-13-2-pero-siete-mercados-ya-superan-a-estados-unidos-en-compras-505344",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Halloween: exportaciones de dulces caen 13,2%, pero siete mercados ya superan a Estados Unidos en compras",
-        "capturado": "2026-10-29T11:20:22-05:00"
       }
     ]
   }
