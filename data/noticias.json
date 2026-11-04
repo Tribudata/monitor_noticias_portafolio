@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-04T10:07:06-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-04T16:24:49-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Arranca el conteo para fijar el salario mínimo 2027: estas son las cifras que se contemplan por ahora",
+        "url": "https://www.portafolio.co/economia/gobierno/inicia-la-cuenta-regresiva-para-definir-el-salario-minimo-2027-estos-son-los-montos-que-se-manejan-hasta-ahora-505723",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Inicia la cuenta regresiva para definir el salario mínimo 2027: estos son los montos que se manejan hasta ahora",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "La adicción de Gustavo Petro a la deuda tiene al borde del colapso nuestra economía: Ministro de Hacienda",
+        "url": "https://www.portafolio.co/economia/finanzas/la-adiccion-de-gustavo-petro-a-la-deuda-tiene-al-borde-del-colapso-nuestra-economia-ministro-de-hacienda-505717",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "'La adicción de Gustavo Petro a la deuda tiene al borde del colapso nuestra economía': Ministro de Hacienda",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Comisiones Económicas Conjuntas avalan en primer debate adición presupuestal de 2026",
+        "url": "https://www.portafolio.co/economia/comisiones-economicas-conjuntas-aprueban-en-primer-debate-adicion-presupuestal-de-505715",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Comisiones Económicas Conjuntas aprueban en primer debate adición presupuestal de 2026",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "A segundo debate avanzó el proyecto de ley del presupuesto de regalías para el bienio 2027-2028",
+        "url": "https://www.portafolio.co/economia/a-segundo-debate-paso-el-proyecto-de-ley-del-presupuesto-de-regalias-para-el-bienio-2027-505710",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "A segundo debate pasó el proyecto de ley del presupuesto de regalías para el bienio 2027-2028",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Deuda de Colombia podría llegar al 82% del PIB en 2030 si el ajuste fiscal se concentra en recortar gastos: Anif",
+        "url": "https://www.portafolio.co/economia/deuda-de-colombia-podria-llegar-al-82-del-pib-en-2030-si-el-ajuste-fiscal-se-concentra-en-recortar-gastos-anif-505707",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Deuda de Colombia podría llegar al 82% del PIB en 2030 si el ajuste fiscal se concentra en recortar gastos: Anif",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Obras por Impuestos: Gobierno proyecta $10 billones para 2027, frente a $200.000 millones este año",
+        "url": "https://www.portafolio.co/economia/infraestructura/reconstruccion-por-impuestos-gobierno-proyecta-10-billones-para-2027-frente-a-200-000-millones-este-ano-505698",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Reconstrucción por Impuestos: Gobierno proyecta $10 billones para 2027, frente a $200.000 millones este año",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Estudio revela que el 60% de los empresarios colombianos cree viable operar sin exenciones de impuestos",
+        "url": "https://www.portafolio.co/economia/el-60-de-los-empresarios-en-colombia-considera-que-puede-mantener-su-negocio-sin-incentivos-tributarios-estudio-505702",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "El 60% de los empresarios en Colombia considera que puede mantener su negocio sin incentivos tributarios: estudio",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Hasta septiembre van 84.177 salidas de colombianos para estudiar fuera; el 40,4% va a EE. UU. y España",
+        "url": "https://www.portafolio.co/economia/estudiar-afuera-sigue-moviendo-a-colombianos-84-177-salidas-hasta-septiembre-y-40-4-hacia-ee-uu-y-espana-505697",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Estudiar afuera sigue moviendo a colombianos: 84.177 salidas hasta septiembre y 40,4% hacia EE. UU. y España",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Airbus analizará inversiones cuatrienales en Bogotá para formar una cadena aeroespacial en Colombia",
+        "url": "https://www.portafolio.co/economia/airbus-evaluara-inversiones-a-cuatro-anos-en-bogota-para-crear-una-cadena-aeronautica-y-aeroespacial-en-colombia-505693",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Airbus evaluará inversiones a cuatro años en Bogotá para crear una cadena aeronáutica y aeroespacial en Colombia",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "El 72% del crédito para transformación agropecuaria en Colombia financia compras y solo 7% inversión",
+        "url": "https://www.portafolio.co/economia/finanzas/en-colombia-el-72-del-credito-a-transformacion-agropecuaria-financia-compras-y-solo-el-7-va-a-inversion-505696",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "En Colombia, el 72 % del crédito a transformación agropecuaria financia compras y solo el 7 % va a inversión",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "La situación de efecto tijera que afecta al sector exportador de café",
+        "url": "https://www.portafolio.co/economia/agro/el-efecto-tijera-en-el-que-se-encuentra-el-sector-exportador-de-cafe-505687",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "El efecto tijera en el que se encuentra el sector exportador de café",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
       {
         "titulo": "Cotización del euro en Colombia hoy 4 de noviembre: así se mueve la moneda",
         "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-4-de-noviembre-en-colombia-asi-cotiza-la-divisa-europea-505684",
@@ -493,119 +603,89 @@
         "publicacion": "2026-11-02",
         "titulo_fuente": "Ley de rescate fiscal también trae un alivio tributario para las empresas que inviertan y den empleo",
         "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Gobierno aporta $100.000 millones para proyecto en Barranquilla de cerca de $380.000 millones en Tajamar Occidental",
-        "url": "https://www.portafolio.co/economia/infraestructura/tajamar-occidental-suma-100-000-millones-del-gobierno-a-una-obra-de-cerca-de-380-000-millones-en-barranquilla-505581",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Tajamar Occidental suma $100.000 millones del Gobierno a una obra de cerca de $380.000 millones en Barranquilla",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Cierran todos los locales de KFC y Taco Bell en isla caribeña y explican los motivos de la salida",
-        "url": "https://www.portafolio.co/economia/kfc-y-taco-bell-cierran-todos-sus-restaurantes-en-esta-isla-del-caribe-esta-es-la-razon-del-adios-505574",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "KFC y Taco Bell cierran todos sus restaurantes en esta isla del Caribe: esta es la razón del adiós",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Presupuesto de Bogotá para 2027 proyecta $42,7 billones divididos en $33,2 para inversión, $5,7 de funcionamiento y $3,8 a deuda",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-busca-presupuesto-de-42-7-billones-para-2027-33-2-iran-a-inversion-5-7-a-funcionamiento-y-3-8-a-deuda-505572",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Bogotá busca presupuesto de $42,7 billones para 2027: $33,2 irán a inversión, $5,7 a funcionamiento y $3,8 a deuda",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Ley de rescate fiscal propuesta por el Gobierno De La Espriella enfrenta trabas por tiempo y canasta familiar",
-        "url": "https://www.portafolio.co/economia/canasta-familiar-duro-escollo-para-la-ley-de-rescate-fiscal-505570",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Tiempo y canasta familiar, obstáculos de la ley de rescate fiscal que presentó el Gobierno De La Espriella",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Kimi Antonelli gana título de F1 a los 20 años y recibiría 25 millones de euros en sueldo y bonos para 2026",
-        "url": "https://www.portafolio.co/economia/kimi-antonelli-campeon-de-f1-a-los-20-anos-sueldo-y-bonos-sumarian-25-millones-de-euros-en-505567",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Kimi Antonelli, campeón de F1 a los 20 años: sueldo y bonos sumarían 25 millones de euros en 2026",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Exministro Rodrigo Lara pide al Gobierno austeridad real y cero politiquería frente a la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/gobierno/exministro-rodrigo-lara-lanza-mensaje-al-gobierno-por-la-ley-de-rescate-cero-politiqueria-y-austeridad-real-505568",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Exministro Rodrigo Lara lanza mensaje al Gobierno por la Ley de Rescate: 'Cero politiquería y austeridad real'",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Puntaje en la licencia de conducción: cada multa quita puntos y perder todos anularía el pase",
-        "url": "https://www.portafolio.co/economia/licencia-de-conduccion-por-puntos-cada-infraccion-restaria-puntaje-y-agotarlo-podria-costarle-el-derecho-a-manejar-505564",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Licencia de conducción por puntos: cada infracción restaría puntaje y agotarlo podría costarle el derecho a manejar",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Afectaciones, altura y redes de servicios determinan la demolición de edificios tras el sismo",
-        "url": "https://www.portafolio.co/economia/infraestructura/danos-altura-y-redes-de-servicios-definen-como-se-demuele-un-edificio-en-las-zonas-afectadas-por-el-terremoto-505560",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Daños, altura y redes de servicios definen cómo se demuele un edificio en las zonas afectadas por el terremoto",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "La CRC prepara nuevas normas para que operadores de internet compartan infraestructura y bajen gastos",
-        "url": "https://www.portafolio.co/economia/infraestructura/la-crc-alista-nuevas-reglas-para-que-los-operadores-de-internet-compartan-redes-y-reduzcan-costos-505563",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "La CRC alista nuevas reglas para que los operadores de internet compartan redes y reduzcan costos",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Ataque en Tolima causa ochenta por ciento de daños a hospital y mandataria exige militarizar tres zonas",
-        "url": "https://www.portafolio.co/economia/regiones/atentado-en-tolima-dejo-un-hospital-con-80-de-danos-gobernadora-pide-militarizar-tres-municipios-505559",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Atentado en Tolima dejó un hospital con 80% de daños: gobernadora pide militarizar tres municipios",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Murió este 1 de noviembre a los 78 años el exconstituyente Antonio Navarro Wolff",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-era-antonio-navarro-wolff-el-exconstituyente-que-fallecio-este-1-de-noviembre-a-los-78-anos-505543",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Quién fue Antonio Navarro Wolff, el exconstituyente que falleció este 1 de noviembre a los 78 años",
-        "capturado": "2026-11-01T18:45:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Venta externa récord de Colombia en septiembre desde 2014 impulsada por el crudo",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-logro-en-septiembre-su-mayor-cifra-exportadora-desde-2014-con-el-petroleo-como-principal-impulso-del-mes-505714",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Colombia logró en septiembre su mayor cifra exportadora desde 2014, con el petróleo como principal impulso del mes",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Laura Casallas asume el liderazgo para la nueva fase de Spinning Center",
+        "url": "https://www.portafolio.co/negocios/comercio/laura-casallas-la-sucesora-detras-de-la-nueva-etapa-de-spinning-center-505708",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Laura Casallas, la sucesora detrás de la nueva etapa de Spinning Center",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Ramo acude a la Fiscalía por disputas sobre supuesta crueldad animal en producción de huevos",
+        "url": "https://www.portafolio.co/negocios/empresas/ramo-lleva-a-la-fiscalia-controversia-por-senalamientos-sobre-presunto-maltrato-animal-en-su-cadena-de-huevos-505704",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Ramo lleva a la Fiscalía controversia por señalamientos sobre presunto maltrato animal en su cadena de huevos",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Autonomía del gremio define la puja en la Andi para reemplazar a Mac Master",
+        "url": "https://www.portafolio.co/negocios/industrias/cuenta-regresiva-en-la-andi-independencia-del-gremio-marca-el-debate-para-elegir-al-sucesor-de-mac-master-505699",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Cuenta regresiva en la Andi: independencia del gremio marca el debate para elegir al sucesor de Mac Master",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Ventas externas de Colombia llegaron a US$5.410,7 millones en septiembre, un máximo desde 2022",
+        "url": "https://www.portafolio.co/negocios/comercio/exportaciones-colombianas-cerraron-septiembre-en-us-5-410-7-millones-y-alcanzaron-cifra-mensual-mas-alta-desde-505694",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Exportaciones colombianas cerraron septiembre en US$5.410,7 millones y alcanzaron cifra mensual más alta desde 2022",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Recompra de acciones de Grupo Argos hasta por $150.000 millones permite negociar desde un título",
+        "url": "https://www.portafolio.co/negocios/empresas/accionistas-de-grupo-argos-podran-vender-desde-una-accion-en-oferta-de-recompra-de-hasta-150-000-millones-505692",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Accionistas de Grupo Argos podrán vender desde una acción en oferta de recompra de hasta $150.000 millones",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "El mapa del liderazgo y talento de connacionales en España de acuerdo con Forbes España",
+        "url": "https://www.portafolio.co/negocios/empresas/los-colombianos-que-estan-transformando-espana-el-mapa-del-talento-y-el-liderazgo-segun-forbes-espana-505689",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Los colombianos que están transformando España: el mapa del talento y el liderazgo, según Forbes España",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
+      {
+        "titulo": "Bancolombia otorgará más de dieciocho billones de pesos en líneas de crédito a compañías",
+        "url": "https://www.portafolio.co/negocios/pymes-y-empresas-tendran-mas-de-18-billones-en-cupos-de-credito-de-bancolombia-505690",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Pymes y empresas tendrán más de $18 billones en cupos de crédito de Bancolombia",
+        "capturado": "2026-11-04T16:24:49-05:00"
+      },
       {
         "titulo": "Desde noviembre, los centros comerciales encienden la Navidad para evitar que caigan sus ventas",
         "url": "https://www.portafolio.co/negocios/empresas/centros-comerciales-hacen-inversiones-y-buscan-impulsar-el-trafico-con-sus-apuestas-para-navidad-505681",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-10-30",
         "titulo_fuente": "Casaideas abre su segunda tienda en Medellín y proyecta nuevas inversiones en Colombia",
         "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Crece la ingesta de bebidas hidratantes en el país: Colombina saca paleta de agua con electrolitos",
-        "url": "https://www.portafolio.co/negocios/empresas/avanza-el-consumo-de-bebidas-hidratantes-en-colombia-colombina-lanza-paleta-de-agua-con-electrolitos-505421",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Avanza el consumo de bebidas hidratantes en Colombia: Colombina lanza paleta de agua con electrolitos",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Los límites establecidos por el comité de la Andi para el reemplazo de Bruce Mac Master",
-        "url": "https://www.portafolio.co/negocios/empresas/la-linea-roja-que-trazo-la-junta-de-la-andi-al-sucesor-de-bruce-mac-master-505416",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "La línea roja que trazó la junta de la Andi al sucesor de Bruce Mac Master",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Andi: Carlos De Hart, Luz Stella Murgas y Juan Camilo Nariño compiten por dirigir el gremio",
-        "url": "https://www.portafolio.co/negocios/empresas/andi-luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-finalistas-para-liderar-la-poderosa-agremiacion-505410",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Andi: Luz Stella Murgas, Juan Camilo Nariño y Carlos De Hart, finalistas para liderar la poderosa agremiación",
-        "capturado": "2026-10-30T09:51:00-05:00"
-      },
-      {
-        "titulo": "Estimaciones sobre la durabilidad de un automóvil eléctrico cero kilómetros",
-        "url": "https://www.portafolio.co/negocios/vehiculo/cuanta-vida-util-tiene-un-carro-electrico-totalmente-nuevo-estas-son-las-estimaciones-505398",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "¿Cuánta vida útil tiene un carro eléctrico totalmente nuevo? Estas son las estimaciones",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master respalda su gestión en la Andi y exige firmeza en principios",
-        "url": "https://www.portafolio.co/negocios/empresas/bruce-mac-master-defiende-su-legado-en-la-andi-y-pide-al-gremio-ser-firme-en-los-principios-505395",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Bruce Mac Master defiende su legado en la Andi y pide al gremio 'firmeza en los principios'",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Vehículos de mayor comercialización en septiembre de 2026 en Colombia y sus similitudes",
-        "url": "https://www.portafolio.co/negocios/vehiculo/los-carros-mas-vendidos-en-septiembre-de-2026-en-colombia-que-es-lo-que-tienen-en-comun-505394",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Los carros más vendidos en septiembre de 2026 en Colombia: ¿qué es lo que tienen en común?",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Jornada adversa para Google en Wall Street con baja cercana a medio billón de dólares",
-        "url": "https://www.portafolio.co/negocios/inversion/jueves-negro-para-google-en-wall-street-sus-acciones-perdieron-casi-medio-billon-de-dolares-de-capitalizacion-505385",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Inversion",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Jueves negro para Google en Wall Street: sus acciones perdieron casi medio billón de dólares de capitalización",
-        "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Setenta y cuatro por ciento de colombianos celebrará Halloween y esto impactará el comercio",
-        "url": "https://www.portafolio.co/negocios/comercio/el-74-de-los-colombianos-planea-celebrar-halloween-esto-es-lo-que-dejaria-en-ventas-al-comercio-nacional-505386",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "El 74% de los colombianos planea celebrar Halloween: esto es lo que dejaría en ventas al comercio nacional",
-        "capturado": "2026-10-29T20:14:48-05:00"
       }
     ]
   }
