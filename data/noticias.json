@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-04T01:51:29-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-04T10:07:06-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Cotización del euro en Colombia hoy 4 de noviembre: así se mueve la moneda",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-4-de-noviembre-en-colombia-asi-cotiza-la-divisa-europea-505684",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Precio del euro hoy 4 de noviembre en Colombia: así cotiza la divisa europea",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Subió el dólar en Colombia tras las elecciones de mitad de periodo en Estados Unidos",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-pego-un-salto-asi-cotiza-la-divisa-tras-las-elecciones-de-medio-tiempo-en-estados-unidos-505683",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "El dólar en Colombia pegó un salto: así cotiza la divisa tras las elecciones de medio tiempo en Estados Unidos",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Gremio de restaurantes advierte posible cierre de 6.500 establecimientos en Colombia para 2026",
+        "url": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Balance de la Misión Crecer deja más de 400 inversionistas en Madrid según el Vicepresidente",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-de-400-inversionistas-en-madrid-el-balance-del-vicepresidente-para-la-mision-crecer-505680",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Más de 400 inversionistas en Madrid: el balance del Vicepresidente para la Misión Crecer",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "CGT confirma su participación en la negociación del salario mínimo de 2027 con el Gobierno Nacional",
+        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-sector-de-la-cgt-anuncia-su-llegada-a-la-mesa-de-negociacion-con-el-gobierno-nacional-505678",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Salario mínimo de 2027: sector de la CGT anuncia su llegada a la mesa de negociación con el Gobierno Nacional",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Colombia pretende retomar la compra de gas a Venezuela mediante la habilitación del gasoducto Antonio Ricaurte",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-busca-recuperar-importaciones-de-gas-desde-venezuela-con-reactivacion-de-gasoducto-antonio-ricaurte-505676",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Colombia busca recuperar importaciones de gas desde Venezuela con reactivación de gasoducto Antonio Ricaurte",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Altas tasas y gasto público pondrían trabas a la repunte laboral en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/recuperacion-del-empleo-en-colombia-tendria-nuevos-obstaculos-por-tasas-de-interes-y-gasto-publico-505675",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Recuperación del empleo en Colombia tendría nuevos obstáculos por tasas de interés y gasto público",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Mandatario De La Espriella respondió ante la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin'",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-reacciono-a-la-aprobacion-de-la-ley-de-sometimiento-la-falsa-paz-total-llego-a-su-fin-505674",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Presidente De La Espriella reaccionó a la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin'",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate Económico busca ahorro fiscal de $44,6 billones a 2027 para evitar el impago",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-plantea-ahorro-estatal-de-44-6-billones-a-2027-para-frenar-el-default-505673",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Ley de Rescate Económico plantea ahorro estatal de $44,6 billones a 2027 para frenar el 'default'",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
       {
         "titulo": "Fuerte discusión entre el ministro de Agricultura y el presidente de Fedegán por los recursos",
         "url": "https://www.portafolio.co/economia/gobierno/donde-esta-la-plata-el-fuerte-choque-entre-ministro-de-agricultura-y-presidente-de-fedegan-505666",
@@ -513,99 +603,19 @@
         "publicacion": "2026-11-01",
         "titulo_fuente": "Quién fue Antonio Navarro Wolff, el exconstituyente que falleció este 1 de noviembre a los 78 años",
         "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "Ya causa discusión el salario mínimo de 2027: esto se conoce y las cifras propuestas",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-ya-genera-debate-esto-es-lo-que-se-sabe-hasta-ahora-y-los-montos-que-estan-sobre-la-mesa-505542",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Salario mínimo de 2027 ya genera debate: esto es lo que se sabe hasta ahora y los montos que están sobre la mesa",
-        "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "Coosalud alista pago por 481879 millones a 1127 prestadores previo a terminar intervención",
-        "url": "https://www.portafolio.co/economia/gobierno/coosalud-programa-giro-de-481-879-millones-a-1-127-prestadores-antes-de-salir-de-la-intervencion-505525",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Coosalud programa giro de $481.879 millones a 1.127 prestadores antes de salir de la intervención",
-        "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia al alza: este valor tocaría la moneda en los próximos días",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-seguiria-subiendo-este-es-el-precio-que-podria-alcanzar-la-divisa-durante-los-proximos-dias-505537",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Dólar en Colombia seguiría subiendo: este es el precio que podría alcanzar la divisa durante los próximos días",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "Ley de saneamiento fiscal: el Ejecutivo afirma que el 70 % del ajuste lo pagará el Estado",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-gobierno-asegura-que-siete-de-cada-diez-pesos-del-ajuste-saldran-del-propio-estado-505535",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Ley de rescate fiscal: Gobierno asegura que siete de cada diez pesos del ajuste saldrán del propio Estado",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "Los motivos de la cancelación del contrato por 36 años con Fiduprevisora en el Fomag",
-        "url": "https://www.portafolio.co/economia/gobierno/las-razones-por-las-que-el-gobierno-decidio-terminar-el-contrato-de-36-anos-con-fiduprevisora-en-el-fomag-505530",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Las razones por las que el Gobierno decidió terminar el contrato de 36 años con Fiduprevisora en el Fomag",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "EE. UU. incrementa importaciones de carne de res, mas Colombia continúa sin entrar allí",
-        "url": "https://www.portafolio.co/economia/agro/estados-unidos-aumenta-sus-compras-de-carne-bovina-pero-colombia-sigue-sin-poder-ingresar-a-ese-mercado-505527",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Estados Unidos aumenta sus compras de carne bovina, pero Colombia sigue sin poder ingresar a ese mercado",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo avisa que el país caería en cesación de pagos en 2027 sin aval del Congreso a reforma tributaria",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-advierte-que-colombia-podria-entrar-en-default-en-2027-si-el-congreso-no-aprueba-la-ley-de-ajuste-fiscal-505522",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Gobierno advierte que Colombia podría entrar en 'default' en 2027 si el Congreso no aprueba la ley de ajuste fiscal",
-        "capturado": "2026-11-01T10:46:53-05:00"
-      },
-      {
-        "titulo": "Dos connacionales volvieron de territorio africano con paludismo: un fallecido y un internado",
-        "url": "https://www.portafolio.co/economia/gobierno/dos-colombianos-regresaron-de-africa-con-malaria-uno-murio-y-el-otro-permanece-bajo-atencion-medica-505520",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Dos colombianos regresaron de África con malaria: uno murió y el otro permanece bajo atención médica",
-        "capturado": "2026-11-01T10:46:53-05:00"
-      },
-      {
-        "titulo": "Medida cautelar de la Dian por 16,4 billones dejaría a Ecopetrol con liquidez para apenas 23 días",
-        "url": "https://www.portafolio.co/economia/gobierno/embargo-de-la-dian-por-16-4-billones-dejaria-a-ecopetrol-con-solo-23-dias-de-caja-disponible-505518",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Embargo de la Dian por $16,4 billones dejaría a Ecopetrol con solo 23 días de caja disponible",
-        "capturado": "2026-11-01T10:46:53-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Desde noviembre, los centros comerciales encienden la Navidad para evitar que caigan sus ventas",
+        "url": "https://www.portafolio.co/negocios/empresas/centros-comerciales-hacen-inversiones-y-buscan-impulsar-el-trafico-con-sus-apuestas-para-navidad-505681",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Desde noviembre, centros comerciales 'prenden' la Navidad para que sus ventas no aflojen",
+        "capturado": "2026-11-04T10:07:06-05:00"
+      },
       {
         "titulo": "Air Canada destaca la futura importancia de Bogotá como hub junto a Avianca",
         "url": "https://www.portafolio.co/negocios/empresas/bogota-se-convertira-eventualmente-en-un-centro-de-conexion-muy-importante-air-canada-y-su-alianza-con-avianca-505635",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-10-29",
         "titulo_fuente": "El 74% de los colombianos planea celebrar Halloween: esto es lo que dejaría en ventas al comercio nacional",
         "capturado": "2026-10-29T20:14:48-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa finaliza compra de Tío Rico y asume el manejo de su operación heladera en Venezuela",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-completa-adquisicion-de-tio-rico-y-toma-el-control-de-su-negocio-de-helados-en-venezuela-505381",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-29",
-        "titulo_fuente": "Grupo Nutresa completa adquisición de Tío Rico y toma el control de su negocio de helados en Venezuela",
-        "capturado": "2026-10-29T16:18:50-05:00"
       }
     ]
   }
