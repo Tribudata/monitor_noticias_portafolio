@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-04T16:24:49-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-11-04T20:38:56-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Santiago Vélez Corredores de Seguros prioriza tecnología e internacionalización para sus usuarios",
+        "url": "https://www.portafolio.co/economia/finanzas/ia-y-expansion-nacional-para-atender-mejor-a-los-clientes-de-santiago-velez-corredores-de-seguros-505735",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "‘IA y expansión nacional para atender mejor a los clientes de Santiago Vélez Corredores de Seguros’",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Alejandro Ordóñez lidera el Mininterior enfocándose en la agenda esencial de la Ley de Rescate Fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/alejandro-ordonez-asume-el-mininterior-con-una-agenda-clave-para-el-futuro-de-la-ley-de-rescate-fiscal-505722",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Alejandro Ordóñez asume el Mininterior con una agenda clave para el futuro de la Ley de Rescate Fiscal",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "En 2042 los mayores de 55 años financiarán cerca del 40 por ciento del consumo nacional",
+        "url": "https://www.portafolio.co/economia/crecimiento/los-mayores-de-55-anos-impulsaran-casi-cuatro-de-cada-diez-pesos-del-consumo-en-colombia-en-505718",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Los mayores de 55 años impulsarán casi cuatro de cada diez pesos del consumo en Colombia en 2042",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
       {
         "titulo": "Arranca el conteo para fijar el salario mínimo 2027: estas son las cifras que se contemplan por ahora",
         "url": "https://www.portafolio.co/economia/gobierno/inicia-la-cuenta-regresiva-para-definir-el-salario-minimo-2027-estos-son-los-montos-que-se-manejan-hasta-ahora-505723",
@@ -573,39 +603,69 @@
         "publicacion": "2026-11-02",
         "titulo_fuente": "El rescate fiscal de la salud podría tener un efecto contrario: más costos y mayores incentivos para evadir aportes",
         "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "José Antonio Ocampo, exjefe de la cartera de Hacienda de Petro, solicita un recorte superior al de la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/impuestos/jose-antonio-ocampo-exministro-de-hacienda-de-petro-pide-que-recorte-sea-mayor-al-presentado-en-la-ley-de-rescate-505589",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "José Antonio Ocampo, exministro de Hacienda de Petro, pide que recorte sea mayor al presentado en la Ley de Rescate",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Un núcleo familiar de 4 abonará 312.000 pesos por una noche en el Tren de la Navidad: infantes menores de 3 años no pagan",
-        "url": "https://www.portafolio.co/economia/una-familia-de-4-pagara-312-000-por-una-noche-en-el-tren-de-la-navidad-los-menores-de-3-anos-viajan-gratis-505586",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Una familia de 4 pagará $312.000 por una noche en el Tren de la Navidad: los menores de 3 años viajan gratis",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "La ley de salvamento fiscal asimismo incluye un beneficio en impuestos para firmas que apuesten y contraten",
-        "url": "https://www.portafolio.co/economia/impuestos/empuje-tributario-a-empresas-que-inviertan-y-den-empleo-505585",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Ley de rescate fiscal también trae un alivio tributario para las empresas que inviertan y den empleo",
-        "capturado": "2026-11-02T17:24:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ingresos de Mercado Libre crecen con fuerza pero utilidades van a otro ritmo este es su reporte",
+        "url": "https://www.portafolio.co/negocios/empresas/mercado-libre-dispara-sus-ingresos-pero-sus-ganancias-no-siguen-el-mismo-ritmo-este-fue-el-balance-505738",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Mercado Libre dispara sus ingresos, pero sus ganancias no siguen el mismo ritmo: este fue el balance",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Activistas denunciados por Ramo por presunto maltrato animal responden y mencionan posible censura",
+        "url": "https://www.portafolio.co/negocios/empresas/denuncia-de-ramo-por-presunto-maltrato-animal-senalados-responden-y-hablan-de-posible-censura-505733",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Activistas denunciados por Ramo tras señalar presunto maltrato animal responden y hablan de posible censura",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Movistar Arena de Bogotá cambia de nombre temporalmente tras la salida de la marca patrocinadora",
+        "url": "https://www.portafolio.co/negocios/empresas/movistar-arena-de-bogota-ya-tiene-nuevo-nombre-asi-se-llamara-el-escenario-tras-la-salida-de-la-marca-505734",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Movistar Arena de Bogotá ya tiene nuevo nombre: así se llamará, por ahora, el escenario tras la salida de la marca",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Firma china de autos Leapmotor ingresa a Colombia con Astara y expande la oferta eléctrica",
+        "url": "https://www.portafolio.co/negocios/vehiculo/marca-china-de-carros-leapmotor-llega-a-colombia-de-la-mano-de-astara-y-acelera-la-oferta-de-vehiculos-electricos-505731",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Marca china de carros Leapmotor llega a Colombia de la mano de Astara y acelera la oferta de vehículos eléctricos",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Empresa de moda colombiana se expande desde Cartagena hacia el mercado de Estados Unidos",
+        "url": "https://www.portafolio.co/negocios/empresas/de-cartagena-a-estados-unidos-la-marca-de-moda-colombiana-que-busca-conquistar-mercados-internacionales-505729",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "De Cartagena a Estados Unidos: la marca de moda colombiana que busca conquistar mercados internacionales",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
+      {
+        "titulo": "Pactia reduce un 45 % su deuda tras vender Gran Plaza y baja de 881000 a cerca de 488000 millones",
+        "url": "https://www.portafolio.co/negocios/inversion/pactia-recorta-45-su-deuda-tras-vender-gran-plaza-pasa-de-881-000-millones-a-cerca-de-488-000-millones-505721",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Pactia recorta 45 % su deuda tras vender Gran Plaza: pasa de $881.000 millones a cerca de $488.000 millones",
+        "capturado": "2026-11-04T20:38:56-05:00"
+      },
       {
         "titulo": "Venta externa récord de Colombia en septiembre desde 2014 impulsada por el crudo",
         "url": "https://www.portafolio.co/negocios/comercio/colombia-logro-en-septiembre-su-mayor-cifra-exportadora-desde-2014-con-el-petroleo-como-principal-impulso-del-mes-505714",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-10-30",
         "titulo_fuente": "Grupo Nutresa reportó ingresos por $15,4 billones a corte de septiembre de 2026",
         "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Wall Street ve caer a Intel cerca de un 30% a pesar de subir sus ingresos un 21% en el 3T de 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/intel-se-desploma-cerca-de-30-en-wall-street-pese-a-elevar-sus-ingresos-21-en-el-tercer-trimestre-de-505458",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Intel se desploma cerca de 30% en Wall Street pese a elevar sus ingresos 21% en el tercer trimestre de 2026",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Invima alerta sobre comercialización de galletas Oreo falsas en Colombia y da claves para detectarlas",
-        "url": "https://www.portafolio.co/negocios/comercio/invima-advierte-por-venta-de-galletas-oreo-fraudulentas-en-colombia-estas-son-las-senales-para-identificarlas-505453",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Invima advierte por venta de galletas Oreo fraudulentas en Colombia: estas son las señales para identificarlas",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Frisby logra la certificación como Empresa B tras casi medio siglo de trayectoria empresarial",
-        "url": "https://www.portafolio.co/negocios/empresas/el-nuevo-logro-empresarial-de-frisby-se-certifico-como-empresa-b-tras-casi-50-anos-de-historia-505455",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "El nuevo logro empresarial de Frisby: se certificó como Empresa B tras casi 50 años de historia",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "A 54% de las firmas se le dificulta hallar destrezas reales de contratados por perfiles optimizados con IA",
-        "url": "https://www.portafolio.co/negocios/empresas/por-perfiles-mejorados-con-ia-a-54-de-las-empresas-les-cuesta-detectar-habilidades-reales-de-quienes-contratan-505447",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Por perfiles mejorados con IA, a 54% de las empresas les cuesta detectar habilidades reales de quienes contratan",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Fraude y ciberataques obstaculizan la expansión digital de las pequeñas y medianas empresas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/ciberataques-y-fraude-la-amenaza-que-frena-el-crecimiento-digital-de-las-pymes-en-colombia-505440",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Ciberataques y fraude: la amenaza que frena el crecimiento digital de las pymes en Colombia",
-        "capturado": "2026-10-30T14:50:53-05:00"
-      },
-      {
-        "titulo": "Casaideas inaugura su segundo local en Medellín y planea nuevas inversiones en territorio nacional",
-        "url": "https://www.portafolio.co/negocios/comercio/casaideas-abre-su-segunda-tienda-en-medellin-y-proyecta-nuevas-inversiones-en-colombia-505432",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Casaideas abre su segunda tienda en Medellín y proyecta nuevas inversiones en Colombia",
-        "capturado": "2026-10-30T14:50:53-05:00"
       }
     ]
   }
