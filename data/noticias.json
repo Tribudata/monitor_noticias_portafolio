@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-05T03:59:17-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-05T12:18:11-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El porvenir de los préstamos en el país gracias a la inteligencia artificial y el análisis de datos",
+        "url": "https://www.portafolio.co/economia/finanzas/el-futuro-del-credito-en-colombia-con-la-inteligencia-artificial-y-la-analitica-de-datos-505783",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "El futuro del crédito en Colombia con la inteligencia artificial y la analítica de datos",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "La cotización de la moneda europea descendió en el país y cede ante el peso: así se negocia",
+        "url": "https://www.portafolio.co/economia/finanzas/el-precio-del-euro-bajo-en-colombia-y-continua-perdiendo-terreno-frente-al-peso-asi-cotiza-la-divisa-505779",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "El precio del euro bajó en Colombia y continúa perdiendo terreno frente al peso: así cotiza la divisa",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "El costo de vida en Colombia subiría en 2026 y volvería al 3% en 2028 según el Banco de la República",
+        "url": "https://www.portafolio.co/economia/inflacion-en-colombia-seguiria-subiendo-en-2026-y-solo-volveria-a-la-meta-del-3-durante-el-ano-2028-banrepublica-505773",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Inflación en Colombia seguiría subiendo en 2026 y solo volvería a la meta del 3% durante el año 2028: Banrepública",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Cancillería critica el consulado fantasma en Tijuana y su deuda tras cuatro años de funcionamiento",
+        "url": "https://www.portafolio.co/economia/gobierno/se-enfiestaron-cuatro-anos-cancilleria-lanza-mensaje-sobre-el-consulado-fantasma-en-tijuana-y-la-deuda-que-dejo-505769",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "'Se enfiestaron cuatro años': Cancillería lanza mensaje sobre el consulado fantasma en Tijuana y la deuda que dejó",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Disminuir de 18 a 7 carteras: la iniciativa antioqueña para recortar $4,5 billones del gasto público",
+        "url": "https://www.portafolio.co/economia/gobierno/reducir-de-18-a-7-ministerios-la-propuesta-de-antioquia-para-ahorrar-4-5-billones-de-gasto-estatal-505772",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Reducir de 18 a 7 ministerios: la propuesta de Antioquia para ahorrar $4,5 billones de gasto estatal",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Fechas de pago de la prima de fin de año de 2026 y monto para quienes devengan el salario mínimo",
+        "url": "https://www.portafolio.co/economia/empleo/cuando-pagan-la-prima-de-diciembre-de-2026-y-cuanto-recibira-quien-gana-un-salario-minimo-505766",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "¿Cuándo pagan la prima de diciembre de 2026 y cuánto recibirá quien gana un salario mínimo?",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Fedesarrollo apoya la reforma tributaria oficial, mas solicita examinar ajustes salariales y del Ruge",
+        "url": "https://www.portafolio.co/economia/fedesarrollo-respalda-la-reforma-fiscal-del-gobierno-pero-pide-revisar-cambios-a-la-nomina-y-beneficios-del-ruge-505763",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Fedesarrollo respalda la reforma fiscal del Gobierno, pero pide revisar cambios a la nómina y beneficios del Ruge",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Directiva de Fedegán apoya a Lafaurie tras disputa sostenida con el titular de la cartera agrícola",
+        "url": "https://www.portafolio.co/economia/gobierno/junta-directiva-de-fedegan-respalda-a-lafaurie-tras-enfrentamiento-con-el-ministro-de-agricultura-505754",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Junta Directiva de Fedegán respalda a Lafaurie tras enfrentamiento con el ministro de Agricultura",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "La Contraloría advierte al Ministerio de Salud sobre 10,18 billones de pesos pendientes de legalizar",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-hace-advertencia-al-ministerio-de-salud-hay-10-18-billones-pendientes-de-legalizar-505750",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Contraloría hace advertencia al Ministerio de Salud: hay $10,18 billones pendientes de legalizar",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia: este es el valor de la moneda norteamericana este jueves 5 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-asi-cotiza-la-divisa-estadounidense-este-jueves-5-de-noviembre-505749",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Precio del dólar en Colombia: así cotiza la divisa estadounidense este jueves 5 de noviembre",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
       {
         "titulo": "Plataforma del Servicio Público de Empleo fuera de servicio y miles de usuarios afectados",
         "url": "https://www.portafolio.co/economia/empleo/plataforma-del-servicio-publico-de-empleo-esta-fuera-de-servicio-miles-de-usuarios-se-ven-afectados-505741",
@@ -503,109 +603,109 @@
         "publicacion": "2026-11-03",
         "titulo_fuente": "BlaBlaCar suma más de 20.000 usuarios en Colombia en cinco meses y el país lidera los mercados que abrió en 2026",
         "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "El euro arranca perdiendo terreno frente al alza del dólar este martes 3 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/el-euro-inicia-a-la-baja-mientras-el-dolar-sube-asi-cotiza-la-moneda-europea-este-martes-3-de-noviembre-505610",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "El euro inicia a la baja, mientras el dólar sube: así cotiza la moneda europea este martes 3 de noviembre",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Fomag implementa un plan de choque en Antioquia para normalizar la salud de los profesores",
-        "url": "https://www.portafolio.co/economia/gobierno/fomag-activa-en-antioquia-un-plan-de-choque-para-estabilizar-la-atencion-en-salud-de-los-docentes-505607",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Fomag activa en Antioquia un plan de choque para estabilizar la atención en salud de los docentes",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Bogotá asignaría 6,8 billones de pesos a movilidad en 2027 para apoyar el Metro y vías",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-destinaria-6-8-billones-a-la-movilidad-en-2027-para-impulsar-el-metro-y-grandes-corredores-505603",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Bogotá destinaría $6,8 billones a la movilidad en 2027 para impulsar el Metro y grandes corredores",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Más de 12 millones de pacientes poseen historia clínica digital en el avance de Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/mas-de-12-millones-de-pacientes-ya-tienen-historia-clinica-digital-asi-avanza-la-interoperabilidad-en-colombia-505605",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Más de 12 millones de pacientes ya tienen historia clínica digital: así avanza la interoperabilidad en Colombia",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master, líder saliente de la Andi, exige claridad fiscal previa a nuevos tributos",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-saliente-de-la-andi-bruce-mac-master-pide-claridad-sobre-ahorro-estatal-antes-de-subir-los-impuestos-505599",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Presidente saliente de la Andi, Bruce Mac Master, pide claridad sobre ahorro estatal antes de subir los impuestos",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Los rendimientos de los CDT seguirán elevados pronto tras la tasa de interés en 12,25%",
-        "url": "https://www.portafolio.co/economia/gobierno/con-la-tasa-del-emisor-en-12-25-los-cdt-preven-que-los-rendimientos-sigan-altos-en-el-corto-plazo-505598",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Rentabilidades de los CDT continuarían altas en el corto plazo, tras mantenerse la tasa de interés en 12,25%",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "El FMI aprueba ley de rescate económico y el Banco de la República resalta sus impactos previsibles",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-recibe-espaldarazo-del-fmi-y-el-banco-de-la-republica-destaca-sus-posibles-efectos-505597",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Ley de rescate económico recibe espaldarazo del FMI y el Banco de la República destaca sus posibles efectos",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio sube al arrancar noviembre en Colombia: precio de la divisa este martes 3",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-alcanzar-los-3-250-esta-semana-asi-cotiza-la-divisa-este-martes-3-de-noviembre-505595",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Dólar en Colombia inició noviembre al alza: así cotiza la divisa este martes 3",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Sismo de magnitud 5,6 sacudió al país en la madrugada de este martes",
-        "url": "https://www.portafolio.co/economia/regiones/fuerte-temblor-de-magnitud-5-6-sacudio-a-colombia-en-la-madrugada-de-este-martes-505594",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Fuerte temblor de magnitud 5,6 sacudió a Colombia en la madrugada de este martes",
-        "capturado": "2026-11-03T06:38:26-05:00"
-      },
-      {
-        "titulo": "El FMI aprueba la norma de salvamento financiero planteada por el mandato de De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/fondo-monetario-internacional-respalda-la-ley-de-rescate-economico-que-propuso-el-gobierno-de-la-espriella-505592",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Fondo Monetario Internacional respalda la ley de rescate económico que propuso el Gobierno De La Espriella",
-        "capturado": "2026-11-02T17:24:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El líder de Davivienda apoya la Ley de Rescate y objeta el mantenimiento del gravamen extra a la banca",
+        "url": "https://www.portafolio.co/negocios/empresas/presidente-de-davivienda-respalda-ley-de-rescate-pero-cuestiona-la-continuidad-de-la-sobretasa-a-los-bancos-505775",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Presidente de Davivienda respalda Ley de Rescate, pero cuestiona la continuidad de la sobretasa a los bancos",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Firma originaria de Cartagena alcanza 14.000 trabajadores gracias a su expansión en EE UU y Filipinas",
+        "url": "https://www.portafolio.co/negocios/empresas/esta-empresa-nacida-en-cartagena-llega-a-14-000-empleados-con-una-creciente-operacion-en-estados-unidos-y-filipinas-505774",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Esta empresa nacida en Cartagena llega a 14.000 empleados con una creciente operación en Estados Unidos y Filipinas",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial dinamiza el comercio y eleva las amenazas de fraude, brechas y robos de datos",
+        "url": "https://www.portafolio.co/negocios/empresas/la-ia-acelera-los-negocios-pero-multiplica-los-riesgos-de-seguridad-fraude-y-perdida-de-datos-corporativos-505755",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "La IA acelera los negocios, pero multiplica los riesgos de seguridad, fraude y pérdida de datos corporativos",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "El motivo por el cual Ramo afronta un proceso legal con animalistas por presunto abuso a animales",
+        "url": "https://www.portafolio.co/negocios/empresas/como-ramo-termino-envuelta-en-un-lio-judicial-con-animalistas-por-denuncias-de-presunto-maltrato-animal-505768",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Cómo Ramo terminó envuelta en un lío judicial con animalistas por denuncias de presunto maltrato animal",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "DAVIbank se integra a Davivienda y 4,2 millones de usuarios inician una nueva fase financiera",
+        "url": "https://www.portafolio.co/negocios/empresas/davibank-ya-es-parte-de-davivienda-4-2-millones-de-clientes-pasan-a-una-nueva-etapa-bancaria-505761",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "DAVIbank ya es parte de Davivienda: 4,2 millones de clientes pasan a una nueva etapa bancaria",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Compañías colombianas se asocian para donar prendas a 15.000 afectados en el departamento de Risaralda",
+        "url": "https://www.portafolio.co/negocios/comercio/marcas-colombianas-se-unen-para-entregar-ropa-a-15-000-damnificados-en-risaralda-505759",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Marcas colombianas se unen para entregar ropa a 15.000 damnificados en Risaralda",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Tecnoglass logra ventas récord entre julio y septiembre gracias a sus divisiones comercial y multifamiliar",
+        "url": "https://www.portafolio.co/negocios/empresas/tecnoglass-alcanza-ventas-historicas-en-el-tercer-trimestre-impulsada-por-sus-negocios-comercial-y-multifamiliar-505752",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Tecnoglass alcanza ventas históricas en el tercer trimestre, impulsadas por sus negocios comercial y multifamiliar",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Action Black abre su segundo hotel en Medellín con 66 suites en la zona de Laureles",
+        "url": "https://www.portafolio.co/negocios/empresas/action-black-lanza-su-segundo-hotel-en-medellin-tendra-66-suites-y-estara-ubicado-en-el-sector-de-laureles-505758",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Action Black lanza su segundo hotel en Medellín: tendrá 66 suites y estará ubicado en el sector de Laureles",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "Celele y El Chato representan a Colombia entre los cincuenta mejores restaurantes globales",
+        "url": "https://www.portafolio.co/negocios/empresas/dos-restaurantes-de-colombia-figuran-entre-los-mejores-50-del-mundo-celele-y-el-chato-fueron-reconocidos-505748",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Dos restaurantes de Colombia figuran entre los mejores 50 del mundo: Celele y El Chato fueron reconocidos",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
+      {
+        "titulo": "ISA reporta ganancias de 1,8 billones a septiembre con una caída del 3 % interanual",
+        "url": "https://www.portafolio.co/negocios/empresas/isa-gano-1-8-billones-a-septiembre-pero-sus-utilidades-bajaron-3-frente-al-mismo-periodo-de-505747",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "ISA ganó $1,8 billones a septiembre, pero sus utilidades bajaron 3 % frente al mismo periodo de 2025",
+        "capturado": "2026-11-05T12:18:11-05:00"
+      },
       {
         "titulo": "Ingresos de Mercado Libre crecen con fuerza pero utilidades van a otro ritmo este es su reporte",
         "url": "https://www.portafolio.co/negocios/empresas/mercado-libre-dispara-sus-ingresos-pero-sus-ganancias-no-siguen-el-mismo-ritmo-este-fue-el-balance-505738",
@@ -1105,106 +1205,6 @@
         "publicacion": "2026-10-31",
         "titulo_fuente": "Basf mejora sus previsiones para 2026 tras registrar un crecimiento del 15% en su EBITDA trimestral",
         "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "El comercio en Colombia aumentó sus ventas en septiembre gracias a rebajas y ofertas",
-        "url": "https://www.portafolio.co/negocios/comercio/descuentos-y-promociones-dispararon-las-ventas-del-comercio-en-colombia-durante-septiembre-505498",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Descuentos y promociones dispararon las ventas del comercio en Colombia durante septiembre",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Atención viajeros: EE. UU. pedirá declaración sanitaria en vuelos desde el 3 de noviembre",
-        "url": "https://www.portafolio.co/negocios/empresas/atencion-viajeros-estados-unidos-exigira-una-declaracion-sanitaria-para-abordar-vuelos-desde-el-3-de-noviembre-505494",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "¡Atención viajeros! Estados Unidos exigirá una declaración sanitaria para abordar vuelos desde el 3 de noviembre",
-        "capturado": "2026-10-31T14:28:53-05:00"
-      },
-      {
-        "titulo": "Comerciantes empiezan la temporada de Halloween con grandes previsiones: el gasto alcanzaría $350.000 por cada uno",
-        "url": "https://www.portafolio.co/negocios/comercio/comerciantes-inician-la-jornada-de-halloween-con-altas-expectativas-el-gasto-podria-llegar-a-350-000-por-persona-505486",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "Comerciantes inician la jornada de Halloween con altas expectativas: el gasto podría llegar a $350.000 por persona",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "El análisis tras la unión de Presto y Nutresa: de este modo evaluó la SIC la rivalidad entre locales de comida",
-        "url": "https://www.portafolio.co/negocios/empresas/el-estudio-detras-de-la-integracion-de-presto-y-nutresa-asi-midio-la-sic-la-competencia-entre-restaurantes-505484",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-31",
-        "titulo_fuente": "El estudio detrás de la integración de Presto y Nutresa: así midió la SIC la competencia entre restaurantes",
-        "capturado": "2026-10-31T10:27:28-05:00"
-      },
-      {
-        "titulo": "Black Friday y Navidad: cinco aplicaciones de la inteligencia artificial para elevar ventas de emprendedores",
-        "url": "https://www.portafolio.co/negocios/comercio/black-friday-y-navidad-cinco-usos-de-la-ia-que-emprendedores-pueden-aplicar-para-vender-mas-a-fin-de-ano-505477",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Black Friday y Navidad: cinco usos de la IA que emprendedores pueden aplicar para vender más a fin de año",
-        "capturado": "2026-10-31T04:18:08-05:00"
-      },
-      {
-        "titulo": "Coca-Cola Femsa expande su fábrica en Barranquilla y agrupará allí más del 20% de su producción del país",
-        "url": "https://www.portafolio.co/negocios/empresas/coca-cola-femsa-amplia-su-planta-en-barranquilla-y-concentrara-alli-mas-del-20-de-su-produccion-nacional-505476",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Coca-Cola Femsa amplía su planta en Barranquilla y concentrará allí más del 20% de su producción nacional",
-        "capturado": "2026-10-30T21:39:59-05:00"
-      },
-      {
-        "titulo": "María Fernanda Suárez asume como la primera presidenta en los 156 años de historia del Banco de Bogotá",
-        "url": "https://www.portafolio.co/negocios/empresas/maria-fernanda-suarez-se-convierte-en-la-primera-presidenta-de-banco-de-bogota-en-156-anos-de-historia-505471",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "María Fernanda Suárez se convierte en la primera presidenta de Banco de Bogotá en 156 años de historia",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "Gilinski continúa: Nutresa concreta la adquisición de La Universal en Ecuador y expande su dulcería",
-        "url": "https://www.portafolio.co/negocios/empresas/gilinski-no-para-nutresa-cierra-la-compra-de-la-universal-en-ecuador-y-amplia-su-negocio-de-chocolates-505472",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Gilinski no para: Nutresa cierra la compra de La Universal en Ecuador y amplía su negocio de chocolates",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "La SIC aprobó con rapidez la integración de Presto por parte de Nutresa y expuso los motivos",
-        "url": "https://www.portafolio.co/negocios/empresas/la-sic-dio-luz-verde-a-nutresa-para-integrar-a-presto-estas-fueron-las-razones-detras-de-la-decision-505463",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "En tiempo récord, la SIC dio luz verde a Nutresa para integrar a Presto: las razones detrás de la decisión",
-        "capturado": "2026-10-30T18:28:10-05:00"
-      },
-      {
-        "titulo": "A septiembre de 2026, el Grupo Nutresa registró entradas por 15,4 billones de pesos",
-        "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-de-nutresa-cae-60-9-en-nueve-meses-de-2026-aunque-su-resultado-operativo-crecio-22-505462",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Grupo Nutresa reportó ingresos por $15,4 billones a corte de septiembre de 2026",
-        "capturado": "2026-10-30T18:28:10-05:00"
       }
     ]
   }
