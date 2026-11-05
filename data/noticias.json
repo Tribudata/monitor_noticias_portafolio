@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-04T20:38:56-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-05T03:59:17-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Plataforma del Servicio Público de Empleo fuera de servicio y miles de usuarios afectados",
+        "url": "https://www.portafolio.co/economia/empleo/plataforma-del-servicio-publico-de-empleo-esta-fuera-de-servicio-miles-de-usuarios-se-ven-afectados-505741",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Plataforma del Servicio Público de Empleo está fuera de servicio: miles de usuarios se ven afectados",
+        "capturado": "2026-11-05T03:59:17-05:00"
+      },
+      {
+        "titulo": "Asoexport señala que la ley de rescate fiscal contraría las metas de aumento al consumo de café",
+        "url": "https://www.portafolio.co/economia/agro/la-ley-de-rescate-fiscal-va-en-contravia-de-los-esfuerzos-para-aumentar-el-consumo-de-cafe-asoexport-505740",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "‘La ley de rescate fiscal va en contravía de los esfuerzos para aumentar el consumo de café’: Asoexport",
+        "capturado": "2026-11-05T03:59:17-05:00"
+      },
       {
         "titulo": "Santiago Vélez Corredores de Seguros prioriza tecnología e internacionalización para sus usuarios",
         "url": "https://www.portafolio.co/economia/finanzas/ia-y-expansion-nacional-para-atender-mejor-a-los-clientes-de-santiago-velez-corredores-de-seguros-505735",
@@ -582,26 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-11-02",
         "titulo_fuente": "Fondo Monetario Internacional respalda la ley de rescate económico que propuso el Gobierno De La Espriella",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "El autómata Walter levanta muros con exactitud y suple a varios obreros: arribaría a construcciones en 2027",
-        "url": "https://www.portafolio.co/economia/infraestructura/walter-el-robot-que-coloca-ladrillos-con-precision-y-rinde-por-varios-albaniles-llegaria-a-obras-en-505591",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "'Walter' el robot que coloca ladrillos con precisión y rinde por varios albañiles: llegaría a obras en 2027",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "El salvavidas fiscal a la salud generaría un impacto opuesto: alza de gastos y más motivos para evadir pagos",
-        "url": "https://www.portafolio.co/economia/gobierno/el-rescate-fiscal-de-la-salud-podria-tener-un-efecto-contrario-mas-costos-y-mayores-incentivos-para-evadir-aportes-505588",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "El rescate fiscal de la salud podría tener un efecto contrario: más costos y mayores incentivos para evadir aportes",
         "capturado": "2026-11-02T17:24:27-05:00"
       }
     ],
