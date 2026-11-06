@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-05T17:45:42-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-11-05T22:12:04-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "PIB de Colombia a octubre de 2026: sectores en expansión y sectores en retroceso",
+        "url": "https://www.portafolio.co/economia/economia-colombiana-que-sectores-crecen-y-cuales-se-contraen-a-octubre-de-505824",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Economía colombiana: ¿qué sectores crecen y cuáles se contraen a octubre de 2026?",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
+      {
+        "titulo": "Proyecto para integrar El Dorado al Metro y al Regiotram: detalles de la iniciativa",
+        "url": "https://www.portafolio.co/economia/regiones/asi-buscan-conectar-el-dorado-con-el-metro-y-el-regiotram-que-contempla-el-proyecto-505822",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Así buscan conectar El Dorado con el Metro y el Regiotram: ¿qué contempla el proyecto?",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
+      {
+        "titulo": "Ministerio del Trabajo llama a mesa territorial por suspensión laboral en Nestlé",
+        "url": "https://www.portafolio.co/economia/gobierno/mintrabajo-convoca-mesa-territorial-por-suspension-de-contratos-en-plantas-de-nestle-505820",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "MinTrabajo convoca mesa territorial por suspensión de contratos en plantas de Nestlé",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
+      {
+        "titulo": "Emisor conserva el tipo de interés en 12,25% tras decisión dividida",
+        "url": "https://www.portafolio.co/economia/banco-de-la-republica-mantiene-la-tasa-en-12-25-con-voto-dividido-505819",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Banco de la República mantiene la tasa en 12,25% con voto dividido",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella entrega su tercer salario presidencial a obras del Amazonas",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-dona-su-tercer-sueldo-como-presidente-a-fundaciones-del-amazonas-505817",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Abelardo de la Espriella dona su tercer sueldo como presidente a fundaciones del Amazonas",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
       {
         "titulo": "El Festival Estéreo Picnic 2027 publicó su programación diaria con las fechas de cada artista",
         "url": "https://www.portafolio.co/economia/el-festival-estereo-picnic-2027-revelo-su-cartel-por-dias-cuando-se-presentara-cada-artista-505810",
@@ -553,59 +603,29 @@
         "publicacion": "2026-11-03",
         "titulo_fuente": "Ley de Rescate Económico: los cambios en impuestos que plantea el Gobierno",
         "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Impacto energético de la norma de salvamento: IVA al combustible y tributo al carbono",
-        "url": "https://www.portafolio.co/economia/iva-a-la-gasolina-impuesto-al-carbono-y-otros-efectos-de-la-ley-de-rescate-en-la-energia-505647",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "IVA a la gasolina, impuesto al carbono y otros efectos de la ley de rescate en la energía",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella envió mensaje de urgencia al Congreso para acelerar el rescate fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-radico-en-el-congreso-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-fiscal-505646",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Gobierno De La Espriella radicó en el Congreso mensaje de urgencia para acelerar trámite de ley de rescate fiscal",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Licencia por puntos: se quedarían los infractores sin el permiso para conducir",
-        "url": "https://www.portafolio.co/economia/gobierno/licencia-de-conduccion-por-puntos-perderian-los-infractores-el-derecho-a-manejar-505645",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Licencia de conducción por puntos: ¿perderían los infractores el derecho a manejar?",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Alza del salario mínimo para 2027 en Colombia: ofertas de incremento entre 8% y 38,5%",
-        "url": "https://www.portafolio.co/economia/aumento-del-salario-minimo-2027-propuestas-van-del-8-al-38-505643",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Aumento del salario mínimo en Colombia para 2027: las propuestas de ajuste van desde el 8% al 38,5%",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Proyecto pretende reactivar la regla fiscal en 2027 y fijar topes automáticos al gasto",
-        "url": "https://www.portafolio.co/economia/reforma-busca-reactivar-la-regla-fiscal-en-2027-y-establecer-limites-automaticos-al-crecimiento-del-gasto-publico-505640",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Reforma busca reactivar la regla fiscal en 2027 y establecer límites automáticos al crecimiento del gasto público",
-        "capturado": "2026-11-03T19:04:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "EPM emite bonos por USD 1.000 millones y regresa a la plaza global luego de seis años",
+        "url": "https://www.portafolio.co/negocios/empresas/epm-vuelve-al-mercado-internacional-tras-seis-anos-con-bonos-por-usd-1-000-millones-505823",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "EPM vuelve al mercado internacional tras seis años con bonos por USD 1.000 millones",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
+      {
+        "titulo": "Gremios enfocan sus iniciativas para el Plan Nacional de Desarrollo en energía, seguridad y estímulos al capital",
+        "url": "https://www.portafolio.co/negocios/empresas/gremios-concentran-propuestas-para-el-plan-nacional-de-desarrollo-en-seguridad-energia-y-estimulos-a-la-inversion-505808",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-05",
+        "titulo_fuente": "Gremios concentran propuestas para el Plan Nacional de Desarrollo en seguridad, energía y estímulos a la inversión",
+        "capturado": "2026-11-05T22:12:04-05:00"
+      },
       {
         "titulo": "Grupo Nutresa toma el control de Presto y habilitará de nuevo 12 locales",
         "url": "https://www.portafolio.co/negocios/empresas/grupo-nutresa-asume-la-operacion-de-presto-y-reabrira-12-restaurantes-505815",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-11-01",
         "titulo_fuente": "Centro Chía espera recibir 15 % más visitantes en Navidad y dinamizar el comercio de la Sabana Norte",
         "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "Tesla encabeza el mercado que pasa de 44.000 unidades con la rápida compra de vehículos eléctricos en Colombia",
-        "url": "https://www.portafolio.co/negocios/vehiculo/colombia-acelera-la-compra-de-carros-electricos-tesla-lidera-un-mercado-que-ya-supera-las-44-000-unidades-505519",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Colombia acelera la compra de carros eléctricos: Tesla lidera un mercado que ya supera las 44.000 unidades",
-        "capturado": "2026-11-01T10:46:53-05:00"
-      },
-      {
-        "titulo": "Octubre vio crecer 27,4 % los automotores nuevos y la Ley de Rescate propone alzar el IVA a eléctricos e híbridos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/el-mercado-automotor-repite-la-hazana-de-septiembre-vendio-mas-de-32-000-carros-en-el-mejor-octubre-desde-505516",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Carros nuevos crecieron 27,4 % en octubre, mientras Ley de Rescate plantea subir IVA a eléctricos e híbridos",
-        "capturado": "2026-11-01T10:46:53-05:00"
       }
     ]
   }
