@@ -1,9 +1,139 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-06T13:14:19-05:00",
-  "nuevos_en_esta_corrida": 26,
+  "actualizado": "2026-11-06T18:24:09-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El dólar subió de 3.166 a 3.237 pesos y tuvo su mayor repunte semanal desde fines de septiembre",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-paso-de-3-166-a-3-237-y-registro-su-mayor-avance-semanal-desde-finales-de-septiembre-505895",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Dólar en Colombia pasó de $3.166 a $3.237 y registró su mayor avance semanal desde finales de septiembre",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Fedecafé busca comprar café en cereza para transformar el sector y pasar del grano a la industria",
+        "url": "https://www.portafolio.co/economia/agro/del-grano-a-la-industria-fedecafe-apuesta-por-comprar-cafe-en-cereza-y-transformar-el-negocio-cafetero-505896",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Del grano a la industria: Fedecafé apuesta por comprar café en cereza y transformar el negocio cafetero",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Requisitos y postulación al subsidio de vivienda Reduce tu Cuota en Bogotá",
+        "url": "https://www.portafolio.co/economia/gobierno/subsidio-de-vivienda-en-bogota-quienes-aplican-a-reduce-tu-cuota-y-como-postularse-505891",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Subsidio de vivienda en Bogotá: quiénes aplican a 'Reduce tu Cuota' y cómo postularse",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Propuestas para prevenir otro traspié fiscal en Colombia mediante auditoría y facultades al Carf",
+        "url": "https://www.portafolio.co/economia/finanzas/darle-dientes-al-carf-y-auditar-las-cuentas-las-propuestas-para-evitar-otro-descalabro-fiscal-en-colombia-505889",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Darle dientes al Carf y auditar las cuentas: las propuestas para evitar otro descalabro fiscal en Colombia",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Don Omar inicia preventa para su retorno al país y Maluma anuncia alianza con Bancolombia, Visa y Nequi",
+        "url": "https://www.portafolio.co/economia/don-omar-activa-preventa-para-su-regreso-a-colombia-mientras-maluma-impulsa-alianza-con-visa-bancolombia-y-nequi-505881",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Don Omar activa preventa para su regreso a Colombia mientras Maluma impulsa alianza con Visa, Bancolombia y Nequi",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Posibles recursos para el Fondo Milagro y Air-e en la adición al Presupuesto 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/adicion-al-presupuesto-2026-la-posible-asignacion-para-el-fondo-milagro-y-lo-que-le-corresponderia-a-air-e-505887",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Adición al Presupuesto 2026: la posible asignación para el Fondo Milagro y lo que le correspondería a Air-e",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Este es el listado de las ciudades y los municipios colombianos con un sobresaliente manejo fiscal",
+        "url": "https://www.portafolio.co/economia/regiones/estos-son-los-municipios-y-capitales-con-mejor-desempeno-fiscal-de-colombia-505886",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Estos son los municipios y capitales con mejor desempeño fiscal de Colombia",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "La Contraloría indaga posibles anomalías en el Sena y examinará los contratos del último trienio",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-investiga-posibles-irregularidades-en-el-sena-revisara-contratos-de-los-ultimos-tres-anos-505882",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Reintegro de saldos a favor en la Dian: fechas límite y documentos que hay que tener presentes",
+        "url": "https://www.portafolio.co/economia/devolucion-de-saldos-a-favor-ante-la-dian-plazos-y-soportes-que-debe-tener-en-cuenta-505880",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Devolución de saldos a favor ante la Dian: plazos y soportes que debe tener en cuenta",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Antioquia y el Eje Cafetero pactan iniciativas para impulsar la economía y estas son las acciones",
+        "url": "https://www.portafolio.co/economia/regiones/eje-cafetero-y-antioquia-acuerdan-propuestas-para-reactivar-la-economia-estas-son-las-medidas-505879",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Eje Cafetero y Antioquia acuerdan propuestas para reactivar la economía: estas son las medidas",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Bogotá apunta a ser Smart City con Metro, Quora y El Campín al frente de obras multimillonarias",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-busca-ser-smart-city-metro-quora-y-el-campin-lideran-megaproyectos-billonarios-505878",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Bogotá busca ser Smart City: Metro, Quora y El Campín lideran megaproyectos billonarios",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Hallazgos fiscales que superan los $60.000 millones ponen bajo la lupa al Aeropuerto del Café",
+        "url": "https://www.portafolio.co/economia/infraestructura/hallazgos-fiscales-por-mas-de-60-000-millones-ponen-bajo-la-lupa-el-aeropuerto-internacional-del-cafe-505876",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Hallazgos fiscales por más de $60.000 millones ponen bajo la lupa al Aeropuerto del Café",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Click Clack prepara una estrategia centrada en el bienestar en Medellín tras modernizar su hotel bogotano",
+        "url": "https://www.portafolio.co/economia/tras-renovar-su-hotel-en-bogota-click-clack-alista-una-apuesta-enfocada-en-el-bienestar-en-medellin-505862",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Tras renovar su hotel en Bogotá, Click Clack alista una apuesta enfocada en el bienestar en Medellín",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
       {
         "titulo": "Cómo avanza la discusión sindical sobre el salario mínimo de 2027 y la viabilidad de un alza de dos dígitos",
         "url": "https://www.portafolio.co/economia/empleo/asi-va-el-pulso-del-sector-sindical-por-el-salario-minimo-de-2027-es-viable-un-aumento-de-dos-digitos-505865",
@@ -473,139 +603,49 @@
         "publicacion": "2026-11-04",
         "titulo_fuente": "Alejandro Ordóñez asume el Mininterior con una agenda clave para el futuro de la Ley de Rescate Fiscal",
         "capturado": "2026-11-04T20:38:56-05:00"
-      },
-      {
-        "titulo": "En 2042 los mayores de 55 años financiarán cerca del 40 por ciento del consumo nacional",
-        "url": "https://www.portafolio.co/economia/crecimiento/los-mayores-de-55-anos-impulsaran-casi-cuatro-de-cada-diez-pesos-del-consumo-en-colombia-en-505718",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Los mayores de 55 años impulsarán casi cuatro de cada diez pesos del consumo en Colombia en 2042",
-        "capturado": "2026-11-04T20:38:56-05:00"
-      },
-      {
-        "titulo": "Arranca el conteo para fijar el salario mínimo 2027: estas son las cifras que se contemplan por ahora",
-        "url": "https://www.portafolio.co/economia/gobierno/inicia-la-cuenta-regresiva-para-definir-el-salario-minimo-2027-estos-son-los-montos-que-se-manejan-hasta-ahora-505723",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Inicia la cuenta regresiva para definir el salario mínimo 2027: estos son los montos que se manejan hasta ahora",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "La adicción de Gustavo Petro a la deuda tiene al borde del colapso nuestra economía: Ministro de Hacienda",
-        "url": "https://www.portafolio.co/economia/finanzas/la-adiccion-de-gustavo-petro-a-la-deuda-tiene-al-borde-del-colapso-nuestra-economia-ministro-de-hacienda-505717",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "'La adicción de Gustavo Petro a la deuda tiene al borde del colapso nuestra economía': Ministro de Hacienda",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Comisiones Económicas Conjuntas avalan en primer debate adición presupuestal de 2026",
-        "url": "https://www.portafolio.co/economia/comisiones-economicas-conjuntas-aprueban-en-primer-debate-adicion-presupuestal-de-505715",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Comisiones Económicas Conjuntas aprueban en primer debate adición presupuestal de 2026",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "A segundo debate avanzó el proyecto de ley del presupuesto de regalías para el bienio 2027-2028",
-        "url": "https://www.portafolio.co/economia/a-segundo-debate-paso-el-proyecto-de-ley-del-presupuesto-de-regalias-para-el-bienio-2027-505710",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "A segundo debate pasó el proyecto de ley del presupuesto de regalías para el bienio 2027-2028",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Deuda de Colombia podría llegar al 82% del PIB en 2030 si el ajuste fiscal se concentra en recortar gastos: Anif",
-        "url": "https://www.portafolio.co/economia/deuda-de-colombia-podria-llegar-al-82-del-pib-en-2030-si-el-ajuste-fiscal-se-concentra-en-recortar-gastos-anif-505707",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Deuda de Colombia podría llegar al 82% del PIB en 2030 si el ajuste fiscal se concentra en recortar gastos: Anif",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Obras por Impuestos: Gobierno proyecta $10 billones para 2027, frente a $200.000 millones este año",
-        "url": "https://www.portafolio.co/economia/infraestructura/reconstruccion-por-impuestos-gobierno-proyecta-10-billones-para-2027-frente-a-200-000-millones-este-ano-505698",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Reconstrucción por Impuestos: Gobierno proyecta $10 billones para 2027, frente a $200.000 millones este año",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Estudio revela que el 60% de los empresarios colombianos cree viable operar sin exenciones de impuestos",
-        "url": "https://www.portafolio.co/economia/el-60-de-los-empresarios-en-colombia-considera-que-puede-mantener-su-negocio-sin-incentivos-tributarios-estudio-505702",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "El 60% de los empresarios en Colombia considera que puede mantener su negocio sin incentivos tributarios: estudio",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Hasta septiembre van 84.177 salidas de colombianos para estudiar fuera; el 40,4% va a EE. UU. y España",
-        "url": "https://www.portafolio.co/economia/estudiar-afuera-sigue-moviendo-a-colombianos-84-177-salidas-hasta-septiembre-y-40-4-hacia-ee-uu-y-espana-505697",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Estudiar afuera sigue moviendo a colombianos: 84.177 salidas hasta septiembre y 40,4% hacia EE. UU. y España",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Airbus analizará inversiones cuatrienales en Bogotá para formar una cadena aeroespacial en Colombia",
-        "url": "https://www.portafolio.co/economia/airbus-evaluara-inversiones-a-cuatro-anos-en-bogota-para-crear-una-cadena-aeronautica-y-aeroespacial-en-colombia-505693",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Airbus evaluará inversiones a cuatro años en Bogotá para crear una cadena aeronáutica y aeroespacial en Colombia",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "El 72% del crédito para transformación agropecuaria en Colombia financia compras y solo 7% inversión",
-        "url": "https://www.portafolio.co/economia/finanzas/en-colombia-el-72-del-credito-a-transformacion-agropecuaria-financia-compras-y-solo-el-7-va-a-inversion-505696",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "En Colombia, el 72 % del crédito a transformación agropecuaria financia compras y solo el 7 % va a inversión",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "La situación de efecto tijera que afecta al sector exportador de café",
-        "url": "https://www.portafolio.co/economia/agro/el-efecto-tijera-en-el-que-se-encuentra-el-sector-exportador-de-cafe-505687",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "El efecto tijera en el que se encuentra el sector exportador de café",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Cotización del euro en Colombia hoy 4 de noviembre: así se mueve la moneda",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-4-de-noviembre-en-colombia-asi-cotiza-la-divisa-europea-505684",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Precio del euro hoy 4 de noviembre en Colombia: así cotiza la divisa europea",
-        "capturado": "2026-11-04T10:07:06-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nestlé pacta reintegrar 86 empleados con suspensiones vigentes y define la fecha de su retorno",
+        "url": "https://www.portafolio.co/negocios/empresas/nestle-acuerda-el-regreso-de-86-trabajadores-con-contratos-suspendidos-cuando-volveran-a-sus-puestos-505884",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Nestlé acuerda el regreso de 86 trabajadores con contratos suspendidos: cuándo volverán a sus puestos",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Asoexport fija meta de hasta 20 millones de sacos para surtir al país y crecer en el exterior",
+        "url": "https://www.portafolio.co/negocios/comercio/producir-hasta-20-millones-de-sacos-el-reto-de-asoexport-para-abastecer-a-colombia-y-ampliar-las-ventas-externas-505874",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Producir hasta 20 millones de sacos, el reto de Asoexport para abastecer a Colombia y ampliar las ventas externas",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "Mandos medios concentran las mayores pérdidas por fraudes corporativos, revela punto ciego",
+        "url": "https://www.portafolio.co/negocios/empresas/el-punto-ciego-de-las-empresas-los-mandos-medios-concentran-las-mayores-perdidas-por-fraude-505872",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "El punto ciego de las empresas: los mandos medios concentran las mayores pérdidas por fraude",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
+      {
+        "titulo": "MinTIC alerta peligros de competencia en fusión Claro y Azteca y objeta condiciones dadas",
+        "url": "https://www.portafolio.co/negocios/empresas/mintic-advierte-riesgos-de-competencia-en-integracion-de-claro-con-azteca-y-cuestiona-condiciones-propuestas-505873",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "MinTIC advierte riesgos de competencia en integración de Claro con Azteca y cuestiona condiciones propuestas",
+        "capturado": "2026-11-06T18:24:09-05:00"
+      },
       {
         "titulo": "Volkswagen Golf GTI vuelve a Colombia y estiman su valor por referencias en la región",
         "url": "https://www.portafolio.co/negocios/vehiculo/volkswagen-golf-gti-regresara-a-colombia-lo-que-podria-costar-segun-sus-precios-en-otros-paises-de-america-latina-505871",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-03",
         "titulo_fuente": "Asesinan a trabajador petrolero en Barrancabermeja y Campetrol pide reforzar la seguridad en la zona",
         "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "AVATR 07 y 11 aterrizan en Colombia: los vehículos chinos de hasta 570 caballos y uno sin espejos",
-        "url": "https://www.portafolio.co/negocios/vehiculo/avatr-07-y-11-llegan-a-colombia-las-camionetas-chinas-de-hasta-570-caballos-de-potencia-una-de-ellas-sin-espejos-505582",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "AVATR 07 y 11 llegan a Colombia: las camionetas chinas de hasta 570 caballos de potencia, una de ellas sin espejos",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Fiscalía, Contraloría y Procuraduría hallan más de $9.800 millones en fondos de ciencia",
-        "url": "https://www.portafolio.co/negocios/industrias/contraloria-fiscalia-y-procuraduria-reciben-hallazgos-por-mas-de-9-800-millones-en-recursos-de-ciencia-505587",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Contraloría, Fiscalía y Procuraduría reciben hallazgos por más de $9.800 millones en recursos de ciencia",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Se cierra operación mercantil: Alicorp compra Rama y 18 marcas locales por más de US$150 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/se-concreta-jugada-empresarial-alicorp-adquiere-rama-y-18-marcas-regionales-por-mas-de-us-150-millones-505583",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Se concreta jugada empresarial: Alicorp adquiere Rama y 18 marcas regionales por más de US$150 millones",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Grupo Vardí introduce a Colombia a AVATR, la firma china de vehículos de lujo para rivalizar en precio",
-        "url": "https://www.portafolio.co/negocios/vehiculo/grupo-vardi-trae-a-colombia-a-avatr-la-marca-de-carros-chinos-de-hiperlujo-que-busca-competir-con-sus-precios-505575",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Grupo Vardí trae a Colombia a AVATR, la marca de carros chinos de hiperlujo que busca competir con sus precios",
-        "capturado": "2026-11-02T17:24:27-05:00"
       }
     ]
   }
