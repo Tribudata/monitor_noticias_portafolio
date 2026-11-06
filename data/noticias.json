@@ -1,9 +1,159 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-06T06:19:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-06T13:14:19-05:00",
+  "nuevos_en_esta_corrida": 26,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Cómo avanza la discusión sindical sobre el salario mínimo de 2027 y la viabilidad de un alza de dos dígitos",
+        "url": "https://www.portafolio.co/economia/empleo/asi-va-el-pulso-del-sector-sindical-por-el-salario-minimo-de-2027-es-viable-un-aumento-de-dos-digitos-505865",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Así va el pulso del sector sindical por el salario mínimo de 2027: ¿es viable un aumento de dos dígitos?",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "El hotel bogotano Click Clack abrirá en Medellín en 2027 con una propuesta centrada en el bienestar",
+        "url": "https://www.portafolio.co/economia/click-clack-llegara-a-medellin-en-2027-el-hotel-bogotano-alista-una-apuesta-enfocada-en-el-bienestar-505862",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Click Clack llegará a Medellín en 2027: el hotel bogotano alista una apuesta enfocada en el bienestar",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Alerta por posibles estafas de criminales que suplantan a delegados de la Superintendencia de Salud",
+        "url": "https://www.portafolio.co/economia/ojo-delincuentes-se-estarian-haciendo-pasar-por-funcionarios-de-la-superintendencia-de-salud-para-estafar-505863",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "¡Ojo!: delincuentes se estarían haciendo pasar por funcionarios de la Superintendencia de Salud para estafar",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo prepara la enajenación de Almagrario y ofrecerá sus bienes raíces a los privados",
+        "url": "https://www.portafolio.co/economia/agro/gobierno-alista-la-venta-de-almagrario-y-pondra-sus-inmuebles-a-disposicion-del-sector-privado-505861",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Gobierno alista la venta de Almagrario y pondrá sus inmuebles a disposición del sector privado",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "El gravamen al patrimonio cambiaría de umbral en el país y definiría quiénes tributarían menos",
+        "url": "https://www.portafolio.co/economia/impuestos/impuesto-al-patrimonio-tendria-nuevo-limite-en-colombia-quienes-pagarian-menos-con-la-ley-de-rescate-505857",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Impuesto al patrimonio tendría nuevo límite en Colombia: quiénes pagarían menos con la Ley de Rescate",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Cerca de 200 empleados nacionales sufrirían afectaciones por los problemas financieros de Ueno Bank",
+        "url": "https://www.portafolio.co/economia/gobierno/no-sabemos-si-nos-van-a-pagar-habria-200-trabajadores-colombianos-afectados-por-crisis-de-ueno-bank-505858",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "'No sabemos si nos van a pagar': habría 200 trabajadores colombianos afectados por crisis de Ueno Bank",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Gobierno y Federación de Cafeteros alistan créditos contra el clima",
+        "url": "https://www.portafolio.co/economia/agro/federacion-de-cafeteros-recibe-respaldo-del-gobierno-preparan-creditos-para-enfrentar-riesgos-climaticos-505856",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Federación de Cafeteros recibe respaldo del Gobierno: preparan créditos para enfrentar riesgos climáticos",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Decomisan 42 celulares y sellan 12 establecimientos en redada en Bogotá",
+        "url": "https://www.portafolio.co/economia/gobierno/operativo-contra-celulares-robados-en-bogota-incautaron-42-equipos-y-cerraron-12-locales-505853",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Operativo contra celulares robados en Bogotá: incautaron 42 equipos y cerraron 12 locales",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "El euro continúa a la baja ante la moneda colombiana este 6 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/el-euro-sigue-perdiendo-terreno-frente-al-peso-colombiano-este-es-su-precio-hoy-6-de-noviembre-505841",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "El euro sigue perdiendo terreno frente al peso colombiano: este es su precio hoy, 6 de noviembre",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Disminuyen producción y exportaciones del grano colombiano en un año",
+        "url": "https://www.portafolio.co/economia/agro/el-cafe-colombiano-no-levanta-cabeza-produccion-cayo-15-en-12-meses-y-las-ventas-externas-tambien-retroceden-505839",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "El café colombiano no levanta cabeza: producción cayó 15% en 12 meses y las ventas externas también retroceden",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Más de 700 inversores listos para la Milagro Week en Nueva York",
+        "url": "https://www.portafolio.co/economia/gobierno/cuenta-regresiva-para-la-milagro-week-ya-hay-mas-de-700-inversionistas-interesados-que-llegaran-a-nueva-york-505838",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Cuenta regresiva para la Milagro Week: ya hay más de 700 inversionistas interesados que llegarán a Nueva York",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "María José Pizarro niega anomalías en contratos del Senado por Deicy Jiménez",
+        "url": "https://www.portafolio.co/economia/gobierno/maria-jose-pizarro-rompe-el-silencio-sobre-deicy-jimenez-y-niega-irregularidades-en-contratos-del-senado-505834",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "María José Pizarro rompe el silencio sobre Deicy Jiménez y niega irregularidades en contratos del Senado",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Banco GNB de Gilinski atrae gran demanda en Paraguay tras la caída de Ueno",
+        "url": "https://www.portafolio.co/economia/gobierno/banco-gnb-de-gilinski-recibe-alta-demanda-de-clientes-en-paraguay-tras-colapso-de-ueno-505832",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Banco GNB, de Gilinski, recibe alta demanda de clientes en Paraguay tras colapso de Ueno",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Reembolso encabeza las más de 440.000 quejas que la SIC ha recibido desde 2015",
+        "url": "https://www.portafolio.co/economia/gobierno/devolucion-del-dinero-lidera-las-mas-de-440-000-reclamaciones-recibidas-por-la-sic-desde-505831",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Devolución del dinero lidera las más de 440.000 reclamaciones recibidas por la SIC desde 2015",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia termina la semana subiendo casi $50 y así se cotiza la moneda",
+        "url": "https://www.portafolio.co/economia/finanzas/el-precio-del-dolar-en-colombia-cierra-la-semana-con-un-aumento-de-casi-50-asi-cotiza-la-divisa-estadounidense-505830",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "El precio del dólar en Colombia cierra la semana con un aumento de casi $50: así cotiza la divisa estadounidense",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
       {
         "titulo": "PIB de Colombia a octubre de 2026: sectores en expansión y sectores en retroceso",
         "url": "https://www.portafolio.co/economia/economia-colombiana-que-sectores-crecen-y-cuales-se-contraen-a-octubre-de-505824",
@@ -453,159 +603,119 @@
         "publicacion": "2026-11-04",
         "titulo_fuente": "Precio del euro hoy 4 de noviembre en Colombia: así cotiza la divisa europea",
         "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Subió el dólar en Colombia tras las elecciones de mitad de periodo en Estados Unidos",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-pego-un-salto-asi-cotiza-la-divisa-tras-las-elecciones-de-medio-tiempo-en-estados-unidos-505683",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "El dólar en Colombia pegó un salto: así cotiza la divisa tras las elecciones de medio tiempo en Estados Unidos",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Gremio de restaurantes advierte posible cierre de 6.500 establecimientos en Colombia para 2026",
-        "url": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Balance de la Misión Crecer deja más de 400 inversionistas en Madrid según el Vicepresidente",
-        "url": "https://www.portafolio.co/economia/gobierno/mas-de-400-inversionistas-en-madrid-el-balance-del-vicepresidente-para-la-mision-crecer-505680",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Más de 400 inversionistas en Madrid: el balance del Vicepresidente para la Misión Crecer",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "CGT confirma su participación en la negociación del salario mínimo de 2027 con el Gobierno Nacional",
-        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-sector-de-la-cgt-anuncia-su-llegada-a-la-mesa-de-negociacion-con-el-gobierno-nacional-505678",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Salario mínimo de 2027: sector de la CGT anuncia su llegada a la mesa de negociación con el Gobierno Nacional",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Colombia pretende retomar la compra de gas a Venezuela mediante la habilitación del gasoducto Antonio Ricaurte",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-busca-recuperar-importaciones-de-gas-desde-venezuela-con-reactivacion-de-gasoducto-antonio-ricaurte-505676",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Colombia busca recuperar importaciones de gas desde Venezuela con reactivación de gasoducto Antonio Ricaurte",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Altas tasas y gasto público pondrían trabas a la repunte laboral en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/recuperacion-del-empleo-en-colombia-tendria-nuevos-obstaculos-por-tasas-de-interes-y-gasto-publico-505675",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Recuperación del empleo en Colombia tendría nuevos obstáculos por tasas de interés y gasto público",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella respondió ante la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin'",
-        "url": "https://www.portafolio.co/economia/gobierno/presidente-de-la-espriella-reacciono-a-la-aprobacion-de-la-ley-de-sometimiento-la-falsa-paz-total-llego-a-su-fin-505674",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Presidente De La Espriella reaccionó a la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin'",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate Económico busca ahorro fiscal de $44,6 billones a 2027 para evitar el impago",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-plantea-ahorro-estatal-de-44-6-billones-a-2027-para-frenar-el-default-505673",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Ley de Rescate Económico plantea ahorro estatal de $44,6 billones a 2027 para frenar el 'default'",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Fuerte discusión entre el ministro de Agricultura y el presidente de Fedegán por los recursos",
-        "url": "https://www.portafolio.co/economia/gobierno/donde-esta-la-plata-el-fuerte-choque-entre-ministro-de-agricultura-y-presidente-de-fedegan-505666",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "'¿Dónde está la plata?': el fuerte choque entre ministro de Agricultura y presidente de Fedegán",
-        "capturado": "2026-11-04T01:51:29-05:00"
-      },
-      {
-        "titulo": "Madrid acogerá la Milagro Week en 2027 para captar capital europeo hacia iniciativas colombianas",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-llevara-sus-proyectos-a-europa-madrid-sera-sede-de-milagro-week-para-atraer-inversion-en-505662",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Colombia llevará sus proyectos a Europa: Madrid será sede de Milagro Week para atraer inversión en 2027",
-        "capturado": "2026-11-04T01:51:29-05:00"
-      },
-      {
-        "titulo": "Carlos de Hartt declina su candidatura a la presidencia de la Andi y quedan dos opcionados",
-        "url": "https://www.portafolio.co/economia/carlos-de-hart-renuncio-a-la-aspiracion-de-la-presidencia-de-la-andi-505661",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Carlos de Hartt renunció a la aspiración de la presidencia de la Andi: los dos nombres que siguen en carrera",
-        "capturado": "2026-11-04T01:51:29-05:00"
-      },
-      {
-        "titulo": "Senado avala ley de sometimiento tras 10 horas y la Cámara decidirá el futuro",
-        "url": "https://www.portafolio.co/economia/gobierno/tras-10-horas-de-debate-senado-aprueba-la-ley-de-sometimiento-pero-la-camara-tiene-la-ultima-palabra-505657",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Tras 10 horas de debate, Senado aprueba la ley de sometimiento pero la Cámara tiene la última palabra",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Fenalco sugiere un acuerdo de prudencia en el gasto fiscal para todo el Estado",
-        "url": "https://www.portafolio.co/economia/fenalco-propone-pacto-de-austeridad-fiscal-para-todo-el-estado-505650",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Fenalco propone pacto de austeridad fiscal para todo el Estado",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Disputa de marcas entre Davivienda y Plata Colombia: la fintech dispone de un mes para responder",
-        "url": "https://www.portafolio.co/economia/davivienda-se-opone-a-plata-colombia-la-fintech-tiene-30-dias-habiles-para-defender-su-marca-505649",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "El rifirrafe marcario que enfrenta a Davivienda y a Plata Colombia: la fintech tiene un mes para defender su nombre",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Proyecto de Salvamento Económico: las modificaciones tributarias propuestas por el Ejecutivo",
-        "url": "https://www.portafolio.co/economia/impuestos/ley-de-rescate-economico-los-cambios-en-impuestos-que-plantea-el-gobierno-505648",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Ley de Rescate Económico: los cambios en impuestos que plantea el Gobierno",
-        "capturado": "2026-11-03T19:04:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Volkswagen Golf GTI vuelve a Colombia y estiman su valor por referencias en la región",
+        "url": "https://www.portafolio.co/negocios/vehiculo/volkswagen-golf-gti-regresara-a-colombia-lo-que-podria-costar-segun-sus-precios-en-otros-paises-de-america-latina-505871",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Volkswagen Golf GTI regresará a Colombia: lo que podría costar según sus precios en otros países de América Latina",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Cencosud incrementa ventas y optimiza su margen de ganancias en Colombia a septiembre",
+        "url": "https://www.portafolio.co/negocios/comercio/cencosud-duena-de-jumbo-y-metro-acelera-sus-ventas-y-en-colombia-mejora-su-rentabilidad-en-el-tercer-trimestre-505867",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Cencosud, dueña de Jumbo y Metro, acelera sus ventas y en Colombia mejora su rentabilidad en el tercer trimestre",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Cota albergará nuevo complejo de producción audiovisual superior a US$30 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-tendra-un-centro-de-produccion-audiovisual-de-mas-de-us-30-millones-en-cota-505859",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Colombia tendrá un centro de producción audiovisual de más de US$30 millones en Cota",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Sector funerario colombiano registra cambios corporativos, cobertura y nicho animal",
+        "url": "https://www.portafolio.co/negocios/industrias/negocio-funerario-en-colombia-ultimos-movimientos-empresariales-alcance-del-sector-y-nuevo-mercado-para-mascotas-505849",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Negocio funerario en Colombia: últimos movimientos empresariales, alcance del sector y nuevo mercado para mascotas",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Ecopetrol prevé entradas de hasta $36 billones y utilidades de $5 billones al tercer trimestre",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-proyecta-ingresos-de-hasta-36-billones-y-ganancias-de-5-billones-para-el-tercer-trimestre-505851",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Ecopetrol proyecta ingresos de hasta $36 billones y ganancias de $5 billones para el tercer trimestre",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Estrategias de Pactia en su ciclo reciente",
+        "url": "https://www.portafolio.co/negocios/empresas/los-planes-de-pactia-en-su-nueva-etapa-505850",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Los planes de Pactia en su nueva etapa",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "EPS Sanitas y Colsubsidio inician estrategia de emergencia para agilizar despacho de fármacos y este es su funcionamiento",
+        "url": "https://www.portafolio.co/negocios/empresas/eps-sanitas-y-colsubsidio-ponen-en-marcha-un-plan-de-choque-para-acelerar-la-entrega-de-medicamentos-asi-funciona-505848",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "EPS Sanitas y Colsubsidio ponen en marcha un plan de choque para acelerar la entrega de medicamentos: así funciona",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Este centro comercial produce parte de su energía propia e inaugura 330 paneles solares",
+        "url": "https://www.portafolio.co/negocios/empresas/este-centro-comercial-genera-parte-de-su-propia-energia-y-estrena-330-paneles-solares-505843",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Este centro comercial genera parte de su propia energía y estrena 330 paneles solares",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Andesco demanda ante el Consejo de Estado el cobro de aseo y solicita suspenderlo en 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/andesco-lleva-al-consejo-de-estado-la-pelea-por-las-tarifas-de-aseo-y-pide-frenar-su-aplicacion-en-505847",
+        "resumen": "",
+        "autor": "Paula galeano balaguera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Andesco lleva al Consejo de Estado la pelea por las tarifas de aseo y pide frenar su aplicación en 2027",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Shein y Temu presionan al sector textil nacional manifestando que compiten bajo normativas diferentes",
+        "url": "https://www.portafolio.co/negocios/comercio/shein-y-temu-ponen-presion-sobre-la-industria-textil-colombiana-competimos-con-reglas-distintas-505845",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Shein y Temu ponen presión sobre la industria textil colombiana: 'Competimos con reglas distintas'",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
+      {
+        "titulo": "Sector fabril: índice de Davivienda pierde dinamismo y la ocupación laboral desciende tras siete meses",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-indicador-de-davivienda-se-desacelera-y-el-empleo-del-sector-cae-por-primera-vez-en-siete-meses-505833",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Industria: indicador de Davivienda se desacelera y el empleo del sector cae por primera vez en siete meses",
+        "capturado": "2026-11-06T13:14:19-05:00"
+      },
       {
         "titulo": "EPM emite bonos por USD 1.000 millones y regresa a la plaza global luego de seis años",
         "url": "https://www.portafolio.co/negocios/empresas/epm-vuelve-al-mercado-internacional-tras-seis-anos-con-bonos-por-usd-1-000-millones-505823",
@@ -1095,116 +1205,6 @@
         "publicacion": "2026-11-02",
         "titulo_fuente": "Grupo Vardí trae a Colombia a AVATR, la marca de carros chinos de hiperlujo que busca competir con sus precios",
         "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "La cervecera 3 Cordilleras festeja 18 años con el 48% del mercado artesanal",
-        "url": "https://www.portafolio.co/negocios/empresas/ya-es-mayor-de-edad-la-cervecera-3-cordilleras-cumple-18-anos-con-el-48-de-cuota-del-mercado-artesanal-505466",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "¡Ya es mayor de edad! La cervecera 3 Cordilleras cumple 18 años con el 48% de cuota del mercado artesanal",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Obras de Aerocafé iniciarían tras el puente de Reyes con pista de 1.460 metros en su fase uno según KMA",
-        "url": "https://www.portafolio.co/negocios/empresas/aerocafe-arrancaria-obras-despues-del-puente-de-reyes-la-primera-fase-tendra-una-pista-de-1-460-metros-segun-kma-505451",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Aerocafé arrancaría obras después del puente de Reyes: la primera fase tendrá una pista de 1.460 metros, según KMA",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Créditos por 50000 millones de Alta e inDrive financiarán 1000 carros para conductores en Medellín",
-        "url": "https://www.portafolio.co/negocios/vehiculo/alta-e-indrive-buscan-financiar-1-000-vehiculos-para-conductores-en-medellin-con-creditos-por-50-000-millones-505573",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Alta e inDrive buscan financiar 1.000 vehículos para conductores en Medellín con créditos por $50.000 millones",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "Civitatis proyecta un aumento superior al 50% en Colombia impulsada por las agencias de viajes",
-        "url": "https://www.portafolio.co/negocios/empresas/civitatis-preve-crecer-mas-de-50-en-colombia-con-las-agencias-de-viajes-como-motor-de-expansion-505561",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Civitatis prevé crecer más de 50% en Colombia con las agencias de viajes como motor de expansión",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "El ciberataque que dio el control de sistemas de frío en supermercados europeos a los piratas",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-fue-el-ciberataque-que-permitio-a-piratas-informaticos-controlar-los-sistemas-de-frio-de-supermercados-europeos-505545",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "Así fue el ciberataque que permitió a piratas informáticos controlar los sistemas de frío de supermercados europeos",
-        "capturado": "2026-11-02T17:24:27-05:00"
-      },
-      {
-        "titulo": "DAVIbank pasa a llamarse Davivienda tras finalizar su proceso de unificación",
-        "url": "https://www.portafolio.co/negocios/empresas/tras-completar-su-integracion-con-davivienda-davibank-cambia-su-razon-social-a-lambda-bank-que-implica-505540",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Clientes DAVIbank ahora serán Davivienda: este es el nuevo nombre que tendrá tras completar su integración",
-        "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "Bajaj supera a Suzuki en matrículas de motos y lidera el listado de octubre",
-        "url": "https://www.portafolio.co/negocios/vehiculo/bajaj-destrono-a-suzuki-en-ventas-de-motos-asi-quedo-el-ranking-de-las-marcas-mas-vendidas-en-octubre-505536",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Bajaj destronó a Suzuki en ventas de motos: así quedó el ranking de las marcas más vendidas en octubre",
-        "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "La petrolera Aramco volcará USD 2.600 millones en tecnología de IA",
-        "url": "https://www.portafolio.co/negocios/empresas/la-petrolera-aramco-da-un-giro-tecnologico-invertira-us-2-600-millones-en-una-empresa-de-inteligencia-artificial-505538",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "La petrolera Aramco da un giro tecnológico: invertirá US$2.600 millones en una empresa de inteligencia artificial",
-        "capturado": "2026-11-01T18:45:21-05:00"
-      },
-      {
-        "titulo": "Startups colombianas con ambición de crecer en EE.UU. hallan en Silicon Valley un mercado de US$34,5 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/silicon-valley-abre-oportunidades-por-us-34-5-millones-para-startups-colombianas-que-buscan-crecer-en-ee-uu-505532",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Silicon Valley abre oportunidades por US$34,5 millones para startups colombianas que buscan crecer en EE.UU.",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "El comercio se prepara para su temporada crucial con Black Friday, Cyber Monday, madrugones y trasnochones",
-        "url": "https://www.portafolio.co/negocios/comercio/comercio-se-alista-para-su-epoca-mas-importante-del-ano-black-friday-cyber-monday-madrugones-trasnochones-y-mas-505526",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Comercio se alista para su época más importante del año: Black Friday, Cyber Monday, madrugones, trasnochones y más",
-        "capturado": "2026-11-01T15:12:23-05:00"
-      },
-      {
-        "titulo": "Centro Chía prevé un alza del 15 % en visitas navideñas para impulsar el comercio en la Sabana Norte",
-        "url": "https://www.portafolio.co/negocios/empresas/centro-chia-espera-recibir-15-mas-visitantes-en-navidad-y-dinamizar-el-comercio-de-la-sabana-norte-505523",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Centro Chía espera recibir 15 % más visitantes en Navidad y dinamizar el comercio de la Sabana Norte",
-        "capturado": "2026-11-01T15:12:23-05:00"
       }
     ]
   }
