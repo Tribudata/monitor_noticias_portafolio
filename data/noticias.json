@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-07T05:33:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-07T11:44:37-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Firmas de España, China y Portugal pujarán para edificar la Línea 2 del Metro de Bogotá",
+        "url": "https://www.portafolio.co/economia/infraestructura/empresas-de-portugal-china-y-espana-competiran-por-la-construccion-de-la-linea-2-del-metro-de-bogota-505908",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Empresas de Portugal, China y España competirán por la construcción de la Línea 2 del Metro de Bogotá",
+        "capturado": "2026-11-07T11:44:37-05:00"
+      },
       {
         "titulo": "Colombia registra 98.000 casos de dengue y 65 muertes confirmadas",
         "url": "https://www.portafolio.co/economia/regiones/dengue-en-colombia-casi-98-000-casos-y-65-muertes-confirmadas-505902",
@@ -593,19 +603,49 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "Precio del dólar en Colombia: así cotiza la divisa estadounidense este jueves 5 de noviembre",
         "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Plataforma del Servicio Público de Empleo fuera de servicio y miles de usuarios afectados",
-        "url": "https://www.portafolio.co/economia/empleo/plataforma-del-servicio-publico-de-empleo-esta-fuera-de-servicio-miles-de-usuarios-se-ven-afectados-505741",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Plataforma del Servicio Público de Empleo está fuera de servicio: miles de usuarios se ven afectados",
-        "capturado": "2026-11-05T03:59:17-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Quiebras bancarias y crisis financieras que transformaron a Latinoamérica",
+        "url": "https://www.portafolio.co/negocios/empresas/auge-poder-politico-y-colapsos-financieros-las-quiebras-bancarias-que-marcaron-a-america-latina-505912",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Auge, poder político y colapsos financieros: las quiebras bancarias que marcaron a América Latina",
+        "capturado": "2026-11-07T11:44:37-05:00"
+      },
+      {
+        "titulo": "Nubank habilitó nuevamente los retiros y depósitos de criptomonedas",
+        "url": "https://www.portafolio.co/negocios/empresas/nubank-levanto-la-suspension-de-las-operaciones-de-retiros-y-depositos-en-su-plataforma-de-criptomonedas-505910",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Nubank levantó la suspensión de las operaciones de retiros y depósitos en su plataforma de criptomonedas",
+        "capturado": "2026-11-07T11:44:37-05:00"
+      },
+      {
+        "titulo": "El Gobierno frenó cinco tribunales de arbitramento para destrabar obras viales",
+        "url": "https://www.portafolio.co/negocios/empresas/gobierno-suspendio-cinco-tribunales-de-arbitramento-para-facilitar-acuerdos-en-obras-de-infraestructura-505909",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Gobierno suspendió cinco tribunales de arbitramento para facilitar acuerdos en obras de infraestructura",
+        "capturado": "2026-11-07T11:44:37-05:00"
+      },
+      {
+        "titulo": "Nu y Mercado Pago frenan transacciones con criptomonedas por fallas externas",
+        "url": "https://www.portafolio.co/negocios/empresas/nu-y-mercado-pago-suspenden-operaciones-con-criptomonedas-por-fallas-de-proveedores-externos-505907",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Nu y Mercado Pago suspenden operaciones con criptomonedas por fallas de proveedores externos",
+        "capturado": "2026-11-07T11:44:37-05:00"
+      },
       {
         "titulo": "Nestlé pacta reintegrar 86 empleados con suspensiones vigentes y define la fecha de su retorno",
         "url": "https://www.portafolio.co/negocios/empresas/nestle-acuerda-el-regreso-de-86-trabajadores-con-contratos-suspendidos-cuando-volveran-a-sus-puestos-505884",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-03",
         "titulo_fuente": "Gran Salón Ferretero llega a Bogotá: la industria que mueve más de $18 billones busca nuevos mercados",
         "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "A los empleados les cuesta trabajo apartarse de las labores laborales",
-        "url": "https://www.portafolio.co/negocios/empresas/desconectarse-de-las-tareas-de-la-oficina-una-dificultad-entre-los-trabajadores-505616",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Desconectarse de las tareas de la oficina, una dificultad entre los trabajadores",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "CRC cambia tiempos para marcar llamadas comerciales y dudosas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/crc-modifica-plazos-para-identificar-llamadas-publicitarias-y-sospechosas-en-colombia-505621",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "CRC modifica plazos para identificar llamadas publicitarias y sospechosas en Colombia",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Lucas Madriñán liderará RappiPay buscando llegar a 1,5 millones de usuarios",
-        "url": "https://www.portafolio.co/negocios/empresas/lucas-madrinan-asume-la-direccion-de-rappipay-con-la-meta-de-alcanzar-1-5-millones-de-clientes-505618",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Lucas Madriñán asume la dirección de RappiPay con la meta de alcanzar 1,5 millones de clientes",
-        "capturado": "2026-11-03T14:05:59-05:00"
-      },
-      {
-        "titulo": "Matan a empleado petrolero en Barrancabermeja y Campetrol exige más protección",
-        "url": "https://www.portafolio.co/negocios/empresas/asesinan-a-trabajador-petrolero-en-barrancabermeja-y-campetrol-pide-reforzar-la-seguridad-en-la-zona-505609",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Asesinan a trabajador petrolero en Barrancabermeja y Campetrol pide reforzar la seguridad en la zona",
-        "capturado": "2026-11-03T14:05:59-05:00"
       }
     ]
   }
