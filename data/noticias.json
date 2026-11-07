@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-07T11:44:37-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-07T15:40:08-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Títulos corporativos obligatorios, la idea del Centro Democrático para fondear al fisco sin más tributos",
+        "url": "https://www.portafolio.co/economia/impuestos/bonos-empresariales-forzosos-la-propuesta-del-centro-democratico-para-financiar-al-estado-sin-subir-impuestos-505924",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Bonos empresariales forzosos, la propuesta del Centro Democrático para financiar al Estado sin subir impuestos",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "Arranca cumbre en Barranquilla entre parlamentarios y Ejecutivo para revisar proyectos de ley fiscal",
+        "url": "https://www.portafolio.co/economia/gobierno/inicia-conclave-en-barranquilla-entre-congresistas-y-gobierno-para-analizar-propuestas-de-ley-de-rescate-fiscal-505921",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Inicia 'cónclave' en Barranquilla entre congresistas y Gobierno para analizar propuestas de ley de rescate fiscal",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "Propuesta tributaria alterna del exmandatario Álvaro Uribe sugiere abolir gravamen al patrimonio y 4 x 1000",
+        "url": "https://www.portafolio.co/economia/impuestos/reforma-tributaria-alternativa-del-expresidente-alvaro-uribe-propone-eliminar-impuesto-al-patrimonio-y-4-x-1-505919",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Reforma tributaria alternativa del expresidente Álvaro Uribe propone eliminar impuesto al patrimonio y 4 x 1.000",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "Indicador fiscal: 706 alcaldías siguen en peligro pese al avance del promedio nacional en 2025",
+        "url": "https://www.portafolio.co/economia/regiones/desempeno-fiscal-706-municipios-siguen-en-riesgo-o-deterioro-pese-a-la-mejora-del-indicador-nacional-en-505918",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Desempeño fiscal: 706 municipios siguen en riesgo o deterioro pese a la mejora del indicador nacional en 2025",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "Dian modificó las exigencias de datos exógenos y fijó nuevas normas para sociedades y aportantes",
+        "url": "https://www.portafolio.co/economia/impuestos/dian-ajusto-los-requisitos-de-informacion-exogena-y-establecio-nuevas-condiciones-para-empresas-y-contribuyentes-505915",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Dian ajustó los requisitos de información exógena y estableció nuevas condiciones para empresas y contribuyentes",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
       {
         "titulo": "Firmas de España, China y Portugal pujarán para edificar la Línea 2 del Metro de Bogotá",
         "url": "https://www.portafolio.co/economia/infraestructura/empresas-de-portugal-china-y-espana-competiran-por-la-construccion-de-la-linea-2-del-metro-de-bogota-505908",
@@ -553,59 +603,39 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "Reducir de 18 a 7 ministerios: la propuesta de Antioquia para ahorrar $4,5 billones de gasto estatal",
         "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Fechas de pago de la prima de fin de año de 2026 y monto para quienes devengan el salario mínimo",
-        "url": "https://www.portafolio.co/economia/empleo/cuando-pagan-la-prima-de-diciembre-de-2026-y-cuanto-recibira-quien-gana-un-salario-minimo-505766",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "¿Cuándo pagan la prima de diciembre de 2026 y cuánto recibirá quien gana un salario mínimo?",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo apoya la reforma tributaria oficial, mas solicita examinar ajustes salariales y del Ruge",
-        "url": "https://www.portafolio.co/economia/fedesarrollo-respalda-la-reforma-fiscal-del-gobierno-pero-pide-revisar-cambios-a-la-nomina-y-beneficios-del-ruge-505763",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Fedesarrollo respalda la reforma fiscal del Gobierno, pero pide revisar cambios a la nómina y beneficios del Ruge",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Directiva de Fedegán apoya a Lafaurie tras disputa sostenida con el titular de la cartera agrícola",
-        "url": "https://www.portafolio.co/economia/gobierno/junta-directiva-de-fedegan-respalda-a-lafaurie-tras-enfrentamiento-con-el-ministro-de-agricultura-505754",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Junta Directiva de Fedegán respalda a Lafaurie tras enfrentamiento con el ministro de Agricultura",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "La Contraloría advierte al Ministerio de Salud sobre 10,18 billones de pesos pendientes de legalizar",
-        "url": "https://www.portafolio.co/economia/gobierno/contraloria-hace-advertencia-al-ministerio-de-salud-hay-10-18-billones-pendientes-de-legalizar-505750",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Contraloría hace advertencia al Ministerio de Salud: hay $10,18 billones pendientes de legalizar",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia: este es el valor de la moneda norteamericana este jueves 5 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-asi-cotiza-la-divisa-estadounidense-este-jueves-5-de-noviembre-505749",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Precio del dólar en Colombia: así cotiza la divisa estadounidense este jueves 5 de noviembre",
-        "capturado": "2026-11-05T12:18:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El mercado colombiano dinamizó la expansión de Parque Arauco durante el tercer trimestre",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-impulso-el-crecimiento-de-parque-arauco-en-el-tercer-trimestre-505922",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Colombia impulsó el crecimiento de Parque Arauco en el tercer trimestre",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo inicia consulta local sobre iniciativa para facilitar procesos a empresas",
+        "url": "https://www.portafolio.co/negocios/empresas/gobierno-abre-consulta-regional-sobre-proyecto-para-simplificar-tramites-a-empresas-505920",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Gobierno abre consulta regional sobre proyecto para simplificar trámites a empresas",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
+      {
+        "titulo": "Arquitectura y Concreto invertirá 150000 millones de pesos en ciudadela médica de Rionegro",
+        "url": "https://www.portafolio.co/negocios/inversion/arquitectura-y-concreto-destinara-150-000-millones-a-complejo-de-salud-en-rionegro-505917",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Arquitectura y Concreto destinará $150.000 millones a complejo de salud en Rionegro",
+        "capturado": "2026-11-07T15:40:08-05:00"
+      },
       {
         "titulo": "Quiebras bancarias y crisis financieras que transformaron a Latinoamérica",
         "url": "https://www.portafolio.co/negocios/empresas/auge-poder-politico-y-colapsos-financieros-las-quiebras-bancarias-que-marcaron-a-america-latina-505912",
@@ -1174,36 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-03",
         "titulo_fuente": "Así ven las empresas el camino para hacer negocios en Colombia",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Mercado Libre y Bancolombia despliegan estrategia para recuperar 12.000 comercios golpeados por el sismo",
-        "url": "https://www.portafolio.co/negocios/empresas/bancolombia-y-mercado-libre-lanzan-plan-para-reactivar-12-000-negocios-afectados-por-el-terremoto-505633",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Bancolombia y Mercado Libre lanzan plan para reactivar 12.000 negocios afectados por el terremoto",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Flint proyecta hacer de Bogotá su sede regional destinando más de US$5 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/flint-busca-convertir-a-bogota-en-su-centro-regional-con-inversion-superior-a-us-5-millones-505631",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Flint busca convertir a Bogotá en su centro regional con inversión superior a US$5 millones",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Bogotá recibe el Gran Salón Ferretero con un sector que supera los $18 billones buscando nuevos mercados",
-        "url": "https://www.portafolio.co/negocios/industrias/gran-salon-ferretero-llega-a-bogota-la-industria-que-mueve-mas-de-18-billones-busca-nuevos-mercados-505623",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Gran Salón Ferretero llega a Bogotá: la industria que mueve más de $18 billones busca nuevos mercados",
         "capturado": "2026-11-03T19:04:37-05:00"
       }
     ]
