@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-06T18:24:09-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-11-06T22:01:35-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Colombia registra 98.000 casos de dengue y 65 muertes confirmadas",
+        "url": "https://www.portafolio.co/economia/regiones/dengue-en-colombia-casi-98-000-casos-y-65-muertes-confirmadas-505902",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Dengue en Colombia: casi 98.000 casos y 65 muertes confirmadas",
+        "capturado": "2026-11-06T22:01:35-05:00"
+      },
+      {
+        "titulo": "Japón entrega una donación de 2 millones de dólares a Colombia por el sismo",
+        "url": "https://www.portafolio.co/economia/japon-dona-2-millones-de-dolares-a-colombia-por-el-terremoto-505900",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Japón dona 2 millones de dólares a Colombia por el terremoto",
+        "capturado": "2026-11-06T22:01:35-05:00"
+      },
+      {
+        "titulo": "La Agencia Nacional de Tierras abre oficinas provisionales en 19 ciudades",
+        "url": "https://www.portafolio.co/economia/gobierno/la-agencia-nacional-de-tierras-habilita-sedes-temporales-de-atencion-en-19-ciudades-505898",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "La Agencia Nacional de Tierras habilita sedes temporales de atención en 19 ciudades",
+        "capturado": "2026-11-06T22:01:35-05:00"
+      },
       {
         "titulo": "El dólar subió de 3.166 a 3.237 pesos y tuvo su mayor repunte semanal desde fines de septiembre",
         "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-paso-de-3-166-a-3-237-y-registro-su-mayor-avance-semanal-desde-finales-de-septiembre-505895",
@@ -573,36 +603,6 @@
         "publicacion": "2026-11-04",
         "titulo_fuente": "Plataforma del Servicio Público de Empleo está fuera de servicio: miles de usuarios se ven afectados",
         "capturado": "2026-11-05T03:59:17-05:00"
-      },
-      {
-        "titulo": "Asoexport señala que la ley de rescate fiscal contraría las metas de aumento al consumo de café",
-        "url": "https://www.portafolio.co/economia/agro/la-ley-de-rescate-fiscal-va-en-contravia-de-los-esfuerzos-para-aumentar-el-consumo-de-cafe-asoexport-505740",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "‘La ley de rescate fiscal va en contravía de los esfuerzos para aumentar el consumo de café’: Asoexport",
-        "capturado": "2026-11-05T03:59:17-05:00"
-      },
-      {
-        "titulo": "Santiago Vélez Corredores de Seguros prioriza tecnología e internacionalización para sus usuarios",
-        "url": "https://www.portafolio.co/economia/finanzas/ia-y-expansion-nacional-para-atender-mejor-a-los-clientes-de-santiago-velez-corredores-de-seguros-505735",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "‘IA y expansión nacional para atender mejor a los clientes de Santiago Vélez Corredores de Seguros’",
-        "capturado": "2026-11-04T20:38:56-05:00"
-      },
-      {
-        "titulo": "Alejandro Ordóñez lidera el Mininterior enfocándose en la agenda esencial de la Ley de Rescate Fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/alejandro-ordonez-asume-el-mininterior-con-una-agenda-clave-para-el-futuro-de-la-ley-de-rescate-fiscal-505722",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Alejandro Ordóñez asume el Mininterior con una agenda clave para el futuro de la Ley de Rescate Fiscal",
-        "capturado": "2026-11-04T20:38:56-05:00"
       }
     ],
     "Negocios": [
