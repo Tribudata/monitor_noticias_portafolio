@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-08T08:47:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-08T13:40:05-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Analistas prevén que la inflación anual de octubre siguió al alza y se situó entre 6,35% y 6,41%",
+        "url": "https://www.portafolio.co/economia/inflacion-anual-de-octubre-continuaria-subiendo-y-se-habria-ubicado-entre-6-35-y-6-41-dice-analistas-505813",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Inflación anual de octubre continuaría subiendo y se habría ubicado entre 6,35% y 6,41%, proyectan analistas",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Comerciantes solicitan retomar la fórmula técnica de inflación y productividad para el salario mínimo de 2027",
+        "url": "https://www.portafolio.co/economia/crecimiento/salario-minimo-de-2027-comerciantes-piden-recuperar-la-formula-tecnica-basada-en-inflacion-y-productividad-505936",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Salario mínimo de 2027: comerciantes piden 'recuperar' la fórmula técnica basada en inflación y productividad",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
       {
         "titulo": "Ejecutivo y Congreso pactan mesas técnicas para ley de rescate tras cumbre en Barranquilla",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931",
@@ -583,29 +603,89 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "Seguros Bolívar es la única aseguradora colombiana en recibir calificación internacional BBB-",
         "capturado": "2026-11-05T17:45:42-05:00"
-      },
-      {
-        "titulo": "Inestabilidad en el trabajo formal eleva la fluctuación de los sueldos en Colombia, según análisis",
-        "url": "https://www.portafolio.co/economia/la-intermitencia-en-el-empleo-formal-aumenta-la-inestabilidad-de-los-ingresos-laborales-en-colombia-estudio-505788",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "La intermitencia en el empleo formal aumenta la inestabilidad de los ingresos laborales en Colombia: estudio",
-        "capturado": "2026-11-05T17:45:42-05:00"
-      },
-      {
-        "titulo": "Las indemnizaciones por el movimiento telúrico continúan y ya superan los 1,2 billones de pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/los-pagos-por-el-terremoto-no-paran-van-mas-de-1-2-billones-en-indemnizaciones-505765",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Los pagos por el terremoto no paran: van más de $1,2 billones en indemnizaciones",
-        "capturado": "2026-11-05T17:45:42-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Apoyar el crédito a pequeñas empresas busca la llegada de la Fundación WWB a a2censo",
+        "url": "https://www.portafolio.co/negocios/empresas/impulsar-financiacion-de-las-pymes-objetivo-de-la-entrada-de-la-fundacion-wwb-a-a2censo-505942",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Impulsar financiación de las pymes, objetivo de la entrada de la Fundación WWB a a2censo",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Mercado de moda colombiana en Venezuela habilitaría opciones y tocaría US$1.252 millones en 2030",
+        "url": "https://www.portafolio.co/negocios/comercio/venezuela-vuelve-a-abrir-oportunidades-para-la-moda-colombiana-un-mercado-que-llegaria-a-us-1-252-millones-en-505883",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Venezuela vuelve a abrir oportunidades para la moda colombiana, un mercado que llegaría a US$1.252 millones en 2030",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "BMI Seguros Colombia señala que las insurtech imponen mayor competitividad",
+        "url": "https://www.portafolio.co/negocios/empresas/las-insurtech-nos-obligan-a-ser-mas-competitivos-bmi-seguros-colombia-505941",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "'Las insurtech nos obligan a ser más competitivos': BMI Seguros Colombia",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Robótica, agentes autónomos y China guiarán la Web Summit 2026 en Lisboa",
+        "url": "https://www.portafolio.co/negocios/empresas/protagonismo-de-china-agentes-autonomos-y-robotica-marcan-la-agenda-de-la-web-summit-2026-en-lisboa-505940",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Protagonismo de China, agentes autónomos y robótica marcan la agenda de la Web Summit 2026 en Lisboa",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Tesla inicia el adiós al Cybertruck, pickup que falló a las promesas de Elon Musk",
+        "url": "https://www.portafolio.co/negocios/industrias/tesla-comienza-a-despedirse-del-cybertruck-la-camioneta-que-no-cumplio-las-promesas-de-elon-musk-505937",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Tesla comienza a despedirse del Cybertruck: la camioneta que no cumplió las promesas de Elon Musk",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Caso Ueno: Peña inicia prisión preventiva al ser imputado por la crisis de bancos en Paraguay",
+        "url": "https://www.portafolio.co/negocios/empresas/pena-cumple-su-primer-dia-en-prision-preventiva-tras-ser-imputado-por-crisis-bancaria-en-paraguay-505935",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Caso Ueno: Peña cumple su primer día en prisión preventiva tras ser imputado por crisis bancaria en Paraguay",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Ejecutivo dispone blindar canales de información por amenazas de ataques",
+        "url": "https://www.portafolio.co/negocios/empresas/gobierno-ordena-reforzar-seguridad-de-medios-tras-alertas-de-posibles-atentados-505933",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Gobierno ordena reforzar seguridad de medios de comunicación tras alertas de posibles atentados",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
+        "titulo": "Cybertruck, el gran tropiezo de Tesla: caen ventas y bajaran su armado en 2027",
+        "url": "https://www.portafolio.co/negocios/vehiculo/cybertruck-el-mayor-fracaso-automovilistico-de-tesla-ventas-se-desplomaron-y-su-produccion-se-recortara-en-505932",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Cybertruck, el mayor fracaso automovilístico de Tesla: ventas se desplomaron y su producción se recortará en 2027",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
       {
         "titulo": "El nerviosismo financiero igualmente genera impacto psicológico en los directivos",
         "url": "https://www.portafolio.co/negocios/empresas/la-incertidumbre-economica-tambien-pasa-factura-emocional-a-los-empresarios-505928",
@@ -1125,86 +1205,6 @@
         "publicacion": "2026-11-04",
         "titulo_fuente": "Accionistas de Grupo Argos podrán vender desde una acción en oferta de recompra de hasta $150.000 millones",
         "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "El mapa del liderazgo y talento de connacionales en España de acuerdo con Forbes España",
-        "url": "https://www.portafolio.co/negocios/empresas/los-colombianos-que-estan-transformando-espana-el-mapa-del-talento-y-el-liderazgo-segun-forbes-espana-505689",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Los colombianos que están transformando España: el mapa del talento y el liderazgo, según Forbes España",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Bancolombia otorgará más de dieciocho billones de pesos en líneas de crédito a compañías",
-        "url": "https://www.portafolio.co/negocios/pymes-y-empresas-tendran-mas-de-18-billones-en-cupos-de-credito-de-bancolombia-505690",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Pymes y empresas tendrán más de $18 billones en cupos de crédito de Bancolombia",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Desde noviembre, los centros comerciales encienden la Navidad para evitar que caigan sus ventas",
-        "url": "https://www.portafolio.co/negocios/empresas/centros-comerciales-hacen-inversiones-y-buscan-impulsar-el-trafico-con-sus-apuestas-para-navidad-505681",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Desde noviembre, centros comerciales 'prenden' la Navidad para que sus ventas no aflojen",
-        "capturado": "2026-11-04T10:07:06-05:00"
-      },
-      {
-        "titulo": "Air Canada destaca la futura importancia de Bogotá como hub junto a Avianca",
-        "url": "https://www.portafolio.co/negocios/empresas/bogota-se-convertira-eventualmente-en-un-centro-de-conexion-muy-importante-air-canada-y-su-alianza-con-avianca-505635",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "“Bogotá se convertirá eventualmente en un centro de conexión muy importante”: Air Canada y su alianza con Avianca",
-        "capturado": "2026-11-04T01:51:29-05:00"
-      },
-      {
-        "titulo": "Ascun propone planes de estudio conjuntos entre sector educativo y empresarial",
-        "url": "https://www.portafolio.co/negocios/ascun-curriculos-co-creados-para-unir-academia-y-empresa-505664",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Ascun: Currículos co-creados para unir academia y empresa",
-        "capturado": "2026-11-04T01:51:29-05:00"
-      },
-      {
-        "titulo": "Mallplaza registra ingresos por US$ 179,7 millones gracias a ocho centros comerciales en Colombia y acuerdo con Falabella",
-        "url": "https://www.portafolio.co/negocios/mallplaza-con-ocho-centros-mas-en-colombia-y-alianza-con-falabella-reporta-ingresos-por-us-179-7-millones-505660",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Mallplaza, con ocho centros más en Colombia y alianza con Falabella, reporta ingresos por US$ 179,7 millones",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Qbano prevé la venta de más de 10 millones de sándwiches en el país para finalizar el año 2026",
-        "url": "https://www.portafolio.co/negocios/comercio/qbano-proyecta-vender-mas-de-10-millones-de-sandwiches-en-colombia-al-cierre-de-505641",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Qbano proyecta vender más de 10 millones de sándwiches en Colombia al cierre de 2026",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "Cerca de 80 naciones gravan paquetes de Temu y Shein y Colombia entraría con la Ley de Rescate",
-        "url": "https://www.portafolio.co/negocios/comercio/cerca-de-80-paises-ya-cobran-impuestos-a-paquetes-de-temu-y-shein-colombia-podria-sumarse-con-la-ley-de-rescate-505637",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Cerca de 80 países ya cobran impuestos a paquetes de Temu y Shein: Colombia podría sumarse con la Ley de Rescate",
-        "capturado": "2026-11-03T19:04:37-05:00"
       }
     ]
   }
