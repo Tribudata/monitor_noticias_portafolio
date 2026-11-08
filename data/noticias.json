@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-07T19:13:03-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-08T01:30:14-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ejecutivo y Congreso pactan mesas técnicas para ley de rescate tras cumbre en Barranquilla",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Gobierno y Congreso acuerdan trabajar en mesas técnicas sobre ley de rescate, tras 'cónclave' en Barranquilla",
+        "capturado": "2026-11-08T01:30:14-05:00"
+      },
+      {
+        "titulo": "Títulos corporativos obligatorios, la idea para fondear al Gobierno sin aumentar tributos",
+        "url": "https://www.portafolio.co/economia/impuestos/bonos-empresariales-forzosos-la-propuesta-para-financiar-al-estado-sin-subir-impuestos-505924",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Bonos empresariales forzosos, la propuesta para financiar al Estado sin subir impuestos",
+        "capturado": "2026-11-08T01:30:14-05:00"
+      },
       {
         "titulo": "Prosperidad Social anunció desembolsos de Renta Ciudadana y Devolución del IVA del 13 al 28 de noviembre",
         "url": "https://www.portafolio.co/economia/gobierno/renta-ciudadana-y-devolucion-del-iva-prosperidad-social-confirmo-pagos-del-13-al-28-de-noviembre-de-505929",
@@ -583,26 +603,6 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "Los pagos por el terremoto no paran: van más de $1,2 billones en indemnizaciones",
         "capturado": "2026-11-05T17:45:42-05:00"
-      },
-      {
-        "titulo": "El porvenir de los préstamos en el país gracias a la inteligencia artificial y el análisis de datos",
-        "url": "https://www.portafolio.co/economia/finanzas/el-futuro-del-credito-en-colombia-con-la-inteligencia-artificial-y-la-analitica-de-datos-505783",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "El futuro del crédito en Colombia con la inteligencia artificial y la analítica de datos",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "La cotización de la moneda europea descendió en el país y cede ante el peso: así se negocia",
-        "url": "https://www.portafolio.co/economia/finanzas/el-precio-del-euro-bajo-en-colombia-y-continua-perdiendo-terreno-frente-al-peso-asi-cotiza-la-divisa-505779",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "El precio del euro bajó en Colombia y continúa perdiendo terreno frente al peso: así cotiza la divisa",
-        "capturado": "2026-11-05T12:18:11-05:00"
       }
     ],
     "Negocios": [
