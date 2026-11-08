@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-07T15:40:08-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-07T19:13:03-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Prosperidad Social anunció desembolsos de Renta Ciudadana y Devolución del IVA del 13 al 28 de noviembre",
+        "url": "https://www.portafolio.co/economia/gobierno/renta-ciudadana-y-devolucion-del-iva-prosperidad-social-confirmo-pagos-del-13-al-28-de-noviembre-de-505929",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Renta Ciudadana y Devolución del IVA: Prosperidad Social confirmó pagos del 13 al 28 de noviembre de 2026",
+        "capturado": "2026-11-07T19:13:03-05:00"
+      },
+      {
+        "titulo": "Centro Democrático objeta gravamen a alimentos, internet y salud en la Ley de Rescate Económico",
+        "url": "https://www.portafolio.co/economia/crecimiento/centro-democratico-cuestiona-iva-a-alimentos-internet-y-servicios-de-salud-en-la-ley-de-rescate-economico-505927",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Crecimiento",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Centro Democrático cuestiona IVA a alimentos, internet y servicios de salud en la Ley de Rescate Económico",
+        "capturado": "2026-11-07T19:13:03-05:00"
+      },
+      {
+        "titulo": "Contrarreforma de Álvaro Uribe prevé enajenar otro porcentaje de Ecopetrol a inversionistas",
+        "url": "https://www.portafolio.co/economia/impuestos/contrarreforma-de-alvaro-uribe-contempla-vender-otro-porcentaje-de-ecopetrol-a-inversionistas-505925",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Contrarreforma de Álvaro Uribe contempla vender otro porcentaje de Ecopetrol a inversionistas",
+        "capturado": "2026-11-07T19:13:03-05:00"
+      },
       {
         "titulo": "Títulos corporativos obligatorios, la idea del Centro Democrático para fondear al fisco sin más tributos",
         "url": "https://www.portafolio.co/economia/impuestos/bonos-empresariales-forzosos-la-propuesta-del-centro-democratico-para-financiar-al-estado-sin-subir-impuestos-505924",
@@ -573,39 +603,29 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "El precio del euro bajó en Colombia y continúa perdiendo terreno frente al peso: así cotiza la divisa",
         "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "El costo de vida en Colombia subiría en 2026 y volvería al 3% en 2028 según el Banco de la República",
-        "url": "https://www.portafolio.co/economia/inflacion-en-colombia-seguiria-subiendo-en-2026-y-solo-volveria-a-la-meta-del-3-durante-el-ano-2028-banrepublica-505773",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Inflación en Colombia seguiría subiendo en 2026 y solo volvería a la meta del 3% durante el año 2028: Banrepública",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Cancillería critica el consulado fantasma en Tijuana y su deuda tras cuatro años de funcionamiento",
-        "url": "https://www.portafolio.co/economia/gobierno/se-enfiestaron-cuatro-anos-cancilleria-lanza-mensaje-sobre-el-consulado-fantasma-en-tijuana-y-la-deuda-que-dejo-505769",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "'Se enfiestaron cuatro años': Cancillería lanza mensaje sobre el consulado fantasma en Tijuana y la deuda que dejó",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Disminuir de 18 a 7 carteras: la iniciativa antioqueña para recortar $4,5 billones del gasto público",
-        "url": "https://www.portafolio.co/economia/gobierno/reducir-de-18-a-7-ministerios-la-propuesta-de-antioquia-para-ahorrar-4-5-billones-de-gasto-estatal-505772",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Reducir de 18 a 7 ministerios: la propuesta de Antioquia para ahorrar $4,5 billones de gasto estatal",
-        "capturado": "2026-11-05T12:18:11-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "El nerviosismo financiero igualmente genera impacto psicológico en los directivos",
+        "url": "https://www.portafolio.co/negocios/empresas/la-incertidumbre-economica-tambien-pasa-factura-emocional-a-los-empresarios-505928",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "La incertidumbre económica también pasa 'factura emocional' a los empresarios",
+        "capturado": "2026-11-07T19:13:03-05:00"
+      },
+      {
+        "titulo": "Avianca confirma trayectos sin escalas entre Buenos Aires y Barranquilla por la final de la Copa Sudamericana",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-anuncia-vuelos-directos-desde-buenos-aires-a-barranquilla-para-la-final-de-la-copa-sudamericana-505926",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-07",
+        "titulo_fuente": "Avianca anuncia vuelos directos desde Buenos Aires a Barranquilla para la final de la Copa Sudamericana",
+        "capturado": "2026-11-07T19:13:03-05:00"
+      },
       {
         "titulo": "El mercado colombiano dinamizó la expansión de Parque Arauco durante el tercer trimestre",
         "url": "https://www.portafolio.co/negocios/comercio/colombia-impulso-el-crecimiento-de-parque-arauco-en-el-tercer-trimestre-505922",
@@ -1184,26 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-11-03",
         "titulo_fuente": "Cerca de 80 países ya cobran impuestos a paquetes de Temu y Shein: Colombia podría sumarse con la Ley de Rescate",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "San Victorino impulsa el comercio de la moda mediante 24 marcas sobre la pasarela",
-        "url": "https://www.portafolio.co/negocios/comercio/san-victorino-pone-a-rodar-los-negocios-de-la-moda-con-24-marcas-en-pasarela-505638",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "San Victorino pone a rodar los negocios de la moda con 24 marcas en pasarela",
-        "capturado": "2026-11-03T19:04:37-05:00"
-      },
-      {
-        "titulo": "De esta manera perciben las compañías la ruta para efectuar transacciones en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-ven-las-empresas-el-camino-para-hacer-negocios-en-colombia-505627",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "Así ven las empresas el camino para hacer negocios en Colombia",
         "capturado": "2026-11-03T19:04:37-05:00"
       }
     ]
