@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-08T13:40:05-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-08T17:40:03-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Crisis de radares golpea a la aviación y genera dudas sobre el control de los vuelos",
+        "url": "https://www.portafolio.co/economia/infraestructura/aviacion-paga-los-platos-rotos-de-un-profundo-lio-de-radares-quien-esta-viendo-los-aviones-505840",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Aviación paga los platos rotos de un profundo lío de radares: ¿quién está viendo los aviones?",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
       {
         "titulo": "Analistas prevén que la inflación anual de octubre siguió al alza y se situó entre 6,35% y 6,41%",
         "url": "https://www.portafolio.co/economia/inflacion-anual-de-octubre-continuaria-subiendo-y-se-habria-ubicado-entre-6-35-y-6-41-dice-analistas-505813",
@@ -593,19 +603,59 @@
         "publicacion": "2026-11-05",
         "titulo_fuente": "Banco de la República advierte incertidumbre fiscal y posible aumento del riesgo país en Colombia",
         "capturado": "2026-11-05T17:45:42-05:00"
-      },
-      {
-        "titulo": "Seguros Bolívar es la única compañía de seguros nacional con nota internacional BBB-",
-        "url": "https://www.portafolio.co/economia/finanzas/seguros-bolivar-es-la-unica-aseguradora-colombiana-en-recibir-calificacion-internacional-bbb-505796",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Seguros Bolívar es la única aseguradora colombiana en recibir calificación internacional BBB-",
-        "capturado": "2026-11-05T17:45:42-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Cinco indicadores financieros para pequeñas y medianas empresas al terminar 2026, de acuerdo con analistas",
+        "url": "https://www.portafolio.co/negocios/empresas/estas-son-las-cinco-variables-financieras-que-las-pymes-deberian-revisar-antes-de-cerrar-el-2026-segun-expertos-505953",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Estas son las cinco variables financieras que las pymes deberían revisar antes de cerrar el 2026, según expertos",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
+      {
+        "titulo": "Expectativas del personal hacia los líderes durante periodos de alta presión",
+        "url": "https://www.portafolio.co/negocios/empresas/que-esperan-los-colaboradores-de-sus-jefes-en-momentos-de-maxima-tension-505952",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "¿Qué esperan los colaboradores de sus jefes en momentos de máxima tensión?",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
+      {
+        "titulo": "Gran operación en Brasil: Siderúrgica CSN traspasa su división de cemento a Huaxin de China por 2.300 millones de dólares",
+        "url": "https://www.portafolio.co/negocios/industrias/meganegocio-en-brasil-siderurgica-csn-vende-su-unidad-cementera-a-la-china-huaxin-por-us-2-300-millones-505951",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Meganegocio en Brasil: Siderúrgica CSN vende su unidad cementera a la china Huaxin por US$2.300 millones",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
+      {
+        "titulo": "El gerente general de Pactia afirma sobre finca raíz que los intereses elevados no serán eternos",
+        "url": "https://www.portafolio.co/negocios/empresas/estas-tasas-de-interes-altas-no-van-a-durar-toda-la-vida-gerente-general-de-pactia-sobre-inversion-inmboliaria-505870",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "'Estas tasas de interés altas no van a durar toda la vida': gerente general de Pactia sobre inversión inmboliaria",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
+      {
+        "titulo": "Panorama de microemprendimientos: evaluación inicial de gestión muestra aplazados en Antioquia",
+        "url": "https://www.portafolio.co/negocios/empresas/radiografia-de-las-microempresas-en-antioquia-reprobaron-examen-pionero-de-desempeno-505947",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-08",
+        "titulo_fuente": "Radiografía de las microempresas: en Antioquia reprobaron examen pionero de desempeño",
+        "capturado": "2026-11-08T17:40:03-05:00"
+      },
       {
         "titulo": "Apoyar el crédito a pequeñas empresas busca la llegada de la Fundación WWB a a2censo",
         "url": "https://www.portafolio.co/negocios/empresas/impulsar-financiacion-de-las-pymes-objetivo-de-la-entrada-de-la-fundacion-wwb-a-a2censo-505942",
@@ -1154,56 +1204,6 @@
         "subseccion": "Comercio",
         "publicacion": "2026-11-04",
         "titulo_fuente": "Colombia logró en septiembre su mayor cifra exportadora desde 2014, con el petróleo como principal impulso del mes",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Laura Casallas asume el liderazgo para la nueva fase de Spinning Center",
-        "url": "https://www.portafolio.co/negocios/comercio/laura-casallas-la-sucesora-detras-de-la-nueva-etapa-de-spinning-center-505708",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Laura Casallas, la sucesora detrás de la nueva etapa de Spinning Center",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Ramo acude a la Fiscalía por disputas sobre supuesta crueldad animal en producción de huevos",
-        "url": "https://www.portafolio.co/negocios/empresas/ramo-lleva-a-la-fiscalia-controversia-por-senalamientos-sobre-presunto-maltrato-animal-en-su-cadena-de-huevos-505704",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Ramo lleva a la Fiscalía controversia por señalamientos sobre presunto maltrato animal en su cadena de huevos",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Autonomía del gremio define la puja en la Andi para reemplazar a Mac Master",
-        "url": "https://www.portafolio.co/negocios/industrias/cuenta-regresiva-en-la-andi-independencia-del-gremio-marca-el-debate-para-elegir-al-sucesor-de-mac-master-505699",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Cuenta regresiva en la Andi: independencia del gremio marca el debate para elegir al sucesor de Mac Master",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Ventas externas de Colombia llegaron a US$5.410,7 millones en septiembre, un máximo desde 2022",
-        "url": "https://www.portafolio.co/negocios/comercio/exportaciones-colombianas-cerraron-septiembre-en-us-5-410-7-millones-y-alcanzaron-cifra-mensual-mas-alta-desde-505694",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Exportaciones colombianas cerraron septiembre en US$5.410,7 millones y alcanzaron cifra mensual más alta desde 2022",
-        "capturado": "2026-11-04T16:24:49-05:00"
-      },
-      {
-        "titulo": "Recompra de acciones de Grupo Argos hasta por $150.000 millones permite negociar desde un título",
-        "url": "https://www.portafolio.co/negocios/empresas/accionistas-de-grupo-argos-podran-vender-desde-una-accion-en-oferta-de-recompra-de-hasta-150-000-millones-505692",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Accionistas de Grupo Argos podrán vender desde una acción en oferta de recompra de hasta $150.000 millones",
         "capturado": "2026-11-04T16:24:49-05:00"
       }
     ]
