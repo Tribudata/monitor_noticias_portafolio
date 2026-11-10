@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-09T22:17:37-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-11-10T06:31:17-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
       {
@@ -607,6 +607,16 @@
     ],
     "Negocios": [
       {
+        "titulo": "VaxThera planea fabricar cerca de 700 millones de dosis de vacunas en Colombia frente a crisis de salud",
+        "url": "https://www.portafolio.co/negocios/empresas/vaxthera-proyecta-producir-hasta-700-millones-de-dosis-de-vacunas-en-colombia-ante-futuras-emergencias-sanitarias-506035",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "VaxThera proyecta producir hasta 700 millones de dosis de vacunas en Colombia ante futuras emergencias sanitarias",
+        "capturado": "2026-11-10T06:31:17-05:00"
+      },
+      {
         "titulo": "Ecopetrol emitió bonos por US$2.000 millones y captó ofertas de US$6.930 millones alcanzando un récord",
         "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-logro-colocar-us-2-000-millones-en-bonos-y-recibio-ofertas-por-us-6-930-millones-record-en-cinco-anos-506032",
         "resumen": "",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-05",
         "titulo_fuente": "Presidente de Davivienda respalda Ley de Rescate, pero cuestiona la continuidad de la sobretasa a los bancos",
-        "capturado": "2026-11-05T12:18:11-05:00"
-      },
-      {
-        "titulo": "Firma originaria de Cartagena alcanza 14.000 trabajadores gracias a su expansión en EE UU y Filipinas",
-        "url": "https://www.portafolio.co/negocios/empresas/esta-empresa-nacida-en-cartagena-llega-a-14-000-empleados-con-una-creciente-operacion-en-estados-unidos-y-filipinas-505774",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-05",
-        "titulo_fuente": "Esta empresa nacida en Cartagena llega a 14.000 empleados con una creciente operación en Estados Unidos y Filipinas",
         "capturado": "2026-11-05T12:18:11-05:00"
       }
     ]
