@@ -1,9 +1,139 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-11T01:55:32-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-11T09:56:05-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "LATAM Cargo aumentará por tres su capacidad en Bogotá gracias a un centro de 4.312 m² en El Dorado",
+        "url": "https://www.portafolio.co/economia/infraestructura/latam-cargo-triplicara-su-espacio-de-bodega-en-bogota-con-una-nueva-instalacion-de-4-312-m2-en-el-dorado-506117",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "LATAM Cargo triplicará su espacio de bodega en Bogotá con una nueva instalación de 4.312 m² en El Dorado",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Anif apoya la Ley de Rescate pero exige mayores recortes de gasto y ajustes tributarios estatales",
+        "url": "https://www.portafolio.co/economia/anif-respalda-la-ley-de-rescate-pero-pide-mas-recortes-al-gasto-y-cambios-en-los-impuestos-que-propone-el-gobierno-506138",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Anif respalda la Ley de Rescate, pero pide más recortes al gasto y cambios en los impuestos que propone el Gobierno",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "El salario mínimo de 2027 llegaría a $1,9 millones según proyecciones expertas tras la inflación",
+        "url": "https://www.portafolio.co/economia/empleo/salario-minimo-de-2027-rondaria-los-1-9-millones-segun-nuevas-estimaciones-de-expertos-tras-el-dato-de-inflacion-506128",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Salario mínimo de 2027 rondaría los $1,9 millones, según nuevas estimaciones de expertos tras el dato de inflación",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Tras dos años, la SAE abre convocatoria para que ciudadanos y empresas administren bienes",
+        "url": "https://www.portafolio.co/economia/despues-de-dos-anos-la-sae-vuelve-a-convocar-a-personas-y-empresas-para-gestionar-inmuebles-como-participar-506136",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Después de dos años, la SAE vuelve a convocar a personas y empresas para gestionar inmuebles ¿cómo participar?",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "El desempleo nacional baja a 9,5% y anota el descenso más fuerte entre los miembros de la Ocde",
+        "url": "https://www.portafolio.co/economia/desempleo-en-colombia-cae-a-9-5-y-registra-la-mayor-baja-entre-los-paises-de-la-ocde-506129",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Desempleo en Colombia cae a 9,5% y registra la mayor baja entre los países de la Ocde",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Las empresas operadoras elevaron hasta 97% la suspensión de líneas móviles dentro de los penales",
+        "url": "https://www.portafolio.co/economia/gobierno/operadores-aumentaron-hasta-97-el-bloqueo-de-lineas-telefonicas-en-las-carceles-506127",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Operadores aumentaron hasta 97% el bloqueo de líneas telefónicas en las cárceles",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "El 47,3% de las nuevas matrículas automotrices en Colombia corresponden a vehículos eléctricos e híbridos",
+        "url": "https://www.portafolio.co/economia/vehiculos-electricos-e-hibridos-ya-son-el-47-3-de-las-matriculas-de-carros-nuevos-en-colombia-506124",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Vehículos eléctricos e híbridos ya son el 47,3% de las matrículas de carros nuevos en Colombia",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Designan a la exsecretaria de Educación en la dirección del Icfes tras la salida de Elizabeth Blandón",
+        "url": "https://www.portafolio.co/economia/gobierno/quien-es-la-exsecretaria-de-educacion-que-queda-al-frente-del-icfes-tras-salida-de-elizabeth-blandon-506120",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Quién es la exsecretaria de Educación que queda al frente del Icfes tras salida de Elizabeth Blandón",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Falla en el embarque de pasajeros de El Dorado obedeció a un motivo distinto al de los radares",
+        "url": "https://www.portafolio.co/economia/regiones/no-fueron-los-radares-la-causa-de-la-falla-en-el-dorado-segun-la-aerocivil-506118",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "No fueron los radares: esta es la causa de la falla que afectó el embarque de pasajeros en el aeropuerto El Dorado",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Informe detalla los cinco peligros de desviación fiscal y el costo de devolver el IVA por ley de rescate",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-el-costo-de-devolver-el-iva-y-los-cinco-riesgos-de-desvio-fiscal-segun-informe-506119",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Ley de rescate económico: el costo de devolver el IVA y los cinco riesgos de desvío fiscal, según informe",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Alza en la demanda eléctrica y daños en cosechas deja temperatura de 41,2 °C en un municipio colombiano",
+        "url": "https://www.portafolio.co/economia/regiones/temperaturas-de-41-2-c-en-este-municipio-disparan-la-demanda-de-energia-y-danan-los-cultivos-506116",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Temperaturas de 41,2 °C en este municipio disparan la demanda de energía y dañan los cultivos",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Para 2027 Visión Davivienda proyecta un alza del 8,5% en el salario mínimo y llegaría a $1.899.732 sin auxilio",
+        "url": "https://www.portafolio.co/economia/gobierno/davivienda-estima-que-el-salario-minimo-subira-8-5-en-2027-llegaria-a-1-899-732-sin-auxilio-de-transporte-506115",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Visión Davivienda estima que el salario mínimo subirá 8,5% en 2027: llegaría a $1.899.732 sin auxilio de transporte",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia sigue al alza y se acerca a los $3.300 este 11 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-continua-subiendo-y-ya-roza-los-3-300-asi-cotiza-este-11-de-noviembre-506113",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Precio del dólar en Colombia continúa subiendo y ya roza los $3.300: así cotiza este 11 de noviembre",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
       {
         "titulo": "Supersalud exige a Sanitas respuestas urgentes ante problemas en entrega de fármacos",
         "url": "https://www.portafolio.co/economia/gobierno/supersalud-pone-contra-las-cuerdas-a-sanitas-ordena-soluciones-inmediatas-por-fallas-en-la-entrega-de-medicamentos-506111",
@@ -473,139 +603,49 @@
         "publicacion": "2026-11-09",
         "titulo_fuente": "La digitalización llega a la industria palmera: así buscan modernizar plantas de producción de aceite en Colombia",
         "capturado": "2026-11-09T15:56:39-05:00"
-      },
-      {
-        "titulo": "Exmandatario Uribe avala vender parte de Ecopetrol por temor a que terceros la lleven a la quiebra",
-        "url": "https://www.portafolio.co/economia/gobierno/expresidente-uribe-defiende-su-propuesta-de-vender-ecopetrol-505968",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Expresidente Uribe defiende su propuesta de vender parte de Ecopetrol: 'corre el riesgo de que otros la quiebren'",
-        "capturado": "2026-11-09T15:56:39-05:00"
-      },
-      {
-        "titulo": "Afidro plantea nueve fuentes de fondos para conseguir 5,7 billones y sanear las cuentas de salud",
-        "url": "https://www.portafolio.co/economia/gobierno/nueve-fuentes-de-recursos-la-propuesta-de-afidro-para-buscar-5-7-billones-y-aliviar-las-finanzas-de-la-salud-505972",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Nueve fuentes de recursos: la propuesta de Afidro para buscar $5,7 billones y aliviar las finanzas de la salud",
-        "capturado": "2026-11-09T15:56:39-05:00"
-      },
-      {
-        "titulo": "Crisis de radares golpea a la aviación y genera dudas sobre el control de los vuelos",
-        "url": "https://www.portafolio.co/economia/infraestructura/aviacion-paga-los-platos-rotos-de-un-profundo-lio-de-radares-quien-esta-viendo-los-aviones-505840",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Aviación paga los platos rotos de un profundo lío de radares: ¿quién está viendo los aviones?",
-        "capturado": "2026-11-08T17:40:03-05:00"
-      },
-      {
-        "titulo": "Analistas prevén que la inflación anual de octubre siguió al alza y se situó entre 6,35% y 6,41%",
-        "url": "https://www.portafolio.co/economia/inflacion-anual-de-octubre-continuaria-subiendo-y-se-habria-ubicado-entre-6-35-y-6-41-dice-analistas-505813",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Inflación anual de octubre continuaría subiendo y se habría ubicado entre 6,35% y 6,41%, proyectan analistas",
-        "capturado": "2026-11-08T13:40:05-05:00"
-      },
-      {
-        "titulo": "Comerciantes solicitan retomar la fórmula técnica de inflación y productividad para el salario mínimo de 2027",
-        "url": "https://www.portafolio.co/economia/crecimiento/salario-minimo-de-2027-comerciantes-piden-recuperar-la-formula-tecnica-basada-en-inflacion-y-productividad-505936",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Salario mínimo de 2027: comerciantes piden 'recuperar' la fórmula técnica basada en inflación y productividad",
-        "capturado": "2026-11-08T13:40:05-05:00"
-      },
-      {
-        "titulo": "Ejecutivo y Congreso pactan mesas técnicas para ley de rescate tras cumbre en Barranquilla",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Gobierno y Congreso acuerdan trabajar en mesas técnicas sobre ley de rescate, tras 'cónclave' en Barranquilla",
-        "capturado": "2026-11-08T01:30:14-05:00"
-      },
-      {
-        "titulo": "Títulos corporativos obligatorios, la idea para fondear al Gobierno sin aumentar tributos",
-        "url": "https://www.portafolio.co/economia/impuestos/bonos-empresariales-forzosos-la-propuesta-para-financiar-al-estado-sin-subir-impuestos-505924",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Bonos empresariales forzosos, la propuesta para financiar al Estado sin subir impuestos",
-        "capturado": "2026-11-08T01:30:14-05:00"
-      },
-      {
-        "titulo": "Prosperidad Social anunció desembolsos de Renta Ciudadana y Devolución del IVA del 13 al 28 de noviembre",
-        "url": "https://www.portafolio.co/economia/gobierno/renta-ciudadana-y-devolucion-del-iva-prosperidad-social-confirmo-pagos-del-13-al-28-de-noviembre-de-505929",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Renta Ciudadana y Devolución del IVA: Prosperidad Social confirmó pagos del 13 al 28 de noviembre de 2026",
-        "capturado": "2026-11-07T19:13:03-05:00"
-      },
-      {
-        "titulo": "Centro Democrático objeta gravamen a alimentos, internet y salud en la Ley de Rescate Económico",
-        "url": "https://www.portafolio.co/economia/crecimiento/centro-democratico-cuestiona-iva-a-alimentos-internet-y-servicios-de-salud-en-la-ley-de-rescate-economico-505927",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Centro Democrático cuestiona IVA a alimentos, internet y servicios de salud en la Ley de Rescate Económico",
-        "capturado": "2026-11-07T19:13:03-05:00"
-      },
-      {
-        "titulo": "Contrarreforma de Álvaro Uribe prevé enajenar otro porcentaje de Ecopetrol a inversionistas",
-        "url": "https://www.portafolio.co/economia/impuestos/contrarreforma-de-alvaro-uribe-contempla-vender-otro-porcentaje-de-ecopetrol-a-inversionistas-505925",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Contrarreforma de Álvaro Uribe contempla vender otro porcentaje de Ecopetrol a inversionistas",
-        "capturado": "2026-11-07T19:13:03-05:00"
-      },
-      {
-        "titulo": "Títulos corporativos obligatorios, la idea del Centro Democrático para fondear al fisco sin más tributos",
-        "url": "https://www.portafolio.co/economia/impuestos/bonos-empresariales-forzosos-la-propuesta-del-centro-democratico-para-financiar-al-estado-sin-subir-impuestos-505924",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Bonos empresariales forzosos, la propuesta del Centro Democrático para financiar al Estado sin subir impuestos",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Arranca cumbre en Barranquilla entre parlamentarios y Ejecutivo para revisar proyectos de ley fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/inicia-conclave-en-barranquilla-entre-congresistas-y-gobierno-para-analizar-propuestas-de-ley-de-rescate-fiscal-505921",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Inicia 'cónclave' en Barranquilla entre congresistas y Gobierno para analizar propuestas de ley de rescate fiscal",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Propuesta tributaria alterna del exmandatario Álvaro Uribe sugiere abolir gravamen al patrimonio y 4 x 1000",
-        "url": "https://www.portafolio.co/economia/impuestos/reforma-tributaria-alternativa-del-expresidente-alvaro-uribe-propone-eliminar-impuesto-al-patrimonio-y-4-x-1-505919",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Reforma tributaria alternativa del expresidente Álvaro Uribe propone eliminar impuesto al patrimonio y 4 x 1.000",
-        "capturado": "2026-11-07T15:40:08-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "ETB elevó 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
+        "url": "https://www.portafolio.co/negocios/empresas/etb-mejoro-18-su-resultado-operacional-en-el-tercer-trimestre-pese-a-menores-ingresos-506139",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "ETB mejoró 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "De Cipriano Restrepo a Luz Stella Murgas: estos son los 12 presidentes que ha tenido la Andi en 82 años",
+        "url": "https://www.portafolio.co/negocios/empresas/de-cipriano-restrepo-a-luz-stella-murgas-estos-son-los-12-presidentes-que-ha-tenido-la-andi-en-82-anos-506135",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "De Cipriano Restrepo a Luz Stella Murgas: estos son los 12 presidentes que ha tenido la Andi en 82 años",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "Palomma recibe inversión de US$14 millones para convertirse en el Nu de los arriendos",
+        "url": "https://www.portafolio.co/negocios/empresas/palomma-recibe-inversion-de-us-14-millones-para-convertirse-en-el-nu-de-los-arriendos-506130",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Palomma recibe inversión de US$14 millones para convertirse en el 'Nu de los arriendos'",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
+      {
+        "titulo": "El déficit de cuidadores formales en Colombia, otro reto de la economía de la longevidad",
+        "url": "https://www.portafolio.co/negocios/industrias/el-deficit-de-cuidadores-formales-en-colombia-otro-reto-de-la-economia-de-la-longevidad-506125",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "El déficit de cuidadores formales en Colombia, otro reto de la economía de la longevidad",
+        "capturado": "2026-11-11T09:56:05-05:00"
+      },
       {
         "titulo": "Sector del calzado solicita al Gobierno examinar tributos a adquisiciones en webs extranjeras",
         "url": "https://www.portafolio.co/negocios/industrias/industria-del-calzado-pide-al-gobierno-revisar-impuestos-a-compras-en-plataformas-internacionales-esta-es-la-razon-506101",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-07",
         "titulo_fuente": "La incertidumbre económica también pasa 'factura emocional' a los empresarios",
         "capturado": "2026-11-07T19:13:03-05:00"
-      },
-      {
-        "titulo": "Avianca confirma trayectos sin escalas entre Buenos Aires y Barranquilla por la final de la Copa Sudamericana",
-        "url": "https://www.portafolio.co/negocios/empresas/avianca-anuncia-vuelos-directos-desde-buenos-aires-a-barranquilla-para-la-final-de-la-copa-sudamericana-505926",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Avianca anuncia vuelos directos desde Buenos Aires a Barranquilla para la final de la Copa Sudamericana",
-        "capturado": "2026-11-07T19:13:03-05:00"
-      },
-      {
-        "titulo": "El mercado colombiano dinamizó la expansión de Parque Arauco durante el tercer trimestre",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-impulso-el-crecimiento-de-parque-arauco-en-el-tercer-trimestre-505922",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Colombia impulsó el crecimiento de Parque Arauco en el tercer trimestre",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo inicia consulta local sobre iniciativa para facilitar procesos a empresas",
-        "url": "https://www.portafolio.co/negocios/empresas/gobierno-abre-consulta-regional-sobre-proyecto-para-simplificar-tramites-a-empresas-505920",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Gobierno abre consulta regional sobre proyecto para simplificar trámites a empresas",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Arquitectura y Concreto invertirá 150000 millones de pesos en ciudadela médica de Rionegro",
-        "url": "https://www.portafolio.co/negocios/inversion/arquitectura-y-concreto-destinara-150-000-millones-a-complejo-de-salud-en-rionegro-505917",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Arquitectura y Concreto destinará $150.000 millones a complejo de salud en Rionegro",
-        "capturado": "2026-11-07T15:40:08-05:00"
       }
     ]
   }
