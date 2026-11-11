@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-10T14:21:20-05:00",
-  "nuevos_en_esta_corrida": 27,
+  "actualizado": "2026-11-10T19:10:24-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Si se quita el tope de usura, el préstamo gota a gota se volvería legal",
+        "url": "https://www.portafolio.co/economia/finanzas/si-eliminan-la-tasa-de-usura-el-fenomeno-del-gota-a-gota-pasaria-a-ser-legal-506097",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "‘Si eliminan la tasa de usura, el fenómeno del gota a gota pasaría a ser legal’",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Inician trabajos en los 21 frentes de la vía Buga-Buenaventura con fecha de entrega",
+        "url": "https://www.portafolio.co/economia/infraestructura/via-buga-buenaventura-arrancan-obras-en-los-21-frentes-y-ya-hay-fecha-para-terminar-el-corredor-506089",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Vía Buga-Buenaventura: arrancan obras en los 21 frentes y ya hay fecha para terminar el corredor",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella elogió a Luz Stella Murgas en la Andi y abogó por un empresariado sólido",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-felicito-a-luz-stella-murgas-en-la-andi-y-pide-un-sector-empresarial-fuerte-para-el-pais-506091",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Abelardo De La Espriella felicitó a Luz Stella Murgas en la Andi y pide un sector empresarial fuerte para el país",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Pasos para postularse a las 20.000 ofertas de la Empleatón Nacional 2026 de elempleo y ACOSET",
+        "url": "https://www.portafolio.co/economia/finanzas/asi-puede-acceder-a-las-20-000-vacantes-de-la-empleaton-nacional-2026-con-elempleo-y-acoset-506088",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Así puede acceder a las 20.000 vacantes de la Empleatón Nacional 2026 con elempleo y ACOSET",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "CNE repartió 38.036 millones a colectivos políticos para 2026 y cinco tienen el 60,1 por ciento",
+        "url": "https://www.portafolio.co/economia/gobierno/cne-asigno-38-036-millones-a-partidos-politicos-para-2026-cinco-organizaciones-concentran-el-60-506085",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "CNE asignó $38.036 millones a partidos políticos para 2026: cinco organizaciones concentran el 60,1%",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
       {
         "titulo": "Gobierno aparta del cargo a Elizabeth Blandón en el Icfes tras finalizar su periodo iniciado en agosto de 2023",
         "url": "https://www.portafolio.co/economia/gobierno/gobierno-declara-insubsistente-a-elizabeth-blandon-en-el-icfes-termina-su-gestion-iniciada-en-agosto-de-506076",
@@ -553,59 +603,129 @@
         "publicacion": "2026-11-07",
         "titulo_fuente": "Empresas de Portugal, China y España competirán por la construcción de la Línea 2 del Metro de Bogotá",
         "capturado": "2026-11-07T11:44:37-05:00"
-      },
-      {
-        "titulo": "Colombia registra 98.000 casos de dengue y 65 muertes confirmadas",
-        "url": "https://www.portafolio.co/economia/regiones/dengue-en-colombia-casi-98-000-casos-y-65-muertes-confirmadas-505902",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Dengue en Colombia: casi 98.000 casos y 65 muertes confirmadas",
-        "capturado": "2026-11-06T22:01:35-05:00"
-      },
-      {
-        "titulo": "Japón entrega una donación de 2 millones de dólares a Colombia por el sismo",
-        "url": "https://www.portafolio.co/economia/japon-dona-2-millones-de-dolares-a-colombia-por-el-terremoto-505900",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Japón dona 2 millones de dólares a Colombia por el terremoto",
-        "capturado": "2026-11-06T22:01:35-05:00"
-      },
-      {
-        "titulo": "La Agencia Nacional de Tierras abre oficinas provisionales en 19 ciudades",
-        "url": "https://www.portafolio.co/economia/gobierno/la-agencia-nacional-de-tierras-habilita-sedes-temporales-de-atencion-en-19-ciudades-505898",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "La Agencia Nacional de Tierras habilita sedes temporales de atención en 19 ciudades",
-        "capturado": "2026-11-06T22:01:35-05:00"
-      },
-      {
-        "titulo": "El dólar subió de 3.166 a 3.237 pesos y tuvo su mayor repunte semanal desde fines de septiembre",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-paso-de-3-166-a-3-237-y-registro-su-mayor-avance-semanal-desde-finales-de-septiembre-505895",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Dólar en Colombia pasó de $3.166 a $3.237 y registró su mayor avance semanal desde finales de septiembre",
-        "capturado": "2026-11-06T18:24:09-05:00"
-      },
-      {
-        "titulo": "Fedecafé busca comprar café en cereza para transformar el sector y pasar del grano a la industria",
-        "url": "https://www.portafolio.co/economia/agro/del-grano-a-la-industria-fedecafe-apuesta-por-comprar-cafe-en-cereza-y-transformar-el-negocio-cafetero-505896",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Del grano a la industria: Fedecafé apuesta por comprar café en cereza y transformar el negocio cafetero",
-        "capturado": "2026-11-06T18:24:09-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Este es el mensaje inicial de Luz Stella Murgas sobre su gestión al frente de la Andi",
+        "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-senala-como-sera-su-liderazgo-en-la-andi-este-fue-su-primer-mensaje-506096",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Luz Stella Murgas señala cómo será su liderazgo en la Andi: este fue su primer mensaje",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Seis instituciones de educación superior bogotanas brindan subsidios y rebajas de hasta el 75 por ciento",
+        "url": "https://www.portafolio.co/negocios/inversion/no-le-alcanza-el-dinero-para-estudiar-estas-6-universidades-de-bogota-ofrecen-becas-y-descuentos-de-hasta-el-506080",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "¿No le alcanza el dinero para estudiar? Estas 6 universidades de Bogotá ofrecen becas y descuentos de hasta el 75%",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Tesla ajusta su fabricación y prioriza la conducción autónoma tras concluir la Cybertruck",
+        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-reorganiza-su-produccion-tras-el-fin-de-la-cybertruck-ahora-redobla-su-apuesta-por-el-negocio-autonomo-506094",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Tesla reorganiza su producción: tras el 'fin' de la Cybertruck, ahora redobla su apuesta por el negocio autónomo",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Nvidia acentuó su descenso bursátil este martes al ceder más del 6 por ciento y US$400.000 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/nvidia-profundizo-su-caida-este-martes-perdio-mas-de-6-en-bolsa-y-resto-us-400-000-millones-a-su-capital-506087",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Nvidia profundizó su caída: este martes perdió más de 6% en bolsa y restó US$400.000 millones a su capital",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "LeanCore gestionará los créditos de medio millón de clientes de Somos para impulsar la inclusión en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/leancore-administrara-la-cartera-de-500-000-usuarios-de-somos-para-acelerar-la-inclusion-financiera-en-colombia-506082",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "LeanCore administrará la cartera de 500.000 usuarios de Somos para acelerar la inclusión financiera en Colombia",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "En noviembre, durante la Milagro Week en Nueva York, Colombia procurará US$41.900 millones para 97 obras",
+        "url": "https://www.portafolio.co/negocios/inversion/colombia-buscara-us-41-900-millones-para-97-proyectos-durante-la-milagro-week-de-nueva-york-en-noviembre-506093",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Colombia buscará US$41.900 millones para 97 proyectos durante la Milagro Week de Nueva York en noviembre",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "CEO de Ternium pide proteger al sector frente a la llegada de acero chino",
+        "url": "https://www.portafolio.co/negocios/empresas/hay-que-defender-la-industria-ante-la-importacion-de-acero-de-china-ceo-de-ternium-506074",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "‘Hay que defender la industria ante la importación de acero de China’: CEO de Ternium",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Millicom aumenta su pasivo a US$8.000 millones por crecimiento regional y compra a Telefónica",
+        "url": "https://www.portafolio.co/negocios/empresas/millicom-eleva-su-deuda-a-us-8-000-millones-tras-expansion-regional-y-compra-de-operaciones-de-telefonica-506092",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Millicom eleva su deuda a US$8.000 millones tras expansión regional y compra de operaciones de Telefónica",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Supersociedades evalúa liquidar a Helicol y pone en peligro su proceso de reorganización",
+        "url": "https://www.portafolio.co/negocios/empresas/helicol-podria-entrar-en-liquidacion-la-decision-de-la-supersociedades-que-pone-en-riesgo-su-reorganizacion-506086",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Helicol podría entrar en liquidación: la decisión de la Supersociedades que pone en riesgo su reorganización",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Faranda descarta nuevos socios, proyecta 60 hoteles al cierre de 2027 y apunta a 100 en 2030",
+        "url": "https://www.portafolio.co/negocios/empresas/no-esta-planteado-que-entren-nuevos-accionistas-faranda-busca-cerrar-2027-con-60-hoteles-y-apunta-a-100-en-506075",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "'No está planteado que entren nuevos accionistas': Faranda busca cerrar 2027 con 60 hoteles y apunta a 100 en 2030",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Estas son las categorías de productos preferidas por los colombianos para el Black Friday",
+        "url": "https://www.portafolio.co/negocios/comercio/que-compraran-los-colombianos-en-black-friday-estas-son-las-categorias-de-productos-que-marcan-la-tendencia-506083",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "¿Qué comprarán los colombianos en Black Friday? Estas son las categorías de productos que marcan la tendencia",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
+      {
+        "titulo": "Gobierno y gremios celebran la llegada de Luz Stella Murgas a la Andi tras su elección",
+        "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-llega-a-la-andi-entre-felicitaciones-del-gobierno-y-los-gremios-esto-dijeron-tras-su-eleccion-506081",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Luz Stella Murgas llega a la Andi entre felicitaciones del Gobierno y los gremios: esto dijeron tras su elección",
+        "capturado": "2026-11-10T19:10:24-05:00"
+      },
       {
         "titulo": "Cinco amenazas corporativas para 2027: inteligencia artificial, geopolítica y el fenómeno de El Niño",
         "url": "https://www.portafolio.co/negocios/empresas/el-nino-la-geopolitica-y-la-inteligencia-artificial-los-cinco-riesgos-que-pondran-a-prueba-a-las-empresas-en-506079",
@@ -1085,126 +1205,6 @@
         "publicacion": "2026-11-07",
         "titulo_fuente": "Gobierno suspendió cinco tribunales de arbitramento para facilitar acuerdos en obras de infraestructura",
         "capturado": "2026-11-07T11:44:37-05:00"
-      },
-      {
-        "titulo": "Nu y Mercado Pago frenan transacciones con criptomonedas por fallas externas",
-        "url": "https://www.portafolio.co/negocios/empresas/nu-y-mercado-pago-suspenden-operaciones-con-criptomonedas-por-fallas-de-proveedores-externos-505907",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Nu y Mercado Pago suspenden operaciones con criptomonedas por fallas de proveedores externos",
-        "capturado": "2026-11-07T11:44:37-05:00"
-      },
-      {
-        "titulo": "Nestlé pacta reintegrar 86 empleados con suspensiones vigentes y define la fecha de su retorno",
-        "url": "https://www.portafolio.co/negocios/empresas/nestle-acuerda-el-regreso-de-86-trabajadores-con-contratos-suspendidos-cuando-volveran-a-sus-puestos-505884",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Nestlé acuerda el regreso de 86 trabajadores con contratos suspendidos: cuándo volverán a sus puestos",
-        "capturado": "2026-11-06T18:24:09-05:00"
-      },
-      {
-        "titulo": "Asoexport fija meta de hasta 20 millones de sacos para surtir al país y crecer en el exterior",
-        "url": "https://www.portafolio.co/negocios/comercio/producir-hasta-20-millones-de-sacos-el-reto-de-asoexport-para-abastecer-a-colombia-y-ampliar-las-ventas-externas-505874",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Producir hasta 20 millones de sacos, el reto de Asoexport para abastecer a Colombia y ampliar las ventas externas",
-        "capturado": "2026-11-06T18:24:09-05:00"
-      },
-      {
-        "titulo": "Mandos medios concentran las mayores pérdidas por fraudes corporativos, revela punto ciego",
-        "url": "https://www.portafolio.co/negocios/empresas/el-punto-ciego-de-las-empresas-los-mandos-medios-concentran-las-mayores-perdidas-por-fraude-505872",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "El punto ciego de las empresas: los mandos medios concentran las mayores pérdidas por fraude",
-        "capturado": "2026-11-06T18:24:09-05:00"
-      },
-      {
-        "titulo": "MinTIC alerta peligros de competencia en fusión Claro y Azteca y objeta condiciones dadas",
-        "url": "https://www.portafolio.co/negocios/empresas/mintic-advierte-riesgos-de-competencia-en-integracion-de-claro-con-azteca-y-cuestiona-condiciones-propuestas-505873",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "MinTIC advierte riesgos de competencia en integración de Claro con Azteca y cuestiona condiciones propuestas",
-        "capturado": "2026-11-06T18:24:09-05:00"
-      },
-      {
-        "titulo": "Volkswagen Golf GTI vuelve a Colombia y estiman su valor por referencias en la región",
-        "url": "https://www.portafolio.co/negocios/vehiculo/volkswagen-golf-gti-regresara-a-colombia-lo-que-podria-costar-segun-sus-precios-en-otros-paises-de-america-latina-505871",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Volkswagen Golf GTI regresará a Colombia: lo que podría costar según sus precios en otros países de América Latina",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "Cencosud incrementa ventas y optimiza su margen de ganancias en Colombia a septiembre",
-        "url": "https://www.portafolio.co/negocios/comercio/cencosud-duena-de-jumbo-y-metro-acelera-sus-ventas-y-en-colombia-mejora-su-rentabilidad-en-el-tercer-trimestre-505867",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Cencosud, dueña de Jumbo y Metro, acelera sus ventas y en Colombia mejora su rentabilidad en el tercer trimestre",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "Cota albergará nuevo complejo de producción audiovisual superior a US$30 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/colombia-tendra-un-centro-de-produccion-audiovisual-de-mas-de-us-30-millones-en-cota-505859",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Colombia tendrá un centro de producción audiovisual de más de US$30 millones en Cota",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "Sector funerario colombiano registra cambios corporativos, cobertura y nicho animal",
-        "url": "https://www.portafolio.co/negocios/industrias/negocio-funerario-en-colombia-ultimos-movimientos-empresariales-alcance-del-sector-y-nuevo-mercado-para-mascotas-505849",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Negocio funerario en Colombia: últimos movimientos empresariales, alcance del sector y nuevo mercado para mascotas",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "Ecopetrol prevé entradas de hasta $36 billones y utilidades de $5 billones al tercer trimestre",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-proyecta-ingresos-de-hasta-36-billones-y-ganancias-de-5-billones-para-el-tercer-trimestre-505851",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Ecopetrol proyecta ingresos de hasta $36 billones y ganancias de $5 billones para el tercer trimestre",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "Estrategias de Pactia en su ciclo reciente",
-        "url": "https://www.portafolio.co/negocios/empresas/los-planes-de-pactia-en-su-nueva-etapa-505850",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Los planes de Pactia en su nueva etapa",
-        "capturado": "2026-11-06T13:14:19-05:00"
-      },
-      {
-        "titulo": "EPS Sanitas y Colsubsidio inician estrategia de emergencia para agilizar despacho de fármacos y este es su funcionamiento",
-        "url": "https://www.portafolio.co/negocios/empresas/eps-sanitas-y-colsubsidio-ponen-en-marcha-un-plan-de-choque-para-acelerar-la-entrega-de-medicamentos-asi-funciona-505848",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "EPS Sanitas y Colsubsidio ponen en marcha un plan de choque para acelerar la entrega de medicamentos: así funciona",
-        "capturado": "2026-11-06T13:14:19-05:00"
       }
     ]
   }
