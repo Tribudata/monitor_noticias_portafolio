@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-10T19:10:24-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-11-11T01:55:32-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Supersalud exige a Sanitas respuestas urgentes ante problemas en entrega de fármacos",
+        "url": "https://www.portafolio.co/economia/gobierno/supersalud-pone-contra-las-cuerdas-a-sanitas-ordena-soluciones-inmediatas-por-fallas-en-la-entrega-de-medicamentos-506111",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Supersalud pone contra las cuerdas a Sanitas: ordena soluciones inmediatas por fallas en la entrega de medicamentos",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
+      {
+        "titulo": "Falla reciente en el aeropuerto El Dorado obliga a OPAIN a aplicar planes de contingencia",
+        "url": "https://www.portafolio.co/economia/infraestructura/nueva-falla-en-el-aeropuerto-el-dorado-opain-activa-planes-de-contingencia-para-atender-a-los-pasajeros-506112",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Nueva falla en el aeropuerto El Dorado: OPAIN activa planes de contingencia para atender a los pasajeros",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
+      {
+        "titulo": "Minsalud advierte sobre contratación directa del Gobierno Petro con sueldos de hasta $46 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/minsalud-alerta-por-contratacion-directa-del-gobierno-petro-encontro-honorarios-de-hasta-46-millones-al-mes-506102",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Minsalud alerta por contratación directa del Gobierno Petro: encontró honorarios de hasta $46 millones al mes",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
       {
         "titulo": "Si se quita el tope de usura, el préstamo gota a gota se volvería legal",
         "url": "https://www.portafolio.co/economia/finanzas/si-eliminan-la-tasa-de-usura-el-fenomeno-del-gota-a-gota-pasaria-a-ser-legal-506097",
@@ -573,39 +603,39 @@
         "publicacion": "2026-11-07",
         "titulo_fuente": "Reforma tributaria alternativa del expresidente Álvaro Uribe propone eliminar impuesto al patrimonio y 4 x 1.000",
         "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Indicador fiscal: 706 alcaldías siguen en peligro pese al avance del promedio nacional en 2025",
-        "url": "https://www.portafolio.co/economia/regiones/desempeno-fiscal-706-municipios-siguen-en-riesgo-o-deterioro-pese-a-la-mejora-del-indicador-nacional-en-505918",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Desempeño fiscal: 706 municipios siguen en riesgo o deterioro pese a la mejora del indicador nacional en 2025",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Dian modificó las exigencias de datos exógenos y fijó nuevas normas para sociedades y aportantes",
-        "url": "https://www.portafolio.co/economia/impuestos/dian-ajusto-los-requisitos-de-informacion-exogena-y-establecio-nuevas-condiciones-para-empresas-y-contribuyentes-505915",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Dian ajustó los requisitos de información exógena y estableció nuevas condiciones para empresas y contribuyentes",
-        "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Firmas de España, China y Portugal pujarán para edificar la Línea 2 del Metro de Bogotá",
-        "url": "https://www.portafolio.co/economia/infraestructura/empresas-de-portugal-china-y-espana-competiran-por-la-construccion-de-la-linea-2-del-metro-de-bogota-505908",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Empresas de Portugal, China y España competirán por la construcción de la Línea 2 del Metro de Bogotá",
-        "capturado": "2026-11-07T11:44:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Sector del calzado solicita al Gobierno examinar tributos a adquisiciones en webs extranjeras",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-del-calzado-pide-al-gobierno-revisar-impuestos-a-compras-en-plataformas-internacionales-esta-es-la-razon-506101",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Industria del calzado pide al Gobierno revisar impuestos a compras en plataformas internacionales: esta es la razón",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito obtuvo ganancias por unos $436.000 millones en 2026 en el tercer trimestre",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-gano-cerca-de-436-000-millones-en-2026-asi-crecieron-sus-utilidades-en-el-tercer-trimestre-506100",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Grupo Éxito ganó cerca de $436.000 millones en 2026: así crecieron sus utilidades en el tercer trimestre",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
+      {
+        "titulo": "Grupo Recordar efectúa nueva adquisición en el sector funerario para expandir su negocio",
+        "url": "https://www.portafolio.co/negocios/empresas/nueva-movida-empresarial-en-el-sector-funerario-grupo-recordar-anuncia-nueva-compra-y-amplia-su-operacion-506099",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Nueva movida empresarial en el sector funerario: Grupo Recordar anuncia nueva compra y amplía su operación",
+        "capturado": "2026-11-11T01:55:32-05:00"
+      },
       {
         "titulo": "Este es el mensaje inicial de Luz Stella Murgas sobre su gestión al frente de la Andi",
         "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-senala-como-sera-su-liderazgo-en-la-andi-este-fue-su-primer-mensaje-506096",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-11-07",
         "titulo_fuente": "Arquitectura y Concreto destinará $150.000 millones a complejo de salud en Rionegro",
         "capturado": "2026-11-07T15:40:08-05:00"
-      },
-      {
-        "titulo": "Quiebras bancarias y crisis financieras que transformaron a Latinoamérica",
-        "url": "https://www.portafolio.co/negocios/empresas/auge-poder-politico-y-colapsos-financieros-las-quiebras-bancarias-que-marcaron-a-america-latina-505912",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Auge, poder político y colapsos financieros: las quiebras bancarias que marcaron a América Latina",
-        "capturado": "2026-11-07T11:44:37-05:00"
-      },
-      {
-        "titulo": "Nubank habilitó nuevamente los retiros y depósitos de criptomonedas",
-        "url": "https://www.portafolio.co/negocios/empresas/nubank-levanto-la-suspension-de-las-operaciones-de-retiros-y-depositos-en-su-plataforma-de-criptomonedas-505910",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Nubank levantó la suspensión de las operaciones de retiros y depósitos en su plataforma de criptomonedas",
-        "capturado": "2026-11-07T11:44:37-05:00"
-      },
-      {
-        "titulo": "El Gobierno frenó cinco tribunales de arbitramento para destrabar obras viales",
-        "url": "https://www.portafolio.co/negocios/empresas/gobierno-suspendio-cinco-tribunales-de-arbitramento-para-facilitar-acuerdos-en-obras-de-infraestructura-505909",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-07",
-        "titulo_fuente": "Gobierno suspendió cinco tribunales de arbitramento para facilitar acuerdos en obras de infraestructura",
-        "capturado": "2026-11-07T11:44:37-05:00"
       }
     ]
   }
