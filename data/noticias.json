@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-11T16:46:26-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-11-11T21:41:50-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El Gobierno plantea en el PND cuentas de ahorro para menores nacidos entre 2027 y 2030 al estilo Trump",
+        "url": "https://www.portafolio.co/economia/gobierno/con-el-pnd-gobierno-propone-cuentas-de-ahorro-para-ninos-similares-a-las-de-trump-para-nacidos-entre-2027-y-506191",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Con el PND, Gobierno propone cuentas de ahorro para niños similares a las de Trump para nacidos entre 2027 y 2030",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
+      {
+        "titulo": "La Corte Constitucional avaló la emergencia económica y fijó condiciones para el Gobierno",
+        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-declaro-exequible-la-emergencia-economica-estas-son-las-condiciones-que-impuso-al-gobierno-506190",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Corte Constitucional declaró exequible la emergencia económica: estas son las condiciones que impuso al Gobierno",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
+      {
+        "titulo": "El Metro de Medellín permite pagar con tarjetas débito y crédito para entrar a las estaciones",
+        "url": "https://www.portafolio.co/economia/regiones/metro-de-medellin-habilita-pagos-con-tarjetas-debito-y-credito-asi-funcionara-el-ingreso-a-las-estaciones-506187",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Metro de Medellín habilita pagos con tarjetas débito y crédito: así funcionará el ingreso a las estaciones",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
+      {
+        "titulo": "Un posible arancel del 83 % a llantas chinas subiría pasajes de bus y fletes de carga en el país",
+        "url": "https://www.portafolio.co/economia/impuestos/eventual-arancel-del-83-a-las-llantas-chinas-podria-encarecer-los-pasajes-de-bus-y-fletes-de-carga-en-colombia-506183",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Eventual arancel del 83 % a las llantas chinas podría encarecer los pasajes de bus y fletes de carga en Colombia",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
       {
         "titulo": "Andrés Puyo asumiría la presidencia del Banco Agrario y su trayectoria en el sector financiero suma casi tres tr",
         "url": "https://www.portafolio.co/economia/finanzas/andres-puyo-seria-nuevo-presidente-del-banco-agrario-este-es-su-recorrido-de-casi-30-anos-en-la-banca-506178",
@@ -563,49 +603,39 @@
         "publicacion": "2026-11-09",
         "titulo_fuente": "Patria Day proyectará en Bogotá y Medellín el rumbo de la inversión sectorial en Colombia",
         "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Galán propone transformar el Distrito a un año de culminar su mandato: seis entidades se modificarían",
-        "url": "https://www.portafolio.co/economia/regiones/galan-plantea-reestructurar-el-distrito-a-un-ano-de-dejar-la-alcaldia-de-bogota-seis-entidades-cambiarian-506024",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Galán plantea reestructurar el Distrito a un año de dejar la Alcaldía de Bogotá: seis entidades cambiarían",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "IPC en Colombia finalizó octubre al alza: aumentó levemente al 6,30% interanual, según el Dane",
-        "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-cerro-octubre-al-alza-subio-ligeramente-hasta-el-6-30-anual-de-acuerdo-con-el-dane-506022",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Inflación en Colombia cerró octubre al alza: subió ligeramente hasta el 6,30% anual, de acuerdo con el Dane",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Criptomonedas como Bitcoin afrontarían extinción de dominio: dichos son los desafíos de la SAE",
-        "url": "https://www.portafolio.co/economia/gobierno/sae-pone-la-mira-en-activos-digitales-y-criptomonedas-estos-son-los-retos-para-la-extincion-de-dominio-506021",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Bitcoin y otras criptomonedas podrían entrar en procesos de extinción de dominio: estos son los retos de la SAE",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Gadi Eisenkot recibe mandato para formar gobierno en Israel mientras cuestionan fin de la era Netanyahu",
-        "url": "https://www.portafolio.co/economia/gobierno/gadi-eisenkot-recibe-el-mandato-para-formar-gobierno-en-israel-este-seria-el-fin-del-sistema-de-netanyahu-506015",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Gadi Eisenkot recibe el mandato para formar gobierno en Israel ¿Este seria el fin del sistema de Netanyahu?",
-        "capturado": "2026-11-09T22:17:37-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Utilidades de DAVIbank entre enero y septiembre de 2026 superaron las pérdidas previas",
+        "url": "https://www.portafolio.co/negocios/empresas/davibank-paso-de-perdidas-a-ganancias-en-2026-esta-fue-su-utilidad-entre-enero-y-septiembre-506189",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "DAVIbank pasó de pérdidas a ganancias en 2026: esta fue su utilidad entre enero y septiembre",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
+      {
+        "titulo": "Nuevas directrices de la presidenta de la Andi: diálogo abierto, autonomía y propuestas",
+        "url": "https://www.portafolio.co/negocios/industrias/espiritu-propositivo-independencia-y-dialogo-abierto-la-hoja-de-ruta-de-la-nueva-presidenta-de-la-andi-506184",
+        "resumen": "",
+        "autor": "Omar g. ahumada rojas, constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Espíritu propositivo, independencia y diálogo abierto: la hoja de ruta de la nueva presidenta de la Andi",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
+      {
+        "titulo": "Cinco sugerencias para alistarse ante el incremento de pedidos en el Black Friday digital",
+        "url": "https://www.portafolio.co/negocios/comercio/compras-por-internet-en-colombia-cinco-recomendaciones-para-prepararse-ante-el-aumento-de-pedidos-en-black-friday-506185",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "Compras por internet en Colombia: cinco recomendaciones para prepararse ante el aumento de pedidos en Black Friday",
+        "capturado": "2026-11-11T21:41:50-05:00"
+      },
       {
         "titulo": "Con mil kilómetros de autonomía llegan los dos SUV del estreno de la marca china Leapmotor en Colombia",
         "url": "https://www.portafolio.co/negocios/vehiculo/hasta-1-000-kilometros-de-autonomia-asi-son-las-dos-suv-con-las-que-la-marca-china-leapmotor-debuta-en-colombia-506170",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-11-08",
         "titulo_fuente": "'Estas tasas de interés altas no van a durar toda la vida': gerente general de Pactia sobre inversión inmboliaria",
         "capturado": "2026-11-08T17:40:03-05:00"
-      },
-      {
-        "titulo": "Panorama de microemprendimientos: evaluación inicial de gestión muestra aplazados en Antioquia",
-        "url": "https://www.portafolio.co/negocios/empresas/radiografia-de-las-microempresas-en-antioquia-reprobaron-examen-pionero-de-desempeno-505947",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Radiografía de las microempresas: en Antioquia reprobaron examen pionero de desempeño",
-        "capturado": "2026-11-08T17:40:03-05:00"
-      },
-      {
-        "titulo": "Apoyar el crédito a pequeñas empresas busca la llegada de la Fundación WWB a a2censo",
-        "url": "https://www.portafolio.co/negocios/empresas/impulsar-financiacion-de-las-pymes-objetivo-de-la-entrada-de-la-fundacion-wwb-a-a2censo-505942",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Impulsar financiación de las pymes, objetivo de la entrada de la Fundación WWB a a2censo",
-        "capturado": "2026-11-08T13:40:05-05:00"
-      },
-      {
-        "titulo": "Mercado de moda colombiana en Venezuela habilitaría opciones y tocaría US$1.252 millones en 2030",
-        "url": "https://www.portafolio.co/negocios/comercio/venezuela-vuelve-a-abrir-oportunidades-para-la-moda-colombiana-un-mercado-que-llegaria-a-us-1-252-millones-en-505883",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-08",
-        "titulo_fuente": "Venezuela vuelve a abrir oportunidades para la moda colombiana, un mercado que llegaría a US$1.252 millones en 2030",
-        "capturado": "2026-11-08T13:40:05-05:00"
       }
     ]
   }
