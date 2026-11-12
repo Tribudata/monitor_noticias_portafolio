@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-12T13:42:21-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-11-12T18:58:00-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Icesi: delegar el pensamiento en la inteligencia artificial impide lograr un criterio propio",
+        "url": "https://www.portafolio.co/economia/rector-de-icesi-si-un-joven-le-delega-su-pensamiento-a-la-ia-nunca-va-a-desarrollar-criterio-propio-506249",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Rector de Icesi: si un joven le delega su pensamiento a la IA, 'nunca va a desarrollar criterio propio'",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado ordena el traslado de 347 pilotos civiles al régimen de Colpensiones",
+        "url": "https://www.portafolio.co/economia/347-aviadores-civiles-deberan-trasladar-sus-afiliaciones-a-colpensiones-tras-decision-del-consejo-de-estado-506267",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "347 aviadores civiles deberán trasladar sus afiliaciones a Colpensiones tras decisión del Consejo de Estado",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Otras urbes colombianas con pagos mediante tarjetas de crédito y débito en el transporte",
+        "url": "https://www.portafolio.co/economia/regiones/pagos-con-tarjetas-debito-y-credito-en-transporte-publico-que-otras-ciudades-de-colombia-ya-utilizan-este-sistema-506265",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Pagos con tarjetas débito y crédito en transporte público: qué otras ciudades de Colombia ya utilizan este sistema",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "U. del Rosario: Bogotá, Bucaramanga y Medellín encabezan el Índice de Competitividad de Ciudades 2026",
+        "url": "https://www.portafolio.co/economia/bogota-medellin-y-bucaramanga-lideran-el-indice-de-competitividad-de-ciudades-2026-en-colombia-u-rosario-506264",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Bogotá, Medellín y Bucaramanga lideran el Índice de Competitividad de Ciudades 2026 en Colombia: U. Rosario",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Embajada estadounidense inspecciona sede de Coca-Cola Femsa en Cali tras el sismo",
+        "url": "https://www.portafolio.co/economia/regiones/embajada-de-ee-uu-visita-planta-de-coca-cola-femsa-en-cali-para-revisar-su-operacion-tras-el-terremoto-506254",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Embajada de EE. UU. visita planta de Coca-Cola Femsa en Cali para revisar su operación tras el terremoto",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "La inflación en Colombia seguiría superando la meta del Emisor por sexto año seguido",
+        "url": "https://www.portafolio.co/economia/colombia-completaria-seis-anos-consecutivos-con-la-inflacion-por-encima-de-la-meta-del-banco-de-la-republica-506262",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Colombia completaría seis años consecutivos con la inflación por encima de la meta del Banco de la República",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Experto sugiere incremento del 8,4% al salario mínimo de 2027 y alerta peligros de aumentos de dos cifras",
+        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-economista-propone-subirlo-8-4-y-advierte-sobre-los-riesgos-de-alzas-de-dos-digitos-506259",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Salario mínimo 2027: economista propone subirlo 8,4% y advierte sobre los riesgos de alzas de dos dígitos",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Exmandatario Uribe plantea ponencia alterna ante la ley de salvavidas fiscal del Gobierno De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/uribe-propone-eliminar-el-4x1-000-y-otros-impuestos-estos-son-los-cambios-planteados-a-la-ley-de-ajuste-fiscal-506257",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Expresidente Uribe propone una ponencia sustitutiva frente a la ley de rescate fiscal del Gobierno De La Espriella",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "El ambiente renovado en el vínculo del Ejecutivo con el Emisor y la banca",
+        "url": "https://www.portafolio.co/economia/gobierno/el-nuevo-aire-que-se-respira-en-la-relacion-del-gobierno-con-el-banco-de-la-republica-y-el-sistema-financiero-506248",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "El nuevo aire que se respira en la relación del Gobierno con el Banco de la República y el sistema financiero",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
       {
         "titulo": "Hoteles y comercio listos en Barranquilla por millonarias ganancias que dejaría la Copa Sudamericana",
         "url": "https://www.portafolio.co/economia/final-de-la-copa-sudamericana-dejaria-millonaria-cifra-en-barranquilla-hoteles-y-comercio-se-preparan-506245",
@@ -513,99 +603,69 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "CNE asignó $38.036 millones a partidos políticos para 2026: cinco organizaciones concentran el 60,1%",
         "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Gobierno aparta del cargo a Elizabeth Blandón en el Icfes tras finalizar su periodo iniciado en agosto de 2023",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-declara-insubsistente-a-elizabeth-blandon-en-el-icfes-termina-su-gestion-iniciada-en-agosto-de-506076",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Gobierno declara insubsistente a Elizabeth Blandón en el Icfes: termina su gestión iniciada en agosto de 2023",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Fenómeno de El Niño encarece la comida: papa subió 98% y frutas aumentaron hasta 37% anual",
-        "url": "https://www.portafolio.co/economia/el-nino-presiona-los-precios-de-los-alimentos-papa-subio-98-y-frutas-registraron-alzas-de-hasta-37-anual-506072",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "El Niño presiona los precios de los alimentos: papa subió 98% y frutas registraron alzas de hasta 37% anual",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Minerva, fabricante de tradicionales hojas de vida y promesas de compraventa, va a reorganización",
-        "url": "https://www.portafolio.co/economia/empleo/recuerda-las-hojas-de-vida-y-promesas-de-compraventa-minerva-empresa-que-las-produce-entra-en-reorganizacion-506066",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Empresa que produce icónicas hojas de vida y promesas de compraventa Minerva entra en reorganización empresarial",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Dian baja hasta 85% las multas de impuestos: este es el tiempo límite para pedirlo",
-        "url": "https://www.portafolio.co/economia/impuestos/la-dian-puede-reducir-hasta-85-las-sanciones-tributarias-este-es-el-plazo-que-le-queda-para-solicitarlo-506068",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "La Dian puede reducir hasta 85% las sanciones tributarias: este es el plazo que le queda para solicitarlo",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Convertir desecho en abono: la estrategia de Fenavi para usar gallinaza y pollinaza en el país",
-        "url": "https://www.portafolio.co/economia/agro/de-residuos-a-fertilizantes-la-apuesta-de-fenavi-para-aprovechar-la-gallinaza-y-la-pollinaza-en-colombia-506067",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "De residuos a fertilizantes: la apuesta de Fenavi para aprovechar la gallinaza y la pollinaza en Colombia",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Elon Musk recibe nueva oferta desde Colombia: La Guajira postula a Puerto Bolívar como sede de SpaceX",
-        "url": "https://www.portafolio.co/economia/regiones/otro-ofrecimiento-para-spacex-en-colombia-la-guajira-propone-puerto-bolivar-y-se-suma-a-antioquia-con-el-uraba-506064",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Elon Musk recibe otra propuesta desde Colombia: La Guajira ofrece a Puerto Bolívar para ser base de SpaceX",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Un fallo legislativo encendería alarmas sanitarias: calculan 46408 decesos extra",
-        "url": "https://www.portafolio.co/economia/gobierno/una-decision-del-congreso-podria-echar-humo-sobre-la-salud-publica-proyectan-46-408-muertes-adicionales-506063",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Una decisión del Congreso podría echar humo sobre la salud pública: proyectan 46.408 muertes adicionales",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar subiría estos días por causas del mercado colombiano",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-podria-disparase-esta-semana-por-estos-factores-asi-se-mueve-el-mercado-506060",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Precio del dólar en Colombia podría disparase esta semana por estos factores: así se mueve el mercado",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Invima avisa comercio informal de artículos Wosh y guía sobre adquisiciones digitales",
-        "url": "https://www.portafolio.co/economia/gobierno/invima-advierte-venta-ilegal-de-productos-de-limpieza-wosh-en-colombia-que-hacer-si-ya-los-compro-en-redes-506061",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Invima advierte venta ilegal de productos de limpieza Wosh en Colombia: qué hacer si ya los compró en redes",
-        "capturado": "2026-11-10T14:21:20-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Mazda presenta en el Salón del Automóvil la referencia S de la CX-30, más barata y con sus detalles",
+        "url": "https://www.portafolio.co/negocios/vehiculo/mazda-trae-al-salon-del-automovil-una-version-mas-economica-de-la-cx-30-que-trae-la-nueva-referencia-s-506271",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Mazda trae al Salón del Automóvil una versión más económica de la CX-30: qué trae la nueva referencia S",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Nubank reportó ganancias históricas por US$1.100 millones y aumentó sus ingresos 37% en el tercer trimestre",
+        "url": "https://www.portafolio.co/negocios/empresas/nubank-alcanzo-una-utilidad-record-de-us-1-100-millones-y-elevo-sus-ingresos-37-en-el-tercer-trimestre-506269",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Nubank alcanzó una utilidad récord de US$1.100 millones y elevó sus ingresos 37% en el tercer trimestre",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "El costo del crudo eleva las ganancias de Ecopetrol, pero la extracción de petróleo y gas se estanca",
+        "url": "https://www.portafolio.co/negocios/empresas/precio-del-petroleo-dispara-utilidades-de-ecopetrol-pero-su-produccion-de-crudo-y-gas-no-reacciona-506266",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Precio del petróleo dispara utilidades de Ecopetrol pero su producción de crudo y gas no reacciona",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Nace el Gremio de Electromovilidad de Colombia mientras los carros eléctricos trepan 120,2 por ciento",
+        "url": "https://www.portafolio.co/negocios/vehiculo/exclusivo-nace-el-gremio-de-electromovilidad-de-colombia-gem-al-tiempo-que-los-electricos-crecen-120-506255",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Exclusivo: nace el Gremio de Electromovilidad de Colombia (GEM) al tiempo que los eléctricos crecen 120,2 %",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Nvidia finaliza la etapa de Jensen Huang tras convertir una firma gráfica en coloso de inteligencia artificial",
+        "url": "https://www.portafolio.co/negocios/empresas/nvidia-cierra-la-era-de-jensen-huang-asi-transformo-una-empresa-de-graficos-en-gigante-de-inteligencia-artificial-506253",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Nvidia cierra la era de Jensen Huang: así transformó una empresa de gráficos en gigante de inteligencia artificial",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
+      {
+        "titulo": "Inversionistas nacionales encabezan la compra de bienes raíces en Panamá y llaman la atención de más clientes",
+        "url": "https://www.portafolio.co/negocios/empresas/colombianos-lideran-la-inversion-inmobiliaria-en-panama-por-que-atraen-cada-vez-mas-compradores-506252",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Colombianos lideran la inversión inmobiliaria en Panamá: ¿por qué atraen cada vez más compradores?",
+        "capturado": "2026-11-12T18:58:00-05:00"
+      },
       {
         "titulo": "Chevrolet integra Google Gemini a algunos autos en Colombia y revela los modelos con inteligencia artificial",
         "url": "https://www.portafolio.co/negocios/vehiculo/chevrolet-incorpora-google-gemini-a-varios-de-sus-carros-en-colombia-estos-son-los-modelos-que-tendran-ia-506247",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "VaxThera proyecta producir hasta 700 millones de dosis de vacunas en Colombia ante futuras emergencias sanitarias",
         "capturado": "2026-11-10T06:31:17-05:00"
-      },
-      {
-        "titulo": "Ecopetrol emitió bonos por US$2.000 millones y captó ofertas de US$6.930 millones alcanzando un récord",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-logro-colocar-us-2-000-millones-en-bonos-y-recibio-ofertas-por-us-6-930-millones-record-en-cinco-anos-506032",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Ecopetrol logró colocar US$2.000 millones en bonos y recibió ofertas por US$6.930 millones: récord en cinco años",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Latam registra ingresos por US$ 4.567 millones al tercer trimestre con un alza del 0,9% en su utilidad",
-        "url": "https://www.portafolio.co/negocios/empresas/latam-factura-us-4-567-millones-en-el-tercer-trimestre-mientras-la-utilidad-ajustada-crece-0-506020",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Latam factura US$ 4.567 millones en el tercer trimestre mientras la utilidad ajustada crece 0,9%",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Advierten sobre sitios web falsos del Pico y Placa Solidario y dan consejos para prevenir fraudes",
-        "url": "https://www.portafolio.co/negocios/empresas/alerta-por-paginas-falsas-del-pico-y-placa-solidario-recomendaciones-para-evitar-caer-en-estafas-506019",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Alerta por páginas falsas del Pico y Placa Solidario: recomendaciones para evitar caer en estafas",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Godzilla Minus Zero encabeza la taquilla estadounidense con US$31,6 millones e impone marca inicial",
-        "url": "https://www.portafolio.co/negocios/comercio/godzilla-minus-zero-lidera-la-taquilla-de-ee-uu-con-us-31-6-millones-y-marca-record-en-su-primer-fui-de-semana-506007",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "‘Godzilla Minus Zero’ lidera la taquilla de EE. UU. con US$31,6 millones y marca récord en su primer fui de semana",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "La Industria Licorera de Caldas recibe distinción debido a sus marcas históricas en ventas externas",
-        "url": "https://www.portafolio.co/negocios/empresas/por-cifras-historicas-en-exportaciones-reconocimiento-a-la-industria-licorera-de-caldas-506011",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Por cifras históricas en exportaciones, reconocimiento a la Industria Licorera de Caldas",
-        "capturado": "2026-11-09T22:17:37-05:00"
-      },
-      {
-        "titulo": "Ganancias del Grupo Cibest matriz de Bancolombia crecen 10,5% a septiembre de 2026 y suman $6,3 billones",
-        "url": "https://www.portafolio.co/negocios/empresas/utilidades-del-grupo-cibest-matriz-de-bancolombia-suben-10-5-a-septiembre-de-2026-llegan-a-6-3-billones-506016",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Utilidades del Grupo Cibest, matriz de Bancolombia, suben 10,5% a septiembre de 2026 llegan a $6,3 billones",
-        "capturado": "2026-11-09T22:17:37-05:00"
       }
     ]
   }
