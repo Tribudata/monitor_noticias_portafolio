@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-12T18:58:00-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-11-13T01:12:26-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Salud: Fomag, pasivos y fármacos, los tres retos del Gobierno de De la Espriella en cien días",
+        "url": "https://www.portafolio.co/economia/gobierno/salud-medicamentos-fomag-y-deudas-los-tres-frentes-que-ponen-a-prueba-al-gobierno-de-de-la-espriella-en-100-dias-506258",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Salud: medicamentos, Fomag y deudas, los tres frentes que ponen a prueba al Gobierno de De la Espriella en 100 días",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Logros y desafíos en los cien días de la administración de De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/hitos-y-retos-en-100-dias-del-gobierno-de-de-la-espriella-506276",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Hitos y retos en 100 días del gobierno de De La Espriella",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "La seguridad retorna al foco en Colombia, aunque alertan sobre la carencia de un plan total",
+        "url": "https://www.portafolio.co/economia/regiones/seguridad-vuelve-al-centro-de-la-agenda-en-colombia-pero-advierten-que-hace-falta-una-estrategia-integral-506275",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Seguridad vuelve al centro de la agenda en Colombia, pero advierten que hace falta una estrategia integral",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Baja ocupación hotelera, pasajes costosos y auge de vivienda turística: la transformación del sector",
+        "url": "https://www.portafolio.co/economia/ocupacion-hotelera-en-minimos-tiquetes-mas-caros-y-viviendas-turisticas-en-auge-asi-se-transforma-el-turismo-506226",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Ocupación hotelera en mínimos, tiquetes más caros y viviendas turísticas en auge: así se transforma el turismo",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Los desafíos digitales que afronta De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/los-retos-tecnologicos-que-enfrenta-de-la-espriella-506272",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Los retos tecnológicos que enfrenta De La Espriella",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Carreteras sin fondos, cámaras inactivas y puertos colapsados: el Ejecutivo recibe 51 billones en vigencias",
+        "url": "https://www.portafolio.co/economia/infraestructura/vias-sin-plata-radares-apagados-y-puertos-congestionados-el-gobierno-hereda-51-billones-en-vigencias-futuras-506222",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Vías sin plata, radares apagados y puertos congestionados: el Gobierno hereda $51 billones en vigencias futuras",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Presupuesto, Plan de Desarrollo y ley de ajuste fiscal sobresalen en los 100 días de De La Espriella",
+        "url": "https://www.portafolio.co/economia/presupuesto-plan-de-desarrollo-ley-de-ajuste-fiscal-dentro-de-las-grandes-apuestas-de-de-la-espriella-en-100-dias-506260",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Presupuesto, Plan de Desarrollo, ley de ajuste fiscal dentro de las grandes apuestas de De La Espriella en 100 días",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Salud docente, Icetex, gratuidad y obras sin respaldo fiscal son los pasivos del sector educativo",
+        "url": "https://www.portafolio.co/economia/gobierno/salud-de-maestros-icetex-gratuidad-y-obras-sin-respaldo-fiscal-los-faltantes-que-hereda-todo-el-sector-educativo-506229",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Salud de maestros, Icetex, gratuidad y obras sin respaldo fiscal: los faltantes que hereda todo el sector educativo",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
+      {
+        "titulo": "Consejo Gremial dialogó con el Minhacienda sobre la Ley de Rescate y esto expresó Natalia Gutiérrez",
+        "url": "https://www.portafolio.co/economia/gobierno/consejo-gremial-se-reunio-con-minhacienda-por-la-ley-de-rescate-esto-dijo-natalia-gutierrez-506274",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Consejo Gremial se reunió con Minhacienda por la Ley de Rescate: esto dijo Natalia Gutiérrez",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
       {
         "titulo": "Icesi: delegar el pensamiento en la inteligencia artificial impide lograr un criterio propio",
         "url": "https://www.portafolio.co/economia/rector-de-icesi-si-un-joven-le-delega-su-pensamiento-a-la-ia-nunca-va-a-desarrollar-criterio-propio-506249",
@@ -513,99 +603,19 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "Visión Davivienda estima que el salario mínimo subirá 8,5% en 2027: llegaría a $1.899.732 sin auxilio de transporte",
         "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia sigue al alza y se acerca a los $3.300 este 11 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-continua-subiendo-y-ya-roza-los-3-300-asi-cotiza-este-11-de-noviembre-506113",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Precio del dólar en Colombia continúa subiendo y ya roza los $3.300: así cotiza este 11 de noviembre",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Supersalud exige a Sanitas respuestas urgentes ante problemas en entrega de fármacos",
-        "url": "https://www.portafolio.co/economia/gobierno/supersalud-pone-contra-las-cuerdas-a-sanitas-ordena-soluciones-inmediatas-por-fallas-en-la-entrega-de-medicamentos-506111",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Supersalud pone contra las cuerdas a Sanitas: ordena soluciones inmediatas por fallas en la entrega de medicamentos",
-        "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Falla reciente en el aeropuerto El Dorado obliga a OPAIN a aplicar planes de contingencia",
-        "url": "https://www.portafolio.co/economia/infraestructura/nueva-falla-en-el-aeropuerto-el-dorado-opain-activa-planes-de-contingencia-para-atender-a-los-pasajeros-506112",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Nueva falla en el aeropuerto El Dorado: OPAIN activa planes de contingencia para atender a los pasajeros",
-        "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Minsalud advierte sobre contratación directa del Gobierno Petro con sueldos de hasta $46 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/minsalud-alerta-por-contratacion-directa-del-gobierno-petro-encontro-honorarios-de-hasta-46-millones-al-mes-506102",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Minsalud alerta por contratación directa del Gobierno Petro: encontró honorarios de hasta $46 millones al mes",
-        "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Si se quita el tope de usura, el préstamo gota a gota se volvería legal",
-        "url": "https://www.portafolio.co/economia/finanzas/si-eliminan-la-tasa-de-usura-el-fenomeno-del-gota-a-gota-pasaria-a-ser-legal-506097",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "‘Si eliminan la tasa de usura, el fenómeno del gota a gota pasaría a ser legal’",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Inician trabajos en los 21 frentes de la vía Buga-Buenaventura con fecha de entrega",
-        "url": "https://www.portafolio.co/economia/infraestructura/via-buga-buenaventura-arrancan-obras-en-los-21-frentes-y-ya-hay-fecha-para-terminar-el-corredor-506089",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Vía Buga-Buenaventura: arrancan obras en los 21 frentes y ya hay fecha para terminar el corredor",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella elogió a Luz Stella Murgas en la Andi y abogó por un empresariado sólido",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-felicito-a-luz-stella-murgas-en-la-andi-y-pide-un-sector-empresarial-fuerte-para-el-pais-506091",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Abelardo De La Espriella felicitó a Luz Stella Murgas en la Andi y pide un sector empresarial fuerte para el país",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Pasos para postularse a las 20.000 ofertas de la Empleatón Nacional 2026 de elempleo y ACOSET",
-        "url": "https://www.portafolio.co/economia/finanzas/asi-puede-acceder-a-las-20-000-vacantes-de-la-empleaton-nacional-2026-con-elempleo-y-acoset-506088",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Así puede acceder a las 20.000 vacantes de la Empleatón Nacional 2026 con elempleo y ACOSET",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "CNE repartió 38.036 millones a colectivos políticos para 2026 y cinco tienen el 60,1 por ciento",
-        "url": "https://www.portafolio.co/economia/gobierno/cne-asigno-38-036-millones-a-partidos-politicos-para-2026-cinco-organizaciones-concentran-el-60-506085",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "CNE asignó $38.036 millones a partidos políticos para 2026: cinco organizaciones concentran el 60,1%",
-        "capturado": "2026-11-10T19:10:24-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Desafíos del comercio externo: destrabar el vínculo con EE. UU. y restaurar la confianza para la inversión",
+        "url": "https://www.portafolio.co/negocios/comercio/retos-del-comercio-exterior-destrabar-la-relacion-con-estados-unidos-y-recuperar-la-confianza-para-la-inversion-506246",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Retos del comercio exterior: destrabar la relación con Estados Unidos y recuperar la confianza para la inversión",
+        "capturado": "2026-11-13T01:12:26-05:00"
+      },
       {
         "titulo": "Mazda presenta en el Salón del Automóvil la referencia S de la CX-30, más barata y con sus detalles",
         "url": "https://www.portafolio.co/negocios/vehiculo/mazda-trae-al-salon-del-automovil-una-version-mas-economica-de-la-cx-30-que-trae-la-nueva-referencia-s-506271",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "Pei avanza en la compra de cinco activos de Terranum, que elevaría 29% su portafolio y 35% su área arrendable",
         "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "VaxThera planea fabricar cerca de 700 millones de dosis de vacunas en Colombia frente a crisis de salud",
-        "url": "https://www.portafolio.co/negocios/empresas/vaxthera-proyecta-producir-hasta-700-millones-de-dosis-de-vacunas-en-colombia-ante-futuras-emergencias-sanitarias-506035",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "VaxThera proyecta producir hasta 700 millones de dosis de vacunas en Colombia ante futuras emergencias sanitarias",
-        "capturado": "2026-11-10T06:31:17-05:00"
       }
     ]
   }
