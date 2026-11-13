@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-13T01:12:26-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-13T09:47:45-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Tembici adeuda 5.260 millones a Bogotá y Distrito inicia tres procesos por posibles faltas",
+        "url": "https://www.portafolio.co/economia/gobierno/tembici-le-debe-5-260-millones-a-bogota-distrito-abrio-tres-procesos-por-presuntos-incumplimientos-506305",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Tembici le debe $5.260 millones a Bogotá: Distrito abrió tres procesos por presuntos incumplimientos",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Revelan red ilegal en Dian: ventas externas ficticias de aceite y soya habrían movido 425.000 millones",
+        "url": "https://www.portafolio.co/economia/gobierno/destapan-millonario-entramado-en-la-dian-exportaciones-ficticias-de-aceite-y-soya-habrian-movido-425-000-millones-506303",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Destapan millonario entramado en la Dian: exportaciones ficticias de aceite y soya habrían movido $425.000 millones",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Los 10 retos que desafían al agro de Colombia en los primeros 100 días de Abelardo de la Espriella",
+        "url": "https://www.portafolio.co/economia/agro/los-10-desafios-que-ponen-a-prueba-al-agro-colombiano-en-los-primeros-100-dias-de-abelardo-de-la-espriella-506231",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Los 10 desafíos que ponen a prueba al agro colombiano en los primeros 100 días de Abelardo de la Espriella",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "ANI cancelará 1,27 billones en vez de 2,6 billones por la Perimetral de Oriente y ahorra unos 1,4 billones",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-pagara-1-27-billones-en-lugar-de-2-6-billones-por-la-perimetral-de-oriente-y-ahorra-cerca-de-1-4-billones-506295",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "ANI pagará $1,27 billones en lugar de $2,6 billones por la Perimetral de Oriente y ahorra cerca de $1,4 billones",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Hitos y desafíos en los 100 días de administración de De La Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/hitos-y-retos-en-100-dias-del-gobierno-de-de-la-espriella-506291",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Hitos y retos en 100 días del gobierno de De La Espriella",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Copropiedades residenciales en Colombia lograrán monetizar áreas libres con este novedoso esquema comercial",
+        "url": "https://www.portafolio.co/economia/conjuntos-residenciales-en-colombia-podran-aprovechar-sus-espacios-sin-uso-con-este-nuevo-modelo-de-negocio-506292",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Conjuntos residenciales en Colombia podrán aprovechar sus espacios sin uso con este nuevo modelo de negocio",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella frena nómina de $765 millones del Fondo Milagro por altos salarios: No los autorizo",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-frena-nomina-de-765-millones-del-fondo-milagro-por-altos-salarios-no-los-autorizo-506288",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Abelardo De La Espriella frena nómina de $765 millones del Fondo Milagro por altos salarios: 'No los autorizo'",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Contraloría halla detrimento de $1.410 millones en el Acueducto de Bogotá",
+        "url": "https://www.portafolio.co/economia/regiones/contraloria-halla-detrimento-de-1-410-millones-en-el-acueducto-de-bogota-506286",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Contraloría halla detrimento de $1.410 millones en el Acueducto de Bogotá",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
       {
         "titulo": "Salud: Fomag, pasivos y fármacos, los tres retos del Gobierno de De la Espriella en cien días",
         "url": "https://www.portafolio.co/economia/gobierno/salud-medicamentos-fomag-y-deudas-los-tres-frentes-que-ponen-a-prueba-al-gobierno-de-de-la-espriella-en-100-dias-506258",
@@ -523,89 +603,99 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "Después de dos años, la SAE vuelve a convocar a personas y empresas para gestionar inmuebles ¿cómo participar?",
         "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "El desempleo nacional baja a 9,5% y anota el descenso más fuerte entre los miembros de la Ocde",
-        "url": "https://www.portafolio.co/economia/desempleo-en-colombia-cae-a-9-5-y-registra-la-mayor-baja-entre-los-paises-de-la-ocde-506129",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Desempleo en Colombia cae a 9,5% y registra la mayor baja entre los países de la Ocde",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Las empresas operadoras elevaron hasta 97% la suspensión de líneas móviles dentro de los penales",
-        "url": "https://www.portafolio.co/economia/gobierno/operadores-aumentaron-hasta-97-el-bloqueo-de-lineas-telefonicas-en-las-carceles-506127",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Operadores aumentaron hasta 97% el bloqueo de líneas telefónicas en las cárceles",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "El 47,3% de las nuevas matrículas automotrices en Colombia corresponden a vehículos eléctricos e híbridos",
-        "url": "https://www.portafolio.co/economia/vehiculos-electricos-e-hibridos-ya-son-el-47-3-de-las-matriculas-de-carros-nuevos-en-colombia-506124",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Vehículos eléctricos e híbridos ya son el 47,3% de las matrículas de carros nuevos en Colombia",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Designan a la exsecretaria de Educación en la dirección del Icfes tras la salida de Elizabeth Blandón",
-        "url": "https://www.portafolio.co/economia/gobierno/quien-es-la-exsecretaria-de-educacion-que-queda-al-frente-del-icfes-tras-salida-de-elizabeth-blandon-506120",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Quién es la exsecretaria de Educación que queda al frente del Icfes tras salida de Elizabeth Blandón",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Falla en el embarque de pasajeros de El Dorado obedeció a un motivo distinto al de los radares",
-        "url": "https://www.portafolio.co/economia/regiones/no-fueron-los-radares-la-causa-de-la-falla-en-el-dorado-segun-la-aerocivil-506118",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "No fueron los radares: esta es la causa de la falla que afectó el embarque de pasajeros en el aeropuerto El Dorado",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Informe detalla los cinco peligros de desviación fiscal y el costo de devolver el IVA por ley de rescate",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-el-costo-de-devolver-el-iva-y-los-cinco-riesgos-de-desvio-fiscal-segun-informe-506119",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Ley de rescate económico: el costo de devolver el IVA y los cinco riesgos de desvío fiscal, según informe",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Alza en la demanda eléctrica y daños en cosechas deja temperatura de 41,2 °C en un municipio colombiano",
-        "url": "https://www.portafolio.co/economia/regiones/temperaturas-de-41-2-c-en-este-municipio-disparan-la-demanda-de-energia-y-danan-los-cultivos-506116",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Temperaturas de 41,2 °C en este municipio disparan la demanda de energía y dañan los cultivos",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Para 2027 Visión Davivienda proyecta un alza del 8,5% en el salario mínimo y llegaría a $1.899.732 sin auxilio",
-        "url": "https://www.portafolio.co/economia/gobierno/davivienda-estima-que-el-salario-minimo-subira-8-5-en-2027-llegaria-a-1-899-732-sin-auxilio-de-transporte-506115",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Visión Davivienda estima que el salario mínimo subirá 8,5% en 2027: llegaría a $1.899.732 sin auxilio de transporte",
-        "capturado": "2026-11-11T09:56:05-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "La competencia para captar capital se transforma: conozca los nuevos intereses corporativos",
+        "url": "https://www.portafolio.co/negocios/empresas/la-carrera-por-atraer-inversion-esta-cambiando-estos-son-los-nuevos-factores-que-buscan-las-empresas-506302",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "La carrera por atraer inversión está cambiando: estos son los nuevos factores que buscan las empresas",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Boom: la respuesta de David Vélez a los balances de Nubank por utilidades récord en 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/boom-la-reaccion-de-david-velez-a-los-resultados-de-nubank-tras-alcanzar-ganancias-record-en-506299",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "‘¡Boom!’: la reacción de David Vélez a los resultados de Nubank tras alcanzar ganancias récord en 2026",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Apoyo a la empresa privada en medio de controversias con las asociaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/respaldo-al-sector-privado-entre-polemicas-con-gremios-506296",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Respaldo al sector privado entre polémicas con gremios",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Davivienda registró ganancias por $1,75 billones a septiembre, pese a descenso de 21,8%",
+        "url": "https://www.portafolio.co/negocios/empresas/davivienda-genero-utilidades-de-1-75-billones-hasta-septiembre-pese-a-caida-de-21-8-de-sus-ganancias-506297",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Davivienda generó utilidades de $1,75 billones hasta septiembre, pese a caída de 21,8% de sus ganancias",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Las utilidades de Davivienda Group bajan: sumó $1,85 billones hasta septiembre",
+        "url": "https://www.portafolio.co/negocios/empresas/las-ganancias-de-davivienda-group-pierden-fuerza-acumulo-1-85-billones-en-utilidades-hasta-septiembre-506293",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Las ganancias de Davivienda Group pierden fuerza: acumuló $1,85 billones en utilidades hasta septiembre",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Microsoft informa mejoras en Outlook y otros servicios tras superar 17 horas de fallas",
+        "url": "https://www.portafolio.co/negocios/empresas/microsoft-anuncia-mejoras-en-outlook-y-otros-servicios-tras-mas-de-17-horas-de-fallas-esto-es-lo-que-se-sabe-506290",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Microsoft anuncia mejoras en Outlook y otros servicios tras más de 17 horas de fallas: esto es lo que se sabe",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Zonas francas suben ventas externas y ganan cuota en el comercio local a pesar de la caída del dólar",
+        "url": "https://www.portafolio.co/negocios/comercio/pese-al-dolar-mas-barato-zonas-francas-aumentan-sus-exportaciones-y-ganan-participacion-en-el-comercio-colombiano-506289",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Pese al dólar más barato, zonas francas aumentan sus exportaciones y ganan participación en el comercio colombiano",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Grupo Sura sube la meta de ganancia para 2026 tras lograr 2,3 billones a septiembre y superar pronósticos",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-sura-eleva-su-meta-de-utilidad-para-2026-tras-alcanzar-2-3-billones-a-septiembre-y-superar-sus-previsiones-506285",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Grupo Sura eleva su meta de utilidad para 2026 tras alcanzar $2,3 billones a septiembre y superar sus previsiones",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
+      {
+        "titulo": "Siguen fallas de Microsoft 365: usuarios siguen sin Outlook y Teams mientras buscan restablecerlos",
+        "url": "https://www.portafolio.co/negocios/empresas/persisten-fallas-de-microsoft-365-usuarios-continuan-sin-outlook-y-teams-mientras-trabajan-en-su-restablecimiento-506283",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Persisten fallas de Microsoft 365: usuarios continúan sin Outlook y Teams, mientras trabajan en su restablecimiento",
+        "capturado": "2026-11-13T09:47:45-05:00"
+      },
       {
         "titulo": "Desafíos del comercio externo: destrabar el vínculo con EE. UU. y restaurar la confianza para la inversión",
         "url": "https://www.portafolio.co/negocios/comercio/retos-del-comercio-exterior-destrabar-la-relacion-con-estados-unidos-y-recuperar-la-confianza-para-la-inversion-506246",
@@ -1114,96 +1204,6 @@
         "subseccion": "Industrias",
         "publicacion": "2026-11-10",
         "titulo_fuente": "Luz Stella Murgas fue elegida como nueva presidenta de la Andi",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Wplay busca conectar con un público exigente que rechaza la publicidad tradicional",
-        "url": "https://www.portafolio.co/negocios/empresas/wplay-quiere-entrar-en-la-conversacion-asi-busca-conquistar-a-un-consumidor-que-ya-no-se-conforma-con-publicidad-506077",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Wplay quiere 'entrar en la conversación': así busca conquistar a un consumidor que ya no se conforma con publicidad",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "La baja del dólar abarató las importaciones pero afecta la rentabilidad del inventario actual",
-        "url": "https://www.portafolio.co/negocios/industrias/la-caida-del-dolar-ha-reducido-los-costos-de-importacion-pero-presiona-la-rentabilidad-de-inventarios-existentes-506071",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "La caída del dólar ha reducido los costos de importación, pero presiona la rentabilidad de inventarios existentes",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "FDA advierte sobre posibles riesgos visuales para consumidores de Ozempic y Wegovy",
-        "url": "https://www.portafolio.co/negocios/empresas/pacientes-que-usan-ozempic-y-wegovy-las-senales-de-alerta-ocular-que-deben-conocer-tras-analisis-de-la-fda-506070",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Pacientes que usan Ozempic y Wegovy: las señales de alerta ocular que deben conocer tras análisis de la FDA",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Financiación de vehículos sube 44,5 % en Colombia durante 2026 tras auge en compras a crédito",
-        "url": "https://www.portafolio.co/negocios/vehiculo/compra-de-carros-a-credito-se-dispara-en-colombia-operaciones-financiadas-crecieron-44-5-en-506069",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Compra de carros a crédito se dispara en Colombia: operaciones financiadas crecieron 44,5 % en 2026",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Fintech Clara capta financiación por US$105 millones y rebasa los US$100 millones en ingresos anuales",
-        "url": "https://www.portafolio.co/negocios/empresas/fintech-clara-recibe-financiacion-de-us-105-millones-y-supera-los-us-100-millones-en-ingresos-anualizados-506065",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Fintech Clara recibe financiación de US$105 millones y supera los US$100 millones en ingresos anualizados",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Qué buscan los consumidores mayores de 50 años al seleccionar una marca",
-        "url": "https://www.portafolio.co/negocios/comercio/que-buscan-los-consumidores-mayores-de-50-anos-cuando-eligen-una-marca-506055",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "¿Qué buscan los consumidores mayores de 50 años cuando eligen una marca?",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Elección de presidencia de la Andi termina este martes y estos candidatos compiten por el puesto",
-        "url": "https://www.portafolio.co/negocios/empresas/pulso-por-la-presidencia-de-la-andi-llega-a-su-fin-este-martes-estos-son-los-candidatos-que-se-disputan-el-cargo-506059",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Pulso por la presidencia de la Andi llega a su fin este martes: estos son los candidatos que se disputan el cargo",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Comercio desaceleraría en 2027 pero continuaría como soporte de la economía colombiana",
-        "url": "https://www.portafolio.co/negocios/comercio/comercio-perderia-impulso-en-2027-aunque-seguiria-como-un-motor-de-la-economia-colombiana-506050",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Comercio perdería impulso en 2027, aunque seguiría como un motor de la economía colombiana",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Pei progresa en adquisición de cinco activos de Terranum para subir 29% su portafolio y 35% su área arrendable",
-        "url": "https://www.portafolio.co/negocios/empresas/pei-avanza-en-la-compra-de-cinco-activos-de-terranum-que-elevaria-29-su-portafolio-y-35-su-area-arrendable-506047",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Pei avanza en la compra de cinco activos de Terranum, que elevaría 29% su portafolio y 35% su área arrendable",
         "capturado": "2026-11-10T14:21:20-05:00"
       }
     ]
