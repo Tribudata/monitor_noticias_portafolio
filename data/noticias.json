@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-13T09:47:45-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-11-13T16:11:32-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Venta directa genera $7,5 billones con 2,4 millones de colombianos en la nueva economía del ingreso extra",
+        "url": "https://www.portafolio.co/economia/finanzas/la-nueva-economia-del-ingreso-extra-venta-directa-mueve-7-5-billones-y-reune-a-2-4-millones-de-colombianos-506338",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "La nueva economía del ingreso extra: venta directa mueve $7,5 billones y reúne a 2,4 millones de colombianos",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Gobierno acepta a nuevo líder sindical de la CGT y cambia la negociación del salario mínimo 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/giro-en-la-negociacion-del-salario-minimo-2027-gobierno-reconoce-a-nuevo-lider-sindical-de-la-cgt-506336",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Giro en la negociación del salario mínimo 2027: Gobierno reconoce a nuevo líder sindical de la CGT",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Nombran equipo para el primer debate de la Ley de Rescate Económico en la Cámara",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-da-nuevo-paso-en-la-camara-designan-equipo-para-el-primer-debate-del-proyecto-506335",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Ley de Rescate Económico da nuevo paso en la Cámara: designan equipo para el primer debate del proyecto",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Jaime Uribe deja la gerencia del Fondo Milagro tras controversia por altos sueldos de empleados",
+        "url": "https://www.portafolio.co/economia/gobierno/renuncio-jaime-uribe-gerente-del-fondo-milagro-tras-polemica-por-millonarios-salarios-de-funcionarios-506330",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Renunció Jaime Uribe, gerente del Fondo Milagro, tras polémica por millonarios salarios de funcionarios",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Procuraduría señala peligros en el nuevo modelo tarifario de aseo ante protestas de recicladores",
+        "url": "https://www.portafolio.co/economia/regiones/procuraduria-advierte-riesgos-en-nuevo-modelo-tarifario-de-aseo-en-medio-de-protestas-de-recicladores-en-bogota-506325",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Procuraduría advierte riesgos en nuevo modelo tarifario de aseo en medio de protestas de recicladores en Bogotá",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Espacio aéreo de Bogotá cerrado por revista de la FAC: conozca el horario de la restricción",
+        "url": "https://www.portafolio.co/economia/regiones/bogota-tiene-cerrado-su-espacio-aereo-por-revista-de-la-fac-hasta-que-hora-estara-la-restriccion-506322",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Bogotá tiene cerrado su espacio aéreo por revista de la FAC: ¿hasta qué hora estará la restricción?",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia terminaría la semana arriba de tres mil trescientos pesos",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-se-perfila-a-cerrar-la-semana-por-encima-de-3-506314",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Precio del dólar hoy en Colombia se perfila a cerrar la semana por encima de $3.300",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Norma de Salvamento Financiero modificaría las finanzas corporativas en 2027 y sus efectos",
+        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-cambiaria-las-cuentas-de-las-empresas-en-2027-estos-serian-los-impactos-506313",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Ley de Rescate Económico cambiaría las cuentas de las empresas en 2027: estos serían los impactos",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Minciencia reporta ochenta y tres mil trescientos ochenta y tres adultos mayores afectados por sismo",
+        "url": "https://www.portafolio.co/economia/regiones/terremoto-de-agosto-dejo-83-383-adultos-mayores-damnificados-en-112-municipios-de-12-departamentos-minciencia-506312",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Terremoto de agosto dejó 83.383 adultos mayores damnificados en 112 municipios de 12 departamentos: Minciencia",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Siete Milagros incrementaría hasta un veintiocho por ciento el valor de proyectos solares desde 2028",
+        "url": "https://www.portafolio.co/economia/gobierno/siete-milagros-la-nueva-propuesta-a-paneles-solares-que-elevaria-hasta-28-el-costo-de-proyectos-desde-506311",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "'Siete Milagros', la nueva propuesta a paneles solares que elevaría hasta 28% el costo de proyectos desde 2028",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "J.P. Morgan introduce los primeros fondos cotizados activos en Colombia con quince alternativas globales",
+        "url": "https://www.portafolio.co/economia/finanzas/j-p-morgan-lanza-los-primeros-etf-activos-en-colombia-con-15-estrategias-globales-que-cotizaran-en-la-bolsa-506307",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "J.P. Morgan lanza los primeros ETF activos en Colombia con 15 estrategias globales que cotizarán en la Bolsa",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Falla global de Microsoft 365 detiene sectores judiciales bogotanos y frena plazos procesales",
+        "url": "https://www.portafolio.co/economia/regiones/caida-mundial-de-microsoft-365-paraliza-parte-de-la-justicia-en-bogota-suspenden-terminos-judiciales-506310",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Caída mundial de Microsoft 365 paraliza parte de la justicia en Bogotá: suspenden términos judiciales",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
       {
         "titulo": "Tembici adeuda 5.260 millones a Bogotá y Distrito inicia tres procesos por posibles faltas",
         "url": "https://www.portafolio.co/economia/gobierno/tembici-le-debe-5-260-millones-a-bogota-distrito-abrio-tres-procesos-por-presuntos-incumplimientos-506305",
@@ -483,129 +603,99 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "De ‘Caminos Comunitarios’ a ‘Caminos del Tigre’: la ruta del Gobierno para intervenir 30.000 km de vías regionales",
         "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Prima decembrina de 2026: desde qué día las compañías están autorizadas para cancelarla",
-        "url": "https://www.portafolio.co/economia/prima-de-diciembre-2026-desde-que-fecha-pueden-empezar-a-pagarla-las-empresas-506169",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Prima de diciembre 2026: ¿desde qué fecha pueden empezar a pagarla las empresas?",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: Ejecutivo alista su postura para concertación con gremios y centrales",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-gobierno-prepara-sus-fichas-para-la-negociacion-con-empresarios-y-sindicatos-506164",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Salario mínimo de 2027: Gobierno prepara sus fichas para la negociación con empresarios y sindicatos",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Supersalud sanciona a Colsubsidio por retrasos en fármacos a afiliados de Sanitas",
-        "url": "https://www.portafolio.co/economia/gobierno/supersalud-toma-medidas-contra-colsubsidio-por-fallas-en-la-entrega-de-medicamentos-a-usuarios-de-sanitas-506165",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Supersalud toma medidas contra Colsubsidio por fallas en la entrega de medicamentos a usuarios de Sanitas",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Turismo desacelera: hospedaje y gastro bajarían 3,4% en 2026 y hoteles facturan 7,5% menos",
-        "url": "https://www.portafolio.co/economia/turismo-pierde-fuerza-alojamiento-y-restaurantes-caerian-3-4-en-2026-y-los-hoteles-facturan-7-5-menos-en-el-ano-506149",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Turismo pierde fuerza: alojamiento y restaurantes caerían 3,4% en 2026 y los hoteles facturan 7,5% menos en el año",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Un millón de hectáreas salen de las APPA: así podría cambiar el panorama de inversión para el agro colombiano",
-        "url": "https://www.portafolio.co/economia/agro/un-millon-de-hectareas-salen-de-las-appa-asi-podria-cambiar-el-panorama-de-inversion-para-el-agro-colombiano-506159",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Un millón de hectáreas salen de las APPA: así podría cambiar el panorama de inversión para el agro colombiano",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal en Colombia presiona tasas de crédito y frena inversión, advierten presidentes de bancos",
-        "url": "https://www.portafolio.co/economia/finanzas/deficit-fiscal-en-colombia-presiona-tasas-de-credito-y-frena-inversion-advierten-presidentes-de-bancos-506160",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Déficit fiscal en Colombia presiona tasas de crédito y frena inversión, advierten presidentes de bancos",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "El ajuste se hará ordenado si seguimos la propuesta o se hará por el mercado de manera desordenada: Minhacienda",
-        "url": "https://www.portafolio.co/economia/el-ajuste-se-hara-ordenado-si-seguimos-la-propuesta-o-se-hara-por-el-mercado-de-manera-desordenada-minhacienda-506155",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "'El ajuste se hará ordenado si seguimos la propuesta o se hará por el mercado de manera desordenada': Minhacienda",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Primicia: Supertransporte pone bajo la lupa las finanzas de OPAIN en inspección integral al aeropuerto El Dorado",
-        "url": "https://www.portafolio.co/economia/infraestructura/primicia-supertransporte-pone-bajo-la-lupa-las-finanzas-de-opain-en-inspeccion-integral-al-aeropuerto-el-dorado-506153",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Primicia: Supertransporte pone bajo la lupa las finanzas de OPAIN en inspección integral al aeropuerto El Dorado",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "LATAM Cargo aumentará por tres su capacidad en Bogotá gracias a un centro de 4.312 m² en El Dorado",
-        "url": "https://www.portafolio.co/economia/infraestructura/latam-cargo-triplicara-su-espacio-de-bodega-en-bogota-con-una-nueva-instalacion-de-4-312-m2-en-el-dorado-506117",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "LATAM Cargo triplicará su espacio de bodega en Bogotá con una nueva instalación de 4.312 m² en El Dorado",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Anif apoya la Ley de Rescate pero exige mayores recortes de gasto y ajustes tributarios estatales",
-        "url": "https://www.portafolio.co/economia/anif-respalda-la-ley-de-rescate-pero-pide-mas-recortes-al-gasto-y-cambios-en-los-impuestos-que-propone-el-gobierno-506138",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Anif respalda la Ley de Rescate, pero pide más recortes al gasto y cambios en los impuestos que propone el Gobierno",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "El salario mínimo de 2027 llegaría a $1,9 millones según proyecciones expertas tras la inflación",
-        "url": "https://www.portafolio.co/economia/empleo/salario-minimo-de-2027-rondaria-los-1-9-millones-segun-nuevas-estimaciones-de-expertos-tras-el-dato-de-inflacion-506128",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Salario mínimo de 2027 rondaría los $1,9 millones, según nuevas estimaciones de expertos tras el dato de inflación",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Tras dos años, la SAE abre convocatoria para que ciudadanos y empresas administren bienes",
-        "url": "https://www.portafolio.co/economia/despues-de-dos-anos-la-sae-vuelve-a-convocar-a-personas-y-empresas-para-gestionar-inmuebles-como-participar-506136",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Después de dos años, la SAE vuelve a convocar a personas y empresas para gestionar inmuebles ¿cómo participar?",
-        "capturado": "2026-11-11T09:56:05-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nissan revela la Kicks e-Power y la Frontier Pro PHEV en el Salón del Automóvil",
+        "url": "https://www.portafolio.co/negocios/vehiculo/nissan-pone-fin-a-la-expectativa-y-presenta-la-frontier-pro-phev-y-la-kicks-e-power-en-el-salon-del-automovil-506327",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Nissan pone fin a la expectativa y presenta la Frontier Pro PHEV y la Kicks e-Power en el Salón del Automóvil",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "BTG conserva postura neutral en Ecopetrol por resultados y retos continuos",
+        "url": "https://www.portafolio.co/negocios/empresas/btg-mantuvo-recomendacion-neutral-sobre-la-accion-de-ecopetrol-tras-resultados-financieros-persisten-desafios-506331",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "BTG mantuvo recomendación 'neutral' sobre la acción de Ecopetrol, tras resultados financieros: 'Persisten desafíos'",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Kia afianza su línea SUV con el Seltos y sus cinco versiones en el año 2026",
+        "url": "https://www.portafolio.co/negocios/vehiculo/kia-lider-en-ventas-de-2026-fortalece-su-segmento-suv-con-el-nuevo-seltos-estas-son-sus-cinco-versiones-506318",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Kia, líder en ventas de 2026, fortalece su segmento SUV con el nuevo Seltos: estas son sus cinco versiones",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Murió a los 110 años Lucio Chiquito Caicedo, fundador de EPM y forjador de Medellín",
+        "url": "https://www.portafolio.co/negocios/empresas/lucio-chiquito-caicedo-ingeniero-que-ayudo-a-crear-epm-y-transformar-medellin-fallecio-a-los-105-anos-506323",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Lucio Chiquito Caicedo, ingeniero que ayudó a crear EPM y transformar Medellín, falleció a los 110 años",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Empresas ironizan la falla de Microsoft con memes sobre Outlook y servicios 365",
+        "url": "https://www.portafolio.co/negocios/empresas/marcas-no-dejaron-pasar-caida-de-microsoft-los-mejores-memes-sobre-la-contingencia-en-servicios-de-outlook-y-506319",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Marcas no dejaron pasar caída de Microsoft: los mejores memes sobre la contingencia en servicios de Outlook y 365",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Aporte de la Fundación Sarmiento Angulo se destinará a Chocó, Risaralda y Valle",
+        "url": "https://www.portafolio.co/negocios/empresas/donacion-fundacion-sarmiento-angulo-asi-se-invertira-en-valle-risaralda-y-choco-506321",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Donación Fundación Sarmiento Angulo: así se invertirá en Valle, Risaralda y Chocó",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Dane reporta incremento del 9,7% en ventas del comercio nacional en septiembre y subida del 1,2% en empleo",
+        "url": "https://www.portafolio.co/negocios/comercio/ventas-del-comercio-colombiano-subieron-9-7-en-septiembre-y-el-empleo-crecio-apenas-1-2-reporta-el-dane-506317",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Ventas del comercio colombiano subieron 9,7% en septiembre y el empleo creció apenas 1,2%, reporta el Dane",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Utilidades del Grupo Energía Bogotá disminuyeron 19%: motivos del balance financiero",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-energia-bogota-reporto-caida-del-19-en-sus-utilidades-estas-son-las-razones-detras-del-resultado-506316",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Grupo Energía Bogotá reportó caída del 19% en sus utilidades: estas son las razones detrás del resultado",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
+      {
+        "titulo": "Producción de la industria manufacturera subió 1,5% en septiembre, aunque 20 sectores continuaron cayendo",
+        "url": "https://www.portafolio.co/negocios/industrias/industria-manufacturera-crecio-1-5-en-septiembre-pero-20-actividades-siguieron-con-produccion-a-la-baja-506315",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Industria manufacturera creció 1,5% en septiembre, pero 20 actividades siguieron con producción a la baja",
+        "capturado": "2026-11-13T16:11:32-05:00"
+      },
       {
         "titulo": "La competencia para captar capital se transforma: conozca los nuevos intereses corporativos",
         "url": "https://www.portafolio.co/negocios/empresas/la-carrera-por-atraer-inversion-esta-cambiando-estos-son-los-nuevos-factores-que-buscan-las-empresas-506302",
@@ -1115,96 +1205,6 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "LeanCore administrará la cartera de 500.000 usuarios de Somos para acelerar la inclusión financiera en Colombia",
         "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "En noviembre, durante la Milagro Week en Nueva York, Colombia procurará US$41.900 millones para 97 obras",
-        "url": "https://www.portafolio.co/negocios/inversion/colombia-buscara-us-41-900-millones-para-97-proyectos-durante-la-milagro-week-de-nueva-york-en-noviembre-506093",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Colombia buscará US$41.900 millones para 97 proyectos durante la Milagro Week de Nueva York en noviembre",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "CEO de Ternium pide proteger al sector frente a la llegada de acero chino",
-        "url": "https://www.portafolio.co/negocios/empresas/hay-que-defender-la-industria-ante-la-importacion-de-acero-de-china-ceo-de-ternium-506074",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "‘Hay que defender la industria ante la importación de acero de China’: CEO de Ternium",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Millicom aumenta su pasivo a US$8.000 millones por crecimiento regional y compra a Telefónica",
-        "url": "https://www.portafolio.co/negocios/empresas/millicom-eleva-su-deuda-a-us-8-000-millones-tras-expansion-regional-y-compra-de-operaciones-de-telefonica-506092",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Millicom eleva su deuda a US$8.000 millones tras expansión regional y compra de operaciones de Telefónica",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Supersociedades evalúa liquidar a Helicol y pone en peligro su proceso de reorganización",
-        "url": "https://www.portafolio.co/negocios/empresas/helicol-podria-entrar-en-liquidacion-la-decision-de-la-supersociedades-que-pone-en-riesgo-su-reorganizacion-506086",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Helicol podría entrar en liquidación: la decisión de la Supersociedades que pone en riesgo su reorganización",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Faranda descarta nuevos socios, proyecta 60 hoteles al cierre de 2027 y apunta a 100 en 2030",
-        "url": "https://www.portafolio.co/negocios/empresas/no-esta-planteado-que-entren-nuevos-accionistas-faranda-busca-cerrar-2027-con-60-hoteles-y-apunta-a-100-en-506075",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "'No está planteado que entren nuevos accionistas': Faranda busca cerrar 2027 con 60 hoteles y apunta a 100 en 2030",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Estas son las categorías de productos preferidas por los colombianos para el Black Friday",
-        "url": "https://www.portafolio.co/negocios/comercio/que-compraran-los-colombianos-en-black-friday-estas-son-las-categorias-de-productos-que-marcan-la-tendencia-506083",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "¿Qué comprarán los colombianos en Black Friday? Estas son las categorías de productos que marcan la tendencia",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Gobierno y gremios celebran la llegada de Luz Stella Murgas a la Andi tras su elección",
-        "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-llega-a-la-andi-entre-felicitaciones-del-gobierno-y-los-gremios-esto-dijeron-tras-su-eleccion-506081",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Luz Stella Murgas llega a la Andi entre felicitaciones del Gobierno y los gremios: esto dijeron tras su elección",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Cinco amenazas corporativas para 2027: inteligencia artificial, geopolítica y el fenómeno de El Niño",
-        "url": "https://www.portafolio.co/negocios/empresas/el-nino-la-geopolitica-y-la-inteligencia-artificial-los-cinco-riesgos-que-pondran-a-prueba-a-las-empresas-en-506079",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "El Niño, la geopolítica y la inteligencia artificial: los cinco riesgos que pondrán a prueba a las empresas en 2027",
-        "capturado": "2026-11-10T14:21:20-05:00"
-      },
-      {
-        "titulo": "Luz Stella Murgas asume la presidencia de la Andi",
-        "url": "https://www.portafolio.co/negocios/industrias/luz-stella-murgas-fue-elegida-como-nueva-presidenta-de-la-andi-506078",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Luz Stella Murgas fue elegida como nueva presidenta de la Andi",
-        "capturado": "2026-11-10T14:21:20-05:00"
       }
     ]
   }
