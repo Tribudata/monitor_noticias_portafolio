@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-13T20:34:38-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-14T03:38:13-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Soacha atrae empresas y habilitará tres corredores viales de acceso y salida",
+        "url": "https://www.portafolio.co/economia/gobierno/soacha-se-abre-a-nuevas-industrias-y-tendran-tres-vias-de-entrada-y-salida-506362",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Soacha se abre a nuevas industrias y tendrán tres vías de entrada y salida",
+        "capturado": "2026-11-14T03:38:13-05:00"
+      },
+      {
+        "titulo": "El exministro y directivo de Ecopetrol Luis Felipe Henao asume la gerencia del Fondo Milagro",
+        "url": "https://www.portafolio.co/economia/gobierno/luis-felipe-henao-exministro-de-vivienda-y-directivo-de-ecopetrol-llega-a-la-gerencia-del-fondo-milagro-506360",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Luis Felipe Henao, exministro de Vivienda y directivo de Ecopetrol, llega a la gerencia del Fondo Milagro",
+        "capturado": "2026-11-14T03:38:13-05:00"
+      },
       {
         "titulo": "Aerocivil informa sobre los trayectos alterados entre Colombia y EE UU y cuáles siguen funcionando bien",
         "url": "https://www.portafolio.co/economia/gobierno/aerocivil-entrega-detalles-sobre-los-vuelos-afectados-entre-colombia-y-estados-unidos-estas-rutas-operan-normal-506359",
@@ -582,26 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-11-11",
         "titulo_fuente": "Corte Constitucional declaró exequible la emergencia económica: estas son las condiciones que impuso al Gobierno",
-        "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "El Metro de Medellín permite pagar con tarjetas débito y crédito para entrar a las estaciones",
-        "url": "https://www.portafolio.co/economia/regiones/metro-de-medellin-habilita-pagos-con-tarjetas-debito-y-credito-asi-funcionara-el-ingreso-a-las-estaciones-506187",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Metro de Medellín habilita pagos con tarjetas débito y crédito: así funcionará el ingreso a las estaciones",
-        "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "Un posible arancel del 83 % a llantas chinas subiría pasajes de bus y fletes de carga en el país",
-        "url": "https://www.portafolio.co/economia/impuestos/eventual-arancel-del-83-a-las-llantas-chinas-podria-encarecer-los-pasajes-de-bus-y-fletes-de-carga-en-colombia-506183",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Impuestos",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Eventual arancel del 83 % a las llantas chinas podría encarecer los pasajes de bus y fletes de carga en Colombia",
         "capturado": "2026-11-11T21:41:50-05:00"
       }
     ],
