@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-14T10:34:36-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-14T15:25:59-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "DANE reporta que las entradas de agencias de viajes subieron 2,5% en septiembre y bajaron desde el 9,7%",
+        "url": "https://www.portafolio.co/economia/agencias-de-viaje-frenan-sus-ingresos-crecieron-2-5-en-septiembre-frente-al-9-7-de-hace-un-ano-segun-el-dane-506390",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Agencias de viaje frenan: sus ingresos crecieron 2,5% en septiembre, frente al 9,7% de hace un año, según el DANE",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "ANI rescata acuerdo del Tercer Carril Bogotá-Girardot y previene que el Gobierno opere la carretera",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-salva-el-contrato-del-tercer-carril-bogota-girardot-y-evita-que-el-estado-asuma-la-operacion-de-la-via-506385",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "ANI salva el contrato del Tercer Carril Bogotá-Girardot y evita que el Estado asuma la operación de la vía",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Atención médica en Colombia sin WhatsApp: de esta forma se transforma el servicio a los enfermos",
+        "url": "https://www.portafolio.co/economia/gobierno/whatsapp-ya-no-servira-para-consultas-medicas-en-colombia-asi-cambia-la-atencion-a-los-pacientes-506383",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "WhatsApp ya no servirá para consultas médicas en Colombia: así cambia la atención a los pacientes",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Demoras en la primera línea del Metro de Bogotá: este es el motivo de su fase más dura, dice Galán",
+        "url": "https://www.portafolio.co/economia/infraestructura/retrasos-en-el-metro-de-bogota-esta-es-la-razon-segun-el-alcalde-galan-de-por-que-enfrenta-su-etapa-mas-dificil-506381",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Retrasos en el Metro de Bogotá: esta es la razón, según el alcalde Galán, de por qué enfrenta su etapa más difícil",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Tecnoglass y Grupo Argos destinarán más de $7.500 millones para finalizar una calle norteña en Barranquilla",
+        "url": "https://www.portafolio.co/economia/infraestructura/grupo-argos-y-tecnoglass-invertiran-mas-de-7-500-millones-para-terminar-una-via-publica-del-norte-de-barranquilla-506375",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Grupo Argos y Tecnoglass invertirán más de $7.500 millones para terminar una vía pública del norte de Barranquilla",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Causa de la preclusión de la indagación a Álvaro Uribe por supuesto soborno de testigos en la Fiscalía",
+        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-archiva-investigacion-contra-alvaro-uribe-por-presunto-soborno-a-testigos-estas-son-las-razones-506376",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Fiscalía archiva investigación contra Álvaro Uribe por presunto soborno a testigos: estas son las razones",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Gobierno entrega administración del Fondo del Café a Fedecafeteros por una década y exige buen manejo",
+        "url": "https://www.portafolio.co/economia/agro/recursos-del-cafe-no-pueden-ser-cajas-menores-la-condicion-del-gobierno-al-renovar-el-fondo-nacional-del-cafe-506373",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Fedecafeteros administrará Fondos del Café por 10 años: Gobierno pidió no utilizarlos como 'cajas menores'",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Puente de Venecia habilita ramal que conecta av. 68 con AutoSur y mejora movilidad hacia Bosa y Soacha",
+        "url": "https://www.portafolio.co/economia/infraestructura/conexion-directa-de-la-av-68-a-la-autosur-nuevo-ramal-del-puente-de-venecia-agiliza-los-viajes-a-bosa-y-soacha-506371",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Conexión directa de la av. 68 a la AutoSur: nuevo ramal del puente de Venecia agiliza los viajes a Bosa y Soacha",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
       {
         "titulo": "Fondo Milagro: perfil de Luis Felipe Henao y dudas sobre su permanencia en la junta de Ecopetrol",
         "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-quien-es-luis-felipe-henao-y-que-se-sabe-sobre-su-continuidad-en-la-junta-de-ecopetrol-506369",
@@ -523,89 +603,49 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Emergencia en El Dorado: avión que iba de Ecuador a Curazao se desvió a Bogotá por falla mecánica",
         "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Angie Rodríguez contó la supuesta solicitud de Gustavo Petro sobre Vanessa Cortés: Es mi pareja oficial",
-        "url": "https://www.portafolio.co/economia/gobierno/angie-rodriguez-revelo-la-peticion-que-gustavo-petro-le-habria-hecho-sobre-vanessa-cortes-es-mi-pareja-oficial-506242",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Angie Rodríguez reveló la petición que Gustavo Petro le habría hecho sobre Vanessa Cortés: 'Es mi pareja oficial'",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Nuevas propuestas de Cristian Stapper como representante económico ante el Consejo Nacional de Planeación",
-        "url": "https://www.portafolio.co/economia/gobierno/cristian-stapper-nuevo-representante-economico-ante-el-consejo-nacional-de-planeacion-estas-son-sus-propuestas-506235",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Cristian Stapper, nuevo representante económico ante el Consejo Nacional de Planeación: estas son sus propuestas",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Comercio exterior alerta sobrecostos y retrasos por fallas en sistemas de la Dian",
-        "url": "https://www.portafolio.co/economia/fallas-en-plataformas-de-la-dian-ponen-en-alerta-al-comercio-exterior-advierten-sobrecostos-y-retrasos-506241",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Fallas en plataformas de la Dian ponen en alerta al comercio exterior: advierten sobrecostos y retrasos",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Agencias de viajes colombianas vigilan de cerca los tributos y la venta de pasajes aéreos",
-        "url": "https://www.portafolio.co/economia/agencias-de-viajes-en-colombia-ponen-la-lupa-sobre-impuestos-y-comercializacion-de-tiquetes-aereos-506240",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Agencias de viajes en Colombia ponen la lupa sobre impuestos y comercialización de tiquetes aéreos",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Inversionistas del exterior adquirieron $10,2 billones en TES en octubre e impusieron récord histórico",
-        "url": "https://www.portafolio.co/economia/extranjeros-compraron-10-2-billones-en-tes-en-octubre-y-marcaron-un-maximo-historico-en-el-mercado-colombiano-506225",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Extranjeros compraron $10,2 billones en TES en octubre y marcaron un máximo histórico en el mercado colombiano",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Fedearroz advierte sobre el IVA a insumos agrícolas y señala los peligros para el sector rural",
-        "url": "https://www.portafolio.co/economia/agro/fedearroz-lanza-una-alerta-por-el-iva-a-los-insumos-agropecuarios-estos-serian-los-riesgos-para-el-campo-506213",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Fedearroz lanza una alerta por el IVA a los insumos agropecuarios: estos serían los riesgos para el campo",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Tasa máxima de la divisa en Colombia rebasa los $3.300 el jueves 12 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-mercado-regresa-a-la-normalidad-tras-jornada-de-next-day-por-festivo-en-ee-uu-506207",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Precio máximo del dólar en Colombia supera los $3.300 este jueves 12 de noviembre",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Contraloría advierte demoras en el Metro de Bogotá previo a pruebas y faltan 1.500 empleados",
-        "url": "https://www.portafolio.co/economia/regiones/contraloria-alerta-retrasos-del-metro-de-bogota-antes-de-pruebas-faltan-1-500-trabajadores-506203",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Contraloría alerta retrasos del Metro de Bogotá antes de pruebas: faltan 1.500 trabajadores",
-        "capturado": "2026-11-12T13:42:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Centro comercial de Bogotá tendrá presentaciones musicales y eventos sin costo hasta fin de año",
+        "url": "https://www.portafolio.co/negocios/empresas/navidad-en-bogota-centro-comercial-anuncia-conciertos-y-actividades-gratuitas-hasta-diciembre-506388",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Navidad en Bogotá: centro comercial anuncia conciertos y actividades gratuitas hasta diciembre",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Nu alcanza tres millones de tarjetas de crédito en el país y lidera el sector sin oficinas físicas",
+        "url": "https://www.portafolio.co/negocios/empresas/sin-una-sola-sucursal-nu-ya-es-la-entidad-con-mas-tarjetas-de-credito-en-colombia-con-3-millones-de-personas-506377",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Sin una sola sucursal, Nu ya es la entidad con más tarjetas de crédito en Colombia con 3 millones de personas",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "Microsoft anuncia la solución de su caída global y el restablecimiento de Outlook, Teams y Copilot",
+        "url": "https://www.portafolio.co/negocios/empresas/microsoft-confirma-que-soluciono-la-falla-mundial-ya-funcionan-outlook-teams-y-copilot-506378",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Microsoft confirma que solucionó la falla mundial: ¿ya funcionan Outlook, Teams y Copilot?",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
+      {
+        "titulo": "El futuro de Nvidia sin Jensen Huang: balances, nuevo director y exigencias del legislativo estadounidense",
+        "url": "https://www.portafolio.co/negocios/empresas/que-viene-para-nvidia-tras-la-salida-de-jensen-huang-resultados-nuevo-ceo-y-presion-del-congreso-de-ee-uu-506374",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Qué viene para Nvidia tras la salida de Jensen Huang: resultados, nuevo CEO y presión del Congreso de EE. UU.",
+        "capturado": "2026-11-14T15:25:59-05:00"
+      },
       {
         "titulo": "Escándalos amorosos de altos directivos que impactaron sus finanzas bursátiles",
         "url": "https://www.portafolio.co/negocios/empresas/infidelidades-que-costaron-millones-los-ceo-que-llevaron-sus-escandalos-amorosos-hasta-la-bolsa-506370",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "De Cipriano Restrepo a Luz Stella Murgas: estos son los 12 presidentes que ha tenido la Andi en 82 años",
         "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Palomma recibe inversión de US$14 millones para convertirse en el Nu de los arriendos",
-        "url": "https://www.portafolio.co/negocios/empresas/palomma-recibe-inversion-de-us-14-millones-para-convertirse-en-el-nu-de-los-arriendos-506130",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Palomma recibe inversión de US$14 millones para convertirse en el 'Nu de los arriendos'",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "El déficit de cuidadores formales en Colombia, otro reto de la economía de la longevidad",
-        "url": "https://www.portafolio.co/negocios/industrias/el-deficit-de-cuidadores-formales-en-colombia-otro-reto-de-la-economia-de-la-longevidad-506125",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "El déficit de cuidadores formales en Colombia, otro reto de la economía de la longevidad",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "Sector del calzado solicita al Gobierno examinar tributos a adquisiciones en webs extranjeras",
-        "url": "https://www.portafolio.co/negocios/industrias/industria-del-calzado-pide-al-gobierno-revisar-impuestos-a-compras-en-plataformas-internacionales-esta-es-la-razon-506101",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Industria del calzado pide al Gobierno revisar impuestos a compras en plataformas internacionales: esta es la razón",
-        "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito obtuvo ganancias por unos $436.000 millones en 2026 en el tercer trimestre",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-gano-cerca-de-436-000-millones-en-2026-asi-crecieron-sus-utilidades-en-el-tercer-trimestre-506100",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Grupo Éxito ganó cerca de $436.000 millones en 2026: así crecieron sus utilidades en el tercer trimestre",
-        "capturado": "2026-11-11T01:55:32-05:00"
       }
     ]
   }
