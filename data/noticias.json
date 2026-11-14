@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-13T16:11:32-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-11-13T20:34:38-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Aerocivil informa sobre los trayectos alterados entre Colombia y EE UU y cuáles siguen funcionando bien",
+        "url": "https://www.portafolio.co/economia/gobierno/aerocivil-entrega-detalles-sobre-los-vuelos-afectados-entre-colombia-y-estados-unidos-estas-rutas-operan-normal-506359",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Aerocivil entrega detalles sobre los vuelos afectados entre Colombia y Estados Unidos: estas rutas operan normal",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Destraban Accesos Norte a Bogotá luego de seis años detenidos y harán 3,4 kilómetros de doble calzada",
+        "url": "https://www.portafolio.co/economia/infraestructura/destraban-accesos-norte-a-bogota-tras-seis-anos-de-paralisis-construiran-3-4-kilometros-de-doble-calzada-506357",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Destraban Accesos Norte a Bogotá tras seis años de parálisis: construirán 3,4 kilómetros de doble calzada",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Línea 4 del Metro de Bogotá obtiene gran apoyo financiero: Nación precisa su aporte para la obra",
+        "url": "https://www.portafolio.co/economia/gobierno/linea-4-del-metro-de-bogota-recibe-millonario-impulso-gobierno-nacional-confirma-cuanto-pondra-para-el-proyecto-506358",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Línea 4 del Metro de Bogotá recibe millonario impulso: Gobierno nacional confirma cuánto pondrá para el proyecto",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Gobierno destina $255.000 millones para importante vía de Córdoba que impactará a más de 426.000 personas",
+        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-anuncia-inversion-de-255-000-millones-para-via-clave-de-cordoba-beneficiara-a-mas-de-426-000-personas-506356",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Gobierno anuncia inversión de $255.000 millones para vía clave de Córdoba: beneficiará a más de 426.000 personas",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Hospitales, colegios y vías reciben los $200.000 millones donados por Sarmiento Angulo por el sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/hospitales-colegios-y-vias-asi-se-distribuyen-los-200-000-millones-que-dono-sarmiento-angulo-tras-el-terremoto-506341",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Hospitales, colegios y vías: así se distribuyen los $200.000 millones que donó Sarmiento Angulo tras el terremoto",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Superan las 25.000 ofertas de empleo disponibles al concluir la tercera jornada de la Empleatón 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/mas-de-25-000-vacantes-activas-tras-el-tercer-dia-de-la-empleaton-nacional-506350",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Más de 25.000 vacantes activas tras el tercer día de la Empleatón Nacional 2026",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Supersalud informa cantidad de fármacos entregados a afiliados tras vigilancia a Sanitas y Colsubsidio",
+        "url": "https://www.portafolio.co/economia/gobierno/seguimiento-a-sanitas-y-colsubsidio-supersalud-revelo-cuantos-medicamentos-ya-han-entregado-a-los-usuarios-506347",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Seguimiento a Sanitas y Colsubsidio: Supersalud reveló cuántos medicamentos ya han entregado a los usuarios",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
+      {
+        "titulo": "Ejecutivo expone Ley de Rescate ante el Banco Mundial en cita crucial sobre finanzas de Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-presenta-la-ley-de-rescate-al-banco-mundial-reunion-clave-sobre-la-situacion-fiscal-de-colombia-506346",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Gobierno presenta la Ley de Rescate al Banco Mundial, reunión clave sobre la situación fiscal de Colombia",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
       {
         "titulo": "Venta directa genera $7,5 billones con 2,4 millones de colombianos en la nueva economía del ingreso extra",
         "url": "https://www.portafolio.co/economia/finanzas/la-nueva-economia-del-ingreso-extra-venta-directa-mueve-7-5-billones-y-reune-a-2-4-millones-de-colombianos-506338",
@@ -523,89 +603,19 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "Eventual arancel del 83 % a las llantas chinas podría encarecer los pasajes de bus y fletes de carga en Colombia",
         "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "Andrés Puyo asumiría la presidencia del Banco Agrario y su trayectoria en el sector financiero suma casi tres tr",
-        "url": "https://www.portafolio.co/economia/finanzas/andres-puyo-seria-nuevo-presidente-del-banco-agrario-este-es-su-recorrido-de-casi-30-anos-en-la-banca-506178",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Andrés Puyo sería nuevo presidente del Banco Agrario: este es su recorrido de casi 30 años en la banca",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Fasecolda indica que a tres meses del temblor del 10 de agosto, las indemnizaciones por perjuicios crecieron 13,5%",
-        "url": "https://www.portafolio.co/economia/infraestructura/tres-meses-despues-del-sismo-del-10-de-agosto-pagos-de-aseguradoras-por-danos-aumentaron-13-5-asegura-fasecolda-506173",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Tres meses después del sismo del 10 de agosto, pagos de aseguradoras por daños aumentaron 13,5%, asegura Fasecolda",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Cierre de 37 IPS en Atlántico motivado por irregularidades como personal sin titulación y fármacos caducados",
-        "url": "https://www.portafolio.co/economia/regiones/desde-personal-sin-titulo-hasta-medicamentos-vencidos-las-fallas-que-llevaron-al-cierre-de-37-ips-en-atlantico-506162",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Desde personal sin titulo hasta medicamentos vencidos: las fallas que llevaron al cierre de 37 IPS en Atlántico",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Borrador del Plan de desarrollo busca la sostenibilidad fiscal regulando el déficit, la deuda y el gasto público",
-        "url": "https://www.portafolio.co/economia/borrador-del-plan-de-desarrollo-preve-recuperar-la-sostenibilidad-fiscal-controlando-deficit-deuda-y-gasto-publico-506180",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Borrador del Plan de desarrollo prevé recuperar la sostenibilidad fiscal controlando déficit, deuda y gasto público",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Cientos de puestos de trabajo disponibles en Colombia durante la segunda jornada de Empleatón",
-        "url": "https://www.portafolio.co/economia/finanzas/segundo-dia-de-empleaton-miles-de-vacantes-activas-en-colombia-506179",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Segundo día de Empleatón: miles de vacantes activas en Colombia",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Iniciativa liderada por un Nobel pretende hallar talentos en planteles educativos públicos colombianos",
-        "url": "https://www.portafolio.co/economia/regiones/este-proyecto-impulsado-por-un-nobel-busca-genios-en-los-colegios-publicos-de-colombia-506172",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Este proyecto, impulsado por un Nobel, busca 'genios' en los colegios públicos de Colombia",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Comerciantes alertan que cerveza de $3.500 subiría a más de $5.200 por Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/crecimiento/tenderos-advierten-que-una-cerveza-que-hoy-cuesta-3-500-podria-superar-los-5-200-con-la-ley-de-rescate-506167",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Tenderos advierten que una cerveza que hoy cuesta $3.500 podría superar los $5.200 con la Ley de Rescate",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "De Caminos Comunitarios a Caminos del Tigre: plan oficial para adecuar 30.000 km viales",
-        "url": "https://www.portafolio.co/economia/infraestructura/de-caminos-comunitarios-a-caminos-del-tigre-la-ruta-del-gobierno-para-intervenir-30-000-km-de-vias-regionales-506142",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "De ‘Caminos Comunitarios’ a ‘Caminos del Tigre’: la ruta del Gobierno para intervenir 30.000 km de vías regionales",
-        "capturado": "2026-11-11T16:46:26-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Nueva alternativa frente a arancel a llantas chinas bajaría costos hasta un 41,7 por ciento",
+        "url": "https://www.portafolio.co/negocios/comercio/importacion-de-llantas-chinas-una-alternativa-podria-reducir-hasta-41-7-los-costos-de-los-transportadores-506345",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "Posible arancel a importación de llantas chinas: la alternativa que podría reducir hasta 41,7 % los costos",
+        "capturado": "2026-11-13T20:34:38-05:00"
+      },
       {
         "titulo": "Nissan revela la Kicks e-Power y la Frontier Pro PHEV en el Salón del Automóvil",
         "url": "https://www.portafolio.co/negocios/vehiculo/nissan-pone-fin-a-la-expectativa-y-presenta-la-frontier-pro-phev-y-la-kicks-e-power-en-el-salon-del-automovil-506327",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-10",
         "titulo_fuente": "Nvidia profundizó su caída: este martes perdió más de 6% en bolsa y restó US$400.000 millones a su capital",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "LeanCore gestionará los créditos de medio millón de clientes de Somos para impulsar la inclusión en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/leancore-administrara-la-cartera-de-500-000-usuarios-de-somos-para-acelerar-la-inclusion-financiera-en-colombia-506082",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "LeanCore administrará la cartera de 500.000 usuarios de Somos para acelerar la inclusión financiera en Colombia",
         "capturado": "2026-11-10T19:10:24-05:00"
       }
     ]
