@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-14T03:38:13-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-14T10:34:36-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Fondo Milagro: perfil de Luis Felipe Henao y dudas sobre su permanencia en la junta de Ecopetrol",
+        "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-quien-es-luis-felipe-henao-y-que-se-sabe-sobre-su-continuidad-en-la-junta-de-ecopetrol-506369",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Fondo Milagro: quién es Luis Felipe Henao y qué se sabe sobre su continuidad en la junta de Ecopetrol",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
+      {
+        "titulo": "Nueva composición en la mesa del salario mínimo: delegados que negociarán junto a De la Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/cambio-la-mesa-del-salario-minimo-los-nuevos-representantes-que-negociaran-con-de-la-espriella-506364",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Cambió la mesa del salario mínimo: los nuevos representantes que negociarán con De la Espriella",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
       {
         "titulo": "Soacha atrae empresas y habilitará tres corredores viales de acceso y salida",
         "url": "https://www.portafolio.co/economia/gobierno/soacha-se-abre-a-nuevas-industrias-y-tendran-tres-vias-de-entrada-y-salida-506362",
@@ -583,29 +603,59 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Contraloría alerta retrasos del Metro de Bogotá antes de pruebas: faltan 1.500 trabajadores",
         "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "El Gobierno plantea en el PND cuentas de ahorro para menores nacidos entre 2027 y 2030 al estilo Trump",
-        "url": "https://www.portafolio.co/economia/gobierno/con-el-pnd-gobierno-propone-cuentas-de-ahorro-para-ninos-similares-a-las-de-trump-para-nacidos-entre-2027-y-506191",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Con el PND, Gobierno propone cuentas de ahorro para niños similares a las de Trump para nacidos entre 2027 y 2030",
-        "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "La Corte Constitucional avaló la emergencia económica y fijó condiciones para el Gobierno",
-        "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-declaro-exequible-la-emergencia-economica-estas-son-las-condiciones-que-impuso-al-gobierno-506190",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Corte Constitucional declaró exequible la emergencia económica: estas son las condiciones que impuso al Gobierno",
-        "capturado": "2026-11-11T21:41:50-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Escándalos amorosos de altos directivos que impactaron sus finanzas bursátiles",
+        "url": "https://www.portafolio.co/negocios/empresas/infidelidades-que-costaron-millones-los-ceo-que-llevaron-sus-escandalos-amorosos-hasta-la-bolsa-506370",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Infidelidades que costaron millones: los CEO que llevaron sus escándalos amorosos hasta la bolsa",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
+      {
+        "titulo": "Nubank obtiene licencia bancaria en Brasil y se analizan las implicaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/nubank-ya-es-banco-en-brasil-el-banco-central-aprobo-la-compra-de-banco-porto-real-y-le-otorga-licencia-bancaria-506368",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Nubank ya es banco en Brasil: ¿qué significa haber recibido esa autorización en su país de origen?",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
+      {
+        "titulo": "Nuevos cambios tras la autorización de Nubank para funcionar como banco en Brasil",
+        "url": "https://www.portafolio.co/negocios/empresas/nubank-recibe-aprobacion-para-operar-como-banco-en-brasil-estos-son-los-cambios-506366",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Nubank recibe aprobación para operar como banco en Brasil: estos son los cambios",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
+      {
+        "titulo": "SIC archiva investigación a Ecopetrol por contratos de helicópteros y evita multa de 525.271 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-se-libra-de-una-multa-de-525-271-millones-la-sic-archivo-el-caso-por-contratos-de-helicopteros-506365",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Ecopetrol se libra de una multa de $525.271 millones: la SIC archivó el caso por contratos de helicópteros",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
+      {
+        "titulo": "Acciones de Nvidia bajan en Wall Street sin llegar a un desplome mayor tras la jornada",
+        "url": "https://www.portafolio.co/negocios/empresas/las-acciones-de-nvidia-cayeron-pero-evitaron-un-desplome-mayor-que-paso-en-wall-street-y-como-cerraron-506367",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Las acciones de Nvidia cayeron, pero evitaron un desplome mayor: qué pasó en Wall Street y cómo cerraron",
+        "capturado": "2026-11-14T10:34:36-05:00"
+      },
       {
         "titulo": "Nueva alternativa frente a arancel a llantas chinas bajaría costos hasta un 41,7 por ciento",
         "url": "https://www.portafolio.co/negocios/comercio/importacion-de-llantas-chinas-una-alternativa-podria-reducir-hasta-41-7-los-costos-de-los-transportadores-506345",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "Grupo Éxito ganó cerca de $436.000 millones en 2026: así crecieron sus utilidades en el tercer trimestre",
         "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Grupo Recordar efectúa nueva adquisición en el sector funerario para expandir su negocio",
-        "url": "https://www.portafolio.co/negocios/empresas/nueva-movida-empresarial-en-el-sector-funerario-grupo-recordar-anuncia-nueva-compra-y-amplia-su-operacion-506099",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Nueva movida empresarial en el sector funerario: Grupo Recordar anuncia nueva compra y amplía su operación",
-        "capturado": "2026-11-11T01:55:32-05:00"
-      },
-      {
-        "titulo": "Este es el mensaje inicial de Luz Stella Murgas sobre su gestión al frente de la Andi",
-        "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-senala-como-sera-su-liderazgo-en-la-andi-este-fue-su-primer-mensaje-506096",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Luz Stella Murgas señala cómo será su liderazgo en la Andi: este fue su primer mensaje",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Seis instituciones de educación superior bogotanas brindan subsidios y rebajas de hasta el 75 por ciento",
-        "url": "https://www.portafolio.co/negocios/inversion/no-le-alcanza-el-dinero-para-estudiar-estas-6-universidades-de-bogota-ofrecen-becas-y-descuentos-de-hasta-el-506080",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "¿No le alcanza el dinero para estudiar? Estas 6 universidades de Bogotá ofrecen becas y descuentos de hasta el 75%",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Tesla ajusta su fabricación y prioriza la conducción autónoma tras concluir la Cybertruck",
-        "url": "https://www.portafolio.co/negocios/vehiculo/tesla-reorganiza-su-produccion-tras-el-fin-de-la-cybertruck-ahora-redobla-su-apuesta-por-el-negocio-autonomo-506094",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Tesla reorganiza su producción: tras el 'fin' de la Cybertruck, ahora redobla su apuesta por el negocio autónomo",
-        "capturado": "2026-11-10T19:10:24-05:00"
-      },
-      {
-        "titulo": "Nvidia acentuó su descenso bursátil este martes al ceder más del 6 por ciento y US$400.000 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/nvidia-profundizo-su-caida-este-martes-perdio-mas-de-6-en-bolsa-y-resto-us-400-000-millones-a-su-capital-506087",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Nvidia profundizó su caída: este martes perdió más de 6% en bolsa y restó US$400.000 millones a su capital",
-        "capturado": "2026-11-10T19:10:24-05:00"
       }
     ]
   }
