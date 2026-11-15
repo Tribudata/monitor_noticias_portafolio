@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-15T01:56:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-15T09:36:04-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Ocampo pone en duda las cifras de la Ley de Rescate: la reducción del gasto daría apenas el 25% del ajuste",
+        "url": "https://www.portafolio.co/economia/gobierno/ocampo-cuestiona-las-cuentas-de-la-ley-de-rescate-recorte-de-gasto-aportaria-solo-el-25-del-ajuste-fiscal-506402",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Ocampo cuestiona las cuentas de la Ley de Rescate: recorte de gasto aportaría solo el 25% del ajuste fiscal",
+        "capturado": "2026-11-15T09:36:04-05:00"
+      },
+      {
+        "titulo": "UNGRD asigna 7,71 billones de pesos para rehabilitar 778 localidades golpeadas por la ola invernal",
+        "url": "https://www.portafolio.co/economia/gobierno/ungrd-aprueba-7-71-billones-para-recuperar-778-municipios-afectados-por-el-frente-frio-506399",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "UNGRD aprueba $7,71 billones para recuperar 778 municipios afectados por el Frente Frío",
+        "capturado": "2026-11-15T09:36:04-05:00"
+      },
       {
         "titulo": "Gobierno plantea gravamen del 5% a criptoactivos no declarados para normalizar cuentas con la Dian",
         "url": "https://www.portafolio.co/economia/criptomonedas-sin-declarar-gobierno-propone-impuesto-del-5-para-ponerse-al-dia-con-la-dian-506398",
@@ -583,29 +603,19 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Colombia completaría seis años consecutivos con la inflación por encima de la meta del Banco de la República",
         "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Experto sugiere incremento del 8,4% al salario mínimo de 2027 y alerta peligros de aumentos de dos cifras",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-economista-propone-subirlo-8-4-y-advierte-sobre-los-riesgos-de-alzas-de-dos-digitos-506259",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Salario mínimo 2027: economista propone subirlo 8,4% y advierte sobre los riesgos de alzas de dos dígitos",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Exmandatario Uribe plantea ponencia alterna ante la ley de salvavidas fiscal del Gobierno De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/uribe-propone-eliminar-el-4x1-000-y-otros-impuestos-estos-son-los-cambios-planteados-a-la-ley-de-ajuste-fiscal-506257",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Expresidente Uribe propone una ponencia sustitutiva frente a la ley de rescate fiscal del Gobierno De La Espriella",
-        "capturado": "2026-11-12T18:58:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Juanes fue la figura central en la inauguración de DAVIarena en Sabaneta, la cual tuvo boletería agotada",
+        "url": "https://www.portafolio.co/negocios/empresas/daviarena-abrio-sus-puertas-en-sabaneta-con-la-boleteria-agotada-y-con-juanes-como-protagonista-506400",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "DAVIarena abrió sus puertas en Sabaneta con la boletería agotada y tuvo a Juanes como protagonista",
+        "capturado": "2026-11-15T09:36:04-05:00"
+      },
       {
         "titulo": "JMEV llega al Salón del Automóvil con la SUV eléctrica GSX de 610 km de autonomía para competir con precio",
         "url": "https://www.portafolio.co/negocios/vehiculo/jmev-trae-al-salon-del-automovil-su-suv-electrica-gsx-tiene-610-km-de-autonomia-y-busca-competir-con-precio-506395",
@@ -1194,16 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-11-11",
         "titulo_fuente": "Colombia registra la inversión más baja en 60 años: Corfi ubica el indicador en 15,7% del PIB para 2026",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Retorno de Venezuela dinamiza la moda: Colombia incrementa sus exportaciones de prendas al vecino país en 2026",
-        "url": "https://www.portafolio.co/negocios/comercio/el-regreso-de-venezuela-sacude-el-negocio-de-la-moda-colombia-acelera-sus-ventas-de-ropa-al-pais-vecino-en-el-506143",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "El regreso de Venezuela sacude el negocio de la moda: Colombia acelera sus ventas de ropa al país vecino en el 2026",
         "capturado": "2026-11-11T16:46:26-05:00"
       }
     ]
