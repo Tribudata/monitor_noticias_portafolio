@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-14T15:25:59-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-14T19:05:23-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno plantea gravamen del 5% a criptoactivos no declarados para normalizar cuentas con la Dian",
+        "url": "https://www.portafolio.co/economia/criptomonedas-sin-declarar-gobierno-propone-impuesto-del-5-para-ponerse-al-dia-con-la-dian-506398",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Criptomonedas sin declarar: Gobierno propone impuesto del 5% para ponerse al día con la Dian",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
+      {
+        "titulo": "Tendencia de compra en noviembre: motivos por los cuales este mes resulta crucial para la Navidad",
+        "url": "https://www.portafolio.co/economia/por-que-noviembre-es-clave-para-preparar-la-navidad-esta-es-la-tendencia-de-los-colombianos-506397",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "¿Por qué noviembre es clave para preparar la Navidad? Esta es la tendencia de los colombianos",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
+      {
+        "titulo": "Hallazgos del PAE remitidos a la Contraloría por MinEducación: dineros asignados sin método técnico desde 2022",
+        "url": "https://www.portafolio.co/economia/gobierno/mineducacion-lleva-a-la-contraloria-hallazgos-del-pae-recursos-se-repartieron-sin-metodologia-tecnica-desde-506391",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "MinEducación lleva a la Contraloría hallazgos del PAE: recursos se repartieron sin metodología técnica desde 2022",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
       {
         "titulo": "DANE reporta que las entradas de agencias de viajes subieron 2,5% en septiembre y bajaron desde el 9,7%",
         "url": "https://www.portafolio.co/economia/agencias-de-viaje-frenan-sus-ingresos-crecieron-2-5-en-septiembre-frente-al-9-7-de-hace-un-ano-segun-el-dane-506390",
@@ -573,39 +603,49 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Expresidente Uribe propone una ponencia sustitutiva frente a la ley de rescate fiscal del Gobierno De La Espriella",
         "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "El ambiente renovado en el vínculo del Ejecutivo con el Emisor y la banca",
-        "url": "https://www.portafolio.co/economia/gobierno/el-nuevo-aire-que-se-respira-en-la-relacion-del-gobierno-con-el-banco-de-la-republica-y-el-sistema-financiero-506248",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "El nuevo aire que se respira en la relación del Gobierno con el Banco de la República y el sistema financiero",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Hoteles y comercio listos en Barranquilla por millonarias ganancias que dejaría la Copa Sudamericana",
-        "url": "https://www.portafolio.co/economia/final-de-la-copa-sudamericana-dejaria-millonaria-cifra-en-barranquilla-hoteles-y-comercio-se-preparan-506245",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Final de la Copa Sudamericana dejaría millonaria cifra en Barranquilla: hoteles y comercio se preparan",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Avión con ruta Ecuador-Curazao aterrizó de emergencia en Bogotá por desperfecto técnico en El Dorado",
-        "url": "https://www.portafolio.co/economia/regiones/emergencia-en-el-dorado-avion-que-iba-de-ecuador-a-curazao-se-desvio-a-bogota-por-falla-mecanica-506243",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Emergencia en El Dorado: avión que iba de Ecuador a Curazao se desvió a Bogotá por falla mecánica",
-        "capturado": "2026-11-12T13:42:21-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "JMEV llega al Salón del Automóvil con la SUV eléctrica GSX de 610 km de autonomía para competir con precio",
+        "url": "https://www.portafolio.co/negocios/vehiculo/jmev-trae-al-salon-del-automovil-su-suv-electrica-gsx-tiene-610-km-de-autonomia-y-busca-competir-con-precio-506395",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "JMEV trae al Salón del Automóvil su SUV eléctrica GSX: tiene 610 km de autonomía y busca competir con precio",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
+      {
+        "titulo": "Action Black abre sede en Londres desde Colombia y consolida su expansión internacional hacia Oxford Circus",
+        "url": "https://www.portafolio.co/negocios/empresas/de-colombia-a-oxford-circus-action-black-inaugura-sede-en-londres-y-consolida-su-expansion-internacional-506396",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "De Colombia a Oxford Circus: Action Black inaugura sede en Londres y consolida su expansión internacional",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
+      {
+        "titulo": "Vuun, proptech colombiana, recibe US$300.000 de fondo de San Francisco y se expandirá a México y Perú",
+        "url": "https://www.portafolio.co/negocios/empresas/fondo-de-san-francisco-invierte-us-300-000-en-vuun-una-proptech-colombiana-que-ira-por-mexico-y-peru-506394",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Fondo de San Francisco invierte US$300.000 en Vuun, una proptech colombiana que irá por México y Perú",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
+      {
+        "titulo": "Oxxo clausura cientos de establecimientos en territorio mexicano y explica los motivos de la medida",
+        "url": "https://www.portafolio.co/negocios/empresas/oxxo-cierra-cientos-de-tiendas-en-mexico-estas-son-las-razones-detras-de-la-decision-506393",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-14",
+        "titulo_fuente": "Oxxo cierra cientos de tiendas en México: estas son las razones detrás de la decisión",
+        "capturado": "2026-11-14T19:05:23-05:00"
+      },
       {
         "titulo": "Centro comercial de Bogotá tendrá presentaciones musicales y eventos sin costo hasta fin de año",
         "url": "https://www.portafolio.co/negocios/empresas/navidad-en-bogota-centro-comercial-anuncia-conciertos-y-actividades-gratuitas-hasta-diciembre-506388",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "El regreso de Venezuela sacude el negocio de la moda: Colombia acelera sus ventas de ropa al país vecino en el 2026",
         "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Marca de muebles y colchones de dos emprendedores aumentó sus ventas tras el hurto de su camión",
-        "url": "https://www.portafolio.co/negocios/comercio/tras-el-robo-de-su-camion-esta-empresa-que-apuesta-por-apartamentos-pequenos-impulso-sus-ventas-506134",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Tras robo de su camión, esta marca de muebles y colchones de dos emprendedores impulsó sus ventas",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "¿Guerra por clientes? Edifican un D1 encima de un Ara y la foto se hace viral en las redes sociales",
-        "url": "https://www.portafolio.co/negocios/empresas/lucha-por-compradores-construyen-un-d1-sobre-un-ara-y-la-imagen-se-vuelve-viral-en-las-redes-sociales-506132",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "¿Lucha por compradores? Construyen un D1 sobre un Ara y la imagen se vuelve viral en las redes sociales",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "ETB elevó 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
-        "url": "https://www.portafolio.co/negocios/empresas/etb-mejoro-18-su-resultado-operacional-en-el-tercer-trimestre-pese-a-menores-ingresos-506139",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "ETB mejoró 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
-        "capturado": "2026-11-11T09:56:05-05:00"
-      },
-      {
-        "titulo": "De Cipriano Restrepo a Luz Stella Murgas: estos son los 12 presidentes que ha tenido la Andi en 82 años",
-        "url": "https://www.portafolio.co/negocios/empresas/de-cipriano-restrepo-a-luz-stella-murgas-estos-son-los-12-presidentes-que-ha-tenido-la-andi-en-82-anos-506135",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "De Cipriano Restrepo a Luz Stella Murgas: estos son los 12 presidentes que ha tenido la Andi en 82 años",
-        "capturado": "2026-11-11T09:56:05-05:00"
       }
     ]
   }
