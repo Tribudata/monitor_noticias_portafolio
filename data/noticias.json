@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-15T09:36:04-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-15T15:09:19-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El valor de la papa sube 98% y afecta la economía de las familias del país",
+        "url": "https://www.portafolio.co/economia/la-papa-se-dispara-precio-aumento-98-y-presiona-el-bolsillo-de-los-hogares-colombianos-506427",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "La papa se dispara: precio aumentó 98% y presiona el bolsillo de los hogares colombianos",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Reportan 17 lesionados tras volcamiento de bus escolar en Norte de Santander",
+        "url": "https://www.portafolio.co/economia/regiones/accidente-de-bus-con-estudiantes-en-norte-de-santander-deja-17-heridos-este-es-el-balance-actualizado-506425",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Accidente de bus con estudiantes en Norte de Santander deja 17 heridos: este es el balance actualizado",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Departamentos enviaron al DNP 2.495 iniciativas por $566,9 billones para la hoja de ruta 2026-2030",
+        "url": "https://www.portafolio.co/economia/gobierno/regiones-le-presentaron-al-dnp-2-495-proyectos-por-566-9-billones-para-el-plan-nacional-de-desarrollo-2026-506423",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Regiones le presentaron al DNP 2.495 proyectos por $566,9 billones para el Plan Nacional de Desarrollo 2026-2030",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá y RegioTram del Norte están entre las 15 iniciativas para la Milagro Week",
+        "url": "https://www.portafolio.co/economia/infraestructura/linea-4-del-metro-y-regiotram-del-norte-entre-los-15-proyectos-que-bogota-llevara-a-la-milagro-week-506419",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Línea 4 del Metro y RegioTram del Norte, entre los 15 proyectos que Bogotá llevará a la Milagro Week",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Remates de la SAE superaron la meta en $1.967 millones con 44 bienes vendidos en tres meses",
+        "url": "https://www.portafolio.co/economia/gobierno/subastas-de-la-sae-dejaron-1-967-millones-mas-de-lo-esperado-asi-fue-la-venta-de-44-inmuebles-en-tres-meses-506414",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Subastas de la SAE dejaron $1.967 millones más de lo esperado: así fue la venta de 44 inmuebles en tres meses",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Uribe percibe optimismo sobre la norma de ajuste fiscal tras cita con el vicepresidente Restrepo",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-reunirse-con-el-vicepresidente-restrepo-uribe-ve-expectativas-positivas-frente-a-la-ley-de-ajuste-fiscal-506417",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Tras reunirse con el vicepresidente Restrepo, Uribe ve ‘expectativas positivas’ frente a la ley de ajuste fiscal",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "El analista Jorge Restrepo señala que el Centro Democrático decidirá la suerte de la Ley de Rescate",
+        "url": "https://www.portafolio.co/economia/finanzas/el-centro-democratico-podria-definir-el-futuro-de-la-ley-de-rescate-segun-advierte-el-economista-jorge-restrepo-506416",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "El Centro Democrático podría definir el futuro de la Ley de Rescate, según advierte el economista Jorge Restrepo",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Detalles del impacto de naves en Miami: aeronave de carga hacia Bogotá chocó con avión de Copa",
+        "url": "https://www.portafolio.co/economia/que-se-sabe-del-choque-de-aviones-en-miami-avion-de-carga-con-destino-a-bogota-colisiono-con-avion-de-copa-506413",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Qué se sabe del choque de aviones en Miami: avión de carga con destino a Bogotá colisionó con avión de Copa",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Gestión en educación: inversiones por $337.000 millones, ayuda a 235.000 usuarios del Icetex y revisión al Fomag",
+        "url": "https://www.portafolio.co/economia/gobierno/los-milagros-en-educacion-obras-por-337-000-millones-alivio-a-235-000-usuarios-del-icetex-y-auditoria-al-fomag-506411",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Los 'milagros' en educación: obras por $337.000 millones, alivio a 235.000 usuarios del Icetex y auditoría al Fomag",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella pide la renuncia del titular de Coljuegos por controversia sobre su diploma",
+        "url": "https://www.portafolio.co/economia/gobierno/tiene-que-irse-abelardo-exige-la-salida-del-presidente-de-coljuegos-tras-polemica-por-su-titulo-506412",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "‘Tiene que irse’: Abelardo De La Espriella exige la salida del presidente de Coljuegos tras polémica por su título",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Cartera de Vivienda reporta $1,8 billones para obras, 5.663 hogares mejorados y proyectos hídricos",
+        "url": "https://www.portafolio.co/economia/gobierno/el-ministerio-de-vivienda-y-sus-milagros-1-8-billones-para-reconstruir-5-663-casas-mejoradas-y-obras-de-agua-506409",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "El Ministerio de Vivienda y sus 'milagros': $1,8 billones para reconstruir, 5.663 casas mejoradas y obras de agua",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Detonaciones en casetas de cobro de Neiva y Pipiral alteran el tránsito vial en fin de semana festivo",
+        "url": "https://www.portafolio.co/economia/regiones/explosiones-en-peajes-de-neiva-y-pipiral-afectan-la-movilidad-por-dos-corredores-en-pleno-puente-festivo-506410",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Explosiones en peajes de Neiva y Pipiral afectan la movilidad por dos corredores en pleno puente festivo",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Balance del Ministerio de Transporte sobre vías, puertos, aeropuertos, fotomultas y obras",
+        "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-milagros-que-reporta-el-ministerio-de-transporte-obras-fotomultas-puertos-vias-y-aeropuertos-506408",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Estos son los ‘milagros’ que reporta el Ministerio de Transporte: Obras, fotomultas, puertos, vías y aeropuertos",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Cinco indicadores claves para que emprendedores elaboren el presupuesto de 2027",
+        "url": "https://www.portafolio.co/economia/como-hacer-el-presupuesto-de-2027-cinco-indicadores-que-debe-revisar-todo-emprendedor-506407",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "¿Cómo hacer el presupuesto de 2027? Cinco indicadores que debe revisar todo emprendedor",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Por primera vez cayó en Medellín el acumulado de Revancha por 5600 millones de pesos",
+        "url": "https://www.portafolio.co/economia/acumulado-de-revancha-de-5-600-millones-cayo-por-primera-vez-en-medellin-506406",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Acumulado de Revancha de $5.600 millones cayó por primera vez en Medellín",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Informe oficial de los primeros 100 días detalla los 251 actos de Abelardo de la Espriella",
+        "url": "https://www.portafolio.co/economia/gobierno/los-251-milagros-de-abelardo-de-la-espriella-esto-es-lo-que-dice-el-balance-oficial-de-sus-primeros-100-dias-506405",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Los 251 ‘milagros’ de Abelardo de la Espriella: esto es lo que dice el balance oficial de sus primeros 100 días",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
       {
         "titulo": "Ocampo pone en duda las cifras de la Ley de Rescate: la reducción del gasto daría apenas el 25% del ajuste",
         "url": "https://www.portafolio.co/economia/gobierno/ocampo-cuestiona-las-cuentas-de-la-ley-de-rescate-recorte-de-gasto-aportaria-solo-el-25-del-ajuste-fiscal-506402",
@@ -443,169 +603,29 @@
         "publicacion": "2026-11-13",
         "titulo_fuente": "Abelardo De La Espriella frena nómina de $765 millones del Fondo Milagro por altos salarios: 'No los autorizo'",
         "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Contraloría halla detrimento de $1.410 millones en el Acueducto de Bogotá",
-        "url": "https://www.portafolio.co/economia/regiones/contraloria-halla-detrimento-de-1-410-millones-en-el-acueducto-de-bogota-506286",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Contraloría halla detrimento de $1.410 millones en el Acueducto de Bogotá",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Salud: Fomag, pasivos y fármacos, los tres retos del Gobierno de De la Espriella en cien días",
-        "url": "https://www.portafolio.co/economia/gobierno/salud-medicamentos-fomag-y-deudas-los-tres-frentes-que-ponen-a-prueba-al-gobierno-de-de-la-espriella-en-100-dias-506258",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Salud: medicamentos, Fomag y deudas, los tres frentes que ponen a prueba al Gobierno de De la Espriella en 100 días",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Logros y desafíos en los cien días de la administración de De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/hitos-y-retos-en-100-dias-del-gobierno-de-de-la-espriella-506276",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Hitos y retos en 100 días del gobierno de De La Espriella",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "La seguridad retorna al foco en Colombia, aunque alertan sobre la carencia de un plan total",
-        "url": "https://www.portafolio.co/economia/regiones/seguridad-vuelve-al-centro-de-la-agenda-en-colombia-pero-advierten-que-hace-falta-una-estrategia-integral-506275",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Seguridad vuelve al centro de la agenda en Colombia, pero advierten que hace falta una estrategia integral",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Baja ocupación hotelera, pasajes costosos y auge de vivienda turística: la transformación del sector",
-        "url": "https://www.portafolio.co/economia/ocupacion-hotelera-en-minimos-tiquetes-mas-caros-y-viviendas-turisticas-en-auge-asi-se-transforma-el-turismo-506226",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Ocupación hotelera en mínimos, tiquetes más caros y viviendas turísticas en auge: así se transforma el turismo",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Los desafíos digitales que afronta De La Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/los-retos-tecnologicos-que-enfrenta-de-la-espriella-506272",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Los retos tecnológicos que enfrenta De La Espriella",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Carreteras sin fondos, cámaras inactivas y puertos colapsados: el Ejecutivo recibe 51 billones en vigencias",
-        "url": "https://www.portafolio.co/economia/infraestructura/vias-sin-plata-radares-apagados-y-puertos-congestionados-el-gobierno-hereda-51-billones-en-vigencias-futuras-506222",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Vías sin plata, radares apagados y puertos congestionados: el Gobierno hereda $51 billones en vigencias futuras",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Presupuesto, Plan de Desarrollo y ley de ajuste fiscal sobresalen en los 100 días de De La Espriella",
-        "url": "https://www.portafolio.co/economia/presupuesto-plan-de-desarrollo-ley-de-ajuste-fiscal-dentro-de-las-grandes-apuestas-de-de-la-espriella-en-100-dias-506260",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Presupuesto, Plan de Desarrollo, ley de ajuste fiscal dentro de las grandes apuestas de De La Espriella en 100 días",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Salud docente, Icetex, gratuidad y obras sin respaldo fiscal son los pasivos del sector educativo",
-        "url": "https://www.portafolio.co/economia/gobierno/salud-de-maestros-icetex-gratuidad-y-obras-sin-respaldo-fiscal-los-faltantes-que-hereda-todo-el-sector-educativo-506229",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Salud de maestros, Icetex, gratuidad y obras sin respaldo fiscal: los faltantes que hereda todo el sector educativo",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial dialogó con el Minhacienda sobre la Ley de Rescate y esto expresó Natalia Gutiérrez",
-        "url": "https://www.portafolio.co/economia/gobierno/consejo-gremial-se-reunio-con-minhacienda-por-la-ley-de-rescate-esto-dijo-natalia-gutierrez-506274",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Consejo Gremial se reunió con Minhacienda por la Ley de Rescate: esto dijo Natalia Gutiérrez",
-        "capturado": "2026-11-13T01:12:26-05:00"
-      },
-      {
-        "titulo": "Icesi: delegar el pensamiento en la inteligencia artificial impide lograr un criterio propio",
-        "url": "https://www.portafolio.co/economia/rector-de-icesi-si-un-joven-le-delega-su-pensamiento-a-la-ia-nunca-va-a-desarrollar-criterio-propio-506249",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Rector de Icesi: si un joven le delega su pensamiento a la IA, 'nunca va a desarrollar criterio propio'",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado ordena el traslado de 347 pilotos civiles al régimen de Colpensiones",
-        "url": "https://www.portafolio.co/economia/347-aviadores-civiles-deberan-trasladar-sus-afiliaciones-a-colpensiones-tras-decision-del-consejo-de-estado-506267",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "347 aviadores civiles deberán trasladar sus afiliaciones a Colpensiones tras decisión del Consejo de Estado",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Otras urbes colombianas con pagos mediante tarjetas de crédito y débito en el transporte",
-        "url": "https://www.portafolio.co/economia/regiones/pagos-con-tarjetas-debito-y-credito-en-transporte-publico-que-otras-ciudades-de-colombia-ya-utilizan-este-sistema-506265",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Pagos con tarjetas débito y crédito en transporte público: qué otras ciudades de Colombia ya utilizan este sistema",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "U. del Rosario: Bogotá, Bucaramanga y Medellín encabezan el Índice de Competitividad de Ciudades 2026",
-        "url": "https://www.portafolio.co/economia/bogota-medellin-y-bucaramanga-lideran-el-indice-de-competitividad-de-ciudades-2026-en-colombia-u-rosario-506264",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Bogotá, Medellín y Bucaramanga lideran el Índice de Competitividad de Ciudades 2026 en Colombia: U. Rosario",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "Embajada estadounidense inspecciona sede de Coca-Cola Femsa en Cali tras el sismo",
-        "url": "https://www.portafolio.co/economia/regiones/embajada-de-ee-uu-visita-planta-de-coca-cola-femsa-en-cali-para-revisar-su-operacion-tras-el-terremoto-506254",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Embajada de EE. UU. visita planta de Coca-Cola Femsa en Cali para revisar su operación tras el terremoto",
-        "capturado": "2026-11-12T18:58:00-05:00"
-      },
-      {
-        "titulo": "La inflación en Colombia seguiría superando la meta del Emisor por sexto año seguido",
-        "url": "https://www.portafolio.co/economia/colombia-completaria-seis-anos-consecutivos-con-la-inflacion-por-encima-de-la-meta-del-banco-de-la-republica-506262",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Colombia completaría seis años consecutivos con la inflación por encima de la meta del Banco de la República",
-        "capturado": "2026-11-12T18:58:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Gastos de personal presionan pymes: requerirían ventas hasta $63 millones mayores para terminar 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/costos-laborales-presionan-a-las-pymes-necesitarian-hasta-63-millones-mas-en-ventas-para-cerrar-506420",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Costos laborales presionan a las pymes: necesitarían hasta $63 millones más en ventas para cerrar 2026",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
+      {
+        "titulo": "Peugeot revela nueva variante híbrida de su 3008: la SUV que arribará al mercado en 2027",
+        "url": "https://www.portafolio.co/negocios/vehiculo/peugeot-anuncia-una-nueva-version-hibrida-de-su-3008-esta-es-la-suv-que-llegara-al-mercado-en-506404",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-15",
+        "titulo_fuente": "Peugeot anuncia una nueva versión híbrida de su 3008: esta es la SUV que llegará al mercado en 2027",
+        "capturado": "2026-11-15T15:09:19-05:00"
+      },
       {
         "titulo": "Juanes fue la figura central en la inauguración de DAVIarena en Sabaneta, la cual tuvo boletería agotada",
         "url": "https://www.portafolio.co/negocios/empresas/daviarena-abrio-sus-puertas-en-sabaneta-con-la-boleteria-agotada-y-con-juanes-como-protagonista-506400",
@@ -1184,26 +1204,6 @@
         "subseccion": "Industrias",
         "publicacion": "2026-11-11",
         "titulo_fuente": "Tras más de $800.000 millones invertidos en Colombia, Ternium confía en que la industria del acero repunte",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Nueva EPS lanza plan de contingencia por alza de tutelas para agilizar los servicios a sus afiliados",
-        "url": "https://www.portafolio.co/negocios/empresas/nueva-eps-activa-un-plan-de-choque-ante-el-aumento-de-tutelas-y-busca-acelerar-la-atencion-de-sus-afiliados-506158",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Nueva EPS activa un plan de choque ante el aumento de tutelas y busca acelerar la atención de sus afiliados",
-        "capturado": "2026-11-11T16:46:26-05:00"
-      },
-      {
-        "titulo": "Inversión en Colombia tocaría mínimo de sesenta años: Corfi estima el indicador en 15,7 % del PIB para 2026",
-        "url": "https://www.portafolio.co/negocios/inversion/colombia-registra-la-inversion-mas-baja-en-60-anos-corfi-ubica-el-indicador-en-15-7-del-pib-para-506147",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Colombia registra la inversión más baja en 60 años: Corfi ubica el indicador en 15,7% del PIB para 2026",
         "capturado": "2026-11-11T16:46:26-05:00"
       }
     ]
