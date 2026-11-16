@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-16T02:02:16-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-16T12:16:00-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alimentos exentos de IVA según lo informado por De La Espriella",
+        "url": "https://www.portafolio.co/economia/que-alimentos-de-la-canasta-familiar-no-tendrian-iva-lo-que-anuncio-de-la-espriella-506453",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "¿Qué alimentos de la canasta familiar no tendrían IVA? Lo que anunció De La Espriella",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Nueve gremios ganaderos apoyaron al titular de Fedegán y Fondo Nacional del Ganado",
+        "url": "https://www.portafolio.co/economia/regiones/gremios-ganaderos-de-nueve-regiones-respaldaron-al-presidente-de-fedegan-y-fondo-nacional-del-ganado-506451",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Gremios ganaderos de nueve regiones respaldaron al presidente de Fedegán y Fondo Nacional del Ganado",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Señalan anomalías en contratos por 45.800 millones de pesos con dineros de multas viales",
+        "url": "https://www.portafolio.co/economia/denuncian-contratos-por-45-800-millones-con-recursos-de-multas-de-transito-que-irregularidades-senalan-506448",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Denuncian contratos por $45.800 millones con recursos de multas de tránsito: ¿qué irregularidades señalan?",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Temas centrales de la alocución de De La Espriella sobre sus primeros 100 días",
+        "url": "https://www.portafolio.co/economia/gobierno/iva-seguridad-reconstruccion-y-balance-de-sus-primeros-100-dias-claves-de-la-ultima-alocucion-de-de-la-espriella-506445",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "IVA, seguridad, reconstrucción y balance de sus primeros 100 días: claves de la última alocución de De La Espriella",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Puente bicipeatonal Titán Plaza en avenida Boyacá alcanza 87 por ciento y abrirá en diciembre",
+        "url": "https://www.portafolio.co/economia/infraestructura/el-nuevo-puente-bicipeatonal-de-titan-plaza-en-la-avenida-boyaca-supera-el-87-de-obra-y-abrira-en-diciembre-506441",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "El nuevo puente bicipeatonal de Titán Plaza en la avenida Boyacá supera el 87% de obra y abrirá en diciembre",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Reacciones al anuncio presidencial de descartar tributos nuevos a la canasta familiar",
+        "url": "https://www.portafolio.co/economia/no-habra-nuevos-impuestos-a-la-canasta-familiar-las-reacciones-tras-el-anuncio-presidencial-506443",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "No habrá nuevos impuestos a la canasta familiar: las reacciones tras el anuncio presidencial",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Nuevos precios en peajes de la ruta Bogotá-Villavicencio: consulte las tarifas por categoría desde hoy",
+        "url": "https://www.portafolio.co/economia/infraestructura/nuevas-tarifas-en-los-peajes-en-la-via-bogota-villavicencio-estos-son-los-valores-por-categoria-desde-hoy-506437",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Nuevas tarifas en los peajes en la vía Bogotá-Villavicencio: estos son los valores por categoría desde hoy",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Empresas, inversión y turismo: los tres programas estelares de la agenda económica de Mincomercio",
+        "url": "https://www.portafolio.co/economia/gobierno/inversion-empresas-y-turismo-los-3-programas-milagro-que-resumen-la-agenda-economica-del-ministerio-de-comercio-506438",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Inversión, empresas y turismo: los 3 programas 'Milagro' que resumen la agenda económica del Ministerio de Comercio",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Ricardo Ávila analiza los complicados cien primeros días de la reconstrucción tras el sismo de agosto",
+        "url": "https://www.portafolio.co/economia/regiones/analisis-de-ricado-avila-los-accidentados-primeros-100-dias-de-la-reconstruccion-por-el-terremoto-del-10-de-agosto-506436",
+        "resumen": "",
+        "autor": "Ricardo avila",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Análisis de Ricardo Ávila: los accidentados primeros 100 días de la reconstrucción por el terremoto de agosto",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Razones por las cuales el IVA a la canasta familiar pudo eliminarse en la Ley de Rescate Económico",
+        "url": "https://www.portafolio.co/economia/por-que-era-posible-que-se-cayera-el-iva-a-la-canasta-familiar-en-la-reforma-tributaria-506435",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "¿Por qué era posible que se cayera el IVA a la canasta familiar en la Ley de Rescate Económico?",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
       {
         "titulo": "De La Espriella asegura que no tocará la canasta familiar pese a los cambios en el IVA de la Ley de Rescate",
         "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-promete-no-gravar-la-canasta-familiar-pero-la-ley-de-rescate-plantea-cambios-en-el-iva-506433",
@@ -503,109 +603,39 @@
         "publicacion": "2026-11-13",
         "titulo_fuente": "Bogotá tiene cerrado su espacio aéreo por revista de la FAC: ¿hasta qué hora estará la restricción?",
         "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia terminaría la semana arriba de tres mil trescientos pesos",
-        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-se-perfila-a-cerrar-la-semana-por-encima-de-3-506314",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Precio del dólar hoy en Colombia se perfila a cerrar la semana por encima de $3.300",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Norma de Salvamento Financiero modificaría las finanzas corporativas en 2027 y sus efectos",
-        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-cambiaria-las-cuentas-de-las-empresas-en-2027-estos-serian-los-impactos-506313",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Ley de Rescate Económico cambiaría las cuentas de las empresas en 2027: estos serían los impactos",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Minciencia reporta ochenta y tres mil trescientos ochenta y tres adultos mayores afectados por sismo",
-        "url": "https://www.portafolio.co/economia/regiones/terremoto-de-agosto-dejo-83-383-adultos-mayores-damnificados-en-112-municipios-de-12-departamentos-minciencia-506312",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Terremoto de agosto dejó 83.383 adultos mayores damnificados en 112 municipios de 12 departamentos: Minciencia",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Siete Milagros incrementaría hasta un veintiocho por ciento el valor de proyectos solares desde 2028",
-        "url": "https://www.portafolio.co/economia/gobierno/siete-milagros-la-nueva-propuesta-a-paneles-solares-que-elevaria-hasta-28-el-costo-de-proyectos-desde-506311",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "'Siete Milagros', la nueva propuesta a paneles solares que elevaría hasta 28% el costo de proyectos desde 2028",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "J.P. Morgan introduce los primeros fondos cotizados activos en Colombia con quince alternativas globales",
-        "url": "https://www.portafolio.co/economia/finanzas/j-p-morgan-lanza-los-primeros-etf-activos-en-colombia-con-15-estrategias-globales-que-cotizaran-en-la-bolsa-506307",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "J.P. Morgan lanza los primeros ETF activos en Colombia con 15 estrategias globales que cotizarán en la Bolsa",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Falla global de Microsoft 365 detiene sectores judiciales bogotanos y frena plazos procesales",
-        "url": "https://www.portafolio.co/economia/regiones/caida-mundial-de-microsoft-365-paraliza-parte-de-la-justicia-en-bogota-suspenden-terminos-judiciales-506310",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Caída mundial de Microsoft 365 paraliza parte de la justicia en Bogotá: suspenden términos judiciales",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Tembici adeuda 5.260 millones a Bogotá y Distrito inicia tres procesos por posibles faltas",
-        "url": "https://www.portafolio.co/economia/gobierno/tembici-le-debe-5-260-millones-a-bogota-distrito-abrio-tres-procesos-por-presuntos-incumplimientos-506305",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Tembici le debe $5.260 millones a Bogotá: Distrito abrió tres procesos por presuntos incumplimientos",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Revelan red ilegal en Dian: ventas externas ficticias de aceite y soya habrían movido 425.000 millones",
-        "url": "https://www.portafolio.co/economia/gobierno/destapan-millonario-entramado-en-la-dian-exportaciones-ficticias-de-aceite-y-soya-habrian-movido-425-000-millones-506303",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Destapan millonario entramado en la Dian: exportaciones ficticias de aceite y soya habrían movido $425.000 millones",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Los 10 retos que desafían al agro de Colombia en los primeros 100 días de Abelardo de la Espriella",
-        "url": "https://www.portafolio.co/economia/agro/los-10-desafios-que-ponen-a-prueba-al-agro-colombiano-en-los-primeros-100-dias-de-abelardo-de-la-espriella-506231",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Los 10 desafíos que ponen a prueba al agro colombiano en los primeros 100 días de Abelardo de la Espriella",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "ANI cancelará 1,27 billones en vez de 2,6 billones por la Perimetral de Oriente y ahorra unos 1,4 billones",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-pagara-1-27-billones-en-lugar-de-2-6-billones-por-la-perimetral-de-oriente-y-ahorra-cerca-de-1-4-billones-506295",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "ANI pagará $1,27 billones en lugar de $2,6 billones por la Perimetral de Oriente y ahorra cerca de $1,4 billones",
-        "capturado": "2026-11-13T09:47:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Arranca la Milagro Week: 97 iniciativas persiguen en Nueva York US$41.900 millones de capital y recursos",
+        "url": "https://www.portafolio.co/negocios/inversion/inicia-la-milagro-week-97-proyectos-buscan-en-nueva-york-us-41-900-millones-de-inversion-y-financiacion-506450",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Inicia la Milagro Week: 97 proyectos buscan en Nueva York US$41.900 millones de inversión y financiación",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Latinoamérica, el área de mayor expansión para Veolia: ratifica la totalidad de sus logros monetarios a 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/america-latina-la-region-que-mas-crece-para-veolia-confirma-todas-sus-metas-financieras-para-506442",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "América Latina, la región que más crece para Veolia: confirma todas sus metas financieras para 2026",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
+      {
+        "titulo": "Avianca informa nuevo trayecto directo entre Barranquilla y Nueva York: fecha de inicio de operaciones",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-anuncia-nueva-ruta-directa-entre-barranquilla-y-nueva-york-desde-cuando-operara-506434",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Avianca anuncia nueva ruta directa entre Barranquilla y Nueva York: ¿desde cuándo operará?",
+        "capturado": "2026-11-16T12:16:00-05:00"
+      },
       {
         "titulo": "Avianca destinará US$3.000 millones para adquirir 61 aeronaves en el transcurso de los siguientes tres años",
         "url": "https://www.portafolio.co/negocios/empresas/primicia-avianca-invertira-us-3-000-millones-en-61-aviones-durante-los-proximos-tres-anos-506432",
@@ -1175,36 +1205,6 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Colsubsidio reporta alta demanda y congestión para entregar medicamentos de Sanitas: las cifras y las razones",
         "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Utilidades de DAVIbank entre enero y septiembre de 2026 superaron las pérdidas previas",
-        "url": "https://www.portafolio.co/negocios/empresas/davibank-paso-de-perdidas-a-ganancias-en-2026-esta-fue-su-utilidad-entre-enero-y-septiembre-506189",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "DAVIbank pasó de pérdidas a ganancias en 2026: esta fue su utilidad entre enero y septiembre",
-        "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "Nuevas directrices de la presidenta de la Andi: diálogo abierto, autonomía y propuestas",
-        "url": "https://www.portafolio.co/negocios/industrias/espiritu-propositivo-independencia-y-dialogo-abierto-la-hoja-de-ruta-de-la-nueva-presidenta-de-la-andi-506184",
-        "resumen": "",
-        "autor": "Omar g. ahumada rojas, constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Espíritu propositivo, independencia y diálogo abierto: la hoja de ruta de la nueva presidenta de la Andi",
-        "capturado": "2026-11-11T21:41:50-05:00"
-      },
-      {
-        "titulo": "Cinco sugerencias para alistarse ante el incremento de pedidos en el Black Friday digital",
-        "url": "https://www.portafolio.co/negocios/comercio/compras-por-internet-en-colombia-cinco-recomendaciones-para-prepararse-ante-el-aumento-de-pedidos-en-black-friday-506185",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "Compras por internet en Colombia: cinco recomendaciones para prepararse ante el aumento de pedidos en Black Friday",
-        "capturado": "2026-11-11T21:41:50-05:00"
       }
     ]
   }
