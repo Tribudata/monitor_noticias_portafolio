@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-17T03:54:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-17T13:10:11-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "PIB: la economía nacional avanza impulsada por el gasto y menos por la producción interna",
+        "url": "https://www.portafolio.co/economia/finanzas/resultados-del-pib-la-economia-colombiana-crece-por-el-lado-del-gasto-no-tanto-en-la-produccion-nacional-506512",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Resultados del PIB: la economía colombiana crece por el lado del gasto, no tanto en la producción nacional",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Tener trabajo formal no asegura solidez económica: los retos que enfrentan los empleados",
+        "url": "https://www.portafolio.co/economia/tener-empleo-formal-no-garantiza-estabilidad-financiera-estas-son-las-dificultades-de-los-trabajadores-506513",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Tener empleo formal no garantiza estabilidad financiera: estas son las dificultades de los trabajadores",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "FMI apoya la Ley de Rescate Económico y solicita acuerdos para avalar el ajuste fiscal",
+        "url": "https://www.portafolio.co/economia/fmi-respalda-la-ley-de-rescate-economico-y-pide-consensos-para-aprobar-el-ajuste-fiscal-propuesto-por-el-gobierno-506511",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "FMI respalda la Ley de Rescate Económico y pide consensos para aprobar el ajuste fiscal propuesto por el Gobierno",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Presidente del Senado y militantes del Centro Democrático dialogaron con la Embajada de EE. UU.",
+        "url": "https://www.portafolio.co/economia/gobierno/presidente-del-senado-y-miembros-del-centro-democratico-se-reunieron-con-la-embajada-de-ee-uu-de-que-hablaron-506510",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Presidente del Senado y miembros del Centro Democrático se reunieron con la Embajada de EE. UU.: ¿de qué hablaron?",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Contraloría halla detrimento de $9.000 millones en asesoría del Ministerio de Agricultura",
+        "url": "https://www.portafolio.co/economia/gobierno/contraloria-reporta-hallazgo-por-9-000-millones-en-consultoria-contratada-por-el-ministerio-de-agricultura-506508",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Contraloría reporta hallazgo por $9.000 millones en consultoría contratada por el Ministerio de Agricultura",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Colombia sufre un descenso de hasta 47,1 % en vacunas contra el VPH en el último trimestre",
+        "url": "https://www.portafolio.co/economia/regiones/colombia-registra-una-caida-de-hasta-47-1-en-las-dosis-de-la-vacuna-contra-el-vph-durante-el-ultimo-trimestre-506509",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Colombia registra una caída de hasta 47,1 % en las dosis de la vacuna contra el VPH durante el último trimestre",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Firma alemana lanza vacantes para casi 200 puestos en el país y explica el método de postulación",
+        "url": "https://www.portafolio.co/economia/empleo/multinacional-alemana-abre-convocatoria-para-cerca-de-200-empleos-en-colombia-asi-puede-aplicar-506500",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Multinacional alemana abre convocatoria para cerca de 200 empleos en Colombia: así puede aplicar",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella sugiere modificar los planes de estudio del Sena",
+        "url": "https://www.portafolio.co/economia/gobierno/hay-que-revisar-lo-que-se-ensena-de-la-espriella-pide-actualizar-los-programas-del-sena-506507",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "‘Hay que revisar lo que se enseña’: De la Espriella pide actualizar los programas del Sena",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "El fenómeno de El Niño enciende alarmas energéticas por bajos niveles en los embalses",
+        "url": "https://www.portafolio.co/economia/gobierno/el-nino-pone-en-alerta-al-sector-electrico-autoridades-refuerzan-medidas-ante-minimos-historicos-de-embalses-506505",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "El Niño pone en alerta al sector eléctrico: autoridades refuerzan medidas ante mínimos históricos de embalses",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "PIB de Colombia aumentó 0,5% durante el tercer trimestre de 2026",
+        "url": "https://www.portafolio.co/economia/economia-colombiana-crecio-0-5-en-el-tercer-trimestre-del-506501",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Economía colombiana creció 0,5% en el tercer trimestre del 2026",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Estrategias para que Estados Unidos impulse la economía colombiana hasta el 6%",
+        "url": "https://www.portafolio.co/economia/gobierno/mas-de-us-6-000-millones-llegarian-a-colombia-desde-estados-unidos-que-sectores-recibirian-el-capital-506498",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Cómo EE. UU. puede ayudar a Colombia a crecer su economía al 6% y qué sectores pueden impulsarlo",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "El miércoles 18 de noviembre inicia la concertación del mínimo con sus etapas principales",
+        "url": "https://www.portafolio.co/economia/empleo/este-miercoles-18-de-noviembre-arranca-la-negociacion-del-salario-minimo-estas-son-las-fechas-clave-del-proceso-506495",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Este miércoles 18 de noviembre arranca la negociación del salario mínimo: estas son las fechas clave del proceso",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "El euro arranca la semana al alza: así cotiza la moneda europea este martes 17 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/el-euro-inicia-la-semana-subiendo-asi-se-mueve-la-divisa-europea-este-martes-17-de-noviembre-506493",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "El euro inicia la semana subiendo: así se mueve la divisa europea este martes 17 de noviembre",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Colombia y Francia firman convenio para equiparar el aeropuerto El Dorado al Charles de Gaulle",
+        "url": "https://www.portafolio.co/economia/infraestructura/colombia-y-francia-sellan-acuerdo-para-modernizar-aeropuerto-el-dorado-y-convertirlo-en-un-charles-de-gaulle-506491",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Colombia y Francia sellan acuerdo para llevar el aeropuerto El Dorado al mismo nivel del Charles de Gaulle de París",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Dólar desciende este martes 17 de noviembre: así opera la divisa en la apertura del día",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-abre-a-la-baja-este-martes-17-de-noviembre-asi-se-comporta-la-divisa-al-inicio-de-la-jornada-506492",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Dólar se desplaza a la baja este martes 17 de noviembre: así se comporta la divisa al inicio de la jornada",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Rama Judicial en Colombia reanuda los términos tras la normalización de Microsoft",
+        "url": "https://www.portafolio.co/economia/gobierno/tras-el-restablecimiento-de-microsoft-la-rama-judicial-levanta-la-suspension-de-terminos-506489",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Rama Judicial en Colombia levanta la suspensión de términos, luego del restablecimiento de Microsoft",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
       {
         "titulo": "Sismo de agosto le habría restado hasta 0,8 puntos porcentuales al PIB del tercer trimestre",
         "url": "https://www.portafolio.co/economia/terremoto-de-agosto-habria-restado-hasta-0-8-puntos-porcentuales-al-crecimiento-del-pib-del-tercer-trimestre-506287",
@@ -443,169 +603,69 @@
         "publicacion": "2026-11-14",
         "titulo_fuente": "¿Por qué noviembre es clave para preparar la Navidad? Esta es la tendencia de los colombianos",
         "capturado": "2026-11-14T19:05:23-05:00"
-      },
-      {
-        "titulo": "Hallazgos del PAE remitidos a la Contraloría por MinEducación: dineros asignados sin método técnico desde 2022",
-        "url": "https://www.portafolio.co/economia/gobierno/mineducacion-lleva-a-la-contraloria-hallazgos-del-pae-recursos-se-repartieron-sin-metodologia-tecnica-desde-506391",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "MinEducación lleva a la Contraloría hallazgos del PAE: recursos se repartieron sin metodología técnica desde 2022",
-        "capturado": "2026-11-14T19:05:23-05:00"
-      },
-      {
-        "titulo": "DANE reporta que las entradas de agencias de viajes subieron 2,5% en septiembre y bajaron desde el 9,7%",
-        "url": "https://www.portafolio.co/economia/agencias-de-viaje-frenan-sus-ingresos-crecieron-2-5-en-septiembre-frente-al-9-7-de-hace-un-ano-segun-el-dane-506390",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Agencias de viaje frenan: sus ingresos crecieron 2,5% en septiembre, frente al 9,7% de hace un año, según el DANE",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "ANI rescata acuerdo del Tercer Carril Bogotá-Girardot y previene que el Gobierno opere la carretera",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-salva-el-contrato-del-tercer-carril-bogota-girardot-y-evita-que-el-estado-asuma-la-operacion-de-la-via-506385",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "ANI salva el contrato del Tercer Carril Bogotá-Girardot y evita que el Estado asuma la operación de la vía",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Atención médica en Colombia sin WhatsApp: de esta forma se transforma el servicio a los enfermos",
-        "url": "https://www.portafolio.co/economia/gobierno/whatsapp-ya-no-servira-para-consultas-medicas-en-colombia-asi-cambia-la-atencion-a-los-pacientes-506383",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "WhatsApp ya no servirá para consultas médicas en Colombia: así cambia la atención a los pacientes",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Demoras en la primera línea del Metro de Bogotá: este es el motivo de su fase más dura, dice Galán",
-        "url": "https://www.portafolio.co/economia/infraestructura/retrasos-en-el-metro-de-bogota-esta-es-la-razon-segun-el-alcalde-galan-de-por-que-enfrenta-su-etapa-mas-dificil-506381",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Retrasos en el Metro de Bogotá: esta es la razón, según el alcalde Galán, de por qué enfrenta su etapa más difícil",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Tecnoglass y Grupo Argos destinarán más de $7.500 millones para finalizar una calle norteña en Barranquilla",
-        "url": "https://www.portafolio.co/economia/infraestructura/grupo-argos-y-tecnoglass-invertiran-mas-de-7-500-millones-para-terminar-una-via-publica-del-norte-de-barranquilla-506375",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Grupo Argos y Tecnoglass invertirán más de $7.500 millones para terminar una vía pública del norte de Barranquilla",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Causa de la preclusión de la indagación a Álvaro Uribe por supuesto soborno de testigos en la Fiscalía",
-        "url": "https://www.portafolio.co/economia/gobierno/fiscalia-archiva-investigacion-contra-alvaro-uribe-por-presunto-soborno-a-testigos-estas-son-las-razones-506376",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Fiscalía archiva investigación contra Álvaro Uribe por presunto soborno a testigos: estas son las razones",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Gobierno entrega administración del Fondo del Café a Fedecafeteros por una década y exige buen manejo",
-        "url": "https://www.portafolio.co/economia/agro/recursos-del-cafe-no-pueden-ser-cajas-menores-la-condicion-del-gobierno-al-renovar-el-fondo-nacional-del-cafe-506373",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Fedecafeteros administrará Fondos del Café por 10 años: Gobierno pidió no utilizarlos como 'cajas menores'",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Puente de Venecia habilita ramal que conecta av. 68 con AutoSur y mejora movilidad hacia Bosa y Soacha",
-        "url": "https://www.portafolio.co/economia/infraestructura/conexion-directa-de-la-av-68-a-la-autosur-nuevo-ramal-del-puente-de-venecia-agiliza-los-viajes-a-bosa-y-soacha-506371",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Conexión directa de la av. 68 a la AutoSur: nuevo ramal del puente de Venecia agiliza los viajes a Bosa y Soacha",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro: perfil de Luis Felipe Henao y dudas sobre su permanencia en la junta de Ecopetrol",
-        "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-quien-es-luis-felipe-henao-y-que-se-sabe-sobre-su-continuidad-en-la-junta-de-ecopetrol-506369",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Fondo Milagro: quién es Luis Felipe Henao y qué se sabe sobre su continuidad en la junta de Ecopetrol",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Nueva composición en la mesa del salario mínimo: delegados que negociarán junto a De la Espriella",
-        "url": "https://www.portafolio.co/economia/gobierno/cambio-la-mesa-del-salario-minimo-los-nuevos-representantes-que-negociaran-con-de-la-espriella-506364",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Cambió la mesa del salario mínimo: los nuevos representantes que negociarán con De la Espriella",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Soacha atrae empresas y habilitará tres corredores viales de acceso y salida",
-        "url": "https://www.portafolio.co/economia/gobierno/soacha-se-abre-a-nuevas-industrias-y-tendran-tres-vias-de-entrada-y-salida-506362",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Soacha se abre a nuevas industrias y tendrán tres vías de entrada y salida",
-        "capturado": "2026-11-14T03:38:13-05:00"
-      },
-      {
-        "titulo": "El exministro y directivo de Ecopetrol Luis Felipe Henao asume la gerencia del Fondo Milagro",
-        "url": "https://www.portafolio.co/economia/gobierno/luis-felipe-henao-exministro-de-vivienda-y-directivo-de-ecopetrol-llega-a-la-gerencia-del-fondo-milagro-506360",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Luis Felipe Henao, exministro de Vivienda y directivo de Ecopetrol, llega a la gerencia del Fondo Milagro",
-        "capturado": "2026-11-14T03:38:13-05:00"
-      },
-      {
-        "titulo": "Aerocivil informa sobre los trayectos alterados entre Colombia y EE UU y cuáles siguen funcionando bien",
-        "url": "https://www.portafolio.co/economia/gobierno/aerocivil-entrega-detalles-sobre-los-vuelos-afectados-entre-colombia-y-estados-unidos-estas-rutas-operan-normal-506359",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Aerocivil entrega detalles sobre los vuelos afectados entre Colombia y Estados Unidos: estas rutas operan normal",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Destraban Accesos Norte a Bogotá luego de seis años detenidos y harán 3,4 kilómetros de doble calzada",
-        "url": "https://www.portafolio.co/economia/infraestructura/destraban-accesos-norte-a-bogota-tras-seis-anos-de-paralisis-construiran-3-4-kilometros-de-doble-calzada-506357",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Destraban Accesos Norte a Bogotá tras seis años de parálisis: construirán 3,4 kilómetros de doble calzada",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Línea 4 del Metro de Bogotá obtiene gran apoyo financiero: Nación precisa su aporte para la obra",
-        "url": "https://www.portafolio.co/economia/gobierno/linea-4-del-metro-de-bogota-recibe-millonario-impulso-gobierno-nacional-confirma-cuanto-pondra-para-el-proyecto-506358",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Línea 4 del Metro de Bogotá recibe millonario impulso: Gobierno nacional confirma cuánto pondrá para el proyecto",
-        "capturado": "2026-11-13T20:34:38-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Renault lanza el nuevo Kwid de gasolina más económico y gana protagonismo ante su variante eléctrica",
+        "url": "https://www.portafolio.co/negocios/vehiculo/renault-presenta-el-nuevo-kwid-a-gasolina-mas-barato-asi-toma-protagonismo-frente-a-su-version-electrica-506503",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Renault presenta el nuevo Kwid a gasolina más barato: así toma protagonismo frente a su versión eléctrica",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "En 2027 BYD traerá a Colombia a Denza, su marca de vehículos de lujo, con estos dos modelos iniciales",
+        "url": "https://www.portafolio.co/negocios/vehiculo/byd-traera-a-colombia-en-2027-a-denza-su-marca-de-carros-de-lujo-estos-serian-los-primeros-dos-modelos-506499",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "BYD traerá a Colombia en 2027 a Denza, su marca de carros de lujo: estos serían los primeros dos modelos",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Anthropic saldrá a bolsa con una meta histórica: busca captar US$90.400 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/anthropic-sale-a-bolsa-y-apunta-a-una-cifra-historica-busca-recaudar-us-90-400-millones-506496",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Anthropic sale a bolsa y apunta a una cifra histórica: busca recaudar US$90.400 millones",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito respaldará la rehabilitación de 4.000 hogares afectados por el sismo del 10 de agosto",
+        "url": "https://www.portafolio.co/negocios/comercio/grupo-exito-acompanara-la-recuperacion-de-4-000-familias-victimas-del-terremoto-del-pasado-10-de-agosto-506490",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Grupo Éxito acompañará la recuperación de 4.000 familias víctimas del terremoto del 10 de agosto",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito destinará $10.000 millones para socorrer a los hogares damnificados por el sismo",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-exito-invertira-10-000-millones-para-ayudar-a-familias-afectadas-por-el-terremoto-506487",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Grupo Éxito invertirá $10.000 millones para ayudar a familias afectadas por el terremoto",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
+      {
+        "titulo": "Compañías colombianas no podrán emplear libremente información pública para entrenar IA",
+        "url": "https://www.portafolio.co/negocios/empresas/empresas-colombianas-no-podran-usar-datos-publicos-libremente-para-entrenar-modelos-de-inteligencia-artificial-506484",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Empresas colombianas no podrán usar datos públicos libremente para entrenar modelos de inteligencia artificial",
+        "capturado": "2026-11-17T13:10:11-05:00"
+      },
       {
         "titulo": "Gastos de personal decembrino: qué monto requiere facturar un negocio colombiano para pagar salarios de 2026",
         "url": "https://www.portafolio.co/negocios/empresas/costos-laborales-en-navidad-cuanto-debe-vender-un-comercio-en-colombia-para-cubrir-la-nomina-de-fin-de-ano-de-506476",
@@ -1144,66 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-12",
         "titulo_fuente": "BTG Pactual rompe récord de ganancias: utilidades crecieron 17 % y llegaron a US$1.000 millones en 2026",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Enka incrementó 15,8 veces su beneficio neto entre los meses de julio y septiembre",
-        "url": "https://www.portafolio.co/negocios/empresas/enka-multiplico-por-15-8-su-utilidad-neta-entre-julio-y-septiembre-506233",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Enka multiplicó por 15,8 su utilidad neta entre julio y septiembre",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Empresas Bern: la trayectoria familiar que forjó un emporio de finca raíz al cambiar Panamá",
-        "url": "https://www.portafolio.co/negocios/empresas/empresas-bern-la-historia-familiar-que-construyo-un-imperio-inmobiliario-mientras-transformaba-panama-506227",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Empresas Bern: la historia familiar que construyó un imperio inmobiliario mientras transformaba Panamá",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Beneficio neto ajustado de Cementos Argos bajó 29,2 % en el tercer trimestre por energía y revaluación",
-        "url": "https://www.portafolio.co/negocios/empresas/utilidad-neta-ajustada-de-cementos-argos-cayo-29-2-en-el-tercer-trimestre-por-energia-y-revaluacion-del-peso-506221",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Utilidad neta ajustada de Cementos Argos cayó 29,2 % en el tercer trimestre por energía y revaluación del peso",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Conozca la propuesta de Singapore Airlines para descansar en cama doble a 10.000 metros de altura",
-        "url": "https://www.portafolio.co/negocios/empresas/le-gustaria-dormir-en-cama-doble-a-10-000-metros-de-altura-asi-es-la-nueva-apuesta-de-singapore-airlines-506218",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "¿Le gustaría dormir en cama doble a 10.000 metros de altura? Así es la nueva apuesta de Singapore Airlines",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Quién es Colette Kress, la mujer que asumirá el mando de Nvidia tras la renuncia de Jensen Huang",
-        "url": "https://www.portafolio.co/negocios/empresas/quien-es-colette-kress-la-mujer-que-asumira-el-mando-de-nvidia-tras-la-renuncia-de-jensen-huang-506217",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Quién es Colette Kress, la mujer que asumirá el mando de Nvidia tras la renuncia de Jensen Huang",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Colsubsidio recibe 26 % más solicitudes de medicamentos de lo previsto para atender a Sanitas",
-        "url": "https://www.portafolio.co/negocios/empresas/las-solicitudes-de-medicamentos-desbordan-a-colsubsidio-recibe-26-mas-de-lo-que-esperaba-para-atender-a-sanitas-506210",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Las solicitudes de medicamentos desbordan a Colsubsidio: recibe 26 % más de lo que esperaba para atender a Sanitas",
         "capturado": "2026-11-12T13:42:21-05:00"
       }
     ]
