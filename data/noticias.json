@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-16T12:16:00-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-11-16T19:56:50-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sismo de agosto le habría restado hasta 0,8 puntos porcentuales al PIB del tercer trimestre",
+        "url": "https://www.portafolio.co/economia/terremoto-de-agosto-habria-restado-hasta-0-8-puntos-porcentuales-al-crecimiento-del-pib-del-tercer-trimestre-506287",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Terremoto de agosto habría restado hasta 0,8 puntos porcentuales al crecimiento del PIB del tercer trimestre",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "IA, inclusión y otros desafíos financieros para el próximo cuatrienio",
+        "url": "https://www.portafolio.co/economia/finanzas/la-inteligencia-artificial-la-inclusion-y-mas-retos-financieros-para-los-proximos-cuatro-anos-506477",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "La inteligencia artificial, la inclusión y más retos financieros para los próximos cuatro años",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella veta el café foráneo en el Estado y revive debate de contratación",
+        "url": "https://www.portafolio.co/economia/agro/abelardo-de-la-espriella-prohibe-el-cafe-importado-en-entidades-estatales-y-reabre-debate-sobre-compras-publicas-506334",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Abelardo de la Espriella prohíbe el café importado en entidades estatales y reabre debate sobre compras públicas",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Siniestro en el túnel de La Línea bloquea por completo la ruta Ibagué-Armenia en plan retorno",
+        "url": "https://www.portafolio.co/economia/infraestructura/accidente-en-el-tunel-de-la-linea-cierra-totalmente-la-via-ibague-armenia-en-pleno-plan-retorno-de-lunes-festivo-506463",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Accidente en el túnel de La Línea cierra totalmente la vía Ibagué-Armenia en pleno plan retorno de lunes festivo",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Compañías analizan primas extralegales para frenar gastos de personal y mejorar pagos en 2027",
+        "url": "https://www.portafolio.co/economia/empresas-evaluan-beneficios-extralegales-para-contener-el-costo-de-nomina-y-reforzar-la-remuneracion-en-506284",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Empresas evalúan beneficios extralegales para contener el costo de nómina y reforzar la remuneración en 2027",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Terminal aérea de Barranquilla inauguró flamante salón internacional y área migratoria",
+        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-de-barranquilla-ernesto-cortissoz-estreno-una-nueva-sala-internacional-y-zona-de-inmigracion-506466",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Aeropuerto de Barranquilla, Ernesto Cortissoz, estrenó una nueva sala internacional y zona de inmigración",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Qué le falta al Metro de Bogotá para operar en 2028: 4 kilómetros de viaducto y el 15% restante de las obras",
+        "url": "https://www.portafolio.co/economia/infraestructura/que-le-falta-al-metro-de-bogota-para-operar-en-2028-4-kilometros-de-viaducto-y-el-15-restante-de-las-obras-506464",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Qué le falta al Metro de Bogotá para operar en 2028: 4 kilómetros de viaducto y el 15% restante de las obras",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Incendio en El GranSan, en el centro de Bogotá, dejó daños en 22 locales",
+        "url": "https://www.portafolio.co/economia/regiones/incendio-en-el-gransan-en-el-centro-de-bogota-dejo-danos-en-22-locales-506462",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Incendio en El GranSan, en el centro de Bogotá, dejó daños en 22 locales",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "No proponer IVA a la canasta familiar e insumos agrícolas es señal de tranquilidad para hogares y productores",
+        "url": "https://www.portafolio.co/economia/reforma-tributaria/no-proponer-iva-a-la-canasta-familiar-e-insumos-agricolas-es-senal-de-tranquilidad-para-hogares-y-productores-506460",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Reforma tributaria",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "'No proponer IVA a la canasta familiar e insumos agrícolas es señal de tranquilidad para hogares y productores'",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Becas virtuales en Bogotá: 100 cupos nuevos para pregrado, maestría y doctorado",
+        "url": "https://www.portafolio.co/economia/regiones/becas-virtuales-en-bogota-100-cupos-nuevos-para-pregrado-maestria-y-doctorado-506458",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Becas virtuales en Bogotá: 100 cupos nuevos para pregrado, maestría y doctorado",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Bancóldex y Fontur lanzan línea de crédito Turismo Milagro con $100.000 millones para las mipymes turísticas",
+        "url": "https://www.portafolio.co/economia/regiones/bancoldex-y-fontur-lanzan-linea-de-credito-turismo-milagro-con-100-000-millones-para-las-mipymes-turisticas-506457",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Bancóldex y Fontur lanzan línea de crédito Turismo Milagro con $100.000 millones para las mipymes turísticas",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
       {
         "titulo": "Alimentos exentos de IVA según lo informado por De La Espriella",
         "url": "https://www.portafolio.co/economia/que-alimentos-de-la-canasta-familiar-no-tendrian-iva-lo-que-anuncio-de-la-espriella-506453",
@@ -493,119 +603,49 @@
         "publicacion": "2026-11-13",
         "titulo_fuente": "Línea 4 del Metro de Bogotá recibe millonario impulso: Gobierno nacional confirma cuánto pondrá para el proyecto",
         "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Gobierno destina $255.000 millones para importante vía de Córdoba que impactará a más de 426.000 personas",
-        "url": "https://www.portafolio.co/economia/infraestructura/gobierno-anuncia-inversion-de-255-000-millones-para-via-clave-de-cordoba-beneficiara-a-mas-de-426-000-personas-506356",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Gobierno anuncia inversión de $255.000 millones para vía clave de Córdoba: beneficiará a más de 426.000 personas",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Hospitales, colegios y vías reciben los $200.000 millones donados por Sarmiento Angulo por el sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/hospitales-colegios-y-vias-asi-se-distribuyen-los-200-000-millones-que-dono-sarmiento-angulo-tras-el-terremoto-506341",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Hospitales, colegios y vías: así se distribuyen los $200.000 millones que donó Sarmiento Angulo tras el terremoto",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Superan las 25.000 ofertas de empleo disponibles al concluir la tercera jornada de la Empleatón 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/mas-de-25-000-vacantes-activas-tras-el-tercer-dia-de-la-empleaton-nacional-506350",
-        "resumen": "",
-        "autor": "Maira alejandra rodriguez chicuazuque",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Más de 25.000 vacantes activas tras el tercer día de la Empleatón Nacional 2026",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Supersalud informa cantidad de fármacos entregados a afiliados tras vigilancia a Sanitas y Colsubsidio",
-        "url": "https://www.portafolio.co/economia/gobierno/seguimiento-a-sanitas-y-colsubsidio-supersalud-revelo-cuantos-medicamentos-ya-han-entregado-a-los-usuarios-506347",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Seguimiento a Sanitas y Colsubsidio: Supersalud reveló cuántos medicamentos ya han entregado a los usuarios",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Ejecutivo expone Ley de Rescate ante el Banco Mundial en cita crucial sobre finanzas de Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-presenta-la-ley-de-rescate-al-banco-mundial-reunion-clave-sobre-la-situacion-fiscal-de-colombia-506346",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Gobierno presenta la Ley de Rescate al Banco Mundial, reunión clave sobre la situación fiscal de Colombia",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Venta directa genera $7,5 billones con 2,4 millones de colombianos en la nueva economía del ingreso extra",
-        "url": "https://www.portafolio.co/economia/finanzas/la-nueva-economia-del-ingreso-extra-venta-directa-mueve-7-5-billones-y-reune-a-2-4-millones-de-colombianos-506338",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "La nueva economía del ingreso extra: venta directa mueve $7,5 billones y reúne a 2,4 millones de colombianos",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Gobierno acepta a nuevo líder sindical de la CGT y cambia la negociación del salario mínimo 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/giro-en-la-negociacion-del-salario-minimo-2027-gobierno-reconoce-a-nuevo-lider-sindical-de-la-cgt-506336",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Giro en la negociación del salario mínimo 2027: Gobierno reconoce a nuevo líder sindical de la CGT",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Nombran equipo para el primer debate de la Ley de Rescate Económico en la Cámara",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-da-nuevo-paso-en-la-camara-designan-equipo-para-el-primer-debate-del-proyecto-506335",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Ley de Rescate Económico da nuevo paso en la Cámara: designan equipo para el primer debate del proyecto",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Jaime Uribe deja la gerencia del Fondo Milagro tras controversia por altos sueldos de empleados",
-        "url": "https://www.portafolio.co/economia/gobierno/renuncio-jaime-uribe-gerente-del-fondo-milagro-tras-polemica-por-millonarios-salarios-de-funcionarios-506330",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Renunció Jaime Uribe, gerente del Fondo Milagro, tras polémica por millonarios salarios de funcionarios",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Procuraduría señala peligros en el nuevo modelo tarifario de aseo ante protestas de recicladores",
-        "url": "https://www.portafolio.co/economia/regiones/procuraduria-advierte-riesgos-en-nuevo-modelo-tarifario-de-aseo-en-medio-de-protestas-de-recicladores-en-bogota-506325",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Procuraduría advierte riesgos en nuevo modelo tarifario de aseo en medio de protestas de recicladores en Bogotá",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Espacio aéreo de Bogotá cerrado por revista de la FAC: conozca el horario de la restricción",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-tiene-cerrado-su-espacio-aereo-por-revista-de-la-fac-hasta-que-hora-estara-la-restriccion-506322",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Bogotá tiene cerrado su espacio aéreo por revista de la FAC: ¿hasta qué hora estará la restricción?",
-        "capturado": "2026-11-13T16:11:32-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Gastos de personal decembrino: qué monto requiere facturar un negocio colombiano para pagar salarios de 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/costos-laborales-en-navidad-cuanto-debe-vender-un-comercio-en-colombia-para-cubrir-la-nomina-de-fin-de-ano-de-506476",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Costos laborales en Navidad: cuánto debe vender un comercio en Colombia para cubrir la nómina de fin de año de 2026",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Morano Gruppo apunta sus intereses hacia la fabricación de carburante aeronáutico ecológico",
+        "url": "https://www.portafolio.co/negocios/empresas/morano-gruppo-ya-tiene-la-mira-puesta-en-el-negocio-de-producir-combustible-sostenible-de-aviacion-506298",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Morano Gruppo ya tiene la mira puesta en el negocio de producir combustible sostenible de aviación",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "El sector comercial del barrio bogotano El Restrepo sufre afectaciones por la competencia china",
+        "url": "https://www.portafolio.co/negocios/comercio/barrio-el-restrepo-de-bogota-en-aprietos-por-el-comercio-chino-mama-donde-estan-los-zapatos-506352",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Barrio El Restrepo de Bogotá, en aprietos por el comercio chino: mamá, ¿dónde están los zapatos?",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
+      {
+        "titulo": "Cerro Matoso se integra al Plan Destrabe estatal y proyecta inversiones tras la Milagro Week",
+        "url": "https://www.portafolio.co/negocios/inversion/cerro-matoso-entra-al-plan-destrabe-del-gobierno-las-inversiones-que-buscan-avanzar-despues-de-la-milagro-week-506459",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "Cerro Matoso entra al Plan Destrabe del Gobierno: las inversiones que buscan avanzar después de la Milagro Week",
+        "capturado": "2026-11-16T19:56:50-05:00"
+      },
       {
         "titulo": "Arranca la Milagro Week: 97 iniciativas persiguen en Nueva York US$41.900 millones de capital y recursos",
         "url": "https://www.portafolio.co/negocios/inversion/inicia-la-milagro-week-97-proyectos-buscan-en-nueva-york-us-41-900-millones-de-inversion-y-financiacion-506450",
@@ -1164,46 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-12",
         "titulo_fuente": "Las solicitudes de medicamentos desbordan a Colsubsidio: recibe 26 % más de lo que esperaba para atender a Sanitas",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Éxito y Carulla inician Black Days con rebajas de hasta el 50 % y habilitan Códigos Black",
-        "url": "https://www.portafolio.co/negocios/empresas/exito-y-carulla-lanzan-black-days-con-descuentos-de-hasta-50-y-estrena-los-codigos-black-506208",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Éxito y Carulla lanzan Black Days con descuentos de hasta 50 % y estrena los 'Códigos Black'",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Mineros sube su meta aurífera para 2026 y acrecienta un 38% sus utilidades en nueve meses",
-        "url": "https://www.portafolio.co/negocios/empresas/mineros-eleva-su-meta-de-produccion-de-oro-para-2026-y-aumenta-38-sus-ganancias-en-nueve-meses-506206",
-        "resumen": "",
-        "autor": "Paula galeano balaguera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Mineros eleva su meta de producción de oro para 2026 y aumenta 38% sus ganancias en nueve meses",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "El Salón del Automóvil marcaría un hito histórico en transacciones comerciales",
-        "url": "https://www.portafolio.co/negocios/vehiculo/el-salon-del-automovil-batiria-record-de-ventas-506200",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "El Salón del Automóvil batiría récord de ventas",
-        "capturado": "2026-11-12T13:42:21-05:00"
-      },
-      {
-        "titulo": "Razones y cifras de Colsubsidio ante el alto tráfico y congestión en la entrega de fármacos de Sanitas",
-        "url": "https://www.portafolio.co/negocios/empresas/colsubsidio-reporta-alta-demanda-y-congestion-para-entregar-medicamentos-de-sanitas-las-cifras-y-las-razones-506201",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Colsubsidio reporta alta demanda y congestión para entregar medicamentos de Sanitas: las cifras y las razones",
         "capturado": "2026-11-12T13:42:21-05:00"
       }
     ]
