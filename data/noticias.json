@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-18T03:52:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-18T12:48:16-05:00",
+  "nuevos_en_esta_corrida": 27,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Prima de diciembre 2026: plazo límite de pago y fórmula para calcularla",
+        "url": "https://www.portafolio.co/economia/empleo/prima-de-diciembre-2026-hasta-que-dia-se-puede-pagar-la-prima-y-como-hacer-el-calculo-506582",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Prima de diciembre 2026: ¿Hasta que día se puede pagar la prima y cómo hacer el cálculo?",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Salario mínimo de 2027: Ejecutivo establece el 15 de diciembre como primer término para pactar",
+        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-gobierno-fija-fechas-y-pone-el-15-de-diciembre-como-primer-plazo-para-lograr-un-acuerdo-506592",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Salario mínimo de 2027: Gobierno fija fechas y pone el 15 de diciembre como primer plazo para lograr un acuerdo",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Jaime Alberto Cabal, dirigente de Fenalco, sugirió modificar la forma de concertar el salario mínimo",
+        "url": "https://www.portafolio.co/economia/gobierno/jaime-alberto-cabal-presidente-de-fenalco-planteo-reformar-el-mecanismo-de-concertacion-del-salario-minimo-506585",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Jaime Alberto Cabal, presidente de Fenalco, planteó reformar el mecanismo de concertación del salario mínimo",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Banco Popular redujo de 14 a 4 sus tarjetas de crédito para que los usuarios escojan según sus gustos",
+        "url": "https://www.portafolio.co/economia/finanzas/banco-popular-paso-de-14-a-4-tarjetas-de-credito-y-asi-los-clientes-pueden-elegir-segun-sus-intereses-506588",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Banco Popular pasó de 14 a 4 tarjetas de crédito y así los clientes pueden elegir según sus intereses",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado detiene modificación que pasó parte del riesgo de rentas vitalicias a aseguradoras",
+        "url": "https://www.portafolio.co/economia/consejo-de-estado-frena-cambio-que-traslado-parte-del-riesgo-de-las-rentas-vitalicias-a-las-aseguradoras-506587",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Consejo de Estado frena cambio que trasladó parte del riesgo de las rentas vitalicias a las aseguradoras",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia variaría entre $3.400 y $3.250 esta semana según dos factores determinantes",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-podria-subir-hasta-3-400-o-bajar-a-3-250-esta-semana-las-dos-senales-definirian-su-precio-506578",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Dólar en Colombia podría subir hasta $3.400 o bajar a $3.250 esta semana: las dos señales definirían su precio",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Propuesta para el salario mínimo 2027 busca un alza de hasta el 7% y ubicarlo en $1.873.468 sin subsidio de transporte",
+        "url": "https://www.portafolio.co/economia/centro-javeriano-propone-que-el-salario-minimo-de-2027-suba-maximo-7-y-llegue-a-1-873-468-sin-auxilio-506579",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Salario mínimo 2027: lanzan nueva propuesta para que suba máximo 7% y llegue a $1.873.468 sin auxilio de transporte",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado exige a Petro eliminar trinos sobre presunto fraude electoral por estas motivaciones",
+        "url": "https://www.portafolio.co/economia/gobierno/consejo-de-estado-le-ordena-a-petro-borrar-publicaciones-sobre-supuesto-fraude-electoral-estas-fueron-las-razones-506575",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Consejo de Estado le ordena a Petro borrar publicaciones sobre supuesto fraude electoral: estas fueron las razones",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Colombia gestión US$500 millones con el BID para financiar iniciativa de palma y renovar el campo",
+        "url": "https://www.portafolio.co/economia/agro/colombia-busca-us-500-millones-con-el-bid-para-impulsar-un-megaproyecto-de-palma-de-aceite-y-transformar-el-agro-506573",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Colombia busca US$500 millones con el BID para impulsar un megaproyecto de palma de aceite y transformar el agro",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Analistas señalan que la corrección fiscal será fundamental para la recuperación económica en 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/expertos-advierten-que-el-ajuste-fiscal-sera-clave-para-reactivar-la-economia-en-506574",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Expertos advierten que el ajuste fiscal será clave para reactivar la economía en 2027",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "De La Espriella Lawyers confirma demandas contra María Fernanda Carrascal tras controversia con la Dian",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-lawyers-anuncia-acciones-legales-contra-maria-fernanda-carrascal-en-medio-de-lio-con-la-dian-506569",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "De La Espriella Lawyers anuncia acciones legales contra María Fernanda Carrascal en medio de lío con la Dian",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Colombia capta capitales por US$2.800 millones para fomentar iniciativas de salud, obras y energía",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-atrae-inversiones-por-us-2-800-millones-para-impulsar-proyectos-de-salud-infraestructura-y-energia-506570",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Colombia atrae inversiones por US$2.800 millones para impulsar proyectos de salud, infraestructura y energía",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Contraloría alerta déficit de 1.500 operarios en el Metro bogotano que se importarán de China por US$ 10 millones",
+        "url": "https://www.portafolio.co/economia/infraestructura/contraloria-advierte-que-faltan-1-500-trabajadores-en-el-metro-de-bogota-y-se-traeran-de-china-por-us-10-millones-506568",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Contraloría advierte que faltan 1.500 trabajadores en el Metro de Bogotá y se traerán de China por US$ 10 millones",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Divisa europea desciende ante la moneda colombiana en la apertura cambiaria del 18 de noviembre",
+        "url": "https://www.portafolio.co/economia/finanzas/el-euro-baja-frente-al-peso-colombiano-asi-abrio-el-mercado-este-18-de-noviembre-506567",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "El euro baja frente al peso colombiano: así abrió el mercado este 18 de noviembre",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Ejecutivo sella pacto con Meta para frenar enganche de niños mediante plataformas digitales y sus detalles",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-firma-acuerdo-con-meta-para-combatir-el-reclutamiento-de-menores-por-redes-estos-son-los-alcances-506562",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Gobierno firma acuerdo con Meta para combatir el reclutamiento de menores por redes: estos son los alcances",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio estadounidense detiene su repunte y baja este miércoles 18 de noviembre con su valor oficial",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-frena-su-racha-alcista-y-cae-este-miercoles-18-de-noviembre-este-es-su-precio-oficial-506559",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Dólar en Colombia frena su racha alcista y cae este miércoles 18 de noviembre: este es su precio oficial",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
       {
         "titulo": "Natalia Abello Vives es nombrada presidenta del holding financiero estatal Grupo Bicentenario",
         "url": "https://www.portafolio.co/economia/gobierno/grupo-bicentenario-designa-a-natalia-abello-vives-como-nueva-presidenta-del-holding-financiero-del-estado-506549",
@@ -443,169 +603,119 @@
         "publicacion": "2026-11-16",
         "titulo_fuente": "¿Qué alimentos de la canasta familiar no tendrían IVA? Lo que anunció De La Espriella",
         "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Nueve gremios ganaderos apoyaron al titular de Fedegán y Fondo Nacional del Ganado",
-        "url": "https://www.portafolio.co/economia/regiones/gremios-ganaderos-de-nueve-regiones-respaldaron-al-presidente-de-fedegan-y-fondo-nacional-del-ganado-506451",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Gremios ganaderos de nueve regiones respaldaron al presidente de Fedegán y Fondo Nacional del Ganado",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Señalan anomalías en contratos por 45.800 millones de pesos con dineros de multas viales",
-        "url": "https://www.portafolio.co/economia/denuncian-contratos-por-45-800-millones-con-recursos-de-multas-de-transito-que-irregularidades-senalan-506448",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Denuncian contratos por $45.800 millones con recursos de multas de tránsito: ¿qué irregularidades señalan?",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Temas centrales de la alocución de De La Espriella sobre sus primeros 100 días",
-        "url": "https://www.portafolio.co/economia/gobierno/iva-seguridad-reconstruccion-y-balance-de-sus-primeros-100-dias-claves-de-la-ultima-alocucion-de-de-la-espriella-506445",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "IVA, seguridad, reconstrucción y balance de sus primeros 100 días: claves de la última alocución de De La Espriella",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Puente bicipeatonal Titán Plaza en avenida Boyacá alcanza 87 por ciento y abrirá en diciembre",
-        "url": "https://www.portafolio.co/economia/infraestructura/el-nuevo-puente-bicipeatonal-de-titan-plaza-en-la-avenida-boyaca-supera-el-87-de-obra-y-abrira-en-diciembre-506441",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "El nuevo puente bicipeatonal de Titán Plaza en la avenida Boyacá supera el 87% de obra y abrirá en diciembre",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Reacciones al anuncio presidencial de descartar tributos nuevos a la canasta familiar",
-        "url": "https://www.portafolio.co/economia/no-habra-nuevos-impuestos-a-la-canasta-familiar-las-reacciones-tras-el-anuncio-presidencial-506443",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "No habrá nuevos impuestos a la canasta familiar: las reacciones tras el anuncio presidencial",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Nuevos precios en peajes de la ruta Bogotá-Villavicencio: consulte las tarifas por categoría desde hoy",
-        "url": "https://www.portafolio.co/economia/infraestructura/nuevas-tarifas-en-los-peajes-en-la-via-bogota-villavicencio-estos-son-los-valores-por-categoria-desde-hoy-506437",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Nuevas tarifas en los peajes en la vía Bogotá-Villavicencio: estos son los valores por categoría desde hoy",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Empresas, inversión y turismo: los tres programas estelares de la agenda económica de Mincomercio",
-        "url": "https://www.portafolio.co/economia/gobierno/inversion-empresas-y-turismo-los-3-programas-milagro-que-resumen-la-agenda-economica-del-ministerio-de-comercio-506438",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Inversión, empresas y turismo: los 3 programas 'Milagro' que resumen la agenda económica del Ministerio de Comercio",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Ricardo Ávila analiza los complicados cien primeros días de la reconstrucción tras el sismo de agosto",
-        "url": "https://www.portafolio.co/economia/regiones/analisis-de-ricado-avila-los-accidentados-primeros-100-dias-de-la-reconstruccion-por-el-terremoto-del-10-de-agosto-506436",
-        "resumen": "",
-        "autor": "Ricardo avila",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Análisis de Ricardo Ávila: los accidentados primeros 100 días de la reconstrucción por el terremoto de agosto",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "Razones por las cuales el IVA a la canasta familiar pudo eliminarse en la Ley de Rescate Económico",
-        "url": "https://www.portafolio.co/economia/por-que-era-posible-que-se-cayera-el-iva-a-la-canasta-familiar-en-la-reforma-tributaria-506435",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "¿Por qué era posible que se cayera el IVA a la canasta familiar en la Ley de Rescate Económico?",
-        "capturado": "2026-11-16T12:16:00-05:00"
-      },
-      {
-        "titulo": "De La Espriella asegura que no tocará la canasta familiar pese a los cambios en el IVA de la Ley de Rescate",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-promete-no-gravar-la-canasta-familiar-pero-la-ley-de-rescate-plantea-cambios-en-el-iva-506433",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "De La Espriella promete no gravar la canasta familiar, pero la Ley de Rescate plantea cambios en el IVA",
-        "capturado": "2026-11-16T02:02:16-05:00"
-      },
-      {
-        "titulo": "Discurso del mandatario Abelardo De La Espriella al cumplir 100 días en el poder",
-        "url": "https://www.portafolio.co/economia/gobierno/alocucion-de-presidente-abelardo-de-la-espriella-en-sus-100-dias-de-gobierno-506431",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "Alocución de presidente Abelardo De La Espriella, en sus 100 días de Gobierno",
-        "capturado": "2026-11-16T02:02:16-05:00"
-      },
-      {
-        "titulo": "Milagro Week: la rueda de inversión colombiana en Nueva York del 16 al 19 de noviembre",
-        "url": "https://www.portafolio.co/economia/gobierno/milagro-week-asi-sera-la-rueda-de-inversion-de-colombia-en-nueva-york-del-16-al-19-de-noviembre-506428",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "Milagro Week: así será la rueda de inversión de Colombia en Nueva York del 16 al 19 de noviembre",
-        "capturado": "2026-11-15T19:10:02-05:00"
-      },
-      {
-        "titulo": "El valor de la papa sube 98% y afecta la economía de las familias del país",
-        "url": "https://www.portafolio.co/economia/la-papa-se-dispara-precio-aumento-98-y-presiona-el-bolsillo-de-los-hogares-colombianos-506427",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "La papa se dispara: precio aumentó 98% y presiona el bolsillo de los hogares colombianos",
-        "capturado": "2026-11-15T15:09:19-05:00"
-      },
-      {
-        "titulo": "Reportan 17 lesionados tras volcamiento de bus escolar en Norte de Santander",
-        "url": "https://www.portafolio.co/economia/regiones/accidente-de-bus-con-estudiantes-en-norte-de-santander-deja-17-heridos-este-es-el-balance-actualizado-506425",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "Accidente de bus con estudiantes en Norte de Santander deja 17 heridos: este es el balance actualizado",
-        "capturado": "2026-11-15T15:09:19-05:00"
-      },
-      {
-        "titulo": "Departamentos enviaron al DNP 2.495 iniciativas por $566,9 billones para la hoja de ruta 2026-2030",
-        "url": "https://www.portafolio.co/economia/gobierno/regiones-le-presentaron-al-dnp-2-495-proyectos-por-566-9-billones-para-el-plan-nacional-de-desarrollo-2026-506423",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "Regiones le presentaron al DNP 2.495 proyectos por $566,9 billones para el Plan Nacional de Desarrollo 2026-2030",
-        "capturado": "2026-11-15T15:09:19-05:00"
-      },
-      {
-        "titulo": "Metro de Bogotá y RegioTram del Norte están entre las 15 iniciativas para la Milagro Week",
-        "url": "https://www.portafolio.co/economia/infraestructura/linea-4-del-metro-y-regiotram-del-norte-entre-los-15-proyectos-que-bogota-llevara-a-la-milagro-week-506419",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-15",
-        "titulo_fuente": "Línea 4 del Metro y RegioTram del Norte, entre los 15 proyectos que Bogotá llevará a la Milagro Week",
-        "capturado": "2026-11-15T15:09:19-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Los ingresos de Avianca subieron 21,3% en el tercer trimestre, aunque su rentabilidad disminuyó",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-aumento-sus-ingresos-21-3-en-el-tercer-trimestre-pero-tuvo-un-retroceso-en-rentabilidad-506593",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Avianca aumentó sus ingresos 21,3% en el tercer trimestre, pero tuvo un retroceso en rentabilidad",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial crea un mercado de US$350.000 millones y las firmas buscan aliados",
+        "url": "https://www.portafolio.co/negocios/empresas/la-ia-abre-un-mercado-de-us-350-000-millones-y-las-empresas-ya-buscan-quien-las-ayude-a-implementarla-506590",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "La IA abre un mercado de US$350.000 millones y las empresas ya buscan quién las ayude a implementarla",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "César Rodríguez encabeza MetLife Colombia para apuntar al crecimiento y la transformación digital",
+        "url": "https://www.portafolio.co/negocios/empresas/cesar-rodriguez-asume-la-direccion-de-metlife-colombia-con-foco-en-crecimiento-y-transformacion-digital-506589",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "César Rodríguez asume la dirección de MetLife Colombia con foco en crecimiento y transformación digital",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Cual es la formula para que la economia mejore su crecimiento, segun la nueva presidenta de la Andi",
+        "url": "https://www.portafolio.co/negocios/industrias/cual-es-la-formula-para-que-la-economia-mejore-su-crecimiento-segun-la-nueva-presidenta-de-la-andi-506584",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "¿Cuál es la fórmula para que la economía mejore su crecimiento, según la nueva presidenta de la Andi?",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Colombia agranda su desdeficit comercial: el saldo negativo supero los US$16.000 millones en 2026",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-profundiza-su-desbalance-comercial-el-deficit-aumento-y-supero-los-us-16-000-millones-en-506581",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Colombia profundiza su desbalance comercial: el déficit aumentó y superó los US$16.000 millones en 2026",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Las marcas detras de Italika, la firma de motos que arribara a Barranquilla tras junta de Salinas y De La Espriella",
+        "url": "https://www.portafolio.co/negocios/vehiculo/las-marcas-detras-de-italika-empresa-de-motos-que-llegara-a-barranquilla-tras-reunion-de-salinas-y-de-la-espriella-506566",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Las marcas detrás de Italika, empresa de motos que llegará a Barranquilla tras reunión de Salinas y De La Espriella",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "PepsiCo robustece su agroindustria colombiana adquiriendo papa y plátano directo a pequeños agricultores",
+        "url": "https://www.portafolio.co/negocios/empresas/pepsico-fortalece-su-negocio-agricola-en-colombia-con-compras-directas-de-papa-y-platano-a-pequenos-productores-506565",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "PepsiCo fortalece su negocio agrícola en Colombia con compras directas de papa y plátano a pequeños productores",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Geely ofrece crédito hasta del 100 por ciento a seis años para vehículos por acuerdo con Sufi",
+        "url": "https://www.portafolio.co/negocios/vehiculo/geely-anuncia-financiacion-de-hasta-el-100-y-plazos-de-seis-anos-para-comprar-sus-carros-tras-alianza-con-sufi-506564",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Geely anuncia financiación de hasta el 100 % y plazos de seis años para comprar sus carros tras alianza con Sufi",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Black Days y Navidad ilusionan al comercio tras un octubre de alza moderada en las ventas",
+        "url": "https://www.portafolio.co/negocios/comercio/comercio-espera-que-black-days-y-navidad-impulsen-las-ventas-tras-un-octubre-de-crecimiento-moderado-506561",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Black Days y Navidad, las grandes esperanzas del comercio en ventas tras un octubre de crecimiento moderado",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "D1, Éxito e Ísimo prepararían su ingreso a Venezuela y evaluarían abrir locales en 2027",
+        "url": "https://www.portafolio.co/negocios/comercio/d1-exito-e-isimo-estarian-alistando-su-llegada-a-venezuela-cadenas-colombianas-evaluarian-abrir-tiendas-en-506563",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "D1, Éxito e Ísimo estarían alistando su llegada a Venezuela: cadenas colombianas evaluarían abrir tiendas en 2027",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
+      {
+        "titulo": "Minería, petróleo y aeropuertos: inversiones por casi US$8.815 millones en el segundo día de la Milagro Week",
+        "url": "https://www.portafolio.co/negocios/inversion/mineria-petroleo-y-aeropuertos-los-anuncios-de-inversion-por-cerca-de-us-8-815-del-segundo-dia-de-la-milagro-week-506560",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Minería, petróleo y aeropuertos: los anuncios de inversión por cerca de US$8.815 del segundo día de la Milagro Week",
+        "capturado": "2026-11-18T12:48:16-05:00"
+      },
       {
         "titulo": "Addi destinará US$2.000 millones en Colombia en dos años para potenciar créditos y ahorros",
         "url": "https://www.portafolio.co/negocios/empresas/addi-anuncia-inversion-de-us-2-000-millones-en-colombia-durante-24-meses-para-ampliar-credito-y-ahorro-506550",
@@ -1095,116 +1205,6 @@
         "publicacion": "2026-11-13",
         "titulo_fuente": "Donación Fundación Sarmiento Angulo: así se invertirá en Valle, Risaralda y Chocó",
         "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Dane reporta incremento del 9,7% en ventas del comercio nacional en septiembre y subida del 1,2% en empleo",
-        "url": "https://www.portafolio.co/negocios/comercio/ventas-del-comercio-colombiano-subieron-9-7-en-septiembre-y-el-empleo-crecio-apenas-1-2-reporta-el-dane-506317",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Ventas del comercio colombiano subieron 9,7% en septiembre y el empleo creció apenas 1,2%, reporta el Dane",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Utilidades del Grupo Energía Bogotá disminuyeron 19%: motivos del balance financiero",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-energia-bogota-reporto-caida-del-19-en-sus-utilidades-estas-son-las-razones-detras-del-resultado-506316",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Grupo Energía Bogotá reportó caída del 19% en sus utilidades: estas son las razones detrás del resultado",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Producción de la industria manufacturera subió 1,5% en septiembre, aunque 20 sectores continuaron cayendo",
-        "url": "https://www.portafolio.co/negocios/industrias/industria-manufacturera-crecio-1-5-en-septiembre-pero-20-actividades-siguieron-con-produccion-a-la-baja-506315",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Industria manufacturera creció 1,5% en septiembre, pero 20 actividades siguieron con producción a la baja",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "La competencia para captar capital se transforma: conozca los nuevos intereses corporativos",
-        "url": "https://www.portafolio.co/negocios/empresas/la-carrera-por-atraer-inversion-esta-cambiando-estos-son-los-nuevos-factores-que-buscan-las-empresas-506302",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "La carrera por atraer inversión está cambiando: estos son los nuevos factores que buscan las empresas",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Boom: la respuesta de David Vélez a los balances de Nubank por utilidades récord en 2026",
-        "url": "https://www.portafolio.co/negocios/empresas/boom-la-reaccion-de-david-velez-a-los-resultados-de-nubank-tras-alcanzar-ganancias-record-en-506299",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "‘¡Boom!’: la reacción de David Vélez a los resultados de Nubank tras alcanzar ganancias récord en 2026",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Apoyo a la empresa privada en medio de controversias con las asociaciones",
-        "url": "https://www.portafolio.co/negocios/empresas/respaldo-al-sector-privado-entre-polemicas-con-gremios-506296",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Respaldo al sector privado entre polémicas con gremios",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Davivienda registró ganancias por $1,75 billones a septiembre, pese a descenso de 21,8%",
-        "url": "https://www.portafolio.co/negocios/empresas/davivienda-genero-utilidades-de-1-75-billones-hasta-septiembre-pese-a-caida-de-21-8-de-sus-ganancias-506297",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Davivienda generó utilidades de $1,75 billones hasta septiembre, pese a caída de 21,8% de sus ganancias",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Las utilidades de Davivienda Group bajan: sumó $1,85 billones hasta septiembre",
-        "url": "https://www.portafolio.co/negocios/empresas/las-ganancias-de-davivienda-group-pierden-fuerza-acumulo-1-85-billones-en-utilidades-hasta-septiembre-506293",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Las ganancias de Davivienda Group pierden fuerza: acumuló $1,85 billones en utilidades hasta septiembre",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Microsoft informa mejoras en Outlook y otros servicios tras superar 17 horas de fallas",
-        "url": "https://www.portafolio.co/negocios/empresas/microsoft-anuncia-mejoras-en-outlook-y-otros-servicios-tras-mas-de-17-horas-de-fallas-esto-es-lo-que-se-sabe-506290",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Microsoft anuncia mejoras en Outlook y otros servicios tras más de 17 horas de fallas: esto es lo que se sabe",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Zonas francas suben ventas externas y ganan cuota en el comercio local a pesar de la caída del dólar",
-        "url": "https://www.portafolio.co/negocios/comercio/pese-al-dolar-mas-barato-zonas-francas-aumentan-sus-exportaciones-y-ganan-participacion-en-el-comercio-colombiano-506289",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Pese al dólar más barato, zonas francas aumentan sus exportaciones y ganan participación en el comercio colombiano",
-        "capturado": "2026-11-13T09:47:45-05:00"
-      },
-      {
-        "titulo": "Grupo Sura sube la meta de ganancia para 2026 tras lograr 2,3 billones a septiembre y superar pronósticos",
-        "url": "https://www.portafolio.co/negocios/empresas/grupo-sura-eleva-su-meta-de-utilidad-para-2026-tras-alcanzar-2-3-billones-a-septiembre-y-superar-sus-previsiones-506285",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Grupo Sura eleva su meta de utilidad para 2026 tras alcanzar $2,3 billones a septiembre y superar sus previsiones",
-        "capturado": "2026-11-13T09:47:45-05:00"
       }
     ]
   }
