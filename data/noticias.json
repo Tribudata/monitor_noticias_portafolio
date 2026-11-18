@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-18T12:48:16-05:00",
-  "nuevos_en_esta_corrida": 27,
+  "actualizado": "2026-11-18T18:54:34-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alerta: cabeza del Dane pone en duda censo económico de $330.000 millones y examinará sus datos",
+        "url": "https://www.portafolio.co/economia/gobierno/atencion-director-del-dane-cuestiona-censo-economico-de-330-000-millones-y-anuncia-revision-de-sus-resultados-506621",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Atención: Director del Dane cuestiona censo económico de $330.000 millones y anuncia revisión de sus resultados",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "La SAE planea transformar bienes a su cargo en complejos hoteleros con capital privado en el Caribe",
+        "url": "https://www.portafolio.co/economia/gobierno/la-sae-busca-convertir-inmuebles-bajo-su-administracion-en-proyectos-hoteleros-con-inversion-privada-en-el-caribe-506572",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "La SAE busca convertir inmuebles bajo su administración en proyectos hoteleros con inversión privada en el Caribe",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Francia acoge a 258.000 colombianos anuales ante la posibilidad de un vuelo directo Medellín–París",
+        "url": "https://www.portafolio.co/economia/seria-posible-una-ruta-directa-medellin-paris-francia-recibe-hasta-258-000-colombianos-al-ano-506618",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "¿Sería posible una ruta directa Medellín–París? Francia recibe hasta 258.000 colombianos al año",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo busca normatividad fija y procesos ágiles: las iniciativas del Vicepresidente",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-apuesta-por-reglas-estables-y-tramites-mas-rapidos-lo-que-propone-el-vicepresidente-506595",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Gobierno Nacional apuesta por reglas estables y tramites más rápidos: lo que propone el Vicepresidente",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo retira el IVA a la medicina prepagada y decreta un ajuste de $23,7 billones en gastos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-da-marcha-atras-al-iva-para-medicina-prepagada-y-anuncia-recorte-de-23-7-billones-en-el-gasto-publico-506609",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Gobierno da marcha atrás al IVA para medicina prepagada y anuncia recorte de $23,7 billones en el gasto público",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Tributo al carbono rebasaría los $212.000 por tonelada de carbón hacia 2029, avisa Fenalcarbón",
+        "url": "https://www.portafolio.co/economia/impuestos/impuesto-al-carbono-podria-superar-los-212-000-por-tonelada-de-carbon-en-2029-advierte-fenalcarbon-506610",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Impuestos",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Impuesto al carbono podría superar los $212.000 por tonelada de carbón en 2029, advierte Fenalcarbón",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Esto traería la ponencia del primer debate de la reforma tributaria según el ponente",
+        "url": "https://www.portafolio.co/economia/esto-es-lo-que-contendria-la-ponencia-para-el-primer-debate-de-la-reforma-tributaria-ponente-506608",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Esto es lo que contendría la ponencia para el primer debate de la reforma tributaria: ponente",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "El 44,4 % de los hogares bogotanos percibe un avance en su situación económica personal",
+        "url": "https://www.portafolio.co/economia/regiones/bogotanos-perciben-una-mejora-en-sus-finanzas-44-4-de-hogares-reporta-mejor-situacion-economica-506606",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Bogotanos perciben una mejora en sus finanzas: 44,4 % de hogares reporta mejor situación económica",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Modifican el rumbo de la Ley de Rescate Fiscal y el Gobierno decide impuestos",
+        "url": "https://www.portafolio.co/economia/ley-de-rescate-fiscal-cambia-de-rumbo-estos-son-los-impuestos-que-el-gobierno-decidio-mantener-y-modificar-506599",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Ley de Rescate Fiscal cambia de rumbo: estos son los impuestos que el Gobierno decidió mantener y modificar",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
       {
         "titulo": "Prima de diciembre 2026: plazo límite de pago y fórmula para calcularla",
         "url": "https://www.portafolio.co/economia/empleo/prima-de-diciembre-2026-hasta-que-dia-se-puede-pagar-la-prima-y-como-hacer-el-calculo-506582",
@@ -513,99 +603,139 @@
         "publicacion": "2026-11-16",
         "titulo_fuente": "Abelardo de la Espriella prohíbe el café importado en entidades estatales y reabre debate sobre compras públicas",
         "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Siniestro en el túnel de La Línea bloquea por completo la ruta Ibagué-Armenia en plan retorno",
-        "url": "https://www.portafolio.co/economia/infraestructura/accidente-en-el-tunel-de-la-linea-cierra-totalmente-la-via-ibague-armenia-en-pleno-plan-retorno-de-lunes-festivo-506463",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Accidente en el túnel de La Línea cierra totalmente la vía Ibagué-Armenia en pleno plan retorno de lunes festivo",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Compañías analizan primas extralegales para frenar gastos de personal y mejorar pagos en 2027",
-        "url": "https://www.portafolio.co/economia/empresas-evaluan-beneficios-extralegales-para-contener-el-costo-de-nomina-y-reforzar-la-remuneracion-en-506284",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Empresas evalúan beneficios extralegales para contener el costo de nómina y reforzar la remuneración en 2027",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Terminal aérea de Barranquilla inauguró flamante salón internacional y área migratoria",
-        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-de-barranquilla-ernesto-cortissoz-estreno-una-nueva-sala-internacional-y-zona-de-inmigracion-506466",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Aeropuerto de Barranquilla, Ernesto Cortissoz, estrenó una nueva sala internacional y zona de inmigración",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Qué le falta al Metro de Bogotá para operar en 2028: 4 kilómetros de viaducto y el 15% restante de las obras",
-        "url": "https://www.portafolio.co/economia/infraestructura/que-le-falta-al-metro-de-bogota-para-operar-en-2028-4-kilometros-de-viaducto-y-el-15-restante-de-las-obras-506464",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Qué le falta al Metro de Bogotá para operar en 2028: 4 kilómetros de viaducto y el 15% restante de las obras",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Incendio en El GranSan, en el centro de Bogotá, dejó daños en 22 locales",
-        "url": "https://www.portafolio.co/economia/regiones/incendio-en-el-gransan-en-el-centro-de-bogota-dejo-danos-en-22-locales-506462",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Incendio en El GranSan, en el centro de Bogotá, dejó daños en 22 locales",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "No proponer IVA a la canasta familiar e insumos agrícolas es señal de tranquilidad para hogares y productores",
-        "url": "https://www.portafolio.co/economia/reforma-tributaria/no-proponer-iva-a-la-canasta-familiar-e-insumos-agricolas-es-senal-de-tranquilidad-para-hogares-y-productores-506460",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Reforma tributaria",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "'No proponer IVA a la canasta familiar e insumos agrícolas es señal de tranquilidad para hogares y productores'",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Becas virtuales en Bogotá: 100 cupos nuevos para pregrado, maestría y doctorado",
-        "url": "https://www.portafolio.co/economia/regiones/becas-virtuales-en-bogota-100-cupos-nuevos-para-pregrado-maestria-y-doctorado-506458",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Becas virtuales en Bogotá: 100 cupos nuevos para pregrado, maestría y doctorado",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Bancóldex y Fontur lanzan línea de crédito Turismo Milagro con $100.000 millones para las mipymes turísticas",
-        "url": "https://www.portafolio.co/economia/regiones/bancoldex-y-fontur-lanzan-linea-de-credito-turismo-milagro-con-100-000-millones-para-las-mipymes-turisticas-506457",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Bancóldex y Fontur lanzan línea de crédito Turismo Milagro con $100.000 millones para las mipymes turísticas",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Alimentos exentos de IVA según lo informado por De La Espriella",
-        "url": "https://www.portafolio.co/economia/que-alimentos-de-la-canasta-familiar-no-tendrian-iva-lo-que-anuncio-de-la-espriella-506453",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "¿Qué alimentos de la canasta familiar no tendrían IVA? Lo que anunció De La Espriella",
-        "capturado": "2026-11-16T12:16:00-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "A septiembre de 2026, Promigas registra ingresos de $5,47 billones y una utilidad neta de $674.672 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/promigas-reporta-ingresos-por-5-47-billones-y-utilidad-neta-de-674-672-millones-a-septiembre-de-506620",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Promigas reporta ingresos por $5,47 billones y utilidad neta de $674.672 millones a septiembre de 2026",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Colombina registra una disminución en sus ventas y un alza en su rentabilidad a septiembre",
+        "url": "https://www.portafolio.co/negocios/industrias/a-septiembre-colombina-tuvo-leve-baja-en-ventas-y-un-incremento-en-su-rentabilidad-506615",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "A septiembre, Colombina tuvo menos ventas y un incremento en su rentabilidad",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Arkitect de Grupo Éxito comienza su internacionalización en El Salvador",
+        "url": "https://www.portafolio.co/negocios/empresas/arkitect-de-grupo-exito-inicia-su-expansion-internacional-en-el-salvador-506612",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Arkitect de Grupo Éxito inicia su expansión internacional en El Salvador",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Ambiente Gourmet impulsa su expansión global con la apertura de su local inicial en Florida",
+        "url": "https://www.portafolio.co/negocios/comercio/ambiente-gourmet-acelera-su-conquista-internacional-abriendo-su-primera-tienda-en-florida-506607",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Ambiente Gourmet acelera su conquista internacional abriendo su primera tienda en Florida",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Chevignon alista su retorno a Venezuela al tiempo que avanza en el mercado estadounidense",
+        "url": "https://www.portafolio.co/negocios/empresas/chevignon-acelera-su-expansion-en-estados-unidos-y-prepara-su-regreso-a-venezuela-506611",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Chevignon prepara su regreso a Venezuela, mientras acelera en el mercado de Estados Unidos",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Evinka proyecta duplicar su infraestructura de recarga para vehículos eléctricos en el país",
+        "url": "https://www.portafolio.co/negocios/vehiculo/evinka-busca-duplicar-su-red-de-carga-para-carros-electricos-en-colombia-estas-son-sus-apuestas-506603",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Evinka busca duplicar su red de carga para carros eléctricos en Colombia: estas son sus apuestas",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "El gas de Canacol nos dejó en cero y arriesga la operación, según el presidente de Cerro Matoso",
+        "url": "https://www.portafolio.co/negocios/empresas/canacol-nos-mando-a-cero-con-el-gas-y-puso-en-riesgo-la-operacion-presidente-de-cerro-matoso-506594",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez, omar g. ahumada rojas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "'Canacol nos mandó a cero con el gas y puso en riesgo la operación': presidente de Cerro Matoso",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Desde octubre de 2025 Uber y R2 otorgan más de 23.000 créditos y entregan más de US$4,3 millones",
+        "url": "https://www.portafolio.co/negocios/empresas/uber-y-r2-superan-los-23-000-creditos-en-colombia-y-desembolsan-mas-de-us-4-3-millones-desde-octubre-de-506605",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Uber y R2 superan los 23.000 créditos en Colombia y desembolsan más de US$4,3 millones desde octubre de 2025",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Fawcar debuta en el Salón del Automóvil de Bogotá ofreciendo un sedán eléctrico por $99'990.000 y una SUV híbrida",
+        "url": "https://www.portafolio.co/negocios/vehiculo/fawcar-llega-al-salon-del-automovil-de-bogota-con-un-sedan-electrico-a-99-990-000-y-una-suv-hibrida-506604",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Fawcar llega al Salón del Automóvil de Bogotá con un sedán eléctrico a $99'990.000 y una SUV híbrida",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "El sismo golpeó fuerte a Nestlé, dañando el 85% de su labor y causando la clausura de La Rosa",
+        "url": "https://www.portafolio.co/negocios/industrias/el-impacto-del-terremoto-en-la-multinacional-nestle-afecto-el-85-de-su-operacion-y-llevo-al-cierre-de-la-rosa-506601",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Industrias",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Nestlé sufrió duro impacto por terremoto, con 85% de su operación afectada, lo que llevó al cierre de La Rosa",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "María Claudia Lacouture culmina su gestión en AmCham Colombia tras nueve años y saldrá el 18 de diciembre de 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/maria-claudia-lacouture-deja-amcham-colombia-tras-nueve-anos-su-salida-sera-el-18-de-diciembre-de-506600",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "María Claudia Lacouture deja AmCham Colombia tras nueve años: su salida será el 18 de diciembre de 2026",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Grupo Argos intensifica su recompra de acciones asignando otros $149.200 millones a dicha gestión",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-argos-acelera-la-recompra-de-acciones-destinara-otros-149-200-millones-a-esta-operacion-506597",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Grupo Argos acelera la recompra de acciones: destinará otros $149.200 millones a esta operación",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
+      {
+        "titulo": "Importaciones colombianas de septiembre de 2026 registran el nivel máximo de dos décadas",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-se-inunda-de-productos-del-extranjero-importaciones-de-septiembre-de-2026-son-las-mas-altas-en-20-anos-506596",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Colombia se inunda de productos del extranjero: importaciones de septiembre de 2026 son las más altas en 20 años",
+        "capturado": "2026-11-18T18:54:34-05:00"
+      },
       {
         "titulo": "Los ingresos de Avianca subieron 21,3% en el tercer trimestre, aunque su rentabilidad disminuyó",
         "url": "https://www.portafolio.co/negocios/empresas/avianca-aumento-sus-ingresos-21-3-en-el-tercer-trimestre-pero-tuvo-un-retroceso-en-rentabilidad-506593",
@@ -1075,136 +1205,6 @@
         "publicacion": "2026-11-14",
         "titulo_fuente": "Microsoft confirma que solucionó la falla mundial: ¿ya funcionan Outlook, Teams y Copilot?",
         "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "El futuro de Nvidia sin Jensen Huang: balances, nuevo director y exigencias del legislativo estadounidense",
-        "url": "https://www.portafolio.co/negocios/empresas/que-viene-para-nvidia-tras-la-salida-de-jensen-huang-resultados-nuevo-ceo-y-presion-del-congreso-de-ee-uu-506374",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Qué viene para Nvidia tras la salida de Jensen Huang: resultados, nuevo CEO y presión del Congreso de EE. UU.",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Escándalos amorosos de altos directivos que impactaron sus finanzas bursátiles",
-        "url": "https://www.portafolio.co/negocios/empresas/infidelidades-que-costaron-millones-los-ceo-que-llevaron-sus-escandalos-amorosos-hasta-la-bolsa-506370",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Infidelidades que costaron millones: los CEO que llevaron sus escándalos amorosos hasta la bolsa",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Nubank obtiene licencia bancaria en Brasil y se analizan las implicaciones",
-        "url": "https://www.portafolio.co/negocios/empresas/nubank-ya-es-banco-en-brasil-el-banco-central-aprobo-la-compra-de-banco-porto-real-y-le-otorga-licencia-bancaria-506368",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Nubank ya es banco en Brasil: ¿qué significa haber recibido esa autorización en su país de origen?",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Nuevos cambios tras la autorización de Nubank para funcionar como banco en Brasil",
-        "url": "https://www.portafolio.co/negocios/empresas/nubank-recibe-aprobacion-para-operar-como-banco-en-brasil-estos-son-los-cambios-506366",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Nubank recibe aprobación para operar como banco en Brasil: estos son los cambios",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "SIC archiva investigación a Ecopetrol por contratos de helicópteros y evita multa de 525.271 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-se-libra-de-una-multa-de-525-271-millones-la-sic-archivo-el-caso-por-contratos-de-helicopteros-506365",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Ecopetrol se libra de una multa de $525.271 millones: la SIC archivó el caso por contratos de helicópteros",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Acciones de Nvidia bajan en Wall Street sin llegar a un desplome mayor tras la jornada",
-        "url": "https://www.portafolio.co/negocios/empresas/las-acciones-de-nvidia-cayeron-pero-evitaron-un-desplome-mayor-que-paso-en-wall-street-y-como-cerraron-506367",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Las acciones de Nvidia cayeron, pero evitaron un desplome mayor: qué pasó en Wall Street y cómo cerraron",
-        "capturado": "2026-11-14T10:34:36-05:00"
-      },
-      {
-        "titulo": "Nueva alternativa frente a arancel a llantas chinas bajaría costos hasta un 41,7 por ciento",
-        "url": "https://www.portafolio.co/negocios/comercio/importacion-de-llantas-chinas-una-alternativa-podria-reducir-hasta-41-7-los-costos-de-los-transportadores-506345",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Posible arancel a importación de llantas chinas: la alternativa que podría reducir hasta 41,7 % los costos",
-        "capturado": "2026-11-13T20:34:38-05:00"
-      },
-      {
-        "titulo": "Nissan revela la Kicks e-Power y la Frontier Pro PHEV en el Salón del Automóvil",
-        "url": "https://www.portafolio.co/negocios/vehiculo/nissan-pone-fin-a-la-expectativa-y-presenta-la-frontier-pro-phev-y-la-kicks-e-power-en-el-salon-del-automovil-506327",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Nissan pone fin a la expectativa y presenta la Frontier Pro PHEV y la Kicks e-Power en el Salón del Automóvil",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "BTG conserva postura neutral en Ecopetrol por resultados y retos continuos",
-        "url": "https://www.portafolio.co/negocios/empresas/btg-mantuvo-recomendacion-neutral-sobre-la-accion-de-ecopetrol-tras-resultados-financieros-persisten-desafios-506331",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "BTG mantuvo recomendación 'neutral' sobre la acción de Ecopetrol, tras resultados financieros: 'Persisten desafíos'",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Kia afianza su línea SUV con el Seltos y sus cinco versiones en el año 2026",
-        "url": "https://www.portafolio.co/negocios/vehiculo/kia-lider-en-ventas-de-2026-fortalece-su-segmento-suv-con-el-nuevo-seltos-estas-son-sus-cinco-versiones-506318",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Kia, líder en ventas de 2026, fortalece su segmento SUV con el nuevo Seltos: estas son sus cinco versiones",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Murió a los 110 años Lucio Chiquito Caicedo, fundador de EPM y forjador de Medellín",
-        "url": "https://www.portafolio.co/negocios/empresas/lucio-chiquito-caicedo-ingeniero-que-ayudo-a-crear-epm-y-transformar-medellin-fallecio-a-los-105-anos-506323",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Lucio Chiquito Caicedo, ingeniero que ayudó a crear EPM y transformar Medellín, falleció a los 110 años",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Empresas ironizan la falla de Microsoft con memes sobre Outlook y servicios 365",
-        "url": "https://www.portafolio.co/negocios/empresas/marcas-no-dejaron-pasar-caida-de-microsoft-los-mejores-memes-sobre-la-contingencia-en-servicios-de-outlook-y-506319",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Marcas no dejaron pasar caída de Microsoft: los mejores memes sobre la contingencia en servicios de Outlook y 365",
-        "capturado": "2026-11-13T16:11:32-05:00"
-      },
-      {
-        "titulo": "Aporte de la Fundación Sarmiento Angulo se destinará a Chocó, Risaralda y Valle",
-        "url": "https://www.portafolio.co/negocios/empresas/donacion-fundacion-sarmiento-angulo-asi-se-invertira-en-valle-risaralda-y-choco-506321",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "Donación Fundación Sarmiento Angulo: así se invertirá en Valle, Risaralda y Chocó",
-        "capturado": "2026-11-13T16:11:32-05:00"
       }
     ]
   }
