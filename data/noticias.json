@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-18T18:54:34-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-11-19T01:01:38-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sismo dañó 5.738 colegios en Colombia: 68 colapsaron y 548 corren peligro de derrumbe",
+        "url": "https://www.portafolio.co/economia/gobierno/terremoto-afecto-5-738-sedes-educativas-en-colombia-68-quedaron-destruidas-y-548-estan-en-riesgo-de-colapso-506631",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Terremoto afectó 5.738 sedes educativas en Colombia: 68 quedaron destruidas y 548 están en riesgo de colapso",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "Superfinanciera pide agilizar giros por el sismo: aseguradoras pagaron 1,43 billones",
+        "url": "https://www.portafolio.co/economia/regiones/superfinanciera-exige-acelerar-pagos-por-el-terremoto-aseguradoras-ya-han-indemnizado-1-43-billones-506624",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Superfinanciera exige acelerar pagos por el terremoto: aseguradoras ya han indemnizado $1,43 billones",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella desmiente haber suspendido operaciones militares de EE. UU.",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-niega-haber-frenado-operaciones-militares-de-ee-uu-en-colombia-506623",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Gobierno De La Espriella niega haber frenado operaciones militares de EE. UU. en Colombia",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
       {
         "titulo": "Alerta: cabeza del Dane pone en duda censo económico de $330.000 millones y examinará sus datos",
         "url": "https://www.portafolio.co/economia/gobierno/atencion-director-del-dane-cuestiona-censo-economico-de-330-000-millones-y-anuncia-revision-de-sus-resultados-506621",
@@ -573,39 +603,59 @@
         "publicacion": "2026-11-17",
         "titulo_fuente": "Rama Judicial en Colombia levanta la suspensión de términos, luego del restablecimiento de Microsoft",
         "capturado": "2026-11-17T13:10:11-05:00"
-      },
-      {
-        "titulo": "Sismo de agosto le habría restado hasta 0,8 puntos porcentuales al PIB del tercer trimestre",
-        "url": "https://www.portafolio.co/economia/terremoto-de-agosto-habria-restado-hasta-0-8-puntos-porcentuales-al-crecimiento-del-pib-del-tercer-trimestre-506287",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Terremoto de agosto habría restado hasta 0,8 puntos porcentuales al crecimiento del PIB del tercer trimestre",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "IA, inclusión y otros desafíos financieros para el próximo cuatrienio",
-        "url": "https://www.portafolio.co/economia/finanzas/la-inteligencia-artificial-la-inclusion-y-mas-retos-financieros-para-los-proximos-cuatro-anos-506477",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "La inteligencia artificial, la inclusión y más retos financieros para los próximos cuatro años",
-        "capturado": "2026-11-16T19:56:50-05:00"
-      },
-      {
-        "titulo": "Abelardo de la Espriella veta el café foráneo en el Estado y revive debate de contratación",
-        "url": "https://www.portafolio.co/economia/agro/abelardo-de-la-espriella-prohibe-el-cafe-importado-en-entidades-estatales-y-reabre-debate-sobre-compras-publicas-506334",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "Abelardo de la Espriella prohíbe el café importado en entidades estatales y reabre debate sobre compras públicas",
-        "capturado": "2026-11-16T19:56:50-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Stellantis trae a Leapmotor para incrementar su oferta de vehículos en el territorio nacional",
+        "url": "https://www.portafolio.co/negocios/vehiculo/stellantis-amplia-su-portafolio-en-el-pais-con-el-arribo-de-leapmotor-506633",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Stellantis amplía su portafolio en el país con el arribo de Leapmotor",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "Consejo Gremial niega elección de presidente para 2027 y fija la votación para el 9 de diciembre",
+        "url": "https://www.portafolio.co/negocios/empresas/consejo-gremial-aclara-que-aun-no-eligio-presidente-para-2027-la-votacion-sera-el-proximo-9-de-diciembre-506632",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Consejo Gremial aclara que aún no eligió presidente para 2027: la votación será el próximo 9 de diciembre",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "Milagro Week: Éxito confirma recursos por hasta US$1.200 millones en Colombia en cuatro años",
+        "url": "https://www.portafolio.co/negocios/empresas/milagro-week-exito-anuncia-inversiones-de-hasta-us-1-200-millones-en-colombia-durante-los-proximos-cuatro-anos-506629",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Milagro Week: Éxito anuncia inversiones de hasta US$1.200 millones en Colombia durante los próximos cuatro años",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "Banco Europeo de Inversiones quiere afianzar alianzas y hallar créditos en suelo colombiano",
+        "url": "https://www.portafolio.co/negocios/inversion/banco-europeo-de-inversiones-busca-nuevas-oportunidades-de-financiacion-en-colombia-y-fortalecer-alianzas-506628",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Banco Europeo de Inversiones busca nuevas oportunidades de financiación en Colombia y fortalecer alianzas",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
+      {
+        "titulo": "3 Cordilleras saca cerveza sin alcohol y confirma su ingreso a Rappi Turbo y Dollarcity",
+        "url": "https://www.portafolio.co/negocios/empresas/3-cordilleras-lanza-cerveza-sin-alcohol-en-colombia-y-anuncia-su-llegada-a-dollarcity-y-rappi-turbo-506627",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "3 Cordilleras lanza cerveza sin alcohol en Colombia y anuncia su llegada a Dollarcity y Rappi Turbo",
+        "capturado": "2026-11-19T01:01:38-05:00"
+      },
       {
         "titulo": "A septiembre de 2026, Promigas registra ingresos de $5,47 billones y una utilidad neta de $674.672 millones",
         "url": "https://www.portafolio.co/negocios/empresas/promigas-reporta-ingresos-por-5-47-billones-y-utilidad-neta-de-674-672-millones-a-septiembre-de-506620",
@@ -1155,56 +1205,6 @@
         "publicacion": "2026-11-14",
         "titulo_fuente": "De Colombia a Oxford Circus: Action Black inaugura sede en Londres y consolida su expansión internacional",
         "capturado": "2026-11-14T19:05:23-05:00"
-      },
-      {
-        "titulo": "Vuun, proptech colombiana, recibe US$300.000 de fondo de San Francisco y se expandirá a México y Perú",
-        "url": "https://www.portafolio.co/negocios/empresas/fondo-de-san-francisco-invierte-us-300-000-en-vuun-una-proptech-colombiana-que-ira-por-mexico-y-peru-506394",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Fondo de San Francisco invierte US$300.000 en Vuun, una proptech colombiana que irá por México y Perú",
-        "capturado": "2026-11-14T19:05:23-05:00"
-      },
-      {
-        "titulo": "Oxxo clausura cientos de establecimientos en territorio mexicano y explica los motivos de la medida",
-        "url": "https://www.portafolio.co/negocios/empresas/oxxo-cierra-cientos-de-tiendas-en-mexico-estas-son-las-razones-detras-de-la-decision-506393",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Oxxo cierra cientos de tiendas en México: estas son las razones detrás de la decisión",
-        "capturado": "2026-11-14T19:05:23-05:00"
-      },
-      {
-        "titulo": "Centro comercial de Bogotá tendrá presentaciones musicales y eventos sin costo hasta fin de año",
-        "url": "https://www.portafolio.co/negocios/empresas/navidad-en-bogota-centro-comercial-anuncia-conciertos-y-actividades-gratuitas-hasta-diciembre-506388",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Navidad en Bogotá: centro comercial anuncia conciertos y actividades gratuitas hasta diciembre",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Nu alcanza tres millones de tarjetas de crédito en el país y lidera el sector sin oficinas físicas",
-        "url": "https://www.portafolio.co/negocios/empresas/sin-una-sola-sucursal-nu-ya-es-la-entidad-con-mas-tarjetas-de-credito-en-colombia-con-3-millones-de-personas-506377",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Sin una sola sucursal, Nu ya es la entidad con más tarjetas de crédito en Colombia con 3 millones de personas",
-        "capturado": "2026-11-14T15:25:59-05:00"
-      },
-      {
-        "titulo": "Microsoft anuncia la solución de su caída global y el restablecimiento de Outlook, Teams y Copilot",
-        "url": "https://www.portafolio.co/negocios/empresas/microsoft-confirma-que-soluciono-la-falla-mundial-ya-funcionan-outlook-teams-y-copilot-506378",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-14",
-        "titulo_fuente": "Microsoft confirma que solucionó la falla mundial: ¿ya funcionan Outlook, Teams y Copilot?",
-        "capturado": "2026-11-14T15:25:59-05:00"
       }
     ]
   }
