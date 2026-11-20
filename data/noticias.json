@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-19T17:58:03-05:00",
-  "nuevos_en_esta_corrida": 30,
+  "actualizado": "2026-11-19T22:55:15-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El 95 por ciento de los colombianos con productos financieros usa más de una institución",
+        "url": "https://www.portafolio.co/economia/finanzas/el-95-de-quienes-tienen-un-producto-financiero-en-colombia-utiliza-mas-de-una-entidad-financiera-506726",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "El 95% de quienes tienen un producto financiero en Colombia utiliza más de una entidad financiera",
+        "capturado": "2026-11-19T22:55:15-05:00"
+      },
+      {
+        "titulo": "Radicar el reclamo por el sismo del 10 de agosto y obtener la indemnización toma 4 días",
+        "url": "https://www.portafolio.co/economia/regiones/radicar-reclamacion-por-el-terremoto-del-10-de-agosto-y-recibir-el-pago-de-indemnizacion-demora-4-dias-506724",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Radicar reclamación por el terremoto del 10 de agosto y recibir el pago de indemnización demora 4 días",
+        "capturado": "2026-11-19T22:55:15-05:00"
+      },
       {
         "titulo": "La formación bruta de capital bajó en Colombia: subió 2,1% interanual tras el 7,1% del trimestre previo",
         "url": "https://www.portafolio.co/economia/inversion-fija-se-desacelero-en-colombia-crecio-2-1-anual-frente-al-7-1-registrado-en-el-segundo-trimestre-506720",
@@ -583,29 +603,39 @@
         "publicacion": "2026-11-18",
         "titulo_fuente": "Dólar en Colombia frena su racha alcista y cae este miércoles 18 de noviembre: este es su precio oficial",
         "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Natalia Abello Vives es nombrada presidenta del holding financiero estatal Grupo Bicentenario",
-        "url": "https://www.portafolio.co/economia/gobierno/grupo-bicentenario-designa-a-natalia-abello-vives-como-nueva-presidenta-del-holding-financiero-del-estado-506549",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Grupo Bicentenario designa a Natalia Abello Vives como nueva presidenta del holding financiero del Estado",
-        "capturado": "2026-11-17T20:08:18-05:00"
-      },
-      {
-        "titulo": "Hasta octubre, la inversión extranjera directa en Colombia desciende un 2% sin mostrar repunte",
-        "url": "https://www.portafolio.co/economia/crecimiento/inversion-extranjera-directa-en-colombia-no-reacciona-y-hasta-octubre-caia-el-506546",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Crecimiento",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Inversión extranjera directa en Colombia no reacciona y hasta octubre caía el 2%",
-        "capturado": "2026-11-17T20:08:18-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Ignacio Gaitán tomará las riendas de Aliadas el 18 de diciembre tras la salida de María Claudia Lacouture",
+        "url": "https://www.portafolio.co/negocios/empresas/ignacio-gaitan-asumira-presidencia-de-aliadas-el-18-de-diciembre-tras-salida-de-maria-claudia-lacouture-506734",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Ignacio Gaitán asumirá presidencia de Aliadas el 18 de diciembre, tras salida de María Claudia Lacouture",
+        "capturado": "2026-11-19T22:55:15-05:00"
+      },
+      {
+        "titulo": "El Black Friday se adelantó en el país con rebajas comerciales de hasta el 76 por ciento",
+        "url": "https://www.portafolio.co/negocios/comercio/black-friday-se-anticipo-en-colombia-el-comercio-ofrece-descuentos-que-llegan-hasta-el-506723",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Black Friday se anticipó en Colombia: el comercio ofrece descuentos que llegan hasta el 76 %",
+        "capturado": "2026-11-19T22:55:15-05:00"
+      },
+      {
+        "titulo": "Pensiones voluntarias: así se determina el beneficio tributario de 278 millones que lograrían las firmas",
+        "url": "https://www.portafolio.co/negocios/empresas/pensiones-voluntarias-asi-se-calcula-el-ahorro-fiscal-de-278-millones-que-podrian-obtener-las-empresas-506725",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "Pensiones voluntarias: así se calcula el ahorro fiscal de $278 millones que podrían obtener las empresas",
+        "capturado": "2026-11-19T22:55:15-05:00"
+      },
       {
         "titulo": "Patria Investments confirma inversión por US$2.600 millones en energía, salud e infraestructura durante Milagro Week",
         "url": "https://www.portafolio.co/negocios/inversion/milagro-week-patria-investments-anuncia-inversion-de-us-2-600-millones-para-salud-infraestructura-y-energia-506721",
@@ -1174,36 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-11-17",
         "titulo_fuente": "Renault presenta el nuevo Kwid a gasolina más barato: así toma protagonismo frente a su versión eléctrica",
-        "capturado": "2026-11-17T13:10:11-05:00"
-      },
-      {
-        "titulo": "En 2027 BYD traerá a Colombia a Denza, su marca de vehículos de lujo, con estos dos modelos iniciales",
-        "url": "https://www.portafolio.co/negocios/vehiculo/byd-traera-a-colombia-en-2027-a-denza-su-marca-de-carros-de-lujo-estos-serian-los-primeros-dos-modelos-506499",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "BYD traerá a Colombia en 2027 a Denza, su marca de carros de lujo: estos serían los primeros dos modelos",
-        "capturado": "2026-11-17T13:10:11-05:00"
-      },
-      {
-        "titulo": "Anthropic saldrá a bolsa con una meta histórica: busca captar US$90.400 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/anthropic-sale-a-bolsa-y-apunta-a-una-cifra-historica-busca-recaudar-us-90-400-millones-506496",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Anthropic sale a bolsa y apunta a una cifra histórica: busca recaudar US$90.400 millones",
-        "capturado": "2026-11-17T13:10:11-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito respaldará la rehabilitación de 4.000 hogares afectados por el sismo del 10 de agosto",
-        "url": "https://www.portafolio.co/negocios/comercio/grupo-exito-acompanara-la-recuperacion-de-4-000-familias-victimas-del-terremoto-del-pasado-10-de-agosto-506490",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Grupo Éxito acompañará la recuperación de 4.000 familias víctimas del terremoto del 10 de agosto",
         "capturado": "2026-11-17T13:10:11-05:00"
       }
     ]
