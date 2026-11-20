@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-19T22:55:15-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-20T07:31:33-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Premio mayor de 300 millones de pesos de MiLoto cayó otra vez en Villa de Leyva",
+        "url": "https://www.portafolio.co/economia/finanzas/miloto-volvio-a-caer-en-villa-de-leyva-ganador-se-lleva-los-300-millones-del-premio-mayor-506744",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "MiLoto volvió a caer en Villa de Leyva: ganador se lleva los $300 millones del premio mayor",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "Sigue en firme traslado de 347 aviadores a Colpensiones sin fallo del Consejo de Estado",
+        "url": "https://www.portafolio.co/economia/traslado-de-347-aviadores-a-colpensiones-sigue-vigente-pero-consejo-de-estado-aun-no-resuelve-la-demanda-506743",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Traslado de 347 aviadores a Colpensiones sigue vigente, pero Consejo de Estado aún no resuelve la demanda",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "Dólar subió casi 90 pesos en Colombia y superó los 3415 pesos este viernes",
+        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-disparo-en-colombia-la-divisa-subio-casi-90-y-supero-los-3-415-este-viernes-506742",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "El dólar se disparó en Colombia: la divisa subió casi $90 y superó los $3.415 este viernes",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "MinHacienda quiere ampliar crédito de gobernaciones y alcaldías para obras regionales",
+        "url": "https://www.portafolio.co/economia/minhacienda-busca-ampliar-el-credito-de-alcaldias-y-gobernaciones-para-financiar-obras-estrategicas-regionales-506741",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "MinHacienda busca ampliar el crédito de alcaldías y gobernaciones para financiar obras estratégicas regionales",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "Entidades y empresas no podrán pedir a aspirantes informar embarazo al contratarlas",
+        "url": "https://www.portafolio.co/economia/gobierno/empresas-y-entidades-no-podran-exigir-a-candidatas-reportar-su-embarazo-al-ser-contratadas-506740",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Empresas y entidades no podrán exigir a candidatas reportar su embarazo al ser contratadas",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "Deuda pública colombiana presionada: intereses superarán el crecimiento en 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/la-deuda-publica-de-colombia-enfrenta-presion-intereses-superan-el-crecimiento-economico-en-506738",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "La deuda pública de Colombia enfrenta presión: intereses superan el crecimiento económico en 2026",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
+      {
+        "titulo": "Pacto Histórico solicitó la dimisión de Verónica Estrada, congresista que falseó su diploma de ingeniera",
+        "url": "https://www.portafolio.co/economia/gobierno/pacto-historico-pidio-la-renuncia-a-veronica-estrada-congresista-que-falsifico-su-titulo-de-ingeniera-506737",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Pacto Histórico pidió la renuncia a Verónica Estrada, congresista que falsificó su título de ingeniera",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
       {
         "titulo": "El 95 por ciento de los colombianos con productos financieros usa más de una institución",
         "url": "https://www.portafolio.co/economia/finanzas/el-95-de-quienes-tienen-un-producto-financiero-en-colombia-utiliza-mas-de-una-entidad-financiera-506726",
@@ -533,79 +603,19 @@
         "publicacion": "2026-11-18",
         "titulo_fuente": "Colombia busca US$500 millones con el BID para impulsar un megaproyecto de palma de aceite y transformar el agro",
         "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Analistas señalan que la corrección fiscal será fundamental para la recuperación económica en 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/expertos-advierten-que-el-ajuste-fiscal-sera-clave-para-reactivar-la-economia-en-506574",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Expertos advierten que el ajuste fiscal será clave para reactivar la economía en 2027",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "De La Espriella Lawyers confirma demandas contra María Fernanda Carrascal tras controversia con la Dian",
-        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-lawyers-anuncia-acciones-legales-contra-maria-fernanda-carrascal-en-medio-de-lio-con-la-dian-506569",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "De La Espriella Lawyers anuncia acciones legales contra María Fernanda Carrascal en medio de lío con la Dian",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Colombia capta capitales por US$2.800 millones para fomentar iniciativas de salud, obras y energía",
-        "url": "https://www.portafolio.co/economia/gobierno/colombia-atrae-inversiones-por-us-2-800-millones-para-impulsar-proyectos-de-salud-infraestructura-y-energia-506570",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Colombia atrae inversiones por US$2.800 millones para impulsar proyectos de salud, infraestructura y energía",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Contraloría alerta déficit de 1.500 operarios en el Metro bogotano que se importarán de China por US$ 10 millones",
-        "url": "https://www.portafolio.co/economia/infraestructura/contraloria-advierte-que-faltan-1-500-trabajadores-en-el-metro-de-bogota-y-se-traeran-de-china-por-us-10-millones-506568",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Contraloría advierte que faltan 1.500 trabajadores en el Metro de Bogotá y se traerán de China por US$ 10 millones",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Divisa europea desciende ante la moneda colombiana en la apertura cambiaria del 18 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/el-euro-baja-frente-al-peso-colombiano-asi-abrio-el-mercado-este-18-de-noviembre-506567",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "El euro baja frente al peso colombiano: así abrió el mercado este 18 de noviembre",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Ejecutivo sella pacto con Meta para frenar enganche de niños mediante plataformas digitales y sus detalles",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-firma-acuerdo-con-meta-para-combatir-el-reclutamiento-de-menores-por-redes-estos-son-los-alcances-506562",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Gobierno firma acuerdo con Meta para combatir el reclutamiento de menores por redes: estos son los alcances",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio estadounidense detiene su repunte y baja este miércoles 18 de noviembre con su valor oficial",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-frena-su-racha-alcista-y-cae-este-miercoles-18-de-noviembre-este-es-su-precio-oficial-506559",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Dólar en Colombia frena su racha alcista y cae este miércoles 18 de noviembre: este es su precio oficial",
-        "capturado": "2026-11-18T12:48:16-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Amazon inaugura en Bogotá el centro de datos inicial de una gran empresa de la nube en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/amazon-abre-en-bogota-el-primer-centro-de-datos-propio-de-un-gigante-de-la-nube-en-colombia-506729",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Amazon abre en Bogotá el primer centro de datos propio de un gigante de la nube en Colombia",
+        "capturado": "2026-11-20T07:31:33-05:00"
+      },
       {
         "titulo": "Ignacio Gaitán tomará las riendas de Aliadas el 18 de diciembre tras la salida de María Claudia Lacouture",
         "url": "https://www.portafolio.co/negocios/empresas/ignacio-gaitan-asumira-presidencia-de-aliadas-el-18-de-diciembre-tras-salida-de-maria-claudia-lacouture-506734",
@@ -1195,16 +1205,6 @@
         "publicacion": "2026-11-17",
         "titulo_fuente": "Después de 75 años de historia, Comestibles La Rosa suspenderá definitivamente su producción en Dosquebradas",
         "capturado": "2026-11-17T20:08:18-05:00"
-      },
-      {
-        "titulo": "Renault lanza el nuevo Kwid de gasolina más económico y gana protagonismo ante su variante eléctrica",
-        "url": "https://www.portafolio.co/negocios/vehiculo/renault-presenta-el-nuevo-kwid-a-gasolina-mas-barato-asi-toma-protagonismo-frente-a-su-version-electrica-506503",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Renault presenta el nuevo Kwid a gasolina más barato: así toma protagonismo frente a su versión eléctrica",
-        "capturado": "2026-11-17T13:10:11-05:00"
       }
     ]
   }
