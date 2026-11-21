@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-20T20:58:45-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-21T04:34:12-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Consulte y baje acá la versión virtual de Portafolio fin de semana",
+        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-506808",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
+        "capturado": "2026-11-21T04:34:12-05:00"
+      },
       {
         "titulo": "Sismo de magnitud 6,9 en Perú afectó a Bogotá y regiones de Colombia este viernes 20 de noviembre",
         "url": "https://www.portafolio.co/economia/regiones/sismo-de-magnitud-6-9-en-peru-se-sintio-en-bogota-y-otras-zonas-de-colombia-este-viernes-20-de-noviembre-506806",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno",
         "publicacion": "2026-11-19",
         "titulo_fuente": "Así cambia la Ley de Rescate Fiscal: Gobierno retira IVA a canasta básica, salud y agroinsumos",
-        "capturado": "2026-11-19T10:57:32-05:00"
-      },
-      {
-        "titulo": "Protestas en Bogotá este jueves 19 de noviembre: estas son las calles que tendrían afectaciones",
-        "url": "https://www.portafolio.co/economia/gobierno/marchas-en-bogota-este-jueves-19-de-noviembre-estas-son-las-vias-que-podrian-verse-afectadas-506642",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Marchas en Bogotá este jueves 19 de noviembre: estas son las vías que podrían verse afectadas",
         "capturado": "2026-11-19T10:57:32-05:00"
       }
     ],
