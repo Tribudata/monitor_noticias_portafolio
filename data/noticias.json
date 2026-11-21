@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-20T15:55:24-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-20T20:58:45-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Sismo de magnitud 6,9 en Perú afectó a Bogotá y regiones de Colombia este viernes 20 de noviembre",
+        "url": "https://www.portafolio.co/economia/regiones/sismo-de-magnitud-6-9-en-peru-se-sintio-en-bogota-y-otras-zonas-de-colombia-este-viernes-20-de-noviembre-506806",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Sismo de magnitud 6,9 en Perú se sintió en Bogotá y otras zonas de Colombia este viernes 20 de noviembre",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Comerciante Don Luis, viral tras elecciones, comercializará artículos de más de 36 familias campesinas",
+        "url": "https://www.portafolio.co/economia/gobierno/de-caqueta-a-todo-el-pais-don-luis-llevara-productos-de-mas-de-36-familias-campesinas-a-mercado-libre-506800",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "'Don Luis', el comerciante que hizo viral tras las elecciones, llevará productos de más de 36 familias campesinas",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Transacciones de CFI Financial Group se duplican y alcanzan un récord de US$3,45 billones",
+        "url": "https://www.portafolio.co/economia/finanzas/volumen-de-operaciones-de-cfi-financial-group-se-duplica-y-marca-un-record-de-us-3-45-billones-506796",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Volumen de operaciones de CFI Financial Group se duplica y marca un récord de US$3,45 billones",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Supermetro: final de la Sudamericana dejaría US$60 millones en Barranquilla, con inversión de US$100 millones",
+        "url": "https://www.portafolio.co/economia/infraestructura/supermetro-la-final-de-la-sudamericana-dejaria-us-60-millones-en-barranquilla-que-invirtio-us-100-millones-506780",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Supermetro: la final de la Sudamericana dejaría US$60 millones en Barranquilla, que invirtió US$100 millones",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Estudio sobre puntualidad de empleados colombianos muestra tardanzas en una de cada cinco jornadas",
+        "url": "https://www.portafolio.co/economia/empleo/que-tan-puntuales-son-los-trabajadores-colombianos-estudio-revela-retrasos-en-una-de-cada-cinco-jornadas-506792",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "¿Qué tan puntuales son los trabajadores colombianos? Estudio revela retrasos en una de cada cinco jornadas",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
       {
         "titulo": "De La Espriella abre la expansión de la Autopista Norte para mitigar el tráfico: irá de 6 a 12 carriles",
         "url": "https://www.portafolio.co/economia/infraestructura/de-la-espriella-inaugura-la-ampliacion-de-la-autopista-norte-para-aliviar-el-trancon-pasara-de-6-a-12-carriles-506785",
@@ -553,59 +603,49 @@
         "publicacion": "2026-11-19",
         "titulo_fuente": "Marchas en Bogotá este jueves 19 de noviembre: estas son las vías que podrían verse afectadas",
         "capturado": "2026-11-19T10:57:32-05:00"
-      },
-      {
-        "titulo": "Sismo dañó 5.738 colegios en Colombia: 68 colapsaron y 548 corren peligro de derrumbe",
-        "url": "https://www.portafolio.co/economia/gobierno/terremoto-afecto-5-738-sedes-educativas-en-colombia-68-quedaron-destruidas-y-548-estan-en-riesgo-de-colapso-506631",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Terremoto afectó 5.738 sedes educativas en Colombia: 68 quedaron destruidas y 548 están en riesgo de colapso",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Superfinanciera pide agilizar giros por el sismo: aseguradoras pagaron 1,43 billones",
-        "url": "https://www.portafolio.co/economia/regiones/superfinanciera-exige-acelerar-pagos-por-el-terremoto-aseguradoras-ya-han-indemnizado-1-43-billones-506624",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Superfinanciera exige acelerar pagos por el terremoto: aseguradoras ya han indemnizado $1,43 billones",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella desmiente haber suspendido operaciones militares de EE. UU.",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-niega-haber-frenado-operaciones-militares-de-ee-uu-en-colombia-506623",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Gobierno De La Espriella niega haber frenado operaciones militares de EE. UU. en Colombia",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Alerta: cabeza del Dane pone en duda censo económico de $330.000 millones y examinará sus datos",
-        "url": "https://www.portafolio.co/economia/gobierno/atencion-director-del-dane-cuestiona-censo-economico-de-330-000-millones-y-anuncia-revision-de-sus-resultados-506621",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Atención: Director del Dane cuestiona censo económico de $330.000 millones y anuncia revisión de sus resultados",
-        "capturado": "2026-11-18T18:54:34-05:00"
-      },
-      {
-        "titulo": "La SAE planea transformar bienes a su cargo en complejos hoteleros con capital privado en el Caribe",
-        "url": "https://www.portafolio.co/economia/gobierno/la-sae-busca-convertir-inmuebles-bajo-su-administracion-en-proyectos-hoteleros-con-inversion-privada-en-el-caribe-506572",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "La SAE busca convertir inmuebles bajo su administración en proyectos hoteleros con inversión privada en el Caribe",
-        "capturado": "2026-11-18T18:54:34-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Causas que motivaron la suspensión de los comicios en la Cámara de Comercio de Bogotá",
+        "url": "https://www.portafolio.co/negocios/comercio/estas-fueron-las-razones-que-llevaron-a-frenar-las-elecciones-de-la-camara-de-comercio-de-bogota-506802",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Estas fueron las razones que llevaron a frenar las elecciones de la Cámara de Comercio de Bogotá",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Posponen votación de la Cámara de Comercio de Bogotá debido a anomalías en el registro",
+        "url": "https://www.portafolio.co/negocios/comercio/aplazan-eleccion-de-la-camara-de-comercio-de-bogota-por-alertas-en-el-censo-de-afiliados-506803",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Aplazan elección de la Cámara de Comercio de Bogotá por alertas en el censo de afiliados",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Generación Z manifiesta mayor descontento con las prebendas laborales empresariales en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/generacion-z-la-mas-inconforme-con-los-beneficios-laborales-que-ofrecen-las-empresas-en-colombia-506661",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Generación Z, la más inconforme con los beneficios laborales que ofrecen las empresas en Colombia",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
+      {
+        "titulo": "Cupra León VZ: 296 hp con tarifa que aviva la pugna de vehículos deportivos en el país",
+        "url": "https://www.portafolio.co/negocios/vehiculo/cupra-leon-vz-296-caballos-por-un-precio-que-le-pone-mas-picante-a-la-competencia-de-hot-hatch-en-colombia-506790",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "Cupra León VZ: 296 caballos por un precio que le pone más picante a la competencia de 'hot hatch' en Colombia",
+        "capturado": "2026-11-20T20:58:45-05:00"
+      },
       {
         "titulo": "Aparece bodega de Shein en Soledad frente a Temu y dudan sobre su nexo con la app",
         "url": "https://www.portafolio.co/negocios/empresas/una-bodega-de-shein-aparece-en-soledad-para-competir-con-su-par-de-temu-tiene-vinculo-con-la-app-506793",
@@ -1165,46 +1205,6 @@
         "publicacion": "2026-11-18",
         "titulo_fuente": "D1, Éxito e Ísimo estarían alistando su llegada a Venezuela: cadenas colombianas evaluarían abrir tiendas en 2027",
         "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Minería, petróleo y aeropuertos: inversiones por casi US$8.815 millones en el segundo día de la Milagro Week",
-        "url": "https://www.portafolio.co/negocios/inversion/mineria-petroleo-y-aeropuertos-los-anuncios-de-inversion-por-cerca-de-us-8-815-del-segundo-dia-de-la-milagro-week-506560",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Minería, petróleo y aeropuertos: los anuncios de inversión por cerca de US$8.815 del segundo día de la Milagro Week",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Addi destinará US$2.000 millones en Colombia en dos años para potenciar créditos y ahorros",
-        "url": "https://www.portafolio.co/negocios/empresas/addi-anuncia-inversion-de-us-2-000-millones-en-colombia-durante-24-meses-para-ampliar-credito-y-ahorro-506550",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Addi anuncia inversión de US$2.000 millones en Colombia durante 24 meses para ampliar crédito y ahorro",
-        "capturado": "2026-11-17T20:08:18-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial define su posición sobre el salario mínimo de 2027: alza atada a inflación y productividad",
-        "url": "https://www.portafolio.co/negocios/empresas/consejo-gremial-fija-su-postura-para-el-salario-minimo-de-2027-aumento-debe-seguir-inflacion-y-productividad-506548",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Consejo Gremial fija su postura para el salario mínimo de 2027: aumento debe seguir inflación y productividad",
-        "capturado": "2026-11-17T20:08:18-05:00"
-      },
-      {
-        "titulo": "El empresario mexicano Ricardo Salinas informa sobre el ensamblaje de motocicletas Italika en territorio nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/barranquilla-recibira-operacion-de-ensamble-de-motos-de-italika-gobierno-anuncia-nueva-inversion-mexicana-506547",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-17",
-        "titulo_fuente": "Magnate Ricardo Salinas, uno de los hombres más ricos de México, anuncia ensamblaje de motos Italika en Colombia",
-        "capturado": "2026-11-17T20:08:18-05:00"
       }
     ]
   }
