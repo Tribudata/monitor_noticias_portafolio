@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-21T12:07:07-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-21T17:16:27-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "El defensor escogido por Luz Verónica Estrada ante la investigación por diplomas universitarios apócrifos",
+        "url": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "El abogado que Luz Verónica Estrada designo para su defensa por el caso de títulos académicos falsos",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en el país descendería hacia los $3.540 próximamente por impacto de la ley de rescate",
+        "url": "https://www.portafolio.co/economia/gobierno/dolar-en-colombia-podria-acercarse-a-los-3-540-en-los-proximos-dias-ley-de-rescate-incidiria-en-el-mercado-506840",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Dólar en colombia podría acercarse a los $3.540 en los próximos días: ley de rescate incidiría en el mercado",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "Organismo internacional sugiere aumentar el número de contribuyentes del tributo sobre la renta en Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/ocde-pide-que-mas-colombianos-paguen-impuesto-de-renta-y-propone-ampliar-la-base-de-contribuyentes-506837",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Ocde pide que más colombianos paguen impuesto de renta y propone ampliar la base de contribuyentes",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "Administración de De la Espriella abre convocatoria para que 12.000 emprendedores comercialicen en la red",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-lanza-convocatoria-para-que-12-000-emprendedores-vendan-sus-productos-por-internet-506833",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Gobierno de De la Espriella lanza convocatoria para que 12.000 emprendedores vendan sus productos por internet",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "ANI habilita 106 kilómetros de la vía Santana-Mocoa-Neiva con inversión de $376.843 millones en el Huila",
+        "url": "https://www.portafolio.co/economia/infraestructura/ani-pone-en-servicio-106-kilometros-de-la-via-santana-mocoa-neiva-con-obras-por-376-843-millones-en-el-huila-506831",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "ANI pone en servicio 106 kilómetros de la vía Santana-Mocoa-Neiva con obras por $376.843 millones en el Huila",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "Advertencia por polución en Bogotá: aconsejan no hacer actividad física exterior y usar tapabocas",
+        "url": "https://www.portafolio.co/economia/regiones/alerta-por-aire-contaminado-en-bogota-piden-evitar-ejercicio-al-aire-libre-y-recomiendan-uso-de-tapabocas-506828",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Alerta por aire contaminado en Bogotá: piden evitar ejercicio al aire libre y recomiendan uso de tapabocas",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
+      {
+        "titulo": "El Gran Malecón de Barranquilla representa la campaña turística Colombia te llama",
+        "url": "https://www.portafolio.co/economia/regiones/el-gran-malecon-de-barranquilla-simbolo-de-la-campana-colombia-te-llama-de-promocion-turistica-506827",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "El Gran Malecón de Barranquilla, símbolo de la campaña 'Colombia te llama' de promoción turística",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
       {
         "titulo": "Efectos de la suspensión gubernamental del decreto pensional en Colombia",
         "url": "https://www.portafolio.co/economia/gobierno/que-cambiara-con-las-pensiones-en-colombia-tras-la-suspension-del-decreto-que-hizo-el-gobierno-petro-506825",
@@ -533,79 +603,19 @@
         "publicacion": "2026-11-19",
         "titulo_fuente": "Agricultura cayó 6,7% y restó 0,8 puntos al PIB: el campo completa 4 trimestres en terreno negativo, según Anif",
         "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Reforma a aportes de salud, SENA e ICBF subiría costos laborales y frenaría contrataciones, según Goan Group",
-        "url": "https://www.portafolio.co/economia/reforma-a-aportes-de-salud-sena-e-icbf-elevaria-costos-de-nomina-y-podria-frenar-nuevas-contrataciones-goan-group-506690",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Reforma a aportes de salud, SENA e ICBF elevaría costos de nómina y podría frenar nuevas contrataciones: Goan Group",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Ladrilleros alertan que tasa al carbono de Ley de Rescate elevaría emisiones al fomentar la informalidad",
-        "url": "https://www.portafolio.co/economia/ladrilleros-advierten-que-el-impuesto-al-carbono-de-la-ley-de-rescate-subiria-emisiones-al-empujar-la-informalidad-506686",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Ladrilleros advierten que el impuesto al carbono de la Ley de Rescate subiría emisiones al empujar la informalidad",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Gestionan salida del presidente de Fiducoldex tras rechazar acuerdo por 251 millones de pesos",
-        "url": "https://www.portafolio.co/economia/buscan-la-salida-del-presidente-de-fiducoldex-quien-no-acepta-acuerdo-de-251-millones-506684",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Buscan la salida del presidente de Fiducoldex, quien no acepta acuerdo de $251 millones",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Salario mínimo: CUT requiere mesa urgente para evaluar impactos de la Ley de Rescate Fiscal",
-        "url": "https://www.portafolio.co/economia/gobierno/negociacion-del-salario-minimo-cut-pide-sesion-especial-para-analizar-los-efectos-de-la-ley-de-rescate-fiscal-506675",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Negociación del salario mínimo: CUT pide sesión especial para analizar los efectos de la Ley de Rescate Fiscal",
-        "capturado": "2026-11-19T10:57:32-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: cronograma de diálogo y ofertas entre 1,9 y 2,42 millones de pesos",
-        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-de-2027-estas-son-las-fechas-de-negociacion-y-las-propuestas-que-van-de-1-9-a-2-42-millones-506671",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Salario mínimo de 2027: estas son las fechas de negociación y las propuestas que van de $1,9 a $2,42 millones",
-        "capturado": "2026-11-19T10:57:32-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado frenó decreto de Petro sobre el salario mínimo que impactaba pensiones",
-        "url": "https://www.portafolio.co/economia/gobierno/consejo-de-estado-suspendio-decreto-del-gobierno-petro-sobre-el-salario-minimo-que-afectaba-algunas-pensiones-506672",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Consejo de Estado suspendió decreto del Gobierno Petro sobre el salario mínimo que afectaba algunas pensiones",
-        "capturado": "2026-11-19T10:57:32-05:00"
-      },
-      {
-        "titulo": "Colombia alcanza triste marca de siniestros viales: 7468 decesos a septiembre de 2026, 19,3 % más",
-        "url": "https://www.portafolio.co/economia/colombia-rompe-tragico-record-de-muertes-viales-7-468-fallecidos-a-septiembre-de-2026-un-19-3-mas-que-en-506670",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Colombia rompe trágico récord de muertes viales: 7.468 fallecidos a septiembre de 2026, un 19,3 % más que en 2025",
-        "capturado": "2026-11-19T10:57:32-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Avianca habilitó cerca de 30 trayectos y más de 6600 asientos extras para mitigar trabas en terminales",
+        "url": "https://www.portafolio.co/negocios/empresas/por-cierres-temporales-y-restricciones-en-aeropuertos-de-bogota-y-medellin-avianca-dispuso-vuelos-adicionales-506829",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Avianca dispuso de casi 30 vuelos y más de 6.600 sillas adicionales para contrarrestar restricciones en aeropuertos",
+        "capturado": "2026-11-21T17:16:27-05:00"
+      },
       {
         "titulo": "Rechazo total tras agresión a empleada de Avianca en Cartagena y pedido de la aerolínea de cuidar al gremio",
         "url": "https://www.portafolio.co/negocios/empresas/agresion-a-trabajadora-de-avianca-en-cartagena-desata-rechazo-aerolinea-exige-proteger-a-personal-aereo-506820",
@@ -1194,16 +1204,6 @@
         "subseccion": "Vehiculo",
         "publicacion": "2026-11-18",
         "titulo_fuente": "Geely anuncia financiación de hasta el 100 % y plazos de seis años para comprar sus carros tras alianza con Sufi",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Black Days y Navidad ilusionan al comercio tras un octubre de alza moderada en las ventas",
-        "url": "https://www.portafolio.co/negocios/comercio/comercio-espera-que-black-days-y-navidad-impulsen-las-ventas-tras-un-octubre-de-crecimiento-moderado-506561",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Black Days y Navidad, las grandes esperanzas del comercio en ventas tras un octubre de crecimiento moderado",
         "capturado": "2026-11-18T12:48:16-05:00"
       }
     ]
