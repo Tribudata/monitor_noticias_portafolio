@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-21T17:16:27-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-21T21:29:30-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Poseer una cuenta en el banco no asegura recibir préstamos: la brecha financiera vigente en el país",
+        "url": "https://www.portafolio.co/economia/finanzas/tener-una-cuenta-bancaria-no-garantiza-acceso-al-credito-la-brecha-financiera-que-persiste-en-colombia-506844",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Tener una cuenta bancaria no garantiza acceso al crédito: la brecha financiera que persiste en Colombia",
+        "capturado": "2026-11-21T21:29:30-05:00"
+      },
       {
         "titulo": "El defensor escogido por Luz Verónica Estrada ante la investigación por diplomas universitarios apócrifos",
         "url": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
@@ -593,19 +603,19 @@
         "publicacion": "2026-11-19",
         "titulo_fuente": "Colombia alista un piloto de deuda pública tokenizada que busca agilizar la emisión, compraventa y pago de bonos",
         "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Agricultura bajó 6,7% y restó 0,8 puntos al PIB; sector suma cuatro trimestres negativos, indica Anif",
-        "url": "https://www.portafolio.co/economia/agricultura-cayo-6-7-y-resto-0-8-puntos-al-pib-el-campo-completa-4-trimestres-en-terreno-negativo-segun-anif-506693",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Agricultura cayó 6,7% y restó 0,8 puntos al PIB: el campo completa 4 trimestres en terreno negativo, según Anif",
-        "capturado": "2026-11-19T17:58:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Grupo Argos enajenó títulos de Cementos Argos para elevar el flotante y afianzar su visibilidad global",
+        "url": "https://www.portafolio.co/negocios/empresas/grupo-argos-vendio-acciones-de-cementos-argos-para-aumentar-el-flotante-y-fortalecer-su-visibilidad-internacional-506845",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-21",
+        "titulo_fuente": "Grupo Argos vendió acciones de Cementos Argos para aumentar el flotante y fortalecer su visibilidad internacional",
+        "capturado": "2026-11-21T21:29:30-05:00"
+      },
       {
         "titulo": "Avianca habilitó cerca de 30 trayectos y más de 6600 asientos extras para mitigar trabas en terminales",
         "url": "https://www.portafolio.co/negocios/empresas/por-cierres-temporales-y-restricciones-en-aeropuertos-de-bogota-y-medellin-avianca-dispuso-vuelos-adicionales-506829",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-18",
         "titulo_fuente": "PepsiCo fortalece su negocio agrícola en Colombia con compras directas de papa y plátano a pequeños productores",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Geely ofrece crédito hasta del 100 por ciento a seis años para vehículos por acuerdo con Sufi",
-        "url": "https://www.portafolio.co/negocios/vehiculo/geely-anuncia-financiacion-de-hasta-el-100-y-plazos-de-seis-anos-para-comprar-sus-carros-tras-alianza-con-sufi-506564",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Geely anuncia financiación de hasta el 100 % y plazos de seis años para comprar sus carros tras alianza con Sufi",
         "capturado": "2026-11-18T12:48:16-05:00"
       }
     ]
