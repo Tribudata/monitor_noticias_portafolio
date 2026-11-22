@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-22T12:58:20-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-11-22T18:30:06-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "MinTic solicitó a X inhabilitar el perfil del exmandatario Petro por este motivo",
+        "url": "https://www.portafolio.co/economia/gobierno/mintic-pidio-a-x-suspender-la-cuenta-del-expresidente-petro-esta-es-la-razon-506876",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "MinTic pidió a X suspender la cuenta del expresidente Petro: esta es la razón",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
+      {
+        "titulo": "Nuevas frecuencias de Satena incrementan la conectividad aérea de Medellín, Quibdó y el Pacífico",
+        "url": "https://www.portafolio.co/economia/regiones/medellin-quibdo-y-el-pacifico-colombiano-fortalecen-su-conexion-aerea-con-nuevas-frecuencias-de-satena-506875",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Medellín, Quibdó y el Pacífico colombiano fortalecen su conexión aérea con nuevas frecuencias de Satena",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
+      {
+        "titulo": "Concesión de la vía Norte obtuvo crédito bancario por 1,2 billones de pesos para el tercer desembolso",
+        "url": "https://www.portafolio.co/economia/infraestructura/ya-vamos-por-el-tercer-desembolso-concesion-de-la-autopista-norte-firmo-credito-por-1-2-billones-con-la-banca-506789",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "'Ya vamos por el tercer desembolso': concesión de la autopista Norte firmó crédito por $1,2 billones con la banca",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
+      {
+        "titulo": "DTF cesará a fin de año tras cuatro decenios funcionando como indicador de referencia",
+        "url": "https://www.portafolio.co/economia/finanzas/dtf-luego-de-cuatro-decadas-como-tasa-de-referencia-a-final-de-ano-se-apagara-506867",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "DTF: luego de cuatro décadas como tasa de referencia, a final de año se apagará",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
+      {
+        "titulo": "Empresas podrían ver modificaciones en tercerización, acoso y pactos colectivos por revisión de ocho decretos",
+        "url": "https://www.portafolio.co/economia/empleo/gobierno-revisa-ocho-decretos-laborales-tercerizacion-acoso-y-pactos-colectivos-podrian-cambiar-para-las-empresas-506869",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Gobierno revisa ocho decretos laborales: tercerización, acoso y pactos colectivos podrían cambiar para las empresas",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
       {
         "titulo": "Alex Char resalta los beneficios de la final sudamericana para el Supermetro de Barranquilla",
         "url": "https://www.portafolio.co/economia/regiones/gano-nuestra-gente-alex-char-destaca-el-impacto-de-la-final-de-sudamericana-en-el-supermetro-de-barranquilla-506863",
@@ -553,59 +603,19 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "Aris Mining desmiente cargo de Luz Verónica Estrada: estos son todos los documentos que presuntamente falsificó",
         "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Premio mayor de 300 millones de pesos de MiLoto cayó otra vez en Villa de Leyva",
-        "url": "https://www.portafolio.co/economia/finanzas/miloto-volvio-a-caer-en-villa-de-leyva-ganador-se-lleva-los-300-millones-del-premio-mayor-506744",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "MiLoto volvió a caer en Villa de Leyva: ganador se lleva los $300 millones del premio mayor",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Sigue en firme traslado de 347 aviadores a Colpensiones sin fallo del Consejo de Estado",
-        "url": "https://www.portafolio.co/economia/traslado-de-347-aviadores-a-colpensiones-sigue-vigente-pero-consejo-de-estado-aun-no-resuelve-la-demanda-506743",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Traslado de 347 aviadores a Colpensiones sigue vigente, pero Consejo de Estado aún no resuelve la demanda",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Dólar subió casi 90 pesos en Colombia y superó los 3415 pesos este viernes",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-disparo-en-colombia-la-divisa-subio-casi-90-y-supero-los-3-415-este-viernes-506742",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "El dólar se disparó en Colombia: la divisa subió casi $90 y superó los $3.415 este viernes",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "MinHacienda quiere ampliar crédito de gobernaciones y alcaldías para obras regionales",
-        "url": "https://www.portafolio.co/economia/minhacienda-busca-ampliar-el-credito-de-alcaldias-y-gobernaciones-para-financiar-obras-estrategicas-regionales-506741",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "MinHacienda busca ampliar el crédito de alcaldías y gobernaciones para financiar obras estratégicas regionales",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Entidades y empresas no podrán pedir a aspirantes informar embarazo al contratarlas",
-        "url": "https://www.portafolio.co/economia/gobierno/empresas-y-entidades-no-podran-exigir-a-candidatas-reportar-su-embarazo-al-ser-contratadas-506740",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Empresas y entidades no podrán exigir a candidatas reportar su embarazo al ser contratadas",
-        "capturado": "2026-11-20T07:31:33-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Feria automotriz bogotana: más de 800 vehículos, 15 firmas nuevas y la puja por captar clientes",
+        "url": "https://www.portafolio.co/negocios/vehiculo/salon-del-automovil-en-bogota-mas-de-800-carros-expuestos-15-marcas-nuevas-y-la-lucha-por-conquistar-compradores-506797",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Salón del Automóvil en Bogotá: más de 800 carros expuestos, 15 marcas nuevas y la lucha por conquistar compradores",
+        "capturado": "2026-11-22T18:30:06-05:00"
+      },
       {
         "titulo": "Concluye Accelerating Prosperity, programa que apoyó cien empresas en Colombia",
         "url": "https://www.portafolio.co/negocios/empresas/llega-a-su-fin-accelerating-prosperity-iniciativa-que-beneficio-a-un-centenar-de-emprendimientos-en-colombia-506811",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-18",
         "titulo_fuente": "La IA abre un mercado de US$350.000 millones y las empresas ya buscan quién las ayude a implementarla",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "César Rodríguez encabeza MetLife Colombia para apuntar al crecimiento y la transformación digital",
-        "url": "https://www.portafolio.co/negocios/empresas/cesar-rodriguez-asume-la-direccion-de-metlife-colombia-con-foco-en-crecimiento-y-transformacion-digital-506589",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "César Rodríguez asume la dirección de MetLife Colombia con foco en crecimiento y transformación digital",
         "capturado": "2026-11-18T12:48:16-05:00"
       }
     ]
