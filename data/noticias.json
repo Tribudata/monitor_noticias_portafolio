@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-22T05:11:00-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-22T12:58:20-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Alex Char resalta los beneficios de la final sudamericana para el Supermetro de Barranquilla",
+        "url": "https://www.portafolio.co/economia/regiones/gano-nuestra-gente-alex-char-destaca-el-impacto-de-la-final-de-sudamericana-en-el-supermetro-de-barranquilla-506863",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "'Ganó nuestra gente': Alex Char destaca el impacto de la final de Sudamericana en el 'Supermetro' de Barranquilla",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "La moneda nacional figuró entre las de mayor desvalorización durante la semana pasada",
+        "url": "https://www.portafolio.co/economia/finanzas/peso-colombiano-fue-una-de-las-monedas-mas-devaluadas-en-la-ultima-semana-506860",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Peso colombiano fue una de las monedas más devaluadas en la última semana",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Bogotá calcula subsidios por 3,67 billones de pesos para TransMilenio hacia el año 2027",
+        "url": "https://www.portafolio.co/economia/regiones/la-cuenta-de-transmilenio-no-dejaria-de-crecer-bogota-proyecta-3-67-billones-en-subsidios-para-506858",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "La cuenta de TransMilenio no dejaría de crecer: Bogotá proyecta $3,67 billones en subsidios para 2027",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "OCDE señala que el proyecto de rescate económico acierta pero sugiere mayor ambición",
+        "url": "https://www.portafolio.co/economia/el-proyecto-de-ley-de-rescate-economico-va-en-la-direccion-correcta-los-invito-a-ser-aun-mas-ambiciosos-ocde-506801",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "'El proyecto de ley de rescate económico va en la dirección correcta, los invito a ser aún más ambiciosos': OCDE",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Propuesta sobre el salario mínimo de 2027 elevaría el costo laboral mensual a cuatro millones",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-trabajador-podria-costarle-hasta-4-millones-mensuales-a-una-empresa-con-esta-propuesta-506855",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Salario mínimo 2027: trabajador podría costarle hasta $4 millones mensuales a una empresa con esta propuesta",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Debaten en Colombia opciones para eliminar el gravamen cuatro por mil sin dañar el presupuesto",
+        "url": "https://www.portafolio.co/economia/finanzas/desmontar-el-4x1000-sin-afectar-las-finanzas-publicas-las-alternativas-que-se-discuten-en-colombia-506779",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Desmontar el 4x1000 sin afectar las finanzas públicas: las alternativas que se discuten en Colombia",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella previno a Starlink y operadores por ondas en centros penitenciarios del país",
+        "url": "https://www.portafolio.co/economia/gobierno/mintic-les-hizo-advertencias-a-starlink-y-operadores-por-senales-en-las-carceles-colombianas-506854",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Gobierno De La Espriella le hizo advertencias a Starlink y operadores por señales en las cárceles colombianas",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Gobierno suscribe préstamo por US$50 millones con entidad de la ONU para estrategia Jóvenes Milagro rural",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-firma-credito-de-us-50-millones-con-organismo-de-la-onu-para-impulsar-programa-jovenes-milagro-en-el-campo-506853",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Gobierno firma crédito de US$50 millones con organismo de la ONU para impulsar programa Jóvenes Milagro en el campo",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Análisis: Nubes de tormenta en la economía colombiana",
+        "url": "https://www.portafolio.co/economia/analisis-nubes-de-tormenta-en-la-economia-colombiana-506852",
+        "resumen": "",
+        "autor": "Ricardo avila",
+        "subseccion": "",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Análisis: Nubes de tormenta en la economía colombiana",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Álvaro Uribe expone su propuesta fiscal: mayor recaudación, tributos reducidos y reorganización estatal",
+        "url": "https://www.portafolio.co/economia/gobierno/alvaro-uribe-pone-sobre-la-mesa-su-plan-tributario-mas-recaudo-menos-impuestos-y-ajuste-del-estado-506851",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Álvaro Uribe pone sobre la mesa su plan tributario: más recaudo, menos impuestos y ajuste del Estado",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate Económico: asociaciones alertan impacto en colmados y gastrobares por gravámenes alcohólicos",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-los-gremios-advierten-efectos-en-tiendas-y-restaurantes-por-impuestos-al-licor-506849",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Ley de Rescate Económico: los gremios advierten efectos en tiendas y restaurantes por impuestos al licor",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Carburantes y enajenación de activos estatales, alternativas para suplantar supresión de IVA a comestibles",
+        "url": "https://www.portafolio.co/economia/finanzas/el-ajuste-fiscal-podria-llegar-a-su-bolsillo-iva-y-combustibles-entre-las-opciones-que-generan-debate-506848",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Combustibles y venta de activos del Estado, opciones para reemplazar eliminación de IVA a alimentos",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Nueva ley de suplantación en Colombia elimina requisito de enviar selfie y cédula para solicitar créditos",
+        "url": "https://www.portafolio.co/economia/gobierno/ya-no-es-obligatorio-enviar-selfie-y-cedula-para-pedir-credito-en-colombia-asi-funciona-nueva-ley-de-suplantacion-506847",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Ya no es obligatorio enviar selfie y cédula para pedir crédito en Colombia: así funciona nueva ley de suplantación",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Proyecto de ampliación de la Autopista Norte en Bogotá busca dar 108 horas de ahorro anual a habitantes",
+        "url": "https://www.portafolio.co/economia/regiones/ampliacion-de-la-autopista-norte-en-bogota-promete-ahorrar-108-horas-al-ano-a-los-ciudadanos-asi-sera-el-proyecto-506846",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Ampliación de la Autopista Norte en Bogotá promete ahorrar 108 horas al año a los ciudadanos: así será el proyecto",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
       {
         "titulo": "Poseer una cuenta en el banco no asegura recibir préstamos: la brecha financiera vigente en el país",
         "url": "https://www.portafolio.co/economia/finanzas/tener-una-cuenta-bancaria-no-garantiza-acceso-al-credito-la-brecha-financiera-que-persiste-en-colombia-506844",
@@ -463,149 +603,49 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "Empresas y entidades no podrán exigir a candidatas reportar su embarazo al ser contratadas",
         "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Deuda pública colombiana presionada: intereses superarán el crecimiento en 2026",
-        "url": "https://www.portafolio.co/economia/gobierno/la-deuda-publica-de-colombia-enfrenta-presion-intereses-superan-el-crecimiento-economico-en-506738",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "La deuda pública de Colombia enfrenta presión: intereses superan el crecimiento económico en 2026",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Pacto Histórico solicitó la dimisión de Verónica Estrada, congresista que falseó su diploma de ingeniera",
-        "url": "https://www.portafolio.co/economia/gobierno/pacto-historico-pidio-la-renuncia-a-veronica-estrada-congresista-que-falsifico-su-titulo-de-ingeniera-506737",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Pacto Histórico pidió la renuncia a Verónica Estrada, congresista que falsificó su título de ingeniera",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "El 95 por ciento de los colombianos con productos financieros usa más de una institución",
-        "url": "https://www.portafolio.co/economia/finanzas/el-95-de-quienes-tienen-un-producto-financiero-en-colombia-utiliza-mas-de-una-entidad-financiera-506726",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "El 95% de quienes tienen un producto financiero en Colombia utiliza más de una entidad financiera",
-        "capturado": "2026-11-19T22:55:15-05:00"
-      },
-      {
-        "titulo": "Radicar el reclamo por el sismo del 10 de agosto y obtener la indemnización toma 4 días",
-        "url": "https://www.portafolio.co/economia/regiones/radicar-reclamacion-por-el-terremoto-del-10-de-agosto-y-recibir-el-pago-de-indemnizacion-demora-4-dias-506724",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Radicar reclamación por el terremoto del 10 de agosto y recibir el pago de indemnización demora 4 días",
-        "capturado": "2026-11-19T22:55:15-05:00"
-      },
-      {
-        "titulo": "La formación bruta de capital bajó en Colombia: subió 2,1% interanual tras el 7,1% del trimestre previo",
-        "url": "https://www.portafolio.co/economia/inversion-fija-se-desacelero-en-colombia-crecio-2-1-anual-frente-al-7-1-registrado-en-el-segundo-trimestre-506720",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Inversión fija se desaceleró en Colombia: creció 2,1% anual, frente al 7,1% registrado en el segundo trimestre",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Administración nacional destina fondos a la rama judicial: sumará 1,5 billones de pesos al erario de 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-destraba-recursos-para-la-justicia-adicionara-1-5-billones-al-presupuesto-de-506716",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Gobierno destraba recursos para la justicia: adicionará $1,5 billones al presupuesto de 2027",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Currículos elaborados por inteligencia artificial colman las firmas, señala IE University",
-        "url": "https://www.portafolio.co/economia/todos-se-parecen-todos-son-perfectos-hojas-de-vida-hechas-con-ia-saturan-a-las-empresas-advierte-ie-university-506691",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "'Todos se parecen, todos son perfectos': hojas de vida hechas con IA saturan a las empresas, advierte IE University",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Estado de la aviación comercial colombiana: Rionegro superó en casi 30% su límite operativo durante 2025",
-        "url": "https://www.portafolio.co/economia/infraestructura/radiografia-del-transporte-aereo-en-colombia-rionegro-opero-en-el-2025-casi-30-por-encima-de-su-capacidad-506683",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Radiografía del transporte aéreo en Colombia: Rionegro operó en el 2025 casi 30% por encima de su capacidad",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro gestiona alianzas con Fundación Santo Domingo y RedPRO para levantar zonas tras sismo",
-        "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-busca-alianzas-con-redpro-y-fundacion-santo-domingo-para-la-reconstruccion-tras-el-terremoto-506708",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Fondo Milagro busca alianzas con RedPRO y Fundación Santo Domingo para la reconstrucción tras el terremoto",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Comenzó la eutanasia de hipopótamos en Colombia: 10 ejemplares son objetivo por amenazar la seguridad",
-        "url": "https://www.portafolio.co/economia/regiones/arranco-la-eutanasia-de-hipopotamos-en-colombia-hay-10-animales-en-la-mira-por-poner-en-riesgo-vidas-506706",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Arrancó la eutanasia de hipopótamos en Colombia: hay 10 animales en la mira por poner en riesgo vidas",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "ANT asignará $12.000 millones a campesinos damnificados por incendios en Tolima y explica cómo aplicar",
-        "url": "https://www.portafolio.co/economia/gobierno/ant-destinara-12-000-millones-para-campesinos-afectados-por-los-incendios-en-tolima-asi-pueden-acceder-506700",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "ANT destinará $12.000 millones para campesinos afectados por los incendios en Tolima: así pueden acceder",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Universidad Nacional confirma ausencia de registro de título de ingeniera de congresista del Pacto Histórico",
-        "url": "https://www.portafolio.co/economia/gobierno/universidad-nacional-ratifica-que-no-hallo-registro-de-titulo-de-ingeniera-de-congresista-del-pacto-historico-506698",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Universidad Nacional ratifica que no halló registro de título de ingeniera de congresista del Pacto Histórico",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Una hora sin internet puede valer US$336.000 para su empresa",
-        "url": "https://www.portafolio.co/economia/una-hora-sin-internet-puede-costarle-us-336-000-a-su-empresa-506699",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Una hora sin internet puede costarle US$336.000 a su empresa",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Colombia prepara prueba piloto de deuda pública tokenizada para optimizar emisión, compra y venta de bonos",
-        "url": "https://www.portafolio.co/economia/colombia-alista-un-piloto-de-deuda-publica-tokenizada-que-busca-agilizar-la-emision-compraventa-y-pago-de-bonos-506695",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Colombia alista un piloto de deuda pública tokenizada que busca agilizar la emisión, compraventa y pago de bonos",
-        "capturado": "2026-11-19T17:58:03-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Concluye Accelerating Prosperity, programa que apoyó cien empresas en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/llega-a-su-fin-accelerating-prosperity-iniciativa-que-beneficio-a-un-centenar-de-emprendimientos-en-colombia-506811",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Llega a su fin Accelerating Prosperity, iniciativa que benefició a un centenar de emprendimientos en Colombia",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Desde el 25 de noviembre, comerciantes del GranSan en Bogotá venderán en ferias tras la conflagración",
+        "url": "https://www.portafolio.co/negocios/comercio/comerciantes-del-gransan-en-bogota-tendran-espacios-de-venta-en-ferias-desde-el-25-de-noviembre-tras-el-incendio-506856",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Comerciantes del GranSan, en Bogotá, tendrán espacios de venta en ferias desde el 25 de noviembre tras el incendio",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "IncoAsfaltos prevé 160.000 millones en ingresos al cierre de 2026 y cree en Colombia",
+        "url": "https://www.portafolio.co/negocios/empresas/colombia-esta-por-hacer-incoasfaltos-apuesta-por-el-pais-y-cerrara-2026-con-ingresos-de-160-000-millones-506799",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "'Colombia está por hacer': IncoAsfaltos apuesta por el país y cerrará 2026 con ingresos de $160.000 millones",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
+      {
+        "titulo": "Leonisa llega a 70 años y se mantiene vigente repasando su trayectoria corporativa",
+        "url": "https://www.portafolio.co/negocios/empresas/leonisa-cumple-70-anos-y-sigue-imparable-asi-construyo-su-historia-empresarial-506795",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-22",
+        "titulo_fuente": "Leonisa cumple 70 años y sigue 'Imparable': así construyó su historia empresarial",
+        "capturado": "2026-11-22T12:58:20-05:00"
+      },
       {
         "titulo": "Grupo Argos enajenó títulos de Cementos Argos para elevar el flotante y afianzar su visibilidad global",
         "url": "https://www.portafolio.co/negocios/empresas/grupo-argos-vendio-acciones-de-cementos-argos-para-aumentar-el-flotante-y-fortalecer-su-visibilidad-internacional-506845",
@@ -1164,46 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-18",
         "titulo_fuente": "César Rodríguez asume la dirección de MetLife Colombia con foco en crecimiento y transformación digital",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Cual es la formula para que la economia mejore su crecimiento, segun la nueva presidenta de la Andi",
-        "url": "https://www.portafolio.co/negocios/industrias/cual-es-la-formula-para-que-la-economia-mejore-su-crecimiento-segun-la-nueva-presidenta-de-la-andi-506584",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "¿Cuál es la fórmula para que la economía mejore su crecimiento, según la nueva presidenta de la Andi?",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Colombia agranda su desdeficit comercial: el saldo negativo supero los US$16.000 millones en 2026",
-        "url": "https://www.portafolio.co/negocios/comercio/colombia-profundiza-su-desbalance-comercial-el-deficit-aumento-y-supero-los-us-16-000-millones-en-506581",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Colombia profundiza su desbalance comercial: el déficit aumentó y superó los US$16.000 millones en 2026",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "Las marcas detras de Italika, la firma de motos que arribara a Barranquilla tras junta de Salinas y De La Espriella",
-        "url": "https://www.portafolio.co/negocios/vehiculo/las-marcas-detras-de-italika-empresa-de-motos-que-llegara-a-barranquilla-tras-reunion-de-salinas-y-de-la-espriella-506566",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Las marcas detrás de Italika, empresa de motos que llegará a Barranquilla tras reunión de Salinas y De La Espriella",
-        "capturado": "2026-11-18T12:48:16-05:00"
-      },
-      {
-        "titulo": "PepsiCo robustece su agroindustria colombiana adquiriendo papa y plátano directo a pequeños agricultores",
-        "url": "https://www.portafolio.co/negocios/empresas/pepsico-fortalece-su-negocio-agricola-en-colombia-con-compras-directas-de-papa-y-platano-a-pequenos-productores-506565",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "PepsiCo fortalece su negocio agrícola en Colombia con compras directas de papa y plátano a pequeños productores",
         "capturado": "2026-11-18T12:48:16-05:00"
       }
     ]
