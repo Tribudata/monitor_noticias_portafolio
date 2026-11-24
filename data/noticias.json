@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-24T07:01:26-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-24T17:40:19-05:00",
+  "nuevos_en_esta_corrida": 32,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Esto es lo que se conoce sobre el viaje de Abelardo de la Espriella a Cartagena por rehenes en Éxito",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-viaja-a-cartagena-por-toma-de-rehenes-en-almacen-exito-esto-se-sabe-507025",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Abelardo de la Espriella viaja a Cartagena por toma de rehenes en almacén Éxito: esto se sabe",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Supersalud monta mesas de concertación entre EPS e IPS en Bogotá, Meta y Huila",
+        "url": "https://www.portafolio.co/economia/gobierno/supersalud-instala-mesas-de-conciliacion-entre-eps-e-ips-en-bogota-huila-y-meta-507024",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Supersalud instala mesas de conciliación entre EPS e IPS en Bogotá, Huila y Meta",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Fuerza Pública envía cuadrillas especiales a Cartagena tras retención de ciudadanos en Éxito",
+        "url": "https://www.portafolio.co/economia/regiones/gobierno-despliega-grupos-especiales-de-la-fuerza-publica-por-retencion-de-personas-en-exito-de-cartagena-507023",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Gobierno despliega grupos especiales de la Fuerza Pública por retención de personas en Éxito de Cartagena",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Las sugerencias más complejas y políticamente difíciles que la Ocde hace a Colombia",
+        "url": "https://www.portafolio.co/economia/las-medidas-mas-dificiles-que-la-ocde-recomienda-a-colombia-y-que-considera-politicamente-complejas-507021",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Las medidas más difíciles que la Ocde recomienda a Colombia y que considera políticamente complejas",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Gobierno danés dona US$4,5 millones para apoyar el tendido eléctrico entre Panamá y Colombia",
+        "url": "https://www.portafolio.co/economia/gobierno/dinamarca-aporta-us-4-5-millones-para-impulsar-la-interconexion-electrica-entre-colombia-y-panama-507013",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Dinamarca aporta US$4,5 millones para impulsar la interconexión eléctrica entre Colombia y Panamá",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Hunty transforma la contratación de talento humano mediante inteligencia artificial",
+        "url": "https://www.portafolio.co/economia/finanzas/hunty-revoluciona-la-seleccion-de-personal-con-inteligencia-artificial-automatizada-507017",
+        "resumen": "",
+        "autor": "Maira alejandra rodriguez chicuazuque",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Hunty revoluciona la selección de personal con inteligencia artificial automatizada",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Golpe en Cartagena: el inicio del ataque, la liberación de rehenes y el castigo para los culpables",
+        "url": "https://www.portafolio.co/economia/regiones/exito-de-cartagena-como-empezo-el-asalto-cuantos-rehenes-salieron-y-a-que-se-exponen-los-responsables-507014",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Éxito de Cartagena: cómo empezó el asalto, cuántos rehenes salieron y a qué se exponen los responsables",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Disminuyen los puestos de trabajo en el país y bajan las proyecciones de contratación corporativa al 2027",
+        "url": "https://www.portafolio.co/economia/caen-las-vacantes-laborales-en-colombia-y-se-moderan-las-expectativas-empresariales-de-contratacion-para-507010",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Caen las vacantes laborales en Colombia y se moderan las expectativas empresariales de contratación para 2027",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Terminal aérea de Cartagena retoma operaciones tras intervención de la Fuerza Pública junto a la pista",
+        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-de-cartagena-reanuda-aterrizajes-y-despegues-tras-operativo-de-la-fuerza-publica-cerca-de-la-pista-507008",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Aeropuerto de Cartagena reanuda aterrizajes y despegues tras operativo de la Fuerza Pública cerca de la pista",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Negocio que Carlos Lehder intentó inscribir y la SIC rechazó por sus nexos con hechos violentos",
+        "url": "https://www.portafolio.co/economia/gobierno/de-que-es-la-empresa-que-carlos-lehder-queria-registrar-pero-la-sic-le-nego-por-estar-vinculado-a-la-violencia-507007",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "De qué es la empresa que Carlos Lehder quería registrar pero la SIC le negó por estar vinculado a la violencia",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Dian logró recaudar 3,17 billones por beneficio fiscal y rebasó un 17,2% la meta para la reconstrucción",
+        "url": "https://www.portafolio.co/economia/dian-recaudo-3-17-billones-con-alivio-tributario-y-supero-en-17-2-la-meta-prevista-para-la-reconstruccion-507006",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Dian recaudó $3,17 billones con alivio tributario y superó en 17,2% la meta prevista para la reconstrucción",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Cotización del dólar superó los 3.600 pesos: sube 12% en noviembre y alcanza picos de medio año",
+        "url": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-rompe-al-alza-la-barrera-de-los-3-600-durante-las-negociaciones-de-este-martes-24-de-noviembre-507001",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Precio del dólar rompió al alza la barrera de los $3.600: en noviembre ha subido 12% y toca máximos de seis meses",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Atentado con carro bomba en Villavicencio daña sucursal del Banco de Bogotá y frena el servicio",
+        "url": "https://www.portafolio.co/economia/regiones/explosion-de-carro-bomba-en-villavicencio-afecta-sede-del-banco-de-bogota-y-obliga-a-suspender-atencion-507000",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Explosión de carro bomba en Villavicencio afecta sede del Banco de Bogotá y obliga a suspender atención",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Entre enero y noviembre de 2026, Colombia contabilizó 358 atentados con drones explosivos",
+        "url": "https://www.portafolio.co/economia/gobierno/colombia-registro-358-ataques-con-drones-explosivos-entre-enero-y-noviembre-de-506996",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Colombia registró 358 ataques con drones explosivos entre enero y noviembre de 2026",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Terminal aérea de Cartagena frena arribos por acción de la Fuerza Pública y solo deja salir vuelos",
+        "url": "https://www.portafolio.co/economia/regiones/aeropuerto-de-cartagena-suspende-aterrizajes-por-operativo-de-fuerza-publica-solo-permite-despegues-506993",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Aeropuerto de Cartagena suspende aterrizajes por operativo de Fuerza Pública: solo permite despegues",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Proyecto de rescate trae modificaciones y fija castigos ante mal uso de la factura electrónica",
+        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-plantea-mas-cambios-cuales-serian-las-sanciones-por-mal-uso-de-la-facturacion-electronica-506981",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Ley de rescate plantea más cambios: ¿cuáles serían las sanciones por mal uso de la facturación electrónica?",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
       {
         "titulo": "Partidos políticos fijan fecha crucial para aprobar la Ley de Rescate Económico",
         "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-partidos-politicos-ponen-sobre-la-mesa-fecha-clave-para-aprobarla-506959",
@@ -443,169 +603,169 @@
         "publicacion": "2026-11-21",
         "titulo_fuente": "Alerta por aire contaminado en Bogotá: piden evitar ejercicio al aire libre y recomiendan uso de tapabocas",
         "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "El Gran Malecón de Barranquilla representa la campaña turística Colombia te llama",
-        "url": "https://www.portafolio.co/economia/regiones/el-gran-malecon-de-barranquilla-simbolo-de-la-campana-colombia-te-llama-de-promocion-turistica-506827",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "El Gran Malecón de Barranquilla, símbolo de la campaña 'Colombia te llama' de promoción turística",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "Efectos de la suspensión gubernamental del decreto pensional en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/que-cambiara-con-las-pensiones-en-colombia-tras-la-suspension-del-decreto-que-hizo-el-gobierno-petro-506825",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "¿Qué cambiará con las pensiones en Colombia tras la suspensión del decreto que hizo el Gobierno Petro?",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Factores para elegir carrera en Colombia en 2027 antes de ingresar a la educación superior",
-        "url": "https://www.portafolio.co/economia/finanzas/que-estudiar-en-2027-factores-que-pesan-en-la-decision-de-los-jovenes-en-colombia-antes-de-entrar-a-la-universidad-506824",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Qué estudiar en 2027: factores que pesan en la decisión de los jóvenes en Colombia antes de entrar a la universidad",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Estrategia de la Alcaldía de Bogotá para disminuir el consumo de energía eléctrica",
-        "url": "https://www.portafolio.co/economia/regiones/en-que-consiste-el-plan-de-la-alcaldia-de-bogota-para-ahorrar-energia-electrica-506823",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "En qué consiste el plan de la Alcaldía de Bogotá para ahorrar energía eléctrica",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Subsidio de arrendamiento de hasta $875.453 para afectados por sismo: así operará el auxilio estatal",
-        "url": "https://www.portafolio.co/economia/gobierno/damnificados-por-terremoto-podran-recibir-hasta-875-453-para-arriendo-asi-funcionara-la-ayuda-del-gobierno-506822",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Damnificados por terremoto podrán recibir hasta $875.453 para arriendo: así funcionará la ayuda del Gobierno",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Luis Felipe Henao, director del Fondo Milagro, cederá su sueldo para la edificación de Risaralda",
-        "url": "https://www.portafolio.co/economia/gobierno/gerente-del-fondo-milagro-luis-felipe-henao-donara-su-salario-para-contribuir-a-la-construccion-de-risaralda-506821",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Gerente del Fondo Milagro, Luis Felipe Henao, donará su salario para contribuir a la construcción de Risaralda",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Casa de Nariño señala que el borrador para retomar las corrige no es mandato oficial y fue retirado",
-        "url": "https://www.portafolio.co/economia/gobierno/presidencia-dice-que-proyecto-de-decreto-para-revivir-corridas-de-toros-no-es-una-decision-del-gobierno-y-se-retiro-506819",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Presidencia dice que proyecto de decreto para revivir corridas de toros no es una decisión del Gobierno y se retiró",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella acepta que embalses no llegan al 80% y urge ahorrar energía contra un apagón",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-admite-que-embalses-se-alejan-de-la-meta-del-80-y-pide-ahorrar-energia-para-evitar-apagon-506816",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Gobierno De la Espriella admite que embalses se alejan de la meta del 80% y pide ahorrar energía para evitar apagón",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Ideam advierte fuertes precipitaciones este fin de semana en Colombia y señala las zonas más propensas",
-        "url": "https://www.portafolio.co/economia/regiones/ideam-alerta-por-lluvias-fuertes-este-fin-de-semana-en-colombia-estas-son-las-regiones-con-mayor-probabilidad-506815",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Ideam alerta por lluvias fuertes este fin de semana en Colombia: estas son las regiones con mayor probabilidad",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Luz Verónica Estrada: trayectoria del caso de la congresista del Pacto Histórico acusada de títulos falsos",
-        "url": "https://www.portafolio.co/economia/gobierno/luz-veronica-estrada-historia-del-caso-de-la-congresista-del-pacto-historico-senalada-por-sus-titulos-academicos-506814",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Luz Verónica Estrada: historia del caso de la congresista del Pacto Histórico señalada por sus títulos falsos",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Carne de res colombiana regresa a Chile y proyecta comercializaciones por más de 27 millones de dólares",
-        "url": "https://www.portafolio.co/economia/agro/carne-bovina-colombiana-vuelve-a-chile-se-preven-ventas-por-mas-de-27-millones-de-dolares-506813",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Carne bovina colombiana vuelve a Chile: se prevén ventas por más de 27 millones de dólares",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "La tasa de cambio en Colombia aumentó casi 150 pesos en la semana y así opera este sábado 21 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-subio-casi-150-pesos-durante-la-semana-asi-cotiza-la-divisa-este-sabado-21-de-noviembre-506812",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "El dólar en Colombia subió casi 150 pesos durante la semana: así cotiza la divisa este sábado 21 de noviembre",
-        "capturado": "2026-11-21T12:07:07-05:00"
-      },
-      {
-        "titulo": "Consulte y baje acá la versión virtual de Portafolio fin de semana",
-        "url": "https://www.portafolio.co/economia/vea-y-descargue-aqui-la-edicion-digital-de-portafolio-fin-de-semana-506808",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Vea y descargue aquí la edición digital de Portafolio fin de semana",
-        "capturado": "2026-11-21T04:34:12-05:00"
-      },
-      {
-        "titulo": "Sismo de magnitud 6,9 en Perú afectó a Bogotá y regiones de Colombia este viernes 20 de noviembre",
-        "url": "https://www.portafolio.co/economia/regiones/sismo-de-magnitud-6-9-en-peru-se-sintio-en-bogota-y-otras-zonas-de-colombia-este-viernes-20-de-noviembre-506806",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Sismo de magnitud 6,9 en Perú se sintió en Bogotá y otras zonas de Colombia este viernes 20 de noviembre",
-        "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Comerciante Don Luis, viral tras elecciones, comercializará artículos de más de 36 familias campesinas",
-        "url": "https://www.portafolio.co/economia/gobierno/de-caqueta-a-todo-el-pais-don-luis-llevara-productos-de-mas-de-36-familias-campesinas-a-mercado-libre-506800",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "'Don Luis', el comerciante que hizo viral tras las elecciones, llevará productos de más de 36 familias campesinas",
-        "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Transacciones de CFI Financial Group se duplican y alcanzan un récord de US$3,45 billones",
-        "url": "https://www.portafolio.co/economia/finanzas/volumen-de-operaciones-de-cfi-financial-group-se-duplica-y-marca-un-record-de-us-3-45-billones-506796",
-        "resumen": "",
-        "autor": "Redaccion portafolio",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Volumen de operaciones de CFI Financial Group se duplica y marca un récord de US$3,45 billones",
-        "capturado": "2026-11-20T20:58:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Acciones de Nvidia bajan un 7% tras la vuelta de Jensen Huang y crecen las dudas sobre su porvenir",
+        "url": "https://www.portafolio.co/negocios/empresas/accion-de-nvidia-cae-un-7-pese-al-regreso-de-jensen-huang-y-aumentan-las-dudas-sobre-su-futuro-507022",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Acción de Nvidia cae un 7% pese al regreso de Jensen Huang y aumentan las dudas sobre su futuro",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Oxxo destaca en Colombia con su movida global y prevé elevar sus ventas locales un 20% en el año",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-protagonista-en-la-operacion-internacional-de-oxxo-que-proyecta-crecer-20-este-ano-en-el-pais-507009",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Colombia, protagonista en la operación internacional de Oxxo que proyecta crecer 20% este año en el país",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Crecimiento de buses eléctricos en Colombia: más de 1900 automotores circulando y su impacto acústico",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-expansion-de-los-buses-electricos-en-colombia-mas-de-1-900-vehiculos-rodando-y-su-influencia-en-el-ruido-507020",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "La expansión de los buses eléctricos en Colombia: más de 1.900 vehículos rodando y su influencia en el ruido",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "GeoPark coloca bonos High Yield por 550 millones de dólares con plazo al año 2033",
+        "url": "https://www.portafolio.co/negocios/empresas/geopark-emite-bonos-high-yield-por-usd-550-millones-con-vencimiento-en-507015",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "GeoPark emite bonos High Yield por USD 550 millones con vencimiento en 2033",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Luz Stella Murgas se presenta al Portafolio Business Forum para debatir sobre inversión y empresas",
+        "url": "https://www.portafolio.co/negocios/empresas/luz-stella-murgas-llega-al-portafolio-business-forum-para-analizar-los-retos-de-inversion-y-crecimiento-empresarial-506994",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Luz Stella Murgas llega al Portafolio Business Forum para analizar los retos de inversión y crecimiento empresarial",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Cámaras de Comercio caribeñas promueven plan unificado para posicionar la zona como polo energético",
+        "url": "https://www.portafolio.co/negocios/comercio/camaras-de-comercio-del-caribe-impulsan-agenda-conjunta-para-consolidar-a-la-region-como-hub-energetico-507002",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Cámaras de Comercio del Caribe impulsan agenda conjunta para consolidar a la región como hub energético",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Firma nacional pacta alianza con la administración de Nayib Bukele para integrar IA al Estado salvadoreño",
+        "url": "https://www.portafolio.co/negocios/empresas/empresa-colombiana-firma-alianza-con-gobierno-de-el-salvador-para-llevar-ia-a-la-gestion-publica-durante-dos-anos-507003",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Empresa colombiana firma alianza con Gobierno de Nayib Bukele en El Salvador para llevar IA a la gestión pública",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Tributo del 19 % al cine amenazaría 5.800 puestos de trabajo en el país",
+        "url": "https://www.portafolio.co/negocios/empresas/iva-del-19-a-las-boletas-de-cine-pondria-en-riesgo-5-800-empleos-en-colombia-506999",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "IVA del 19 % a las boletas de cine pondría en riesgo 5.800 empleos en Colombia",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "El e-commerce llega al 70% de los hogares colombianos en adquisiciones de abarrotes",
+        "url": "https://www.portafolio.co/negocios/comercio/el-comercio-electronico-alcanza-al-70-de-los-hogares-de-colombia-para-las-compras-de-mercado-506990",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "El comercio electrónico alcanza al 70% de los hogares de Colombia para las compras de mercado",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Persiste la incertidumbre en el Éxito cartagenero por bloqueo a compradores y personal en atraco",
+        "url": "https://www.portafolio.co/negocios/empresas/zozobra-en-almacen-exito-de-cartagena-por-presunta-retencion-de-clientes-y-trabajadores-durante-asalto-armado-506991",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Sigue la zozobra en almacén Éxito de Cartagena por retención de clientes y trabajadores durante asalto armado",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Tecnoglass ingresará al S&P SmallCap 600 de la bolsa estadounidense y este será su arribo",
+        "url": "https://www.portafolio.co/negocios/empresas/tecnoglass-llegara-al-s-p-smallcap-600-en-el-mercado-accionario-de-estados-unidos-asi-sera-su-incorporacion-506992",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Tecnoglass llegará al S&P SmallCap 600 en el mercado accionario de Estados Unidos: así será su incorporación",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Avianca lanza tiquetes para su vuelo directo Barranquilla - Nueva York que inicia el 2 de febrero de 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/avianca-pone-a-la-venta-nueva-ruta-directa-barranquilla-nueva-york-vuelos-comenzaran-el-2-de-febrero-de-506989",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Avianca pone a la venta nueva ruta directa Barranquilla - Nueva York: vuelos comenzarán el 2 de febrero de 2027",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Kaszek lanza nuevo fondo por US$650 millones destinado a startups latinoamericanas iniciales",
+        "url": "https://www.portafolio.co/negocios/empresas/kaszek-tiene-un-nuevo-fondo-con-us-650-millones-para-invertir-en-startups-latinoamericanas-en-etapa-temprana-506983",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Kaszek tiene un nuevo fondo con US$650 millones para invertir en startups latinoamericanas en etapa temprana",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "El costo de recargar un vehículo eléctrico varía según el estrato social en el país",
+        "url": "https://www.portafolio.co/negocios/vehiculo/cargar-un-carro-electrico-no-cuesta-lo-mismo-para-todos-asi-cambia-la-factura-segun-el-estrato-506985",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Cargar un carro eléctrico no cuesta lo mismo para todos: así cambia la factura según el estrato",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Sempli proyecta desembolsar $300.000 millones a pymes para implementar paneles solares",
+        "url": "https://www.portafolio.co/negocios/empresas/fintech-sempli-busca-prestar-300-000-millones-a-pymes-para-que-instalen-paneles-solares-506979",
+        "resumen": "",
+        "autor": "Jose caparroso",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Fintech Sempli busca prestar $300.000 millones a pymes para que instalen paneles solares",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
+      {
+        "titulo": "Cómo calcular el gasto exacto por cada recarga de un vehículo eléctrico en Colombia",
+        "url": "https://www.portafolio.co/negocios/vehiculo/tiene-carro-electrico-esto-es-lo-que-puede-costar-cargarlo-en-una-estacion-y-en-su-casa-en-colombia-506978",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "¿Vale la pena un carro eléctrico? Así puede calcular cuánto dinero gastaría en cada recarga en Colombia",
+        "capturado": "2026-11-24T17:40:19-05:00"
+      },
       {
         "titulo": "Andi presenta al Gobierno la oferta empresarial por $48,8 billones para la reforma fiscal de De La Espriella",
         "url": "https://www.portafolio.co/negocios/empresas/empresarios-ofrecen-48-8-billones-para-el-ajuste-fiscal-andi-revela-su-propuesta-al-gobierno-de-la-espriella-506967",
@@ -1045,166 +1205,6 @@
         "publicacion": "2026-11-19",
         "titulo_fuente": "Kia suma premios internacionales para sus carros eléctricos y más modelos: estos fueron los más destacados de 2026",
         "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Anthropic se estrena en Wall Street y logra una valorización de casi US$2 billones",
-        "url": "https://www.portafolio.co/negocios/empresas/anthropic-debuta-en-wall-street-y-alcanza-una-valoracion-cercana-a-los-us-2-billones-506703",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Anthropic debuta en Wall Street y alcanza una valoración cercana a los US$2 billones",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "BMW considera a Colombia un mercado clave en alto desempeño, según Sebastián Rocha",
-        "url": "https://www.portafolio.co/negocios/vehiculo/colombia-es-un-mercado-representativo-para-los-modelos-de-alto-desempeno-de-bmw-sebastian-rocha-de-autogermana-506685",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "'Colombia es un mercado representativo para los modelos de alto desempeño de BMW': Sebastián Rocha, de Autogermana",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Mario Reina dimite como director de SwissCham y presenta el balance de su labor",
-        "url": "https://www.portafolio.co/negocios/empresas/mario-reina-renuncia-a-la-direccion-de-swisscham-estos-son-los-resultados-que-deja-tras-su-gestion-506664",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Mario Reina renuncia a la dirección de SwissCham: estos son los resultados que deja tras su gestión",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Germán Bahamón se perfila para liderar el Consejo Gremial Nacional en lugar de Natalia Gutiérrez",
-        "url": "https://www.portafolio.co/negocios/comercio/german-bahamon-estaria-cerca-de-presidir-el-consejo-gremial-nacional-reemplazaria-a-natalia-gutierrez-506689",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Germán Bahamón estaría cerca de presidir el Consejo Gremial Nacional: reemplazaría a Natalia Gutiérrez",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Autogermana revela dos versiones limitadas de MINI y lanza el nuevo BMW M350 en Latinoamérica",
-        "url": "https://www.portafolio.co/negocios/vehiculo/autogermana-presenta-dos-ediciones-limitadas-de-mini-y-estrena-el-nuevo-bmw-m350-en-america-latina-506677",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Autogermana presenta dos ediciones limitadas de MINI y estrena el nuevo BMW M350 en América Latina",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "En medio de crisis de gas, Canacol presiona a Supersociedades para acabar contratos y hallar compradores",
-        "url": "https://www.portafolio.co/negocios/empresas/en-plena-crisis-de-gas-canacol-presiona-a-la-supersociedades-para-terminar-contratos-y-materializar-compradores-506681",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "En plena crisis de gas, Canacol presiona a la Supersociedades para terminar contratos y materializar compradores",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "De Blessd a Ryan Reynolds: los famosos dueños de acciones en escuadras del balompié nacional",
-        "url": "https://www.portafolio.co/negocios/empresas/de-blessd-a-ryan-reynolds-los-famosos-que-tienen-acciones-en-equipos-del-futbol-colombiano-506679",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "De Blessd a Ryan Reynolds: los famosos que tienen acciones en equipos del fútbol colombiano",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Blessd adquiere el Deportivo Pereira: los millones de dólares que habría cancelado por el club",
-        "url": "https://www.portafolio.co/negocios/empresas/blessd-compra-el-deportivo-pereira-los-millones-de-dolares-que-habria-pagado-por-el-equipo-506676",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Blessd compra el Deportivo Pereira: los millones de dólares que habría pagado por el equipo",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Stellantis trae a Leapmotor para incrementar su oferta de vehículos en el territorio nacional",
-        "url": "https://www.portafolio.co/negocios/vehiculo/stellantis-amplia-su-portafolio-en-el-pais-con-el-arribo-de-leapmotor-506633",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Stellantis amplía su portafolio en el país con el arribo de Leapmotor",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial niega elección de presidente para 2027 y fija la votación para el 9 de diciembre",
-        "url": "https://www.portafolio.co/negocios/empresas/consejo-gremial-aclara-que-aun-no-eligio-presidente-para-2027-la-votacion-sera-el-proximo-9-de-diciembre-506632",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Consejo Gremial aclara que aún no eligió presidente para 2027: la votación será el próximo 9 de diciembre",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Milagro Week: Éxito confirma recursos por hasta US$1.200 millones en Colombia en cuatro años",
-        "url": "https://www.portafolio.co/negocios/empresas/milagro-week-exito-anuncia-inversiones-de-hasta-us-1-200-millones-en-colombia-durante-los-proximos-cuatro-anos-506629",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Milagro Week: Éxito anuncia inversiones de hasta US$1.200 millones en Colombia durante los próximos cuatro años",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "Banco Europeo de Inversiones quiere afianzar alianzas y hallar créditos en suelo colombiano",
-        "url": "https://www.portafolio.co/negocios/inversion/banco-europeo-de-inversiones-busca-nuevas-oportunidades-de-financiacion-en-colombia-y-fortalecer-alianzas-506628",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Inversion",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Banco Europeo de Inversiones busca nuevas oportunidades de financiación en Colombia y fortalecer alianzas",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "3 Cordilleras saca cerveza sin alcohol y confirma su ingreso a Rappi Turbo y Dollarcity",
-        "url": "https://www.portafolio.co/negocios/empresas/3-cordilleras-lanza-cerveza-sin-alcohol-en-colombia-y-anuncia-su-llegada-a-dollarcity-y-rappi-turbo-506627",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "3 Cordilleras lanza cerveza sin alcohol en Colombia y anuncia su llegada a Dollarcity y Rappi Turbo",
-        "capturado": "2026-11-19T01:01:38-05:00"
-      },
-      {
-        "titulo": "A septiembre de 2026, Promigas registra ingresos de $5,47 billones y una utilidad neta de $674.672 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/promigas-reporta-ingresos-por-5-47-billones-y-utilidad-neta-de-674-672-millones-a-septiembre-de-506620",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Promigas reporta ingresos por $5,47 billones y utilidad neta de $674.672 millones a septiembre de 2026",
-        "capturado": "2026-11-18T18:54:34-05:00"
-      },
-      {
-        "titulo": "Colombina registra una disminución en sus ventas y un alza en su rentabilidad a septiembre",
-        "url": "https://www.portafolio.co/negocios/industrias/a-septiembre-colombina-tuvo-leve-baja-en-ventas-y-un-incremento-en-su-rentabilidad-506615",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Industrias",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "A septiembre, Colombina tuvo menos ventas y un incremento en su rentabilidad",
-        "capturado": "2026-11-18T18:54:34-05:00"
-      },
-      {
-        "titulo": "Arkitect de Grupo Éxito comienza su internacionalización en El Salvador",
-        "url": "https://www.portafolio.co/negocios/empresas/arkitect-de-grupo-exito-inicia-su-expansion-internacional-en-el-salvador-506612",
-        "resumen": "",
-        "autor": "Johana lorduy",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Arkitect de Grupo Éxito inicia su expansión internacional en El Salvador",
-        "capturado": "2026-11-18T18:54:34-05:00"
       }
     ]
   }
