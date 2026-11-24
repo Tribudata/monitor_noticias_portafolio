@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-23T20:47:12-05:00",
-  "nuevos_en_esta_corrida": 27,
+  "actualizado": "2026-11-24T07:01:26-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Partidos políticos fijan fecha crucial para aprobar la Ley de Rescate Económico",
+        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-partidos-politicos-ponen-sobre-la-mesa-fecha-clave-para-aprobarla-506959",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-23",
+        "titulo_fuente": "Ley de Rescate Económico: partidos políticos ponen sobre la mesa fecha clave para aprobarla",
+        "capturado": "2026-11-24T07:01:26-05:00"
+      },
+      {
+        "titulo": "Invierte en deuda pública desde $60.000 usando el celular y conozca su funcionamiento",
+        "url": "https://www.portafolio.co/economia/colombianos-pueden-invertir-en-deuda-publica-desde-60-000-asi-funciona-y-como-hacerlo-desde-el-celular-506958",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-23",
+        "titulo_fuente": "Colombianos pueden invertir en deuda pública desde $60.000: así funciona y cómo hacerlo desde el celular",
+        "capturado": "2026-11-24T07:01:26-05:00"
+      },
       {
         "titulo": "Viveristas advierten que plantas vivas podrían quedar gravadas con IVA del 19 por ciento a partir de 2028",
         "url": "https://www.portafolio.co/economia/agro/plantas-vivas-podrian-pagar-iva-de-19-desde-2028-advierten-los-viveristas-506957",
@@ -583,29 +603,19 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "Volumen de operaciones de CFI Financial Group se duplica y marca un récord de US$3,45 billones",
         "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Supermetro: final de la Sudamericana dejaría US$60 millones en Barranquilla, con inversión de US$100 millones",
-        "url": "https://www.portafolio.co/economia/infraestructura/supermetro-la-final-de-la-sudamericana-dejaria-us-60-millones-en-barranquilla-que-invirtio-us-100-millones-506780",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Supermetro: la final de la Sudamericana dejaría US$60 millones en Barranquilla, que invirtió US$100 millones",
-        "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Estudio sobre puntualidad de empleados colombianos muestra tardanzas en una de cada cinco jornadas",
-        "url": "https://www.portafolio.co/economia/empleo/que-tan-puntuales-son-los-trabajadores-colombianos-estudio-revela-retrasos-en-una-de-cada-cinco-jornadas-506792",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "¿Qué tan puntuales son los trabajadores colombianos? Estudio revela retrasos en una de cada cinco jornadas",
-        "capturado": "2026-11-20T20:58:45-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Andi presenta al Gobierno la oferta empresarial por $48,8 billones para la reforma fiscal de De La Espriella",
+        "url": "https://www.portafolio.co/negocios/empresas/empresarios-ofrecen-48-8-billones-para-el-ajuste-fiscal-andi-revela-su-propuesta-al-gobierno-de-la-espriella-506967",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Empresarios ofrecen $48,8 billones para el ajuste fiscal: Andi revela su propuesta al Gobierno De La Espriella",
+        "capturado": "2026-11-24T07:01:26-05:00"
+      },
       {
         "titulo": "Cine Colombia conservará la categoría Platino hasta 2027 en cinco urbes golpeadas por el temblor",
         "url": "https://www.portafolio.co/negocios/empresas/cine-colombia-mantendra-el-estatus-platino-hasta-2027-en-cinco-ciudades-afectadas-por-el-sismo-506956",
@@ -1194,16 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-18",
         "titulo_fuente": "Arkitect de Grupo Éxito inicia su expansión internacional en El Salvador",
-        "capturado": "2026-11-18T18:54:34-05:00"
-      },
-      {
-        "titulo": "Ambiente Gourmet impulsa su expansión global con la apertura de su local inicial en Florida",
-        "url": "https://www.portafolio.co/negocios/comercio/ambiente-gourmet-acelera-su-conquista-internacional-abriendo-su-primera-tienda-en-florida-506607",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Ambiente Gourmet acelera su conquista internacional abriendo su primera tienda en Florida",
         "capturado": "2026-11-18T18:54:34-05:00"
       }
     ]
