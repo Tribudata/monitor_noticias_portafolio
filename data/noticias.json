@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-24T17:40:19-05:00",
-  "nuevos_en_esta_corrida": 32,
+  "actualizado": "2026-11-25T00:13:56-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Senado dio luz verde a adición de $3,8 billones para diversos programas",
+        "url": "https://www.portafolio.co/economia/gobierno/senado-aprobo-adicion-presupuestal-de-3-8-billones-estos-son-los-programas-que-recibiran-recursos-507040",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Senado aprobó adición presupuestal de $3,8 billones: estos son los programas que recibirán recursos",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Abelardo De La Espriella anuncia $2.600 millones para finalizar obras en Guaviare",
+        "url": "https://www.portafolio.co/economia/regiones/abelardo-de-la-espriella-promete-recursos-para-terminar-obras-pendientes-en-guaviare-invertiran-2-600-millones-507039",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Abelardo De La Espriella promete recursos para terminar obras pendientes en Guaviare: invertirán $2.600 millones",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Corte de luz en Nariño, Putumayo, Cauca y Huila por posible atentado con explosivos",
+        "url": "https://www.portafolio.co/economia/regiones/apagon-masivo-en-narino-putumayo-cauca-y-huila-reportan-presunto-ataque-con-explosivos-507038",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Apagón masivo en Nariño, Putumayo, Cauca y Huila: reportan presunto ataque con explosivos",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Gobierno nacional lograría ahorrar hasta $6,9 billones usando IA y bajando contratos OPS",
+        "url": "https://www.portafolio.co/economia/estado-colombiano-podria-ahorrar-hasta-6-9-billones-con-ia-y-reducir-contratos-ops-507037",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Estado colombiano podría ahorrar hasta $6,9 billones con IA y reducir contratos OPS",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Aeropuerto de Cartagena alcanza 11% de progreso en modernización y abrirá a fines de 2028",
+        "url": "https://www.portafolio.co/economia/infraestructura/asi-va-la-modernizacion-del-aeropuerto-de-cartagena-con-11-de-avance-se-entregara-a-finales-del-507034",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Así va la modernización del aeropuerto de Cartagena con 11% de avance; se entregará a finales del 2028",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia supera $3.600: proyecciones si falta ajuste fiscal",
+        "url": "https://www.portafolio.co/economia/dolar-en-colombia-pasa-los-3-600-hasta-donde-puede-llegar-si-no-hay-ajuste-fiscal-507036",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Dólar en Colombia pasa los $3.600: ¿hasta dónde puede llegar si no hay ajuste fiscal?",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Subida del Salario Mínimo en 2027 elevaría el pago en cerca de 150 mil desde enero",
+        "url": "https://www.portafolio.co/economia/aumento-del-salario-minimo-en-2027-podria-subir-la-mesada-cerca-de-150-mil-desde-enero-507033",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Aumento del Salario Mínimo en 2027 podría subir la mesada cerca de 150 mil desde enero",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "A pesar de las alzas del dólar, hasta casi 3.600 pesos, sigue bajo frente a inicios de 2026",
+        "url": "https://www.portafolio.co/economia/finanzas/pese-a-los-incrementos-dolar-hasta-casi-3-600-su-precio-se-mantiene-por-debajo-de-comienzos-de-507031",
+        "resumen": "",
+        "autor": "Holman rodriguez martinez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Pese a los incrementos dólar, hasta casi $3.600, su precio se mantiene por debajo de comienzos de 2026",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Recicladores contarán con participación en la discusión del salario mínimo de 2027",
+        "url": "https://www.portafolio.co/economia/gobierno/recicladores-tendran-voz-en-la-mesa-del-salario-minimo-de-507029",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Recicladores tendrán voz en la mesa del salario mínimo de 2027",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Productividad total de factores sería 0,8% y fijaría incremento salarial de 7,8% para 2027 en Colombia",
+        "url": "https://www.portafolio.co/economia/productividad-total-de-factores-seria-de-0-8-y-marcaria-un-alza-salarial-cercana-al-7-8-para-2027-en-colombia-507028",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Productividad total de factores sería de 0,8% y marcaría un alza salarial cercana al 7,8% para 2027 en Colombia",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
+      {
+        "titulo": "Cámara suspende a Luz Verónica Estrada por tres meses y su curul queda sin ocupar",
+        "url": "https://www.portafolio.co/economia/gobierno/camara-suspende-a-luz-veronica-estrada-por-tres-meses-y-deja-vacia-su-curul-507026",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "Cámara suspende a Luz Verónica Estrada por tres meses y deja vacía su curul",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
       {
         "titulo": "Esto es lo que se conoce sobre el viaje de Abelardo de la Espriella a Cartagena por rehenes en Éxito",
         "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-viaja-a-cartagena-por-toma-de-rehenes-en-almacen-exito-esto-se-sabe-507025",
@@ -493,119 +603,19 @@
         "publicacion": "2026-11-22",
         "titulo_fuente": "Álvaro Uribe pone sobre la mesa su plan tributario: más recaudo, menos impuestos y ajuste del Estado",
         "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate Económico: asociaciones alertan impacto en colmados y gastrobares por gravámenes alcohólicos",
-        "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-los-gremios-advierten-efectos-en-tiendas-y-restaurantes-por-impuestos-al-licor-506849",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Ley de Rescate Económico: los gremios advierten efectos en tiendas y restaurantes por impuestos al licor",
-        "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Carburantes y enajenación de activos estatales, alternativas para suplantar supresión de IVA a comestibles",
-        "url": "https://www.portafolio.co/economia/finanzas/el-ajuste-fiscal-podria-llegar-a-su-bolsillo-iva-y-combustibles-entre-las-opciones-que-generan-debate-506848",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Combustibles y venta de activos del Estado, opciones para reemplazar eliminación de IVA a alimentos",
-        "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Nueva ley de suplantación en Colombia elimina requisito de enviar selfie y cédula para solicitar créditos",
-        "url": "https://www.portafolio.co/economia/gobierno/ya-no-es-obligatorio-enviar-selfie-y-cedula-para-pedir-credito-en-colombia-asi-funciona-nueva-ley-de-suplantacion-506847",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Ya no es obligatorio enviar selfie y cédula para pedir crédito en Colombia: así funciona nueva ley de suplantación",
-        "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Proyecto de ampliación de la Autopista Norte en Bogotá busca dar 108 horas de ahorro anual a habitantes",
-        "url": "https://www.portafolio.co/economia/regiones/ampliacion-de-la-autopista-norte-en-bogota-promete-ahorrar-108-horas-al-ano-a-los-ciudadanos-asi-sera-el-proyecto-506846",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Ampliación de la Autopista Norte en Bogotá promete ahorrar 108 horas al año a los ciudadanos: así será el proyecto",
-        "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Poseer una cuenta en el banco no asegura recibir préstamos: la brecha financiera vigente en el país",
-        "url": "https://www.portafolio.co/economia/finanzas/tener-una-cuenta-bancaria-no-garantiza-acceso-al-credito-la-brecha-financiera-que-persiste-en-colombia-506844",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Tener una cuenta bancaria no garantiza acceso al crédito: la brecha financiera que persiste en Colombia",
-        "capturado": "2026-11-21T21:29:30-05:00"
-      },
-      {
-        "titulo": "El defensor escogido por Luz Verónica Estrada ante la investigación por diplomas universitarios apócrifos",
-        "url": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "El abogado que Luz Verónica Estrada designo para su defensa por el caso de títulos académicos falsos",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en el país descendería hacia los $3.540 próximamente por impacto de la ley de rescate",
-        "url": "https://www.portafolio.co/economia/gobierno/dolar-en-colombia-podria-acercarse-a-los-3-540-en-los-proximos-dias-ley-de-rescate-incidiria-en-el-mercado-506840",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Dólar en colombia podría acercarse a los $3.540 en los próximos días: ley de rescate incidiría en el mercado",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "Organismo internacional sugiere aumentar el número de contribuyentes del tributo sobre la renta en Colombia",
-        "url": "https://www.portafolio.co/economia/gobierno/ocde-pide-que-mas-colombianos-paguen-impuesto-de-renta-y-propone-ampliar-la-base-de-contribuyentes-506837",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Ocde pide que más colombianos paguen impuesto de renta y propone ampliar la base de contribuyentes",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "Administración de De la Espriella abre convocatoria para que 12.000 emprendedores comercialicen en la red",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-lanza-convocatoria-para-que-12-000-emprendedores-vendan-sus-productos-por-internet-506833",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Gobierno de De la Espriella lanza convocatoria para que 12.000 emprendedores vendan sus productos por internet",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "ANI habilita 106 kilómetros de la vía Santana-Mocoa-Neiva con inversión de $376.843 millones en el Huila",
-        "url": "https://www.portafolio.co/economia/infraestructura/ani-pone-en-servicio-106-kilometros-de-la-via-santana-mocoa-neiva-con-obras-por-376-843-millones-en-el-huila-506831",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "ANI pone en servicio 106 kilómetros de la vía Santana-Mocoa-Neiva con obras por $376.843 millones en el Huila",
-        "capturado": "2026-11-21T17:16:27-05:00"
-      },
-      {
-        "titulo": "Advertencia por polución en Bogotá: aconsejan no hacer actividad física exterior y usar tapabocas",
-        "url": "https://www.portafolio.co/economia/regiones/alerta-por-aire-contaminado-en-bogota-piden-evitar-ejercicio-al-aire-libre-y-recomiendan-uso-de-tapabocas-506828",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-21",
-        "titulo_fuente": "Alerta por aire contaminado en Bogotá: piden evitar ejercicio al aire libre y recomiendan uso de tapabocas",
-        "capturado": "2026-11-21T17:16:27-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Por qué las compañías desaprovechan a los mayores de 55 años y el talento no expira",
+        "url": "https://www.portafolio.co/negocios/empresas/el-talento-no-tiene-fecha-de-vencimiento-por-que-las-empresas-estan-desaprovechando-a-los-mayores-de-55-anos-507035",
+        "resumen": "",
+        "autor": "Constanza gomez guasca",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-24",
+        "titulo_fuente": "El talento no tiene fecha de vencimiento: por qué las empresas están desaprovechando a los mayores de 55 años",
+        "capturado": "2026-11-25T00:13:56-05:00"
+      },
       {
         "titulo": "Acciones de Nvidia bajan un 7% tras la vuelta de Jensen Huang y crecen las dudas sobre su porvenir",
         "url": "https://www.portafolio.co/negocios/empresas/accion-de-nvidia-cae-un-7-pese-al-regreso-de-jensen-huang-y-aumentan-las-dudas-sobre-su-futuro-507022",
@@ -1194,16 +1204,6 @@
         "subseccion": "Inversion",
         "publicacion": "2026-11-19",
         "titulo_fuente": "De los anuncios a los hechos: los desafíos que enfrenta Colombia para materializar las inversiones de Milagro Week",
-        "capturado": "2026-11-19T17:58:03-05:00"
-      },
-      {
-        "titulo": "Modelos eléctricos de Kia y otros vehículos obtienen galardones internacionales en 2026",
-        "url": "https://www.portafolio.co/negocios/vehiculo/kia-suma-premios-internacionales-para-sus-carros-electricos-y-mas-modelos-estos-fueron-los-mas-destacados-de-506704",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Kia suma premios internacionales para sus carros eléctricos y más modelos: estos fueron los más destacados de 2026",
         "capturado": "2026-11-19T17:58:03-05:00"
       }
     ]
