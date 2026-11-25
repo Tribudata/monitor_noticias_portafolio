@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-25T10:54:27-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-11-25T18:59:26-05:00",
+  "nuevos_en_esta_corrida": 25,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Invías destinará $69,9 billones para restaurar la malla vial del país",
+        "url": "https://www.portafolio.co/economia/infraestructura/invias-anuncia-inversion-de-69-9-billones-para-recuperar-las-vias-de-colombia-507112",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Invías anuncia inversión de $69,9 billones para recuperar las vías de Colombia",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Ahorro estatal por recorte del 50 % en servicios frente a la meta de $6 billones con IA",
+        "url": "https://www.portafolio.co/economia/gobierno/prestacion-de-servicios-cuanto-ahorra-el-estado-con-recorte-al-50-frente-a-idea-de-reducir-6-billones-con-ia-507087",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Prestación de servicios: cuánto ahorra el Estado con recorte al 50 %, frente a idea de reducir $6 billones con IA",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Productividad aportó 0,15 % al crecimiento de 2,07 % en 2026 y será clave para el salario mínimo",
+        "url": "https://www.portafolio.co/economia/productividad-aporto-solo-0-15-puntos-al-crecimiento-de-2-07-en-507111",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Productividad, dato clave en la negociación del salario mínimo, aportó solo 0,15% al crecimiento de 2,07% en 2026",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Congreso avala adición al presupuesto por $3,8 billones para Colombia Mayor y sismo",
+        "url": "https://www.portafolio.co/economia/congreso-aprueba-adicion-presupuestal-de-3-8-billones-para-reconstruccion-por-el-sismo-y-colombia-mayor-507110",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Congreso aprueba adición presupuestal de $3,8 billones para reconstrucción por el sismo y Colombia Mayor",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "CCI exige liquidez para acabar obras y advierte que la falta de caja quiebra empresas",
+        "url": "https://www.portafolio.co/economia/infraestructura/las-empresas-se-quiebran-por-falta-de-caja-la-cci-pone-la-liquidez-del-sector-como-condicion-para-terminar-obras-507078",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "'Las empresas se quiebran por falta de caja': la CCI pone la liquidez del sector como condición para terminar obras",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Cálculo y fecha límite de pago de la prima navideña para trabajadoras domésticas",
+        "url": "https://www.portafolio.co/economia/prima-de-navidad-para-empleadas-domesticas-como-calcularla-y-desde-cuando-le-deben-pagar-507107",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Prima de Navidad para empleadas domésticas: ¿Cómo calcularla y desde cuándo le deben pagar?",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Gobernación del Magdalena busca mayor articulación con el sector privado para impulsar proyectos",
+        "url": "https://www.portafolio.co/economia/regiones/gobernacion-del-magdalena-busca-mayor-articulacion-con-el-sector-privado-para-impulsar-proyectos-507099",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Gobernación del Magdalena busca mayor articulación con el sector privado para impulsar proyectos",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Transacciones inmediatas en Colombia aumentan 60% en volumen durante fechas de pago",
+        "url": "https://www.portafolio.co/economia/pagos-inmediatos-en-colombia-mueven-60-mas-dinero-en-los-dias-de-quincena-507102",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Pagos inmediatos en Colombia mueven 60% más dinero en los días de quincena",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Gobierno propone miniconcesiones viales de tres a cinco años para tramos devueltos",
+        "url": "https://www.portafolio.co/economia/gobierno/gobierno-plantea-miniconcesiones-de-tres-a-cinco-anos-para-recuperar-las-vias-que-fueron-devueltas-al-estado-507095",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Gobierno plantea crear 'miniconcesiones' de tres a cinco años para recuperar vías que fueron devueltas al Estado",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Bogotá habilita mil puestos de trabajo femeninos para disminuir brechas de género locales",
+        "url": "https://www.portafolio.co/economia/regiones/el-distrito-abre-1-000-empleos-para-mujeres-buscando-reducir-brechas-de-genero-en-la-capita-507089",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Bogotá abre 1.000 empleos para mujeres buscando reducir brechas de género en la capital del país",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Sesenta y tres por ciento de inversionistas prevé alza salarial de ocho a nueve por ciento en 2027",
+        "url": "https://www.portafolio.co/economia/el-63-de-los-inversionistas-espera-que-el-salario-minimo-en-colombia-suba-entre-8-y-9-en-507092",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "El 63% de los inversionistas espera que el salario mínimo en Colombia suba entre 8% y 9% en 2027",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Sismo de agosto redujo seguros 8,3% y restó 0,15 puntos al crecimiento del PIB nacional",
+        "url": "https://www.portafolio.co/economia/el-terremoto-de-agosto-llevo-a-los-seguros-a-caer-8-3-y-resto-0-15-puntos-al-crecimiento-del-pib-colombiano-507090",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "El terremoto de agosto llevó a los seguros a caer 8,3% y restó 0,15 puntos al crecimiento del PIB colombiano",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Asociación solicita conservar la exclusión del IVA para turismo extranjero en discusión de ley",
+        "url": "https://www.portafolio.co/economia/gobierno/gremio-pide-mantener-la-exencion-del-iva-al-turismo-receptivo-ante-debate-de-la-ley-de-rescate-economico-507085",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Gremio pide mantener la exención del IVA al turismo receptivo ante debate de la Ley de Rescate Económico",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Director del Fondo Milagro detalla destino de 2,7 billones dados por el Senado para levantar zona",
+        "url": "https://www.portafolio.co/economia/infraestructura/yo-no-voy-a-usar-la-plata-para-las-donaciones-gerente-del-fondo-milagro-explica-en-que-usara-los-2-7-billones-507079",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Gerente del Fondo Milagro explica en qué usará $2,7 billones aprobados por el Senado para la reconstrucción",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
       {
         "titulo": "Conozca a Gerardo Hernández Correa, quien asume la presidencia del Grupo Aval",
         "url": "https://www.portafolio.co/economia/finanzas/quien-es-gerardo-hernandez-correa-nuevo-presidente-del-grupo-aval-507073",
@@ -463,149 +603,119 @@
         "publicacion": "2026-11-23",
         "titulo_fuente": "Plantas vivas podrían pagar IVA de 19% desde 2028, advierten los viveristas",
         "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Ocho de cada diez establecimientos comerciales en Bogotá ya ofrecen rebajas para el Black Friday 2026",
-        "url": "https://www.portafolio.co/economia/black-friday-2026-en-bogota-8-de-cada-10-comercios-ya-tienen-descuentos-506955",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Black Friday 2026 en Bogotá: 8 de cada 10 comercios ya tienen descuentos",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Claudia Romero asegura que el título de la Javeriana no le pertenece y lo califica como falso",
-        "url": "https://www.portafolio.co/economia/gobierno/claudia-romero-niega-que-el-diploma-de-la-javeriana-sea-suyo-es-falso-506954",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Claudia Romero niega que el diploma de la Javeriana sea suyo: ‘Es falso’",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Los incidentes de fraude cibernético registran un fuerte incremento en territorio colombiano",
-        "url": "https://www.portafolio.co/economia/finanzas/en-colombia-los-casos-de-fraude-digital-estan-disparados-506952",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "En Colombia los casos de fraude digital están disparados",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Presentan denuncia en la Corte Suprema contra la representante Claudia Romero Nader por posible título falso",
-        "url": "https://www.portafolio.co/economia/gobierno/denuncian-ante-la-corte-suprema-a-la-representante-claudia-romero-nader-por-presunta-falsedad-de-titulo-506949",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Denuncian ante la Corte Suprema a la representante Claudia Romero Nader por presunta falsedad de título",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Conozca cómo operan los pagos, prestaciones legales y cotizaciones para el trabajo por horas en Colombia",
-        "url": "https://www.portafolio.co/economia/empleo/trabaja-por-horas-en-colombia-asi-funcionan-los-salarios-prestaciones-de-ley-y-aportes-en-esta-modalidad-506943",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Empleo",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "¿Trabaja por horas en Colombia? Así funcionan los salarios, prestaciones de ley y aportes en esta modalidad",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Alianza de EPM y ETB y salida de Enel conducen a Bogotá a buscar luz LED en todo su territorio",
-        "url": "https://www.portafolio.co/economia/regiones/bogota-busca-iluminarse-con-luces-led-en-toda-la-ciudad-tras-alianza-entre-epm-y-etb-y-salida-de-enel-506942",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Bogotá busca iluminarse con luces LED en toda la ciudad tras alianza entre EPM y ETB y salida de Enel",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "ANI suscribe otrosí para destrabar obras del Canal del Dique tras dos años de retraso constructivo",
-        "url": "https://www.portafolio.co/economia/infraestructura/canal-del-dique-ani-firma-otrosi-y-destraba-el-inicio-de-obras-tras-dos-anos-de-atraso-en-la-fase-constructiva-506938",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Canal del Dique: ANI firma otrosí y destraba el inicio de obras tras dos años de atraso en la fase constructiva",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Cinco ministros, alcaldes, el DNP y el presidente De la Espriella definirán la agenda de infraestructura",
-        "url": "https://www.portafolio.co/economia/infraestructura/cinco-ministros-alcaldes-el-dnp-y-el-presidente-de-la-espriella-marcaran-la-hoja-de-ruta-de-la-infraestructura-506932",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Cinco ministros, alcaldes, el DNP y el presidente De la Espriella marcarán la hoja de ruta de la infraestructura",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Gobierno de Abelardo De La Espriella designa a Miguel Uribe Londoño como embajador en el Reino Unido",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-abelardo-de-la-espriella-oficializa-a-miguel-uribe-londono-como-embajador-en-reino-unido-506939",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Gobierno de Abelardo De La Espriella oficializa a Miguel Uribe Londoño como embajador en Reino Unido",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Cobro del aporte y cambios en Bogotá por la llegada de EPM al alumbrado público para estos estratos",
-        "url": "https://www.portafolio.co/economia/regiones/que-cambia-con-la-entrada-de-epm-al-alumbrado-publico-en-bogota-asi-se-cobrara-el-nuevo-aporte-para-estos-estratos-506935",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Qué cambia con la entrada de EPM al alumbrado público en Bogotá: así se cobrará el nuevo aporte para estos estratos",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Comercio alista rebajas de hasta el 50% en Black Days para finalizar el año",
-        "url": "https://www.portafolio.co/economia/comercio-se-prepara-para-el-cierre-de-ano-con-descuentos-de-hasta-50-en-black-days-506937",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Comercio se prepara para el cierre de año con descuentos de hasta 50% en Black Days",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Obstáculos limitan la competitividad agropecuaria en Colombia pese a crecientes cosechas",
-        "url": "https://www.portafolio.co/economia/agro/producir-mas-no-siempre-significa-ganar-las-barreras-que-frenan-al-campo-colombiano-y-su-competitividad-506931",
-        "resumen": "",
-        "autor": "Diana k. rodriguez t.",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Producir más no siempre significa ganar: las barreras que frenan al campo colombiano y su competitividad",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "CCI solicita nueva licitación de vías revertidas tras impacto financiero por suspensión de peajes",
-        "url": "https://www.portafolio.co/economia/infraestructura/quitar-peajes-descuadro-las-cuentas-de-las-concesiones-la-cci-pide-volver-a-adjudicar-las-vias-revertidas-506921",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Quitar peajes descuadró las cuentas de las concesiones: la CCI pide volver a adjudicar las vías revertidas",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Gobierno busca respaldo de partidos en semana decisiva para el primer debate de la ley",
-        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-entra-en-semana-clave-gobierno-se-reune-con-partidos-para-impulsar-su-primer-debate-506929",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Ley de Rescate Económico entra en semana clave: Gobierno se reúne con partidos para impulsar su primer debate",
-        "capturado": "2026-11-23T20:47:12-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Hernando Osorio queda como presidente encargado del Banco AV Villas tras la renuncia de Gerardo Hernández",
+        "url": "https://www.portafolio.co/negocios/empresas/hernando-osorio-asume-de-manera-encargada-la-presidencia-del-banco-av-villas-tras-la-salida-de-gerardo-hernandez-507106",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Hernando Osorio asume de manera encargada la presidencia del Banco AV Villas, tras la salida de Gerardo Hernández",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Tincadia, Alpina, Cotecmar y Postobón figuran entre los galardonados del Premio Innovación de INNpacta 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/cotecmar-alpina-postobon-y-tincadia-entre-los-ganadores-del-premio-innovacion-que-innpacta-507063",
+        "resumen": "",
+        "autor": "Johana lorduy",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Cotecmar, Alpina, Postobón y Tincadia , entre los ganadores del Premio Innovación que INNpacta 2026",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Wingo presenta BlackFly con trayectos locales desde $86.000 y al exterior desde USD 117",
+        "url": "https://www.portafolio.co/negocios/empresas/wingo-lanza-blackfly-con-vuelos-nacionales-desde-86-000-e-internacionales-desde-usd-507108",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Wingo lanza BlackFly con vuelos nacionales desde $86.000 e internacionales desde USD 117",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Farmacenter dinamiza su crecimiento en Colombia para alcanzar 2.000 farmacias en el año 2027",
+        "url": "https://www.portafolio.co/negocios/empresas/farmacenter-acelera-su-expansion-en-colombia-y-busca-llegar-a-2-000-droguerias-en-507104",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Farmacenter acelera su expansión en Colombia y busca llegar a 2.000 droguerías en 2027",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Directivos de Alpina, Andi, Koa y Latam, entre otros, dialogarán acerca del porvenir corporativo del país",
+        "url": "https://www.portafolio.co/negocios/empresas/lideres-de-la-andi-alpina-latam-y-koa-entre-otras-se-reuniran-para-debatir-el-futuro-empresarial-de-colombia-507103",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Líderes de la Andi, Alpina, Latam y Koa, entre otros, se reunirán para debatir el futuro empresarial de Colombia",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "El Grupo Zona Franca de Bogotá inicia una fase de crecimiento con capital en Colombia y Panamá",
+        "url": "https://www.portafolio.co/negocios/empresas/el-grupo-zona-franca-de-bogota-pone-en-marcha-una-nueva-etapa-de-expansion-con-inversiones-en-colombia-y-panama-507098",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "El Grupo Zona Franca de Bogotá pone en marcha una nueva etapa de expansión con inversiones en Colombia y Panamá",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Importaciones de acero asiático en Colombia alcanzaron 310.000 toneladas en 2025 y causan preocupación",
+        "url": "https://www.portafolio.co/negocios/empresas/acero-asiatico-gana-terreno-en-colombia-importaciones-llegaron-a-310-000-toneladas-en-2025-y-genera-alarmas-507097",
+        "resumen": "",
+        "autor": "Brayan franzua silva hernandez",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Acero asiático gana terreno en Colombia: importaciones llegaron a 310.000 toneladas en 2025 y genera alarmas",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Latam inicia rebajas de Black Friday con trayectos locales desde $71.810 y rebajas hasta del 63 %",
+        "url": "https://www.portafolio.co/negocios/comercio/latam-lanza-ofertas-de-black-friday-con-vuelos-nacionales-desde-71-810-y-descuentos-de-hasta-507091",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Latam lanza ofertas de Black Friday con vuelos nacionales desde $71.810 y descuentos de hasta 63 %",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Expoartesanías 2026 prevé más de 65.000 asistentes y congregará a 800 artesanos en Bogotá",
+        "url": "https://www.portafolio.co/negocios/comercio/expoartesanias-2026-espera-mas-de-65-000-visitantes-y-reunira-a-800-expositores-en-bogota-507096",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Expoartesanías 2026 espera más de 65.000 visitantes y reunirá a 800 expositores en Bogotá",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "Por el costo de una función de cine, los nacionales lograrán desplazarse por la nación en Black Friday",
+        "url": "https://www.portafolio.co/negocios/comercio/por-el-precio-de-una-ida-al-cine-los-colombianos-podran-viajar-por-el-pais-durante-el-black-friday-507084",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Por el precio de una ida al cine, los colombianos podrán viajar por el país durante el Black Friday",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
+      {
+        "titulo": "JetSMART ofrece rebajas por Black Friday: revise rutas, días y trayectos desde $45.942",
+        "url": "https://www.portafolio.co/negocios/comercio/jetsmart-lanza-descuentos-de-black-friday-consulte-destinos-fechas-y-vuelos-desde-45-942-507082",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "JetSMART lanza descuentos de Black Friday: consulte destinos, fechas y vuelos desde $45.942",
+        "capturado": "2026-11-25T18:59:26-05:00"
+      },
       {
         "titulo": "Gerardo Hernández reemplaza a María Lorena Gutiérrez en la dirección del Grupo Aval",
         "url": "https://www.portafolio.co/negocios/empresas/maria-lorena-gutierrez-deja-la-presidencia-del-grupo-aval-y-gerardo-hernandez-asume-las-riendas-507081",
@@ -1095,116 +1205,6 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "Una bodega de Shein aparece en Soledad para competir con su par de Temu: ¿tiene vínculo con la app?",
         "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Ventas del Black Friday 2025 en Colombia superaron los $72,8 billones, según Creditop",
-        "url": "https://www.portafolio.co/negocios/comercio/black-friday-en-colombia-mas-de-72-8-billones-facturados-en-la-semana-comercial-de-2025-segun-creditop-506786",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Black Friday en Colombia: más de $72,8 billones facturados en la semana comercial de 2025, según Creditop",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Nueva opción empresarial en Colombia permitirá giros rápidos por hasta $250 millones",
-        "url": "https://www.portafolio.co/negocios/empresas/transferencias-inmediatas-de-hasta-250-millones-asi-funcionara-la-nueva-alternativa-para-empresas-en-colombia-506772",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Transferencias inmediatas de hasta $250 millones: así funcionará la nueva alternativa para empresas en Colombia",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Nequi lanza función para almacenar dólares digitales y ganar hasta 6% anual",
-        "url": "https://www.portafolio.co/negocios/empresas/nequi-anuncia-nueva-opcion-para-guardar-dolares-digitales-y-recibir-recompensas-de-hasta-6-anual-506770",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Nequi anuncia nueva opción para guardar dólares digitales y recibir recompensas de hasta 6% anual",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Se confirma la anunciada salida de Adriana Guillén de Asocajas y repasan su historial",
-        "url": "https://www.portafolio.co/negocios/empresas/se-confirma-que-adriana-guillen-deja-asocajas-la-salida-que-ya-se-anticipaba-desde-octubre-y-sus-antecedentes-506765",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Se confirma que Adriana Guillén deja Asocajas: la salida que ya se anticipaba desde octubre y sus antecedentes",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Automóvil chocado llama la atención en el Salón del Automóvil de Bogotá y relatan su caso",
-        "url": "https://www.portafolio.co/negocios/vehiculo/la-seguridad-tambien-esta-en-el-salon-del-automovil-y-volvo-presenta-su-campana-el-valor-de-volver-506758",
-        "resumen": "",
-        "autor": "Cesar giraldo",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Un carro estrellado se roba las miradas en el Salón del Automóvil en Bogotá: esta es la historia",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Investigación de Arturo Calle revela cómo festejarán y vestirán los colombianos en esta Navidad",
-        "url": "https://www.portafolio.co/negocios/empresas/asi-celebraran-y-se-vestiran-los-colombianos-esta-navidad-segun-estudio-de-arturo-calle-506751",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Así celebrarán y se vestirán los colombianos esta Navidad, según estudio de Arturo Calle",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Nueva estrategia de Jeep para damnificados por temblor cierra la fuerte apuesta de Stellantis en feria",
-        "url": "https://www.portafolio.co/negocios/vehiculo/stellantis-remata-un-salon-del-automovil-de-grandes-apuestas-con-nueva-iniciativa-de-jeep-para-afectados-del-sismo-506748",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Stellantis remata un Salón del Automóvil de grandes apuestas con nueva iniciativa de Jeep para afectados del sismo",
-        "capturado": "2026-11-20T15:55:24-05:00"
-      },
-      {
-        "titulo": "Amazon inaugura en Bogotá el centro de datos inicial de una gran empresa de la nube en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/amazon-abre-en-bogota-el-primer-centro-de-datos-propio-de-un-gigante-de-la-nube-en-colombia-506729",
-        "resumen": "",
-        "autor": "Jose caparroso",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Amazon abre en Bogotá el primer centro de datos propio de un gigante de la nube en Colombia",
-        "capturado": "2026-11-20T07:31:33-05:00"
-      },
-      {
-        "titulo": "Ignacio Gaitán tomará las riendas de Aliadas el 18 de diciembre tras la salida de María Claudia Lacouture",
-        "url": "https://www.portafolio.co/negocios/empresas/ignacio-gaitan-asumira-presidencia-de-aliadas-el-18-de-diciembre-tras-salida-de-maria-claudia-lacouture-506734",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Ignacio Gaitán asumirá presidencia de Aliadas el 18 de diciembre, tras salida de María Claudia Lacouture",
-        "capturado": "2026-11-19T22:55:15-05:00"
-      },
-      {
-        "titulo": "El Black Friday se adelantó en el país con rebajas comerciales de hasta el 76 por ciento",
-        "url": "https://www.portafolio.co/negocios/comercio/black-friday-se-anticipo-en-colombia-el-comercio-ofrece-descuentos-que-llegan-hasta-el-506723",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Black Friday se anticipó en Colombia: el comercio ofrece descuentos que llegan hasta el 76 %",
-        "capturado": "2026-11-19T22:55:15-05:00"
-      },
-      {
-        "titulo": "Pensiones voluntarias: así se determina el beneficio tributario de 278 millones que lograrían las firmas",
-        "url": "https://www.portafolio.co/negocios/empresas/pensiones-voluntarias-asi-se-calcula-el-ahorro-fiscal-de-278-millones-que-podrian-obtener-las-empresas-506725",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "Pensiones voluntarias: así se calcula el ahorro fiscal de $278 millones que podrían obtener las empresas",
-        "capturado": "2026-11-19T22:55:15-05:00"
       }
     ]
   }
