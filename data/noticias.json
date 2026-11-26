@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-25T18:59:26-05:00",
-  "nuevos_en_esta_corrida": 25,
+  "actualizado": "2026-11-26T03:00:07-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Por qué el Black Friday genera tanto enojo en Colombia comparado con el resto de Latinoamérica",
+        "url": "https://www.portafolio.co/economia/colombia-es-el-pais-de-latinoamerica-donde-el-black-friday-despierta-mas-ira-por-que-507115",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Colombia es el país de Latinoamérica donde el Black Friday despierta más ira: ¿por qué?",
+        "capturado": "2026-11-26T03:00:07-05:00"
+      },
+      {
+        "titulo": "Nuevos aranceles de Estados Unidos a China, Vietnam e India representan una oportunidad para Colombia",
+        "url": "https://www.portafolio.co/economia/colombia-podria-aprovechar-los-nuevos-aranceles-de-ee-uu-contra-china-vietnam-e-india-507114",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Colombia podría aprovechar los nuevos aranceles de EE. UU. contra China, Vietnam e India",
+        "capturado": "2026-11-26T03:00:07-05:00"
+      },
+      {
+        "titulo": "Sofía Vergara y Abelardo De La Espriella preparan sorpresas en Colombia: esto es lo que traman",
+        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-sorpresas-con-sofia-vergara-que-preparan-para-colombia-507113",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Abelardo De La Espriella anuncia sorpresas con Sofía Vergara: ¿qué preparan para Colombia?",
+        "capturado": "2026-11-26T03:00:07-05:00"
+      },
       {
         "titulo": "Invías destinará $69,9 billones para restaurar la malla vial del país",
         "url": "https://www.portafolio.co/economia/infraestructura/invias-anuncia-inversion-de-69-9-billones-para-recuperar-las-vias-de-colombia-507112",
@@ -573,39 +603,29 @@
         "publicacion": "2026-11-24",
         "titulo_fuente": "Ley de rescate plantea más cambios: ¿cuáles serían las sanciones por mal uso de la facturación electrónica?",
         "capturado": "2026-11-24T17:40:19-05:00"
-      },
-      {
-        "titulo": "Partidos políticos fijan fecha crucial para aprobar la Ley de Rescate Económico",
-        "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-partidos-politicos-ponen-sobre-la-mesa-fecha-clave-para-aprobarla-506959",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Ley de Rescate Económico: partidos políticos ponen sobre la mesa fecha clave para aprobarla",
-        "capturado": "2026-11-24T07:01:26-05:00"
-      },
-      {
-        "titulo": "Invierte en deuda pública desde $60.000 usando el celular y conozca su funcionamiento",
-        "url": "https://www.portafolio.co/economia/colombianos-pueden-invertir-en-deuda-publica-desde-60-000-asi-funciona-y-como-hacerlo-desde-el-celular-506958",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Colombianos pueden invertir en deuda pública desde $60.000: así funciona y cómo hacerlo desde el celular",
-        "capturado": "2026-11-24T07:01:26-05:00"
-      },
-      {
-        "titulo": "Viveristas advierten que plantas vivas podrían quedar gravadas con IVA del 19 por ciento a partir de 2028",
-        "url": "https://www.portafolio.co/economia/agro/plantas-vivas-podrian-pagar-iva-de-19-desde-2028-advierten-los-viveristas-506957",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Agro",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Plantas vivas podrían pagar IVA de 19% desde 2028, advierten los viveristas",
-        "capturado": "2026-11-23T20:47:12-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "La Union Europea fija cupos a la entrada de vehiculos hibridos",
+        "url": "https://www.portafolio.co/negocios/vehiculo/la-ue-impone-cuotas-a-importacion-de-hibridos-507123",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "La UE impone cuotas a importación de híbridos",
+        "capturado": "2026-11-26T03:00:07-05:00"
+      },
+      {
+        "titulo": "CasaToro trajo la marca Lynk & Co al mercado colombiano",
+        "url": "https://www.portafolio.co/negocios/vehiculo/lynk-co-llego-a-colombia-de-la-mano-de-casatoro-507122",
+        "resumen": "",
+        "autor": "Cesar giraldo",
+        "subseccion": "Vehiculo",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Lynk & Co llegó a Colombia de la mano de CasaToro",
+        "capturado": "2026-11-26T03:00:07-05:00"
+      },
       {
         "titulo": "Hernando Osorio queda como presidente encargado del Banco AV Villas tras la renuncia de Gerardo Hernández",
         "url": "https://www.portafolio.co/negocios/empresas/hernando-osorio-asume-de-manera-encargada-la-presidencia-del-banco-av-villas-tras-la-salida-de-gerardo-hernandez-507106",
@@ -1185,26 +1205,6 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "Generación Z, la más inconforme con los beneficios laborales que ofrecen las empresas en Colombia",
         "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Cupra León VZ: 296 hp con tarifa que aviva la pugna de vehículos deportivos en el país",
-        "url": "https://www.portafolio.co/negocios/vehiculo/cupra-leon-vz-296-caballos-por-un-precio-que-le-pone-mas-picante-a-la-competencia-de-hot-hatch-en-colombia-506790",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Cupra León VZ: 296 caballos por un precio que le pone más picante a la competencia de 'hot hatch' en Colombia",
-        "capturado": "2026-11-20T20:58:45-05:00"
-      },
-      {
-        "titulo": "Aparece bodega de Shein en Soledad frente a Temu y dudan sobre su nexo con la app",
-        "url": "https://www.portafolio.co/negocios/empresas/una-bodega-de-shein-aparece-en-soledad-para-competir-con-su-par-de-temu-tiene-vinculo-con-la-app-506793",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-20",
-        "titulo_fuente": "Una bodega de Shein aparece en Soledad para competir con su par de Temu: ¿tiene vínculo con la app?",
-        "capturado": "2026-11-20T15:55:24-05:00"
       }
     ]
   }
