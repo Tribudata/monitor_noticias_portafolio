@@ -1,9 +1,169 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-26T13:20:54-05:00",
+  "actualizado": "2026-11-26T20:51:52-05:00",
   "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Temporal severo altera vuelos en El Dorado: Aerocivil reporta limitaciones y retrasos",
+        "url": "https://www.portafolio.co/economia/regiones/fuerte-tormenta-afecta-la-operacion-del-aeropuerto-el-dorado-aerocivil-anuncia-restricciones-y-demoras-507202",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Fuerte tormenta afecta la operación del aeropuerto El Dorado: Aerocivil anuncia restricciones y demoras",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "De la Espriella busca sacar a 3,6 millones de colombianos de la pobreza monetaria antes de acabar 2030",
+        "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-fija-la-meta-de-sacar-a-3-6-millones-de-colombianos-de-la-pobreza-monetaria-antes-de-finalizar-507201",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "De la Espriella fija la meta de sacar a 3,6 millones de colombianos de la pobreza monetaria antes de finalizar 2030",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Primicia: Proindesa radicó dos IP por $4 billones en la ANI y prepara otras dos viales",
+        "url": "https://www.portafolio.co/economia/infraestructura/primicia-proindesa-presento-dos-ip-por-4-billones-ante-la-ani-y-alista-otras-dos-para-infraestructura-vial-507191",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez, omar g. ahumada rojas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Primicia: Proindesa presentó dos IP por $4 billones ante la ANI y alista otras dos para infraestructura vial",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Haga cuentas: calcule aquí cuánto recibirá de prima navideña, según su sueldo",
+        "url": "https://www.portafolio.co/economia/empleo/se-acerca-la-prima-navidena-consulte-aqui-cuanto-le-corresponde-recibir-segun-sus-ingresos-laborales-507180",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empleo",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Haga cuentas: calcule aquí cuánto recibirá de prima navideña, según sus ingresos laborales",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate: la Andi sugiere modificaciones al Ruge para optimizar los impuestos a inversionistas",
+        "url": "https://www.portafolio.co/economia/ley-de-rescate-la-andi-plantea-cambios-al-ruge-para-mejorar-las-condiciones-tributarias-de-los-inversionistas-507194",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Ley de Rescate: la Andi plantea cambios al Ruge para mejorar las condiciones tributarias de los inversionistas",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Prosperidad Social advierte estafas en el Quindío: sepa los métodos de fraude y su prevención",
+        "url": "https://www.portafolio.co/economia/gobierno/prosperidad-social-alerta-por-estafas-en-el-quindio-conozca-las-modalidades-de-fraude-y-como-evitarlas-507188",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Prosperidad Social alerta por estafas en el Quindío: conozca las modalidades de fraude y cómo evitarlas",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Ventas en Rappi subieron 46% en Black Friday 2026 y dan cinco claves para ahorrar al comprar",
+        "url": "https://www.portafolio.co/economia/black-friday-2026-ordenes-en-rappi-se-dispararon-46-y-estas-son-las-cinco-claves-para-comprar-sin-pagar-de-mas-507189",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Black Friday 2026: órdenes en Rappi se dispararon 46% y estas son las cinco claves para comprar sin pagar de más",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Proindesa sugiere cambios en las normas para fomentar la infraestructura del sector privado",
+        "url": "https://www.portafolio.co/economia/infraestructura/proindesa-plantea-ajustes-normativos-para-impulsar-la-infraestructura-privada-507198",
+        "resumen": "",
+        "autor": "Omar g. ahumada rojas",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Proindesa plantea ajustes normativos para impulsar la infraestructura privada",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Fedegán contesta al Minagricultura y afirma que sí suministró datos del Fondo Nacional del Ganado",
+        "url": "https://www.portafolio.co/economia/gobierno/fedegan-responde-al-ministerio-de-agricultura-y-asegura-que-si-entrego-informacion-del-fondo-nacional-del-ganado-507187",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Fedegán responde al Ministerio de Agricultura y asegura que sí entregó información del Fondo Nacional del Ganado",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Colombianos laboran menos tiempo pero rinden más por hora ante la discusión del salario mínimo",
+        "url": "https://www.portafolio.co/economia/los-colombianos-trabajan-menos-horas-pero-son-mas-productivos-por-hora-asi-llega-el-debate-del-salario-minimo-507186",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Los colombianos trabajan menos horas, pero son más productivos por hora: así llega el debate del salario mínimo",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Abren en Barranquilla la mayor granja solar de una universidad en territorio colombiano",
+        "url": "https://www.portafolio.co/economia/regiones/inauguran-en-barranquilla-la-granja-solar-universitaria-mas-grande-de-colombia-507185",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Inauguran en Barranquilla la granja solar universitaria más grande de Colombia",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "KfW de Alemania dará $3.200 millones para la Línea 4 del Metro de Bogotá y así progresa el proyecto",
+        "url": "https://www.portafolio.co/economia/infraestructura/banco-aleman-kfw-aportara-3-200-millones-para-la-linea-4-del-metro-de-bogota-asi-avanzara-la-iniciativa-507183",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Banco alemán KfW aportará $3.200 millones para la Línea 4 del Metro de Bogotá: así avanzará la iniciativa",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Bogotá y Cundinamarca invertirán 45,7 billones de pesos en metro, TransMilenio y nuevas vías",
+        "url": "https://www.portafolio.co/economia/metro-transmilenio-y-nuevas-vias-la-apuesta-de-45-7-billones-que-busca-transformar-bogota-y-cundinamarca-507181",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Metro, TransMilenio y nuevas vías: la apuesta de $45,7 billones que busca transformar Bogotá y Cundinamarca",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Valle del Cauca asigna 7.140 millones de pesos para restaurar caficultura golpeada por sismo",
+        "url": "https://www.portafolio.co/economia/agro/valle-del-cauca-destina-7-140-millones-para-recuperar-la-caficultura-afectada-por-el-terremoto-507179",
+        "resumen": "",
+        "autor": "Diana k. rodriguez t.",
+        "subseccion": "Agro",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Valle del Cauca destina $7.140 millones para recuperar la caficultura afectada por el terremoto",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Invima solicita evitar cócteles ofrecidos con jeringas por violar la reglamentación",
+        "url": "https://www.portafolio.co/economia/gobierno/invima-pide-no-consumir-cocteles-servidos-con-jeringas-incumplen-la-norma-507177",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Invima pide no consumir cócteles servidos con jeringas: incumplen la norma",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Gobierno empieza debate sobre salario mínimo de 2027 evaluando productividad y sectores",
+        "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-gobierno-inicia-discusion-con-cifras-de-productividad-y-analisis-de-los-sectores-507175",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Salario mínimo de 2027: Gobierno inicia discusión con cifras de productividad y análisis de los sectores",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
       {
         "titulo": "Emisor asegura que la existencia de billetes de diez mil pesos no bajó y por el contrario aumentó 0,4 por ciento",
         "url": "https://www.portafolio.co/economia/finanzas/banco-de-la-republica-dice-que-no-ha-caido-la-disponibilidad-de-billetes-de-10-000-y-en-cambio-ha-subido-el-0-507170",
@@ -443,169 +603,69 @@
         "publicacion": "2026-11-25",
         "titulo_fuente": "El dólar en Colombia se dispara: así cotiza la divisa este 25 de noviembre a espera de la inflación en EE. UU.",
         "capturado": "2026-11-25T10:54:27-05:00"
-      },
-      {
-        "titulo": "La moneda europea suma otro día en aumento y roza los cuatro mil pesos este 25 de noviembre",
-        "url": "https://www.portafolio.co/economia/finanzas/euro-encadena-otra-jornada-al-alza-y-se-acerca-a-la-barrera-de-los-4-000-asi-cotizo-este-25-de-noviembre-507054",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Euro encadena otra jornada al alza y se acerca a la barrera de los $4.000: así cotizó este 25 de noviembre",
-        "capturado": "2026-11-25T10:54:27-05:00"
-      },
-      {
-        "titulo": "Negociación del salario mínimo 2027 incluirá a un nuevo sector de empleados en la mesa",
-        "url": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-este-es-el-nuevo-grupo-de-trabajadores-que-hara-parte-de-la-mesa-de-concertacion-507055",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Salario mínimo 2027: este es el nuevo grupo de trabajadores que hará parte de la mesa de concertación",
-        "capturado": "2026-11-25T10:54:27-05:00"
-      },
-      {
-        "titulo": "Latam movilizó 7,9 millones de viajeros en octubre y más de 3000 a Barranquilla por la Sudamericana",
-        "url": "https://www.portafolio.co/economia/latam-transporto-7-9-millones-de-pasajeros-en-octubre-y-movilizo-mas-de-3-000-a-barranquilla-por-la-sudamericana-506933",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Latam transportó 7,9 millones de pasajeros en octubre y movilizó más de 3.000 a Barranquilla por la Sudamericana",
-        "capturado": "2026-11-25T10:54:27-05:00"
-      },
-      {
-        "titulo": "Senado dio luz verde a adición de $3,8 billones para diversos programas",
-        "url": "https://www.portafolio.co/economia/gobierno/senado-aprobo-adicion-presupuestal-de-3-8-billones-estos-son-los-programas-que-recibiran-recursos-507040",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Senado aprobó adición presupuestal de $3,8 billones: estos son los programas que recibirán recursos",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Abelardo De La Espriella anuncia $2.600 millones para finalizar obras en Guaviare",
-        "url": "https://www.portafolio.co/economia/regiones/abelardo-de-la-espriella-promete-recursos-para-terminar-obras-pendientes-en-guaviare-invertiran-2-600-millones-507039",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Abelardo De La Espriella promete recursos para terminar obras pendientes en Guaviare: invertirán $2.600 millones",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Corte de luz en Nariño, Putumayo, Cauca y Huila por posible atentado con explosivos",
-        "url": "https://www.portafolio.co/economia/regiones/apagon-masivo-en-narino-putumayo-cauca-y-huila-reportan-presunto-ataque-con-explosivos-507038",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Apagón masivo en Nariño, Putumayo, Cauca y Huila: reportan presunto ataque con explosivos",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Gobierno nacional lograría ahorrar hasta $6,9 billones usando IA y bajando contratos OPS",
-        "url": "https://www.portafolio.co/economia/estado-colombiano-podria-ahorrar-hasta-6-9-billones-con-ia-y-reducir-contratos-ops-507037",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Estado colombiano podría ahorrar hasta $6,9 billones con IA y reducir contratos OPS",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Aeropuerto de Cartagena alcanza 11% de progreso en modernización y abrirá a fines de 2028",
-        "url": "https://www.portafolio.co/economia/infraestructura/asi-va-la-modernizacion-del-aeropuerto-de-cartagena-con-11-de-avance-se-entregara-a-finales-del-507034",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Así va la modernización del aeropuerto de Cartagena con 11% de avance; se entregará a finales del 2028",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia supera $3.600: proyecciones si falta ajuste fiscal",
-        "url": "https://www.portafolio.co/economia/dolar-en-colombia-pasa-los-3-600-hasta-donde-puede-llegar-si-no-hay-ajuste-fiscal-507036",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Dólar en Colombia pasa los $3.600: ¿hasta dónde puede llegar si no hay ajuste fiscal?",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Subida del Salario Mínimo en 2027 elevaría el pago en cerca de 150 mil desde enero",
-        "url": "https://www.portafolio.co/economia/aumento-del-salario-minimo-en-2027-podria-subir-la-mesada-cerca-de-150-mil-desde-enero-507033",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Aumento del Salario Mínimo en 2027 podría subir la mesada cerca de 150 mil desde enero",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "A pesar de las alzas del dólar, hasta casi 3.600 pesos, sigue bajo frente a inicios de 2026",
-        "url": "https://www.portafolio.co/economia/finanzas/pese-a-los-incrementos-dolar-hasta-casi-3-600-su-precio-se-mantiene-por-debajo-de-comienzos-de-507031",
-        "resumen": "",
-        "autor": "Holman rodriguez martinez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Pese a los incrementos dólar, hasta casi $3.600, su precio se mantiene por debajo de comienzos de 2026",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Recicladores contarán con participación en la discusión del salario mínimo de 2027",
-        "url": "https://www.portafolio.co/economia/gobierno/recicladores-tendran-voz-en-la-mesa-del-salario-minimo-de-507029",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Recicladores tendrán voz en la mesa del salario mínimo de 2027",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Productividad total de factores sería 0,8% y fijaría incremento salarial de 7,8% para 2027 en Colombia",
-        "url": "https://www.portafolio.co/economia/productividad-total-de-factores-seria-de-0-8-y-marcaria-un-alza-salarial-cercana-al-7-8-para-2027-en-colombia-507028",
-        "resumen": "",
-        "autor": "Leidy julieth ruiz clavijo",
-        "subseccion": "",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Productividad total de factores sería de 0,8% y marcaría un alza salarial cercana al 7,8% para 2027 en Colombia",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Cámara suspende a Luz Verónica Estrada por tres meses y su curul queda sin ocupar",
-        "url": "https://www.portafolio.co/economia/gobierno/camara-suspende-a-luz-veronica-estrada-por-tres-meses-y-deja-vacia-su-curul-507026",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Cámara suspende a Luz Verónica Estrada por tres meses y deja vacía su curul",
-        "capturado": "2026-11-25T00:13:56-05:00"
-      },
-      {
-        "titulo": "Esto es lo que se conoce sobre el viaje de Abelardo de la Espriella a Cartagena por rehenes en Éxito",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-viaja-a-cartagena-por-toma-de-rehenes-en-almacen-exito-esto-se-sabe-507025",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Abelardo de la Espriella viaja a Cartagena por toma de rehenes en almacén Éxito: esto se sabe",
-        "capturado": "2026-11-24T17:40:19-05:00"
-      },
-      {
-        "titulo": "Supersalud monta mesas de concertación entre EPS e IPS en Bogotá, Meta y Huila",
-        "url": "https://www.portafolio.co/economia/gobierno/supersalud-instala-mesas-de-conciliacion-entre-eps-e-ips-en-bogota-huila-y-meta-507024",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Supersalud instala mesas de conciliación entre EPS e IPS en Bogotá, Huila y Meta",
-        "capturado": "2026-11-24T17:40:19-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "Acciones de Parex Resources cotizarán en la Bolsa de Colombia tras aval de la Superfinanciera",
+        "url": "https://www.portafolio.co/negocios/empresas/petrolera-canadiense-parex-llegara-a-la-bolsa-de-colombia-superfinanciera-autorizo-inscripcion-de-sus-acciones-507196",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Petrolera Canadiense Parex llegará a la Bolsa de Colombia: Superfinanciera autorizó inscripción de sus acciones",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Gobierno proyecta inversión del 25 por ciento del PIB para 2030 con estas estrategias",
+        "url": "https://www.portafolio.co/negocios/inversion/colombia-apunta-a-una-inversion-equivalente-al-25-del-pib-en-2030-estas-son-las-apuestas-del-gobierno-507192",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Inversion",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Colombia apunta a una inversión equivalente al 25% del PIB en 2030: estas son las apuestas del gobierno",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Ticketmaster supera dos millones de tiquetes vendidos en Colombia y proyecta alza de doble dígito en 2026",
+        "url": "https://www.portafolio.co/negocios/empresas/ticketmaster-supera-los-2-millones-de-entradas-procesadas-en-colombia-y-preve-crecimiento-de-doble-digito-en-507193",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Ticketmaster supera los 2 millones de entradas procesadas en Colombia y prevé crecimiento de doble dígito en 2026",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Entrega de galardones ALAS en el Huila destaca la sostenibilidad en su tercera entrega",
+        "url": "https://www.portafolio.co/negocios/empresas/sostenibilidad-que-se-premia-asi-fue-la-tercera-edicion-de-los-premios-alas-en-el-huila-507184",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Sostenibilidad que se premia: así fue la tercera edición de los Premios ALAS en el Huila",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Cobro al Toque de BBVA y Mastercard convierte teléfonos en datáfonos para comercios",
+        "url": "https://www.portafolio.co/negocios/empresas/nueva-funcion-de-bbva-con-mastercard-permite-convertir-el-celular-en-datafono-esto-es-cobro-al-toque-para-negocios-507172",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Nueva función de BBVA con Mastercard permite convertir el celular en datáfono: esto es Cobro al Toque para negocios",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
+      {
+        "titulo": "Cafam remodelará su sede Floresta para unificar salud, deporte, educación y eventos",
+        "url": "https://www.portafolio.co/negocios/empresas/cafam-transformara-su-sede-floresta-para-integrar-salud-deporte-formacion-y-eventos-en-una-nueva-infraestructura-507190",
+        "resumen": "",
+        "autor": "Javier acosta",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Cafam transformará su sede Floresta para integrar salud, deporte, formación y eventos en una nueva infraestructura",
+        "capturado": "2026-11-26T20:51:52-05:00"
+      },
       {
         "titulo": "San Victorino lanza Black Friday con rebajas y artículos nacionales",
         "url": "https://www.portafolio.co/negocios/comercio/san-victorino-estrena-black-friday-comerciantes-apuestan-por-descuentos-y-productos-hechos-en-colombia-507168",
@@ -1145,66 +1205,6 @@
         "publicacion": "2026-11-23",
         "titulo_fuente": "Uber expande su negocio para empresas a más de 1.000 municipios de Colombia",
         "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Almacenes Jumbo, Easy y Metro incrementan su apuesta por los paneles solares",
-        "url": "https://www.portafolio.co/negocios/comercio/tiendas-jumbo-easy-y-metro-fortalecen-su-apuesta-por-la-energia-solar-506893",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Tiendas Jumbo, Easy y Metro fortalecen su apuesta por la energía solar",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Alerta en el Black Friday: siete de cada 10 personas sufrieron intentos de estafa en línea",
-        "url": "https://www.portafolio.co/negocios/comercio/advertencia-por-el-black-friday-siete-de-cada-10-ciudadanos-recibieron-intentos-de-fraude-digital-en-el-ultimo-ano-506901",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Advertencia por el Black Friday: siete de cada 10 ciudadanos recibieron intentos de fraude digital en el último año",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Modificación a inspecciones del trabajo: Ejecutivo pretende aclarar aplicación preventiva",
-        "url": "https://www.portafolio.co/negocios/empresas/inspecciones-laborales-cambiarian-gobierno-busca-precisar-cuando-aplicar-medidas-preventivas-en-empresas-506903",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-23",
-        "titulo_fuente": "Inspecciones laborales cambiarían: Gobierno busca precisar cuándo aplicar medidas preventivas en empresas",
-        "capturado": "2026-11-23T20:47:12-05:00"
-      },
-      {
-        "titulo": "Feria automotriz bogotana: más de 800 vehículos, 15 firmas nuevas y la puja por captar clientes",
-        "url": "https://www.portafolio.co/negocios/vehiculo/salon-del-automovil-en-bogota-mas-de-800-carros-expuestos-15-marcas-nuevas-y-la-lucha-por-conquistar-compradores-506797",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Vehiculo",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Salón del Automóvil en Bogotá: más de 800 carros expuestos, 15 marcas nuevas y la lucha por conquistar compradores",
-        "capturado": "2026-11-22T18:30:06-05:00"
-      },
-      {
-        "titulo": "Concluye Accelerating Prosperity, programa que apoyó cien empresas en Colombia",
-        "url": "https://www.portafolio.co/negocios/empresas/llega-a-su-fin-accelerating-prosperity-iniciativa-que-beneficio-a-un-centenar-de-emprendimientos-en-colombia-506811",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Llega a su fin Accelerating Prosperity, iniciativa que benefició a un centenar de emprendimientos en Colombia",
-        "capturado": "2026-11-22T12:58:20-05:00"
-      },
-      {
-        "titulo": "Desde el 25 de noviembre, comerciantes del GranSan en Bogotá venderán en ferias tras la conflagración",
-        "url": "https://www.portafolio.co/negocios/comercio/comerciantes-del-gransan-en-bogota-tendran-espacios-de-venta-en-ferias-desde-el-25-de-noviembre-tras-el-incendio-506856",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-22",
-        "titulo_fuente": "Comerciantes del GranSan, en Bogotá, tendrán espacios de venta en ferias desde el 25 de noviembre tras el incendio",
-        "capturado": "2026-11-22T12:58:20-05:00"
       }
     ]
   }
