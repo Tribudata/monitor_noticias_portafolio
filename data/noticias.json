@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-26T20:51:52-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-11-27T05:33:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Desde diciembre subirán los cobros de peajes en la ruta entre Bogotá y Girardot",
+        "url": "https://www.portafolio.co/economia/regiones/viajar-de-bogota-a-girardot-sera-mas-caro-desde-diciembre-asi-quedan-las-tarifas-de-los-peajes-507208",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Regiones",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "Viajar de Bogotá a Girardot será más caro desde diciembre: así quedan las tarifas de los peajes",
+        "capturado": "2026-11-27T05:33:13-05:00"
+      },
       {
         "titulo": "Temporal severo altera vuelos en El Dorado: Aerocivil reporta limitaciones y retrasos",
         "url": "https://www.portafolio.co/economia/regiones/fuerte-tormenta-afecta-la-operacion-del-aeropuerto-el-dorado-aerocivil-anuncia-restricciones-y-demoras-507202",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "2026-11-25",
         "titulo_fuente": "JPMorgan concentró casi la mitad de las compras extranjeras de TES en octubre y amplió su apuesta por Colombia",
-        "capturado": "2026-11-25T10:54:27-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia sube hoy 25 de noviembre previo al dato de inflación estadounidense",
-        "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "El dólar en Colombia se dispara: así cotiza la divisa este 25 de noviembre a espera de la inflación en EE. UU.",
         "capturado": "2026-11-25T10:54:27-05:00"
       }
     ],
