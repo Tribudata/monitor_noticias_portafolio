@@ -1,9 +1,149 @@
 {
   "fuente": "https://www.portafolio.co/",
-  "actualizado": "2026-11-27T14:48:13-05:00",
-  "nuevos_en_esta_corrida": 31,
+  "actualizado": "2026-11-27T21:29:10-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Economía": [
+      {
+        "titulo": "Gobierno busca finiquitar pacto sobre el salario mínimo de 2027 a mediados de diciembre",
+        "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-el-gobierno-apunta-a-cerrar-acuerdo-a-mitad-de-diciembre-507288",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Salario mínimo 2027: el Gobierno apunta a cerrar acuerdo a mitad de diciembre",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Factibilidad del Tren del Caribe debe estar lista en un año, ordena el Gobierno a Mintransporte y FDN",
+        "url": "https://www.portafolio.co/economia/infraestructura/tren-del-caribe-gobierno-le-da-un-ano-a-mintransporte-y-a-la-fdn-para-tener-lista-la-factibilidad-del-proyecto-507287",
+        "resumen": "",
+        "autor": "Maria camila monsalve martinez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Tren del Caribe: Gobierno le da un año a Mintransporte y a la FDN para tener lista la factibilidad del proyecto",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Charla con el ministro de Comercio, Mauricio Gómez Amín",
+        "url": "https://www.portafolio.co/economia/gobierno/entrevista-con-el-ministro-de-comercio-mauricio-gomez-amin-507285",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Entrevista con el ministro de Comercio, Mauricio Gómez Amín",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Resultados del Congreso Nacional de la Infraestructura en Cartagena 2026",
+        "url": "https://www.portafolio.co/economia/gobierno/balance-del-congreso-nacional-de-la-infraestructura-desde-cartagena-507284",
+        "resumen": "",
+        "autor": "Redaccion portafolio",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Balance del Congreso Nacional de la Infraestructura desde Cartagena 2026",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Dane reporta caída a menos de la mitad en colombianos que devengan un salario mínimo exacto",
+        "url": "https://www.portafolio.co/economia/se-reduce-a-menos-de-la-mitad-el-numero-de-colombianos-que-reciben-exactamente-un-salario-minimo-segun-el-dane-507283",
+        "resumen": "",
+        "autor": "Leidy julieth ruiz clavijo",
+        "subseccion": "",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Se reduce a menos de la mitad el número de colombianos que reciben exactamente un salario mínimo, según el Dane",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Minvivienda y Fondo Milagro destinan 1,8 billones de pesos para levantar casas luego del sismo",
+        "url": "https://www.portafolio.co/economia/gobierno/minvivienda-y-fondo-milagro-invertiran-1-8-billones-para-reconstruir-viviendas-tras-el-terremoto-507280",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Minvivienda y Fondo Milagro invertirán $1,8 billones para reconstruir viviendas tras el terremoto",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Fedegán pide diálogo y alerta sobre costos del sectarismo político tras controversia por Iván Cepeda",
+        "url": "https://www.portafolio.co/economia/fedegan-defiende-su-independencia-tras-la-polemica-por-la-visita-de-ivan-cepeda-507276",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Fedegán advierte sobre los costos del sectarismo político y defiende el diálogo tras polémica por Iván Cepeda",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Culmina fase inicial del Bronx Distrito Creativo que pasa de ser símbolo de violencia a eje cultural",
+        "url": "https://www.portafolio.co/economia/infraestructura/de-simbolo-de-violencia-a-epicentro-cultural-culmina-la-primera-etapa-del-bronx-distrito-creativo-507273",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "De símbolo de violencia a epicentro cultural: culmina la primera etapa del Bronx Distrito Creativo",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Empresas colombianas enfrentan el reto financiero de pagar la prima de diciembre 2026 para terminar el año",
+        "url": "https://www.portafolio.co/economia/prima-de-diciembre-2026-el-reto-financiero-que-enfrentan-las-empresas-colombianas-para-cerrar-el-ano-507271",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Prima de diciembre 2026: el reto financiero que enfrentan las empresas colombianas para cerrar el año",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "¿Cómo usar la prima de diciembre para pagar deudas, ahorrar y cubrir gastos?",
+        "url": "https://www.portafolio.co/economia/finanzas/prima-de-diciembre-como-deberia-utilizar-la-prima-para-saldar-deudas-ahorros-y-gastos-507270",
+        "resumen": "",
+        "autor": "Jennifer katherine piragauta lopez",
+        "subseccion": "Finanzas",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Prima de diciembre: ¿cómo debería utilizar la prima para saldar deudas, ahorros y gastos?",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "DNP prevé invertir 288 billones de pesos en 64 obras viales para unir al país por treinta años",
+        "url": "https://www.portafolio.co/economia/infraestructura/dnp-proyecta-invertir-288-billones-en-64-proyectos-de-transporte-para-conectar-a-colombia-durante-tres-decadas-507269",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Infraestructura",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "DNP proyecta invertir $288 billones en 64 proyectos de transporte para conectar a Colombia durante tres décadas",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Icetex conservará condonaciones a deudores en 2027 y dará 15.000 créditos con nuevos beneficios",
+        "url": "https://www.portafolio.co/economia/gobierno/icetex-mantendra-condonaciones-para-deudores-en-2027-y-ofrecera-15-000-creditos-revise-los-nuevos-beneficios-507268",
+        "resumen": "",
+        "autor": "Julian andres gonzalez vargas",
+        "subseccion": "Gobierno",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Icetex mantendrá condonaciones para deudores en 2027 y ofrecerá 15.000 créditos: revise los nuevos beneficios",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Mintic advierte que ofertas del Black Friday muy atractivas podrian ser fraudes informaticos",
+        "url": "https://www.portafolio.co/economia/mintic-alerta-por-promociones-demasiado-buenas-durante-el-black-friday-pueden-ser-estafas-digitales-507267",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Mintic alerta por promociones demasiado buenas durante el 'Black Friday’, pueden ser estafas digitales",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "Centros comerciales de Bogota extienden jornada y proyectan gran asistencia para Black Friday 2026",
+        "url": "https://www.portafolio.co/economia/black-friday-2026-en-bogota-los-centros-comerciales-amplian-sus-horarios-y-esperan-una-alta-afluencia-507263",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Black Friday 2026 en Bogotá: los centros comerciales amplían sus horarios y esperan una alta afluencia",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
       {
         "titulo": "Caficultores boyacenses superan la venta exclusiva de grano: 34 hogares lanzan marca propia y derivados",
         "url": "https://www.portafolio.co/economia/agro/caficultores-de-boyaca-dejan-de-vender-solo-grano-34-familias-apuestan-por-marca-propia-y-nuevos-productos-507262",
@@ -463,149 +603,29 @@
         "publicacion": "2026-11-26",
         "titulo_fuente": "Ley de rescate: 'En la dirección correcta, pero con camino incierto'",
         "capturado": "2026-11-26T13:20:54-05:00"
-      },
-      {
-        "titulo": "Dólar colombiano transa en modalidad Next Day por festivo estadounidense y supera los $3.630",
-        "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-opera-bajo-next-day-por-festivo-de-accion-de-gracias-en-ee-uu-y-se-ubica-por-sobre-los-3-507131",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Finanzas",
-        "publicacion": "2026-11-26",
-        "titulo_fuente": "Dólar en Colombia opera bajo Next Day por festivo de acción de gracias en EE. UU. y se ubica por sobre los $3.630",
-        "capturado": "2026-11-26T13:20:54-05:00"
-      },
-      {
-        "titulo": "Por qué el Black Friday genera tanto enojo en Colombia comparado con el resto de Latinoamérica",
-        "url": "https://www.portafolio.co/economia/colombia-es-el-pais-de-latinoamerica-donde-el-black-friday-despierta-mas-ira-por-que-507115",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Colombia es el país de Latinoamérica donde el Black Friday despierta más ira: ¿por qué?",
-        "capturado": "2026-11-26T03:00:07-05:00"
-      },
-      {
-        "titulo": "Nuevos aranceles de Estados Unidos a China, Vietnam e India representan una oportunidad para Colombia",
-        "url": "https://www.portafolio.co/economia/colombia-podria-aprovechar-los-nuevos-aranceles-de-ee-uu-contra-china-vietnam-e-india-507114",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Colombia podría aprovechar los nuevos aranceles de EE. UU. contra China, Vietnam e India",
-        "capturado": "2026-11-26T03:00:07-05:00"
-      },
-      {
-        "titulo": "Sofía Vergara y Abelardo De La Espriella preparan sorpresas en Colombia: esto es lo que traman",
-        "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-anuncia-sorpresas-con-sofia-vergara-que-preparan-para-colombia-507113",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Abelardo De La Espriella anuncia sorpresas con Sofía Vergara: ¿qué preparan para Colombia?",
-        "capturado": "2026-11-26T03:00:07-05:00"
-      },
-      {
-        "titulo": "Invías destinará $69,9 billones para restaurar la malla vial del país",
-        "url": "https://www.portafolio.co/economia/infraestructura/invias-anuncia-inversion-de-69-9-billones-para-recuperar-las-vias-de-colombia-507112",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Invías anuncia inversión de $69,9 billones para recuperar las vías de Colombia",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Ahorro estatal por recorte del 50 % en servicios frente a la meta de $6 billones con IA",
-        "url": "https://www.portafolio.co/economia/gobierno/prestacion-de-servicios-cuanto-ahorra-el-estado-con-recorte-al-50-frente-a-idea-de-reducir-6-billones-con-ia-507087",
-        "resumen": "",
-        "autor": "Julian andres gonzalez vargas",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Prestación de servicios: cuánto ahorra el Estado con recorte al 50 %, frente a idea de reducir $6 billones con IA",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Productividad aportó 0,15 % al crecimiento de 2,07 % en 2026 y será clave para el salario mínimo",
-        "url": "https://www.portafolio.co/economia/productividad-aporto-solo-0-15-puntos-al-crecimiento-de-2-07-en-507111",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Productividad, dato clave en la negociación del salario mínimo, aportó solo 0,15% al crecimiento de 2,07% en 2026",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Congreso avala adición al presupuesto por $3,8 billones para Colombia Mayor y sismo",
-        "url": "https://www.portafolio.co/economia/congreso-aprueba-adicion-presupuestal-de-3-8-billones-para-reconstruccion-por-el-sismo-y-colombia-mayor-507110",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Congreso aprueba adición presupuestal de $3,8 billones para reconstrucción por el sismo y Colombia Mayor",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "CCI exige liquidez para acabar obras y advierte que la falta de caja quiebra empresas",
-        "url": "https://www.portafolio.co/economia/infraestructura/las-empresas-se-quiebran-por-falta-de-caja-la-cci-pone-la-liquidez-del-sector-como-condicion-para-terminar-obras-507078",
-        "resumen": "",
-        "autor": "Maria camila monsalve martinez",
-        "subseccion": "Infraestructura",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "'Las empresas se quiebran por falta de caja': la CCI pone la liquidez del sector como condición para terminar obras",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Cálculo y fecha límite de pago de la prima navideña para trabajadoras domésticas",
-        "url": "https://www.portafolio.co/economia/prima-de-navidad-para-empleadas-domesticas-como-calcularla-y-desde-cuando-le-deben-pagar-507107",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Prima de Navidad para empleadas domésticas: ¿Cómo calcularla y desde cuándo le deben pagar?",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Gobernación del Magdalena busca mayor articulación con el sector privado para impulsar proyectos",
-        "url": "https://www.portafolio.co/economia/regiones/gobernacion-del-magdalena-busca-mayor-articulacion-con-el-sector-privado-para-impulsar-proyectos-507099",
-        "resumen": "",
-        "autor": "Jennifer katherine piragauta lopez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Gobernación del Magdalena busca mayor articulación con el sector privado para impulsar proyectos",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Transacciones inmediatas en Colombia aumentan 60% en volumen durante fechas de pago",
-        "url": "https://www.portafolio.co/economia/pagos-inmediatos-en-colombia-mueven-60-mas-dinero-en-los-dias-de-quincena-507102",
-        "resumen": "",
-        "autor": "Nazly carolina morales herrera",
-        "subseccion": "",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Pagos inmediatos en Colombia mueven 60% más dinero en los días de quincena",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Gobierno propone miniconcesiones viales de tres a cinco años para tramos devueltos",
-        "url": "https://www.portafolio.co/economia/gobierno/gobierno-plantea-miniconcesiones-de-tres-a-cinco-anos-para-recuperar-las-vias-que-fueron-devueltas-al-estado-507095",
-        "resumen": "",
-        "autor": "Juan martin murillo herrera",
-        "subseccion": "Gobierno",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Gobierno plantea crear 'miniconcesiones' de tres a cinco años para recuperar vías que fueron devueltas al Estado",
-        "capturado": "2026-11-25T18:59:26-05:00"
-      },
-      {
-        "titulo": "Bogotá habilita mil puestos de trabajo femeninos para disminuir brechas de género locales",
-        "url": "https://www.portafolio.co/economia/regiones/el-distrito-abre-1-000-empleos-para-mujeres-buscando-reducir-brechas-de-genero-en-la-capita-507089",
-        "resumen": "",
-        "autor": "Brayan franzua silva hernandez",
-        "subseccion": "Regiones",
-        "publicacion": "2026-11-25",
-        "titulo_fuente": "Bogotá abre 1.000 empleos para mujeres buscando reducir brechas de género en la capital del país",
-        "capturado": "2026-11-25T18:59:26-05:00"
       }
     ],
     "Negocios": [
+      {
+        "titulo": "En diciembre Colombia sellaría pacto comercial con EE. UU. para aumentar ventas externas sin arancel",
+        "url": "https://www.portafolio.co/negocios/comercio/colombia-firmaria-en-diciembre-un-acuerdo-comercial-con-ee-uu-para-ampliar-las-exportaciones-con-arancel-cero-507278",
+        "resumen": "",
+        "autor": "Juan martin murillo herrera",
+        "subseccion": "Comercio",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Colombia firmaría en diciembre un acuerdo comercial con EE. UU. para ampliar las exportaciones con arancel cero",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
+      {
+        "titulo": "La expansión de Smart Fit en Colombia continúa con su enfoque en ciudades medianas",
+        "url": "https://www.portafolio.co/negocios/empresas/smart-fit-sigue-creciendo-en-colombia-asi-avanza-su-expansion-y-su-apuesta-por-los-municipios-intermedios-507275",
+        "resumen": "",
+        "autor": "Nazly carolina morales herrera",
+        "subseccion": "Empresas",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "Smart Fit sigue creciendo en Colombia: así avanza su expansión y su apuesta por los municipios intermedios",
+        "capturado": "2026-11-27T21:29:10-05:00"
+      },
       {
         "titulo": "Paulo Daniel Acero Rodríguez toma las riendas del Colegio Colombiano de Psicólogos Colpsic",
         "url": "https://www.portafolio.co/negocios/empresas/paulo-daniel-acero-rodriguez-asume-la-presidencia-del-colegio-colombiano-de-psicologos-colpsic-507258",
@@ -1184,26 +1204,6 @@
         "subseccion": "Empresas",
         "publicacion": "2026-11-24",
         "titulo_fuente": "IVA del 19 % a las boletas de cine pondría en riesgo 5.800 empleos en Colombia",
-        "capturado": "2026-11-24T17:40:19-05:00"
-      },
-      {
-        "titulo": "El e-commerce llega al 70% de los hogares colombianos en adquisiciones de abarrotes",
-        "url": "https://www.portafolio.co/negocios/comercio/el-comercio-electronico-alcanza-al-70-de-los-hogares-de-colombia-para-las-compras-de-mercado-506990",
-        "resumen": "",
-        "autor": "Constanza gomez guasca",
-        "subseccion": "Comercio",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "El comercio electrónico alcanza al 70% de los hogares de Colombia para las compras de mercado",
-        "capturado": "2026-11-24T17:40:19-05:00"
-      },
-      {
-        "titulo": "Persiste la incertidumbre en el Éxito cartagenero por bloqueo a compradores y personal en atraco",
-        "url": "https://www.portafolio.co/negocios/empresas/zozobra-en-almacen-exito-de-cartagena-por-presunta-retencion-de-clientes-y-trabajadores-durante-asalto-armado-506991",
-        "resumen": "",
-        "autor": "Javier acosta",
-        "subseccion": "Empresas",
-        "publicacion": "2026-11-24",
-        "titulo_fuente": "Sigue la zozobra en almacén Éxito de Cartagena por retención de clientes y trabajadores durante asalto armado",
         "capturado": "2026-11-24T17:40:19-05:00"
       }
     ]
